@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; swift</title>
+	<atom:link href="http://www.manton.org/tag/swift/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>I think it&#8217;s a bust</title>
+		<link>http://www.manton.org/2015/07/i-think-its-a-bust.html</link>
+		<comments>http://www.manton.org/2015/07/i-think-its-a-bust.html#comments</comments>
+		<pubDate>Wed, 22 Jul 2015 15:13:57 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[football]]></category>
+		<category><![CDATA[objc]]></category>
+		<category><![CDATA[swift]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2877</guid>
+		<description><![CDATA[The movie Draft Day doesn’t really have any business being good, but somehow it is anyway. I don’t even like football that much — who has time for it when there’s basketball? — but I’ve now seen this movie several times and love it. The movie actually gets better instead of worse on multiple viewings. It also has [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The movie <a href="http://www.imdb.com/title/tt2223990/">Draft Day</a> doesn’t really have any business being good, but somehow it is anyway. I don’t even like football that much — who has time for it when there’s basketball? — but I’ve now seen this movie several times and love it. The movie actually gets better instead of worse on multiple viewings.</p>
+<p>It also has a number of memorable lines. One of them is this, said by Kevin Costner’s character about the college football star who everyone thinks is the next greatest thing: “I think he’s a bust.” Five simple words that undo all momentum.</p>
+<p>And unfortunately that’s still how I feel about Swift. I’m following <a href="http://inessential.com/2015/07/19/secret_projects_diary_3_decision_to_ma">Brent’s blog posts about learning Swift</a> and I’m trying to come to terms with whether to adopt the language, and I finally got it. I already have a capable quarterback in Objective-C, and I’m not ready to rebuild my roster yet, risking everything on a young language with so much promise but less real-world success.</p>
+<p>No matter <a href="https://twitter.com/jakemarsh/status/623569038069878784">how much Swift has improved</a>, no matter how much everyone fawns over it, I still can’t shake the feeling that it’s a hype that <em>someone else’s</em> team needs. For me, it won&#8217;t end up solving the problems I have when building apps. For me, it’s a bust.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/07/i-think-its-a-bust.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Clever code and WWDC</title>
+		<link>http://www.manton.org/2015/06/clever-code-and-wwdc.html</link>
+		<comments>http://www.manton.org/2015/06/clever-code-and-wwdc.html#comments</comments>
+		<pubDate>Thu, 11 Jun 2015 00:22:50 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[clever]]></category>
+		<category><![CDATA[crashes]]></category>
+		<category><![CDATA[swift]]></category>
+		<category><![CDATA[wwdc]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2694</guid>
+		<description><![CDATA[In his 9th essay about avoiding crashes in your code, Brent Simmons writes about learning to be even less clever: &#8220;But over the years I’ve come to think that I should write code that’s about 10% as clever as I am. And I’ve come to believe that true cleverness is in making code so clear [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>In his <a href="http://inessential.com/2015/06/10/how_not_to_crash_9_mindset">9th essay about avoiding crashes in your code</a>, Brent Simmons writes about learning to be even less clever:</p>
+<blockquote><p>
+  &#8220;But over the years I’ve come to think that I should write code that’s about 10% as clever as I am. And I’ve come to believe that true cleverness is in making code so clear and obvious that it looks like nothing at all.&#8221;
+</p></blockquote>
+<p>I&#8217;m in San Francisco for WWDC this week, but without a ticket again. I took some time this afternoon — miles away from the hotel and Moscone — to reflect on what I&#8217;m doing here and what I need to do next. I&#8217;ve been to WWDC many times; my first was in 1996. And it has taken almost all of those years for me to understand the truth of Brent&#8217;s statement about being clever.</p>
+<p>I also believe that a programming language can either encourage or discourage clever code based on the syntax it allows. I saw it with Ruby — programmers intent on fitting as much logic into a single line of code as possible. I think I see it with Swift as well, in operator overloading and maybe even a kind of rejection of Objective-C&#8217;s notorious verbosity. We&#8217;ll know for sure if we eventually see a Swift book in the pattern of <a href="http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742">JavaScript: The Good Parts</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/06/clever-code-and-wwdc.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Core Int 180 and Slack</title>
+		<link>http://www.manton.org/2015/04/core-int-180-and-slack.html</link>
+		<comments>http://www.manton.org/2015/04/core-int-180-and-slack.html#comments</comments>
+		<pubDate>Sun, 19 Apr 2015 03:04:11 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[slack]]></category>
+		<category><![CDATA[swift]]></category>
+		<category><![CDATA[wwdc]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2579</guid>
+		<description><![CDATA[We posted this week&#8217;s Core Intuition late last night. This episode is all about WWDC tickets, our plan for San Francisco, and when we&#8217;re going to adopt Swift. We&#8217;re also trying something new for listeners, or anyone who wants to talk about programming, WWDC, and other Mac and iOS topics. You can get an automatic [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We posted <a href="http://coreint.org/180">this week&#8217;s Core Intuition</a> late last night. This episode is all about WWDC tickets, our plan for San Francisco, and when we&#8217;re going to adopt Swift.</p>
+<p>We&#8217;re also trying something new for listeners, or anyone who wants to talk about programming, WWDC, and other Mac and iOS topics. You can get an automatic invite to our Slack channels for the show by visiting <a href="http://chat.coreint.org/">chat.coreint.org</a>. Feel free to join in! I&#8217;ve been impressed with how well Slack works for this, and the great discussion that&#8217;s already happening there.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/04/core-int-180-and-slack.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Swift or Android</title>
+		<link>http://www.manton.org/2015/01/swift-or-android.html</link>
+		<comments>http://www.manton.org/2015/01/swift-or-android.html#comments</comments>
+		<pubDate>Fri, 30 Jan 2015 16:45:44 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[android]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[swift]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2443</guid>
+		<description><![CDATA[I was nodding my head while listening to the latest Developing Perspective yesterday. David Smith talked about all the work to update his apps for iOS 8, starting on Apple Watch apps, and so taking the pragmatic approach to keep using Objective-C rather than dive into Swift. Then I read this by Russell Ivanovic on [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I was nodding my head while listening to <a href="http://developingperspective.com/2015/01/23/209/">the latest Developing Perspective</a> yesterday. David Smith talked about all the work to update his apps for iOS 8, starting on Apple Watch apps, and so taking the pragmatic approach to keep using Objective-C rather than dive into Swift.</p>
+<p>Then I read <a href="http://rustyshelf.org/2015/01/30/getting-started-with-android-development/">this by Russell Ivanovic on getting started with Android</a> development:</p>
+<blockquote><p>
+  &#8220;It’s really not that hard to get started, but you have to be realistic. If you want to get somewhere, you’re going to have to invest some time. If you want to build a viable business on Android like we have, that might end up being a lot of time. I really feel like 2015 might be the only window you’re going to get though, before Google Play becomes as hard to succeed in as the iOS App Store.&#8221;
+</p></blockquote>
+<p>And I thought, getting up to speed with Swift is probably not <em>that</em> different than learning Android. I&#8217;ve programmed Java before, but don&#8217;t know the UI frameworks; I know the Cocoa frameworks, but have never programmed anything significant in Swift. Both would require setting aside current priorities and investing some time in a new language or new tools.</p>
+<p>If I had to build an app in either as quickly as possible, choosing Swift would certainly be faster. I&#8217;m just not sure it would actually be a better use of my time than poking around in Android.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/01/swift-or-android.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.801 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:25:37 -->

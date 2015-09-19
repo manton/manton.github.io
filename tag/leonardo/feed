@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; leonardo</title>
+	<atom:link href="http://www.manton.org/tag/leonardo/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Leonardo tips</title>
+		<link>http://www.manton.org/2009/01/leonardo_tips.html</link>
+		<comments>http://www.manton.org/2009/01/leonardo_tips.html#comments</comments>
+		<pubDate>Mon, 12 Jan 2009 16:42:03 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Animation]]></category>
+		<category><![CDATA[2d]]></category>
+		<category><![CDATA[capobianco]]></category>
+		<category><![CDATA[leonardo]]></category>
+		<category><![CDATA[pixar]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2009/01/leonardo_tips.html</guid>
+		<description><![CDATA[Every year my New Year&#8217;s resolutions look about the same: draw more, journal more. (Blogging more is never one of my resolutions, but I&#8217;m nevertheless off to a good start this year with a goal of about one new post a day.) This year I knew I needed some inspiration to keep drawing more. I [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img src="http://www.manton.org/images/2009/leonardo_calendar.png" alt="Leonardo calendar" border="0" width="171" height="258" align="right" vspace="5" hspace="10" style="border: 1px solid gray;" /> Every year my New Year&#8217;s resolutions look about the same: draw more, journal more. (Blogging more is never one of my resolutions, but I&#8217;m nevertheless off to a good start this year with a goal of about one new post a day.)</p>
+<p>This year I knew I needed some inspiration to keep drawing more. I ordered a calendar of drawings from the in-progress short film Leonardo and pinned it to the wall above my desk. My idea was pretty simple: every day I will see this calendar, and I will mark off the days that I actually draw.</p>
+<p>The calendar is still blank. Guess I&#8217;ve failed, so far.</p>
+<p>In better news, animator Jim Capobianco is nearing completion of the film. He&#8217;s been posting some &#8220;excellent tips on his blog&#8221;:http://leoanimation.blogspot.com/2009_01_01_archive.html about what he&#8217;s learned during production. I saw a rough cut of his film at the 2D Expo. Even in storyboard form you could tell it would be great. I blogged briefly &#8220;about the trip to California&#8221;:http://www.manton.org/2004/07/california_adventure.html for the expo and WWDC back in 2004.</p>
+<p>His day job is at Pixar, where he&#8217;s been responsible for other hand-drawn efforts such as Your Friend the Rat (on the Ratatouille DVD) and the WALL-E closing credits.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2009/01/leonardo_tips.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Da Vinci book, companion, and short film</title>
+		<link>http://www.manton.org/2006/10/da_vinci_book.html</link>
+		<comments>http://www.manton.org/2006/10/da_vinci_book.html#comments</comments>
+		<pubDate>Thu, 12 Oct 2006 02:47:43 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[animation]]></category>
+		<category><![CDATA[cryptography]]></category>
+		<category><![CDATA[davinci]]></category>
+		<category><![CDATA[leonardo]]></category>
+		<category><![CDATA[rss]]></category>
+		<category><![CDATA[sse]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2006/10/da_vinci_book.html</guid>
+		<description><![CDATA[The Da Vinci Code appealed to me and many others because it successfully mixes pieces of both art history and code breaking. The book captures in fiction the same fascination I had first cracking open Applied Cryptography. A few months ago &#8220;Damon&#8221;:http://www.damonclinkscales.com/ completed a &#8220;companion to the book and film&#8221;:http://www.davincicc.com/, containing images and links to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The Da Vinci Code appealed to me and many others because it successfully mixes pieces of both art history and code breaking. The book captures in fiction the same fascination I had first cracking open Applied Cryptography.</p>
+<p>A few months ago &#8220;Damon&#8221;:http://www.damonclinkscales.com/ completed a &#8220;companion to the book and film&#8221;:http://www.davincicc.com/, containing images and links to concepts organized by chapter. It uses the VitalBook digital book format, and is viewable in the software I helped write, &#8220;VitalSource Bookshelf&#8221;:http://www.vitalsource.com/. I&#8217;m working on some fun new stuff for Bookshelf at the moment that uses web services and &#8220;SSE&#8221;:http://msdn.microsoft.com/xml/rss/sse/, something I hope to post more about in the future.</p>
+<p>In other Da Vinci news, story artist and animator Jim Capobianco has completed animation on his short film &#8220;Leonardo&#8221;:http://leoanimation.blogspot.com/. I saw a preview of this at &#8220;2d Expo two years ago&#8221;:http://www.manton.org/2004/07/california_adventure.html, and I can&#8217;t wait to see the finished product. Even in storyboards and rough pencil animation it was great.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2006/10/da_vinci_book.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.715 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:28:00 -->

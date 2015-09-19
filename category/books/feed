@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; Books</title>
+	<atom:link href="http://www.manton.org/category/books/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>The Focus Course</title>
+		<link>http://www.manton.org/2015/06/the-focus-course.html</link>
+		<comments>http://www.manton.org/2015/06/the-focus-course.html#comments</comments>
+		<pubDate>Wed, 24 Jun 2015 00:17:50 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[business]]></category>
+		<category><![CDATA[course]]></category>
+		<category><![CDATA[pdfs]]></category>
+		<category><![CDATA[productivity]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2773</guid>
+		<description><![CDATA[Today, Shawn Blanc launched The Focus Course. Originally conceived as a book on productivity, it expanded during his research and writing to include 18 videos, PDF workbooks, and a discussion forum, wrapped together with 75,000 words in a 40-day course package: “The Focus Course is for anyone who wants to increase productivity, personal integrity, morale, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Today, Shawn Blanc <a href="http://shawnblanc.net/2015/06/the-focus-course-is-now-available/">launched The Focus Course</a>. Originally conceived as a book on productivity, it expanded during his research and writing to include 18 videos, PDF workbooks, and a discussion forum, wrapped together with 75,000 words in a 40-day course package:</p>
+<blockquote><p>
+  “The Focus Course is for anyone who wants to increase productivity, personal integrity, morale, and overall quality of life. What sets the course apart is that it guides you in the implementation of these principles so that these topics go beyond mere head knowledge and into experiential knowledge.”
+</p></blockquote>
+<p>I love the scope of this. It sounds like he put everything into it.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/06/the-focus-course.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Future Library</title>
+		<link>http://www.manton.org/2014/09/the-future-library.html</link>
+		<comments>http://www.manton.org/2014/09/the-future-library.html#comments</comments>
+		<pubDate>Sat, 06 Sep 2014 14:37:24 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[books]]></category>
+		<category><![CDATA[forest]]></category>
+		<category><![CDATA[hosting]]></category>
+		<category><![CDATA[library]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2237.html</guid>
+		<description><![CDATA[The Future Library project will collect writing to be locked away and published for the first time in 100 years: &#8220;Each year, the Future Library trust, made up of literary experts – and Paterson, while she&#8217;s alive – will name another &#8216;outstanding&#8217; writer who will be contributing to the artwork. The trust is also responsible [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.theguardian.com/books/2014/sep/05/margaret-atwood-new-work-unseen-century-future-library">The Future Library project</a> will collect writing to be locked away and published for the first time in 100 years:</p>
+<blockquote><p>
+  &#8220;Each year, the Future Library trust, made up of literary experts – and Paterson, while she&#8217;s alive – will name another &#8216;outstanding&#8217; writer who will be contributing to the artwork. The trust is also responsible for the maintenance of the forest, and for ensuring the books are printed in a century&#8217;s time. A printing press will be placed in the library to make sure those in charge in 2114 have the capability of printing books on paper.&#8221;
+</p></blockquote>
+<p>Love this idea. Although for a different goal, I think we need a similar set of trusts to maintain electronic publishing. Domain names and hosting are much more fragile than the paper Margaret Atwood will print her story on for this project.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/09/the-future-library.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The new Day One</title>
+		<link>http://www.manton.org/2012/08/the_new_day.html</link>
+		<comments>http://www.manton.org/2012/08/the_new_day.html#comments</comments>
+		<pubDate>Sat, 04 Aug 2012 06:41:06 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[dayone]]></category>
+		<category><![CDATA[journals]]></category>
+		<category><![CDATA[photos]]></category>
+		<category><![CDATA[writing]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2012/08/the_new_day.html</guid>
+		<description><![CDATA[Shawn Blanc reviews the latest version of Day One, which now supports photos: “Over the years, most of the major, monumental milestones of life were documented in my Moleskine. But not all. And that’s why I’m glad to have an app that let’s me easily and joyfully add a snapshot or a quick note about [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://shawnblanc.net/2012/08/day-one-review/">Shawn Blanc reviews the latest version of Day One</a>, which now supports photos:</p>
+<blockquote><p>
+  “Over the years, most of the major, monumental milestones of life were documented in my Moleskine. But not all. And that’s why I’m glad to have an app that let’s me easily and joyfully add a snapshot or a quick note about an important or memorable event. These are the things my family and I will look back on 20 and 30 years from now with great fondness.”
+</p></blockquote>
+<p>While <a href="http://www.manton.org/2012/07/journals.html">I keep the important stuff in my journals</a>, I also use a protected Twitter account for the everyday notes and photos while away from the house. It has no followers; it&#8217;s just to have a date-stamped entry with a photo that&#8217;s easy to sync. Now that I&#8217;ve read how people are using Day One for this, I&#8217;m going to switch away from my private Twitter account to use Day One on the iPhone instead.</p>
+<p>I like having one place for this kind of stuff. If the same type of content is scattered across multiple services, it makes it less likely that everything will be together in the future when I finally want it.</p>
+<p>Especially interesting to me from Shawn&#8217;s review is that he also keeps a hand-written journal, even after using Day One for a similar purpose. I&#8217;ll keep using real-world pen and paper too, and everything I write there I will also transcribe into Day One. But I&#8217;ll write new things in Day One that will stay exclusively digital.</p>
+<p>Federico Viticci <a href="http://www.macstories.net/reviews/review-the-new-day-one/">also has a great review</a>. He starts with the big picture, the why of writing it all down:</p>
+<blockquote><p>
+  “I don’t even know if I’ll be around in twenty years. But I do know that I want to do everything I can to make sure I can get there with my own memories. We are what we know. And I want to remember.”
+</p></blockquote>
+<p>I think the best writers know that it matters what their work looks like in a decade, or two decades, whether the writing is private or public. You can see it in everything from permanent URLs to blog topics to what software they use — a conscious effort to create content that lasts.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2012/08/the_new_day.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Journals</title>
+		<link>http://www.manton.org/2012/07/journals.html</link>
+		<comments>http://www.manton.org/2012/07/journals.html#comments</comments>
+		<pubDate>Fri, 27 Jul 2012 17:58:48 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[books]]></category>
+		<category><![CDATA[journals]]></category>
+		<category><![CDATA[kids]]></category>
+		<category><![CDATA[life]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2012/07/journals.html</guid>
+		<description><![CDATA[Steve Corona on keeping a journal: “And for the past 1091 days, I’ve been journaling every single day — that’s about 3 years or 12% of my entire life. My only regret? I wish I started sooner.” When I was younger, I had tried off and on to keep a sketchbook or journal, but it [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Steve Corona <a href="http://stevecorona.com/on-keeping-a-journal">on keeping a journal</a>:</p>
+<blockquote><p>
+  “And for the past 1091 days, I’ve been journaling every single day — that’s about 3 years or 12% of my entire life. My only regret? I wish I started sooner.”
+</p></blockquote>
+<p>When I was younger, I had tried off and on to keep a sketchbook or journal, but it never quite stuck. Like blogging, or writing, or drawing, or anything you aren&#8217;t paid to do, it takes setting a routine. There&#8217;s always something more important to do.</p>
+<p><a href="http://instagr.am/p/Kf0zpaCbwH/"><img src="http://distilleryimage7.s3.amazonaws.com/5931b2b29b9b11e1abb012313813106f_7.jpg" width="150" height="150" align="right" style="border: 1px solid darkgray; margin: 8px;" alt="journals" /></a> Then in 1998, I started a journal again with a renewed commitment. I filled a book from that day up until I got married. Then another book through when my daughters were born. Another for the first 10 years of their life, and my son&#8217;s. The travel, the big life moments, the election, the work. It&#8217;s not everything — sometimes the entries are every day and sometimes months go by with nothing — but it&#8217;s the stuff that matters, and the snapshots in time of little everyday things too.</p>
+<p>I would be devastated to lose these books. Open the pages and it rolls back the years like a time machine, to a previous life full of small details that are priceless today. I&#8217;m writing the books half for my terrible fading memory, and half for my children, who will only care what these years have been like when it&#8217;s too late to ask me.</p>
+<p>So I&#8217;ve recently started transcribing the handwritten entries into digital form. One page at a time, into <a href="http://dayoneapp.com/">Day One</a>, then exported as plain text. It&#8217;s a long and tedious process, but multiple copies are the only sure way to make something last.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2012/07/journals.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Permanence</title>
+		<link>http://www.manton.org/2012/07/permanence.html</link>
+		<comments>http://www.manton.org/2012/07/permanence.html#comments</comments>
+		<pubDate>Fri, 20 Jul 2012 19:31:02 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[books]]></category>
+		<category><![CDATA[europe]]></category>
+		<category><![CDATA[internet]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2012/07/permanence.html</guid>
+		<description><![CDATA[Nothing lasts on the internet. I could write on my weblog for years and the next day get hit by a bus. The domain expires, the posts are lost, and it doesn&#8217;t matter if I had 10 readers or 10,000; it&#8217;s as if it never happened. I love real books. I keep flirting with attempts [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Nothing lasts on the internet. I could write on my weblog for years and the next day get hit by a bus. The domain expires, the posts are lost, and it doesn&#8217;t matter if I had 10 readers or 10,000; it&#8217;s as if it never happened.</p>
+<p>I love real books. I keep flirting with attempts to catalog our bookshelves over the years. My daughter offered to help once, excited through the first hundred books before she realized the rest would take all day and lost interest.</p>
+<p>Some people say “good riddance” to the cheap printed book, but I don&#8217;t agree. Recently in our house I found a paperback of an old favorite, <a href="http://www.amazon.com/Tigana-Guy-Gavriel-Kay/dp/0451457765">Tigana</a>, which I had bought while traveling in Europe. Inside the cover I had written “Oxford, 1999”. I flipped through the pages and out fell a wine label that I hadn&#8217;t seen in 13 years. It was from a bottle of wine my wife and I had in Greece, sitting on the sand of an island beach the night I proposed.</p>
+<p>I had kept it back then because I knew years later it would matter — a memory fused into a piece of paper, waiting. That trip was a story told in events like that one, in personal journals, and through email to family. The digital parts of the story didn&#8217;t last; <a href="http://www.manton.org/2002/07/yahoo_mail.html">the email is gone</a>.</p>
+<p>Write on Twitter and it vanishes from the internet after 3200 more such posts, unlinked and unfindable. But write the same on a scrap of paper tucked into a book and it will be rediscovered again years later.</p>
+<p>A self-published novel in PDF on your web site is a ticking time bomb, waiting for your hosting bill to go unpaid. But print 10 copies and give it to 10 friends and it lasts forever.</p>
+<p>The only way to preserve something is to make multiple copies and distribute them. The problem with digital is that it makes it just as easy to accidentally delete or lose copies as it is to create them. Evolving file formats and storage devices require constant supervision and maintenance, pushing files up each technology bump from floppies to CDs to Zip disks to DVDs to hard drives. It never ends.</p>
+<p>We need to solve this. It&#8217;s something <a href="http://scripting.com/stories/2011/01/10/nytOnFuturesafeArchives.html">Dave Winer has written about</a>. It&#8217;s something anyone with a large collection of writing online probably thinks about. How do we preserve the culture and art and stories of our time when the preferred media is so fragile?</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2012/07/permanence.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Bookshelf Touch</title>
+		<link>http://www.manton.org/2010/09/bookshelf_touch.html</link>
+		<comments>http://www.manton.org/2010/09/bookshelf_touch.html#comments</comments>
+		<pubDate>Wed, 22 Sep 2010 04:38:09 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[bookshelf]]></category>
+		<category><![CDATA[ebooks]]></category>
+		<category><![CDATA[textbooks]]></category>
+		<category><![CDATA[vitalsource]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2010/09/bookshelf_touch.html</guid>
+		<description><![CDATA[Although I had worked a little on iOS apps before, updating an existing app for the iPad and tinkering with unfinished apps, the first 1.0 for iOS that I played a significant role in just shipped last week: a &#8220;mobile version of Bookshelf&#8221;:http://itunes.apple.com/us/app/vitalsource-bookshelf/id389359495?mt=8 for VitalSource. The iPhone version has been in development off and on [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img src="http://www.manton.org/images/2010/bookshelf_touch.png" alt="Bookshelf screenshot" title="bookshelf_touch.png" border="0" width="200" height="300" style="float:right;" hspace="10" /> Although I had worked a little on iOS apps before, updating an existing app for the iPad and tinkering with unfinished apps, the first 1.0 for iOS that I played a significant role in just shipped last week: a &#8220;mobile version of Bookshelf&#8221;:http://itunes.apple.com/us/app/vitalsource-bookshelf/id389359495?mt=8 for VitalSource. The iPhone version has been in development off and on for a while, but I took over the project fairly late in development, with a coding frenzy through the summer as we switched file formats and scrambled to finish in time for fall students.</p>
+<p>Today the app broke into the App Store&#8217;s top 25 for free Education apps.</p>
+<p>It&#8217;s designed for existing VitalSource customers, supporting both our file formats (for XML-based reflowable content or PDF-like fixed layout), with synced highlights, figure search, and offline access. At its core the app is 3 parts: a large C++ codebase, brand new Objective-C UI code, and a bunch of clever WebKit and JavaScript work. In many ways it&#8217;s a more difficult project than my other iPad app (still in development), but some great coders contributed to different parts of the architecture, before and after I joined the project.</p>
+<p>Nearly 10 years ago, when I was hired at VitalSource to build the Mac version of our e-book reader, we delivered textbooks on DVD-ROMs and our technology was years ahead of everyone else. Today, and especially post-iPad, the market is a lot different, with some beautiful competition like &#8220;Inkling&#8221;:http://itunes.apple.com/us/app/inkling/id379351586?mt=8. Bookshelf for iPhone wasn&#8217;t first to the App Store, but it inherits an existing user base, strong platform, and large book inventory. I like VitalSource&#8217;s chances.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2010/09/bookshelf_touch.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Linchpin</title>
+		<link>http://www.manton.org/2010/09/linchpin.html</link>
+		<comments>http://www.manton.org/2010/09/linchpin.html#comments</comments>
+		<pubDate>Tue, 14 Sep 2010 17:18:24 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[books]]></category>
+		<category><![CDATA[sethgodin]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2010/09/linchpin.html</guid>
+		<description><![CDATA[I like &#8220;Seth Godin&#8221;:http://sethgodin.typepad.com/. I haven&#8217;t read all his books, but I really enjoyed &#8220;The Dip&#8221;:http://www.amazon.com/gp/product/1591841666?ie=UTF8&#38;tag=mantonorg&#38;linkCode=as2&#38;camp=1789&#38;creative=390957&#38;creativeASIN=1591841666 and &#8220;Tribes&#8221;:http://www.amazon.com/gp/product/1591842336?ie=UTF8&#38;tag=mantonorg&#38;linkCode=as2&#38;camp=1789&#38;creative=390957&#38;creativeASIN=1591842336. They were quick reads (I got the first on audio, the other in print). He seemed to crack the problem of getting a business book down to its core idea and not using any more pages than [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I like &#8220;Seth Godin&#8221;:http://sethgodin.typepad.com/. I haven&#8217;t read all his books, but I really enjoyed &#8220;The Dip&#8221;:http://www.amazon.com/gp/product/1591841666?ie=UTF8&amp;tag=mantonorg&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1591841666 and &#8220;Tribes&#8221;:http://www.amazon.com/gp/product/1591842336?ie=UTF8&amp;tag=mantonorg&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1591842336. They were quick reads (I got the first on audio, the other in print). He seemed to crack the problem of getting a business book down to its core idea and not using any more pages than needed.</p>
+<p>So it surprised me when I picked up his latest, &#8220;Linchpin&#8221;:http://www.amazon.com/gp/product/1591843162?ie=UTF8&amp;tag=mantonorg&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1591843162, and months later I&#8217;m still not even halfway through. There&#8217;s nothing wrong with the content; I like what I&#8217;ve read so far. But it doesn&#8217;t flow the same way his other writing does, and at twice as long it doesn&#8217;t have the same structure.</p>
+<p>Finally I realized I was doing it wrong. The best way to approach Linchpin is non-sequentially. Now I just jump to any random page, read a few profiles for the people and companies he uses as examples, and then 5 minutes later put it down again. I get just as much out of the book, but without the guilt of staring at the remainder of unfinished pages.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2010/09/linchpin.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Trade-Off</title>
+		<link>http://www.manton.org/2010/03/tradeoff.html</link>
+		<comments>http://www.manton.org/2010/03/tradeoff.html#comments</comments>
+		<pubDate>Fri, 26 Mar 2010 13:48:51 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[fidelity]]></category>
+		<category><![CDATA[quality]]></category>
+		<category><![CDATA[tradeoff]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2010/03/tradeoff.html</guid>
+		<description><![CDATA[I&#8217;m of two minds about &#8220;Trade-Off&#8221;:http://bit.ly/beDE2m by Kevin Maney. I picked up the book mostly on the strength of its tagline: Why Some Things Catch On, and Others Don&#8217;t. The Ever-Present Tension Between Quality and Convenience. Pretty good, right? The premise is great &#8212; that you have to choose when building a business whether to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;m of two minds about &#8220;Trade-Off&#8221;:http://bit.ly/beDE2m by Kevin Maney. I picked up the book mostly on the strength of its tagline: <em>Why Some Things Catch On, and Others Don&#8217;t. The Ever-Present Tension Between Quality and Convenience.</em> Pretty good, right?</p>
+<p>The premise is great &mdash; that you have to choose when building a business whether to have an expensive, high fidelity product or a less expensive, more accessible product. Trying to do both usually leads to failure. It&#8217;s like when I see an application marketed as &#8220;easy to use, yet powerful!&#8221; That&#8217;s often a red flag that it is neither.</p>
+<p>My issue with the book is that, like most business books, it simply drags on too long. What should have taken a couple days to read turned into months of slogging through a few pages at a time. There are some great stories in the 200 pages, but the idea behind the book, which is captured on the cover of the book itself, gets repeated over and over. It&#8217;s almost like Maney copied and pasted some of the key points and scattered them throughout the book as filler.</p>
+<p>37signals said that in the final draft of &#8220;Rework&#8221;:http://37signals.com/rework/ they cut the page count nearly in half, and I think some deeper edits in Trade-Off would have helped too. Take the first 20 pages to explain the idea, and then another 80 pages of case study chapters with anecdotes, stories, and interviews. Done.</p>
+<p>Complaints about the size and structure of the book aside, though, I got a lot out of Trade-Off. While Maney often strains to fit the book&#8217;s core on top of successful or failed businesses that are too complicated to be applicable (I didn&#8217;t appreciate the Newton-bashing), he makes some great points that helped me put my own app &#8220;Clipstart&#8221;:http://www.riverfold.com/software/clipstart/ in perspective, and will likely change how I market and build new features for it.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2010/03/tradeoff.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>More on Kindle</title>
+		<link>http://www.manton.org/2008/01/more_on_kindle.html</link>
+		<comments>http://www.manton.org/2008/01/more_on_kindle.html#comments</comments>
+		<pubDate>Fri, 11 Jan 2008 13:20:15 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[amazon]]></category>
+		<category><![CDATA[dan]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[kindle]]></category>
+		<category><![CDATA[willie]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2008/01/more_on_kindle.html</guid>
+		<description><![CDATA[I received a lot of feedback after &#8220;I first wrote about the Kindle&#8221;:http://www.manton.org/2007/11/kindle.html, so here&#8217;s an update. I admit I&#8217;m still trying to understand the device; it has not immediately fallen into a spot in my routine the way the iPod and iPhone did. &#8220;Dan Benjamin&#8221;:http://www.hivelogic.com/ pointed out that it&#8217;s wrong to compare the Kindle [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I received a lot of feedback after &#8220;I first wrote about the Kindle&#8221;:http://www.manton.org/2007/11/kindle.html, so here&#8217;s an update. I admit I&#8217;m still trying to understand the device; it has not immediately fallen into a spot in my routine the way the iPod and iPhone did.</p>
+<p>&#8220;Dan Benjamin&#8221;:http://www.hivelogic.com/ pointed out that it&#8217;s wrong to compare the Kindle and iPhone because they are two completely separate kinds of devices, and that&#8217;s true. But the fact remains that Amazon could have partnered with AT&amp;T and required a monthly fee for connectivity. Instead they chose to eat that cost to provide a seamless user experience.</p>
+<p>&#8220;Willie Abrams&#8221;:http://willie.tumblr.com/ bought a Kindle and then returned it, unhappy with both the contrast on the device and the slow page turns. As I pointed out in my original post, the page turns are annoying, but they won&#8217;t ruin the device for most people.</p>
+<p>&#8220;Andy Ihnatko&#8221;:http://ihnatko.com/ wrote glowingly about the Kindle and spoke at length on MacBreak Weekly about the free wireless and adequate web browser. Personally I have found the web browser to be extremely poor and the slow refresh inappropriate for modern, interactive sites. I didn&#8217;t even realize it came with a browser when I ordered it, though, so I consider it a nice bonus.</p>
+<p>When I left town to take a week and a half holiday road trip with my family, I decided to leave the Kindle at home. After all, I already had my MacBook, iPhone, Nintendo DS, and a hardback book that would easily fill the week. The Kindle is small but it would just be wasted clutter in my backpack.</p>
+<p>This turned out to be a mistake. For one, I had spotty Edge coverage in middle-of-nowhere West Texas, and it would have been an interesting experiment to see how the Kindle&#8217;s EVDO faired in other cities. But more importantly, while checking blogs someone recommended a book that I was interested in. I clicked through to Amazon and noticed that it was available in Kindle format. It would have been the perfect opportunity to buy it and start reading right away.</p>
+<p>That is what the Kindle brings to the table. The hardware design is not an improvement over the Sony Reader (the Kindle&#8217;s keyboard remains a definite mistake), but the integration with Amazon and the convenient downloads from anywhere are both well implemented. I think Amazon has a history of tinkering in public view (home page design, shipping experiments), and the Kindle is no exception. They&#8217;re no doubt already working on version 2.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2008/01/more_on_kindle.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Kindle</title>
+		<link>http://www.manton.org/2007/11/kindle.html</link>
+		<comments>http://www.manton.org/2007/11/kindle.html#comments</comments>
+		<pubDate>Mon, 26 Nov 2007 15:10:41 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[amazon]]></category>
+		<category><![CDATA[books]]></category>
+		<category><![CDATA[kindle]]></category>
+		<category><![CDATA[vitalsource]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/11/kindle.html</guid>
+		<description><![CDATA[All we do at &#8220;VitalSource&#8221;:http://www.vitalsource.com/ is e-books, from working with publishers on converting their content to our format, to managing the delivery of digital files and building the web-based infrastructure to support it, and finally to designing and coding the Mac and Windows applications for reading and annotating books. My &#8220;Kindle&#8221;:http://www.amazon.com/Kindle-Amazons-Wireless-Reading-Device/dp/B000FI73MA arrived on Tuesday, the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>All we do at &#8220;VitalSource&#8221;:http://www.vitalsource.com/ is e-books, from working with publishers on converting their content to our format, to managing the delivery of digital files and building the web-based infrastructure to support it, and finally to designing and coding the Mac and Windows applications for reading and annotating books. My &#8220;Kindle&#8221;:http://www.amazon.com/Kindle-Amazons-Wireless-Reading-Device/dp/B000FI73MA arrived on Tuesday, the day after it was released, and here are my initial thoughts after using it over the Thanksgiving weekend.</p>
+<p><em>Out-of-box experience.</em> Amazon really nailed the first-use experience. The Kindle came in a nice box and was pre-configured with my Amazon account. No syncing or setup necessary; you can start reading books immediately.</p>
+<p><em>Screen.</em> If you haven&#8217;t seen an e-ink device &mdash; actually held one in your hands, like the Sony Reader &mdash; don&#8217;t bother &#8220;reviewing&#8221; it. The iPhone screen is beautiful and I would love to have a small Mac tablet, something even a little bigger than the Kindle, but for reading books, nothing beats e-ink. It&#8217;s in a whole different class, and this is one of the areas where the Kindle shines. (It says a lot that the first FAQ item in the Kindle manual is about how the screen &#8220;flicker&#8221; when flipping pages is normal, though. It&#8217;s a little distracting but not a show-stopper.)</p>
+<p><em>Connectivity.</em> Amazon has been innovating with free shipping for years, so in a way it&#8217;s perfectly consistent to also offer free wireless connectivity. As a long-time Apple fan, I&#8217;m a little disappointed that Amazon is the one innovating with service plans, while Apple is stuck in the past with service contracts and high monthly fees with silly text message caps. I pay about $80/month for the privilege of using my iPhone; with the Kindle, I pay only for purchased content.</p>
+<p><em>Purchasing.</em> You can buy books from Amazon on your computer or from the Kindle itself, and I&#8217;ve tried both. My first purchase was using Safari on my Mac, and less than a minute later the book &#8220;magically&#8221; appeared on my Kindle. Again, no cables or sync necessary; the Kindle notices a book purchase and downloads it wirelessly.</p>
+<p><em>Hardware.</em> It couldn&#8217;t all be good news, could it? The button design is where the Kindle just falls on its face, and it&#8217;s bad news for both major areas of the device: the keyboard and the page navigation buttons. I just don&#8217;t see how they justified taking up so much room for the keyboard, because in truth you almost never need to use it. For the page buttons, try handing someone a Kindle for the first time and the first thing they do is accidentally hit next or previous page. It takes a while to train yourself on the best way to hold the Kindle.</p>
+<p>There are other things I could say &mdash; about DRM (unavoidable) or emailing documents to the device (clever) or the book cover (clunky) &mdash; but I want to keep this short. Despite it&#8217;s flaws, the Kindle is a good device, and it goes beyond being the first usable e-book reader to offer seamless purchasing and book delivery from Amazon&#8217;s large selection. It&#8217;s not as polished a 1.0 as the iPhone release was, but it&#8217;s a solid offering and more innovative in some ways. I&#8217;m looking forward to both reading books on it as a user and experimenting with ways to get other content on the device as a developer.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2007/11/kindle.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.821 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 13:24:59 -->

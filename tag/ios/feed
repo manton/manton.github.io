@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; ios</title>
+	<atom:link href="http://www.manton.org/tag/ios/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>App Store delivery truck</title>
+		<link>http://www.manton.org/2015/07/app-store-delivery-truck.html</link>
+		<comments>http://www.manton.org/2015/07/app-store-delivery-truck.html#comments</comments>
+		<pubDate>Fri, 03 Jul 2015 20:34:40 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[creditcards]]></category>
+		<category><![CDATA[distribution]]></category>
+		<category><![CDATA[ios]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2818</guid>
+		<description><![CDATA[Charles Perry follows up from Brent’s post on the App Store with this point of view: “Today, the App Store is basically your delivery truck that takes cash on delivery. We wouldn’t blame a delivery truck for our business failure. It doesn’t make any sense. It’s not a delivery truck’s responsibility to ensure that there’s [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://metakite.com/blog/2015/07/my-delivery-truck/">Charles Perry follows up</a> from <a href="http://inessential.com/2015/06/30/love">Brent’s post</a> on the App Store with this point of view:</p>
+<blockquote><p>
+  “Today, the App Store is basically your delivery truck that takes cash on delivery. We wouldn’t blame a delivery truck for our business failure. It doesn’t make any sense. It’s not a delivery truck’s responsibility to ensure that there’s a market for our products. That’s what market research is for. It’s not a delivery truck’s responsibility to advertise our products or introduce them to customers. That’s what marketing is for.”
+</p></blockquote>
+<p>I really like this analogy. However, if you take everything Charles says as truth, it reveals an even more serious problem: the 30% that Apple charges for distributing bits on their truck is outrageous. It’s flat-out <em>wrong</em> to charge such a high percentage if they are providing no value above credit card processing and file hosting.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/07/app-store-delivery-truck.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Microblogging with Typed.com</title>
+		<link>http://www.manton.org/2015/07/microblogging-with-typed-com.html</link>
+		<comments>http://www.manton.org/2015/07/microblogging-with-typed-com.html#comments</comments>
+		<pubDate>Thu, 02 Jul 2015 21:05:03 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[drafts]]></category>
+		<category><![CDATA[editorial]]></category>
+		<category><![CDATA[ios]]></category>
+		<category><![CDATA[microblogging]]></category>
+		<category><![CDATA[realmac]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2808</guid>
+		<description><![CDATA[Dan Counsell wrote a long post this week about the planning and executing of Realmac’s crowdfunding campaign for Typed.com. It’s worth a read for the careful thought he put into it: “I spent two weeks planning and building the entire campaign. I started out with the video as I knew this would be a huge [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://dancounsell.com/articles/how-i-raised-120000-dollars-with-crowdfunding">Dan Counsell wrote a long post</a> this week about the planning and executing of Realmac’s crowdfunding campaign for Typed.com. It’s worth a read for the careful thought he put into it:</p>
+<blockquote><p>
+  “I spent two weeks planning and building the entire campaign. I started out with the video as I knew this would be a huge amount of work and to be honest, it was also something I wasn&#8217;t entirely comfortable with doing. Every popular campaign I looked at had a half-decent and engaging video. I did a lot of research and it turns out the flow of the video should be something like this: Introduce yourself, talk about the problem, move onto the solution that you&#8217;re building, and finally finishing up with a direct plea asking for pledges.”
+</p></blockquote>
+<p>The beta for Typed.com is well underway, and linked in Dan’s post is a support forum for users. <a href="http://community.realmacsoftware.com/t/first-impressions/13/21">This post by Realmac designer Elliot Jackson</a> especially caught my eye:</p>
+<blockquote><p>
+  “We don’t have an API yet but this is something I’ve been enjoying playing with for shorter posts. My workaround is to send the content over a URL then decode it and use JS in the browser to fill in the form elements (tags etc).”
+</p></blockquote>
+<p>He details a way to send short microblog posts to Typed.com by using Drafts and Editorial. Check out the full post for his JavaScript and Python scripts linking these apps together on iOS. I’m really looking forward to Typed.com’s official launch.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/07/microblogging-with-typed-com.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Apple Music and free Beats 1</title>
+		<link>http://www.manton.org/2015/06/apple-music-and-free-beats-1.html</link>
+		<comments>http://www.manton.org/2015/06/apple-music-and-free-beats-1.html#comments</comments>
+		<pubDate>Tue, 30 Jun 2015 17:49:27 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Music]]></category>
+		<category><![CDATA[beats]]></category>
+		<category><![CDATA[ios]]></category>
+		<category><![CDATA[music]]></category>
+		<category><![CDATA[radio]]></category>
+		<category><![CDATA[subscriptions]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2797</guid>
+		<description><![CDATA[Apple Music launched today with iOS 8.4. Christina Warren has an early review for Mashable, in particular mentioning the value of For You: “The real heart of Apple Music is the For You tab. This is basically your music homescreen. When you open the section for the first time, you&#8217;re asked to go through a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Apple Music launched today with iOS 8.4. Christina Warren has <a href="http://mashable.com/2015/06/30/apple-music-hands-on/">an early review for Mashable</a>, in particular mentioning the value of For You:</p>
+<blockquote><p>
+  “The real heart of Apple Music is the For You tab. This is basically your music homescreen. When you open the section for the first time, you&#8217;re asked to go through a discovery exercise. This was lifted directly from Beats Music and it&#8217;s one of the best discovery tools I&#8217;ve used over the years.”
+</p></blockquote>
+<p>If Apple Music can be thought of as Beats Music 2.0, then the Connect tab is probably a little like Ping 2.0, an update on Apple’s first attempt to build a music-only social network. As Daniel and I discussed <a href="http://coreint.org/187">on Core Intuition 187</a>, any service that demonstrates a network effect — everything from eBay to Twitter — needs some critical mass of users to reach its potential. I was curious whether Apple could achieve this if the Connect feature was locked behind a paid subscription after the initial 3-month trial.</p>
+<p>What I missed is that Connect and even Beats 1 will be free. From the <a href="http://www.apple.com/music/">Apple Music page</a>:</p>
+<blockquote><p>
+  “Even without a membership, you can listen to Beats 1 radio, see what artists are posting on Connect, and hear our ad‑supported stations.”
+</p></blockquote>
+<p>Beats 1 is one of the more interesting aspects of Apple Music to me. I just signed up for the trial and plan to continue at the $15/month family subscription.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/06/apple-music-and-free-beats-1.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>iOS 9 search</title>
+		<link>http://www.manton.org/2015/06/ios-9-search.html</link>
+		<comments>http://www.manton.org/2015/06/ios-9-search.html#comments</comments>
+		<pubDate>Wed, 17 Jun 2015 14:38:54 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[ios]]></category>
+		<category><![CDATA[search]]></category>
+		<category><![CDATA[spotlight]]></category>
+		<category><![CDATA[wwdc]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2729</guid>
+		<description><![CDATA[Federico Viticci has a comprehensive write-up about Apple’s approach to search in iOS 9, including comments from developers. On local app search: “With local app search, iOS 9 can build an index of content, app features, and activities that users may want to get back to with a search query. Built like a database and [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.macstories.net/stories/inside-ios-9-search-apples-plan-for-more-connected-apps/">Federico Viticci has a comprehensive write-up</a> about Apple’s approach to search in iOS 9, including comments from developers. On local app search:</p>
+<blockquote><p>
+  “With local app search, iOS 9 can build an index of content, app features, and activities that users may want to get back to with a search query. Built like a database and already in use by Apple apps such as Mail and Reminders, CoreSpotlight will provide low level access to the index of an iOS device, making it easy to organize and retrieve content users have previously seen, created, or curated.”
+</p></blockquote>
+<p>I’ve been slowly going through WWDC session videos, but haven’t cracked open the documentation for search yet. Sounds like an important new API for any app that has user documents.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/06/ios-9-search.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Requiring the latest OS</title>
+		<link>http://www.manton.org/2014/02/requiring_the_latest.html</link>
+		<comments>http://www.manton.org/2014/02/requiring_the_latest.html#comments</comments>
+		<pubDate>Sun, 09 Feb 2014 18:40:32 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[ios]]></category>
+		<category><![CDATA[macosx]]></category>
+		<category><![CDATA[upgrades]]></category>
+		<category><![CDATA[versions]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/02/requiring_the_latest.html</guid>
+		<description><![CDATA[Brent Simmons has a pair of posts on dropping support for older OS releases and how the upgraded percentage goes up quickly: “When making decisions like this, I don’t think about what conditions are were I to ship today — I think about what conditions will be like when I actually do ship, and I [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Brent Simmons has a pair of posts on <a href="http://inessential.com/2014/02/07/dropping_support_for_older_os_releases">dropping support for older OS releases</a> and <a href="http://inessential.com/2014/02/07/more_about_not_supporting_older_os_relea">how the upgraded percentage goes up quickly</a>:</p>
+<blockquote><p>
+  “When making decisions like this, I don’t think about what conditions are were I to ship today — I think about what conditions will be like when I actually do ship, and I think about conditions six months out as we do support, testing, and maintenance releases.”
+</p></blockquote>
+<p>Good advice. And remember, very few developers actually ship on time. Even if you think your app is going to ship before the next major version of the OS does, your app will probably be late. More people will be able to run it than you first expected.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/02/requiring_the_latest.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Tweet Library 2.4</title>
+		<link>http://www.manton.org/2013/10/tweet_library_24.html</link>
+		<comments>http://www.manton.org/2013/10/tweet_library_24.html#comments</comments>
+		<pubDate>Thu, 31 Oct 2013 15:42:38 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[ios]]></category>
+		<category><![CDATA[tweetlibrary]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/10/tweet_library_24.html</guid>
+		<description><![CDATA[The latest version of Tweet Library was approved by Apple last night. It features an updated design for iOS 7, a new app icon, and a bunch of bug fixes. I also dropped the price to $4.99, universal for both iPhone and iPad, and it’s a free upgrade for all existing customers. The App Store [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The latest version of Tweet Library was approved by Apple last night. It features an updated design for iOS 7, a new app icon, and a bunch of bug fixes. I also dropped the price to $4.99, universal for both iPhone and iPad, and it’s a free upgrade for all existing customers.</p>
+<p>The App Store screenshots weren’t updated yet, so I put together <a href="http://sunlit.io/manton/tweetlibrary24">some screenshots using Sunlit here</a>.</p>
+<p>I’m pretty happy with how this release turned out, but there’s still more work to do. I’ll be following up this release with some additional improvements specifically for iOS 7 soon. You can grab version 2.4 <a href="http://itunes.apple.com/app/tweet-library/id365768793?mt=8">from the App Store here</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/10/tweet_library_24.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Watermark for iOS</title>
+		<link>http://www.manton.org/2012/10/watermark_for_ios.html</link>
+		<comments>http://www.manton.org/2012/10/watermark_for_ios.html#comments</comments>
+		<pubDate>Thu, 18 Oct 2012 22:37:10 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[ios]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[watermark]]></category>
+		<category><![CDATA[webview]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2012/10/watermark_for_ios.html</guid>
+		<description><![CDATA[I have a new iPhone app in the store: Watermark Mobile, a lightweight companion app to Watermark, my search and archiving tool for Twitter and ADN. It’s free for existing customers, or $4.99 using in-app purchase to subscribe as a new Watermark customer. With this app I wanted to solve two problems: Clean, simple search [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I have a new iPhone app in the store: <a href="https://itunes.apple.com/us/app/watermark-mobile/id566886320?ls=1&amp;mt=8">Watermark Mobile</a>, a lightweight companion app to Watermark, my search and archiving tool for Twitter and ADN. It’s free for existing customers, or $4.99 using in-app purchase to subscribe as a new Watermark customer.</p>
+<p>With this app I wanted to solve two problems:</p>
+<ul>
+<li>Clean, simple search interface on the iPhone.</p>
+</li>
+<li>
+<p>Allow paying for Watermark inside the app with your iTunes account.</p>
+</li>
+</ul>
+<p>While I’d eventually love to have a more full-featured client like Tweet Library available for Watermark, after a quick weekend of hacking I decided that Watermark Mobile was already useful enough that I should release it. So I did.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2012/10/watermark_for_ios.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Podcasts app</title>
+		<link>http://www.manton.org/2012/06/podcasts_app.html</link>
+		<comments>http://www.manton.org/2012/06/podcasts_app.html#comments</comments>
+		<pubDate>Tue, 26 Jun 2012 19:24:46 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[ios]]></category>
+		<category><![CDATA[podcasts]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2012/06/podcasts_app.html</guid>
+		<description><![CDATA[Podcasts are more popular than ever. We&#8217;re lucky right now to have a bunch of podcast networks and great iOS clients, including the newly-released official Podcasts app from Apple. My favorite remains Instacast on iPhone, but there are other good choices like Downcast. It&#8217;s never easy for developers when Apple arrives into your market with [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Podcasts are more popular than ever. We&#8217;re lucky right now to have a bunch of podcast networks and great iOS clients, including the newly-released <a href="http://itunes.apple.com/us/app/podcasts/id525463029?mt=8">official Podcasts app from Apple</a>. My favorite remains <a href="http://vemedio.com/instacast">Instacast on iPhone</a>, but there are other good choices like <a href="http://www.downcastapp.com/">Downcast</a>.</p>
+<p>It&#8217;s never easy for developers when Apple arrives into your market with free competition, especially if it might one day be bundled on the OS alongside the Music and Videos apps. I wish the third-party guys the best of luck.</p>
+<p>But for podcast creators, the extra exposure can only be a good thing. I hope we can welcome even more listeners to our Core Intuition podcast. We just opened a new way to send in feedback and questions, too: <a href="http://glassboard.com/">Glassboard</a>. Use invite code COREINT on the web or iPhone app to join the board and get a little behind-the-scenes look into the podcast.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2012/06/podcasts_app.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>360iDev Austin (in tweets)</title>
+		<link>http://www.manton.org/2010/12/360idev_austin_in.html</link>
+		<comments>http://www.manton.org/2010/12/360idev_austin_in.html#comments</comments>
+		<pubDate>Wed, 15 Dec 2010 17:08:04 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[360idev]]></category>
+		<category><![CDATA[austin]]></category>
+		<category><![CDATA[conferences]]></category>
+		<category><![CDATA[ios]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2010/12/360idev_austin_in.html</guid>
+		<description><![CDATA[On &#8220;episode 35 of Core Intuition&#8221;:http://www.coreint.org/2010/11/episode-35-wrap-it-up-in-cocoa/ I mentioned attending the 360iDev conference, and we brought it up again on the next show while plugging 360MacDev. I had a great time at the conference and hope to attend another one in the future. The best part was meeting all the iPhone developers who I&#8217;ve never crossed [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>On &#8220;episode 35 of Core Intuition&#8221;:http://www.coreint.org/2010/11/episode-35-wrap-it-up-in-cocoa/ I mentioned attending the 360iDev conference, and we brought it up again on the next show while plugging 360MacDev. I had a great time at the conference and hope to attend another one in the future.</p>
+<p>The best part was meeting all the iPhone developers who I&#8217;ve never crossed paths with, and catching up with others I&#8217;d only met briefly before. iPhone developers come from a mix of places, from old Mac developers to web developers to traditional mobile or game developers. While there&#8217;s a risk that having so many small regional conferences will fragment the community, this concentrated group of mostly iPhone-only developers made for a great few days of sessions and discussion.</p>
+<p>And my main concern leading into the conference &mdash; that the hotel location would make it difficult for people to head downtown or see other parts of Austin &mdash; turned out to be mostly a non-issue. I had a great time hanging out with everyone in the evening, and hope some of you will be back for SXSW.</p>
+<p>I used Tweet Library to &#8220;collect about 120 tweets from attendees&#8221;:http://www.tweetlibrary.com/manton/360idevaustin at the conference: reaction to sessions, quotes, speaker slide URLs, dinner out, and more. Capturing an event like this is why I built the app. What you had for dinner isn&#8217;t interesting by itself, but <em>in context</em> it is powerful because it tells a story.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2010/12/360idev_austin_in.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.707 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:14:44 -->

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; dropbox</title>
+	<atom:link href="http://www.manton.org/tag/dropbox/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Google Photos</title>
+		<link>http://www.manton.org/2015/06/google-photos.html</link>
+		<comments>http://www.manton.org/2015/06/google-photos.html#comments</comments>
+		<pubDate>Thu, 04 Jun 2015 16:20:39 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Photography]]></category>
+		<category><![CDATA[dropbox]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[photos]]></category>
+		<category><![CDATA[search]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2654</guid>
+		<description><![CDATA[Tim Cook spoke recently about privacy and cloud services: “You might like these so-called free services, but we don&#8217;t think they&#8217;re worth having your email or your search history or now even your family photos data-mined and sold off for God knows what advertising purpose.” I’m going to give you a very cynical translation, which [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Tim Cook spoke recently about privacy and cloud services:</p>
+<blockquote><p>
+  “You might like these so-called free services, but we don&#8217;t think they&#8217;re worth having your email or your search history or now even your family photos data-mined and sold off for God knows what advertising purpose.”
+</p></blockquote>
+<p>I’m going to give you a very cynical translation, which I don’t often do: <em>We are in denial about how much better Google Photos is than what we’re doing at Apple. It is so advanced in terms of search that we won’t be able to match it anytime soon. In fact, we don’t even have anyone working on similar technology at all.</em></p>
+<p>It&#8217;s not about being free. I pay Dropbox $20/month to be grandfathered into 2 TB of storage so that I can put all of my photos and documents there. Dropbox is rock solid and worth it.</p>
+<p><a href="http://www.marco.org/2015/05/29/why-not-google">Like Marco</a> and others, I have tried to avoid Google services. I don’t use Gmail. I hate advertising. But the idea of being able to quickly search my photos by content without even tagging or organizing them was too compelling to not try. So I’ve uploaded over 10,000 photos so far to Google Photos. It is really good. (I’m going to finish uploading all my photos and give it a few months before making a final judgement on the search vs. privacy trade-off.)</p>
+<p>Some of the random searches that work out of the box to filter my photos: “beach”, “trains”, “New York City”, “Oregon and 2013”, “road trip”, “party”, “basketball”, “Christmas tree”. I never saw a demo or tutorial for how to use Google Photos; I just type stuff in and it mostly works, discovering photos and events. And on top of that, there’s also the automatic stories and collages, which is something we always wanted to build for <a href="http://sunlit.io/">Sunlit</a>.</p>
+<p>My family photos are the most important files I have on my computer, and I very rarely share any photos of my kids publicly. But ironically I’m willing to overlook some of the privacy concerns around this exactly <em>because</em> the photos are so valuable to me. I want multiple copies in the cloud, and I want the power of search that Google has built.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/06/google-photos.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Photos+ and focus</title>
+		<link>http://www.manton.org/2014/04/photos_and_focus.html</link>
+		<comments>http://www.manton.org/2014/04/photos_and_focus.html#comments</comments>
+		<pubDate>Fri, 18 Apr 2014 21:39:41 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Photography]]></category>
+		<category><![CDATA[dropbox]]></category>
+		<category><![CDATA[glassboard]]></category>
+		<category><![CDATA[photosplus]]></category>
+		<category><![CDATA[silverpine]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/04/photos_and_focus.html</guid>
+		<description><![CDATA[You may have heard by now that Photos+ has a new home at SilverPine software. My friend Jonathan Hays — now co-founder of SilverPine — is of course also half of Sunlit, so it was a great fit for him to take on another photo app as well. He writes: “In addition to consulting, we [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>You may have heard by now that <a href="http://jonathanhays.me/2014/04/16/silverpine-software/">Photos+ has a new home at SilverPine software</a>. My friend Jonathan Hays — now co-founder of SilverPine — is of course also half of <a href="http://sunlit.io/">Sunlit</a>, so it was a great fit for him to take on another photo app as well. He writes:</p>
+<blockquote><p>
+  “In addition to consulting, we intend to slowly grow a portfolio of software. To that end, we are announcing today that we have purchased Photos+ from Second Gear Software. We have quite a bit of expertise with photo Apps (see Sunlit, among others) and when Justin Williams approached me about purchasing it from him, it felt like a great fit. We have big plans for Photos+ and have already put into motion the first phase of those plans: native Dropbox integration!”
+</p></blockquote>
+<p>I tested the Dropbox support during the 1.1 beta and think it’s a great direction to take the app. Dropbox the company is going all in on photos: just in the last week shipping Carousel and now acquiring Loom. The more people start using Dropbox to store all their photos, the more useful companion photo apps like Photos+ and Sunlit will be.</p>
+<p>And now <a href="http://carpeaqua.com/2014/04/17/moonshots/">Justin Williams is free to focus all his time on Glassboard</a>. While I’ve been building web services and subscription apps for a while now, the truth is I’m still figuring out how to do this as a business too. I’ve learned a lot from Justin’s recent blog posts on the subject.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/04/photos_and_focus.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Sunlit 1.1</title>
+		<link>http://www.manton.org/2014/02/sunlit_11.html</link>
+		<comments>http://www.manton.org/2014/02/sunlit_11.html#comments</comments>
+		<pubDate>Fri, 14 Feb 2014 21:00:09 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[dropbox]]></category>
+		<category><![CDATA[flickr]]></category>
+		<category><![CDATA[instagram]]></category>
+		<category><![CDATA[sunlit]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/02/sunlit_11.html</guid>
+		<description><![CDATA[Today we shipped version 1.1 of Sunlit, our app for collecting photos and text together to make and publish stories. Some of the bigger changes include: Instagram and Flickr import. You can now add any of your own Instagram or Flickr photos into a story. With Flickr, you can even browse from your Flickr sets. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Today we shipped version 1.1 of <a href="http://sunlit.io/">Sunlit</a>, our app for collecting photos and text together to make and publish stories. Some of the bigger changes include:</p>
+<ul>
+<li><strong>Instagram and Flickr import.</strong> You can now add any of your own Instagram or Flickr photos into a story. With Flickr, you can even browse from your Flickr sets.</p>
+</li>
+<li>
+<p><strong>Improved Dropbox support.</strong> The first version of Sunlit assumed most of your photos on Dropbox were in the Camera Uploads or Photos folder. For 1.1, we’ve added a full Dropbox browser so you can pick any folder you want.</p>
+</li>
+<li>
+<p><strong>Multi-user text syncing.</strong> Now anyone subscribed to a story can add both photos and text descriptions, and the text will sync to all users. This is a really powerful feature for collaborating on stories. We think it puts Sunlit in a class above any other app like this.</p>
+</li>
+<li>
+<p><strong>Confirm deleted photos.</strong> What happens if you let other people add photos to your story, but they accidentally delete one of your photos? Sunlit now tracks this and shows a special confirmation alert so that you can either allow the photo to be deleted or keep it.</p>
+</li>
+</ul>
+<p>There are other fixes and improvements too, which you can <a href="http://sunlit.io/releasenotes">see in the release notes</a>. Here are a few screenshots of the new Dropbox and Flickr screens:</p>
+<p><img src="http://www.manton.org/images/2014/sunlit_dropbox_flickr.png" width="600" height="336" alt="Sunlit v1.1" /></p>
+<p><a href="https://itunes.apple.com/app/sunlit/id690924901?mt=8">Sunlit is available in the App store</a> as a free download. If you like it, pay just $4.99 to unlock the full app, and leave a review in the App Store to help others discover the app. Thanks!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/02/sunlit_11.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Quality photos</title>
+		<link>http://www.manton.org/2014/01/quality_photos.html</link>
+		<comments>http://www.manton.org/2014/01/quality_photos.html#comments</comments>
+		<pubDate>Thu, 02 Jan 2014 15:03:57 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[cameras]]></category>
+		<category><![CDATA[dropbox]]></category>
+		<category><![CDATA[dslr]]></category>
+		<category><![CDATA[photos]]></category>
+		<category><![CDATA[sunlit]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/01/quality_photos.html</guid>
+		<description><![CDATA[I’ve been slowly moving photos to Dropbox over the last year, using the Dropbox camera import feature so that all new photos from my phone get synced up automatically. It’s worked out so well that last week I decided to go all in. I moved about 13 years of photos there and upgraded to Dropbox’s [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I’ve been slowly moving photos to Dropbox over the last year, using the Dropbox camera import feature so that all new photos from my phone get synced up automatically. It’s worked out so well that last week I decided to go all in. I moved about 13 years of photos there and upgraded to Dropbox’s 200 GB of storage.</p>
+<p>In the process I’ve been poking around at old photos, photos of my kids from 6-7 years ago when we had a basic point-and-shoot camera. There are some great photos in there, but also so many that are blurry or out of focus. We were too cheap to buy a good camera at the time. Now I would pay any amount of money to go back in time and reshoot the photos with a better camera.</p>
+<p><a href="http://shapeof.com/archives/2013/12/so_i_got_my_first_dslr.html">Gus Mueller learned this lesson</a> more quickly than I did:</p>
+<blockquote><p>
+  “It’s quite amazing what a difference a nice lens and a nice camera can do. Kirstin was shocked at the quality. The cameras on iPhones are getting better, but they don’t hold a candle to camera tech today.”
+</p></blockquote>
+<p>We don’t use our DSLR every day. It’s for big events, birthdays, school performances, and the iPhone suffices for the rest of the time. But it’s worth every penny and more, to look back on these photos years later and know we have captured them at their best.</p>
+<p>Photos are also at the heart of my new app, <a href="http://sunlit.io/">Sunlit</a>. We’ll be shipping soon. Enter your email address on the site to be notified when it hits the App Store.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/01/quality_photos.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Watermark export using Dropbox</title>
+		<link>http://www.manton.org/2012/09/watermark_export_using.html</link>
+		<comments>http://www.manton.org/2012/09/watermark_export_using.html#comments</comments>
+		<pubDate>Thu, 13 Sep 2012 13:16:51 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[dropbox]]></category>
+		<category><![CDATA[export]]></category>
+		<category><![CDATA[filters]]></category>
+		<category><![CDATA[watermark]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2012/09/watermark_export_using.html</guid>
+		<description><![CDATA[I’ve been making Watermark better. Sometimes it’s small tweaks or bug fixes; other times, more noticeable new features. Because it’s a subscription, I’m determined to improve it quickly and often. I don’t write about most of these changes, but the new Dropbox sync in Watermark deserves special attention. Watermark originally shipped without any kind of [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I’ve been making <a href="http://watermark.io/">Watermark</a> better. Sometimes it’s small tweaks or bug fixes; other times, more noticeable new features. Because it’s a subscription, I’m determined to improve it quickly and often. I don’t write about most of these changes, but the new Dropbox sync in Watermark deserves special attention.</p>
+<p>Watermark originally shipped without any kind of export feature. This was a glaring omission for an archiving tool. But because of the large number of tweets stored by Watermark — some users have hundreds of thousands of tweets from their friends in the app — a simple export wasn’t feasible. I could have offered an export of just your own tweets, but then you also have the fairly clunky step of waiting for the server to gather tweets together, then downloading a file from your web browser, finding where to store it or the previous downloaded copy to replace it with.</p>
+<p>Dropbox sync fixes that. Watermark can now automatically copy tweets (and App.net posts) from your saved filters and custom collections to CSV files on Dropbox. For example, search Watermark for “iPhone 5”, click “Save as filter”, and the most recent 1000 tweets matching that query will appear in a file called “iPhone_5.csv” on Dropbox. It keeps running in the background, so the files are updated every hour as new tweets matching the search are downloaded by Watermark, even if you aren’t signed in.</p>
+<p>See the <a href="http://watermark.io/app/account">account page and FAQ</a> for details and a sign-in link to authorize Watermark with Dropbox.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2012/09/watermark_export_using.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>VoodooPad 5</title>
+		<link>http://www.manton.org/2012/04/voodoopad_5.html</link>
+		<comments>http://www.manton.org/2012/04/voodoopad_5.html#comments</comments>
+		<pubDate>Sun, 22 Apr 2012 20:06:02 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[dropbox]]></category>
+		<category><![CDATA[epub]]></category>
+		<category><![CDATA[markdown]]></category>
+		<category><![CDATA[voodoopad]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2012/04/voodoopad_5.html</guid>
+		<description><![CDATA[VoodooPad 5 is out this weekend, with a new file format that plays nicely with Dropbox. Gus Mueller says: “No more connecting to WebDAV servers and having to deal with authentication issues and strange HTTP errors. Now you can just put your VoodooPad 5 document in a Dropbox folder and VP will detect when pages [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://flyingmeat.com/voodoopad/">VoodooPad 5</a> is out this weekend, with a new file format that plays nicely with Dropbox. <a href="http://flyingmeat.com/blog/archives/2012/04/voodoopad_5.0_released.html">Gus Mueller says</a>:</p>
+<blockquote><p>
+  “No more connecting to WebDAV servers and having to deal with authentication issues and strange HTTP errors. Now you can just put your VoodooPad 5 document in a Dropbox folder and VP will detect when pages have been updated.”
+</p></blockquote>
+<p>This is another good example of where web APIs like Dropbox can be <a href="http://www.manton.org/2012/04/icloud_vs_the_web.html">more useful than iCloud</a>. Multiple people can collaborate on a VoodooPad document, and the direct download and Mac App Store copies of VoodooPad can sync together.</p>
+<p>Also new in version 5 is native support for Markdown and an ePub export option. <a href="http://www.manton.org/2007/01/falling_in_love.html">The workflow for help documentation</a> that I posted <em>5 years ago</em> carries over to VoodooPad 5 just fine, too.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2012/04/voodoopad_5.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.211 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:27:00 -->

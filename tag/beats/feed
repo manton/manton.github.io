@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; beats</title>
+	<atom:link href="http://www.manton.org/tag/beats/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Apple Music and free Beats 1</title>
+		<link>http://www.manton.org/2015/06/apple-music-and-free-beats-1.html</link>
+		<comments>http://www.manton.org/2015/06/apple-music-and-free-beats-1.html#comments</comments>
+		<pubDate>Tue, 30 Jun 2015 17:49:27 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Music]]></category>
+		<category><![CDATA[beats]]></category>
+		<category><![CDATA[ios]]></category>
+		<category><![CDATA[music]]></category>
+		<category><![CDATA[radio]]></category>
+		<category><![CDATA[subscriptions]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2797</guid>
+		<description><![CDATA[Apple Music launched today with iOS 8.4. Christina Warren has an early review for Mashable, in particular mentioning the value of For You: “The real heart of Apple Music is the For You tab. This is basically your music homescreen. When you open the section for the first time, you&#8217;re asked to go through a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Apple Music launched today with iOS 8.4. Christina Warren has <a href="http://mashable.com/2015/06/30/apple-music-hands-on/">an early review for Mashable</a>, in particular mentioning the value of For You:</p>
+<blockquote><p>
+  “The real heart of Apple Music is the For You tab. This is basically your music homescreen. When you open the section for the first time, you&#8217;re asked to go through a discovery exercise. This was lifted directly from Beats Music and it&#8217;s one of the best discovery tools I&#8217;ve used over the years.”
+</p></blockquote>
+<p>If Apple Music can be thought of as Beats Music 2.0, then the Connect tab is probably a little like Ping 2.0, an update on Apple’s first attempt to build a music-only social network. As Daniel and I discussed <a href="http://coreint.org/187">on Core Intuition 187</a>, any service that demonstrates a network effect — everything from eBay to Twitter — needs some critical mass of users to reach its potential. I was curious whether Apple could achieve this if the Connect feature was locked behind a paid subscription after the initial 3-month trial.</p>
+<p>What I missed is that Connect and even Beats 1 will be free. From the <a href="http://www.apple.com/music/">Apple Music page</a>:</p>
+<blockquote><p>
+  “Even without a membership, you can listen to Beats 1 radio, see what artists are posting on Connect, and hear our ad‑supported stations.”
+</p></blockquote>
+<p>Beats 1 is one of the more interesting aspects of Apple Music to me. I just signed up for the trial and plan to continue at the $15/month family subscription.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/06/apple-music-and-free-beats-1.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Apple needs Beats Music</title>
+		<link>http://www.manton.org/2014/05/apple_needs_beats.html</link>
+		<comments>http://www.manton.org/2014/05/apple_needs_beats.html#comments</comments>
+		<pubDate>Fri, 09 May 2014 12:57:12 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Music]]></category>
+		<category><![CDATA[App]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[beats]]></category>
+		<category><![CDATA[itunes]]></category>
+		<category><![CDATA[Store]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/05/apple_needs_beats.html</guid>
+		<description><![CDATA[John Gruber asks, on the rumor that Apple will acquire Beats: “The Beats streaming service is interesting, but can’t Apple do that on its own, as an expansion of the iTunes Music Store and iTunes Radio?” Unfortunately I think the answer is no, Apple can’t easily do anything like what Beats Music has done. Not [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://daringfireball.net/linked/2014/05/08/beats">John Gruber asks</a>, on the rumor that Apple will acquire Beats:</p>
+<blockquote><p>
+  “The Beats streaming service is interesting, but can’t Apple do that on its own, as an expansion of the iTunes Music Store and iTunes Radio?”
+</p></blockquote>
+<p>Unfortunately I think the answer is no, Apple can’t easily do anything like what Beats Music has done. Not because they lack the skill, but because they lack the desire to actually do the work and hire the staff to make it happen. Compare iTunes Radio side by side with Beats Music. Beats Music isn’t just a streaming service; it’s more like a platform for curating playlists and discovering music.</p>
+<p>I like Beats Music so much that I wrote two posts recently about it. Here’s a snippet from each, first on <a href="http://manton.org/2014/02/we_love_music.html">building something you love</a>:</p>
+<blockquote><p>
+  “iTunes Radio looks like something they felt they had to build, not something they wanted to build. Beats Music is in a completely different league, with a deep set of features and content. It looks like an app that’s had years to mature, not a 1.0.”
+</p></blockquote>
+<p>And then on <a href="http://manton.org/2014/02/ending_the_app_store.html">ending the top 200</a> by doubling down on featured apps, just as Beats Music has done for music curation:</p>
+<blockquote><p>
+  “How would this fix the junk problem in the App Store? Simple. No one in their right mind would ever feature one of these ad-filled, ‘re-skinned’ cheap apps. Great recommendations mean less reliance on search, making scam apps more difficult to find by accident.”
+</p></blockquote>
+<p>However, I agree with Gruber that on the surface this potential acquisition doesn’t really seem Apple-like. It would be unusual for them to acquire a high-profile brand. As much as I’d love to see the Beats Music team join Apple to improve iTunes and the App Store, I’ll be a little surprised if it actually happens. Maybe they have something else in mind that we can’t see yet.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/05/apple_needs_beats.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Ending the App Store top 200</title>
+		<link>http://www.manton.org/2014/02/ending_the_app.html</link>
+		<comments>http://www.manton.org/2014/02/ending_the_app.html#comments</comments>
+		<pubDate>Fri, 07 Feb 2014 19:40:44 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[beats]]></category>
+		<category><![CDATA[music]]></category>
+		<category><![CDATA[top200]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/02/ending_the_app.html</guid>
+		<description><![CDATA[I was chatting with some developers this week, complaining about this post on spamming the App Store and wondering if we’d ever have a better App Store, when I finally realized how we get there. The block for me had always been the top 200 lists. We all know that you can game them, buy [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I was chatting with some developers this week, complaining about <a href="http://www.bluecloudsolutions.com/blog/money-apps-turn-1k-200k-portfolio/">this post on spamming the App Store</a> and wondering if we’d ever have a better App Store, when I finally realized how we get there. The block for me had always been the top 200 lists. We all know that you can game them, buy your way in, and apps that make it in even on their own merits have a huge advantage over everything else, sometimes for months. But I couldn’t conceive of how you could actually <em>get rid of them</em> and if it would make the store better or worse.</p>
+<p>The answer is in Beats Music. They have no overall top 200 list! Instead, they have a bunch of people — musicians and writers who deeply care about music — curating playlists. The top 25 playlists in a genre are so buried in the app that I had to search them out just to write this blog post, because they seem to carry no more weight than any other playlist. Much more common are playlists like “our top 20 of 2013”. That’s not a best-selling list; it’s based on real people’s favorites.</p>
+<p>There are literally hundreds or maybe thousands of other playlists. Intro playlists for a band, related artists that were influential to a singer you like, playlists for a mood or activity, and more. This extra manual step makes it much easier for an algorithm to surface great music: just look for playlists that contain songs you already like, and chances are good that you’ll discover something new.</p>
+<p><a href="http://www.manton.org/2014/02/we_love_music.html">I wrote about Beats Music earlier</a>, how it underscored to me that Apple needs to find the next product category to fall in love with, just like they used to feel about music. Of course we know that Apple <em>already loves apps</em>. Show that by doubling down on featured apps, staff picks, and app playlists.</p>
+<p>How would this fix the junk problem in the App Store? Simple. No one in their right mind would ever feature one of these ad-filled, “re-skinned” cheap apps. Great recommendations mean less reliance on search, making scam apps more difficult to find by accident. (This focus is so complete in Beats Music, for the first couple days of using it I didn’t even realize you could search for a specific song or album.)</p>
+<p>This idea isn’t new. Here’s <a href="http://blog.jaredsinclair.com/post/70498658794/solving-the-app-store-discovery-problem-with-app">Jared Sinclair on app playlists</a>, with the twist that they’re based on apps you have installed and use:</p>
+<blockquote><p>
+  “App playlists should be rigorously simple: just a list of apps. Not all the apps ever downloaded, but the apps that a given user currently has installed on their device. The assumption is that if somebody has an app on their device, they probably like it.”
+</p></blockquote>
+<p>That would be great. But seeing Beats Music ship with almost no traditional music charts at all — in an industry that has embraced the top 40 for decades — tells me that the Beats approach would also work for apps. I think you need both an “installed” playlist and many more fully curated playlists to actually replace the top 200 in the App Store.</p>
+<p>Apple will need to ramp up their staff to do this, but if a new company like Beats can do it, surely a company as huge as Apple can also try. And they’ll have help from app fans everywhere. Writers are already doing this: see Federico Viticci’s <a href="http://www.macstories.net/roundups/my-must-have-ipad-apps-2013-edition/">must-have iPad apps of 2013</a> (could easily be an app playlist) or all the <a href="http://thesweetsetup.com/apps/best-photo-editing-app-iphone/">photo apps mentioned on The Sweet Setup</a> (favorite photo apps playlist) or TechHive’s <a href="http://www.techhive.com/article/2091807/use-these-budgeting-apps-for-more-money-fewer-problems.html">5 apps for budgeting</a> (my playlist would’ve added <a href="http://nothirst.com/moneywell/ipad/">MoneyWell</a>).</p>
+<p>Apple shouldn’t wait until Thursday to feature a few great apps. Feature apps <em>all the time</em>. They’re on the right track with some of the “best of” sections in the store, and with the “Near Me” feature. Go a little further and it will make all the difference to bubble up great apps, and let the junk in the App Store fade away. For the first time I can imagine the store without a top 200 at all, and it looks amazing.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/02/ending_the_app.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>We love music</title>
+		<link>http://www.manton.org/2014/02/we_love_music.html</link>
+		<comments>http://www.manton.org/2014/02/we_love_music.html#comments</comments>
+		<pubDate>Thu, 06 Feb 2014 17:32:42 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Music]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[beats]]></category>
+		<category><![CDATA[music]]></category>
+		<category><![CDATA[photos]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/02/we_love_music.html</guid>
+		<description><![CDATA[In my short post about why we chose Mapbox for Sunlit, I said I wanted to use it because the folks working at Mapbox clearly love maps. We are so used to mega-companies like Apple, Google, and Microsoft trying to provide every possible service, it’s nice sometimes to just buy directly from a specialist. I [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.manton.org/2014/01/sunlit_maps.html">In my short post</a> about why we chose Mapbox for <a href="http://sunlit.io/">Sunlit</a>, I said I wanted to use it because the folks working at Mapbox clearly love maps. We are so used to mega-companies like Apple, Google, and Microsoft trying to provide every possible service, it’s nice sometimes to just buy directly from a specialist.</p>
+<p>I think that’s why Beats Music is going to be successful. Music is all they’re doing, they’ve hired a staff of specialists — curators who are passionate about not just music but specific genres — and even their sister company makes music products: headphones and speakers. For more background on Beats Music, I recommend this <a href="http://www.macstories.net/stories/why-beats-music-matters/">write-up from MacStories</a> and this (http://www.theverge.com/2014/1/21/5325766/interview-with-beats-music-ceo-ian-rogers-video).</p>
+<p>Remember when Steve Jobs introduced the iPod? He said: “We love music. And it’s always good to do something you love.” As he continued to play some of his favorite songs, we believed him. The driving force behind the iPod and iTunes was to make it <em>significantly</em> easier to listen to music. They hit it out of the park and changed the music industry.</p>
+<p>Today, Apple is either spread too thin or content to do the bare minimum only. iTunes Radio looks like something they felt they had to build, not something they wanted to build. Beats Music is in a completely different league, with a deep set of features and content. It looks like an app that’s had years to mature, not a 1.0.</p>
+<p>I’d like to see Apple get back to doing fewer things and doing them well. That means no TV or smartwatch. They need more product categories like photography, which they excel at. The iPhone camera is the best, the built-in Photos and Camera apps are great, and there’s a rich layer of third-party apps to fill in additional features. <a href="http://www.youtube.com/watch?v=NoVW62mwSQQ">Apple’s photos ad</a> perfectly captures this.</p>
+<p>Apple, fall in love with the next product category and lead us there. We’re ready for the next thing you <em>love</em>, not the next thing that Wall Street assumes everyone wants.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/02/we_love_music.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.474 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:14:58 -->

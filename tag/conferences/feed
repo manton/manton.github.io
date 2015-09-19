@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; conferences</title>
+	<atom:link href="http://www.manton.org/tag/conferences/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Conferences in cool places</title>
+		<link>http://www.manton.org/2015/04/conferences-in-cool-places.html</link>
+		<comments>http://www.manton.org/2015/04/conferences-in-cool-places.html#comments</comments>
+		<pubDate>Tue, 07 Apr 2015 19:01:09 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[cocoaconf]]></category>
+		<category><![CDATA[conferences]]></category>
+		<category><![CDATA[ireland]]></category>
+		<category><![CDATA[travel]]></category>
+		<category><![CDATA[ull]]></category>
+		<category><![CDATA[yosemite]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2548</guid>
+		<description><![CDATA[Last week my Instagram timeline included a bunch of really beautiful photos from folks in Ireland for Úll. Jason Snell writes about the conference: “The location, in Killarney in county Kerry, is spectacular. It’s rainy and windy and the different patterns on the surface of the lake right outside the hotel are beautiful to watch.” [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Last week my Instagram timeline included a bunch of really beautiful photos from folks in Ireland for Úll. <a href="http://sixcolors.com/2015/03/notes-and-podcasts-from-ireland/">Jason Snell writes</a> about the conference:</p>
+<blockquote><p>
+  “The location, in Killarney in county Kerry, is spectacular. It’s rainy and windy and the different patterns on the surface of the lake right outside the hotel are beautiful to watch.”
+</p></blockquote>
+<p>There were a lot of neat ideas for Úll that I bet made it special, including <a href="http://2015.ull.ie/site/blog/childrenstrack">a kids track</a> and the <a href="http://2015.ull.ie/site/blog/the-ull-train-is-a-coming">train ride</a>. I’m a sucker for anything train related, for example the <a href="http://releasenotes.tv/conference/#venue">train car hotel rooms</a> in the upcoming Release Notes conference venue.</p>
+<p>These special touches transform a conference into half work, half vacation. Every technical thing you might want to learn is on the internet these days anyway. Conferences should be about inspiration as much as anything else, and a great setting is part of that.</p>
+<p><a href="http://sixcolors.com/link/2015/04/tickets-still-available-for-yosemite-conference/">Here’s Jason again</a>, writing about the national park location for Yosemite CocoaConf:</p>
+<blockquote><p>
+  “As I just experienced at Úll in Ireland, these sorts of conferences are truly special. It’s a chance for a small group of people who share an interest in Apple and related technologies to spend a few days together. They’re always a blast, but add in the unique setting of Yosemite National Park and this one promises to be that much more amazing.”
+</p></blockquote>
+<p>I’m sorry to miss that one. For the last several years I’ve mostly fallen into a pattern of traveling to attend just one non-WWDC conference a year. This year I’ll be <a href="http://cocoaconf.com/session/details/649">speaking at CocoaConf in Austin</a> and hope to make <a href="http://releasenotes.tv/conference/">Release Notes</a> as well. Tickets for CocoaConf are on sale now, and Release Notes tickets should be announced soon.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/04/conferences-in-cool-places.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CocoaConf and Core Intuition 83</title>
+		<link>http://www.manton.org/2013/04/cocoaconf_and_core.html</link>
+		<comments>http://www.manton.org/2013/04/cocoaconf_and_core.html#comments</comments>
+		<pubDate>Thu, 04 Apr 2013 14:36:19 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[cocoaconf]]></category>
+		<category><![CDATA[conferences]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[podcast]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/04/cocoaconf_and_core.html</guid>
+		<description><![CDATA[We just posted episode 83 of Core Intuition, with a preview of my trip up to Dallas for CocoaConf this weekend, and a discussion of Safari extensions, WWDC videos, Michael Jurewitz’s blog posts, his return to Apple, and more. It looks like you can still attend CocoaConf if you grab a ticket today before they [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We just posted <a href="http://www.coreint.org/2013/04/episode-83-this-weeks-lofty-goal/">episode 83 of Core Intuition</a>, with a preview of my trip up to Dallas for CocoaConf this weekend, and a discussion of Safari extensions, WWDC videos, Michael Jurewitz’s blog posts, his return to Apple, and more.</p>
+<p>It looks like you can still attend CocoaConf if you grab a ticket today before they close registration. <a href="http://cocoaconf.com/dallas-2013/home">Check out the web site</a> for details on the Dallas event.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/04/cocoaconf_and_core.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SXSW 2012 and Twitter API innovation</title>
+		<link>http://www.manton.org/2011/09/sxsw_2012_and.html</link>
+		<comments>http://www.manton.org/2011/09/sxsw_2012_and.html#comments</comments>
+		<pubDate>Thu, 01 Sep 2011 15:06:43 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[conferences]]></category>
+		<category><![CDATA[sxsw]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2011/09/sxsw_2012_and.html</guid>
+		<description><![CDATA[The short version of this post is: &#8220;please vote for my SXSW talk&#8221;:http://panelpicker.sxsw.com/ideas/view/11867, which I&#8217;ve proposed with David Barnard of App Cubby. If selected, we&#8217;ll be talking about how to innovate on top of Twitter, using examples from the history of Twitter apps in the App Store including Tweet Marker, Tweet Library, and David&#8217;s upcoming [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The short version of this post is: &#8220;please vote for my SXSW talk&#8221;:http://panelpicker.sxsw.com/ideas/view/11867, which I&#8217;ve proposed with David Barnard of App Cubby. If selected, we&#8217;ll be talking about how to innovate on top of Twitter, using examples from the history of Twitter apps in the App Store including Tweet Marker, Tweet Library, and David&#8217;s upcoming app Tweet Speaker. Equal parts business and APIs, I hope it&#8217;ll capture how much we can still do if we think beyond the Twitter basics.</p>
+<p>The longer story is that SXSW is always changing. I started this blog on the first day of SXSW 2002, when the conference was just a few rooms in a single hallway, and I&#8217;ve seen it grow to more than a few <em>venues</em> spread across downtown Austin and even farther out. That&#8217;s okay. There&#8217;s a place for small events, as SXSW once was, and there&#8217;s a place for <em>the</em> event where the blogging, design, social network, and software folks can meet in one place.</p>
+<p>Take the Mac and iOS development world. This year alone has NSConference, Voices That Matter, 360|iDev, 360|MacDev, CocoaConf, MacTech, &Ccedil;ingleton, and SecondConf. These attract developers from all over the country, but most people can attend one at most, and many events are regional conferences at heart.</p>
+<p>We need WWDC as the single place. No matter how great the smaller conferences are, WWDC is the big one, the one you don&#8217;t miss. And so it is with SXSW.</p>
+<p>I believe SXSW 2012 is going to be fascinating to watch. A couple years past when everyone already thought it was too big, 2012 could see real turnover. Some previous attendees will skip it, and many new people will speak for the first time. I want to see that conference, to find out what its themes and focus will be, and hopefully &#8220;our talk&#8221;:http://panelpicker.sxsw.com/ideas/view/11867 can be part of it.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2011/09/sxsw_2012_and.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>360iDev Austin (in tweets)</title>
+		<link>http://www.manton.org/2010/12/360idev_austin_in.html</link>
+		<comments>http://www.manton.org/2010/12/360idev_austin_in.html#comments</comments>
+		<pubDate>Wed, 15 Dec 2010 17:08:04 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[360idev]]></category>
+		<category><![CDATA[austin]]></category>
+		<category><![CDATA[conferences]]></category>
+		<category><![CDATA[ios]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2010/12/360idev_austin_in.html</guid>
+		<description><![CDATA[On &#8220;episode 35 of Core Intuition&#8221;:http://www.coreint.org/2010/11/episode-35-wrap-it-up-in-cocoa/ I mentioned attending the 360iDev conference, and we brought it up again on the next show while plugging 360MacDev. I had a great time at the conference and hope to attend another one in the future. The best part was meeting all the iPhone developers who I&#8217;ve never crossed [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>On &#8220;episode 35 of Core Intuition&#8221;:http://www.coreint.org/2010/11/episode-35-wrap-it-up-in-cocoa/ I mentioned attending the 360iDev conference, and we brought it up again on the next show while plugging 360MacDev. I had a great time at the conference and hope to attend another one in the future.</p>
+<p>The best part was meeting all the iPhone developers who I&#8217;ve never crossed paths with, and catching up with others I&#8217;d only met briefly before. iPhone developers come from a mix of places, from old Mac developers to web developers to traditional mobile or game developers. While there&#8217;s a risk that having so many small regional conferences will fragment the community, this concentrated group of mostly iPhone-only developers made for a great few days of sessions and discussion.</p>
+<p>And my main concern leading into the conference &mdash; that the hotel location would make it difficult for people to head downtown or see other parts of Austin &mdash; turned out to be mostly a non-issue. I had a great time hanging out with everyone in the evening, and hope some of you will be back for SXSW.</p>
+<p>I used Tweet Library to &#8220;collect about 120 tweets from attendees&#8221;:http://www.tweetlibrary.com/manton/360idevaustin at the conference: reaction to sessions, quotes, speaker slide URLs, dinner out, and more. Capturing an event like this is why I built the app. What you had for dinner isn&#8217;t interesting by itself, but <em>in context</em> it is powerful because it tells a story.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2010/12/360idev_austin_in.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>I didn&#8217;t go to C4</title>
+		<link>http://www.manton.org/2006/10/i_didnt_go.html</link>
+		<comments>http://www.manton.org/2006/10/i_didnt_go.html#comments</comments>
+		<pubDate>Thu, 26 Oct 2006 02:47:21 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[c4]]></category>
+		<category><![CDATA[conferences]]></category>
+		<category><![CDATA[mac]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2006/10/i_didnt_go.html</guid>
+		<description><![CDATA[C4 was last weekend and looked like a lot of fun. Unfortunately I was about travelled-out this year with RailsConf and WWDC. Perhaps next time. Daniel Jalkut was the first I saw with nice write-up. He provides &#8220;a speed-through of sessions&#8221;:http://www.red-sweater.com/blog/213/c4-abridged and closes with what is probably the biggest draw for attendees: &#8220;As inspiring and [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>C4 was last weekend and looked like a lot of fun. Unfortunately I was about travelled-out this year with RailsConf and WWDC. Perhaps next time.</p>
+<p>Daniel Jalkut was the first I saw with nice write-up. He provides &#8220;a speed-through of sessions&#8221;:http://www.red-sweater.com/blog/213/c4-abridged and closes with what is probably the biggest draw for attendees:</p>
+<blockquote><p>&#8220;As inspiring and as much fun as the scheduled speakers were, the unstructured social time both between sessions and in the evenings were just as much fun, and probably just as educational.&#8221;</p></blockquote>
+<p>I subscribe to a couple dozen Mac developer blogs, and keeping an eye on Flickr and Technorati tags for C4 is another great way to see what developers are up to. Mr. Rentzsch himself has a &#8220;set of links here&#8221;:http://rentzsch.com/c4/zeroLinkage, and Mike Zornek just posted some &#8220;short videos of the room&#8221;:http://clickablebliss.com/blog/2006/10/25/c4_photos_and_movies/ that give another view of the show.</p>
+<p>When I go back through my older Mac programming posts, I&#8217;m reminded that I don&#8217;t really blog about Mac development as much as I used to. Perhaps that is because there are so many other good Mac guys blogging now.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2006/10/i_didnt_go.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Mac OS X Conference blogs</title>
+		<link>http://www.manton.org/2002/10/mac_os_x-2.html</link>
+		<comments>http://www.manton.org/2002/10/mac_os_x-2.html#comments</comments>
+		<pubDate>Wed, 02 Oct 2002 03:42:14 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[cocoa]]></category>
+		<category><![CDATA[conferences]]></category>
+		<category><![CDATA[duncandavidson]]></category>
+		<category><![CDATA[oreilly]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2002/10/mac_os_x-2.html</guid>
+		<description><![CDATA[It&#8217;s fun watching the posts come in to the Mac OS X Conference &#8220;Trackback&#8221; feed. Hopefully more people will hook into it before the conference is over. It&#8217;s a good way to learn about other blogs that share a common interest. MacCentral has a short write-up on James Duncan Davidson&#8217;s Cocoa talk at the OS [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>It&#8217;s fun watching the posts come in to the <a href="http://www.movabletype.org/osxcon/">Mac OS X Conference &#8220;Trackback&#8221;</a> feed. Hopefully more people will hook into it before the conference is over. It&#8217;s a good way to learn about other blogs that share a common interest.</p>
+<p>MacCentral has a short write-up on <a href="http://maccentral.macworld.com/news/0210/01.cocoa.php">James Duncan Davidson&#8217;s Cocoa talk</a> at the OS X conference. One quote that stood out for me: &#8220;Project Builder was the first IDE I actually liked&#8221;. That&#8217;s funny &#8212; the more I use Project Builder, the less I like it.</p>
+<p>There&#8217;s also <a href="http://www.macdevcenter.com/mac/osx2002/">some coverage</a> at the O&#8217;Reilly site.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2002/10/mac_os_x-2.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.917 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:29:03 -->

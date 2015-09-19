@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; bodega</title>
+	<atom:link href="http://www.manton.org/tag/bodega/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Bodega bootstrap</title>
+		<link>http://www.manton.org/2010/02/bodega_bootstrap.html</link>
+		<comments>http://www.manton.org/2010/02/bodega_bootstrap.html#comments</comments>
+		<pubDate>Wed, 03 Feb 2010 04:24:50 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[bodega]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[mac]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2010/02/bodega_bootstrap.html</guid>
+		<description><![CDATA[I wrote the following before the iPad was announced. The world may have changed since then, but I&#8217;m posting it anyway. Enjoy. I like the content but not the title in &#8220;John Casasanta&#8217;s blog post about the so-called death of Mac software&#8221;:http://www.taptaptap.com/blog/iphone-software-sustainability-and-the-death-of-mac-software/. He shares some great stats and lays out the case for why iPhone [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><em>I wrote the following before the iPad was announced. The world may have changed since then, but I&#8217;m posting it anyway. Enjoy.</em></p>
+<p>I like the content but not the title in &#8220;John Casasanta&#8217;s blog post about the so-called death of Mac software&#8221;:http://www.taptaptap.com/blog/iphone-software-sustainability-and-the-death-of-mac-software/. He shares some great stats and lays out the case for why iPhone development is more appealing and successful for him, but that doesn&#8217;t make the Mac dead. What he really meant and says later is that it&#8217;s <em>dead to him</em>.</p>
+<p>For those of us who love writing Mac software and who don&#8217;t feel the pull of get-rich-quick blockbuster apps, the Mac is alive and remains just as healthy as it was before the iPhone was announced.</p>
+<p>That&#8217;s not what I want to write about, though. The real question is <em>how do we learn from the App Store and expand the market for Mac software</em>. Compared to the iPhone, the Mac has a fragmented application discovery and an inconsistent purchasing experience.</p>
+<p>When Keith Alperin and Rick Fillion &#8220;talked on the MDN Show&#8221;:http://www.mac-developer-network.com/shows/podcasts/mdnshow/mdn017/ about a possible Mac app store, Rick revealed some interesting numbers from &#8220;Bodega&#8217;s&#8221;:http://appbodega.com/ installed base: 80,000 downloads and 10,000 active users. They&#8217;re not 1.0, and I don&#8217;t see anything wrong with these numbers, but it&#8217;s not big enough yet to make an iPhone-like impact on how we buy Mac software.</p>
+<p>What Bodega does have is a technology head start. &#8220;My products&#8221;:http://www.riverfold.com/ have been listed there since launch, and they have a polished application and feature-rich backend for tracking releases and collecting usage metrics. The key is solving the chicken-and-egg problem of getting the Bodega app in everyone&#8217;s hands.</p>
+<p>There are two approaches: either get people excited about installing Bodega because it&#8217;s useful for updating existing apps (which it is), or sneak a copy of Bodega on to many more Macs (which is what this post is about). This solution isn&#8217;t perfect, but short of Apple building a real Mac App Store or a marketing giant like MacHeist getting involved, it&#8217;s the only idea I can see working.</p>
+<p>First, start with &#8220;PotionStorefront&#8221;:http://github.com/potionfactory/potionstorefront. There are a few of these in-app purchase frameworks out there, but I like the &#8220;Potion Factory&#8217;s aesthetic&#8221;:http://www.potionfactory.com/thehitlist/ and Potion Store is popular. The web service used to submit orders could be supported by other custom store backends, including Bodega&#8217;s own purchasing system when they have it.</p>
+<p>On top of this in-app purchase foundation, you bundle a subset of the Bodega application discovery UI directly into the framework. Users can download and install demo versions of new apps without leaving the catalog. Think of it as a &#8220;lite&#8221; version of Bodega, streamlined to fit inside everyone&#8217;s app. You also include the full Bodega application so that it can be launched and optionally installed in the user&#8217;s applications folder.</p>
+<p>What you&#8217;ve effectively done here is give everyone who buys a third-party app access to a new store where they can discover other apps. It&#8217;s compelling for developers because the more companies that participate, the wider their reach becomes. And it&#8217;s great for users because over time it starts to create a consistent user experience, and familiarity reduces the effort in buying Mac software.</p>
+<p>Some tricky issues remain, though. You don&#8217;t want to distract users from buying their first application, or muddle that app&#8217;s branding, and you want to later encourage users to find or be notified about new applications without it looking like an advertisement. The challenge is in finding a balance that most developers would want to use.</p>
+<p>Back to the iPhone&#8217;s success, from a post by &#8220;Guy English&#8221;:http://kickingbear.com/blog/archives/67:</p>
+<blockquote><p>&#8220;People, lots and lots of people, people who have no idea what software even is, will download Apps like they&#8217;re snacking on potatoe chips. What&#8217;s my proof? Well, two million downloads of an App in a week supports that and I&#8217;d argue that a total of three billion Apps downloaded backs up my argument too.&#8221;</p></blockquote>
+<p>We&#8217;ve never seen anything like it, and I&#8217;m really happy for my friends who have had success on the iPhone. Luckily, the iPhone and Mac don&#8217;t actually compete. The App Store can sell ten thousand times the amount of software as the Mac does and it doesn&#8217;t change the fact that Mac users need software too. It&#8217;s our job as developers to continue to provide solutions for users and help those users find us.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2010/02/bodega_bootstrap.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.307 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:46:57 -->

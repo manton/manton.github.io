@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; developers</title>
+	<atom:link href="http://www.manton.org/tag/developers/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>On the eve of Twitter Flight</title>
+		<link>http://www.manton.org/2014/10/on-the-eve-of-twitter-flight.html</link>
+		<comments>http://www.manton.org/2014/10/on-the-eve-of-twitter-flight.html#comments</comments>
+		<pubDate>Wed, 22 Oct 2014 05:06:55 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[developers]]></category>
+		<category><![CDATA[flight]]></category>
+		<category><![CDATA[microblogging]]></category>
+		<category><![CDATA[snippets]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2344.html</guid>
+		<description><![CDATA[Twitter&#8217;s new mobile developer conference is tomorrow. Marco Arment writes about whether developers should give Twitter another chance: &#8220;Twitter started out as a developer-friendly company, then they became a developer-hostile company, and now they’re trying to be a developer-friendly company again. If I had to pick a company to have absolute power over something very [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://www.twitterflight.com/">Twitter&#8217;s new mobile developer conference</a> is tomorrow. <a href="http://www.marco.org/2014/10/20/wsj-twitter-peace-offering">Marco Arment writes</a> about whether developers should give Twitter another chance:</p>
+<blockquote><p>
+  &#8220;Twitter started out as a developer-friendly company, then they became a developer-hostile company, and now they’re trying to be a developer-friendly company again. If I had to pick a company to have absolute power over something very important, Twitter wouldn’t be very high on the list.&#8221;
+</p></blockquote>
+<p><a href="http://scripting.com/2014/10/21/whyISayYesToTwitter.html">Dave Winer responds</a> that for now, we&#8217;ll be okay trusting Twitter:</p>
+<blockquote><p>
+  &#8220;Twitter is not going to screw us in the short term. They need us as much as we need them. Independent developers are where wholly new ideas come from. You can&#8217;t hire people to do that to work inside companies.&#8221;
+</p></blockquote>
+<p>The unique tragedy with Twitter&#8217;s changing attitude toward developers is that so many of Twitter&#8217;s early innovations <a href="http://furbo.org/2011/03/11/twitterrific-firsts/">did come from third-party developers</a>. The new leadership displayed an incredible disrespect for the value developers added to both the ecosystem and core platform.</p>
+<p>Unfortunately in the &#8220;short term&#8221; it&#8217;s still happening. Not 4 years ago, not 2 years ago — just <em>1 month ago</em>, TwitPic announced they are shutting down after a legal threat from Twitter. <a href="http://www.manton.org/2014/09/twitpic-and-whats-next.html">It&#8217;s a loss for the web</a>, leaving millions of broken image links in old tweets. This latest third-party developer casualty from Twitter&#8217;s policies comes practically on the eve of their new developer conference.</p>
+<p>I agree with Dave&#8217;s larger points, though, on mirroring content to your own blog in addition to Twitter and Facebook. His <a href="http://radio3.io/">Radio3</a> is a step forward for RSS and the open web while still embracing social networks. We need more tools like it.</p>
+<p><a href="https://twitter.com/manton/status/254228056657494016">2 years ago</a> I chose to stop tweeting from my personal Twitter account as a minor protest. I don&#8217;t expect everyone else to take such an extreme stance. We can agree on open formats and the power of microblogging while disagreeing on how to interact with Twitter.</p>
+<p>(Skeptics say that leaving Twitter is a pointless gesture, like a pebble thrown into a river. The timeline flows on and the outrage is washed away as if it didn&#8217;t happen. If leaving doesn&#8217;t make an impact, why bother? But it does matter. It matters not for the change it creates directly for others, but for how it changed me. In the same way that writing an essay will solidify your thoughts on a subject, posting that last tweet has given me a new clarity from which to judge whether my own products are on the right track, living up to my ideals.)</p>
+<p>Back to the present. On the flight up to Çingleton and back, I finally got around to reading the book <a href="http://www.amazon.com/gp/product/1591847087/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1591847087&amp;linkCode=as2&amp;tag=mantonorg&amp;linkId=B2NMWRQKBXSK7MCT">Hatching Twitter</a>. Since I was on Twitter near the beginning, I remember many events covered in the book: the launch at SXSW, the CEO shuffling, the names of early engineers who I&#8217;ve crossed paths with. I love how the book blends together things that I know are real with other details that must be more contrived or exaggerated, creating an engaging read that would seem to border on historical fiction if we didn&#8217;t know that it was basically all true.</p>
+<p>Hatching Twitter captures the power struggles inside Twitter and fills a book with them. And that&#8217;s really the foundation for Marco&#8217;s post: based on Twitter&#8217;s history, we probably haven&#8217;t seen the last leadership change at the company. Twitter <em>might</em> have a strong future but it surely has an uncertain one.</p>
+<p>My next product is about microblogging, and it has to launch in the real world where Twitter dominates. But I view that as a reality, not a feature requirement. I think I&#8217;ll be happier as a developer, and my app will actually be more compelling, if I design and build it for a world without Twitter.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/10/on-the-eve-of-twitter-flight.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Announcing the Tweet Marker developer plan</title>
+		<link>http://www.manton.org/2013/07/announcing_the_tweet.html</link>
+		<comments>http://www.manton.org/2013/07/announcing_the_tweet.html#comments</comments>
+		<pubDate>Tue, 23 Jul 2013 14:17:40 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[developers]]></category>
+		<category><![CDATA[subscriptions]]></category>
+		<category><![CDATA[tweetmarker]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/07/announcing_the_tweet.html</guid>
+		<description><![CDATA[I’m launching a new paid developer plan for Tweet Marker today. It’s $75/month and includes a new admin dashboard with stats on active users, hits, and more. I’ve also expanded the API to support syncing which direct messages have been read. Why charge developers now, after keeping the service free for 2 years? In part [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I’m launching a new <a href="https://api.tweetmarker.net/developers/">paid developer plan for Tweet Marker</a> today. It’s $75/month and includes a new admin dashboard with stats on active users, hits, and more. I’ve also expanded the API to support syncing which direct messages have been read.</p>
+<p>Why charge developers now, after keeping the service free for 2 years? In part it’s because of something I learned from publishing the <a href="http://coreint.org/">Core Intuition</a> podcast with Daniel Jalkut. Because for the first few years of Core Intuition, Daniel and I had trouble getting episodes out very regularly; there was always something more important to work on. Adding sponsors pushed us to stick to a weekly schedule, and it’s worked out even better than I expected.</p>
+<p>I hope the same thing will happen for Tweet Marker. Although I’ve put countless hours into maintaining Tweet Marker (and plenty of money on hosting), I couldn’t justify the effort to create new APIs because it wasn’t a revenue-generating product. Now I can dedicate more time to it, even with a modest level of support from developers.</p>
+<p>Of course, I’m sensitive to the difficulty of transitioning from a free to paid product. That’s why I’m doing two things to make it easier for everyone.</p>
+<p>First, I won’t be turning off any existing developers’ access to the service. The last thing I’d want is to break third-party Twitter apps currently in use. But I do strongly encourage commercial app developers to subscribe if they have the means to.</p>
+<p>Second, I’ve created a referral program for app developers to let their customers know about the <a href="https://api.tweetmarker.net/subscribe">$1/month user subscription</a>. This is a great way for developers to show their support even if they can’t subscribe to the developer plan. But even better, for developers who do subscribe, their account will be credited for each paid user they refer. This can effectively make the new developer plan free or significantly discounted.</p>
+<p>This is a big change for Tweet Marker, but an important one to make Tweet Marker strong. I’m excited to keep working on it, so that Twitter apps can work even better together. <a href="https://api.tweetmarker.net/developers/signin">Sign in here</a> to learn more about it.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/07/announcing_the_tweet.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>App.net&#8217;s great start</title>
+		<link>http://www.manton.org/2012/08/appnets_great_start.html</link>
+		<comments>http://www.manton.org/2012/08/appnets_great_start.html#comments</comments>
+		<pubDate>Sun, 12 Aug 2012 21:44:46 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[appnet]]></category>
+		<category><![CDATA[clients]]></category>
+		<category><![CDATA[developers]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2012/08/appnets_great_start.html</guid>
+		<description><![CDATA[Today, App.net passed its $500,000 funding goal. A few weeks ago when I signed up with my $50, I didn&#8217;t think they could do it. And Daniel and I were both pessimistic about their chances when we talked about it on Core Intuition 50. In less than a month, they went from a mission statement [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Today, <a href="http://daltoncaldwell.com/we-did-it">App.net passed its $500,000 funding goal</a>. A few weeks ago when I signed up with my $50, I didn&#8217;t think they could do it. And Daniel and I were both pessimistic about their chances when we talked about it on <a href="http://www.coreint.org/2012/07/episode-50-dont-get-too-attached/">Core Intuition 50</a>.</p>
+<p>In less than a month, they went from a mission statement video that seemed just a step away from vaporware, to following through on an API spec and then alpha version web site. They delivered. The momentum of <em>shipping something real</em> brought in new users and drove them to the finish.</p>
+<p>What I love most about App.net is the transparency. Founder Dalton Caldwell is a blogger, like one of us. Where we only hear from Twitter&#8217;s CEO, Dick Costolo, through big news publications or at conference keynotes, for Dalton we hear it directly from his own blog posts, the way a small company should communicate. Being on the ground in posts and tweets is a perfect complement to his goal of treating users and developers as real customers.</p>
+<p>App.net will never overtake Twitter. Look no further than hashtags all over the Olympics as proof of that. But App.net can put pressure on Twitter to respect third-party developers, and with thousands of paying customers, all with a vested interest in making App.net something worthwhile, App.net has already surpassed every other Twitter clone that has tried and failed to build a community.</p>
+<p>From <a href="http://paulgraham.com/ambitious.html">Paul Graham&#8217;s essay on ambitious startup ideas</a>:</p>
+<blockquote><p>
+  &#8220;The way to win here is to build the search engine all the hackers use. A search engine whose users consisted of the top 10,000 hackers and no one else would be in a very powerful position despite its small size, just as Google was when it was that search engine. […]</p>
+<p>  &#8220;Don&#8217;t worry if something you want to do will constrain you in the long term, because if you don&#8217;t get that initial core of users, there won&#8217;t be a long term. If you can just build something that you and your friends genuinely prefer to Google, you&#8217;re already about 10% of the way to an IPO, just as Facebook was (though they probably didn&#8217;t realize it) when they got all the Harvard undergrads.&#8221;
+</p></blockquote>
+<p>He&#8217;s talking about search engines, but it could be anything. Get those 10,000 passionate users and you have a chance to take on the giants in the industry. As of this writing, App.net has 8000 paying customers. And 25% of them signed up at the developer tier. I&#8217;m sure every developer with a popular Twitter app has already looked at the App.net API documentation.</p>
+<p>As <a href="https://twitter.com/siracusa/status/234709098124414976">John Siracusa tweeted</a> after App.net successfully funded: &#8220;Now comes the hard part.&#8221; Totally true, but just reaching this point was difficult — a perfect mix of great timing and even better execution. In the first 30 days, we saw a team that knows how to win. Let&#8217;s see what they can do next.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2012/08/appnets_great_start.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Where Apple went wrong with free apps</title>
+		<link>http://www.manton.org/2011/03/where_apple_went.html</link>
+		<comments>http://www.manton.org/2011/03/where_apple_went.html#comments</comments>
+		<pubDate>Tue, 08 Mar 2011 18:49:27 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[amazon]]></category>
+		<category><![CDATA[android]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[developers]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2011/03/where_apple_went.html</guid>
+		<description><![CDATA[&#8220;John Gruber has a solid summary&#8221;:http://daringfireball.net/2011/03/dirty_percent of the issues around in-app purchase. Regarding the closed platform: &#8220;iOS isn&#8217;t and never was an open computer system. It&#8217;s a closed, controlled console system &#8212; more akin to Playstation or Wii or Xbox than to Mac OS X or Windows. It is, in Apple&#8217;s view, a privilege to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>&#8220;John Gruber has a solid summary&#8221;:http://daringfireball.net/2011/03/dirty_percent of the issues around in-app purchase. Regarding the closed platform:</p>
+<blockquote><p>&#8220;iOS isn&#8217;t and never was an open computer system. It&#8217;s a closed, controlled console system &mdash; more akin to Playstation or Wii or Xbox than to Mac OS X or Windows. It is, in Apple&#8217;s view, a privilege to have a native iOS app.&#8221;</p></blockquote>
+<p>This is the root of nearly every strength and problem with the App Store. I&#8217;ll never be happy about it. But in-app purchase restrictions are even more complicated than that. It started not just with the controlled environment but the decisions around free apps.</p>
+<p>&#8220;Michael Tsai points to this Peter Oppenheimer quote&#8221;:http://mjtsai.com/blog/2011/02/24/app-store-revenue-stream/ from late February that Apple runs the App Store at &#8220;just a little over breakeven&#8221;. I&#8217;ve argued that Apple&#8217;s 30% tax is about growing that to significant profit at the expense of developers, but in the back of my head I&#8217;ve also been concerned that maybe it&#8217;s just to keep the App Store from falling into the red. Maybe they are really struggling under the weight of what they created, and long app review times and lack of focus around the Mac App Store launch are just symptoms of that.</p>
+<p>If this is true, then I&#8217;m more sympathetic to Apple&#8217;s predicament. They aren&#8217;t being greedy; they&#8217;re just trying not to lose money. But that doesn&#8217;t mean they didn&#8217;t make a mistake.</p>
+<p>Steve Jobs, announcing the App Store in March 2008:</p>
+<blockquote><p>&#8220;You know what price a lot of developers are going to pick? Free, right? So when a developer wants to distribute their app for free, there is no charge for free apps. At all. There&#8217;s no charge to the user, and there&#8217;s no charge to the developer. We&#8217;re going to pay for everything to get those apps out there for free. The developer and us have the same exact interest, which is to get as many apps out in front of as many iPhone users as possible.&#8221;</p></blockquote>
+<p>I remember being surprised when I heard this. We take for granted now that much of the App Store&#8217;s success is because of free apps, but I&#8217;m not sure it had to be that way. The iTunes Music Store launched with a full paid catalog of music. Many of the hits in the App Store, like Angry Birds and Doodle Jump, have never been free.</p>
+<p>But watching Steve Jobs from 2008, you can tell Apple was worried that what happened to the Mac (lack of third-party apps and games) might happen to the iPhone as well, so they gambled the profitability of the App Store away to encourage as many apps as possible. That was their choice.</p>
+<p>Again, from Steve Jobs: &#8220;We keep 30% to pay for running the App Store.&#8221; Not a profit center. Not a business. Just to pay for running the store, so that the user experience for app discovery on the iPhone is second to none.</p>
+<p>Today, we know that Apple has never planned well for free apps. You don&#8217;t need to look much further than their &#8220;reversal of allowing in-app purchase in free apps&#8221;:http://www.macworld.com/article/143339/2009/10/appstorepurchasing.html to see that they are making this stuff up as they go along.</p>
+<p>When Steve Jobs said it, offering free apps for so little seemed almost foolish, like Apple was compensating for the high 30% by giving <em>too</em> good a deal to free apps. Why not charge some hosting fee? Or why not give up exclusive distribution and let free apps be installed directly by the user without forcing everything through the App Store? Unlimited bandwidth, promotion in the store, and everything else just for the $99 dev program fee was a pretty good deal.</p>
+<p>And now I wonder if Apple hasn&#8217;t been backpedaling ever since, trying to make up for that mistake: free apps are a burden. iAd was the first correction, because a share of revenue from free apps was going to Google instead of Apple. In-app purchase is the next correction, because real value can be delivered in a free app with transactions handled elsewhere.</p>
+<p>Apple can&#8217;t accept a future in which too many apps are technically free &mdash; something that has already happened on Android &mdash; unless they are also taking a cut when money changes hands outside of app download.</p>
+<p>&#8220;Matt Drance clearly spotted the loophole&#8221;:http://www.appleoutsider.com/2011/02/22/omgiapbbq/ that forces Apple to be so strict with in-app rules:</p>
+<blockquote><p>&#8220;30% to Apple across the board &mdash; app sales, IAP, and now subscriptions &mdash; is consistent, clear, and uncheatable. That cheating bit is significant: a 10% commission for subscriptions, for example, would see developers adopting the subscription system en masse so they could keep more money. Apps that were once $2.99 would suddenly be asking for installments like late-night infomercials.&#8221;</p></blockquote>
+<p>Apple is trapped by their original decision to shoulder the cost of free apps. They encouraged free apps and now they&#8217;ve got one band-aid on top of another &mdash; advertisements, in-app purchase, subscriptions &mdash; all trying to make free apps work for the App Store bottom line. These changes make developers nervous because all the power lies with Apple.</p>
+<p>Free apps and the problem of exclusive distribution are linked. Get rid of free apps, and the store can support itself naturally. Get rid of exclusive distribution, and Apple can be more creative about charging developers who do want to participate in the App Store. If Amazon isn&#8217;t happy with Apple&#8217;s terms, users can install the Kindle app outside the store and it doesn&#8217;t cost Apple anything to maintain.</p>
+<p>Apple, want to charge 30%? Go for it. Want to make the submission rules more strict? Fine. Want to adjust how you run the App Store to reflect what&#8217;s happening in the market? No problem. Just give developers an out. We are going to be back here year after year with the latest controversy until exclusive app distribution is fixed.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2011/03/where_apple_went.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 2.100 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:16:17 -->

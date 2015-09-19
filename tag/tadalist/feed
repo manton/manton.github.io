@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; tadalist</title>
+	<atom:link href="http://www.manton.org/tag/tadalist/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Ta-da List export to TaskPaper</title>
+		<link>http://www.manton.org/2007/08/tada_list_export.html</link>
+		<comments>http://www.manton.org/2007/08/tada_list_export.html#comments</comments>
+		<pubDate>Sat, 04 Aug 2007 06:38:51 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[export]]></category>
+		<category><![CDATA[ruby]]></category>
+		<category><![CDATA[tadalist]]></category>
+		<category><![CDATA[taskpaper]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/08/tada_list_export.html</guid>
+		<description><![CDATA[I&#8217;ve been using &#8220;Ta-da List&#8221;:http://www.tadalist.com/ for the last couple of years for all my to-do lists. I have about 100 lists and love the speed of adding new items and some of the subtle smarts it applies to sorting recent lists and cleaning up completed ones. But I&#8217;ve been on the lookout for a desktop [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;ve been using &#8220;Ta-da List&#8221;:http://www.tadalist.com/ for the last couple of years for all my to-do lists. I have about 100 lists and love the speed of adding new items and some of the subtle smarts it applies to sorting recent lists and cleaning up completed ones.</p>
+<p>But I&#8217;ve been on the lookout for a desktop app. OmniOutliner has become a bit bloated and all the Getting Things Done apps seem so structured. Along comes &#8220;TaskPaper&#8221;:http://hogbaysoftware.com/projects/taskpaper today and there&#8217;s a lot to like. The plain text file format is refreshing and nicely open.</p>
+<p>I wrote a Ruby script to export all my lists from Ta-da into TaskPaper so that I can give it a proper workout. It makes a new document (with a single project) for each list it finds. Make sure to install &#8220;Hpricot&#8221;:http://code.whytheluckystiff.net/hpricot/ first &#8212; there&#8217;s no official Ta-da List API so we need to parse HTML a little.</p>
+<p>Download: &#8220;tadalist_taskpaper.rb&#8221;:http://www.manton.org/software/scripts/tadalist_taskpaper.rb</p>
+<p>Instructions:</p>
+<ul>
+<li>Open the file in your favorite text editor and change TADALIST_HOST to whatever your account is.</p>
+</li>
+<li>
+<p>Make sure Safari is running and you have logged into Ta-da. The script reads the cookie value from Safari&#8217;s Cookies.plist so that it doesn&#8217;t need to simulate a real sign-in.</p>
+</li>
+<li>
+<p>Run from the command line. It will create the new files in the current directory.</p>
+</li>
+<li>
+<p>You will see short status messages for what it is doing. It&#8217;s broken if there are any Ruby exceptions.</p>
+</li>
+</ul>
+<p>Enjoy!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2007/08/tada_list_export.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Falling in love with VoodooPad again</title>
+		<link>http://www.manton.org/2007/01/falling_in_love.html</link>
+		<comments>http://www.manton.org/2007/01/falling_in_love.html#comments</comments>
+		<pubDate>Sat, 06 Jan 2007 06:21:44 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[help]]></category>
+		<category><![CDATA[tadalist]]></category>
+		<category><![CDATA[voodoopad]]></category>
+		<category><![CDATA[wiitransfer]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/01/falling_in_love.html</guid>
+		<description><![CDATA[A few years ago I used &#8220;VoodooPad Lite&#8221;:http://www.flyingmeat.com/voodoopad/ extensively. Every note, to-do list, and feature description went into it. At some point I migrated away from VoodooPad to a combination of text files and &#8220;Ta-da list&#8221;:http://www.tadalist.com/, perhaps fearing I would have too much data in a weird format that would be difficult to get at [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>A few years ago I used &#8220;VoodooPad Lite&#8221;:http://www.flyingmeat.com/voodoopad/ extensively. Every note, to-do list, and feature description went into it. At some point I migrated away from VoodooPad to a combination of text files and &#8220;Ta-da list&#8221;:http://www.tadalist.com/, perhaps fearing I would have too much data in a weird format that would be difficult to get at later.</p>
+<p>But I was always on the lookout for a problem that would best be solved with VoodooPad again. With our localized help files for &#8220;Bookshelf 4.1&#8243;:http://www.vitalsource.com/, I tried for most of a day to use VoodooPad to manage the help. I even experimented with Gus&#8217;s dead &#8220;project for remote wiki editing&#8221;:http://www.flyingmeat.com/fs/flystashweb.cgi?space=3ec82d22-c72a-01d9-1639-c0cbe4c4c32b, thinking I would write my own web-based help-specific wiki system and plug &#8220;Boomerang&#8221;:http://www.flyingmeat.com/fs/flystashweb.cgi/348c223e-0512-01da-1c41-c0cbe4c4fc75 into it. In the end it was too difficult to force the existing static help files into VoodooPad.</p>
+<p>Fast-forward to a few nights ago. &#8220;Wii Transfer&#8221;:http://www.riverfold.com/software/wiitransfer/ 1.5 has no Apple Help at all, and it needs some. A perfect opportunity for VoodooPad, and I&#8217;m happy to report that the solution works beautifully. I knew I could make it work because clearly VoodooPad&#8217;s own help files are managed with VoodooPad. After a bit of experimentation I bought a new VoodooPad license and all was well in the world.</p>
+<p>Here&#8217;s how it works:</p>
+<ul>
+<li>I manage the help content in VoodooPad, creating pages for different help sections and generally just typing away and getting stuff done.</p>
+</li>
+<li>
+<p>The HTML export template lives inside the VoodooPad document itself, so everything is in one place.</p>
+</li>
+<li>
+<p>Also inside the VoodooPad document is a post-processing script (written in Ruby) that looks for a comment in index.html and inserts the appropriate AppleTitle and AppleIcon meta tags that Apple Help needs to get its work done.</p>
+</li>
+</ul>
+<p>The only part I haven&#8217;t finished yet is that the script should also send the files off to Help Indexer to update the search index. I coded that part but it doesn&#8217;t work yet &#8212; there is something different about how VoodooPad executes these scripts that prevents other applications from launching. (Maybe. I&#8217;ll sort it out eventually.)</p>
+<p>You can &#8220;watch a screencast of the process here&#8221;:http://www.manton.org/screencasts/2007/voodoopad.mov. I add a new page, enter some filler text, export the VoodooPad document, then re-run the Xcode project and view the changes in Apple Help. Fun!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2007/01/falling_in_love.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.833 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:51:01 -->

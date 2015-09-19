@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; quicktime</title>
+	<atom:link href="http://www.manton.org/tag/quicktime/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>New software releases (plus screencast)</title>
+		<link>http://www.manton.org/2007/06/new_software_releases.html</link>
+		<comments>http://www.manton.org/2007/06/new_software_releases.html#comments</comments>
+		<pubDate>Wed, 06 Jun 2007 01:20:25 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[bookshelf]]></category>
+		<category><![CDATA[cocoa]]></category>
+		<category><![CDATA[highlighters]]></category>
+		<category><![CDATA[marsedit]]></category>
+		<category><![CDATA[netnewswire]]></category>
+		<category><![CDATA[quicktime]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/06/new_software_releases.html</guid>
+		<description><![CDATA[Today is a good day to release software. &#8220;MarsEdit gets a nice update&#8221;:http://www.red-sweater.com/blog/346/marsedit-12-growl-picasa-and-vox and &#8220;NetNewsWire 3.0&#8243;:http://ranchero.com/?comments=1&#38;postid=1646 ships. At VitalSource we also just released &#8220;Bookshelf 4.6&#8243;:http://www.vitalsource.com/index/bookshelf today, which lays the foundation for media-rich textbooks and adds a highlighter rating UI for any subscribed highlighters you have. This data will bubble up in a few places in [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Today is a good day to release software. &#8220;MarsEdit gets a nice update&#8221;:http://www.red-sweater.com/blog/346/marsedit-12-growl-picasa-and-vox and &#8220;NetNewsWire 3.0&#8243;:http://ranchero.com/?comments=1&amp;postid=1646 ships. At VitalSource we also just released &#8220;Bookshelf 4.6&#8243;:http://www.vitalsource.com/index/bookshelf today, which lays the foundation for media-rich textbooks and adds a highlighter rating UI for any subscribed highlighters you have. This data will bubble up in a few places in the future to allow you to discover people and books, although for now it&#8217;s one-way.</p>
+<p>Here&#8217;s a &#8220;short screencast of the rating interface&#8221;:http://www.manton.org/screencasts/2007/bookshelf_rating.mov (12 seconds, 700k). The star widget is a simple Cocoa control that hits a web service in the background. It was fun to write and surprisingly not very much code.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2007/06/new_software_releases.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Apple announcements and Flash video</title>
+		<link>http://www.manton.org/2007/05/apple_announcements_and.html</link>
+		<comments>http://www.manton.org/2007/05/apple_announcements_and.html#comments</comments>
+		<pubDate>Thu, 31 May 2007 04:09:33 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[appletv]]></category>
+		<category><![CDATA[drm]]></category>
+		<category><![CDATA[itunes]]></category>
+		<category><![CDATA[quicktime]]></category>
+		<category><![CDATA[surface]]></category>
+		<category><![CDATA[wiitransfer]]></category>
+		<category><![CDATA[youtube]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/05/apple_announcements_and.html</guid>
+		<description><![CDATA[If you are wondering why I haven&#8217;t posted here in over a month, it&#8217;s because I&#8217;ve been getting my writing fix &#8220;over on Twitter&#8221;:http://twitter.com/manton, in 140 characters or less a couple times a day. Still trying to figure out the best way to integrate that experience into this site. I also have the usual queue [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>If you are wondering why I haven&#8217;t posted here in over a month, it&#8217;s because I&#8217;ve been getting my writing fix &#8220;over on Twitter&#8221;:http://twitter.com/manton, in 140 characters or less a couple times a day. Still trying to figure out the best way to integrate that experience into this site. I also have the usual queue of blog post drafts that will roll out here when I have time.</p>
+<p>Meanwhile&#8230;</p>
+<p>A bunch of really interesting things hit today. Microsoft Surface (can&#8217;t wait for the multi-touch iPhone); iTunes Plus (already upgraded my songs); and YouTube on the Apple TV (welcome if unexpected).</p>
+<p>I have actually been dreading the iTunes Plus announcement because I am behind in &#8220;Wii Transfer&#8221;:http://www.riverfold.com/software/wiitransfer/ development, and I had hoped to coincide version 2.3 with the DRM-free AAC files on iTunes. It should be ready for a private beta in a few days. (Want in on the beta? Just email <a href="mailto:support@riverfold.com">support@riverfold.com</a>.)</p>
+<p>But it&#8217;s the YouTube feature that is really fascinating to me. I&#8217;ve long thought that Apple has all but given up on web video, somehow content to let Flash dominate. The Apple movie trailers site as the last pocket of QuickTime content isn&#8217;t quite good enough. Apple could have created something on the scale of YouTube but hooked into the iApps, .Mac, and built on QuickTime. Maybe even as an extension of the iTunes Store around video podcasts.</p>
+<p>(The great thing about podcasts is that they are decentralized, but it makes it a little more difficult when you are trying to build a community. The iTunes Store also does a great job for discovery but nothing to help content creators. There is no one-step upload.)</p>
+<p>The Apple TV announcement is weird because while on the surface it looks like a confirmation that Flash video wins, it might just be the first sign of Apple fighting back. Every video on YouTube will get the H.264 treatment. The web video revolution (of sorts) has been great, but the pieces are coming together for truly useful broadband video. Perhaps YouTube sees that they could be a major player not just for silly webcam videos but as an infrastructure for high quality distribution, with content in some categories that will rival the networks.</p>
+<p>That future is especially believable the first time you sync up near-HD video podcasts to the Apple TV. It&#8217;s a great experience and definitely exceeded my expectations.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2007/05/apple_announcements_and.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Re-introducing Wii Transfer</title>
+		<link>http://www.manton.org/2006/12/reintroducing_wii_transfer.html</link>
+		<comments>http://www.manton.org/2006/12/reintroducing_wii_transfer.html#comments</comments>
+		<pubDate>Fri, 15 Dec 2006 02:45:57 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[quicktime]]></category>
+		<category><![CDATA[riverfold]]></category>
+		<category><![CDATA[wii]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2006/12/reintroducing_wii_transfer.html</guid>
+		<description><![CDATA[I guess it&#8217;s a sign I&#8217;m not blogging very often when I don&#8217;t even announce my own product! A big thanks to &#8220;Dan Benjamin&#8221;:http://hivelogic.com/ and &#8220;John Gruber&#8221;:http://daringfireball.net/ for linking up &#8220;Wii Transfer&#8221;:http://www.riverfold.com/software/wiitransfer/, a little application I quietly rolled out last night. (I&#8217;d thank the other links too but I&#8217;m still sorting through referrers for today. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I guess it&#8217;s a sign I&#8217;m not blogging very often when I don&#8217;t even announce my own product! A big thanks to &#8220;Dan Benjamin&#8221;:http://hivelogic.com/ and &#8220;John Gruber&#8221;:http://daringfireball.net/ for linking up &#8220;Wii Transfer&#8221;:http://www.riverfold.com/software/wiitransfer/, a little application I quietly rolled out last night. (I&#8217;d thank the other links too but I&#8217;m still sorting through referrers for today. Maybe it&#8217;s time to buy &#8220;Mint&#8221;:http://www.haveamint.com/.)</p>
+<p>Wii Transfer started as a weekend hack to make the process of converting QuickTime movies to more Wii-friendly codecs much smoother. Not many hours into it I realized there are a bunch of useful features I could build around the Wii. Rather than work on it for a few months leading up to a big 1.0 release (all the while not knowing if it would be well-received), I borrowed a little &#8220;less software&#8221;:http://gettingreal.37signals.com/ch02_Build_Less.php and brought it to the point that it was generally useful and worth paying for.</p>
+<p>This kind of quick iteration is great because it means tonight I can announce version 1.2. There are a handful of minor improvements, but the two big new features are AppleScript support and an interface for quickly opening video podcasts from iTunes.</p>
+<p>Overall this has been a really fun process and I&#8217;m interested to see where it goes from here. I will write more about Riverfold, the company, in a later blog post.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2006/12/reintroducing_wii_transfer.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 4.288 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:19:00 -->

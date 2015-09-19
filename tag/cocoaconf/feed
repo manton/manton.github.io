@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; cocoaconf</title>
+	<atom:link href="http://www.manton.org/tag/cocoaconf/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Podcast interviews and the new Riverfold</title>
+		<link>http://www.manton.org/2015/09/podcast-interviews-and-the-new-riverfold.html</link>
+		<comments>http://www.manton.org/2015/09/podcast-interviews-and-the-new-riverfold.html#comments</comments>
+		<pubDate>Tue, 08 Sep 2015 18:49:29 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[cocoaconf]]></category>
+		<category><![CDATA[consulting]]></category>
+		<category><![CDATA[podcasts]]></category>
+		<category><![CDATA[wiitransfer]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3011</guid>
+		<description><![CDATA[I was interviewed for two podcasts recently. The first is the CocoaConf Podcast. Daniel Steinberg does a fantastic job of editing his show with a tight format, mixing together interviews and community news. We talked a lot about my new microblogging project and working on things that matter. I told the story of shutting down [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I was interviewed for two podcasts recently. The first is <a href="http://cocoaconf.com/podcast/14">the CocoaConf Podcast</a>. Daniel Steinberg does a fantastic job of editing his show with a tight format, mixing together interviews and community news.</p>
+<p>We talked a lot about my new microblogging project and working on things that matter. I told the story of shutting down my Mac app Wii Transfer to focus on other projects:</p>
+<blockquote><p>
+  &#8220;It was really popular. I remember when I shipped 2.0 it was one of my best sales days ever, probably <em>the</em> best sales day ever. But what I came to is that as neat as it was, as useful as it was for some people, in the big scheme of things — if you take 5 years out, 10 years out — that app just wasn&#8217;t that important. It was neat, but it&#8217;s time had come and gone.&#8221;
+</p></blockquote>
+<p>The other podcast I was on is a new one called <a href="http://consultpodcast.com/post/128140298572/episode-3-manton-reece-david-interviews-manton">Consult</a>. It&#8217;s an interview show all about consulting and client work. I had a good time chatting with host David Kopec about evolving Riverfold Software to <a href="http://www.riverfold.com/consulting/">include consulting</a> while at the same time expanding into a full-time indie business.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/09/podcast-interviews-and-the-new-riverfold.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Conferences in cool places</title>
+		<link>http://www.manton.org/2015/04/conferences-in-cool-places.html</link>
+		<comments>http://www.manton.org/2015/04/conferences-in-cool-places.html#comments</comments>
+		<pubDate>Tue, 07 Apr 2015 19:01:09 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[cocoaconf]]></category>
+		<category><![CDATA[conferences]]></category>
+		<category><![CDATA[ireland]]></category>
+		<category><![CDATA[travel]]></category>
+		<category><![CDATA[ull]]></category>
+		<category><![CDATA[yosemite]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2548</guid>
+		<description><![CDATA[Last week my Instagram timeline included a bunch of really beautiful photos from folks in Ireland for Úll. Jason Snell writes about the conference: “The location, in Killarney in county Kerry, is spectacular. It’s rainy and windy and the different patterns on the surface of the lake right outside the hotel are beautiful to watch.” [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Last week my Instagram timeline included a bunch of really beautiful photos from folks in Ireland for Úll. <a href="http://sixcolors.com/2015/03/notes-and-podcasts-from-ireland/">Jason Snell writes</a> about the conference:</p>
+<blockquote><p>
+  “The location, in Killarney in county Kerry, is spectacular. It’s rainy and windy and the different patterns on the surface of the lake right outside the hotel are beautiful to watch.”
+</p></blockquote>
+<p>There were a lot of neat ideas for Úll that I bet made it special, including <a href="http://2015.ull.ie/site/blog/childrenstrack">a kids track</a> and the <a href="http://2015.ull.ie/site/blog/the-ull-train-is-a-coming">train ride</a>. I’m a sucker for anything train related, for example the <a href="http://releasenotes.tv/conference/#venue">train car hotel rooms</a> in the upcoming Release Notes conference venue.</p>
+<p>These special touches transform a conference into half work, half vacation. Every technical thing you might want to learn is on the internet these days anyway. Conferences should be about inspiration as much as anything else, and a great setting is part of that.</p>
+<p><a href="http://sixcolors.com/link/2015/04/tickets-still-available-for-yosemite-conference/">Here’s Jason again</a>, writing about the national park location for Yosemite CocoaConf:</p>
+<blockquote><p>
+  “As I just experienced at Úll in Ireland, these sorts of conferences are truly special. It’s a chance for a small group of people who share an interest in Apple and related technologies to spend a few days together. They’re always a blast, but add in the unique setting of Yosemite National Park and this one promises to be that much more amazing.”
+</p></blockquote>
+<p>I’m sorry to miss that one. For the last several years I’ve mostly fallen into a pattern of traveling to attend just one non-WWDC conference a year. This year I’ll be <a href="http://cocoaconf.com/session/details/649">speaking at CocoaConf in Austin</a> and hope to make <a href="http://releasenotes.tv/conference/">Release Notes</a> as well. Tickets for CocoaConf are on sale now, and Release Notes tickets should be announced soon.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/04/conferences-in-cool-places.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Podcast appearances and slides</title>
+		<link>http://www.manton.org/2014/02/podcast_appearances_and.html</link>
+		<comments>http://www.manton.org/2014/02/podcast_appearances_and.html#comments</comments>
+		<pubDate>Tue, 25 Feb 2014 18:30:02 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[cocoaconf]]></category>
+		<category><![CDATA[iphreaks]]></category>
+		<category><![CDATA[nsconference]]></category>
+		<category><![CDATA[releasenotes]]></category>
+		<category><![CDATA[sunlit]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/02/podcast_appearances_and.html</guid>
+		<description><![CDATA[I forgot to mention a few weeks back that I was a guest on the iPhreaks Show podcast. The format is a panel of regulars and usually one guest, making it feel more like a roundtable discussion. They had me on to talk about subscription pricing: charging every month for your app or service. Some [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I forgot to mention a few weeks back that I was a guest on <a href="http://iphreaksshow.com/039-iphreaks-show-subscription-apis-for-recurring-revenue-with-manton-reece/">the iPhreaks Show podcast</a>. The format is a panel of regulars and usually one guest, making it feel more like a roundtable discussion. They had me on to talk about subscription pricing: charging every month for your app or service.</p>
+<p>Some of what we talked about was covered in 2 talks I gave last year about subscriptions, at NSConference and CocoaConf Dallas. I’ve finally pulled together the slides from these talks and put the latest version from CocoaConf <a href="http://www.manton.org/misc/Subscription_APIs_CocoaConf_2013.pdf">here as a PDF</a> (17 MB). It’s different than the NSConference one, but I think works better standalone. You can still <a href="http://my.nsconference.com">purchase the videos from NSConference 2013</a> to get my talk and many other great ones.</p>
+<p>This week I was also on <a href="http://releasenotes.tv/41-manton-reece/">the Release Notes podcast</a> with Joe Cieplinski and Charles Perry. They do a great job each episode focusing on something from the business side of running an indie software company, and they’ve had some excellent guests as well. From the show notes for episode 41:</p>
+<blockquote><p>
+  “We talk about creating products vs. services, changing products from free to paid, and the advantages and challenges of subscription pricing. Manton also shares his experience in creating apps like Sunlit that build on top of other services like Twitter and App.net, his recent foray into freemium pricing, and the launch of the new Core Intuition Jobs Board.”
+</p></blockquote>
+<p>If you enjoy <a href="http://www.coreint.org/">Core Intuition</a>, I think you’ll really like Release Notes. Let me know if you have any feedback on the show.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/02/podcast_appearances_and.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Core Intuition 121</title>
+		<link>http://www.manton.org/2014/01/core_intuition_121.html</link>
+		<comments>http://www.manton.org/2014/01/core_intuition_121.html#comments</comments>
+		<pubDate>Fri, 24 Jan 2014 21:40:26 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[cocoaconf]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[sunlit]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/01/core_intuition_121.html</guid>
+		<description><![CDATA[On the latest episode of Core Intuition, we talk about how the Sunlit launch is going, expanding on my post about Sunlit and Storehouse. We also follow up with some comments from the Glassboard on privacy policies and the App Store review guidelines. This week’s show was sponsored by CocoaConf. They have 5 cities planned [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>On <a href="http://coreint.org/121">the latest episode of Core Intuition</a>, we talk about how the Sunlit launch is going, expanding on <a href="http://www.manton.org/2014/01/no_coincidence.html">my post about Sunlit and Storehouse</a>. We also follow up with some comments from the Glassboard on privacy policies and the App Store review guidelines.</p>
+<p>This week’s show was sponsored by <a href="http://cocoaconf.com/">CocoaConf</a>. They have 5 cities planned for the next few months: Chicago, Washington DC, Austin, San Jose, and Raleigh. I’ll be speaking at the stop here in Austin. If you’re in the area and attending, hope to see you there!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/01/core_intuition_121.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CocoaConf and Core Intuition 83</title>
+		<link>http://www.manton.org/2013/04/cocoaconf_and_core.html</link>
+		<comments>http://www.manton.org/2013/04/cocoaconf_and_core.html#comments</comments>
+		<pubDate>Thu, 04 Apr 2013 14:36:19 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[cocoaconf]]></category>
+		<category><![CDATA[conferences]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[podcast]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/04/cocoaconf_and_core.html</guid>
+		<description><![CDATA[We just posted episode 83 of Core Intuition, with a preview of my trip up to Dallas for CocoaConf this weekend, and a discussion of Safari extensions, WWDC videos, Michael Jurewitz’s blog posts, his return to Apple, and more. It looks like you can still attend CocoaConf if you grab a ticket today before they [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We just posted <a href="http://www.coreint.org/2013/04/episode-83-this-weeks-lofty-goal/">episode 83 of Core Intuition</a>, with a preview of my trip up to Dallas for CocoaConf this weekend, and a discussion of Safari extensions, WWDC videos, Michael Jurewitz’s blog posts, his return to Apple, and more.</p>
+<p>It looks like you can still attend CocoaConf if you grab a ticket today before they close registration. <a href="http://cocoaconf.com/dallas-2013/home">Check out the web site</a> for details on the Dallas event.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/04/cocoaconf_and_core.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.697 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 13:22:33 -->

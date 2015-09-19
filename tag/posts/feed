@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; posts</title>
+	<atom:link href="http://www.manton.org/tag/posts/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>More blogging, week wrap-up</title>
+		<link>http://www.manton.org/2013/04/more_blogging_week.html</link>
+		<comments>http://www.manton.org/2013/04/more_blogging_week.html#comments</comments>
+		<pubDate>Mon, 01 Apr 2013 13:40:05 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[adn]]></category>
+		<category><![CDATA[blogs]]></category>
+		<category><![CDATA[posts]]></category>
+		<category><![CDATA[rss]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/04/more_blogging_week.html</guid>
+		<description><![CDATA[My blog posts have always come in waves, ever since I started this blog 11 years ago. I’ll post for a few days straight, then nothing for weeks. And every couple years, I’ll declare that I’m determined to fix this broken pattern, and I’ll start blogging again nearly every day. It doesn’t last. What I [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>My blog posts have always come in waves, ever since I started this blog <a href="http://www.manton.org/2002/03/sxsw.html">11 years ago</a>. I’ll post for a few days straight, then nothing for weeks. And every couple years, I’ll declare that I’m determined to fix this broken pattern, and I’ll start blogging again nearly every day. It doesn’t last.</p>
+<p>What I finally realized is that I have to be serious about posting <em>every single day</em>. If even one day slips by, the whole thing breaks down and I’ll fall back into ignoring it, because there’s the added friction of wanting to post something “great” to make up for the missed days.</p>
+<p>If you subscribe to <a href="http://www.manton.org/rss.xml">the RSS feed</a>, you’ll notice that I’ve now been posting once or twice every day for about a week and a half. I don’t link to all of these posts from App.net, so here’s the recent ones you might have missed:</p>
+<p><a href="http://www.manton.org/2013/03/app_store_old_app.html">App Store old app maintenance</a>:</p>
+<blockquote><p>
+  “But if apps are an art form, an important part of our culture, then it shouldn’t require so much work to make sure they don’t disappear forever, so quickly.”
+</p></blockquote>
+<p><a href="http://www.manton.org/2013/03/smartphone.html">Smartphone religion</a>:</p>
+<blockquote><p>
+  “I got into the Mac in the 1990s during the lead-up to Apple’s certain doom, so I spent quite a lot of time arguing with Windows users.”
+</p></blockquote>
+<p><a href="http://www.manton.org/2013/03/moving_off.html">Moving off SendGrid</a>:</p>
+<blockquote><p>
+  “So it’s a good time to move away, to a company that I can pick based on merits and attitude and not just because it was the default choice.”
+</p></blockquote>
+<p><a href="http://www.manton.org/2013/03/no_new_apple_products.html">No new Apple products yet</a>:</p>
+<blockquote><p>
+  “Apple’s aggressive releases add even more anxiety about updating apps to keep up with the latest APIs and hardware.”
+</p></blockquote>
+<p><a href="http://www.manton.org/2013/03/start_small.html">Start small</a>:</p>
+<blockquote><p>
+  “It’s a reminder to me that great things can start small, unambitious. I never would’ve guessed that a web comic artist starting so plainly would later produce a single strip that’s so incredible.”
+</p></blockquote>
+<p><a href="http://www.manton.org/2013/03/three_adn.html">Three ADN clients for iPhone</a>:</p>
+<blockquote><p>
+  “In this post I’m going to briefly review 3 of the most popular iPhone clients: Netbot, Felix, and Riposte. You can’t really go wrong with any of these three apps.”
+</p></blockquote>
+<p><a href="http://www.manton.org/2013/03/little_outliner.html">Little Outliner</a>:</p>
+<blockquote><p>
+  “Yesterday Dave Winer and Kyle Shank launched Little Outliner, an impressive JavaScript outliner that uses HTML5 local storage.”
+</p></blockquote>
+<p><a href="http://www.manton.org/2013/03/apple_and_the_impression.html">Apple and the impression of being small</a>:</p>
+<blockquote><p>
+  “But too many voices also creates noise, and noise makes simple things messy, confusing. Apple still gives the impression of being smaller than they really are because our view of them is heavily filtered.”
+</p></blockquote>
+<p><a href="http://www.manton.org/2013/03/ios_text_cursor.html">iOS text cursor swipe</a>:</p>
+<blockquote><p>
+  “While I was writing my review of ADN clients, I wondered aloud if Riposte or Felix or some other app entirely was the first to support swiping to move the text cursor. It seems a nice enough trick that someone should get credit for trying it first.”
+</p></blockquote>
+<p><a href="http://www.manton.org/2013/03/icloud_sync_narrative.html">iCloud sync narrative</a>:</p>
+<blockquote><p>
+  “Pretty sure we hit a tipping point in the <em>iCloud just doesn’t work</em> narrative this week. Whether that judgement is fair or not, Apple should drop everything to focus on making iCloud totally robust in time for WWDC.”
+</p></blockquote>
+<p><a href="http://www.manton.org/2013/03/climber_for_adn.html">Climber for ADN</a>:</p>
+<blockquote><p>
+  “Toward the end of this week’s Core Intuition, we talked a little about the App.net file storage API and mentioned the new iPhone app Climber.”
+</p></blockquote>
+<p><a href="http://www.manton.org/2013/03/register_a.html">Register a domain name</a>:</p>
+<blockquote><p>
+  “Using Facebook or Twitter or LinkedIn exclusively for your content is like an artist who picks their own colors but still stays within the lines of a paint-by-numbers kit. A domain name is your own canvas.”
+</p></blockquote>
+<p><a href="http://www.manton.org/2013/03/hotline_servers.html">Hotline servers</a>:</p>
+<blockquote><p>
+  “This article from Macworld is important because it will serve as a sort of Hotline software ‘about page’ for future internet searchers.”
+</p></blockquote>
+<p><a href="http://www.manton.org/2013/03/searchpath.html">Searchpath invoices and automation</a>:</p>
+<blockquote><p>
+  “Then life and other work got in the way, and weeks later I still hadn’t shipped it. I wanted it to be completely perfect and automated, so that I never had to think about it.”
+</p></blockquote>
+<p>I also got tired of the non-retina (and outdated tag-line) of the old header. I’ve started over with a plain blog design, finally dropping HTML tables for layout (!) in favor of Bootstrap CSS. A more complete new design will follow later.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/04/more_blogging_week.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>What makes App.net special</title>
+		<link>http://www.manton.org/2013/01/what_makes_appnet.html</link>
+		<comments>http://www.manton.org/2013/01/what_makes_appnet.html#comments</comments>
+		<pubDate>Mon, 21 Jan 2013 19:22:48 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[adn]]></category>
+		<category><![CDATA[global]]></category>
+		<category><![CDATA[posts]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/01/what_makes_appnet.html</guid>
+		<description><![CDATA[Phillip Gruneich has an interesting post about what’s different about ADN, with thoughts on the global feed and link posting: “App.net is a different environment and it must be preserved that way. If you get into it and decide to behave like it is a Twitter alternative, then the differences will fade away and we’ll [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://rightapp.tumblr.com/post/40671466986/the-etiquette-of-app-net">Phillip Gruneich has an interesting post</a> about what’s different about ADN, with thoughts on the global feed and link posting:</p>
+<blockquote><p>
+  “App.net is a different environment and it must be preserved that way. If you get into it and decide to behave like it is a Twitter alternative, then the differences will fade away and we’ll lose a precious experience.”
+</p></blockquote>
+<p>There are some ideas in here that surprised me. For example, I’m not sure I agree that everyone reads the global feed, nor that people should be discouraged from linking to anything but their own work. I love to post links to products from friends and companies that are doing interesting things.</p>
+<p>Even if it isn’t as busy as on Twitter — Twitter disabled their global feed years ago when it started moving too fast to be read — it would still be difficult to do anything more than occasionally skim the global feed on ADN.</p>
+<p>He does hit on something important, though. Because it’s a paid service, and there’s a cost to additional accounts, most of the users are actual people. There are fewer companies and parody accounts. (But I did end up getting <a href="https://alpha.app.net/riverfold">@riverfold on ADN</a>, which I felt was a nice compromise when compared against my 4-5 app accounts on Twitter.)</p>
+<p>So I might not use ADN in exactly the same way that Phillip does, but the hope that ADN remains unique is the same because it’s something nearly everyone on ADN probably hopes for. And that’s the really good news: if what makes ADN special is the people, then it’s because all of the people have something in common. They didn’t chose ADN by accident, or because it was the default choice. They chose it because <em>they wanted something better</em>.</p>
+<p>In the short 5 months since <a href="http://www.manton.org/2012/08/appnets_great.html">I wrote about ADN’s start</a>, I’ve become a big fan of the founders, the quality of the API and developer program, and the general tone of ADN users. There might not be a single best way to use ADN, and that will become even more true over time as the scope of the API grows. But there’s no question that it is a special service that deserves to be a peer with Twitter and Facebook in terms of new apps and conversations, even as it exists in a different world where huge “1 billion user” scale doesn’t matter.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/01/what_makes_appnet.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.916 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:43:32 -->

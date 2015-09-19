@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; Video Games</title>
+	<atom:link href="http://www.manton.org/category/video_games/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>The Wii fad, 2 years later</title>
+		<link>http://www.manton.org/2008/12/the_wii_fad.html</link>
+		<comments>http://www.manton.org/2008/12/the_wii_fad.html#comments</comments>
+		<pubDate>Sun, 14 Dec 2008 19:03:53 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Video Games]]></category>
+		<category><![CDATA[nintendo]]></category>
+		<category><![CDATA[ps3]]></category>
+		<category><![CDATA[wii]]></category>
+		<category><![CDATA[xbox]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2008/12/the_wii_fad.html</guid>
+		<description><![CDATA[Video game console sales numbers for November are in. Two years after the Nintendo Wii was introduced &#8212; you know, the console that was derided as a gimmick, a fad, just a faster GameCube &#8212; the little white console still outsells the Xbox 360 over 2 to 1. It outsells the PS3 over 4 to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Video game console sales numbers for November are in. Two years after the Nintendo Wii was introduced &mdash; you know, the console that was derided as a gimmick, a fad, just a faster GameCube &mdash; the little white console still outsells the Xbox 360 over 2 to 1. It outsells the PS3 over 4 to 1. (&#8220;Here&#8217;s a 4cr post&#8221;:http://www.4colorrebellion.com/archives/2008/12/12/wii-buries-the-competition-in-november/ with official numbers.)</p>
+<p>The doubters were so wrong about this one. The fans and industry experts who were quick to sell Nintendo short kept waiting for a fail that never happened. If you go into a Best Buy right now the video game section is completely owned by the Wii and DS.</p>
+<p>Not everyone can take a risk and have it pay off so well, but it&#8217;s at least important to acknowledge that conventional wisdom and focus groups (what &#8220;everyone&#8221; knows) would have doomed Nintendo. The trick is being able to tell when you&#8217;ve got an idea that is truly special, and not just something you are clinging on to out of a stubbornness to be different.</p>
+<p>In related news, I imported a &#8220;Nintendo DSi&#8221;:http://www.nintendo.co.jp/ds/series/dsi/index.html from Japan last month and it&#8217;s a great rev to the portable system. It would be even better if I could read Japanese.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2008/12/the_wii_fad.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Holiday Wii Giveaway and Twitter</title>
+		<link>http://www.manton.org/2007/12/holiday_wii_giveaway.html</link>
+		<comments>http://www.manton.org/2007/12/holiday_wii_giveaway.html#comments</comments>
+		<pubDate>Wed, 05 Dec 2007 05:18:04 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[Video Games]]></category>
+		<category><![CDATA[business]]></category>
+		<category><![CDATA[games]]></category>
+		<category><![CDATA[giveaway]]></category>
+		<category><![CDATA[wii]]></category>
+		<category><![CDATA[wiitransfer]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/12/holiday_wii_giveaway.html</guid>
+		<description><![CDATA[A few months ago I was in Target and they had some Wiis in stock, so on an impulse I bought one. I&#8217;ve owned a Wii since launch day, but I had this idea to give one away for Christmas as an experiment to help promote Wii Transfer. I sat on the idea for a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>A few months ago I was in Target and they had some Wiis in stock, so on an impulse I bought one. I&#8217;ve owned a Wii since launch day, but I had this idea to give one away for Christmas as an experiment to help promote Wii Transfer. I sat on the idea for a while, listened to feedback from others, and finally &#8220;rolled it out this morning&#8221;:http://www.riverfold.com/software/wiitransfer/giveaway/ with two methods to enter: web form (with field to notify a friend about the giveaway) and via Twitter (by sending a reply to @wii).</p>
+<p>Unfortunately there was a major snag with the Twitter idea. It turns out that @wii replies won&#8217;t show up in my Replies tab (or RSS feed) in Twitter unless the user posting the tweet is already following &#8220;twitter.com/wii&#8221;:http://twitter.com/wii. I now regret not making that a requirement, but I also know that it would have hurt the simplicity of entering via Twitter.</p>
+<p>So what&#8217;s the solution? For now, a combination of things. I am now tracking every tweet that contains &#8220;wii&#8221; (try it, there are some fun ones), which I will aggregate with the standard replies as well as results from a search on &#8220;Terraminds&#8221;:http://terraminds.com/twitter/ to fill in any of the tweets I missed. It&#8217;s all a bit cumbersome because the tracking results come through IM (luckily iChat transcripts are XML now).</p>
+<p>It feels very fragile, but hopefully I won&#8217;t miss any entries. There&#8217;s no cost to submitting multiple times, so consider sending another @wii tweet next week or entering with the web form to guarantee you&#8217;re in the drawing. If in doubt, re-read the &#8220;last line on the fine print&#8221;:http://www.riverfold.com/software/wiitransfer/giveaway/.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2007/12/holiday_wii_giveaway.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Nintendo Wii purchase</title>
+		<link>http://www.manton.org/2006/11/nintendo_wii_purchase.html</link>
+		<comments>http://www.manton.org/2006/11/nintendo_wii_purchase.html#comments</comments>
+		<pubDate>Thu, 23 Nov 2006 16:11:14 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Video Games]]></category>
+		<category><![CDATA[nintendo]]></category>
+		<category><![CDATA[target]]></category>
+		<category><![CDATA[wii]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2006/11/nintendo_wii_purchase.html</guid>
+		<description><![CDATA[If you&#8217;ve talked to me recently about video games or read &#8220;my post about trying for a Wii pre-order&#8221;:http://www.manton.org/2006/10/wii_preorders.html, you know I have become obsessed with getting a Nintendo Wii at launch. The &#8220;high scores that the new Zelda was receiving&#8221;:www.metacritic.com/games/platforms/wii/legendofzeldatwilightprincess last week pretty much sealed the deal for me: I had to have one. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>If you&#8217;ve talked to me recently about video games or read &#8220;my post about trying for a Wii pre-order&#8221;:http://www.manton.org/2006/10/wii_preorders.html, you know I have become obsessed with getting a Nintendo Wii at launch. The &#8220;high scores that the new Zelda was receiving&#8221;:www.metacritic.com/games/platforms/wii/legendofzeldatwilightprincess last week pretty much sealed the deal for me: <em>I had to have one</em>.</p>
+<p>Thursday and Friday if I was out doing errands and passed a store I would inquire about their launch plans. It wasn&#8217;t looking good, with mixed messages from employees about how many units they would be receiving. Saturday afternoon I stopped by Wal-mart at around 2pm and already there were 22 people in line for the midnight launch of only 29 systems for that store. They urged me to stay, but I couldn&#8217;t. I had a whole day planned already, and it didn&#8217;t include video games.</p>
+<p>Saturday evening I made a list of a half dozen possible stores and called each one. It was clear right away that if I wanted a Wii on the launch weekend, there was only one choice.</p>
+<p><center><a href="http://www.flickr.com/photos/manton/304262928/"><img src="http://static.flickr.com/103/304262928_343fac2a3d_s.jpg" width="75" height="75" alt="Wii line at Target" style="border: 1px solid gray;" /></a> &nbsp; <a href="http://www.flickr.com/photos/manton/304262930/"><img src="http://static.flickr.com/122/304262930_318e0a2597_s.jpg" width="75" height="75" alt="Wii sunrise" style="border: 1px solid gray;" /></a> &nbsp; <a href="http://www.flickr.com/photos/manton/304257199/"><img src="http://static.flickr.com/113/304257199_761be31e60_s.jpg" width="75" height="75" alt="Wii ticket" style="border: 1px solid gray;" /></a></center></p>
+<p>I arrived at Target at about 9:30pm Saturday evening with a chair, blanket, Nintendo DS, and book. They would open ten and a half hours later at 8am the next day, but tickets would be passed at around 7am. Early line campers who had arrived at 3pm in the afternoon had a sign-in list to ensure there was no confusion. I was number 33 out of 60 confirmed Wii systems. By midnight, all the consoles were accounted for, and everyone who arrived afterwards was turned away.</p>
+<p>I had a great time talking with other line waiters. It was an interesting mix of people, from John next to me who worked at Apple here in Austin, to a set of young gamers who pulled up with a truck and unloaded two couches, a rug, and a coffee table.</p>
+<p>Around 4 in the morning I realized how unprepared I was. It was in the 40s that night and my blanket was completely insufficient. If I ever do something crazy like this again, I&#8217;m packing several blankets, a sleeping bag, and pillows. By 6am I considered the few hours of uncomfortable sleep I got a success and took a jog around the parking lot to get my blood flowing and stop from shivering.</p>
+<p>The sun rose and tickets were passed out. The excitement of the night before was back as a Target manager confirmed that they would indeed have a full 60 copies of Zelda, and almost as many for other games. Not everyone is going to get a Wii the first week, but from where I&#8217;m standing Nintendo has done a great job of shipping out as many systems as possible and making sure the games and controllers are there to go along with it.</p>
+<p>I&#8217;ll post again next week about my impressions on Wii Sports and Zelda, but so far I am not disappointed. I make no apologies for being a Nintendo fan, but the Wii is neither over-hyped nor a gimmick, and I think the system will live up to its original codename.</p>
+<p>Happy Thanksgiving!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2006/11/nintendo_wii_purchase.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Wii pre-orders</title>
+		<link>http://www.manton.org/2006/10/wii_preorders.html</link>
+		<comments>http://www.manton.org/2006/10/wii_preorders.html#comments</comments>
+		<pubDate>Sun, 29 Oct 2006 20:17:52 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Video Games]]></category>
+		<category><![CDATA[ebgames]]></category>
+		<category><![CDATA[nintendo]]></category>
+		<category><![CDATA[ps3]]></category>
+		<category><![CDATA[toysrus]]></category>
+		<category><![CDATA[wii]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2006/10/wii_preorders.html</guid>
+		<description><![CDATA[Two weeks ago I casually showed up to EB Games 5 minutes before they opened, hoping to luck out with a &#8220;Nintendo Wii&#8221;:http://us.wii.com/ pre-order. Unfortunately the last slot was taken by someone who was there over two hours earlier, and at least a couple dozen people (including me) were turned away before the store even [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Two weeks ago I casually showed up to EB Games 5 minutes before they opened, hoping to luck out with a &#8220;Nintendo Wii&#8221;:http://us.wii.com/ pre-order. Unfortunately the last slot was taken by someone who was there over two hours earlier, and at least a couple dozen people (including me) were turned away before the store even opened.</p>
+<p>I&#8217;m determined to get one of these consoles, and there&#8217;s something interesting about trying to get one at launch. Every day new reviews flow in to gaming blogs. I don&#8217;t see myself as a hardcore gamer, but the Wii looks like an innovative system with several fun games available at launch or shortly after.</p>
+<p>So I called Toys R Us last night to inquire about pre-orders opening up today at 10am. He said they had 10 Wii and only 3 PS3s. Furthermore, mall security wouldn&#8217;t let anyone on the property until 4am. This would seem to limit the opportunity for all-night campers, so I was pretty hopeful as I left for the store shortly after 4am this morning.</p>
+<p>Yes, you read that right. I have become so obsessed with this that I was willing to spend 6 hours in line. Luckily, the weather is beautiful this weekend. I packed a book, iPod, and sketchpad into my bag and left feeling pretty good, that at the least I would have some time alone to read or write or listen to music.</p>
+<p><img src="http://www.manton.org/images/2006/wii_line.jpg" width="200" height="150" hspace="10" vspace="5" alt="Wii line from phone" align="right" /> There were already at least 20 people there when I arrived. Several in line were hoping to reserve both Wii and PS3. One made the comment that they would be selling the PS3 on Ebay, but keep the Wii for themselves. There was even someone waiting for the new Elmo doll, which made the whole scene even more bizarre.</p>
+<p>Apparently some of the folks had been there well before 4am, probably closer to midnight or earlier. The details are sketchy, but the story I heard involves a bewildered security officer, two police cars, threat of jail time, and a mad dash at 4am to the front door. By the time I got there, the last Wii pre-order slots were being decided by a foot race across the parking lot. Seriously. Meanwhile, a second line at the exit door was setup in a futile effort by those too stubborn to admit defeat.</p>
+<p>I finished the banana I had brought for breakfast, played a little multiplayer Nintendo DS, and left before 5am with a &#8220;good luck&#8221; and a wave to those crazy enough to get there before me. I guess I&#8217;ll try again at Best Buy or Target next month. Rumor points to &#8220;as much as 120 units available&#8221;:http://gonintendo.com/?p=7517 at some stores.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2006/10/wii_preorders.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Carcasonne</title>
+		<link>http://www.manton.org/2006/10/carcasonne.html</link>
+		<comments>http://www.manton.org/2006/10/carcasonne.html#comments</comments>
+		<pubDate>Tue, 10 Oct 2006 16:29:49 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Video Games]]></category>
+		<category><![CDATA[carcasonne]]></category>
+		<category><![CDATA[comics]]></category>
+		<category><![CDATA[games]]></category>
+		<category><![CDATA[kids]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2006/10/carcasonne.html</guid>
+		<description><![CDATA[I picked up the board game &#8220;Carcasonne&#8221;:http://www.amazon.com/gp/product/B00005UNAX?ie=UTF8&#38;tag=mantonorg&#38;linkCode=as2&#38;camp=1789&#38;creative=9325&#38;creativeASIN=B00005UNAX/ a few weeks ago and have been enjoying it. It&#8217;s great to see some innovation in board games again, and it&#8217;s a relaxing change of pace from video games. Target and the other big box stores are still mostly packed with remakes of classic board games, which are [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I picked up the board game &#8220;Carcasonne&#8221;:http://www.amazon.com/gp/product/B00005UNAX?ie=UTF8&amp;tag=mantonorg&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B00005UNAX/ a few weeks ago and have been enjoying it. It&#8217;s great to see some innovation in board games again, and it&#8217;s a relaxing change of pace from video games. Target and the other big box stores are still mostly packed with remakes of classic board games, which are fine, but if you seek out the more speciality shops there&#8217;s a range of good stuff available. I bought my copy at &#8220;Dragon&#8217;s Lair&#8221;:http://www.dlair.net/, a local Austin comics and games shop that I&#8217;ve been frequenting for about 15 years, but I&#8217;ve seen it featured prominently at other quality toy stores.</p>
+<p>I originally sought out Carcasonne for play between adults, but I&#8217;ve found the game also works great for kids even younger than the 8 years recommended on the box. Just follow a few rule simplifications. First, no farmers. Next, as recommended by someone in an Amazon review, use the word &#8220;traveler&#8221; instead of thief. And finally, just score a single point for any completed castle, road, or cloister. Part of the charm of the game is in constructing the map anyway, so these simplified rules make for fast and enjoyable games for younger children.</p>
+<p><center><img src="http://www.manton.org/images/2006/carcasonne.jpg" width="400" height="300" alt="Gameplay photo" style="border: 1px solid gray" /></center></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2006/10/carcasonne.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>More gaming, year 2</title>
+		<link>http://www.manton.org/2006/07/more_gaming_year.html</link>
+		<comments>http://www.manton.org/2006/07/more_gaming_year.html#comments</comments>
+		<pubDate>Wed, 19 Jul 2006 15:31:59 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Video Games]]></category>
+		<category><![CDATA[2d]]></category>
+		<category><![CDATA[3d]]></category>
+		<category><![CDATA[ds]]></category>
+		<category><![CDATA[games]]></category>
+		<category><![CDATA[gba]]></category>
+		<category><![CDATA[psp]]></category>
+		<category><![CDATA[xbox]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2006/07/more_gaming_year.html</guid>
+		<description><![CDATA[At the beginning of last year &#8220;I wrote about my new Game Boy Advance&#8221;:http://www.manton.org/2005/01/new_year_gaming.html and how it was finally the system that pulled me back into gaming, something that consoles and computer games could not do. A year later, the PSP is out, the DS is selling well (I own one), and the Xbox 360 [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>At the beginning of last year &#8220;I wrote about my new Game Boy Advance&#8221;:http://www.manton.org/2005/01/new_year_gaming.html and how it was finally the system that pulled me back into gaming, something that consoles and computer games could not do. A year later, the PSP is out, the DS is selling well (I own one), and the Xbox 360 is off to a solid start. So what happened with the questions I raised, in particular in regards to 2d games and Game Boy Advance games?</p>
+<p>Sadly, earlier this year Nintendo hinted that there may never be a successor to the Game Boy Advance. Their &#8220;three pillar&#8221; strategy sounded good last year, but the DS turned out much better than anyone had hoped. With the DS Lite fixing all the major design problems with the original DS, it now seems more likely that Nintendo will focus on the Wii and let great DS games drive the handheld market until a next-gen DS becomes needed.</p>
+<p>2d games, on the other hand, have seen something of a resurgence. Sonic Rush for the DS has the same feel as the Genesis games. New Super Mario Bros is also fantastic. The PSP has a beautiful if quirky 2d game coming soon in the form of &#8220;RocoLoco&#8221;:http://locoroco.com/index.html. Even the Xbox 360 has its share of 2d games on Xbox Live, and at E3 Nintendo announced a &#8220;2d GameCube game set in the Paper Mario universe&#8221;:http://www.n-sider.com/articleview.php?articleid=515. Nintendo&#8217;s Wi-Fi Connection has breathed new life into that original Game Boy game, Tetris; 4-player internet play with &#8220;items&#8221; is a completely new Tetris and more fun than I would have imagined.</p>
+<p>Peterb&#8217;s essay &#8220;Design of Everyday Games&#8221;:http://www.tleaves.com/weblog/archives/000637.html has some great insight into game design complexity, using Advance Wars and other 2d games in several examples.</p>
+<p>From the October 2005 Nintendo Power, Castlevania producer Koji Igarashi says:</p>
+<p>bq. &#8220;2-D gaming can provide such a great game design&#8211;games with definite and solid gameplay. From a presentation standpoint, it may lack what 3-D can do, but let me yell once again, what games need are fun and exciting elements! 2-D games offer these things.&#8221;</p>
+<p>No question, 2d is here to stay, and it&#8217;s only getting better. The Game Boy Advance had a good run, but now it&#8217;s time to say goodbye. See Modojo&#8217;s &#8220;The GBA&#8217;s Last Stand&#8221;:http://www.modojo.com/features/20060524/77/.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2006/07/more_gaming_year.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Mario Kart DS</title>
+		<link>http://www.manton.org/2005/11/mario_kart_ds.html</link>
+		<comments>http://www.manton.org/2005/11/mario_kart_ds.html#comments</comments>
+		<pubDate>Wed, 16 Nov 2005 21:41:40 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Video Games]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2005/11/mario_kart_ds.html</guid>
+		<description><![CDATA[It&#8217;s all about the games. I picked up Mario Kart DS yesterday and it doesn&#8217;t disappoint. The Nintendo WiFi network was a little flaky last night, but things are running smoothly today. And it&#8217;s been fun to watch friend codes start showing up in my news reader, from blog sites that would otherwise restrict their [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>It&#8217;s all about the games. I picked up Mario Kart DS yesterday and it doesn&#8217;t disappoint. The Nintendo WiFi network was a little flaky last night, but things are running smoothly today. And it&#8217;s been fun to watch friend codes start showing up in my news reader, from blog sites that would otherwise restrict their postings to non-game topics.</p>
+<p>Here&#8217;s mine: 180448 143525. If you add it, ping me yours via <a href="mailto:manton@manton.org">email</a> or <a href="aim:goim?screenname=mantonreece">AIM</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2005/11/mario_kart_ds.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Nintendo DS</title>
+		<link>http://www.manton.org/2005/06/nintendo_ds.html</link>
+		<comments>http://www.manton.org/2005/06/nintendo_ds.html#comments</comments>
+		<pubDate>Sun, 19 Jun 2005 05:32:36 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Video Games]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2005/06/nintendo_ds.html</guid>
+		<description><![CDATA[Alright I gave in and bought a DS. The newly bundled Mario 64 was too much for me to resist. I justified it as an early father&#8217;s day present to myself. It became increasingly obvious after E3 that Nintendo does not have a plan for a next-generation Game Boy, and instead they are putting most [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Alright I gave in and bought a DS. The newly bundled Mario 64 was too much for me to resist. I justified it as an early father&#8217;s day present to myself.</p>
+<p>It became increasingly obvious after E3 that Nintendo does not have a plan for a next-generation Game Boy, and instead they are putting most of their resources into the DS. The Game Boy Micro is a sweet little device, though.</p>
+<p>What can I say about the DS after a few days use? It is at the same time flawed and brilliant. So much more bulky than the GBA SP, and a single screen alone is no bigger. The huge win is in the touch screen, which encourages innovative games that let you tinker, explore, or control your character in a new way. This system is just fun to use.</p>
+<p>I picked up <a href="http://modojo.com/articles/reviews/ds/kirby_canvas_curse/">Kirby Canvas Curse</a> today and I&#8217;m loving it. As Nick from <a href="http://www.4colorrebellion.com/archives/2005/06/14/impressions-kirby-canvas-curse/">4 color rebellion said</a>: &#8220;I here and now declare KCC the first true DS killer app. Combining elements of some of the best games of all time, Hal has created something totally fresh that sets the example of how to make a DS game.&#8221;</p>
+<p>Indeed. This looks like the first in a string of nice DS titles. Before now, I thought the PSP could actually do the impossible: beat Nintendo&#8217;s decade-long dominance of handhelds. But by the end of this year I think we will see quite a different story, with both DS and PSP clearly co-existing for some time to come.</p>
+<p>And of course it comes down to the types of games that are being developed. The audience for Halo is not necessarily the same as for <a href="http://www.gamespot.com/ds/strategy/nintendogschihuahuaandfriends/preview_6122817.html">Nintendogs</a>. But if you are trying to create for the hardcore and casual gamers, you need something from both on your platform.</p>
+<p>From the <a href="http://www.wired.com/news/games/0,2101,67854,00.html">Wired interview with Shigeru Miyamoto</a>:</p>
+<blockquote><p>&#8220;What&#8217;s happening with video games is the same thing that happens with anything new and interesting. At the beginning, everybody wants to see what it is. They gather around and check it out. But gradually, people start to lose interest.</p>
+<p>&#8220;The people who don&#8217;t lose interest become more and more involved. And the medium starts to be influenced by only those people. It becomes something exclusive to the people who&#8217;ve stuck with it for a long time. And when the people who were interested in it at first look back at it, it&#8217;s no longer the thing that interested them.&#8221;</p>
+</blockquote>
+<p>I found this very insightful &#8212; just that a game company is thinking about these things at that level &#8212; and it brings into focus my own &#8220;return&#8221; to gaming.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2005/06/nintendo_ds.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Re-evaluating the PSP and DS</title>
+		<link>http://www.manton.org/2005/05/reevaluating_the_psp.html</link>
+		<comments>http://www.manton.org/2005/05/reevaluating_the_psp.html#comments</comments>
+		<pubDate>Fri, 27 May 2005 02:08:38 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Video Games]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2005/05/reevaluating_the_psp.html</guid>
+		<description><![CDATA[After a colleague bought a PSP, I decided to re-evaluate the PSP and DS. I did some more research, looked at the available games, pricing, and features. I still enjoy my Game Boy Advance SP, and stand by what I wrote earlier in the year. But I didn&#8217;t place enough importance on how it is [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>After a colleague bought a PSP, I decided to re-evaluate the PSP and DS. I did some more research, looked at the available games, pricing, and features. I still enjoy my Game Boy Advance SP, and stand by <a href="http://www.manton.org/2005/01/new_year_gaming.html">what I wrote earlier in the year</a>.</p>
+<p>But I didn&#8217;t place enough importance on how it is the games that sell a platform. Forgetting the price tag or the cool non-game features (internet and movies), the PSP&#8217;s initial game lineup wasn&#8217;t that appealing to me. If I wanted those games I would own a PS2. There are definitely a few gems in there, though &#8212; <a href="http://www.modojo.com/articles/reviews/psp/lumines/">Lumines</a> looks very good.</p>
+<p>Not surprisingly when you consider the unique pen input option on the DS, the DS games are going in another direction entirely, and for the most part I like it. <a href="http://www.nintendo.co.jp/ds/atkj/about/movie/movie1.html">This video of an upcoming Kirby game</a> looks fun, similar to <a href="http://www.modojo.com/articles/reviews/ds/yoshis_touch_and_go/">the new Yoshi</a>. And then there&#8217;s <a href="http://thegamechair.com/?p=50">Electroplankton</a>, a bizarre title that is less game than musical experiment.</p>
+<p>4 color rebellion on <a href="http://www.4colorrebellion.com/?p=583">casual gamers</a>:</p>
+<blockquote><p>&#8220;Many gamers are so emersed in the medium, or have been at it so long, that they dont look at the casual market with open eyes. All of those new gamers Nintendo is talking about? This is where they are. They dont know what Final Fantasy is. They havent beaten Super Mario 64. Its the simple, enjoyable games that get them interested.&#8221;</p></blockquote>
+<p>I fall somewhere in between casual and hardcore gamer. I want games that I can learn fairly quickly, and that I can just as easily play for 10 minutes as 2 hours. I also enjoy old games (lately I&#8217;ve been mixing Advance Wars 2 with Super Mario Bros 2).</p>
+<p>Getting back to the PSP vs. DS debate. Would I trade in two screens for a single screen the size of the PSP&#8217;s? Probably so. A next-generation Game Boy would ideally fit somewhere in the middle, with a larger screen than the current GBA but maybe not as big as the PSP, to keep that easy &#8220;in your pocket&#8221; advantage.</p>
+<p>This illustrates the challenge Nintendo faces with their three-tier strategy. Although the DS can play GBA games, a new Game Boy is unlikely to play DS games. Nintendo is the unquestioned king of backwards compatibility, but it&#8217;s unclear how they are going to solve this puzzle.</p>
+<p>After I wrote the above, Nintendo announced the <a href="http://www.joystiq.com/entry/1234000520043660/">Game Boy Micro</a>. This is not the next-generation device that some were expecting, but it sure looks cool. It is lighter than an iPod mini and just a little bigger. If the price is right (and I expect it will be), and it works with the <a href="http://gameboy.ign.com/articles/589/589659p1.html">Play-yan</a> for music and movies, this could be a killer little device.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2005/05/reevaluating_the_psp.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>New year gaming</title>
+		<link>http://www.manton.org/2005/01/new_year_gaming.html</link>
+		<comments>http://www.manton.org/2005/01/new_year_gaming.html#comments</comments>
+		<pubDate>Thu, 06 Jan 2005 06:02:27 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Video Games]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2005/01/new_year_gaming.html</guid>
+		<description><![CDATA[Traci couldn&#8217;t find the GameCube games she was looking for (mostly Pikmin), so for Christmas she bought me a Game Boy Advance SP. This was a very unexpected surprise. I hadn&#8217;t really used a Game Boy since the original one I owned was stolen/lost a dozen years ago. To cut right to it, I returned [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Traci couldn&rsquo;t find the GameCube games she was looking for (mostly <a href="http://www.gamespot.com/gamecube/strategy/pikmin/">Pikmin</a>), so for Christmas she bought me a <a href="http://www.amazon.com/exec/obidos/ASIN/B0002TB4D6/mantonorg">Game Boy Advance SP</a>. This was a very unexpected surprise. I hadn&rsquo;t really used a Game Boy since the original one I owned was stolen/lost a dozen years ago.</p>
+<p>To cut right to it, I returned my GameCube system to the store and am now the happy owner of a handful of GBA games, with more on the way (a <a href="http://www.gamespot.com/gba/action/thelegendofzeldatheminishcap/">new Zelda</a> comes out next week).</p>
+<p>I&rsquo;ve also played a fair amount of Halo (1) lately, and did a lot of game research over the holidays, trying to catch up on what the game market looks like today. It all put something in perspective for me: I like 2d games. The lure of Halo 2 and Grand Theft Auto is strong, but I won&rsquo;t buy an Xbox or PS2 just to play those games.</p>
+<p><img src="http://www.manton.org/images/2005/advance_wars.gif" border="0" height="160" width="240" alt="Advance Wars" align="right" hspace="10" /> The GBA has a number of things going for it:</p>
+<ul>
+<li><b>Portability.</b> It&#8217;s a lot easier to flip open the GBA and play for 10 minutes wherever I am than dedicate time to sit in front of the television.</li>
+<li><b>Inexpensive games.</b> I bought <a href="http://www.gamespot.com/gba/strategy/advancewars2/">Advance Wars 2</a> (see image) for $10 at Best Buy, but $25-30 is common for most new titles.</li>
+<li><b>RPGs.</b> It turns out RPGs work well on a portable system, and the GBA has a few good ones.</li>
+<li><b>Good-enough graphics.</b> While there are first-person shooters and 3d racing games, the system is much better at pre-rendered sprites, multiple backgrounds for depth, and that sort of thing.</li>
+<li><b>Battery.</b> 10-15 hours or more on a charge.</li>
+<li><b>Hacking.</b> An <a href="http://forum.gbadev.org/">active developer community</a>, mostly hobbyists. I wrote a test &ldquo;game&rdquo; over the holidays.</li>
+</ul>
+<p>But, you ask, what about the Nintendo DS? Isn&rsquo;t the GBA obsolete?</p>
+<p>I hope not. The DS is an innovative system, but it&rsquo;s not a new Game Boy. It&rsquo;s too expensive, too big, and too different. Nintendo wants to position the DS as a higher-end portable to go head-to-head with the Playstation Portable, but new GBA games will still be released over the next year or two. We are also seeing new GBA add-on gadgets, such as the wireless adapter and upcoming movie player. Some people speculate that a real Game Boy to replace the SP may come out in 2006.</p>
+<p><a href="http://www.joystiq.com/entry/1234000377025372/">Joystiq has some good points</a> about the DS and PSP:</p>
+<blockquote><p>&ldquo;The fact is, Nintendo just needed a product to head off Sony&rsquo;s entry into the portable market. They knew Sony&rsquo;s attack was inevitable and they planned well for it. They know that, as long as the DS competes with the PSP, the GBA can continue to be the money-maker it is. The high-end DS and PSP can disappear for all Nintendo cares. They&rsquo;ll still have their little gem.&rdquo;</p></blockquote>
+<p>The Xbox and PS2 seem to dominate the press, so it surprised me that the <a href="http://gameboy.ign.com/articles/577/577554p1.html">GBA was the best-selling game system</a> in North America in 2004, with good holiday sales despite the Nintendo DS introduction.</p>
+<p>Here&rsquo;s what <a href="http://racketboy.blogspot.com/2004/12/please-dont-abandon-gba.html">Retrogaming has to say</a>:</p>
+<blockquote><p>&ldquo;However, now with the advent of the Nintendo DS, I&rsquo;m a bit worried that nobody will continue making quality 2D games for the precious system for very long. Even Nintendo themselves have already put Advance Wars 3 out on the DS. I understand they want some good launch titles for the system to fend off the PSP, but I&rsquo;m still worried.&rdquo;</p></blockquote>
+<p>The biggest risk to the GBA is that developers will focus their effort on DS-only games. But for now, I want to play some fun games again, and the GBA accomplishes that quite nicely.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2005/01/new_year_gaming.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.308 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 13:38:35 -->

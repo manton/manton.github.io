@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; press</title>
+	<atom:link href="http://www.manton.org/tag/press/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Two weeks notice: press reviews</title>
+		<link>http://www.manton.org/2015/07/two-weeks-notice-press-reviews.html</link>
+		<comments>http://www.manton.org/2015/07/two-weeks-notice-press-reviews.html#comments</comments>
+		<pubDate>Tue, 28 Jul 2015 17:36:07 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[2weeks]]></category>
+		<category><![CDATA[architecture]]></category>
+		<category><![CDATA[press]]></category>
+		<category><![CDATA[reviews]]></category>
+		<category><![CDATA[snippets]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2908</guid>
+		<description><![CDATA[I need to set aside some time to contact folks in the press about my new project. I can tell just explaining the app to my friends that it’s confusing to understand on first glance. It’s different enough from existing social networks that it requires a high-level explanation for why I designed the architecture this [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I need to set aside some time to contact folks in the press about my new project. I can tell just explaining the app to my friends that it’s confusing to understand on first glance. It’s different enough from existing social networks that it requires a high-level explanation for why I designed the architecture this way.</p>
+<p>The short answer is that I wanted to build something open and extensible. Something that embraced the open web. By necessity that makes the concept a little more geeky than what has come before it. Having reviews of the product out in the wild even before the app is fully released may help get people thinking about what to expect.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/07/two-weeks-notice-press-reviews.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Press for Sunlit</title>
+		<link>http://www.manton.org/2014/01/press_for_sunlit.html</link>
+		<comments>http://www.manton.org/2014/01/press_for_sunlit.html#comments</comments>
+		<pubDate>Thu, 23 Jan 2014 17:08:17 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[press]]></category>
+		<category><![CDATA[quotes]]></category>
+		<category><![CDATA[reviews]]></category>
+		<category><![CDATA[sunlit]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/01/press_for_sunlit.html</guid>
+		<description><![CDATA[We’ve been really happy to see the reviews of Sunlit popping up around the web. With a new type of app like this, there’s always the risk that people won’t get it. But that hasn’t been a problem at all. I’ve included some quotes below. Jon Russell on The Next Web: “The design is beautifully [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We’ve been really happy to see the reviews of Sunlit popping up around the web. With a new type of app like this, there’s always the risk that people won’t <em>get</em> it. But that hasn’t been a problem at all. I’ve included some quotes below.</p>
+<p>Jon Russell on <a href="http://thenextweb.com/apps/2014/01/18/sunlit-for-ios-is-a-neat-journaling-app-that-lets-you-easily-curate-and-share-photo-stories/">The Next Web</a>:</p>
+<blockquote><p>
+  “The design is beautifully clean and the app is easy to navigate. [&#8230;] Sunlit is an easy way to curate a collection of images that you actually want to share.”
+</p></blockquote>
+<p>Federico Viticci on <a href="http://www.macstories.net/linked/sunlit/">MacStories</a>:</p>
+<blockquote><p>
+  “You choose some photos that ‘tell a story’ – could be a trip, a family gathering, anything you want to remember – and the app pulls in their metadata for date and location. You can add text comments to jot down memories, import photos from Dropbox if you don’t keep them in the Camera Roll, and even add check-ins manually, from Foursquare, or from Steve Streza’s <a href="http://ohaiapp.net/">Ohai</a> app.”
+</p></blockquote>
+<p>John Gruber on <a href="http://daringfireball.net/linked/2014/01/22/sunlit">Daring Fireball</a>:</p>
+<blockquote><p>
+  “Sunlit has an interesting collaboration and sync model, based on App.net, and a clever integration of maps. You can publish stories on the web, but most of the features are geared toward private group sharing and collaboration through the app.”
+</p></blockquote>
+<p>Thorin Klosowski on <a href="http://lifehacker.com/sunlit-automatically-makes-a-photo-journal-using-app-ne-1503461536">Lifehacker</a>:</p>
+<blockquote><p>
+  “The app itself is great looking and provides fantastic maps to go along with your photos as well as a place to write down any thoughts you might have.”
+</p></blockquote>
+<p>Charlie Sorrel on <a href="http://www.cultofmac.com/262817/sunlit-app-builds-photo-journals-using-dopbox-app-net-and-foursquare/">Cult of Mac</a>:</p>
+<blockquote><p>
+  “Apps like Sunlit make sharing your pictures easy, fun and fast.”
+</p></blockquote>
+<p>Thanks to everyone who tried the app and told people about it. Version 1.0.1 was approved this week, and you can <a href="https://itunes.apple.com/app/sunlit/id690924901?mt=8">download it for free</a> and upgrade inside the app. Enjoy!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/01/press_for_sunlit.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.738 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:34:03 -->

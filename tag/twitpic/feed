@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; twitpic</title>
+	<atom:link href="http://www.manton.org/tag/twitpic/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Twitpic archive at Twitter</title>
+		<link>http://www.manton.org/2014/10/twitpic-archive-at-twitter.html</link>
+		<comments>http://www.manton.org/2014/10/twitpic-archive-at-twitter.html#comments</comments>
+		<pubDate>Wed, 29 Oct 2014 13:24:19 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[archive]]></category>
+		<category><![CDATA[trademarks]]></category>
+		<category><![CDATA[twitpic]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2361.html</guid>
+		<description><![CDATA[The story of Twitpic shutting down has a better ending now: &#8220;We weren’t able to find a way to keep Twitpic independent. However, I’m happy to announce that we have reached an agreement with Twitter to give them the Twitpic domain and photo archive, thus keeping the photos and links alive for the time being.&#8221; [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The story of Twitpic shutting down has <a href="http://blog.twitpic.com/2014/10/twitpics-future/">a better ending now</a>:</p>
+<blockquote><p>
+  &#8220;We weren’t able to find a way to keep Twitpic independent. However, I’m happy to announce that we have reached an agreement with Twitter to give them the Twitpic domain and photo archive, thus keeping the photos and links alive for the time being.&#8221;
+</p></blockquote>
+<p>This is much better than all those photos becoming broken links, but it&#8217;s still a sad statement on the Twitter ecosystem. Twitter threatened Twitpic, then Twitpic decided to shutdown, and in the end Twitter gets all the Twitpic assets anyway for cheap or no money at all. It&#8217;s a bizarre end to what only a couple years ago was a $3 million business.</p>
+<p>Twitter is a big company with a lot of moving pieces. It shouldn&#8217;t surprise me that one half of Twitter is ready to sic the lawyers on Twitpic while another half wants to do the right thing for Twitpic&#8217;s customer base. Still, a bittersweet closing chapter on one of the first great third-party developers.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/10/twitpic-archive-at-twitter.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Twitpic and what&#8217;s next</title>
+		<link>http://www.manton.org/2014/09/twitpic-and-whats-next.html</link>
+		<comments>http://www.manton.org/2014/09/twitpic-and-whats-next.html#comments</comments>
+		<pubDate>Thu, 04 Sep 2014 20:07:17 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[markdown]]></category>
+		<category><![CDATA[twitpic]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2227.html</guid>
+		<description><![CDATA[After being threatened by Twitter over trademarks, Twitpic has decided to shut down in 3 weeks: &#8220;We encountered several hurdles and difficulties in getting our trademark approved even though our first use in commerce predated other applications, but we worked through each challenge and in fact had just recently finished the last one. During the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>After being threatened by Twitter over trademarks, <a href="http://blog.twitpic.com/2014/09/twitpic-is-shutting-down/">Twitpic has decided to shut down in 3 weeks</a>:</p>
+<blockquote><p>
+  &#8220;We encountered several hurdles and difficulties in getting our trademark approved even though our first use in commerce predated other applications, but we worked through each challenge and in fact had just recently finished the last one. During the &#8216;published for opposition&#8217; phase of the trademark is when Twitter reached out to our counsel and implied we could be denied access to their API if we did not give up our mark.&#8221;
+</p></blockquote>
+<p>Twitpic is not a small hobby site. It grew to a $3 million business at its height in 2012 according to <a href="http://mixergy.com/interviews/noah-everett-twitpic-interview/">this Mixergy interview</a>. Founder Noah Everett also attempted to launch a Twitter-like service called Heello, though it never gained much traction and appears to be offline.</p>
+<p><a href="http://daringfireball.net/linked/2014/09/04/twitpic">John Gruber asks</a>:</p>
+<blockquote><p>
+  &#8220;Why not just change the name to something original?&#8221;
+</p></blockquote>
+<p>While I wonder if that comment may have a dual purpose, aimed as much at <a href="http://standardmarkdown.com">Standard Markdown</a> as Twitpic, I&#8217;ll answer it anyway. Because Twitter has a well-documented history of stepping on developers. This trademark fight is just the latest, and at some point, I have to assume that Noah was fed up and called it: <em>enough is enough</em>.</p>
+<p>Enough with building apps in a toxic ecosystem. Developers who care about microblogging should <em>take it back</em>. Let&#8217;s build tools for the web that will matter, that will move the web forward and make our writing last, not locked away behind APIs and ads.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/09/twitpic-and-whats-next.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 4.749 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:14:08 -->

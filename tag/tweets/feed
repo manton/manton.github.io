@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; tweets</title>
+	<atom:link href="http://www.manton.org/tag/tweets/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Nimoy’s last tweet</title>
+		<link>http://www.manton.org/2015/03/nimoys-last-tweet.html</link>
+		<comments>http://www.manton.org/2015/03/nimoys-last-tweet.html#comments</comments>
+		<pubDate>Mon, 30 Mar 2015 19:40:04 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[llap]]></category>
+		<category><![CDATA[nimoy]]></category>
+		<category><![CDATA[startrek]]></category>
+		<category><![CDATA[tweets]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2513</guid>
+		<description><![CDATA[Over two years ago, I carefully planned my final tweets so that they would serve as a proper closing to that chapter of being active on Twitter. But mine were nothing compared to Leonard Nimoy’s final tweet, posted days before he passed away. It&#8217;s been a month now but I&#8217;m still reflecting on it: “A [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Over two years ago, I carefully planned <a href="http://watermark.io/collections/manton/myfinaltweets">my final tweets</a> so that they would serve as a proper closing to that chapter of being active on Twitter. But mine were nothing compared to <a href="https://twitter.com/TheRealNimoy/status/569762773204217857">Leonard Nimoy’s final tweet</a>, posted days before he passed away. It&#8217;s been a month now but I&#8217;m still reflecting on it:</p>
+<blockquote><p>
+  “A life is like a garden. Perfect moments can be had, but not preserved, except in memory.  LLAP”
+</p></blockquote>
+<p>Beautiful. He left behind <a href="http://en.wikipedia.org/wiki/Leonard_Nimoy">much to be remembered by</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/03/nimoys-last-tweet.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Twitter or RSS</title>
+		<link>http://www.manton.org/2014/05/twitter_or_rss.html</link>
+		<comments>http://www.manton.org/2014/05/twitter_or_rss.html#comments</comments>
+		<pubDate>Thu, 22 May 2014 17:25:58 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[blogs]]></category>
+		<category><![CDATA[rss]]></category>
+		<category><![CDATA[tweets]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/05/twitter_or_rss.html</guid>
+		<description><![CDATA[I use Feed Wrangler as my RSS service, but I like this quote from Feedbin’s Ben Ubois: “Twitter and Facebook are often cited as the reason for the decline in RSS usage. Where does content originate though? Right where it always has: on blogs and websites that probably have an RSS feed.” It’s a great [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I use <a href="https://feedwrangler.net/">Feed Wrangler</a> as my RSS service, but I like <a href="http://blog.feedbin.com/2014/05/07/major-sharing-read-it-later-upgrade/">this quote from Feedbin’s Ben Ubois</a>:</p>
+<blockquote><p>
+  “Twitter and Facebook are often cited as the reason for the decline in RSS usage. Where does content originate though? Right where it always has: on blogs and websites that probably have an RSS feed.”
+</p></blockquote>
+<p>It’s a great point. If you had to choose between only reading Twitter or only reading weblogs, which would you choose? Losing Twitter would be a bummer for a lot people, but losing weblogs would <em>decimate the web</em>. We should do more to strengthen weblogs and RSS because they are the foundation for so much of the most important writing on the web.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/05/twitter_or_rss.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Where to archive your tweets</title>
+		<link>http://www.manton.org/2013/01/where_to_archive.html</link>
+		<comments>http://www.manton.org/2013/01/where_to_archive.html#comments</comments>
+		<pubDate>Mon, 21 Jan 2013 22:22:15 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[archive]]></category>
+		<category><![CDATA[tweetlibrary]]></category>
+		<category><![CDATA[tweets]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[watermark]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/01/where_to_archive.html</guid>
+		<description><![CDATA[It’s great to see more people get access to their full archive of tweets from Twitter. In addition to just having a copy of your own tweets, it can be useful to go back and browse them by date, or search for something specific. I’d suggest putting the HTML version online as-is (mine’s here), and [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>It’s great to see more people get access to their full archive of tweets from Twitter. In addition to just having a copy of your own tweets, it can be useful to go back and browse them by date, or search for something specific. I’d suggest putting the HTML version online as-is (<a href="http://www.manton.org/archive/tweets/">mine’s here</a>), and also checking out other apps that add a variety of different features on top of the basic archive.</p>
+<p>Both of my apps — <a href="http://www.riverfold.com/software/tweetlibrary/">Tweet Library</a> for iOS and <a href="http://watermark.io/">Watermark</a> for the web — can now import the .zip file you receive from Twitter. This file contains your full archive of tweets and retweets. Both apps can load the file directly from Dropbox, making it as simple as possible to get the tweets imported. And both apps are smart about only importing tweets that haven’t been stored yet, so you don’t have to worry about duplicates.</p>
+<p><strong>To import into Tweet Library</strong>, first download the archive from your settings page on twitter.com. Inside Tweet Library click on the blue arrow icon next to “Archives” and walk through the steps to authorize your account with Dropbox. Then copy the .zip file from Twitter to Dropbox → Apps → Tweet Library. It will show up in Tweet Library and can be selected.</p>
+<p><img src="http://www.manton.org/images/2013/tl_import_flow.png" alt="Tweet Library import flow" border="0" width="540" height="226" /></p>
+<p>Tweet Library is good if you want easy access to your tweets on the iPhone or iPad. You can search your tweets, create filters for them, and add tweets to special collections to share with others. It also doubles as a full Twitter client, with a timeline, posting, Instapaper support, and plenty more. Check it out <a href="http://itunes.apple.com/us/app/tweet-library/id365768793?mt=8">in the iOS App Store</a>.</p>
+<p><strong>To import into Watermark</strong>, also download the archive from Twitter and put it on Dropbox. You can put it anywhere, either in Apps → Watermark if you’ve already authorized Watermark to use Dropbox (for export), or in Documents or anywhere else. Then sign in to Watermark and click Account → “Upload all your tweets” to select the file.</p>
+<p>Watermark is good if you want to expand your archive beyond just your own tweets. It indexes tweets from everyone you are following, creating a huge searchable archive over time. My own account in Watermark now has about 400,000 tweets indexed. Sign up or <a href="http://watermark.io/">learn more at watermark.io</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/01/where_to_archive.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>iPad 2 (and tweets)</title>
+		<link>http://www.manton.org/2011/03/ipad_2_and.html</link>
+		<comments>http://www.manton.org/2011/03/ipad_2_and.html#comments</comments>
+		<pubDate>Fri, 04 Mar 2011 14:06:23 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[ipad]]></category>
+		<category><![CDATA[tweetlibrary]]></category>
+		<category><![CDATA[tweets]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2011/03/ipad_2_and.html</guid>
+		<description><![CDATA[I couldn&#8217;t be more excited about the iPad 2. Yes, &#8220;most of it was expected&#8221;:http://twitter.com/manton/status/42597189645639680, but faster and more memory is exactly what the iPad needs. I&#8217;ll be getting it on day 1 and can&#8217;t wait to give Tweet Library a try on the new hardware. During the announcement I collected 70 tweets that I [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I couldn&#8217;t be more excited about the iPad 2. Yes, &#8220;most of it was expected&#8221;:http://twitter.com/manton/status/42597189645639680, but faster and more memory is exactly what the iPad needs. I&#8217;ll be getting it on day 1 and can&#8217;t wait to give Tweet Library a try on the new hardware.</p>
+<p>During the announcement I collected 70 tweets that I thought captured the event. You can &#8220;view them on tweetlibrary.com&#8221;:http://tweetlibrary.com/manton/ipad2event.</p>
+<p>Speaking of Tweet Library, Apple just approved version 1.2.2. It fixes a handful of bugs and adds a few new things, like block and report spam, for those of you using it as your main Twitter client. Check out the &#8220;full release notes&#8221;:http://www.riverfold.com/software/tweetlibrary/releasenotes/ or view it &#8220;in the App Store&#8221;:http://itunes.apple.com/us/app/tweet-library/id365768793?mt=8.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2011/03/ipad_2_and.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>EE tweets</title>
+		<link>http://www.manton.org/2010/10/ee_tweets.html</link>
+		<comments>http://www.manton.org/2010/10/ee_tweets.html#comments</comments>
+		<pubDate>Sat, 02 Oct 2010 17:53:12 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[ee]]></category>
+		<category><![CDATA[tweetlibrary]]></category>
+		<category><![CDATA[tweets]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2010/10/ee_tweets.html</guid>
+		<description><![CDATA[I submitted my new iPad app to Apple earlier this week. It hasn&#8217;t been reviewed yet, but Ryan Irelan has been using the beta to curate a &#8220;collection of ExpressionEngine conference tweets over on the EE Insider blog&#8221;:http://eeinsider.com/blog/eeci-tweet-collection/. The app may still only be in the hands of my friends and beta testers, but it&#8217;s [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I submitted my new iPad app to Apple earlier this week. It hasn&#8217;t been reviewed yet, but Ryan Irelan has been using the beta to curate a &#8220;collection of ExpressionEngine conference tweets over on the EE Insider blog&#8221;:http://eeinsider.com/blog/eeci-tweet-collection/. The app may still only be in the hands of my friends and beta testers, but it&#8217;s great to see how it could be used in the real world.</p>
+<p>So that&#8217;s one feature of the app: grouping tweets together around topics, events, conferences, categories, whatever, and then publishing them with one click so they can be shared with friends and indexed by Google. There&#8217;s more of course. I&#8217;ll be getting the marketing web site up soon, and a screencast too, hopefully before the app is approved! Although I&#8217;m quick to complain about App Store review delays, in this case I&#8217;m counting on a week delay so that I can get my act together.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2010/10/ee_tweets.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.390 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:34:59 -->

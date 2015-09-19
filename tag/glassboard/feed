@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; glassboard</title>
+	<atom:link href="http://www.manton.org/tag/glassboard/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Core Intuition 159</title>
+		<link>http://www.manton.org/2014/10/core-intuition-159.html</link>
+		<comments>http://www.manton.org/2014/10/core-intuition-159.html#comments</comments>
+		<pubDate>Thu, 16 Oct 2014 15:50:59 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[cingleton]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[glassboard]]></category>
+		<category><![CDATA[macworld]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2341.html</guid>
+		<description><![CDATA[Daniel and I just published Core Intuition 159. It&#8217;s an episode of endings: the last Çingleton, no more Macworld Expo, and shutting down Glassboard. Along the way we discuss indie development, making a decision in public, and the reward and challenge of taking on something truly big.]]></description>
+				<content:encoded><![CDATA[<p>Daniel and I just published <a href="http://coreint.org/159">Core Intuition 159</a>. It&#8217;s an episode of endings: the last Çingleton, no more Macworld Expo, and shutting down Glassboard. Along the way we discuss indie development, making a decision in public, and the reward and challenge of taking on something truly big.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/10/core-intuition-159.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>NewsGator and Sepia Labs</title>
+		<link>http://www.manton.org/2014/05/newsgator_and_sepia.html</link>
+		<comments>http://www.manton.org/2014/05/newsgator_and_sepia.html#comments</comments>
+		<pubDate>Mon, 12 May 2014 13:03:21 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[glassboard]]></category>
+		<category><![CDATA[netnewswire]]></category>
+		<category><![CDATA[newsgator]]></category>
+		<category><![CDATA[rss]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/05/newsgator_and_sepia.html</guid>
+		<description><![CDATA[Great post from Brent Simmons, recalling his time at NewsGator. On trying to get Nick Bradbury to join them at Sepia Labs, the spin-off that was building Glassboard: “I loved working with Nick in the past, and — even though Nick was an iPhone user and Delphi programmer — I wanted him as our Android [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Great post from Brent Simmons, <a href="http://inessential.com/2014/05/10/what_happened_at_newsgator">recalling his time at NewsGator</a>. On trying to get Nick Bradbury to join them at Sepia Labs, the spin-off that was building Glassboard:</p>
+<blockquote><p>
+  “I loved working with Nick in the past, and — even though Nick was an iPhone user and Delphi programmer — I wanted him as our Android developer. Nick was not eager to be on the NewsGator payroll again, but he accepted since we were spinning out into a separate company. And he quickly turned into a great Android developer, as we all knew he would.”
+</p></blockquote>
+<p>There’s plenty more, about the different stages the company went through from Brent’s perspective. I love posts like this. It’s important to capture the history and culture of tech companies, before our memory fades. And it’s not unlike what Brent has done on a bigger scale for his podcast <a href="http://therecord.co">The Record</a> with Chris Parrish.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/05/newsgator_and_sepia.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>App.net niche</title>
+		<link>http://www.manton.org/2014/05/appnet_niche.html</link>
+		<comments>http://www.manton.org/2014/05/appnet_niche.html#comments</comments>
+		<pubDate>Wed, 07 May 2014 13:06:36 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[adn]]></category>
+		<category><![CDATA[glassboard]]></category>
+		<category><![CDATA[moonshot]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/05/appnet_niche.html</guid>
+		<description><![CDATA[Justin Williams covers several aspects of this week’s App.net news, comparing it to his own Glassboard service. On finding a profitable niche: “Finding an audience of people interested in your platform is challenging. This isn’t Field of Dreams where if you build it people will magically appear. Once you find that niche of users, you’ve [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Justin Williams covers several aspects of this week’s App.net news, <a href="http://carpeaqua.com/2014/05/06/lessons-from-app-net/">comparing it to his own Glassboard service</a>. On finding a profitable niche:</p>
+<blockquote><p>
+  “Finding an audience of people interested in your platform is challenging. This isn’t Field of Dreams where if you build it people will magically appear. Once you find that niche of users, you’ve got to ensure they’re also the type of folks that are willing to pay to support your platform. If they aren’t, you keep looking for a niche that will sustain your product.”
+</p></blockquote>
+<p>He also hits on the main thing that was probably holding App.net back: the stigma that it was just a Twitter clone. I’m more than a little disappointed that fellow developers didn’t get the power of the App.net API. Does <a href="http://sunlit.io/">Sunlit</a> <em>look</em> like a Twitter app? Give me a break. App.net is hands down the best API of its kind.</p>
+<p>So now we figure out what’s next. In the short term, not much changes. Tomorrow I’ll read my App.net timeline, make a few posts, reply and star as usual. Next week I’ll do the same. At WWDC I’ll use App.net messaging apps to coordinate meeting up with friends.</p>
+<p>There’s no shame in shooting for the stars and missing. I’m thankful that even as the founders tried a few things outside micro-blogging over the last year, they never compromised on their original mission for the service. They never sold out users or developers, and the servers hum along in testament to that fact, as if nothing that’s good will ever really change.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/05/appnet_niche.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Photos+ and focus</title>
+		<link>http://www.manton.org/2014/04/photos_and_focus.html</link>
+		<comments>http://www.manton.org/2014/04/photos_and_focus.html#comments</comments>
+		<pubDate>Fri, 18 Apr 2014 21:39:41 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Photography]]></category>
+		<category><![CDATA[dropbox]]></category>
+		<category><![CDATA[glassboard]]></category>
+		<category><![CDATA[photosplus]]></category>
+		<category><![CDATA[silverpine]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/04/photos_and_focus.html</guid>
+		<description><![CDATA[You may have heard by now that Photos+ has a new home at SilverPine software. My friend Jonathan Hays — now co-founder of SilverPine — is of course also half of Sunlit, so it was a great fit for him to take on another photo app as well. He writes: “In addition to consulting, we [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>You may have heard by now that <a href="http://jonathanhays.me/2014/04/16/silverpine-software/">Photos+ has a new home at SilverPine software</a>. My friend Jonathan Hays — now co-founder of SilverPine — is of course also half of <a href="http://sunlit.io/">Sunlit</a>, so it was a great fit for him to take on another photo app as well. He writes:</p>
+<blockquote><p>
+  “In addition to consulting, we intend to slowly grow a portfolio of software. To that end, we are announcing today that we have purchased Photos+ from Second Gear Software. We have quite a bit of expertise with photo Apps (see Sunlit, among others) and when Justin Williams approached me about purchasing it from him, it felt like a great fit. We have big plans for Photos+ and have already put into motion the first phase of those plans: native Dropbox integration!”
+</p></blockquote>
+<p>I tested the Dropbox support during the 1.1 beta and think it’s a great direction to take the app. Dropbox the company is going all in on photos: just in the last week shipping Carousel and now acquiring Loom. The more people start using Dropbox to store all their photos, the more useful companion photo apps like Photos+ and Sunlit will be.</p>
+<p>And now <a href="http://carpeaqua.com/2014/04/17/moonshots/">Justin Williams is free to focus all his time on Glassboard</a>. While I’ve been building web services and subscription apps for a while now, the truth is I’m still figuring out how to do this as a business too. I’ve learned a lot from Justin’s recent blog posts on the subject.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/04/photos_and_focus.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Getting good at making money</title>
+		<link>http://www.manton.org/2014/02/getting_good_at.html</link>
+		<comments>http://www.manton.org/2014/02/getting_good_at.html#comments</comments>
+		<pubDate>Thu, 27 Feb 2014 03:14:59 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[basecamp]]></category>
+		<category><![CDATA[glassboard]]></category>
+		<category><![CDATA[inc]]></category>
+		<category><![CDATA[revenue]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/02/getting_good_at.html</guid>
+		<description><![CDATA[Justin Williams on the challenge of making Glassboard profitable: “Making money is harder than it seems. Most people assume you put a product out and people instantly find and support it. The reality is that for most products, they first struggle to find an audience, and secondly struggle to find an audience that’s willing to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Justin Williams on the challenge of <a href="http://carpeaqua.com/2014/02/26/getting-good-at-making-money/">making Glassboard profitable</a>:</p>
+<blockquote><p>
+  “Making money is harder than it seems. Most people assume you put a product out and people instantly find and support it. The reality is that for most products, they first struggle to find an audience, and secondly struggle to find an audience that’s willing to pay.”
+</p></blockquote>
+<p>Justin’s blog post reminds me of something that Jason Fried of Basecamp wrote about. Getting good at making money is the same as getting good at anything: <a href="http://www.inc.com/magazine/20110301/making-money-small-business-advice-from-jason-fried.html">you have to practice</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/02/getting_good_at.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Killing or selling the product</title>
+		<link>http://www.manton.org/2013/12/killing_or_selling.html</link>
+		<comments>http://www.manton.org/2013/12/killing_or_selling.html#comments</comments>
+		<pubDate>Sat, 21 Dec 2013 01:40:17 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[glassboard]]></category>
+		<category><![CDATA[tweetmarker]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/12/killing_or_selling.html</guid>
+		<description><![CDATA[Nick Bradbury on selling Glassboard to Second Gear: “When finding a new owner was first discussed, I was very unsure of the idea. We wouldn’t be just handing over our software to someone else – we’d also be handing over our customers and their data. That was such a concern of mine that I suggested [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://nickbradbury.com/2013/12/20/glassboard-finds-a-home/">Nick Bradbury on selling Glassboard</a> to Second Gear:</p>
+<blockquote><p>
+  “When finding a new owner was first discussed, I was very unsure of the idea. We wouldn’t be just handing over our software to someone else – we’d also be handing over our customers and their data. That was such a concern of mine that I suggested we simply kill the product.”
+</p></blockquote>
+<p>A few times this year I’ve thought about whether I should sell Tweet Marker, but it usually comes back to a similar concern as what Nick says above. I wouldn’t feel comfortable selling it to most companies that would actually want to acquire it. So I’ve made <a href="http://manton.org/2013/07/announcing_the_tweet.html">a change</a> or <a href="http://manton.org/2013/11/tweet_marker.html">two</a>, and we’ll see how 2014 goes.</p>
+<p>As for Glassboard, I’m excited to see <a href="http://www.secondgearsoftware.com/blog/glassboard-acquired-by-second-gear/">what Justin Williams does with it</a>. We use it for Core Intuition questions and feedback (invite code “coreint”), and I’m sure I’ll be using the 3.0 version around conferences next year.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/12/killing_or_selling.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.964 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:19:50 -->

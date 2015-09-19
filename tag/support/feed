@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; support</title>
+	<atom:link href="http://www.manton.org/tag/support/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Faster support response times</title>
+		<link>http://www.manton.org/2010/12/faster_support_response.html</link>
+		<comments>http://www.manton.org/2010/12/faster_support_response.html#comments</comments>
+		<pubDate>Mon, 13 Dec 2010 15:06:14 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[email]]></category>
+		<category><![CDATA[ideveloper]]></category>
+		<category><![CDATA[support]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2010/12/faster_support_response.html</guid>
+		<description><![CDATA[In an &#8220;interview with Kevin Hoctor on episode 5 of the iDeveloper Live podcast&#8221;:http://ideveloper.tv/shows, Scotty referenced my comment from Core Intuition that customers are so used to terrible support that they don&#8217;t mind a few days or even a week delay. I thought this was maybe taken out of context a little since we were [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>In an &#8220;interview with Kevin Hoctor on episode 5 of the iDeveloper Live podcast&#8221;:http://ideveloper.tv/shows, Scotty referenced my comment from Core Intuition that customers are so used to terrible support that they don&#8217;t mind a few days or even a week delay. I thought this was maybe taken out of context a little since we were talking about vacations, so I went back to listen to what I said:</p>
+<blockquote><p>&#8220;Most people are thrilled to get a response in a few days, maybe a week they&#8217;re still cool with it. They are used to sending support email to companies and not getting a response any time soon or maybe not at all in some cases.&#8221;</p></blockquote>
+<p>Of course I didn&#8217;t mean I strive for week delays before a customer gets a response, but looking back I think Scotty&#8217;s interpretation was right: in a way this was a confession that I&#8217;ve fallen down when it comes to support. My response times for Tweet Library questions are still very good (usually same day), but it&#8217;s dragging for my other products. Even when I&#8217;m quick to respond to an initial email, difficult follow-up questions often won&#8217;t see an answer for some time. I&#8217;m just not as responsive as I was when I wrote &#8220;this blog post about good support in 2007&#8243;:http://www.manton.org/2007/02/customer.html.</p>
+<p>The worst part are the emails that fall through the cracks. They are on their 2nd or 3rd response to a problem that I don&#8217;t understand, or they&#8217;re waiting on a solution that isn&#8217;t ready, and months go by before I can pick up the thread again. I hate this.</p>
+<p>I&#8217;m going to use this opportunity to get back to where I should be: less than 24-hour response in all cases, for all products. I&#8217;m adding a &#8220;stats section to my support page&#8221;:http://www.riverfold.com/support/ to keep me in check, and I&#8217;ve seeded it with response times for the most recent support questions via email and forums. This will also give customers an idea of what to expect without an explicit promise from me.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2010/12/faster_support_response.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Better software, less support</title>
+		<link>http://www.manton.org/2009/02/better_software_less.html</link>
+		<comments>http://www.manton.org/2009/02/better_software_less.html#comments</comments>
+		<pubDate>Sat, 07 Feb 2009 13:26:41 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[limits]]></category>
+		<category><![CDATA[support]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2009/02/better_software_less.html</guid>
+		<description><![CDATA[A few months ago &#8220;Ars carried a story&#8221;:http://arstechnica.com/journals/apple.ars/2008/10/09/slowing-economy-impacts-apple-call-center-in-colorado about Apple canceling a call center in Colorado. This part stuck out to me: &#8220;Somewhat surprisingly, the iPhone 2.1 update was also named as one of the reasons for the cancellation. The software update has apparently been so successful at resolving iPhone 3G problems that its release [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>A few months ago &#8220;Ars carried a story&#8221;:http://arstechnica.com/journals/apple.ars/2008/10/09/slowing-economy-impacts-apple-call-center-in-colorado about Apple canceling a call center in Colorado. This part stuck out to me:</p>
+<blockquote><p>&#8220;Somewhat surprisingly, the iPhone 2.1 update was also named as one of the reasons for the cancellation. The software update has apparently been so successful at resolving iPhone 3G problems that its release has caused a noticeable drop in support calls.&#8221;</p></blockquote>
+<p>In this case it was just bug fixes, but it reminded me of &#8220;Getting Real&#8221;:https://gettingreal.37signals.com/. Make software easy to use and simple and then there are fewer things that can break and users are less confused. I have been obsessed with following this advice lately. Some of the limitations I&#8217;ve put in a couple recent projects:</p>
+<ul>
+<li>No preferences (for Mac, no prefs window; for web, no options or settings screen).</p>
+</li>
+<li>
+<p>Single toolbar (no status bar or need to look in multiple places, e.g. both the top and bottom of the window).</p>
+</li>
+<li>
+<p>Minimal toolbar buttons (only the absolute basics are exposed outside of menus).</p>
+</li>
+<li>
+<p>Opinionated defaults (no customization, similar to others above).</p>
+</li>
+</ul>
+<p>On a few occasions this has hurt my ability to add features, but on others it forces me to see a user interface problem from a new angle, something I wouldn&#8217;t have done if I hadn&#8217;t had these limits to work in.</p>
+<p>Limiting features in an app does not come naturally to me, but the more I embrace it, the more value I see in it. I &#8220;tweeted a bonus side effect&#8221;:http://twitter.com/manton/status/1177252437 to this approach last week: &#8220;Maybe another reason why simple software succeeds: customers see in it all the possible features to come, implemented just right for them.&#8221;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2009/02/better_software_less.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Customer support</title>
+		<link>http://www.manton.org/2007/02/customer_support.html</link>
+		<comments>http://www.manton.org/2007/02/customer_support.html#comments</comments>
+		<pubDate>Wed, 21 Feb 2007 05:38:53 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[customers]]></category>
+		<category><![CDATA[email]]></category>
+		<category><![CDATA[riverfold]]></category>
+		<category><![CDATA[support]]></category>
+		<category><![CDATA[transfer]]></category>
+		<category><![CDATA[wii]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/02/customer_support.html</guid>
+		<description><![CDATA[One of the most interesting (and difficult) parts of running an independent software business is responding to support email. It is very time-consuming and often more frustrating than writing code because the solutions can be illusive. You want to help the customer, but it&#8217;s not always obvious how. Two blog posts in the last week [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>One of the most interesting (and difficult) parts of running an independent software business is responding to support email. It is very time-consuming and often more frustrating than writing code because the solutions can be illusive. You want to help the customer, but it&#8217;s not always obvious how.</p>
+<p>Two blog posts in the last week take entirely different approaches to customer support. &#8220;The first is from Ryan Carson&#8221;:http://www.carsonified.com/web-apps/how-to-deal-with-abusive-customers, who is well known for DropSend and The Future of Web Apps conference. Here&#8217;s a snippet from his response to a customer:</p>
+<blockquote><p>&#8220;I am now marking your email address as spam and your communication will no longer get through. If you don&#8217;t want to use our service any more, please cancel your account.&#8221;</p></blockquote>
+<p>I was relieved to read the comments, which are more sane. I think Ryan made a mistake in how he dealt with the customer, and wasted a bunch of time in the process. Adding a customer to your spam filter? Yikes. I would have refunded the customer their $5 immediately.</p>
+<p>(I actually like a lot of what Ryan writes and the events he puts on, but lately I find myself noticing the differences. As another example, his post about &#8220;outsourcing programming work to Russia&#8221;:http://www.carsonified.com/misc/why-you-need-to-get-rid-of-your-freelance-developer-asap left me puzzled.)</p>
+<p>&#8220;Joel Spolsky also wrote an essay&#8221;:http://www.joelonsoftware.com/articles/customerservice.html on support, and it&#8217;s just about perfect. I especially like his section on <em>memorizing awkward phrases</em>:</p>
+<blockquote><p>&#8220;It&#8217;s completely natural to have trouble saying &#8216;It&#8217;s my fault.&#8221; That&#8217;s human. But those three words are going to make your angry customers much happier. So you&#8217;re going to have to say them. And you&#8217;re going to have to sound like you mean it.&#8221;</p></blockquote>
+<p>For almost every support email I get, I start by responding like this:</p>
+<blockquote><p>&#8220;Hi Bob, Thanks for purchasing Wii Transfer. I&#8217;m sorry to hear it was not working correctly for you.&#8221;</p></blockquote>
+<p>This does three things right away that I think are important:</p>
+<ul>
+<li>Greet the person by their name. Kind of like making eye contact. And it&#8217;s respectful without being overly formal.</p>
+</li>
+<li>
+<p>Thank them for using the product. If they haven&#8217;t bought it yet, replace &#8220;purchasing&#8221; with &#8220;trying.&#8221;</p>
+</li>
+<li>
+<p>Apologize that the software gave them trouble. This is mostly equivalent to Joel&#8217;s &#8220;it&#8217;s my fault&#8221; phrase.</p>
+</li>
+</ul>
+<p>Although I could probably respond faster by using some macro shortcuts that do this for me, I actually type this out every time, varying it slightly as is appropriate for the question. I then move on to the actual solution or follow-up question about their issue.</p>
+<p>This is more than just trying to be nice to people. As someone in the comments to Ryan Carson&#8217;s post said: you need to show the customer that you are on their side. Going negative demonstrates that you care about receiving their money but not actually building something useful that makes their life easier.</p>
+<p>Here&#8217;s a portion of 37signals take on being on the customers side, from &#8220;Getting Real&#8221;:http://gettingreal.37signals.com/:</p>
+<blockquote><p>&#8220;At 37signals, all of our support emails are answered personally by the people who actually build the product. Why? First off, it provides better support for customers. They&#8217;re getting a response straight from the brain of someone who built the app. Also, it keeps us in touch with the people who use our products and the problems they&#8217;re encountering. When they&#8217;re frustrated, we&#8217;re frustrated. We can say, &#8216;I feel your pain&#8217; and actually mean it.&#8221;</p></blockquote>
+<p>Most people who buy Mac software from independent developers know that it&#8217;s only 1-5 people behind the company. We can&#8217;t compete with the Microsofts and Adobes of the world on application size, but we can compete on quality customer service. <em>Being small is a competitive advantage.</em></p>
+<p>I&#8217;ve exchanged at least a couple hundred emails in the last few months with customers or potential customers. (I don&#8217;t actually distinguish between users who have bought the product or who are just trying it out. They all get the same level of support.) Have I handled each one perfectly? Probably not. There are a few people who are still experiencing problems. But my hope is that just writing this blog post will serve as a guide and reminder of why taking support seriously is worth it.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2007/02/customer_support.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.540 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:46:22 -->

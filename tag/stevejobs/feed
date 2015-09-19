@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; stevejobs</title>
+	<atom:link href="http://www.manton.org/tag/stevejobs/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Three months without Twitter</title>
+		<link>http://www.manton.org/2013/01/three_months_without.html</link>
+		<comments>http://www.manton.org/2013/01/three_months_without.html#comments</comments>
+		<pubDate>Fri, 11 Jan 2013 18:07:03 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[adn]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[stevejobs]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[watermark]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/01/three_months_without.html</guid>
+		<description><![CDATA[Over three months ago I stopped using Twitter. I wanted to make a statement — perhaps in an overly-dramatic way — that the developer-hostile environment that Twitter had evolved into wasn’t something I could support anymore. I do still read plenty of tweets while testing Watermark, and I’m almost done with a new version of [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Over three months ago I stopped using Twitter. I wanted to make a statement — perhaps in an overly-dramatic way — that the developer-hostile environment that Twitter had evolved into wasn’t something I could support anymore. I do still read plenty of tweets while testing <a href="http://watermark.io/">Watermark</a>, and I’m almost done with a new version of <a href="http://www.riverfold.com/software/tweetlibrary/">Tweet Library</a>, because my customers deserve great Twitter features. But I haven’t tweeted, retweeted, or favorited a thing from my personal account since October 5th.</p>
+<p>I knew that sometimes it would be difficult to resist going back to Twitter, replying to a question, or cross-posting my posts from App.net. So I set things up to discourage my future self from even considering more tweeting. I picked the 1-year anniversary of the day Steve Jobs died and <a href="http://watermark.io/collections/manton/myfinaltweets">wrote my final tweets</a> a week in advance. If someone visits my profile, I want those statements to be what they see. I can’t tweet again without pushing those tweets from the top of the list.</p>
+<p>Meanwhile, App.net started taking off. Netbot shipped. The <a href="http://blog.app.net/2012/09/27/announcing-the-app-net-developer-incentive-program/">developer incentive program</a> started to directly reward developers. There’s a good community there. It’s smaller than on Twitter; there isn’t the same never-ending stream of tweets flowing into your timeline. But maybe that’s a good thing.</p>
+<p>The flip side is that it’s hard to let go of things like Twitter that have value. I had similar self-doubt when I killed off my app Wii Transfer, so that I could focus on bigger ideas. But simplifying has allowed me to do some of the best work of my career in 2012. I’ve put everything I have into Watermark, into the new Tweet Marker subscriptions, into doing Core Intuition weekly, into <a href="http://www.manton.org/2012/06/ship_everything.html">shipping everything I work on</a>. 2013 is going to be awesome, and I’m not looking back.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/01/three_months_without.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Carousel</title>
+		<link>http://www.manton.org/2011/06/carousel.html</link>
+		<comments>http://www.manton.org/2011/06/carousel.html#comments</comments>
+		<pubDate>Wed, 15 Jun 2011 20:37:44 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[madmen]]></category>
+		<category><![CDATA[marketing]]></category>
+		<category><![CDATA[stevejobs]]></category>
+		<category><![CDATA[tweetlibrary]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2011/06/carousel.html</guid>
+		<description><![CDATA[Don Draper, from the &#8220;season 1 finale of Mad Men&#8221;:http://www.youtube.com/watch?v=suRDUFpsHus (YouTube, skip if you plan to watch the whole series): &#8220;This device isn&#8217;t a spaceship; it&#8217;s a time machine. It goes backwards, forwards. It takes us to a place where we ache to go again. It&#8217;s not called the wheel; it&#8217;s called the carousel. It [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Don Draper, from the &#8220;season 1 finale of Mad Men&#8221;:http://www.youtube.com/watch?v=suRDUFpsHus (YouTube, skip if you plan to watch the whole series):</p>
+<p><a href="http://www.youtube.com/watch?v=suRDUFpsHus"><img src="http://www.manton.org/images/2011/don_draper.jpg" width="400" height="227" alt="Don Draper" style="border: 1px solid gray; display:block; margin-left:auto; margin-right:auto;" border="0" /></a></p>
+<blockquote><p>&#8220;This device isn&#8217;t a spaceship; it&#8217;s a time machine. It goes backwards, forwards. It takes us to a place where we ache to go again. It&#8217;s not called the wheel; it&#8217;s called the carousel. It lets us travel the way a child travels &mdash; around and around, and back home again, to a place where we know we were loved.&#8221;</p></blockquote>
+<p>When I first saw this a couple years ago I thought of Steve Jobs, the master pitchman in our industry. The delivery is different, more personal here, but it was stunning as part of the full episode. Who doesn&#8217;t want to build products that resonate so well, that go from nice utilities or productivity apps to something our customers fall in love with?</p>
+<p>First you build a product that changes things, that is truly useful. Something ambitious. Then find a way to sell it that connects, and underscore why it matters.</p>
+<p>I don&#8217;t really know how to do this yet. But I do know that part of it is telling stories. Why did I create &#8220;Tweet Library&#8221;:http://www.riverfold.com/software/tweetlibrary/? To tell stories, to remember events that matter before they&#8217;re lost in the fleeting stream of old tweets. It&#8217;s the kind of nostalgia at the heart of the Mad Men clip.</p>
+<p>&#8220;I like this post from Kyle Neath of GitHub&#8221;:http://warpspire.com/posts/idea-businesses/, that it&#8217;s about ideas, not products (via &#8220;Duncan Davidson&#8221;:http://duncandavidson.com/):</p>
+<blockquote><p>&#8220;People want to be part of ideas. Being part of a company who builds a successful product is cool&#8230; but being part of an idea is a lot more attractive. If you can build a business where both your employees and your customers think they&#8217;re part of an idea, you&#8217;ve created something special.&#8221;</p></blockquote>
+<p>If you can extract the core idea from a great product, everything that comes next can be matched to the idea, so the product has a clear path for new features. Building a story around it &mdash; something that sticks, and having the resources to tell that story properly &mdash; takes a lot of work. I&#8217;m inspired when I see others do it well, and it&#8217;s an art I hope to make time for.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2011/06/carousel.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Macworld 2007 predictions</title>
+		<link>http://www.manton.org/2007/01/macworld_2007_predictions.html</link>
+		<comments>http://www.manton.org/2007/01/macworld_2007_predictions.html#comments</comments>
+		<pubDate>Fri, 05 Jan 2007 13:27:32 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[macworld]]></category>
+		<category><![CDATA[stevejobs]]></category>
+		<category><![CDATA[wwdc]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/01/macworld_2007_predictions.html</guid>
+		<description><![CDATA[&#8220;Dan covers his Macworld predictions&#8221;:http://hivelogic.com/articles/2007/01/04/macworld_2007 in great detail. Instead of predictions, since mine will probably be wrong, I&#8217;m going to list what I want to see: Tablet. I tend to agree with &#8220;Steven Frank&#8217;s analysis&#8221;:http://stevenf.com/2007/01/wherein_i_predict_the_future.php more than &#8220;this former Apple exec&#8221;:http://technology.guardian.co.uk/weekly/story/0,,1981815,00.html, but either way it remains pretty unlikely that a tablet is going to happen [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>&#8220;Dan covers his Macworld predictions&#8221;:http://hivelogic.com/articles/2007/01/04/macworld_2007 in great detail. Instead of predictions, since mine will probably be wrong, I&#8217;m going to list what I <em>want</em> to see:</p>
+<p><em>Tablet.</em> I tend to agree with &#8220;Steven Frank&#8217;s analysis&#8221;:http://stevenf.com/2007/01/wherein_i_predict_the_future.php more than &#8220;this former Apple exec&#8221;:http://technology.guardian.co.uk/weekly/story/0,,1981815,00.html, but either way it remains pretty unlikely that a tablet is going to happen under Steve Job&#8217;s watch. At WWDC once Steve Jobs called the Newton a &#8220;little scribbly thing&#8221; or something similar, and it wasn&#8217;t long before he officially gave that division the axe.</p>
+<p><em>Numbers.</em> Some people still insist on sending me Excel documents. We need a simple application in the iWork suite that can natively read/write Excel documents and handle the basics.</p>
+<p><em>Finder.</em> I&#8217;m pretty sure Leopard will sport a new Finder, as well as user interface candy paint applied across the operating system. The only question is whether they&#8217;ve rewritten it from scratch and in the process introduced even more problems. I&#8217;m optimistic on this one, though, and expect an elegant UI evolution from the Finder team.</p>
+<p>What I don&#8217;t care about:</p>
+<p><em>iTV.</em> See &#8220;previous post about DRM&#8221;:http://www.manton.org/2007/01/goodbye_itms.html. If I want to watch a movie, I&#8217;ll put in a DVD. However, I do hope to draw some inspiration from whatever they do and apply it to &#8220;Wii Transfer&#8221;:http://www.riverfold.com/software/wiitransfer/ development.</p>
+<p><em>iPod Phone.</em> I have no doubt it will be well designed, but it will also be at least $299 (guess). I have only owned a couple mobile phones in my life, and they were free or nearly free. The iPod Phone will have to be something no one&#8217;s even thought of yet for me to consider it. It&#8217;s kind of like &#8220;Nike + iPod&#8221;:http://www.apple.com/ipod/nike/, a luxury that I don&#8217;t really need.</p>
+<p>Anyway, should be a fun Macworld. I haven&#8217;t been in years and I&#8217;m a little jealous of those who are attending this year. (But not jealous enough to want to get on a plane next week.) Part of me misses the old days, having a booth and talking with users or seeing what was new on the show floor. I was at the first Macworld keynote after Steve Jobs came back to Apple, while Gil Amelio was still in charge, and I&#8217;ll always remember it as something pretty special.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2007/01/macworld_2007_predictions.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>iPods, videos, and U2</title>
+		<link>http://www.manton.org/2005/10/ipods_videos_and.html</link>
+		<comments>http://www.manton.org/2005/10/ipods_videos_and.html#comments</comments>
+		<pubDate>Thu, 13 Oct 2005 19:50:56 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Music]]></category>
+		<category><![CDATA[disney]]></category>
+		<category><![CDATA[ebay]]></category>
+		<category><![CDATA[ipods]]></category>
+		<category><![CDATA[stevejobs]]></category>
+		<category><![CDATA[u2]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2005/10/ipods_videos_and.html</guid>
+		<description><![CDATA[Steve Jobs in yesterday&#8217;s special event, discussing the white iPods: &#8220;It&#8217;s been a huge success for us, and therefore it&#8217;s time to replace it.&#8221; The new iPods look great. At first I was disappointed by the $1.99 price for music videos and TV shows, but when you do the math it is only a little [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Steve Jobs in yesterday&#8217;s special event, discussing the white iPods:</p>
+<blockquote><p>&#8220;It&#8217;s been a huge success for us, and therefore it&#8217;s time to replace it.&#8221;</p></blockquote>
+<p>The new iPods look great. At first I was disappointed by the $1.99 price for music videos and TV shows, but when you do the math it is only a little more than buying DVDs. And what about the small quality, only 320&#215;240? In the name of science I dropped $2 to test it.</p>
+<p>Last week, thanks to eBay, I became the proud owner of 2 tickets to see U2 in Houston at the end of the month. I&#8217;ve seen every U2 tour since ZooTV over a decade ago, so I wasn&#8217;t about to let little things like &#8220;too busy&#8221; and &#8220;money&#8221; stand in the way this time. Our seats are fairly horrible, but the price was right and all that matters is that we are there.</p>
+<p>So buying a U2 music video was a natural choice. The download time was reasonable. I clicked it to full-screen on my Cinema Display and sat down 6 feet away. It actually looked good. 30 frames per second doesn&#8217;t hurt either. I could definitely watch TV shows this way.</p>
+<p>Another interesting tidbit from the Apple event. Disney&#8217;s new CEO Bob Iger was introduced quite warmly by Steve Jobs, and Iger even joked that he still hoped an agreement could be reached between Disney and Pixar for continuing distribution of their films. Sounds like that could happen after all.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2005/10/ipods_videos_and.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.788 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:36:01 -->

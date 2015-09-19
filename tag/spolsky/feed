@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; spolsky</title>
+	<atom:link href="http://www.manton.org/tag/spolsky/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>The neverending feature backlog</title>
+		<link>http://www.manton.org/2012/07/the_neverending_feature.html</link>
+		<comments>http://www.manton.org/2012/07/the_neverending_feature.html#comments</comments>
+		<pubDate>Tue, 10 Jul 2012 16:12:01 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[37signals]]></category>
+		<category><![CDATA[bugdatabase]]></category>
+		<category><![CDATA[gettingreal]]></category>
+		<category><![CDATA[spolsky]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2012/07/the_neverending_feature.html</guid>
+		<description><![CDATA[Excellent piece from Joel Spolsky yesterday on software inventory and bug databases: “The trouble is that 90% of the things in the feature backlog will never get implemented, ever. So every minute you spent writing down, designing, thinking about, or discussing features that are never going to get implemented is just time wasted. When I [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Excellent piece from Joel Spolsky yesterday on <a href="http://www.joelonsoftware.com/items/2012/07/09.html">software inventory and bug databases</a>:</p>
+<blockquote><p>
+  “The trouble is that 90% of the things in the feature backlog will never get implemented, ever. So every minute you spent writing down, designing, thinking about, or discussing features that are never going to get implemented is just time wasted. When I hear about product teams that regularly have ‘backlog grooming’ sessions, in which they carefully waste a tiny amount of time and mental energy every day or every week thinking about every single feature which will never be implemented, I want to poke my eyes out.”
+</p></blockquote>
+<p>Reminds me of the original Getting Real from 37signals. <a href="http://gettingreal.37signals.com/ch05_Forget_Feature_Requests.php">Back in 2006</a>:</p>
+<blockquote><p>
+  “So what do you do with all these requests that pour in? Where do you store them? <strong>How do you manage them? You don’t. Just read them and then throw them away.</strong>”
+</p></blockquote>
+<p>And:</p>
+<blockquote><p>
+  “It sounds blasphemous but the ones that are important will keep bubbling up anyway. Those are the only ones you need to remember. Those are the truly essential ones. Don’t worry about tracking and saving each request that comes in. Let your customers be your memory. If it’s really worth remembering, they’ll remind you until you can’t forget.”
+</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2012/07/the_neverending_feature.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Better is the best marketing</title>
+		<link>http://www.manton.org/2009/09/better_is_the.html</link>
+		<comments>http://www.manton.org/2009/09/better_is_the.html#comments</comments>
+		<pubDate>Thu, 03 Sep 2009 13:29:47 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[clipstart]]></category>
+		<category><![CDATA[finance]]></category>
+		<category><![CDATA[mueller]]></category>
+		<category><![CDATA[sales]]></category>
+		<category><![CDATA[spolsky]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2009/09/better_is_the.html</guid>
+		<description><![CDATA[&#8220;Gus Mueller&#8221;:http://gusmueller.com/blog/archives/2009/08/setting_the_right_priorities.html, in response to a post from Joel Spolsky: &#8220;If no one is buying your app then you&#8217;ve either got a dud and you need to focus on something else, or you need to improve your app so it&#8217;s worth paying for.&#8221; I hinted at this in &#8220;my last post about new Clipstart features&#8221;:http://www.manton.org/2009/08/clipstart_12_ships.html. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>&#8220;Gus Mueller&#8221;:http://gusmueller.com/blog/archives/2009/08/setting_the_right_priorities.html, in response to a post from Joel Spolsky:</p>
+<blockquote><p>&#8220;If no one is buying your app then you&#8217;ve either got a dud and you need to focus on something else, or you need to improve your app so it&#8217;s worth paying for.&#8221;</p></blockquote>
+<p>I hinted at this in &#8220;my last post about new Clipstart features&#8221;:http://www.manton.org/2009/08/clipstart_12_ships.html. When Clipstart 1.0 launched and sales were lower than I had secretly hoped, the feedback was still so encouraging that it was obvious I had to keep rolling out new versions. Release 1.1, a month later. Release 1.2, which is &#8220;shipping today&#8221;:http://www.riverfold.com/software/clipstart/.</p>
+<p>Some products are just easier to sell than others. For Wii Transfer, people enter &#8220;music wii mac&#8221; in Google and then a few minutes later they are clicking the Buy button on my web site. But with Clipstart, even though I believe it to be a superior product, it&#8217;s going to take work and marketing and word-of-mouth and demo coaxing and making it so good that you&#8217;d be nuts to shoot video and not have it installed.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2009/09/better_is_the.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.229 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:45:07 -->

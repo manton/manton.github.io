@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; refunds</title>
+	<atom:link href="http://www.manton.org/tag/refunds/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>iTunes password caching</title>
+		<link>http://www.manton.org/2010/07/itunes_password_caching.html</link>
+		<comments>http://www.manton.org/2010/07/itunes_password_caching.html#comments</comments>
+		<pubDate>Sat, 10 Jul 2010 18:21:31 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[fishies]]></category>
+		<category><![CDATA[itunes]]></category>
+		<category><![CDATA[playmesh]]></category>
+		<category><![CDATA[refunds]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2010/07/itunes_password_caching.html</guid>
+		<description><![CDATA[&#8220;Mike Rohde racked up $190 in iTunes in-app purchases&#8221;:http://www.rohdesign.com/weblog/archives/003193.html without knowing it, blaming an app called &#8220;Fishies&#8221;:http://itunes.apple.com/us/app/fishies-by-playmesh/id360868737?mt=8 by PlayMesh for tricking his son into purchasing virtual items without a password prompt. He was obviously pretty upset &#8212; I would be too! &#8212; but calling it a &#8220;scam&#8221; probably goes too far. So what really happened? [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>&#8220;Mike Rohde racked up $190 in iTunes in-app purchases&#8221;:http://www.rohdesign.com/weblog/archives/003193.html without knowing it, blaming an app called &#8220;Fishies&#8221;:http://itunes.apple.com/us/app/fishies-by-playmesh/id360868737?mt=8 by PlayMesh for tricking his son into purchasing virtual items without a password prompt. He was obviously pretty upset &mdash; I would be too! &mdash; but calling it a &#8220;scam&#8221; probably goes too far. So what really happened?</p>
+<p>It is fairly well known that after the App Store prompts for your iTunes password, you can download more apps for a certain length of time (at least a few minutes) before it requires a password again. What seemed less clear is that this applies to in-app purchases as well.</p>
+<p>To be sure, I ran a test to confirm the behavior:</p>
+<ul>
+<li>Download a new free app from the App Store (I downloaded the current number 1 iPhone app, Farm Story Summer).</p>
+</li>
+<li>
+<p>Enter your password to confirm the download.</p>
+</li>
+<li>
+<p>As soon as it finishes, go to another completely different app (in my case it was Iconfactory&#8217;s Ramp Champ, which I had downloaded months ago).</p>
+</li>
+<li>
+<p>Purchase an in-app virtual item.</p>
+</li>
+<li>
+<p>It prompts for whether you want to buy the item (the standard Apple prompt), but <em>without requiring a password</em>.</p>
+</li>
+</ul>
+<p>What must have happened to Mike is that he bought something, entered his password, and then handed the iPad over to his son. His son played the fish game and clicked a bunch of random stuff (likely got the Buy prompt), but because the whole concept of virtual currency is kind of confusing, and because it didn&#8217;t ask for a password, the app happily let him make all the purchases.</p>
+<p>I doubt the developer of this app did anything wrong. A reasonable argument could be made that iTunes should either not cache passwords at all, or keep a separate cache for app downloads vs. in-app purchases, or maybe always prompt for a password on in-app purchases. My kids and other kids I know have also used this backdoor trick to sneak a couple app downloads, but usually it&#8217;s a few bucks, not $190. Consumable virtual items (that you can keep buying over and over) make this problem much worse.</p>
+<p>On &#8220;episode 60 of This Week In Startups&#8221;:http://thisweekin.com/thisweekin-startups/this-week-in-startups-60-with-neil-young/, Jason Calacanis interviewed ngmoco founder Neil Young about the mobile game business, focusing on the hit iPhone/iPad game &#8220;We Rule&#8221;:http://werule.ngmoco.com/. I was stunned to learn from the show that some individuals spend not only hundreds of dollars but up to $10,000 on in-app purchases in We Rule. Neil Young was happy to take their money, but something feels wrong here, like a gambling addiction gotten way out of hand. Or maybe just kids running up their dad&#8217;s credit card bill.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2010/07/itunes_password_caching.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Almost-right Amazon response</title>
+		<link>http://www.manton.org/2008/09/almostright_amazon_response.html</link>
+		<comments>http://www.manton.org/2008/09/almostright_amazon_response.html#comments</comments>
+		<pubDate>Thu, 25 Sep 2008 21:59:09 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[amazon]]></category>
+		<category><![CDATA[refunds]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2008/09/almostright_amazon_response.html</guid>
+		<description><![CDATA[I placed an order on Amazon last week and chose Amazon Prime overnight shipping, something I do pretty often. The package was late. Even on Saturday, when the package was nowhere near Texas, the Amazon order page still showed estimated delivery for Friday. I emailed support asking for a refund of the $3.99 overnight charge [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I placed an order on Amazon last week and chose Amazon Prime overnight shipping, something I do pretty often. The package was late. Even on Saturday, when the package was nowhere near Texas, the Amazon order page still showed estimated delivery for Friday.</p>
+<p>I emailed support asking for a refund of the $3.99 overnight charge since they failed to ship on time, and the answer I got back surprised me. They would refund it &#8220;this one time&#8221;, but in the future I should know they don&#8217;t do Saturday delivery. All the details I had provided in my email had been glossed over, and instead they had essentially called me an idiot.</p>
+<p>The refund itself was irrelevant. It&#8217;s just 4 bucks. But please don&#8217;t blame the customer. Even if it&#8217;s not your fault, but especially when it is!</p>
+<p>(A second email with Amazon cleared up the matter and they apologized. I&#8217;m a happy customer again.)</p>
+<p>I&#8217;ve blogged before about &#8220;refunds in the context of customer support&#8221;:http://www.manton.org/2007/02/customer.html, and this Amazon situation just underscores that how you treat your customer is actually more important than the money. I would have been much less upset if they had refused to refund the shipping, but at least acknowledged that I was right about the order date and expected delivery.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2008/09/almostright_amazon_response.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>I Am Rich</title>
+		<link>http://www.manton.org/2008/08/i_am_rich.html</link>
+		<comments>http://www.manton.org/2008/08/i_am_rich.html#comments</comments>
+		<pubDate>Fri, 08 Aug 2008 18:20:37 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[iamrich]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[refunds]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2008/08/i_am_rich.html</guid>
+		<description><![CDATA[I wasn&#8217;t going to give the silly $999 &#8220;I Am Rich&#8221; iPhone application any more attention after the initial laugh, but the more that everyone reacts to what went wrong the more clear it becomes that there is something to learn here. &#8220;Kottke thinks Apple shouldn&#8217;t restrict&#8221;:http://www.kottke.org/08/08/the-1000-iphone-app based on taste; &#8220;Ryan Irelan points to no [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I wasn&#8217;t going to give the silly $999 &#8220;I Am Rich&#8221; iPhone application any more attention after the initial laugh, but the more that everyone reacts to what went wrong the more clear it becomes that there is something to learn here. &#8220;Kottke thinks Apple shouldn&#8217;t restrict&#8221;:http://www.kottke.org/08/08/the-1000-iphone-app based on taste; &#8220;Ryan Irelan points to no shopping cart&#8221;:http://www.ryanirelan.com/blog/entry/the-1000-iphone-app/ as the problem; &#8220;Dan Benjamin mostly agrees&#8221;:http://hivelogic.com/articles/2008/08/regarding-iphone-application-pricing but with some more analysis; and &#8220;John Gruber hits the same points&#8221;:http://daringfireball.net/linked/2008/08/07/i-am-rich and mentions (in passing) what I think is the real problem: refunds.</p>
+<p>iPhone developers have wondered for months how refunds were going to be handled. Although demo and trial versions (if added) will be used by many more customers, refunds to unhappy customers represent an extremely important part of the relationship between developer and customer. I&#8217;ve written before about &#8220;my philosophy with refunds&#8221;:http://www.manton.org/2007/02/customer.html and customer support, an opinion that is shared pretty universally in the Mac community. Just yesterday I gave a refund to a customer who purchased the software over a year ago, but apparently didn&#8217;t get around to actually using it recently and found it did not meet his needs.</p>
+<p>If there were a proper way for developers to send App Store refunds &mdash; because of unmet expectations (app crashes or doesn&#8217;t work as advertised) or accidental purchases (my son bought this without asking me) &mdash; then this issue just goes away. It doesn&#8217;t matter whether I Am Rich is worth $999 or whether the shopping cart should be an option in iTunes. The core issue is refunds because it fixes several problems at once, and removes Apple&#8217;s personal judgement about what is good or bad for iPhone users.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2008/08/i_am_rich.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.759 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:46:37 -->

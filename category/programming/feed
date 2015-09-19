@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; Programming</title>
+	<atom:link href="http://www.manton.org/category/programming/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Two weeks notice: unfinished work</title>
+		<link>http://www.manton.org/2015/07/two-weeks-notice-unfinished-work.html</link>
+		<comments>http://www.manton.org/2015/07/two-weeks-notice-unfinished-work.html#comments</comments>
+		<pubDate>Fri, 31 Jul 2015 17:42:03 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[2weeks]]></category>
+		<category><![CDATA[bugs]]></category>
+		<category><![CDATA[flickr]]></category>
+		<category><![CDATA[products]]></category>
+		<category><![CDATA[vitalsource]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2930</guid>
+		<description><![CDATA[Three weeks ago I had about a dozen open Jira tickets. Today, my last day with the company, most of those are still open. I was able to update some documentation and do minor maintenance work, but a bigger change I had hoped to deploy turned out to be impossible because of a missing internal [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Three weeks ago I had about a dozen open Jira tickets. Today, my last day with the company, most of those are still open. I was able to update some documentation and do minor maintenance work, but a bigger change I had hoped to deploy turned out to be impossible because of a missing internal API.</p>
+<p>It’s unsatisfying to leave unfinished work. There’s only so much that can be done in a limited time, though, and as we all know software (especially a web app) is rarely ever completely finished.</p>
+<p>Bittersweet, moving on after so many years. The folks I’ve worked with have been really great. I’m going to enjoy keeping an eye on what they ship long after my GitHub access has been revoked.</p>
+<p>This morning, my (now) former boss and good friend <a href="https://twitter.com/willie">Willie Abrams</a> linked in the company chat room to some of the photos that he had taken over the last 14 years. Brought back a lot of good memories, from brainstorming app features in a conference room to wandering around San Francisco before WWDC.</p>
+<p>I think I’m going to let this be the final post to wrap up the “two weeks notice” series. I’ve accomplished a lot but there is still plenty left, especially <a href="http://www.manton.org/2015/07/two-weeks-notice-new-products.html">shipping new products</a>. It’s been good to force myself to write every day, so I’ll keep that going with the usual full posts and <a href="http://www.manton.org/category/micro">microblog posts</a>.</p>
+<p>You can find all 14 posts under <a href="http://www.manton.org/tag/2weeks">the tag “2weeks”</a>. Thanks for reading.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/07/two-weeks-notice-unfinished-work.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Two weeks notice: final pull request</title>
+		<link>http://www.manton.org/2015/07/two-weeks-notice-final-pull-request.html</link>
+		<comments>http://www.manton.org/2015/07/two-weeks-notice-final-pull-request.html#comments</comments>
+		<pubDate>Mon, 27 Jul 2015 14:55:45 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[2weeks]]></category>
+		<category><![CDATA[github]]></category>
+		<category><![CDATA[stripe]]></category>
+		<category><![CDATA[subscriptions]]></category>
+		<category><![CDATA[vitalsource]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2899</guid>
+		<description><![CDATA[With just 5 days left at my regular job, it&#8217;s time to get serious about wrapping up my work. I have a small change mostly ready and tested locally, but need to push it up to GitHub and finish testing on the dev server. I have a couple open Jira tickets to look at after [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>With just 5 days left at my regular job, it&#8217;s time to get serious about wrapping up my work. I have a small change mostly ready and tested locally, but need to push it up to GitHub and finish testing on the dev server. I have a couple open Jira tickets to look at after that.</p>
+<p>Over the weekend I spent a lot of time with the Stripe API, trying to improve how I manage user subscriptions. Stripe has some new features since I first started using it. For example, options for sales tax and a quantity field. The latter is convenient if you have something like the ability to pay for multiple hosted web sites in a subscription, rather than deal with adding custom line items on an invoice.</p>
+<p>Deadlines are an excellent way to push yourself to actually finish something. So this deadline of Friday is good, in a way, but unlike most of my other deadlines, I can’t miss it and keep working for another week. That finality is a little daunting right now, as I look at the week ahead and everything I want to get done.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/07/two-weeks-notice-final-pull-request.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>I think it&#8217;s a bust</title>
+		<link>http://www.manton.org/2015/07/i-think-its-a-bust.html</link>
+		<comments>http://www.manton.org/2015/07/i-think-its-a-bust.html#comments</comments>
+		<pubDate>Wed, 22 Jul 2015 15:13:57 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[football]]></category>
+		<category><![CDATA[objc]]></category>
+		<category><![CDATA[swift]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2877</guid>
+		<description><![CDATA[The movie Draft Day doesn’t really have any business being good, but somehow it is anyway. I don’t even like football that much — who has time for it when there’s basketball? — but I’ve now seen this movie several times and love it. The movie actually gets better instead of worse on multiple viewings. It also has [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The movie <a href="http://www.imdb.com/title/tt2223990/">Draft Day</a> doesn’t really have any business being good, but somehow it is anyway. I don’t even like football that much — who has time for it when there’s basketball? — but I’ve now seen this movie several times and love it. The movie actually gets better instead of worse on multiple viewings.</p>
+<p>It also has a number of memorable lines. One of them is this, said by Kevin Costner’s character about the college football star who everyone thinks is the next greatest thing: “I think he’s a bust.” Five simple words that undo all momentum.</p>
+<p>And unfortunately that’s still how I feel about Swift. I’m following <a href="http://inessential.com/2015/07/19/secret_projects_diary_3_decision_to_ma">Brent’s blog posts about learning Swift</a> and I’m trying to come to terms with whether to adopt the language, and I finally got it. I already have a capable quarterback in Objective-C, and I’m not ready to rebuild my roster yet, risking everything on a young language with so much promise but less real-world success.</p>
+<p>No matter <a href="https://twitter.com/jakemarsh/status/623569038069878784">how much Swift has improved</a>, no matter how much everyone fawns over it, I still can’t shake the feeling that it’s a hype that <em>someone else’s</em> team needs. For me, it won&#8217;t end up solving the problems I have when building apps. For me, it’s a bust.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/07/i-think-its-a-bust.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Retiring App.net support for Sunlit</title>
+		<link>http://www.manton.org/2015/07/retiring-app-net-support-for-sunlit.html</link>
+		<comments>http://www.manton.org/2015/07/retiring-app-net-support-for-sunlit.html#comments</comments>
+		<pubDate>Mon, 20 Jul 2015 18:00:34 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[adn]]></category>
+		<category><![CDATA[flickr]]></category>
+		<category><![CDATA[ohai]]></category>
+		<category><![CDATA[sunlit]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2868</guid>
+		<description><![CDATA[Sunlit 1.3.1 shipped today. It’s a minor update focused on fixing bugs, but it is also the first version to remove App.net support. Existing users still have access to all the App.net features — the code still exists in the app for now — but the App.net sign-in button and settings have been removed for new users [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://sunlit.io/">Sunlit</a> 1.3.1 shipped today. It’s a minor update focused on fixing bugs, but it is also the first version to remove App.net support. Existing users still have access to all the App.net features — the code still exists in the app for now — but the App.net sign-in button and settings have been removed for new users to simplify the requirements and UI.</p>
+<p>It was difficult to let go of the App.net-specific features. A significant amount of the codebase was around syncing and collaboration features via App.net. There was also some great location check-in support built on App.net locations and compatibility with <a href="http://ohaiapp.net/">Ohai</a>. I had to remove screenshots and prune down the App Store description to account for the removed features.</p>
+<p>What’s left is an app that has fewer features but which feels light and simple again. Maybe this should have been our 1.0 version all along.</p>
+<p>Two years ago, <a href="http://www.manton.org/2013/08/waiting_for_appnets.html">I wrote about waiting for App.net’s killer app</a>:</p>
+<blockquote><p>
+  “The promise of App.net is bigger than one type of app. App.net isn’t just a blank slate; it’s an amplifier. It’s waiting to power the next new idea and help it grow into something big.”
+</p></blockquote>
+<p>This vision didn’t pan out. But I’m proud that we gave it a shot and put a lot of effort into the platform even after others had given up on it. Now that we’ve finished this “reset”, of sorts, we’ll move forward to build other features we always wanted in Sunlit.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/07/retiring-app-net-support-for-sunlit.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Fun apps don’t need clean code</title>
+		<link>http://www.manton.org/2015/07/fun-apps-dont-need-clean-code.html</link>
+		<comments>http://www.manton.org/2015/07/fun-apps-dont-need-clean-code.html#comments</comments>
+		<pubDate>Mon, 06 Jul 2015 13:23:08 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[code]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[riposte]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2824</guid>
+		<description><![CDATA[Jared Sinclair says that a successful app has nothing to do with writing clean code. Thinking about Riposte: “Riposte, still used and loved by some App.net diehards, has one or two view controllers I wrote that are thousands of lines long. The app was littered with procedures that should have been generalized but got copied-and-pasted [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://blog.jaredsinclair.com/post/123277602945/judicious-use-of-shitty-code">Jared Sinclair says</a> that a successful app has nothing to do with writing clean code. Thinking about Riposte:</p>
+<blockquote><p>
+  “Riposte, still used and loved by some App.net diehards, has one or two view controllers I wrote that are thousands of lines long. The app was littered with procedures that should have been generalized but got copied-and-pasted everywhere. And it didn’t matter.”
+</p></blockquote>
+<p>Most programmers try to improve their code a little from one project to the next. But obsessing about how the <em>code</em> looks and how it’s structured might mean that you’re not spending enough time worrying about the things that matter even more: what the <em>app</em> looks like and what it does (and ever shipping it).</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/07/fun-apps-dont-need-clean-code.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>iOS 9 search</title>
+		<link>http://www.manton.org/2015/06/ios-9-search.html</link>
+		<comments>http://www.manton.org/2015/06/ios-9-search.html#comments</comments>
+		<pubDate>Wed, 17 Jun 2015 14:38:54 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[ios]]></category>
+		<category><![CDATA[search]]></category>
+		<category><![CDATA[spotlight]]></category>
+		<category><![CDATA[wwdc]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2729</guid>
+		<description><![CDATA[Federico Viticci has a comprehensive write-up about Apple’s approach to search in iOS 9, including comments from developers. On local app search: “With local app search, iOS 9 can build an index of content, app features, and activities that users may want to get back to with a search query. Built like a database and [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.macstories.net/stories/inside-ios-9-search-apples-plan-for-more-connected-apps/">Federico Viticci has a comprehensive write-up</a> about Apple’s approach to search in iOS 9, including comments from developers. On local app search:</p>
+<blockquote><p>
+  “With local app search, iOS 9 can build an index of content, app features, and activities that users may want to get back to with a search query. Built like a database and already in use by Apple apps such as Mail and Reminders, CoreSpotlight will provide low level access to the index of an iOS device, making it easy to organize and retrieve content users have previously seen, created, or curated.”
+</p></blockquote>
+<p>I’ve been slowly going through WWDC session videos, but haven’t cracked open the documentation for search yet. Sounds like an important new API for any app that has user documents.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/06/ios-9-search.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Clever code and WWDC</title>
+		<link>http://www.manton.org/2015/06/clever-code-and-wwdc.html</link>
+		<comments>http://www.manton.org/2015/06/clever-code-and-wwdc.html#comments</comments>
+		<pubDate>Thu, 11 Jun 2015 00:22:50 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[clever]]></category>
+		<category><![CDATA[crashes]]></category>
+		<category><![CDATA[swift]]></category>
+		<category><![CDATA[wwdc]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2694</guid>
+		<description><![CDATA[In his 9th essay about avoiding crashes in your code, Brent Simmons writes about learning to be even less clever: &#8220;But over the years I’ve come to think that I should write code that’s about 10% as clever as I am. And I’ve come to believe that true cleverness is in making code so clear [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>In his <a href="http://inessential.com/2015/06/10/how_not_to_crash_9_mindset">9th essay about avoiding crashes in your code</a>, Brent Simmons writes about learning to be even less clever:</p>
+<blockquote><p>
+  &#8220;But over the years I’ve come to think that I should write code that’s about 10% as clever as I am. And I’ve come to believe that true cleverness is in making code so clear and obvious that it looks like nothing at all.&#8221;
+</p></blockquote>
+<p>I&#8217;m in San Francisco for WWDC this week, but without a ticket again. I took some time this afternoon — miles away from the hotel and Moscone — to reflect on what I&#8217;m doing here and what I need to do next. I&#8217;ve been to WWDC many times; my first was in 1996. And it has taken almost all of those years for me to understand the truth of Brent&#8217;s statement about being clever.</p>
+<p>I also believe that a programming language can either encourage or discourage clever code based on the syntax it allows. I saw it with Ruby — programmers intent on fitting as much logic into a single line of code as possible. I think I see it with Swift as well, in operator overloading and maybe even a kind of rejection of Objective-C&#8217;s notorious verbosity. We&#8217;ll know for sure if we eventually see a Swift book in the pattern of <a href="http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742">JavaScript: The Good Parts</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/06/clever-code-and-wwdc.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Watermark transition plan</title>
+		<link>http://www.manton.org/2015/05/watermark-transition-plan.html</link>
+		<comments>http://www.manton.org/2015/05/watermark-transition-plan.html#comments</comments>
+		<pubDate>Mon, 04 May 2015 14:23:59 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[email]]></category>
+		<category><![CDATA[tweetlibrary]]></category>
+		<category><![CDATA[tweetmarker]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[watermark]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2591</guid>
+		<description><![CDATA[I sent an email to Watermark customers over the weekend, letting them know that the service as it currently exists will be going away on May 15th. As I wrote about last year, Twitter has improved their search enough that a part of what Watermark is good at is no longer as necessary as it [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I sent <a href="http://eepurl.com/blcsdv">an email to Watermark customers</a> over the weekend, letting them know that the service as it currently exists will be going away on May 15th. As <a href="http://www.manton.org/2014/11/winding-down-my-twitter-apps.html">I wrote about last year</a>, Twitter has improved their search enough that a part of what Watermark is good at is no longer as necessary as it once was. However, I still see interest in Tweet Marker, from developers and users, so I wanted to keep the web-based timeline and sync from Watermark and make it available to all Tweet Marker subscribers.</p>
+<p>You can <a href="http://tweetmarker.net/">learn more about Tweet Marker here</a>. I’ve had to significantly scale out the backend servers this year, including adding a second load balancer, so I’d love your support. The new timeline feature will roll out later in May.</p>
+<p>While I’m happy to keep offering a part of Watermark (now back in Tweet Marker), I have less good news for Tweet Library. I’ve found it very difficult to justify the time to finish the new version. It’s now looking likely that the current version will be the last.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/05/watermark-transition-plan.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Searchpath improvements</title>
+		<link>http://www.manton.org/2015/04/searchpath-improvements.html</link>
+		<comments>http://www.manton.org/2015/04/searchpath-improvements.html#comments</comments>
+		<pubDate>Fri, 24 Apr 2015 13:58:17 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[backup]]></category>
+		<category><![CDATA[searchpath]]></category>
+		<category><![CDATA[subscriptions]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2584</guid>
+		<description><![CDATA[As part of a renewed commitment this year to work on my web app Searchpath, I’ve just rolled out a few improvements. A search engine like Searchpath needs frequent maintenance to keep running smoothly — minor bug fixes and behind-the-scenes work on queues and web crawling — but I also hope to catch up on new [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>As part of a renewed commitment this year to work on my web app <a href="http://searchpath.io/">Searchpath</a>, I’ve just rolled out a few improvements. A search engine like Searchpath needs frequent maintenance to keep running smoothly — minor bug fixes and behind-the-scenes work on queues and web crawling — but I also hope to catch up on new features that I’ve long planned for the product.</p>
+<p>One marketing bullet I always had that wasn’t fully realized: “Also serves as a text backup for your site.” Searchpath now exposes links to download both the HTML for any stored page on your site as well as a text-only version of that page after Searchpath has attempted to trim out the navigation and other links. Hopefully this will help out any customers who might need to retrieve lost text from their site if their primary site backup failed (or doesn’t exist).</p>
+<p>Searchpath is free to try and $8/month or $75/year. Setup is as simple as copy/pasting one line of JavaScript where you want a search box. You can <a href="http://searchpath.io/">learn more and get started here</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/04/searchpath-improvements.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>WWDC 2015 dates</title>
+		<link>http://www.manton.org/2015/04/wwdc-2015-dates.html</link>
+		<comments>http://www.manton.org/2015/04/wwdc-2015-dates.html#comments</comments>
+		<pubDate>Tue, 14 Apr 2015 14:08:35 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[altconf]]></category>
+		<category><![CDATA[tickets]]></category>
+		<category><![CDATA[watch kit]]></category>
+		<category><![CDATA[wwdc]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2571</guid>
+		<description><![CDATA[WWDC will be June 8-12 this year, with a lottery for ticket selection. I’m not going to put my name in the hat for a ticket; I hope to save some money and let others have a chance. I’ll be in town for a few days to meet up with folks and attend AltConf, which [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://developer.apple.com/wwdc/">WWDC</a> will be June 8-12 this year, with a lottery for ticket selection. I’m not going to put my name in the hat for a ticket; I hope to save some money and let others have a chance. I’ll be in town for a few days to meet up with folks and attend <a href="http://altconf.com">AltConf</a>, which looks excellent again.</p>
+<p>The <a href="https://developer.apple.com/wwdc/scholarships/">student scholarship page</a> caught my eye this year. App submissions have to be written using at least <em>some</em> Swift:</p>
+<blockquote><p>
+  “To be considered for a WWDC 2015 Scholarship, build and submit an app that showcases your creativity and technical skills. Your Mac app or iOS app must be written in Objective-C and Swift, or written entirely in Swift.”
+</p></blockquote>
+<p>I’m also starting to reset my expectations for a more full-featured, native Apple Watch SDK. I think we’ll see welcome improvements to WatchKit, but with the watch still weeks out from shipping, it seems too soon for a reimagining of the API by June.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/04/wwdc-2015-dates.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.855 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 13:36:14 -->

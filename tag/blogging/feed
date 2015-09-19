@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; blogging</title>
+	<atom:link href="http://www.manton.org/tag/blogging/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Marketing, mission, movement</title>
+		<link>http://www.manton.org/2015/08/marketing-mission-movement.html</link>
+		<comments>http://www.manton.org/2015/08/marketing-mission-movement.html#comments</comments>
+		<pubDate>Fri, 21 Aug 2015 14:10:33 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[community]]></category>
+		<category><![CDATA[marketing]]></category>
+		<category><![CDATA[snippets]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2966</guid>
+		<description><![CDATA[As I was writing some documentation this week, I kept thinking about what makes great marketing copy. 37signals used to say that copywriting is a form of user interface design. That&#8217;s true but I think there&#8217;s more to it. The best products don&#8217;t just have marketing copy; they have a mission statement. They don&#8217;t just [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>As I was writing <a href="http://www.manton.org/2015/08/2959.html">some documentation</a> this week, I kept thinking about what makes great marketing copy. 37signals used to say that <a href="https://gettingreal.37signals.com/ch09_Copywriting_is_Interface_Design.php">copywriting is a form of user interface design</a>. That&#8217;s true but I think there&#8217;s more to it.</p>
+<p>The best products don&#8217;t just have marketing copy; they have a mission statement. They don&#8217;t just sell a tool; they sell a movement.</p>
+<p>When I stare at my product wondering if it&#8217;s too confusing — if it&#8217;s too different, and tries to do too many things, to be immediately understood by new users — I try to remind myself that it&#8217;s an opportunity. Instead of simply explaining what I&#8217;m doing, how can I pitch it in a way that strengthens a community around the idea. Because dozens of bloggers can spread the idea more quickly and in a more meaningful way than I can by myself.</p>
+<p>And unlike a one-way press release, a community is inherently two-way. Every mention of the idea is both marketing <em>and</em> feedback. Someone blogs about how they&#8217;re excited for the product, but also how they wish it had a certain missing feature. Someone in the press writes a review, but also with a pros and cons list.</p>
+<p>This cycle means the product gets better. And if we&#8217;re thoughtful in that first approach to marketing copy, then every blog post, review, and tweet that follows is laced with a little part of our mission statement.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/08/marketing-mission-movement.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Microblogging with Typed.com</title>
+		<link>http://www.manton.org/2015/07/microblogging-with-typed-com.html</link>
+		<comments>http://www.manton.org/2015/07/microblogging-with-typed-com.html#comments</comments>
+		<pubDate>Thu, 02 Jul 2015 21:05:03 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[drafts]]></category>
+		<category><![CDATA[editorial]]></category>
+		<category><![CDATA[ios]]></category>
+		<category><![CDATA[microblogging]]></category>
+		<category><![CDATA[realmac]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2808</guid>
+		<description><![CDATA[Dan Counsell wrote a long post this week about the planning and executing of Realmac’s crowdfunding campaign for Typed.com. It’s worth a read for the careful thought he put into it: “I spent two weeks planning and building the entire campaign. I started out with the video as I knew this would be a huge [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://dancounsell.com/articles/how-i-raised-120000-dollars-with-crowdfunding">Dan Counsell wrote a long post</a> this week about the planning and executing of Realmac’s crowdfunding campaign for Typed.com. It’s worth a read for the careful thought he put into it:</p>
+<blockquote><p>
+  “I spent two weeks planning and building the entire campaign. I started out with the video as I knew this would be a huge amount of work and to be honest, it was also something I wasn&#8217;t entirely comfortable with doing. Every popular campaign I looked at had a half-decent and engaging video. I did a lot of research and it turns out the flow of the video should be something like this: Introduce yourself, talk about the problem, move onto the solution that you&#8217;re building, and finally finishing up with a direct plea asking for pledges.”
+</p></blockquote>
+<p>The beta for Typed.com is well underway, and linked in Dan’s post is a support forum for users. <a href="http://community.realmacsoftware.com/t/first-impressions/13/21">This post by Realmac designer Elliot Jackson</a> especially caught my eye:</p>
+<blockquote><p>
+  “We don’t have an API yet but this is something I’ve been enjoying playing with for shorter posts. My workaround is to send the content over a URL then decode it and use JS in the browser to fill in the form elements (tags etc).”
+</p></blockquote>
+<p>He details a way to send short microblog posts to Typed.com by using Drafts and Editorial. Check out the full post for his JavaScript and Python scripts linking these apps together on iOS. I’m really looking forward to Typed.com’s official launch.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/07/microblogging-with-typed-com.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Ephemeral blogging</title>
+		<link>http://www.manton.org/2015/03/ephemeral-blogging.html</link>
+		<comments>http://www.manton.org/2015/03/ephemeral-blogging.html#comments</comments>
+		<pubDate>Mon, 30 Mar 2015 16:09:57 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[myword]]></category>
+		<category><![CDATA[permalinks]]></category>
+		<category><![CDATA[snippets]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2511</guid>
+		<description><![CDATA[Thomas Brand has changed his blog to let short link-style posts essentially expire off his site, with no permanent archive: &#8220;For the last five months I have been practicing a new way of blogging. Articles of reference receive a permalink with a link on my homepage and a link in my RSS feed. Quotations and [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://eggfreckles.net">Thomas Brand has changed his blog</a> to let short link-style posts essentially expire off his site, with no permanent archive:</p>
+<blockquote><p>
+  &#8220;For the last five months I have been practicing a new way of blogging. Articles of reference receive a permalink with a link on my homepage and a link in my RSS feed. Quotations and comments are displayed in full on the homepage and in the RSS feed, but do not receive a permalink of their own. As I write, older quotations and comments are pushed down the homepage and lost from the site forever.&#8221;
+</p></blockquote>
+<p>And since that post may go away, I’ll quote a little bit more:</p>
+<blockquote><p>
+  “I feel like disposable blogging lends itself to a more carefree publication, not only for me but my audience as well. When you pick up a magazine, you don&#8217;t expect to have access to every back issue.”
+</p></blockquote>
+<p>Meanwhile, <a href="http://scripting.com/2015/03/28/silofreeIsNotEnough.html">Dave Winer has been working on</a> his own new blogging platform:</p>
+<blockquote><p>
+  &#8220;There haven&#8217;t been new features in blogging in a long time. Where&#8217;s the excitement? It looks to me like there&#8217;s been no effort made to factor the user interface, to simplify and group functionality so the first-time user isn&#8217;t confronted with the full feature set, left on his or her own to figure out where to go to create a new post or edit an existing one.&#8221;
+</p></blockquote>
+<p>I think the next 5 years of blogging are going to be a lot more varied than the previous 5 years. Medium-style UIs, Twitter-like microblogs, and of course traditional WordPress blogs, plus the work Dave is doing and whatever else people build as blogging takes off again. I&#8217;m looking forward to shipping an app that contributes something to all of this, too.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/03/ephemeral-blogging.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Core Intuition with Brent Simmons</title>
+		<link>http://www.manton.org/2014/10/core-intuition-with-brent-simmons.html</link>
+		<comments>http://www.manton.org/2014/10/core-intuition-with-brent-simmons.html#comments</comments>
+		<pubDate>Fri, 24 Oct 2014 13:03:34 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[brent]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[seattle]]></category>
+		<category><![CDATA[web]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2351.html</guid>
+		<description><![CDATA[Daniel and I welcomed Brent Simmons on the Core Intuition podcast this week. Here&#8217;s Brent on writing and the web as a guarantee of free speech: &#8220;The old web where I feel like more people saw the web as what I was talking about: as a unique and amazing invention in human history, a thing [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Daniel and I welcomed <a href="http://inessential.com/">Brent Simmons</a> on the <a href="http://coreint.org/160">Core Intuition podcast this week</a>. Here&#8217;s Brent on writing and the web as a guarantee of free speech:</p>
+<blockquote><p>
+  &#8220;The old web where I feel like more people saw the web as what I was talking about: as a unique and amazing invention in human history, a thing that can bring the 6 billion voices out into the open, to tell their stories and say what they&#8217;re going to say. That this thing is really something special, and it shouldn&#8217;t just be treated as a way for monetizing eyeballs and figuring out great new advances in interstitial ads. [&#8230;] We can&#8217;t lose sight of the opportunity this is. And if the story really is that the web exploded in the mid 90s and became a wonderful thing, and then stopped being that wonderful thing a little more than 20 years later&#8230; Then I couldn&#8217;t even bear that heartbreak.&#8221;
+</p></blockquote>
+<p>Hope you all enjoy the episode. It was great to have Brent on the show.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/10/core-intuition-with-brent-simmons.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The unremarkable yesterday</title>
+		<link>http://www.manton.org/2014/10/the-unremarkable-yesterday.html</link>
+		<comments>http://www.manton.org/2014/10/the-unremarkable-yesterday.html#comments</comments>
+		<pubDate>Thu, 09 Oct 2014 14:56:54 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[journal]]></category>
+		<category><![CDATA[snippets]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2328.html</guid>
+		<description><![CDATA[Yesterday you had lunch with friends or family and posted a photo of your food and location to Twitter. It didn&#8217;t matter much. You put it on Twitter and didn&#8217;t care that you didn&#8217;t have a copy or didn&#8217;t post it to your own blog first, because controlling that trivial bit of content just didn&#8217;t [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Yesterday you had lunch with friends or family and posted a photo of your food and location to Twitter. It didn&#8217;t matter much. You put it on Twitter and didn&#8217;t care that you didn&#8217;t <a href="http://appstore.com/tweetlibrary">have a copy</a> or didn&#8217;t post it to your own blog first, because controlling that trivial bit of content just didn&#8217;t seem important at the time.</p>
+<p>5 years later, 10 years later, 15 years later. That lunch is magic now — a captured moment, something you wouldn&#8217;t remember and didn&#8217;t think to record elsewhere unless you keep a comprehensive private journal. Maybe it was the day before a significant event or on a trip. The true context is only revealed with hindsight.</p>
+<p>I wrote this blog post because I wanted to follow up on <a href="http://www.manton.org/2014/10/blogging-every-day.html">my post about blogging every day</a>, underscoring that seemingly unimportant events can carry great meaning later. Those common everyday activities that don&#8217;t seem noteworthy today? <em>That&#8217;s our life.</em> One after another, strung together for days and then years until we die. It&#8217;s the culture of the 21st century scattered among millions of micro posts. And it&#8217;ll be lost to time if we don&#8217;t curate it.</p>
+<p>Yesterday was unremarkable only because we&#8217;re too close to it. Later we&#8217;ll understand that it meant everything. And if that&#8217;s true, let&#8217;s aspire to something greater than our content being sliced up and interspersed with ads on someone else&#8217;s platform.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/10/the-unremarkable-yesterday.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Blogging every day</title>
+		<link>http://www.manton.org/2014/10/blogging-every-day.html</link>
+		<comments>http://www.manton.org/2014/10/blogging-every-day.html#comments</comments>
+		<pubDate>Mon, 06 Oct 2014 14:28:27 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[microblog]]></category>
+		<category><![CDATA[snippets]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2309.html</guid>
+		<description><![CDATA[Matt Mullenweg on being challenged to blog every day: &#8220;I thought blogging every day would be a burden, but it actually became a great source of joy. It was more a shift in mindset than anything — every day I read things I think are interesting, share links with friends, have thoughts that are 80% [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Matt Mullenweg on <a href="http://ma.tt/2014/10/streak/">being challenged to blog every day</a>:</p>
+<blockquote><p>
+  &#8220;I thought blogging every day would be a burden, but it actually became a great source of joy. It was more a shift in mindset than anything — every day I read things I think are interesting, share links with friends, have thoughts that are 80% of a blog post, and write a ton privately, it was just a matter of catching those moments and turning them into something that was shared with the world.&#8221;
+</p></blockquote>
+<p>Whenever I get out of the habit of writing daily, it creates friction to get anything published. When you post every day, there&#8217;s no expectation that all posts have to be great. But when you wait too long, there&#8217;s an increasing feeling that the next post has to be perfect.</p>
+<p>Tools that make writing effortless — like Twitter&#8217;s limited, fast UI — should be part of the next generation of blogging software. I think that&#8217;s going to be around microblogs. Just because traditional blogs initially failed to embrace microblogging doesn&#8217;t mean we can&#8217;t take that format back with better server apps and clients.</p>
+<p>When people first started paying attention to Twitter, the criticism was that no one cared &#8220;what you had for breakfast&#8221;. But if you look at some of my earliest posts on this weblog, many are equally trivial. What appears unremarkable today — the first lunch you had with co-workers at a brand new job, the stop at REI to get a tent for an upcoming family campout, the missed flight on the way to a great conference — might carry important meaning in later years, looking back. It hurts the web to keep that <a href="http://scripting.com/2014/09/28/myManifestoForWebWriting.html">locked in a silo</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/10/blogging-every-day.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Journals</title>
+		<link>http://www.manton.org/2012/07/journals.html</link>
+		<comments>http://www.manton.org/2012/07/journals.html#comments</comments>
+		<pubDate>Fri, 27 Jul 2012 17:58:48 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[books]]></category>
+		<category><![CDATA[journals]]></category>
+		<category><![CDATA[kids]]></category>
+		<category><![CDATA[life]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2012/07/journals.html</guid>
+		<description><![CDATA[Steve Corona on keeping a journal: “And for the past 1091 days, I’ve been journaling every single day — that’s about 3 years or 12% of my entire life. My only regret? I wish I started sooner.” When I was younger, I had tried off and on to keep a sketchbook or journal, but it [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Steve Corona <a href="http://stevecorona.com/on-keeping-a-journal">on keeping a journal</a>:</p>
+<blockquote><p>
+  “And for the past 1091 days, I’ve been journaling every single day — that’s about 3 years or 12% of my entire life. My only regret? I wish I started sooner.”
+</p></blockquote>
+<p>When I was younger, I had tried off and on to keep a sketchbook or journal, but it never quite stuck. Like blogging, or writing, or drawing, or anything you aren&#8217;t paid to do, it takes setting a routine. There&#8217;s always something more important to do.</p>
+<p><a href="http://instagr.am/p/Kf0zpaCbwH/"><img src="http://distilleryimage7.s3.amazonaws.com/5931b2b29b9b11e1abb012313813106f_7.jpg" width="150" height="150" align="right" style="border: 1px solid darkgray; margin: 8px;" alt="journals" /></a> Then in 1998, I started a journal again with a renewed commitment. I filled a book from that day up until I got married. Then another book through when my daughters were born. Another for the first 10 years of their life, and my son&#8217;s. The travel, the big life moments, the election, the work. It&#8217;s not everything — sometimes the entries are every day and sometimes months go by with nothing — but it&#8217;s the stuff that matters, and the snapshots in time of little everyday things too.</p>
+<p>I would be devastated to lose these books. Open the pages and it rolls back the years like a time machine, to a previous life full of small details that are priceless today. I&#8217;m writing the books half for my terrible fading memory, and half for my children, who will only care what these years have been like when it&#8217;s too late to ask me.</p>
+<p>So I&#8217;ve recently started transcribing the handwritten entries into digital form. One page at a time, into <a href="http://dayoneapp.com/">Day One</a>, then exported as plain text. It&#8217;s a long and tedious process, but multiple copies are the only sure way to make something last.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2012/07/journals.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Writing for fun and profit</title>
+		<link>http://www.manton.org/2012/07/writing_for_fun.html</link>
+		<comments>http://www.manton.org/2012/07/writing_for_fun.html#comments</comments>
+		<pubDate>Wed, 18 Jul 2012 21:26:28 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[sponsors]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2012/07/writing_for_fun.html</guid>
+		<description><![CDATA[Marco Arment has a strong post on how sponsorships won&#8217;t change his writing: “If a sponsor ever has a problem with something I write, and that affects pending or future sponsorship buys, that’s fine with me. I can find other sponsors. And if I can’t, I’ll write for free, like I did for years.” This [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.marco.org/2012/07/18/adobe-sponsorship-and-credibility">Marco Arment has a strong post</a> on how sponsorships won&#8217;t change his writing:</p>
+<blockquote><p>
+  “If a sponsor ever has a problem with something I write, and that affects pending or future sponsorship buys, <em>that’s fine with me</em>. I can find other sponsors. And if I can’t, I’ll write for free, like I did for years.”
+</p></blockquote>
+<p>This was part of a theme on <a href="http://coreint.org/49">today&#8217;s Core Intuition episode</a> as well, not just sponsorships but also whether having an audience changes how we write tweets and blog posts. Daniel Jalkut and I have been very lucky with Core Intuition so far to have great sponsors: apps and events we already love like Marco&#8217;s own Instapaper, Smile&#8217;s TextExpander, CocoaConf, iDeveloper TV, NSConference, and Glassboard. Eventually we&#8217;ll be approached by more apps and services that we don&#8217;t have as much experience with, but as long as we keep our voice and honesty, I&#8217;m not too worried.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2012/07/writing_for_fun.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Dan Benjamin turns it up</title>
+		<link>http://www.manton.org/2009/01/dan_benjamin_turns.html</link>
+		<comments>http://www.manton.org/2009/01/dan_benjamin_turns.html#comments</comments>
+		<pubDate>Sun, 04 Jan 2009 23:00:03 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[hivelogic]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2009/01/dan_benjamin_turns.html</guid>
+		<description><![CDATA[Dan Benjamin did something interesting several weeks ago: he took his popular blog Hivelogic, where he&#8217;s been posting since 2001, and rebranded the content under a new domain, &#8220;danbenjamin.com&#8221;:http://danbenjamin.com/. Apparently that was just the kick he needed to &#8220;get even more serious&#8221;:http://twitter.com/danbenjamin/status/1095227235 about blogging, because he&#8217;s been on a roll lately. A couple of my [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Dan Benjamin did something interesting several weeks ago: he took his popular blog Hivelogic, where he&#8217;s been posting since 2001, and rebranded the content under a new domain, &#8220;danbenjamin.com&#8221;:http://danbenjamin.com/. Apparently that was just the kick he needed to &#8220;get even more serious&#8221;:http://twitter.com/danbenjamin/status/1095227235 about blogging, because he&#8217;s been on a roll lately.</p>
+<p>A couple of my favorite recent posts over there include &#8220;Apologize&#8221;:http://danbenjamin.com/articles/2008/12/apologize and &#8220;Fake Amazon&#8221;:http://danbenjamin.com/articles/2008/12/fake-amazon. The latter is a must-read that finally puts a name to what may be the beginning of the end of the Amazon we all know and love:</p>
+<blockquote><p>&#8220;By offering these services, Amazon has created a gigantic marketplace, while simultaneously making even the most obscure or hard-to-find items available to anybody. Just type some text into Amazon search, and you&#8217;ll get results. Lots of results. Too many results, it seems, even for Amazon.&#8221;</p></blockquote>
+<p>I&#8217;ve also been enjoying the &#8220;Tack Sharp podcast&#8221;:http://tacksharp.tv/, even though I hope to never pay more than $300 for a camera.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2009/01/dan_benjamin_turns.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Favorite essays</title>
+		<link>http://www.manton.org/2008/10/favorite_essays.html</link>
+		<comments>http://www.manton.org/2008/10/favorite_essays.html#comments</comments>
+		<pubDate>Wed, 08 Oct 2008 20:09:43 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[essays]]></category>
+		<category><![CDATA[favorites]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2008/10/favorite_essays.html</guid>
+		<description><![CDATA[The best essays are the ones that contain some truth or insight that doesn&#8217;t go out of style months or years later. As I return to regular blogging (12 posts in September compared to about the same number of posts between all of May through August), I sometimes stumble upon older posts that have held [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The best essays are the ones that contain some truth or insight that doesn&#8217;t go out of style months or years later. As I return to regular blogging (12 posts in September compared to about the same number of posts between all of May through August), I sometimes stumble upon older posts that have held up pretty well.</p>
+<p>Here are 10 of my favorites over the last 6 years with brief comments on why I like them. If you&#8217;ve only recently started reading my blog, maybe you&#8217;ll find one of these interesting.</p>
+<p>&#8220;Understanding Comics&#8221;:http://www.manton.org/2003/01/understanding_comics.html, <em>January 2003</em>. Probably the first of several essays where I write about art and software. Since I wrote it, Scott McCloud has finished his third book on comics.</p>
+<p>&#8220;Perfection&#8221;:http://www.manton.org/2005/08/perfection.html, <em>August 2005</em>. Doing our best work, inspired by Tufte and the golden age at Disney.</p>
+<p>&#8220;Set unreasonable deadlines&#8221;:http://www.manton.org/2005/12/set.html, <em>December 2005</em>. Code more in less time, three years ago, but still very much inspired by 37signals. I like how this post mentions my favorite animation autobiography.</p>
+<p>&#8220;Limitations in toys and software&#8221;:http://www.manton.org/2006/01/limitations_in_toys.html, <em>January 2006</em>. I connected LEGOs and toy utility with user interface design in this one.</p>
+<p>&#8220;Smart software bloat&#8221;:http://www.manton.org/2006/02/smart_software_bloat.html, <em>February 2006</em>. In a general sense, how to add features without burdening the user interface. Discoverability in context.</p>
+<p>&#8220;Mediocrity is the new application platform&#8221;:http://www.manton.org/2006/03/mediocrity_is_the.html, <em>March 2006</em>. About web, native, and hybrid applications, and when to choose one or the other.</p>
+<p>&#8220;Customer support&#8221;:http://www.manton.org/2007/02/customer.html, <em>February 2007</em>. Sparked by a post from Ryan Carson, I write about my own experience with Wii Transfer support.</p>
+<p>&#8220;Bush veto&#8221;:http://www.manton.org/2007/11/bush_veto.html, <em>November 2007</em>. I&#8217;m pretty sick of partisan politics right now, a month before the election. This post reminds me of the passion I had just a year ago.</p>
+<p>&#8220;Fancy-pants productivity&#8221;:http://www.manton.org/2008/03/fancypants_productivity.html, <em>March 2008</em>. A little bit of a rant, reacting to the opinion that code must always be beautiful.</p>
+<p>&#8220;Ollie Johnston&#8221;:http://www.manton.org/2008/04/ollie_johnston.html, <em>April 2008</em>. Where I comment on the death of a master animator. I should re-read this one every year.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2008/10/favorite_essays.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.622 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:19:44 -->

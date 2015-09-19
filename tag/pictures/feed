@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; pictures</title>
+	<atom:link href="http://www.manton.org/tag/pictures/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Two more for Watermark: pictures and stars</title>
+		<link>http://www.manton.org/2012/09/two_more_for.html</link>
+		<comments>http://www.manton.org/2012/09/two_more_for.html#comments</comments>
+		<pubDate>Wed, 19 Sep 2012 01:22:34 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[appdotnet]]></category>
+		<category><![CDATA[favorites]]></category>
+		<category><![CDATA[pictures]]></category>
+		<category><![CDATA[stars]]></category>
+		<category><![CDATA[watermark]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2012/09/two_more_for.html</guid>
+		<description><![CDATA[Following just a week after the Dropbox support in Watermark, I’ve added two new smaller features that improve the user experience. The first is that photos hosted by Twitter are now included as inline thumbnails next to a tweet, as shown here: The second improvement is a much faster Favorites view, which also now includes [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Following just a week after <a href="http://www.manton.org/2012/09/watermark.html">the Dropbox support in Watermark</a>, I’ve added two new smaller features that improve the user experience. The first is that photos hosted by Twitter are now included as inline thumbnails next to a tweet, as shown here:</p>
+<p><img src="http://www.manton.org/images/2012/watermark_inline_pic.png" alt="Watermark inline picture" title="watermark_inline_pic.png" border="0" width="537" height="92" /></p>
+<p>The second improvement is a much faster Favorites view, which also now includes the new “stars” feature from App.net. Watermark doesn’t yet download all your existing stars (that will be rolled out to more users soon), but when it does encounter a star in your App.net timeline, that starred post will be included it this view right alongside Twitter favorites.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2012/09/two_more_for.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Holiday hacking on Wii Transfer 2.0</title>
+		<link>http://www.manton.org/2007/01/holiday_hacking_on.html</link>
+		<comments>http://www.manton.org/2007/01/holiday_hacking_on.html#comments</comments>
+		<pubDate>Wed, 03 Jan 2007 06:02:43 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[flash]]></category>
+		<category><![CDATA[music]]></category>
+		<category><![CDATA[pictures]]></category>
+		<category><![CDATA[riverfold]]></category>
+		<category><![CDATA[vitalsource]]></category>
+		<category><![CDATA[wii]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/01/holiday_hacking_on.html</guid>
+		<description><![CDATA[I got sick (the flu?) shortly after Christmas, but nevertheless managed to sneak in some coding on Wii Transfer 2.0, which I hope to release this weekend. The big new feature for 2.0 is music and picture sharing. Essentially, there is a web server built into Wii Transfer. You can use the Wii&#8217;s Opera web [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I got sick (the flu?) shortly after Christmas, but nevertheless managed to sneak in some coding on Wii Transfer 2.0, which I hope to release this weekend. The big new feature for 2.0 is music and picture sharing. Essentially, there is a web server built into Wii Transfer. You can use the Wii&#8217;s Opera web browser to connect directly to your Mac running Wii Transfer and pull up MP3s or iPhoto albums. I&#8217;ve licensed &#8220;Jeroen Wijering&#8217;s Flash-based tools&#8221;:http://www.jeroenwijering.com/ for listening to MP3s and browsing photos. The interface isn&#8217;t perfect yet (the buttons should be bigger for easy TV viewing), but I think it&#8217;s pretty good for a first shot at this. The web server portion is based off of &#8220;J&#252;rgen Schweizer&#8217;s Cocoa example code&#8221;:http://culturedcode.com/cocoa/.</p>
+<p>&#8220;Check out this screencast&#8221;:http://www.riverfold.com/software/wiitransfer/screencasts/sharing.mov to see what most of it looks like. The first part shows the new Wii Transfer main window UI with a source list for switching features, and the second part shows what it looks like from the actual Wii. I just setup a tripod and filmed off the new HDTV with my digital camera.</p>
+<p>I also started back on &#8220;real work&#8221;:http://www.vitalsource.com/ today. We have some neat stuff shipping later this month that I&#8217;ll be blogging about more once it&#8217;s ready to show. I knew I could easily get lost in inconsequential stuff on the Tuesday after a long break, so I spent a bit of time yesterday reviewing to-do lists and getting my head on straight. Got some real coding and design done today, so no complaints there either.</p>
+<p>All in all, 2007 is starting off great. (Except that I still seem to be sick, but I&#8217;m going to try to ignore that for a bit longer.)</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2007/01/holiday_hacking_on.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.987 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:44:33 -->

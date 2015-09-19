@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; promotion</title>
+	<atom:link href="http://www.manton.org/tag/promotion/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Apple promotions survey</title>
+		<link>http://www.manton.org/2010/01/apple_promotions_survey.html</link>
+		<comments>http://www.manton.org/2010/01/apple_promotions_survey.html#comments</comments>
+		<pubDate>Wed, 06 Jan 2010 15:17:55 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[free]]></category>
+		<category><![CDATA[promotion]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2010/01/apple_promotions_survey.html</guid>
+		<description><![CDATA[I was chatting with some developers the other night about giving away software to Apple employees. If you&#8217;re not familiar with the practice, it&#8217;s fairly common to give free or discounted licenses to Apple employees as a gesture of goodwill to the people responsible for making our platform, and in the hope that they will [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I was chatting with some developers the other night about giving away software to Apple employees. If you&#8217;re not familiar with the practice, it&#8217;s fairly common to give free or discounted licenses to Apple employees as a gesture of goodwill to the people responsible for making our platform, and in the hope that they will spread the word to friends and customers in the Apple Stores. (If you&#8217;re a developer and want to set this up, &#8220;check out Dan Wood&#8217;s overview&#8221;:http://www.karelia.com/mac_indie_marketing/give_your_app_to_apple_empl.html.)</p>
+<p>I&#8217;ve given away over 1000 licenses for &#8220;Wii Transfer&#8221;:http://www.riverfold.com/software/wiitransfer/ and &#8220;Clipstart&#8221;:http://www.riverfold.com/software/clipstart/ to Apple employees since I started doing it a few months ago. I didn&#8217;t expect this number to be so high, but I guess it makes sense. Apple folks are getting a link from their internal site directly to my special registration page, and many of them probably request a serial number just in case they need it later.</p>
+<p>The question I have isn&#8217;t whether it&#8217;s worth it; it only took a few hours to set up, and even if it just makes a handful of Apple employees happy then that&#8217;s a success. But I was curious about the greater impact of giving away my software. Is the $0 investment in a pile of other free licenses enough to engage someone to, for example, take the time to set up Clipstart and move a collection of videos into it, let alone recommend it to others? (See also: &#8220;Worthless apps&#8221;:http://www.manton.org/2009/12/worthless_apps.html.)</p>
+<p>To find out more, I sent a special newsletter to all the @apple.com addresses in my registration database, asking if they used the software, how they liked it, and whether they&#8217;d recommend it to others or not. And I included in &#8220;the short survey&#8221;:http://riverfold.wufoo.com/forms/riverfold-survey-for-apple-2010/ a place for general feedback, and a choice about upcoming features.</p>
+<p>Some developers I talked with were concerned about a potential backlash. Although I send a newsletter to my customers once or twice a year, it&#8217;s debatable whether some of the people I was including had implicitly signed up by purchasing (with a 100% discount!) or whether I had crossed a line. The last thing I want to do is upset any of my customers, and I provide the same level of support to everyone whether they&#8217;ve paid full price, received a free license, or just tried the demo.</p>
+<p>In the end I decided it was harmless. The email was short, plain text, and had an obvious one-click unsubscribe link. One of the things I like about using &#8220;Campaign Monitor&#8221;:http://www.campaignmonitor.com/ is that once someone unsubscribes, any new mailings are automatically scrubbed against the unsubscribers list. Even if I accidentally add the customer again in the future they won&#8217;t receive an email. So far, 2.2% of recipients have unsubscribed.</p>
+<p>As for the survey results, here are a few graphs. Not many people filled out the survey (like unsubscribes, just a couple percent, though they&#8217;re still trickling in after 2 days), but the other feedback I received in the comments and feature questions was very helpful. 100% of users said they had mentioned the product to someone else.</p>
+<div style="text-align:center;"><img src="http://www.manton.org/images/2010/apple_2010_charts.png" alt="Survey charts" title="apple_2010_charts.png" border="0" width="400" height="446" /></div>
+<p>Would I do this again? No, not such a narrowly-focused newsletter as this. The quick survey served its purpose, but I am always nervous about wearing out my welcome. I plan to add an explicit newsletter opt-in checkbox to my free license page, and I should do a better job of differentiating free licenses and paying customers in the future. I&#8217;ll send another general newsletter out to all customers (and opt-ins from contests) when I have something major to announce later in the year.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2010/01/apple_promotions_survey.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Promoting Core Intuition 7</title>
+		<link>http://www.manton.org/2008/09/promoting_core_intuition.html</link>
+		<comments>http://www.manton.org/2008/09/promoting_core_intuition.html#comments</comments>
+		<pubDate>Thu, 04 Sep 2008 15:55:37 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[c4]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[promotion]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2008/09/promoting_core_intuition.html</guid>
+		<description><![CDATA[The latest episode of &#8220;Core Intuition&#8221;:http://www.coreint.org/ is up. Daniel and I focus on promotion and marketing in this show &#8212; releasing a new version, sending email newsletters to customers, and promoting your brand on a blog. We also hear from Daniel about development life with the new baby and talk up C4, which starts tomorrow [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The latest episode of &#8220;Core Intuition&#8221;:http://www.coreint.org/ is up. Daniel and I focus on promotion and marketing in this show &mdash; releasing a new version, sending email newsletters to customers, and promoting your brand on a blog. We also hear from Daniel about development life with the new baby and talk up C4, which starts tomorrow in Chicago.</p>
+<p>The web site now includes links for products and topics mentioned in the podcast. We&#8217;ll be transitioning the site to a full blog with listener comments soon. In the meantime, send an email to &#8220;feedback@coreint.org&#8221;:mailto:feedback@coreint.org with thoughts about the latest episode or suggestions for future topics. Thanks for listening!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2008/09/promoting_core_intuition.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.102 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:47:02 -->

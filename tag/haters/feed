@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; haters</title>
+	<atom:link href="http://www.manton.org/tag/haters/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Criticizing Apple</title>
+		<link>http://www.manton.org/2015/03/criticizing-apple.html</link>
+		<comments>http://www.manton.org/2015/03/criticizing-apple.html#comments</comments>
+		<pubDate>Fri, 27 Mar 2015 16:19:53 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[animation]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[art]]></category>
+		<category><![CDATA[haters]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2504</guid>
+		<description><![CDATA[Marco Arment reacts to the idea that he’s withholding criticism: “As anyone who’s read my site and listened to our podcast for a while would know, I criticize Apple all the time. A developer’s view of their computing platform and software distribution partner is like any developer’s view of their programming language of choice: if [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.marco.org/2015/03/25/censoring-myself-for-apple">Marco Arment reacts</a> to the idea that he’s withholding criticism:</p>
+<blockquote><p>
+  “As anyone who’s read my site and listened to our podcast for a while would know, I criticize Apple <em>all the time</em>. A developer’s view of their computing platform and software distribution partner is like any developer’s view of their programming language of choice: if you don’t think there are any major shortcomings, you just don’t know it well enough yet.”
+</p></blockquote>
+<p>This is all true, but I also think there’s something unique about Apple: we expect greatness in everything they do. It wouldn’t be the same Apple we love if we brushed complaints aside when the company falls short. And as Marco points out, Apple employees aren’t scared of negative feedback, because they want to build great products too.</p>
+<p>A number of years ago I was <a href="http://www.manton.org/2008/04/ollie_johnston.html">sick of programming</a> and went back to school to study art and <a href="http://www.manton.org/2003/10/old_life_drawings.html">life drawing</a>. Maybe more than anything else, I came away with a new appreciation for self-criticism, and accepting the critiques of others. Because that’s how you get better. Until you can <em>see</em> what’s wrong — your drawing sucks and your iOS app is slow and buggy — you have no hope to improve.</p>
+<p>The key in both art and technology is to understand the difference between constructive criticism and just complaining. <a href="http://www.marco.org/2015/01/04/apple-lost-functional-high-ground">Marco’s original post</a> was about calling out Apple on lower quality standards in the hope that they could focus and get better. Many of the “me too” posts that followed were from Apple haters who were looking for page views and couldn’t care less if Apple quality improved.</p>
+<p><a href="http://bitsplitting.org/2015/03/25/the-risks-and-rewards-of-criticism/">Daniel Jalkut writes</a> that it&#8217;s about how we react to criticism that matters:</p>
+<blockquote><p>
+  &#8220;This is what happens when well-formed criticism meets the ears of a confident, competent individual: the facts are taken to heart and studied, perhaps grudgingly. But upon reflection and determination that there was merit in the complaint, respect for the source of the provocation goes through the roof.&#8221;
+</p></blockquote>
+<p>I’ve been working on an essay about the Apple Watch Edition and why I think it’s wrong for Apple. I do worry a little about putting out a controversial, half-baked opinion. And yet, I’ve seen no one else make my argument against the Edition in the meantime. If I want Apple to live up to the very high standard I hold them to, I can’t withhold my opinion on the direction of the company, regardless of whether that opinion will be warmly received.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/03/criticizing-apple.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.791 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:25:49 -->

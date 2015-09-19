@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; cocoa</title>
+	<atom:link href="http://www.manton.org/tag/cocoa/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Minimal UXKit</title>
+		<link>http://www.manton.org/2015/02/minimal-uxkit.html</link>
+		<comments>http://www.manton.org/2015/02/minimal-uxkit.html#comments</comments>
+		<pubDate>Fri, 06 Feb 2015 19:10:41 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[cocoa]]></category>
+		<category><![CDATA[flipbook]]></category>
+		<category><![CDATA[uxkit]]></category>
+		<category><![CDATA[wwdc]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2456</guid>
+		<description><![CDATA[Brent Simmons reacts to the news that the upcoming Photos app for Mac uses a private UXKit framework. Instead of being the full UIKit-based replacement for AppKit that many developers want, Brent suggests it could be a minimal framework just to make some things easier: &#8220;I could imagine a minimal UXKit that isn’t meant to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://inessential.com/2015/02/05/uxkit_skepticism">Brent Simmons reacts to the news</a> that the upcoming Photos app for Mac uses a private UXKit framework. Instead of being the full UIKit-based replacement for AppKit that many developers want, Brent suggests it could be a minimal framework just to make some things easier:</p>
+<blockquote><p>
+  &#8220;I could imagine a minimal UXKit that isn’t meant to replace AppKit but that can be used with both AppKit and UIKit. It might have UXColor, which would wrap UIColor and NSColor. Same with UXFont and UXImage. UXTableView could present a simplified superset of UITableView and NSTableView/NSOutlineView.&#8221;
+</p></blockquote>
+<p>Like Brent and many other developers, I started this same kind of compatibility work when porting Tweet Library to the Mac. I ended up abandoning the project because it&#8217;s a slippery slope to basically reinventing <a href="http://chameleonproject.org">Chameleon</a>. (Also, <a href="http://www.manton.org/2006/08/flipbook.html">back in 2006 I ported</a> parts of Microsoft&#8217;s MFC C++ framework to Cocoa and it was a <em>lot</em> of work. I&#8217;m not eager to repeat that process.)</p>
+<p>I agree with Brent that we don&#8217;t necessarily need a completely new AppKit. I&#8217;d love to see Apple standardize the foundational classes which are nearly identical already — colors, images, and fonts, as Brent mentioned — as well as UI elements that <em>could</em> be the same without a real cost — views, buttons, labels, table cells, and maybe split views. These UX-prefixed classes wouldn&#8217;t do everything their UI and NS versions could do, but they&#8217;d allow developers to move more code into cross-platform layers of their app by sticking to the common properties and methods.</p>
+<p>As tempting as it would be to throw in iOS-only classes like UINavigationController, I think that would be outside the scope of a minimal UXKit. Candidates should already exist in similar forms on both platforms.</p>
+<p>WWDC 2015 is going to be fun if Apple attempts to tackle even a little bit of this. A minimal UXKit would strike a good compromise between the usual iterative improvements to AppKit and a more revolutionary change to the frameworks.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/02/minimal-uxkit.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>New software releases (plus screencast)</title>
+		<link>http://www.manton.org/2007/06/new_software_releases.html</link>
+		<comments>http://www.manton.org/2007/06/new_software_releases.html#comments</comments>
+		<pubDate>Wed, 06 Jun 2007 01:20:25 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[bookshelf]]></category>
+		<category><![CDATA[cocoa]]></category>
+		<category><![CDATA[highlighters]]></category>
+		<category><![CDATA[marsedit]]></category>
+		<category><![CDATA[netnewswire]]></category>
+		<category><![CDATA[quicktime]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/06/new_software_releases.html</guid>
+		<description><![CDATA[Today is a good day to release software. &#8220;MarsEdit gets a nice update&#8221;:http://www.red-sweater.com/blog/346/marsedit-12-growl-picasa-and-vox and &#8220;NetNewsWire 3.0&#8243;:http://ranchero.com/?comments=1&#38;postid=1646 ships. At VitalSource we also just released &#8220;Bookshelf 4.6&#8243;:http://www.vitalsource.com/index/bookshelf today, which lays the foundation for media-rich textbooks and adds a highlighter rating UI for any subscribed highlighters you have. This data will bubble up in a few places in [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Today is a good day to release software. &#8220;MarsEdit gets a nice update&#8221;:http://www.red-sweater.com/blog/346/marsedit-12-growl-picasa-and-vox and &#8220;NetNewsWire 3.0&#8243;:http://ranchero.com/?comments=1&amp;postid=1646 ships. At VitalSource we also just released &#8220;Bookshelf 4.6&#8243;:http://www.vitalsource.com/index/bookshelf today, which lays the foundation for media-rich textbooks and adds a highlighter rating UI for any subscribed highlighters you have. This data will bubble up in a few places in the future to allow you to discover people and books, although for now it&#8217;s one-way.</p>
+<p>Here&#8217;s a &#8220;short screencast of the rating interface&#8221;:http://www.manton.org/screencasts/2007/bookshelf_rating.mov (12 seconds, 700k). The star widget is a simple Cocoa control that hits a web service in the background. It was fun to write and surprisingly not very much code.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2007/06/new_software_releases.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Reflecting on a beta release and server testing</title>
+		<link>http://www.manton.org/2007/02/reflecting_on_a.html</link>
+		<comments>http://www.manton.org/2007/02/reflecting_on_a.html#comments</comments>
+		<pubDate>Sat, 10 Feb 2007 05:23:23 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[cocoa]]></category>
+		<category><![CDATA[covers]]></category>
+		<category><![CDATA[itunes]]></category>
+		<category><![CDATA[reflections]]></category>
+		<category><![CDATA[transfer]]></category>
+		<category><![CDATA[wii]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/02/reflecting_on_a.html</guid>
+		<description><![CDATA[Wii Transfer 2.2 is taking longer to get ready than I had planned, so I&#8217;ve decided to post a public beta while the last pieces are polished up. You can &#8220;grab it from the news section&#8221;:http://www.riverfold.com/software/wiitransfer/ of the Riverfold site (lower right). It is very close to being done, but giant chunks of code have [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Wii Transfer 2.2 is taking longer to get ready than I had planned, so I&#8217;ve decided to post a public beta while the last pieces are polished up. You can &#8220;grab it from the news section&#8221;:http://www.riverfold.com/software/wiitransfer/ of the Riverfold site (lower right). It is very close to being done, but giant chunks of code have been completely rewritten. I hope the extra testing will help make 2.2 an extremely solid release, and get some of the new features in the hands of users as soon as possible.</p>
+<p>So what&#8217;s new in 2.2? iTunes playlists and several new preferences to control picture sharing top the list, but there are at least a dozen changes underneath the hood.</p>
+<p>The web server built into Wii Transfer has seen some work in particular. Music browsing now uses the iTunes Music Library.xml file for everything rather than look at directory contents, and you can change the port number on the fly without restarting Wii Transfer if there is a conflict with any other applications.</p>
+<p>I&#8217;ve also added reflections to the album cover art! You can see a &#8220;screenshot here&#8221;:http://www.manton.org/images/2007/wii_transfer_cover.jpg and another one of &#8220;the collage for playlists here&#8221;:http://www.manton.org/images/2007/wii_transfer_collage.jpg (these are from Safari, but it looks mostly the same on the Wii). This was really fun to do, but unfortunately it somehow introduced a subtle double-release bug that I spent hours fixing. It would only happen if the album art could not be found in iTunes and while multiple connections were hitting the server (i.e. it was ultimately a threading issue), and maybe only every dozen requests.</p>
+<p>I tracked it down by using ab (Apache Bench), pointed at Wii Transfer. I had a shell script with a bunch of lines that looked like:</p>
+<p><code>ab -n 200 -c 4 "http://localhost:9000/m/Beatles.cover</code></p>
+<p>This URL asks Wii Transfer to grab any album art from iTunes for The Beatles, apply the reflection and return the JPEG data. It is flexible because you can send it any search strings. Other examples might be: <code>Evanescence%20Door.cover</code> or <code>Zoo%20Station.cover</code>. I was a little surprised that my little server was actually pumping out pages fairly quickly considering all the AppleScript and Quartz stuff going on. 10-20 requests per second isn&#8217;t much for a real web application, but for an app that is by definition single-user, it&#8217;s perfect.</p>
+<p>The reflection code was made even easier by &#8220;BHReflectedImage&#8221;:http://bithaus.com/2006/11/05/nsimage-reflection/, which I modified to work with black backgrounds and then wrapped up in other helper methods to composite the cover and reflection together. When I first ran across this code I didn&#8217;t even notice it was written by Jeff Ganyard, who I&#8217;ve known for years and still run into at WWDC. Thanks Jeff! This goes in the about box credits with a bunch of other mentions. There is a really active Mac developer community that contributes source pretty freely, and I hope to add a few things to that collection one of these day as well.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2007/02/reflecting_on_a.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>You had me at scrolling</title>
+		<link>http://www.manton.org/2007/01/you_had_me.html</link>
+		<comments>http://www.manton.org/2007/01/you_had_me.html#comments</comments>
+		<pubDate>Wed, 10 Jan 2007 04:59:45 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[cocoa]]></category>
+		<category><![CDATA[coreanimation]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[ui]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/01/you_had_me.html</guid>
+		<description><![CDATA[&#8220;Last week I said&#8221;:http://www.manton.org/2007/01/macworld_2007_predictions.html I wasn&#8217;t interested in an iPod phone, unless it was something no one had even thought to expect. Well, it is. I am blown away by the iPhone. The thing runs Mac OS X. The iPhone is really inspirational in terms of UI design polish. You can tell they put some [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>&#8220;Last week I said&#8221;:http://www.manton.org/2007/01/macworld_2007_predictions.html I wasn&#8217;t interested in an iPod phone, unless it was something no one had even thought to expect. Well, it is. I am blown away by the iPhone. <i>The thing runs <strike>Mac</strike> OS X.</i></p>
+<p>The iPhone is really inspirational in terms of UI design polish. You can tell they put some years into it. I was playing with Tiger&#8217;s NSAnimation the other night (sort of a poor man&#8217;s &#8220;Core Animation&#8221;:http://www.apple.com/macosx/leopard/coreanimation.html), and it reinforced for me the fact that UI effects are no longer optional pieces of software design. They can both visually supplement the user interaction and just make the application experience more enjoyable. &#8220;Disco&#8221;:http://www.discoapp.com/, for all the criticism as a glorified Disk Recording framework wrapper, is fun to use. Same goes for the just-released &#8220;Snapshot 2.0&#8243;:http://www.stuntsoftware.com/Snapshot/, which has a really thoughtful single-window UI.</p>
+<p>This is going to be another great year to be a Mac developer. And we haven&#8217;t even seen the rest of Leopard yet. Only bump in the road will be if iPhone is a closed platform. The &#8220;comments over at Theocacao&#8221;:http://theocacao.com/document.page/404 provide some interesting commentary on that question.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2007/01/you_had_me.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>FlipBook</title>
+		<link>http://www.manton.org/2006/08/flipbook.html</link>
+		<comments>http://www.manton.org/2006/08/flipbook.html#comments</comments>
+		<pubDate>Thu, 03 Aug 2006 05:35:11 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[cocoa]]></category>
+		<category><![CDATA[flipbook]]></category>
+		<category><![CDATA[mfc]]></category>
+		<category><![CDATA[win32]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2006/08/flipbook.html</guid>
+		<description><![CDATA[Last year I started some extra work to help bring DigiCel FlipBook to the Mac. FlipBook is software for traditional, hand-drawn animators, and it is actually somewhat unique in the industry. Whereas Flash and Toon Boom are vector-based, FlipBook started life as pencil test software for paper-based workflows. It supports scanning with peg hole auto-registration, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Last year I started some extra work to help bring <a href="http://www.digicelinc.com/">DigiCel FlipBook</a> to the Mac. FlipBook is software for traditional, hand-drawn animators, and it is actually somewhat unique in the industry. Whereas Flash and Toon Boom are vector-based, FlipBook started life as pencil test software for paper-based workflows. It supports scanning with peg hole auto-registration, camera capture, or drawing with a Wacom tablet.</p>
+<p>Customers had been asking for a Mac version for a while, but the initial port from Windows to the Mac was not quite ready. It was missing QuickTime support for import, export, and video capture, and the Win32 compatibility layer was somewhat of a roadblock to a polished Mac product.</p>
+<p>I entered the project and ended up re-architecting the application to have a more Mac-like appearance. Instead of using the Win32 library, I wrote a lightweight MFC implementation entirely in Cocoa. MFC is Microsoft&#8217;s C++ framework, still widely used even with .NET and C# pushed for new applications. This approach allowed the application to be driven almost purely from Win32 and MFC, but it uses NIBs for all windows and controls because the compatibility framework sits at a much higher level. In several places the Windows code peeks through, but it provides enough flexibility that more and more of the application could be upgraded to a modern Mac look and feel while still sharing a common Windows codebase.</p>
+<p>The idea is that by working at the MFC level instead of Win32, you can get by with implementing only a very small subset of the full Microsoft frameworks. If the app only uses a few basic control types, for example, you only need to wrap those onto their Cocoa counterparts and can ignore everything else. (Otherwise you end up rewriting <em>all</em> of Win32 just to load and run the unmodified MFC sources.) Even with that simplification, though, the truth is that I seriously underestimated how much work this would be.</p>
+<p>The stack for this ends up looking something like this:</p>
+<p><center><img src="http://www.manton.org/images/2006/flipbook_diagram.gif" width="543" height="263" border="0" alt="FlipBook diagram" /></center></p>
+<p>It has been an interesting project, both for the technical challenges and because animation is near to my heart. I plan to use the software in my own personal film projects. Here&#8217;s a <a href="http://www.flickr.com/photos/manton/203490170/">screenshot of the latest version</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2006/08/flipbook.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>RubyCocoa</title>
+		<link>http://www.manton.org/2006/07/rubycocoa.html</link>
+		<comments>http://www.manton.org/2006/07/rubycocoa.html#comments</comments>
+		<pubDate>Mon, 17 Jul 2006 03:08:55 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[cocoa]]></category>
+		<category><![CDATA[frameworks]]></category>
+		<category><![CDATA[mac]]></category>
+		<category><![CDATA[objective-c]]></category>
+		<category><![CDATA[ruby]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2006/07/rubycocoa.html</guid>
+		<description><![CDATA[I write Mac software, but over the last year I&#8217;ve increasingly been building Ruby on Rails web apps as well. Today I finally took a look at &#8220;RubyCocoa&#8221;:http://www.rubycocoa.com/. I wanted to whip up a quick Cocoa app that would involve some text parsing, and a dynamic scripting language like Ruby is a much better fit [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I write Mac software, but over the last year I&#8217;ve increasingly been building Ruby on Rails web apps as well. Today I finally took a look at &#8220;RubyCocoa&#8221;:http://www.rubycocoa.com/. I wanted to whip up a quick Cocoa app that would involve some text parsing, and a dynamic scripting language like Ruby is a much better fit for text processing than C, C++, or Objective-C.</p>
+<p>It turns out RubyCocoa works amazingly well. I have only scratched the surface with a small test app, but I was blown away by its ease-of-use, Xcode integration, example projects, and apparent maturity. You have full access to AppKit from Ruby-based controllers and views, and a single NIB file can even reference both Objective-C and Ruby classes. Fantastic stuff.</p>
+<p>I don&#8217;t know if it&#8217;s ready for commercial software use yet. For distribution, I tested including the RubyCocoa.framework inside the application package and the app launches and runs correctly on a system without the full RubyCocoa install. There may be issues with requiring a recent version of Ruby, but otherwise it&#8217;s a fully native app.</p>
+<p>My only disappointment was in the Objective-C calling conventions. There are two versions to choose from: a style using underscores to separate named values, and a slightly easier Ruby syntax using symbols and extra parameters. Here they are:</p>
+<p><em>Objective-C:</em></p>
+<p><code>[my_window setFrame:r display:YES animate:YES]</code></p>
+<p><em>Ruby Underscores:</em></p>
+<p><code>my_window.setFrame_display_animate(r, true, true)</code></p>
+<p><em>Ruby Symbols:</em></p>
+<p><code>my_window.setFrame(r, :display, true, :animate, true)</code></p>
+<p>In my opinion, a better approach would be to take advantage of Ruby&#8217;s trick of allowing the last parameter to be a hash supplied without the curly braces. This feels more readable to me and more closely matches the Objective-C equivalent.</p>
+<p><em>Better:</em></p>
+<p><code>my_window.setFrame(r, :display => true, :animate => true)</code></p>
+<p>In any case, that&#8217;s a minor complaint and doesn&#8217;t take much away from the beauty of writing native Mac apps in Ruby.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2006/07/rubycocoa.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Reading, ASCII, and PDF</title>
+		<link>http://www.manton.org/2004/03/reading_ascii_and.html</link>
+		<comments>http://www.manton.org/2004/03/reading_ascii_and.html#comments</comments>
+		<pubDate>Thu, 11 Mar 2004 02:46:26 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[cocoa]]></category>
+		<category><![CDATA[drm]]></category>
+		<category><![CDATA[est]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2004/03/reading_ascii_and.html</guid>
+		<description><![CDATA[I started reading the electronic version of Eastern Standard Tribe. Hoping to get through some of it by SXSW and pick up a hard-copy there. I&#8217;ve also been reviewing my Cocoa books, since I&#8217;ve been porting the user interface of an application to Cocoa (still lots of Carbon and cross-platform C++ underneath). More on all [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I started reading the electronic version of <a href="http://www.craphound.com/est/">Eastern Standard Tribe</a>. Hoping to get through some of it by SXSW and pick up a hard-copy there. I&#8217;ve also been reviewing my Cocoa books, since I&#8217;ve been porting the user interface of an application to Cocoa (still lots of Carbon and cross-platform C++ underneath). More on all that some other time.</p>
+<p>For now, here are two somewhat contrasting quotes from the authors of those books, on file format standards:</p>
+<p><a href="http://x180.net/2004/01/17.html#banksandpdf">James Duncan Davidson</a>: &#8220;I&#8217;m pretty sure that I&#8217;ll always be able to open a PDF file.&#8221;</p>
+<p><a href="http://boingboing.net/2004_01_01_archive.html#107311966175124389">Cory Doctorow</a>: &#8220;ASCII is the new PDF!&#8221;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2004/03/reading_ascii_and.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Crufty interfaces and file paths</title>
+		<link>http://www.manton.org/2002/11/crufty_interfaces_and.html</link>
+		<comments>http://www.manton.org/2002/11/crufty_interfaces_and.html#comments</comments>
+		<pubDate>Fri, 01 Nov 2002 15:28:00 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[alias]]></category>
+		<category><![CDATA[cocoa]]></category>
+		<category><![CDATA[omnioutliner]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2002/11/crufty_interfaces_and.html</guid>
+		<description><![CDATA[Matthew Thomas&#8217; &#8220;When good interfaces go crufty&#8221; is a fun read. It&#8217;s nothing we don&#8217;t already know, but sometimes it&#8217;s helpful to be reminded that some of the interfaces that we are so used to are still confusing for new users. His talk on the evils of using file paths to reference files and applications [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Matthew Thomas&#8217; <a href="http://mpt.phrasewise.com/stories/storyReader$374">&#8220;When good interfaces go crufty&#8221;</a> is a fun read. It&#8217;s nothing we don&#8217;t already know, but sometimes it&#8217;s helpful to be reminded that some of the interfaces that we are so used to are still confusing for new users. His talk on the evils of using file paths to reference files and applications is resurfacing in the Mac world, as a new crop of Cocoa-based applications generally ignore using aliases (not alias files in the Finder but the AliasHandle toolbox type to keep track of files that might be moved or renamed out from under the application). Try this test in BBEdit, then in Apple&#8217;s TextEdit:</p>
+<ol>
+<li>Make a new document and save it on the desktop.</li>
+<li>While the document is still open, rename it in the Finder.</li>
+<li>Go back to the open document, type some more text, and click save again.</li>
+</ol>
+<p>When I tried this with OmniOutliner, I expected it to perform as poorly as TextEdit. Instead, OmniOutliner does recognize the change and updates the document&#8217;s title bar with the new name. But then it ruins this intelligence by asking the user whether they are sure they want to save with the new name. It&#8217;s as if OmniOutliner is bragging &#8212; &#8220;Hey look at me, I&#8217;m so smart I noticed that you renamed my file&#8221;. Applications shouldn&#8217;t need to show off, and the ones that just work as expected will usually be more enjoyable to use.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2002/11/crufty_interfaces_and.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Mac OS X Conference blogs</title>
+		<link>http://www.manton.org/2002/10/mac_os_x-2.html</link>
+		<comments>http://www.manton.org/2002/10/mac_os_x-2.html#comments</comments>
+		<pubDate>Wed, 02 Oct 2002 03:42:14 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[cocoa]]></category>
+		<category><![CDATA[conferences]]></category>
+		<category><![CDATA[duncandavidson]]></category>
+		<category><![CDATA[oreilly]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2002/10/mac_os_x-2.html</guid>
+		<description><![CDATA[It&#8217;s fun watching the posts come in to the Mac OS X Conference &#8220;Trackback&#8221; feed. Hopefully more people will hook into it before the conference is over. It&#8217;s a good way to learn about other blogs that share a common interest. MacCentral has a short write-up on James Duncan Davidson&#8217;s Cocoa talk at the OS [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>It&#8217;s fun watching the posts come in to the <a href="http://www.movabletype.org/osxcon/">Mac OS X Conference &#8220;Trackback&#8221;</a> feed. Hopefully more people will hook into it before the conference is over. It&#8217;s a good way to learn about other blogs that share a common interest.</p>
+<p>MacCentral has a short write-up on <a href="http://maccentral.macworld.com/news/0210/01.cocoa.php">James Duncan Davidson&#8217;s Cocoa talk</a> at the OS X conference. One quote that stood out for me: &#8220;Project Builder was the first IDE I actually liked&#8221;. That&#8217;s funny &#8212; the more I use Project Builder, the less I like it.</p>
+<p>There&#8217;s also <a href="http://www.macdevcenter.com/mac/osx2002/">some coverage</a> at the O&#8217;Reilly site.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2002/10/mac_os_x-2.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.741 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:37:59 -->

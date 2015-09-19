@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; fabric</title>
+	<atom:link href="http://www.manton.org/tag/fabric/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Two weeks notice: Core Int 191</title>
+		<link>http://www.manton.org/2015/07/two-weeks-notice-core-int-191.html</link>
+		<comments>http://www.manton.org/2015/07/two-weeks-notice-core-int-191.html#comments</comments>
+		<pubDate>Sat, 25 Jul 2015 04:11:46 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[2weeks]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[fabric]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2887</guid>
+		<description><![CDATA[We just published Core Intuition 191, the first episode recorded since I resigned from my regular job. In a way, it feels like this episode was 7 years in the making. Although I clearly wasn’t about to go indie that long ago, the topics that we’ve chosen to discuss on the podcast over the years [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We just published <a href="http://coreint.org/191">Core Intuition 191</a>, the first episode recorded since I resigned from my regular job. In a way, it feels like this episode was 7 years in the making. Although I clearly wasn’t about to go indie that long ago, the topics that we’ve chosen to discuss on the podcast over the years have always followed that basic narrative: what can we do to improve our apps and business.</p>
+<p>And as I hinted about <a href="http://www.manton.org/2015/07/two-weeks-notice-podcast-revenue.html">earlier this week</a>, this episode also features the return of our sponsor Twitter to promote their Fabric suite of tools for developers, including Crashlytics and Answers. Great to have them back.</p>
+<p>From the show notes:</p>
+<blockquote><p>
+  “Manton and Daniel discuss Manton&#8217;s big decision to quit his job and go full-time indie. They also discuss the challenges of freeing up one&#8217;s mind to focus on work, the freedom of indie development, and the psychological benefits of a dedicated workplace.”
+</p></blockquote>
+<p>This is a milestone episode for me. I hope you enjoy it.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/07/two-weeks-notice-core-int-191.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Twitter Flight follow-up</title>
+		<link>http://www.manton.org/2014/10/twitter-flight-follow-up.html</link>
+		<comments>http://www.manton.org/2014/10/twitter-flight-follow-up.html#comments</comments>
+		<pubDate>Sat, 25 Oct 2014 16:42:55 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[atp]]></category>
+		<category><![CDATA[crashlytics]]></category>
+		<category><![CDATA[fabric]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2353.html</guid>
+		<description><![CDATA[Mat Honan has a long article covering the Twitter Flight announcements. On understanding why Twitter acquired Crashlytics and MoPub: &#8220;Now, those acquisitions suddenly seem crucial. They form the backbone of Fabric—along with a new sign-on system called Digits (launching in 218 countries and 28 languages today). While tweets will remain Twitter’s foundation, this is a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.wired.com/2014/10/twitter-fabric-sdk/">Mat Honan has a long article</a> covering the Twitter Flight announcements. On understanding why Twitter acquired Crashlytics and MoPub:</p>
+<blockquote><p>
+  &#8220;Now, those acquisitions suddenly seem crucial. They form the backbone of Fabric—along with a new sign-on system called Digits (launching in 218 countries and 28 languages today). While tweets will remain Twitter’s foundation, this is a real strategy shift that’s in many ways similar to Google’s growth out of search.&#8221;
+</p></blockquote>
+<p>It&#8217;s interesting that one half of Twitter has so famously stepped on developers, but a new part of Twitter is emerging around Fabric with the opposite goal: make our life as developers easier so that we bundle the suite of Twitter frameworks into every app we build. This split in the company has allowed me to accept Crashlytics as a long-term sponsor of Core Intuition even as I criticize the &#8220;tweets&#8221; platform side of Twitter. They&#8217;ve done great work with Crashlytics and I happily use it in both <a href="http://www.riverfold.com/software/tweetlibrary/">Tweet Library</a> and <a href="http://sunlit.io/">Sunlit</a>.</p>
+<p>Also this week, Twitter replaced their &#8220;Rules of the Road&#8221; with a simplified <a href="https://dev.twitter.com/overview/terms/policy">Developer Policy</a>. I can&#8217;t tell if this is an improvement or not yet. It still has the 100,000 user token limit, among other restrictions. (As I write this I&#8217;m listening to <a href="http://atp.fm/episodes/88">ATP episode 88</a>, which includes more great discussion about this topic.)</p>
+<p>Digits is the surprise of the conference to me. It was impossible for a small company to do SMS verification on this scale before. I think it&#8217;s a new class of service with only CloudKit&#8217;s user accounts as possible direct competition, and even that only on iOS. Digits is going to be big.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/10/twitter-flight-follow-up.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.957 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:14:14 -->

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; applescript</title>
+	<atom:link href="http://www.manton.org/tag/applescript/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Clipstart 1.2 ships soooon</title>
+		<link>http://www.manton.org/2009/08/clipstart_12_ships.html</link>
+		<comments>http://www.manton.org/2009/08/clipstart_12_ships.html#comments</comments>
+		<pubDate>Sat, 22 Aug 2009 18:27:43 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[applescript]]></category>
+		<category><![CDATA[clipstart]]></category>
+		<category><![CDATA[export]]></category>
+		<category><![CDATA[isight]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2009/08/clipstart_12_ships.html</guid>
+		<description><![CDATA[Now that I&#8217;m done &#8220;giving away a free iPhone&#8221;:http://twitter.com/manton/status/3370506213, I can move on to the next phase of my marketing plan: release new and better software! Crazy, huh? Clipstart 1.2 is nearly ready and I&#8217;m very proud of this release. There&#8217;s so much new stuff I could have called it 2.0. Batch export. Select multiple [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Now that I&#8217;m done &#8220;giving away a free iPhone&#8221;:http://twitter.com/manton/status/3370506213, I can move on to the next phase of my marketing plan: release new and better software! Crazy, huh? Clipstart 1.2 is nearly ready and I&#8217;m very proud of this release. There&#8217;s so much new stuff I could have called it 2.0.</p>
+<p><em>Batch export.</em> Select multiple videos and convert them to H.264, or optimized for iPod, iPhone, and Apple TV, and optionally run a script on the results. It can even create an HTML 5 web site and export in Ogg Theora format for Firefox and Opera users.</p>
+<p><em>Twitter upload.</em> Works with Yfrog to upload a video and post to Twitter. To include a custom tweet, use the &#8220;Upload with Options&#8221; command, just as you would add a description to a Flickr, Vimeo, or YouTube upload.</p>
+<p><em>New tagging interface.</em> Easy way to tag multiple videos from the keyboard. You can also now drag videos to an existing tag to apply that tag to the selection.</p>
+<p><em>iSight capture.</em> I wasn&#8217;t planning on adding this until later, but I think it complements the Twitter support well. Capture from the iSight and it records as H.264 and adds the video to your Clipstart library.</p>
+<p><em>New toolbar and button style.</em> I shouldn&#8217;t have used the round rectangle scope button style in Clipstart 1.0, so I decided to roll my own that fit well with the toolbar. It&#8217;s still not a standard toolbar but I hope to transition to one in a future version of Clipstart.</p>
+<p><em>Change date for multiple videos.</em> You can update the date for multiple videos at once, with the flexibility of changing specific portions of the date, such as just the year or month. Great for correcting dates from cameras.</p>
+<p><em>AppleScript support.</em> Just the basics for now, but you can get a list of videos, with tags and other metadata for each.</p>
+<p>Plus some other fixes and Snow Leopard compatibility. I plan to release it in the next couple days, just in case Snow Leopard is released on the 28th as rumored. If you are interested in trying a beta and submitting some last-minute feedback, drop me an email at &#8220;support@riverfold.com&#8221;:support@riverfold.com.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2009/08/clipstart_12_ships.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Clipstart file actions</title>
+		<link>http://www.manton.org/2009/07/clipstart_file_actions.html</link>
+		<comments>http://www.manton.org/2009/07/clipstart_file_actions.html#comments</comments>
+		<pubDate>Fri, 03 Jul 2009 05:31:08 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[acorn]]></category>
+		<category><![CDATA[applescript]]></category>
+		<category><![CDATA[clipstart]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2009/07/clipstart_file_actions.html</guid>
+		<description><![CDATA[&#8220;Clipstart 1.1&#8243;:http://www.riverfold.com/software/clipstart/ is out, with support for the iPhone 3GS, YouTube, and more. I&#8217;m really happy with the response I&#8217;ve received so far. The 3GS is such a convenient device for video that even people who weren&#8217;t taking lots of clips before now find themselves with a bunch of videos. That deserves a dedicated management [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>&#8220;Clipstart 1.1&#8243;:http://www.riverfold.com/software/clipstart/ is out, with support for the iPhone 3GS, YouTube, and more. I&#8217;m really happy with the response I&#8217;ve received so far. The 3GS is such a convenient device for video that even people who weren&#8217;t taking lots of clips before now find themselves with a bunch of videos. That deserves a dedicated management app.</p>
+<p>&#8220;Ryan Irelan&#8221;:http://ryanirelan.com/ asked me the other day if Clipstart would support a simple email option, for quickly sharing a video with family without uploading to a web site. This is a pretty good candidate for using Clipstart&#8217;s file actions, which allow you to process the selected video files with a script.</p>
+<p>I liked how &#8220;Acorn handled this kind of thing&#8221;:http://flyingmeat.com/wikka/AcornExtraScripts, so I essentially lifted its file actions feature directly and put it into Clipstart, even down to the ACShortcutKey shortcut comments. Even though Acorn is for still images and Clipstart for videos, it seemed similar enough that you could conceivably take lightly-modified scripts from one app and use it the other, if they did not deal with the file&#8217;s contents.</p>
+<p>Here&#8217;s the email script that will be included in Clipstart 1.1.1:</p>
+<p><tt><font color="gray">#!/usr/bin/osascript</font></p>
+<p>on run <font color="green">argv</font></p>
+<p>&nbsp; &nbsp; set <font color="green">filepath</font> to item 1 of <font color="green">argv</font></p>
+<p>&nbsp; &nbsp; set <font color="green">old_delims</font> to AppleScript's text item delimiters</p>
+<p>&nbsp; &nbsp; set AppleScript's text item delimiters to {"/"}</p>
+<p>&nbsp; &nbsp; set <font color="green">path_items</font> to text items of (<font color="green">filepath</font> as text)</p>
+<p>&nbsp; &nbsp; set AppleScript's text item delimiters to <font color="green">old_delims</font></p>
+<p>&nbsp; &nbsp; set <font color="green">filename</font> to last item of <font color="green">path_items</font></p>
+<p>&nbsp; &nbsp; tell application "Mail"</p>
+<p>&nbsp; &nbsp;   &nbsp; &nbsp; set <font color="green">new_msg</font> to make new outgoing message with properties {subject:<font color="green">filename</font>, content:"" &amp; return &amp; return}</p>
+<p>&nbsp; &nbsp;   &nbsp; &nbsp; tell <font color="green">new_msg</font></p>
+<p>&nbsp; &nbsp;   &nbsp; &nbsp;   &nbsp; &nbsp; set visible to true</p>
+<p>&nbsp; &nbsp;   &nbsp; &nbsp;   &nbsp; &nbsp; tell content</p>
+<p>&nbsp; &nbsp;   &nbsp; &nbsp;   &nbsp; &nbsp;   &nbsp; &nbsp; make new attachment with properties {file name:<font color="green">filepath</font>} at after the last paragraph</p>
+<p>&nbsp; &nbsp;   &nbsp; &nbsp;   &nbsp; &nbsp; end tell</p>
+<p>&nbsp; &nbsp;   &nbsp; &nbsp; end tell</p>
+<p>&nbsp; &nbsp;   &nbsp; &nbsp; activate</p>
+<p>&nbsp; &nbsp; end tell</p>
+<p>end</tt></p>
+<p>Running scripts has been in Clipstart since 1.0. The implementation is pretty simple. I parse the available file action files to extract the executable path and any shortcut keys and modifiers, then dynamically create the menu items. When it&#8217;s time to run an action I use NSTask and friends to execute the program and pass the script file and selected movie path to it.</p>
+<p>Instead of this:</p>
+<p><tt>/path/to/myscript.sh /path/to/movie.avi</tt></p>
+<p>Clipstart does it like one of these:</p>
+<p><tt>/usr/bin/bash /path/to/myscript.sh /path/to/movie.avi</tt></p>
+<p><tt>/usr/bin/osascript /path/to/myscript.sh /path/to/movie.avi</tt></p>
+<p>I did this to not require setting +x on the file, but it also seems to be a more convenient way of processing command line arguments when run from osascript.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2009/07/clipstart_file_actions.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 2.815 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:47:48 -->

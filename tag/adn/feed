@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; adn</title>
+	<atom:link href="http://www.manton.org/tag/adn/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Riposte push server crowdfunding</title>
+		<link>http://www.manton.org/2015/08/riposte-push-server-crowdfunding.html</link>
+		<comments>http://www.manton.org/2015/08/riposte-push-server-crowdfunding.html#comments</comments>
+		<pubDate>Tue, 04 Aug 2015 16:54:15 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[adn]]></category>
+		<category><![CDATA[riposte]]></category>
+		<category><![CDATA[servers]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2938</guid>
+		<description><![CDATA[Back in April, the App.net app Riposte was removed from sale. Riposte wasn&#8217;t just the best client for App.net; I think it held its own against even the best Twitter apps, too. The push notification server for Riposte (and its messaging app complement, Whisper) was to keep running for some months and then shut down [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://blog.jaredsinclair.com/post/116294584510/riposte-the-appnet-app-permanently-removed-from">Back in April</a>, the App.net app Riposte was removed from sale. Riposte wasn&#8217;t just the best client for App.net; I think it held its own against even the best Twitter apps, too. The push notification server for Riposte (and its messaging app complement, Whisper) was to keep running for some months and then shut down this summer.</p>
+<p>Even if App.net is slowly fading away, like many users I still have Riposte on my home screen. I cross-post all <a href="http://www.manton.org/category/micro">my microblog posts</a> from this blog to App.net. When I get replies and mentions on App.net, I like to see them as push notifications in Riposte. I can reply in the app easily, or skim through the timeline to see what else is going on.</p>
+<p>Now the developers have launched a <a href="https://app.moonclerk.com/pay/q2j4zmciz4e">crowdfunding campaign</a> to keep the Riposte server running. Their goal is a modest $500 per year to cover AWS hosting and time to keep everything running smoothly. Even if you&#8217;re not very active on App.net anymore, consider donating as a thank-you for everything Riposte did for App.net, and for what it did to advance the state of UI design in social networking apps.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/08/riposte-push-server-crowdfunding.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Retiring App.net support for Sunlit</title>
+		<link>http://www.manton.org/2015/07/retiring-app-net-support-for-sunlit.html</link>
+		<comments>http://www.manton.org/2015/07/retiring-app-net-support-for-sunlit.html#comments</comments>
+		<pubDate>Mon, 20 Jul 2015 18:00:34 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[adn]]></category>
+		<category><![CDATA[flickr]]></category>
+		<category><![CDATA[ohai]]></category>
+		<category><![CDATA[sunlit]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2868</guid>
+		<description><![CDATA[Sunlit 1.3.1 shipped today. It’s a minor update focused on fixing bugs, but it is also the first version to remove App.net support. Existing users still have access to all the App.net features — the code still exists in the app for now — but the App.net sign-in button and settings have been removed for new users [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://sunlit.io/">Sunlit</a> 1.3.1 shipped today. It’s a minor update focused on fixing bugs, but it is also the first version to remove App.net support. Existing users still have access to all the App.net features — the code still exists in the app for now — but the App.net sign-in button and settings have been removed for new users to simplify the requirements and UI.</p>
+<p>It was difficult to let go of the App.net-specific features. A significant amount of the codebase was around syncing and collaboration features via App.net. There was also some great location check-in support built on App.net locations and compatibility with <a href="http://ohaiapp.net/">Ohai</a>. I had to remove screenshots and prune down the App Store description to account for the removed features.</p>
+<p>What’s left is an app that has fewer features but which feels light and simple again. Maybe this should have been our 1.0 version all along.</p>
+<p>Two years ago, <a href="http://www.manton.org/2013/08/waiting_for_appnets.html">I wrote about waiting for App.net’s killer app</a>:</p>
+<blockquote><p>
+  “The promise of App.net is bigger than one type of app. App.net isn’t just a blank slate; it’s an amplifier. It’s waiting to power the next new idea and help it grow into something big.”
+</p></blockquote>
+<p>This vision didn’t pan out. But I’m proud that we gave it a shot and put a lot of effort into the platform even after others had given up on it. Now that we’ve finished this “reset”, of sorts, we’ll move forward to build other features we always wanted in Sunlit.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/07/retiring-app-net-support-for-sunlit.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Apple News and RSS</title>
+		<link>http://www.manton.org/2015/06/apple-news-and-rss.html</link>
+		<comments>http://www.manton.org/2015/06/apple-news-and-rss.html#comments</comments>
+		<pubDate>Mon, 15 Jun 2015 19:25:24 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[adn]]></category>
+		<category><![CDATA[news]]></category>
+		<category><![CDATA[rss]]></category>
+		<category><![CDATA[wwdc]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2713</guid>
+		<description><![CDATA[Daniel Jalkut has an optimistic take on Apple News. He doesn’t think it is comparable to centralized publishing systems like Twitter or Medium for one important reason: “Because the content doesn’t live on Apple’s servers. This is a key distinction in my mind. Apple’s News App serves primarily not as a source of information, but [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://bitsplitting.org/2015/06/15/apple-news-and-the-open-web/">Daniel Jalkut has an optimistic take</a> on Apple News. He doesn’t think it is comparable to centralized publishing systems like Twitter or Medium for one important reason:</p>
+<blockquote><p>
+  “Because <em>the content doesn’t live on Apple’s servers</em>. This is a key distinction in my mind. Apple’s News App serves primarily not as a <em>source</em> of information, but as an amplifier of it.”
+</p></blockquote>
+<p>Any technology that invokes “amplifier” in a review is something I want to pay attention to. I used the same word in the closing paragraph of <a href="http://manton.org/2013/08/waiting_for_appnets.html">my pitch for App.net</a>. That service is fading away now, of course, but it’s just another reminder that even the most well-intentioned platforms are dangerous if they distract us from controlling our own content and hosting it at a custom domain.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/06/apple-news-and-rss.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Goodbye Riposte</title>
+		<link>http://www.manton.org/2015/04/goodbye-riposte.html</link>
+		<comments>http://www.manton.org/2015/04/goodbye-riposte.html#comments</comments>
+		<pubDate>Mon, 13 Apr 2015 15:01:18 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[adn]]></category>
+		<category><![CDATA[riposte]]></category>
+		<category><![CDATA[trademarks]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2568</guid>
+		<description><![CDATA[Jared Sinclair announces that Riposte will no longer be available: “As part of an agreement reached over an alleged trademark infringement, Riposte (the App.net app I made with Jamin Guy) will be removed from sale on the App Store. We’ll also be taking down the riposteapp.net homepage.” Even today, Riposte is arguably the best social [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://blog.jaredsinclair.com/post/116294584510/riposte-the-app-net-app-permanently-removed-from">Jared Sinclair announces</a> that Riposte will no longer be available:</p>
+<blockquote><p>
+  “As part of an agreement reached over an alleged trademark infringement, <a href="http://thesweetsetup.com/apps/best-app-net-client-iphone/">Riposte</a> (the <a href="https://app.net/">App.net</a> app I made with <a href="https://twitter.com/jaminguy">Jamin Guy</a>) will be removed from sale on the App Store. We’ll also be taking down the <a href="http://riposteapp.net/">riposteapp.net</a> homepage.”
+</p></blockquote>
+<p>Even today, Riposte is arguably the best social networking client out there. It pioneered consistent gestures for navigation. It will remain on my home screen for some time to come.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/04/goodbye-riposte.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Preservation State and App Stories</title>
+		<link>http://www.manton.org/2014/05/preservation_state_and.html</link>
+		<comments>http://www.manton.org/2014/05/preservation_state_and.html#comments</comments>
+		<pubDate>Tue, 27 May 2014 19:11:06 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[adn]]></category>
+		<category><![CDATA[podcasts]]></category>
+		<category><![CDATA[sunlit]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/05/preservation_state_and.html</guid>
+		<description><![CDATA[I was the guest on 2 podcasts recently. First, on Preservation State with Philip Mozolak and Christopher Radliff, we talked for an hour about App.net, Beats Music, and more. It was fun to do a longer podcast that’s free to kind of meander through different topics, and I think we covered a lot. Next, on [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I was the guest on 2 podcasts recently. First, <a href="http://preservationstate.com/027-a-manton-reece-nerd-pocket/">on Preservation State with Philip Mozolak and Christopher Radliff</a>, we talked for an hour about App.net, Beats Music, and more. It was fun to do a longer podcast that’s free to kind of meander through different topics, and I think we covered a lot.</p>
+<p>Next, <a href="http://www.appstorypodcast.com/apps/sunlit">on App Stories</a>, Vic Hudson interviewed me about how Sunlit came to be. We talk about App.net, design choices in Sunlit, and the future for the app. There’s a lot in there that I’ve never talked about before. Hope you enjoy these episodes!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/05/preservation_state_and.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Frozen in time</title>
+		<link>http://www.manton.org/2014/05/frozen_in_time.html</link>
+		<comments>http://www.manton.org/2014/05/frozen_in_time.html#comments</comments>
+		<pubDate>Thu, 08 May 2014 20:52:48 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[adn]]></category>
+		<category><![CDATA[frozen]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/05/frozen_in_time.html</guid>
+		<description><![CDATA[Many people have written about App.net this week, but I think my favorite line is from this essay by Pete Burtis, while talking about how the API and apps are years ahead of other platforms: “If App.net is to be frozen in time, at least it’s to be frozen in the future.”]]></description>
+				<content:encoded><![CDATA[<p>Many people have written about App.net this week, but I think my favorite line is from <a href="http://pjb.io/2014/05/07/app-net-eulogy.html">this essay by Pete Burtis</a>, while talking about how the API and apps are years ahead of other platforms:</p>
+<blockquote><p>
+  “If App.net is to be frozen in time, at least it’s to be frozen in the future.”
+</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/05/frozen_in_time.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Sunlit 1.2</title>
+		<link>http://www.manton.org/2014/05/sunlit_12.html</link>
+		<comments>http://www.manton.org/2014/05/sunlit_12.html#comments</comments>
+		<pubDate>Thu, 08 May 2014 19:47:26 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[adn]]></category>
+		<category><![CDATA[flickr]]></category>
+		<category><![CDATA[sunlit]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/05/sunlit_12.html</guid>
+		<description><![CDATA[Sunlit version 1.2 is now available in the App Store. It includes a few minor improvements and one major change: you can now use the app with only a Flickr account. It no longer requires App.net. We hope this will allow more people to try the app. At any time, you can always add your [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Sunlit version 1.2 is <a href="http://taps.io/Ld3g">now available in the App Store</a>. It includes a few minor improvements and one major change: you can now use the app with only a Flickr account. It no longer requires App.net.</p>
+<p>We hope this will allow more people to try the app. At any time, you can always add your App.net account to the app’s settings and it will unlock the more advanced features: syncing, sharing stories to other App.net users, and multi-user collaboration so that anyone can add photos and edit text in a story.</p>
+<p>Making App.net optional instead of required meant rethinking what the minimum features were that all users should have. Obviously you have to be able to create stories, add photos, include text descriptions, and use filters. But we also kept coming back to one thing: we could not ship without also supporting web publishing. The bulk of work on Sunlit 1.2 was creating a parallel implementation for publishing that would seamlessly work with exactly the same UI, with or without App.net.</p>
+<p>Some people may ask why we chose Flickr instead of creating our own user accounts system, or simply having no registration. To support publishing, it helps to have some unique username for a user, and a secure way to authenticate them on the server. It won’t surprise anyone to hear that <em>a lot</em> of people have Yahoo accounts. With a redesigned web and mobile experience, plus 1 TB of free photo storage, Yahoo’s giving Flickr something of a new resurgence. There’s a lot we could build on the Flickr API.</p>
+<p>At the same time, Sunlit’s App.net support is a powerful differentiator and we’ll continue to improve it. It lets you own your data, share it with other apps like Ohai, and sync to multiple users. I still believe in the App.net API and user community; it’s too good a platform to give up on.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/05/sunlit_12.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The risk of a small platform</title>
+		<link>http://www.manton.org/2014/05/the_risk_of.html</link>
+		<comments>http://www.manton.org/2014/05/the_risk_of.html#comments</comments>
+		<pubDate>Wed, 07 May 2014 22:24:51 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[adn]]></category>
+		<category><![CDATA[api]]></category>
+		<category><![CDATA[platforms]]></category>
+		<category><![CDATA[sunlit]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/05/the_risk_of.html</guid>
+		<description><![CDATA[Marco Arment responds to my comment that developers should have seen the potential of the App.net API as something much bigger than Twitter. I wanted my post to be short, but Marco makes good points that are worth following up on. He writes: “Building an app on someone else’s API, rather than making your own, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.marco.org/2014/05/07/manton-adn-api">Marco Arment responds</a> to my comment that developers should have seen the potential of the App.net API as something much bigger than Twitter. I wanted <a href="http://www.manton.org/2014/05/appnet_niche.html">my post</a> to be short, but Marco makes good points that are worth following up on. He writes:</p>
+<blockquote><p>
+  “Building an app on someone else’s API, rather than making your own, is a huge risk: it usually only pays off if the service provides a huge existing userbase and hard-to-duplicate functionality. App.net never offered either. They started out facing the typical social-network chicken-and-egg problem, put a huge paywall in front to prevent any growth, and tried to alleviate that by adding more chicken-and-egg problems to their offerings.”
+</p></blockquote>
+<p>Building entirely on App.net for <a href="http://sunlit.io/">Sunlit</a> was indeed a huge risk, and one that we expected would take time to pay off. It was a bet on the future. We are incredibly proud of our app and the response it got in the App.net community, but our goal was always to make an app <a href="http://manton.org/2014/01/no_coincidence.html">that appealed to everyone</a>, not just a small niche of tech folks. We’ve actually been working for over a month on a new version of Sunlit that expands the reach of the app beyond App.net, and coincidentally it just went into review at Apple this week.</p>
+<p>But I think the chicken-and-egg problem was solvable. The main issue with iOS apps is that they couldn’t sign up a new user directly in the app. This made sense when App.net was a paid-only service, because you’d run into in-app purchase issues with Apple, but it became more technically feasible when the free tier launched.</p>
+<p>The App.net founders also seemed receptive to the idea. There just wasn’t time to make it happen. I believe this single roadblock prevented any potentially-mainstream <a href="http://manton.org/2013/08/waiting_for_appnets.html">killer apps</a> built on App.net from getting off the ground. If it’s not easy to open a third-party app, create an account, and start using the service, too many people will give up. (Our numbers showed that only 40% of Sunlit downloads actually signed in to use the app for real.)</p>
+<p>However, building our own backend for the app would also be very challenging and expensive. We are not syncing small bits of data around. It’s a photo sharing app, so right off the bat you’ve got big files that have to be hosted somewhere. On top of that there’s collaboration features, so you need not just user accounts but private sync channels that have specific read/write access to certain users. Plus all the metadata and formats to support syncing text, photos, and location check-in information. Not to mention publishing HTML, thumbnails, and maps. It’s daunting.</p>
+<p>(In fact, it’s so daunting, I don’t think there’s a single app in the App Store that has feature-parity with Sunlit. The app simply could not have been built by a tiny team of 2 part-time developers if building a whole backend infrastructure first was a prerequisite.)</p>
+<p>Marco closes with this:</p>
+<blockquote><p>
+  “As much as App.net wanted to be — and eventually was — much more than a Twitter clone, it got the vast majority of its initial funding, enthusiasm, and developer support from people’s anger at Twitter’s dickification. But internet outrage doesn’t last long. Since App.net never became the new primary place where our friends all hung out, most of us never left Twitter — we all just accept that they’re dicks now, and we forgot about App.net.”
+</p></blockquote>
+<p>There’s an argument to be made that App.net’s core mistake was building the Alpha web interface only far enough to match Twitter’s features and then moving on to other things. Instead, they could have kept improving Alpha until it was significantly better than Twitter, so good that it couldn’t be ignored. By doing so, maybe they would have also more effectively demonstrated the power of the API underneath.</p>
+<p>I assume that App.net chose not to do this so they wouldn’t compete with developers. After all, the service was founded on the idea that developers should be respected and given every opportunity to succeed. Finding the right balance to showcase the platform with first-party apps without stepping on developers is not always easy. We can argue about which missteps were the most costly, but the founders never wavered on their original principles and they promoted every app that launched on the platform. That means something.</p>
+<p>As for outrage not lasting long on the internet, Marco’s totally right. I just <a href="http://www.manton.org/2014/05/would_i_go_back.html">don’t forget that easily</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/05/the_risk_of.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>App.net niche</title>
+		<link>http://www.manton.org/2014/05/appnet_niche.html</link>
+		<comments>http://www.manton.org/2014/05/appnet_niche.html#comments</comments>
+		<pubDate>Wed, 07 May 2014 13:06:36 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[adn]]></category>
+		<category><![CDATA[glassboard]]></category>
+		<category><![CDATA[moonshot]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/05/appnet_niche.html</guid>
+		<description><![CDATA[Justin Williams covers several aspects of this week’s App.net news, comparing it to his own Glassboard service. On finding a profitable niche: “Finding an audience of people interested in your platform is challenging. This isn’t Field of Dreams where if you build it people will magically appear. Once you find that niche of users, you’ve [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Justin Williams covers several aspects of this week’s App.net news, <a href="http://carpeaqua.com/2014/05/06/lessons-from-app-net/">comparing it to his own Glassboard service</a>. On finding a profitable niche:</p>
+<blockquote><p>
+  “Finding an audience of people interested in your platform is challenging. This isn’t Field of Dreams where if you build it people will magically appear. Once you find that niche of users, you’ve got to ensure they’re also the type of folks that are willing to pay to support your platform. If they aren’t, you keep looking for a niche that will sustain your product.”
+</p></blockquote>
+<p>He also hits on the main thing that was probably holding App.net back: the stigma that it was just a Twitter clone. I’m more than a little disappointed that fellow developers didn’t get the power of the App.net API. Does <a href="http://sunlit.io/">Sunlit</a> <em>look</em> like a Twitter app? Give me a break. App.net is hands down the best API of its kind.</p>
+<p>So now we figure out what’s next. In the short term, not much changes. Tomorrow I’ll read my App.net timeline, make a few posts, reply and star as usual. Next week I’ll do the same. At WWDC I’ll use App.net messaging apps to coordinate meeting up with friends.</p>
+<p>There’s no shame in shooting for the stars and missing. I’m thankful that even as the founders tried a few things outside micro-blogging over the last year, they never compromised on their original mission for the service. They never sold out users or developers, and the servers hum along in testament to that fact, as if nothing that’s good will ever really change.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/05/appnet_niche.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Would I go back to Twitter?</title>
+		<link>http://www.manton.org/2014/05/would_i_go.html</link>
+		<comments>http://www.manton.org/2014/05/would_i_go.html#comments</comments>
+		<pubDate>Tue, 06 May 2014 13:43:57 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[adn]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/05/would_i_go.html</guid>
+		<description><![CDATA[Before some of the recent discussion about the future of App.net, Colin Pekruhn asked a question, directed at Ben Brooks and me, about whether we’d go back to Twitter if App.net failed. My answer (and his) was a very clear “no”. Here’s what I said: “I’m very stubborn and not going to reverse my decision [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Before <a href="http://www.revolution60.com/page2/index.php?id=84850310691">some of the recent discussion</a> about the future of App.net, <a href="https://alpha.app.net/walruscp/post/25988120">Colin Pekruhn asked a question</a>, directed at Ben Brooks and me, about whether we’d go back to Twitter if App.net failed. My answer (and his) was a very clear “no”. Here’s what I said:</p>
+<blockquote><p>
+  “I’m very stubborn and not going to reverse my decision on Twitter. If ADN fails I’ll blog more.”
+</p></blockquote>
+<p>The stubbornness deserves a little more explanation. Because programmers are pretty opinionated folks. When we feel strongly about an approach — to languages, to UI design, to backend architectures, anything — we’ll plant our feet in the ground and argue with coworkers about the right way to do things. And it’s easy to dig in, start coming up with more justifications for a choice before taking a second look and seeing if it’s actually the right thing, or whether we’re just fighting for something because we want to get our way.</p>
+<p>I put a lot of thought into no longer posting to Twitter. I often bring up my low Twitter user ID (#897) because I think it helps underscore that I’ve been on the service a long time. I get the history of it. I was there when it was all done over SMS with my dumb Nokia phone. I had fun with early experiments on the platform, like my sadly abandoned <a href="http://story140.com/">@story140 account</a>, my <a href="http://wiitransfer.com/codes/">@wii codes service</a>, the <a href="http://tweetmarker.net/">Tweet Marker API</a>, and of course the two products I continue to support to this day: <a href="http://www.riverfold.com/software/tweetlibrary/">Tweet Library</a> and <a href="http://watermark.io/">Watermark</a>.</p>
+<p>I stopped posting because at some point the anti-developer attitude at Twitter became too much. The limits on user auth tokens, which have already killed a few popular third-party Twitter apps; the problems with shutting down IFTTT recipes; the guidelines that restricted how you could use your own tweets. This is all fairly well documented and I’ve written about it before. I leave my personal account silent as a small protest.</p>
+<p>I knew leaving would be difficult, so I set up a series of posts to discourage my future self from ever joining again. <a href="http://watermark.io/collections/manton/myfinaltweets">My final tweets</a> were timed to go out on the anniversary of Steve Jobs’s death. They’re a collected moment, a tribute to both Steve and how great Twitter could be. I like that they’re forever pinned at the top of my profile page.</p>
+<p>The best programmers aren’t so proud that they won’t admit when they’re wrong. There’s a time to fight for what you believe in — your coworkers don’t agree with how you want to build that feature, but maybe they just don’t see it clearly yet — and there is a time to admit you made the wrong call and move on. Saying “I was wrong, let’s do it your way” is a powerful statement and moves a project forward. I never want to ignore Twitter just because I’m so stubborn I refuse to admit I overreacted and that it’s time to crawl back to Twitter and accept defeat.</p>
+<p>But here’s the thing: <em>I wasn’t wrong</em>. Every reason I gave above for leaving Twitter is still valid. I have friends at Twitter doing great work — it’s truly incredible what they’ve built, from scaling the backend to how the iOS app works — but Twitter is too big and successful to change now. We can’t rewind the clock to when Twitter was a tiny company that cared more about developers than advertisers, so I won’t be back.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/05/would_i_go.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.627 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:11:55 -->

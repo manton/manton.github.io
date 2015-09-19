@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; ipad</title>
+	<atom:link href="http://www.manton.org/tag/ipad/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Tweet Library 2.3</title>
+		<link>http://www.manton.org/2013/05/tweet_library_23.html</link>
+		<comments>http://www.manton.org/2013/05/tweet_library_23.html#comments</comments>
+		<pubDate>Thu, 09 May 2013 13:19:04 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[ipad]]></category>
+		<category><![CDATA[tweetlibrary]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/05/tweet_library_23.html</guid>
+		<description><![CDATA[Tweet Library 2.3 shipped last week, and I just submitted an update last night to fix a few crashing bugs and other minor problems with the release. I’m pretty happy with this version. In addition to finally switching to Twitter’s v1.1 API — easier said than done; I used several API calls that were changed or [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.riverfold.com/software/tweetlibrary/">Tweet Library</a> 2.3 shipped last week, and I just submitted an update last night to fix a few crashing bugs and other minor problems with the release. I’m pretty happy with this version. In addition to finally switching to Twitter’s v1.1 API — easier said than done; I used several API calls that were changed or completely went away — this release added better gestures, a month filter to the iPhone version, and an updated UI with a lighter, clearer design.</p>
+<p>You can see the <a href="http://www.riverfold.com/software/tweetlibrary/releasenotes/">full changes in the release notes</a>, or listen to <a href="http://www.coreint.org/2013/05/episode-88-bundling-a-thousand-features-into-it/">episode 88 of Core Intuition</a>. Daniel and I discussed the expedited review process and new versions. Tweet Library 2.3 is available <a href="http://itunes.apple.com/app/tweet-library/id365768793?mt=8">in the App Store for $7.99</a> as a universal app for both iPhone and iPad.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/05/tweet_library_23.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>iPad 1 release day</title>
+		<link>http://www.manton.org/2013/04/ipad_1_release.html</link>
+		<comments>http://www.manton.org/2013/04/ipad_1_release.html#comments</comments>
+		<pubDate>Thu, 04 Apr 2013 04:37:29 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[applestore]]></category>
+		<category><![CDATA[apps]]></category>
+		<category><![CDATA[ipad]]></category>
+		<category><![CDATA[lines]]></category>
+		<category><![CDATA[shawnblanc]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/04/ipad_1_release.html</guid>
+		<description><![CDATA[Shawn Blanc looks back to a post 3 years ago about his experience buying and using the first iPad. From waiting in line: “7:32 am: A young guy and his mom get in line behind us. The guy is wearing a ‘WWSJD’ t-shirt. I like to think that I’m less nerdy than he is, but [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Shawn Blanc looks back to <a href="http://shawnblanc.net/2010/04/diary-of-an-ipad-owner/">a post 3 years ago</a> about his experience buying and using the first iPad. From waiting in line:</p>
+<blockquote><p>
+  “<strong>7:32 am:</strong> A young guy and his mom get in line behind us. The guy is wearing a ‘WWSJD’ t-shirt. I like to think that I’m less nerdy than he is, but the fact is I am <em>ahead of him</em> in line.”
+</p></blockquote>
+<p>I wish I had written so many detailed notes. I did, however, find an old draft blog post with my current list of apps from back then. Here’s what I was running on my first iPad in early April, 2010:</p>
+<ul>
+<li>Twitterrific.</p>
+</li>
+<li>
+<p>NetNewsWire.</p>
+</li>
+<li>
+<p>Instapaper.</p>
+</li>
+<li>
+<p>Freeform.</p>
+</li>
+<li>
+<p>Sketchbook Pro.</p>
+</li>
+<li>
+<p>Pages.</p>
+</li>
+<li>
+<p>OmniGraffle.</p>
+</li>
+</ul>
+<p>And free apps:</p>
+<ul>
+<li>AIM.</p>
+</li>
+<li>
+<p>iBooks.</p>
+</li>
+<li>
+<p>Kindle.</p>
+</li>
+<li>
+<p>Netflix.</p>
+</li>
+<li>
+<p>New York Times Editors’ Choice.</p>
+</li>
+</ul>
+<p>And a couple games, like Flight Control HD.</p>
+<p>Of those paid apps, I’m only still routinely using Instapaper today, and — even though I’m not on Twitter — occasionally Twitterrific. NetNewsWire for iPad in particular held up very well; I used it every day for probably 2 years <em>after</em> it had stopped being updated.</p>
+<p>Most of the apps that were released for the iPad’s debut were more mature than apps from the iPhone OS 2.0 release and first App Store. By the time the iPad came along, developers seemed to have gotten the hang of the platform.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/04/ipad_1_release.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Three ADN clients for iPhone</title>
+		<link>http://www.manton.org/2013/03/three_adn_clients.html</link>
+		<comments>http://www.manton.org/2013/03/three_adn_clients.html#comments</comments>
+		<pubDate>Mon, 25 Mar 2013 18:32:26 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[adn]]></category>
+		<category><![CDATA[ipad]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[review]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/03/three_adn_clients.html</guid>
+		<description><![CDATA[Lots of new people are joining App.net. If you’re one of them, welcome! In this post I’m going to briefly review 3 of the most popular iPhone clients: Netbot, Felix, and Riposte. You can’t really go wrong with any of these three apps. And if you’re looking for a Mac client, my current favorite is [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Lots of new people are joining App.net. If you’re one of them, welcome! In this post I’m going to briefly review 3 of the most popular iPhone clients: <a href="http://tapbots.com/software/netbot/">Netbot</a>, <a href="http://tigerbears.com/felix/">Felix</a>, and <a href="http://riposteapp.net/">Riposte</a>. You can’t really go wrong with any of these three apps. And if you’re looking for a Mac client, my current favorite is <a href="http://kiwi-app.net/">Kiwi</a>.</p>
+<p><img src="http://www.manton.org/images/2013/adn_netbot.png" alt="Netbot" border="0" width="180" height="259" style="float:right; padding: 5px;" /></p>
+<p><strong>Netbot</strong> is nearly identical to Tweetbot. It shares most of the same source and all of the same UI design. That common heritage is great because it’s familiar to fans of Tweetbot, and it allowed Tapbots to launch onto App.net in a big way, leapfrogging all other clients that were under development at that time.</p>
+<p>But the familiar design is a double-edged sword. Not just because the App.net API will evolve and diverge from the Twitter API, but because if you switch between both Tweetbot and Netbot often, you may need to be careful that you remember which app you’re posting from. This was a problem for me since I no longer post to Twitter, and the last thing I wanted to do was accidentally leave a new post there after a 5-month absence.</p>
+<p>All the usual features you’d expect are present in Netbot: timeline, mentions, private messages, multiple accounts, and sync with Stream Marker. It even has an iPad version, which you may want to pick up even if you chose a different primary app on the iPhone.</p>
+<p>Netbot also has one big feature that most App.net clients don’t have: post search. This is not part of the core App.net API. Tapbots rolled their own search server so that they could offer this feature inside the app.</p>
+<p><em>Sidenote plug: if you want search for all the posts from anyone you’re following, and your own posts, consider my web app <a href="http://watermark.io/">Watermark</a>. You can subscribe on the web or <a href="https://itunes.apple.com/app/watermark-mobile/id566886320?ls=1&amp;mt=8">in the iPhone version</a>.</em></p>
+<p><img src="http://www.manton.org/images/2013/adn_felix.png" alt="Felix" border="0" width="180" height="259" style="float:right; padding: 5px;" /></p>
+<p><strong>Felix</strong> is possibly the most mature and actively maintained of the App.net-exclusive apps. You can tell <a href="https://alpha.app.net/billkunz">from his App.net posts</a> that the developer is passionate about App.net and determined to keep making his app better.</p>
+<p>The current version supports all the basic features as well as push notifications, narrow inline image previews that take the full width of the screen, iCloud sync for drafts, starred conversations, and a brand new feature in version 1.5: collapsing posts you don’t want to see, similar to Twitterrific 5’s muffling. The only omission is that it does not yet support multiple accounts.</p>
+<p>Felix is also unique in that it is the only one of these 3 apps that is not free. The other apps are counting on the <a href="http://blog.app.net/2012/09/27/announcing-the-app-net-developer-incentive-program/">Developer Incentive Program</a> to send them a check each month instead of relying on traditional sales. Felix is a good value at $5, though, and the price shouldn’t stop you from trying it out, especially as it is a very small amount compared to the paid App.net subscription itself.</p>
+<p>There are a number of gestures in Felix. One interesting shortcut — which may also be familiar to users of Twitterrific 5 — is swipe right to quickly start a reply. I personally found that this breaks the illusion of gestures as direct manipulation, though. Since swiping to the left pulls forward the conversation, doing the reverse swipe should go back to the timeline. (<strong>Update:</strong> There’s actually a setting in Felix to switch this behavior.)</p>
+<p>Felix also added a clever trick in its post composition window. You can swipe the text view to move the selection cursor one character over, or use two fingers to swipe across an entire word at a time. This saves a lot of time tapping-and-holding and fiddling with the magnifying glass. Felix is packed with little details and shortcuts like this.</p>
+<p><img src="http://www.manton.org/images/2013/adn_riposte.png" alt="Riposte" border="0" width="180" height="259" style="float:right; padding: 5px;" /></p>
+<p><strong>Riposte</strong> is beautifully done, with a clear design and a simple left/right gesture system to navigate through anything in the app. By default, there is no toolbar or tabs; everything is full-screen. Following Netbot’s lead, the developers of Riposte have decided to make their app free, and they have <a href="http://riposteapp.net/why-were-free.html">written up some thoughts on why</a>.</p>
+<p>Multiple accounts are handled well and it’s easy to switch between them. Like Felix and Netbot, push notifications are supported. Riposte uses large square inline images. It’s got a great interactions view that shows users who have recently followed you or starred your posts.</p>
+<p>Riposte mirrors Felix’s compose text view gestures, and Riposte was the first to introduce 2-finger swipes in that text view. I love that both apps now support these gestures about equally, and hope to see many more apps steal this feature soon.</p>
+<p>Since it doesn’t have tabs, switching between timeline, mentions, global stream, and other views is done through a slide-out panel, <a href="http://kenyarmosh.com/ios-pattern-slide-out-navigation/">popularized in early apps</a> like Facebook, Path, and Sparrow, and now very common everywhere, including my own Twitter app <a href="http://www.riverfold.com/software/tweetlibrary/">Tweet Library</a>. It’s a swipe and a tap instead of the single tap of Netbot or Felix, but it is space-efficient and fits the flow of gestures in Riposte.</p>
+<p>While Riposte holds its own against the competition, I think it will be chosen most not for its features but for its design. The striking full-screen look and consistent, discoverable gestures make this app feel great. It also has probably the most readable conversation view of any app I’ve used, where the focused post appears immediately and then is surrounded with the full conversation using smaller text. That design is even maintained in HTML email when sending a conversation from the app.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/03/three_adn_clients.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>iPad Mini</title>
+		<link>http://www.manton.org/2012/11/ipad_mini.html</link>
+		<comments>http://www.manton.org/2012/11/ipad_mini.html#comments</comments>
+		<pubDate>Fri, 09 Nov 2012 16:43:37 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[daringfireball]]></category>
+		<category><![CDATA[ipad]]></category>
+		<category><![CDATA[mini]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2012/11/ipad_mini.html</guid>
+		<description><![CDATA[From John Gruber’s iPad Mini review: “If the Mini had a retina display, I’d switch from the iPad 3 in a heartbeat. As it stands, I’m going to switch anyway. Going non-retina is a particularly bitter pill for me, but I like the iPad Mini’s size and weight so much that I’m going to swallow [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>From <a href="http://daringfireball.net/2012/10/ipad_mini">John Gruber’s iPad Mini review</a>:</p>
+<blockquote><p>
+  “If the Mini had a retina display, I’d switch from the iPad 3 in a heartbeat. As it stands, I’m going to switch anyway. Going non-retina is a particularly bitter pill for me, but I like the iPad Mini’s size and weight so much that I’m going to swallow it.”
+</p></blockquote>
+<p>As I said on <a href="http://coreint.org/64">the last Core Intuition</a>, it’s even more of an easy switch for me since I never upgraded to the iPad 3. The iPad Mini has essentially been my only iPad for the last week. I’m using it more, and taking it places that I would’ve have bothered with before. My new favorite Apple device.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2012/11/ipad_mini.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>iPad Pro is the new iPod Photo</title>
+		<link>http://www.manton.org/2011/07/ipad_pro_is.html</link>
+		<comments>http://www.manton.org/2011/07/ipad_pro_is.html#comments</comments>
+		<pubDate>Tue, 12 Jul 2011 23:00:42 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[ipad]]></category>
+		<category><![CDATA[ipod]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2011/07/ipad_pro_is.html</guid>
+		<description><![CDATA[I&#8217;m fascinated with the iPad &#8220;3&#8221; rumors because on the surface they make so little sense. Apple just shipped the iPad 2, no competitors can match it, and demand is strong. Why mess with a good thing so soon? But it almost fits when you give it a name like &#8220;Pro&#8221; (or iPad Retina, or [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;m fascinated with the iPad &#8220;3&#8221; rumors because on the surface they make so little sense. Apple just shipped the iPad 2, no competitors can match it, and demand is strong. Why mess with a good thing so soon?</p>
+<p>But it almost fits when <a href="http://daringfireball.net/linked/2011/07/11/ipad-pro">you give it a name like &#8220;Pro&#8221;</a> (or iPad Retina, or whatever). This isn&#8217;t a replacement for the current iPad; it&#8217;s another layer to the product lineup. And like the awkwardly-named iPod Photo from 2004, I bet the iPad Pro is meant to be temporary. It&#8217;s a way to sell a high-end, over-priced and over-pixeled iPad before the technology is cheap enough for the masses. A year or two from now, the Retina Display will be available in all iPads, and the &#8220;Pro&#8221; name will fade away, just like iPod Photo did when all iPods got a color screen.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2011/07/ipad_pro_is.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Daily</title>
+		<link>http://www.manton.org/2011/05/the_daily.html</link>
+		<comments>http://www.manton.org/2011/05/the_daily.html#comments</comments>
+		<pubDate>Tue, 24 May 2011 21:54:47 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[ebooks]]></category>
+		<category><![CDATA[ipad]]></category>
+		<category><![CDATA[newspapers]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2011/05/the_daily.html</guid>
+		<description><![CDATA[&#8220;David Barnard chimes in&#8221;:http://davidbarnard.com/post/5649151852/orchestrating-magic on The Daily: &#8220;The carousel is a fun bit of UI (at least in theory, it&#8217;s still a bit laggy and jittery for my taste), but there&#8217;s just no way to quickly deliver enough content to make the carousel usable. The front page and table of contents, on the other hand, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>&#8220;David Barnard chimes in&#8221;:http://davidbarnard.com/post/5649151852/orchestrating-magic on The Daily:</p>
+<blockquote><p>&#8220;The carousel is a fun bit of UI (at least in theory, it&#8217;s still a bit laggy and jittery for my taste), but there&#8217;s just no way to quickly deliver enough content to make the carousel usable. The front page and table of contents, on the other hand, could likely be fully delivered in the 4-5 seconds from the launch of the app to the end of the launch animation. Sending users directly to the front page (or potentially a redesigned table of contents, but I wont get into that) will make it feel as though the app has been magically filled with content.&#8221;</p></blockquote>
+<p>David makes some great points. Put another way, if some of their design decisions were too ambitious for their technical plumbing to keep up with, they should update the design and optimize it for speed. With such a mainstream app, though, you can&#8217;t really win. I&#8217;m sure if it was only fast and not fancy, it would have been criticized as too bland.</p>
+<p>The initial criticism of &#8220;The Daily&#8221;:http://www.thedaily.com/ always seemed overblown to me. It&#8217;s not perfect, but they got some of the difficult things right: navigation that makes sense, original content, good layout, clear subscription model.</p>
+<p>Off and on for the first few weeks, I would read several articles each day in The Daily. There were a couple crashes and glitches, but nothing that made the app unusable. If no one else had been complaining, I&#8217;m not sure I would have noticed anything so wrong it was worth mentioning.</p>
+<p>They can make it faster and polish up the rough edges over a few subsequent bug fix releases. And maybe enough of the fundamentals are right that they can get pretty far even without the design changes David suggests.</p>
+<p>Now that I&#8217;ve &#8220;written a few e-book apps&#8221;:http://www.vitalsource.com/, I can say with certainty that getting the basics right is more challenging than it looks. Other traditional companies moving their content to the iPad have launched much farther off-course than The Daily.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2011/05/the_daily.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>First drafts on iPad</title>
+		<link>http://www.manton.org/2011/04/first_drafts_on.html</link>
+		<comments>http://www.manton.org/2011/04/first_drafts_on.html#comments</comments>
+		<pubDate>Wed, 06 Apr 2011 02:08:24 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[blogs]]></category>
+		<category><![CDATA[ipad]]></category>
+		<category><![CDATA[writing]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2011/04/first_drafts_on.html</guid>
+		<description><![CDATA[&#8220;Iain Broome&#8221;:http://writeforyourlife.net/writing-ipad-review on iPad writing, via &#8220;John Chandler&#8221;:http://byjohnchandler.com/: &#8220;I can, and do, write regularly with my iPad. But, to be perfectly honest, I rarely use it to edit, because I find it kind of clumsy to move the cursor around the screen with my finger. However, the iPad is a marvellous first draft machine.&#8221; Most [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>&#8220;Iain Broome&#8221;:http://writeforyourlife.net/writing-ipad-review on iPad writing, via &#8220;John Chandler&#8221;:http://byjohnchandler.com/:</p>
+<blockquote><p>&#8220;I can, and do, write regularly with my iPad. But, to be perfectly honest, I rarely use it to edit, because I find it kind of clumsy to move the cursor around the screen with my finger. However, the iPad is a marvellous first draft machine.&#8221;</p></blockquote>
+<p>Most of my blog posts start life on the iPad too. I write them in Simplenote, sync with the Mac to finish the post if it needs editing, then copy to MarsEdit to publish. It&#8217;s not completely smooth, but it&#8217;s a workflow that wasn&#8217;t even possible a year ago.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2011/04/first_drafts_on.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>iPad 2 (and tweets)</title>
+		<link>http://www.manton.org/2011/03/ipad_2_and.html</link>
+		<comments>http://www.manton.org/2011/03/ipad_2_and.html#comments</comments>
+		<pubDate>Fri, 04 Mar 2011 14:06:23 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[ipad]]></category>
+		<category><![CDATA[tweetlibrary]]></category>
+		<category><![CDATA[tweets]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2011/03/ipad_2_and.html</guid>
+		<description><![CDATA[I couldn&#8217;t be more excited about the iPad 2. Yes, &#8220;most of it was expected&#8221;:http://twitter.com/manton/status/42597189645639680, but faster and more memory is exactly what the iPad needs. I&#8217;ll be getting it on day 1 and can&#8217;t wait to give Tweet Library a try on the new hardware. During the announcement I collected 70 tweets that I [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I couldn&#8217;t be more excited about the iPad 2. Yes, &#8220;most of it was expected&#8221;:http://twitter.com/manton/status/42597189645639680, but faster and more memory is exactly what the iPad needs. I&#8217;ll be getting it on day 1 and can&#8217;t wait to give Tweet Library a try on the new hardware.</p>
+<p>During the announcement I collected 70 tweets that I thought captured the event. You can &#8220;view them on tweetlibrary.com&#8221;:http://tweetlibrary.com/manton/ipad2event.</p>
+<p>Speaking of Tweet Library, Apple just approved version 1.2.2. It fixes a handful of bugs and adds a few new things, like block and report spam, for those of you using it as your main Twitter client. Check out the &#8220;full release notes&#8221;:http://www.riverfold.com/software/tweetlibrary/releasenotes/ or view it &#8220;in the App Store&#8221;:http://itunes.apple.com/us/app/tweet-library/id365768793?mt=8.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2011/03/ipad_2_and.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>30% of the future</title>
+		<link>http://www.manton.org/2011/02/30_of_the.html</link>
+		<comments>http://www.manton.org/2011/02/30_of_the.html#comments</comments>
+		<pubDate>Wed, 23 Feb 2011 01:05:40 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[ipad]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2011/02/30_of_the.html</guid>
+		<description><![CDATA[I believe the iPad is the future of mainstream computing, not just of mobile devices. That&#8217;s why I picked it as the first platform for Tweet Library. But forcing developers to use in-app purchase shows that Apple&#8217;s version of success for the iPad looks much different than mine. Apple&#8217;s tight control over iOS has always [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I believe the iPad is the future of mainstream computing, not just of mobile devices. That&#8217;s why I picked it as the first platform for Tweet Library. But forcing developers to use in-app purchase shows that Apple&#8217;s version of success for the iPad looks much different than mine.</p>
+<p>Apple&#8217;s tight control over iOS has always been troubling. If there&#8217;s no way to install an app on the device without Apple&#8217;s approval, then Apple can make or break any business that builds for the platform. It&#8217;s an added risk for the thousands of tiny development shops for which the iPhone and iPad are otherwise perfect.</p>
+<p>There was such huge growth in the development community because of iOS that I&#8217;m not sure anyone was paying attention to where we&#8217;d end up. We saw a new phone instead of the future of computing. We saw the gold rush but not the damage, so we let it happen. We let it happen by not sending Apple a clear message: total control over distribution is bad for developers and bad for users.</p>
+<p>And now we&#8217;re letting Apple take 30% from every company that wants an iOS app to complement their business, whether it has anything to do with software development or not.</p>
+<p>From &#8220;Matt Drance&#8221;:http://www.appleoutsider.com/2011/02/22/omgiapbbq/:</p>
+<blockquote><p>&#8220;Whatever the fine print says, Apple is no longer letting developers do things it had been letting them do &mdash; and build businesses on &mdash; for almost two years, and many developers are quite understandably upset about that.&#8221;</p></blockquote>
+<p>And &#8220;Marco Arment&#8221;:http://www.marco.org/3437484678:</p>
+<blockquote><p>&#8220;A broad, vague, inconsistently applied, greedy, and unjustifiable rule doesn&#8217;t make developers want to embrace the platform.&#8221;</p></blockquote>
+<p>I hope we&#8217;re wrong about the worst-case interpretation &mdash; I like &#8220;this Steve Jobs email&#8221;:http://www.macrumors.com/2011/02/21/steve-jobs-email-suggests-in-app-subscriptions-dont-apply-to-software-as-a-service/ much more than &#8220;the reality of Readability&#8217;s rejection&#8221;:http://blog.readability.com/2011/02/an-open-letter-to-apple/ &mdash; but because Apple fails so spectacularly at communication we won&#8217;t know for sure until more rejections come in.</p>
+<p>I&#8217;m not comfortable with a future in which 30 cents on the dollar goes to a single company, no matter whether it&#8217;s from app downloads (where Apple offers hosting and discovery) or content sales and web service subscriptions (where Apple offers little). If the iPad grows like many of us expect it to, siphoning a third of the cash flow around <em>everyday computers</em> will create a completely different economic environment than exists today. It&#8217;s unprecedented.</p>
+<p>And it would ruin Apple. Not the company&#8217;s finances, but its focus. John Gruber &#8220;wonders what he&#8217;s missing&#8221;:http://daringfireball.net/linked/2011/02/21/readability, and this is it: Apple is embracing a model that is fine for Readability but runs counter to Apple&#8217;s core business. The iTunes Music Store wasn&#8217;t a business in its own right; it helped sell more iPods. The App Store shouldn&#8217;t be a huge revenue stream; it makes the iPhone and iPad better.</p>
+<p>Apple&#8217;s strength has always been selling a great product to end users &mdash; &#8220;the rest of us&#8221;. The new Apple has fallen into the trap of thinking they should also be an advertising company and an overpriced payment processor. It&#8217;s a slippery slope from here to becoming just another mega-corp that has their hands in everything that can make money instead of &#8220;standing for something&#8221;:http://www.youtube.com/watch?v=4oAB83Z1ydE.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2011/02/30_of_the.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Tweet Library 1.0</title>
+		<link>http://www.manton.org/2010/10/tweet_library_10.html</link>
+		<comments>http://www.manton.org/2010/10/tweet_library_10.html#comments</comments>
+		<pubDate>Sat, 09 Oct 2010 14:47:52 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[ipad]]></category>
+		<category><![CDATA[tweetlibrary]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2010/10/tweet_library_10.html</guid>
+		<description><![CDATA[If you purchased, tweeted, blogged about, rated, or mentioned Tweet Library thank you. I&#8217;ve been very happy to see how well it is being received. I built this app because I wanted to do more with Twitter, but I didn&#8217;t really know until it was released if anyone else would care. The truth is, I [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>If you purchased, tweeted, blogged about, rated, or mentioned <a href="http://www.riverfold.com/software/tweetlibrary/">Tweet Library</a> thank you. I&#8217;ve been very happy to see how well it is being received. I built this app because I wanted to do more with Twitter, but I didn&#8217;t really know until it was released if anyone else would care.</p>
+<p>The truth is, I released it a tiny bit too early &mdash; there are a few annoying bugs that I&#8217;ll need to fix soon for 1.0.1 &mdash; but it was a long development cycle, and faced with getting burned out on a project the only thing I know how to do is ship it. Then I can use the reaction from real customers to tell me if I&#8217;m on the right track and where to go next.</p>
+<p>I&#8217;ve already blogged about the pricing and <a href="http://www.manton.org/2010/09/next_generation.html">viability of third-party Twitter apps</a>, though I hadn&#8217;t officially announced the app yet:</p>
+<blockquote><p>&#8220;When Twitter for iPad shipped it jumped to the number 1 spot in free apps, but maybe you don&#8217;t have to compete directly with that. Maybe if you hold your ground somewhere in the top paid list, that&#8217;s enough to find an audience.&#8221;</p></blockquote>
+<p>Tweet Library has only been out for 3 full days, and I don&#8217;t want to jinx it, but so far this theory is holding. The app went to #2 for top grossing iPad apps in social networking in the first day. I didn&#8217;t expect that, but at $10 I can see how it might happen. Then it also climbed to #2 in top paid iPad apps in the same category, and stayed there for a couple days before dropping to #3 as I write this. The only other Twitter apps in any of the top 10 lists for iPad are Twitter&#8217;s official app and TweetDeck, both free.</p>
+<p>Let me repeat that because it kind of blows my mind a little: Tweet Library has been the best-selling iPad Twitter app since it was released.</p>
+<p>How did I successfully ship an app in a crowded market at literally 2x the price of any other app? Two things:</p>
+<p><em>Refuse to compete on price.</em> I felt so strongly about this that I was willing to launch and fail. If the App Store couldn&#8217;t support $10 Twitter apps, then I would bow out. I saw in <a href="http://www.tuaw.com/2010/10/06/tweet-library-for-ipad-makes-twitter-useful/">a comment on TUAW</a> that someone would wait until the price lowered, but I hope to avoid the pricing gimmicks common to the App Store. There&#8217;s no intro price for Tweet Library, and the price is not going to change. I believe consistency is the best long-term plan for app pricing.</p>
+<p><em>Market the app as something new first and yet another Twitter app second.</em> I believe the key to selling Tweet Library is to focus the marketing around what makes it special: archiving tweets, curating tweets, filtering tweets. Yes, you can also post to Twitter and see mentions or reply to DMs, but that is just the price to get in the door. Tweet Library doesn&#8217;t do those common tasks perfectly yet, but customers seem willing to cut me some slack because of all the other unique features that the app offers.</p>
+<p>So, up next I&#8217;m going to fix bugs, and I&#8217;m going to add features, and I&#8217;m going to listen to customers. I&#8217;m sure it will soon drop out of the top 10 and other Twitter apps will take its place, but I feel like the launch was strong enough to prove that I&#8217;ve got something. I intend to carve out a little niche in the Twitter market and execute on it.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2010/10/tweet_library_10.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.427 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:16:22 -->

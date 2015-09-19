@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; top200</title>
+	<atom:link href="http://www.manton.org/tag/top200/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Ending the App Store top 200</title>
+		<link>http://www.manton.org/2014/02/ending_the_app.html</link>
+		<comments>http://www.manton.org/2014/02/ending_the_app.html#comments</comments>
+		<pubDate>Fri, 07 Feb 2014 19:40:44 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[beats]]></category>
+		<category><![CDATA[music]]></category>
+		<category><![CDATA[top200]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/02/ending_the_app.html</guid>
+		<description><![CDATA[I was chatting with some developers this week, complaining about this post on spamming the App Store and wondering if we’d ever have a better App Store, when I finally realized how we get there. The block for me had always been the top 200 lists. We all know that you can game them, buy [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I was chatting with some developers this week, complaining about <a href="http://www.bluecloudsolutions.com/blog/money-apps-turn-1k-200k-portfolio/">this post on spamming the App Store</a> and wondering if we’d ever have a better App Store, when I finally realized how we get there. The block for me had always been the top 200 lists. We all know that you can game them, buy your way in, and apps that make it in even on their own merits have a huge advantage over everything else, sometimes for months. But I couldn’t conceive of how you could actually <em>get rid of them</em> and if it would make the store better or worse.</p>
+<p>The answer is in Beats Music. They have no overall top 200 list! Instead, they have a bunch of people — musicians and writers who deeply care about music — curating playlists. The top 25 playlists in a genre are so buried in the app that I had to search them out just to write this blog post, because they seem to carry no more weight than any other playlist. Much more common are playlists like “our top 20 of 2013”. That’s not a best-selling list; it’s based on real people’s favorites.</p>
+<p>There are literally hundreds or maybe thousands of other playlists. Intro playlists for a band, related artists that were influential to a singer you like, playlists for a mood or activity, and more. This extra manual step makes it much easier for an algorithm to surface great music: just look for playlists that contain songs you already like, and chances are good that you’ll discover something new.</p>
+<p><a href="http://www.manton.org/2014/02/we_love_music.html">I wrote about Beats Music earlier</a>, how it underscored to me that Apple needs to find the next product category to fall in love with, just like they used to feel about music. Of course we know that Apple <em>already loves apps</em>. Show that by doubling down on featured apps, staff picks, and app playlists.</p>
+<p>How would this fix the junk problem in the App Store? Simple. No one in their right mind would ever feature one of these ad-filled, “re-skinned” cheap apps. Great recommendations mean less reliance on search, making scam apps more difficult to find by accident. (This focus is so complete in Beats Music, for the first couple days of using it I didn’t even realize you could search for a specific song or album.)</p>
+<p>This idea isn’t new. Here’s <a href="http://blog.jaredsinclair.com/post/70498658794/solving-the-app-store-discovery-problem-with-app">Jared Sinclair on app playlists</a>, with the twist that they’re based on apps you have installed and use:</p>
+<blockquote><p>
+  “App playlists should be rigorously simple: just a list of apps. Not all the apps ever downloaded, but the apps that a given user currently has installed on their device. The assumption is that if somebody has an app on their device, they probably like it.”
+</p></blockquote>
+<p>That would be great. But seeing Beats Music ship with almost no traditional music charts at all — in an industry that has embraced the top 40 for decades — tells me that the Beats approach would also work for apps. I think you need both an “installed” playlist and many more fully curated playlists to actually replace the top 200 in the App Store.</p>
+<p>Apple will need to ramp up their staff to do this, but if a new company like Beats can do it, surely a company as huge as Apple can also try. And they’ll have help from app fans everywhere. Writers are already doing this: see Federico Viticci’s <a href="http://www.macstories.net/roundups/my-must-have-ipad-apps-2013-edition/">must-have iPad apps of 2013</a> (could easily be an app playlist) or all the <a href="http://thesweetsetup.com/apps/best-photo-editing-app-iphone/">photo apps mentioned on The Sweet Setup</a> (favorite photo apps playlist) or TechHive’s <a href="http://www.techhive.com/article/2091807/use-these-budgeting-apps-for-more-money-fewer-problems.html">5 apps for budgeting</a> (my playlist would’ve added <a href="http://nothirst.com/moneywell/ipad/">MoneyWell</a>).</p>
+<p>Apple shouldn’t wait until Thursday to feature a few great apps. Feature apps <em>all the time</em>. They’re on the right track with some of the “best of” sections in the store, and with the “Near Me” feature. Go a little further and it will make all the difference to bubble up great apps, and let the junk in the App Store fade away. For the first time I can imagine the store without a top 200 at all, and it looks amazing.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/02/ending_the_app.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.170 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:15:00 -->

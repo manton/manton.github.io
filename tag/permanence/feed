@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; permanence</title>
+	<atom:link href="http://www.manton.org/tag/permanence/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Evan Williams on indie web sites</title>
+		<link>http://www.manton.org/2015/09/evan-williams-on-indie-web-sites.html</link>
+		<comments>http://www.manton.org/2015/09/evan-williams-on-indie-web-sites.html#comments</comments>
+		<pubDate>Wed, 16 Sep 2015 17:09:38 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[evan]]></category>
+		<category><![CDATA[medium]]></category>
+		<category><![CDATA[openweb]]></category>
+		<category><![CDATA[permanence]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3030</guid>
+		<description><![CDATA[From a rough transcript of an interview with Evan Williams: &#8220;The idea won’t be to start a website. That will be dead. The individual website won’t matter. The Internet is not going to be about billions of people going to millions of websites. It will be about getting it from centralized websites.&#8221; I&#8217;m concerned about [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.forbes.com/sites/roberthof/2015/09/09/mediums-evan-williams-to-publishers-your-website-is-toast/">From a rough transcript</a> of an interview with Evan Williams:</p>
+<blockquote><p>
+  &#8220;The idea won’t be to start a website. That will be dead. The individual website won’t matter. The Internet is not going to be about billions of people going to millions of websites. It will be about getting it from centralized websites.&#8221;
+</p></blockquote>
+<p>I&#8217;m concerned about this. Evan is reading into the current rise of centralized services and thinking it&#8217;s more than a short-term trend. But I believe strongly that the open web will bounce back.</p>
+<p>Putting all of our writing in one place like Medium goes against our hope of <a href="http://www.manton.org/2012/07/permanence.html">permanence</a>, because there&#8217;s no guarantee Medium will be around in 20 years, and so all of that content will disappear from the internet if it fails. At least with independent sites and custom domain names we have a chance. We have control, so it&#8217;s in our hands to succeed or fail, not left to the whims of Silicon Valley startups.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/09/evan-williams-on-indie-web-sites.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Web history and IPFS</title>
+		<link>http://www.manton.org/2015/09/web-history-and-ipfs.html</link>
+		<comments>http://www.manton.org/2015/09/web-history-and-ipfs.html#comments</comments>
+		<pubDate>Fri, 11 Sep 2015 16:51:32 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[archiving]]></category>
+		<category><![CDATA[ipfs]]></category>
+		<category><![CDATA[neocities]]></category>
+		<category><![CDATA[permanence]]></category>
+		<category><![CDATA[web]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3023</guid>
+		<description><![CDATA[Dave Winer on the continued disappearance of old web sites: &#8220;I&#8217;ve tried to sound the alarms. Every day we lose more of the history of the web. Every day is an opportunity to act to make sure we don&#8217;t lose more of it. And we should be putting systems into place to be more sure [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://scripting.com/2015/09/11/aGoodDayToThinkAboutWebHistory.html">Dave Winer</a> on the continued disappearance of old web sites:</p>
+<blockquote><p>
+  &#8220;I&#8217;ve tried to sound the alarms. Every day we lose more of the history of the web. Every day is an opportunity to act to make sure we don&#8217;t lose more of it. And we should be putting systems into place to be more sure we don&#8217;t lose future history.&#8221;
+</p></blockquote>
+<p>Earlier this week, <a href="http://stevenf.com/2015/09/09/http-is-obsolete-its-time-for-the-distributed-permanent-web/">Steven Frank pointed to</a> a new format and protocol called IPFS, which <a href="https://blog.neocities.org/its-time-for-the-permanent-web.html">Neocities is embracing</a>. Copies of your content would live in multiple nodes across the web instead of in a single, centralized location. From their blog post:</p>
+<blockquote><p>
+  &#8220;Distributing the web would make it less malleable by a small handful of powerful organizations, and that improves both our freedom and our independence. It also reduces the risk of the &#8216;one giant shutdown&#8217; that takes a massive amount of data with it.&#8221;
+</p></blockquote>
+<p>I took some time to read through what it can do, and I&#8217;d like to support it for the publishing platform that&#8217;s in my new microblogging project. I don&#8217;t know if it&#8217;s technically feasible yet, but I love that someone is trying to solve this. We just have to start somewhere.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/09/web-history-and-ipfs.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The legacy of software as art</title>
+		<link>http://www.manton.org/2013/04/the_legacy_of.html</link>
+		<comments>http://www.manton.org/2013/04/the_legacy_of.html#comments</comments>
+		<pubDate>Fri, 12 Apr 2013 13:19:42 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[apps]]></category>
+		<category><![CDATA[art]]></category>
+		<category><![CDATA[permanence]]></category>
+		<category><![CDATA[software]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/04/the_legacy_of.html</guid>
+		<description><![CDATA[This post from Andy Brice, via Simon Wolf on ADN, makes a nice complement to my recent post on software as an art form: “My grandfather worked most of his life as a stonemason. Much of that time was spent restoring the ruin of a Bishop’s palace in Sherborne. His work is still visible long [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://successfulsoftware.net/2013/03/24/ephemeral/">This post from Andy Brice</a>, via <a href="https://alpha.app.net/sw/post/4161167">Simon Wolf</a> on ADN, makes a nice complement to <a href="http://www.manton.org/2013/03/app_store_old_app.html">my recent post on software as an art form</a>:</p>
+<blockquote><p>
+  “My grandfather worked most of his life as a stonemason. Much of that time was spent restoring the ruin of a Bishop’s palace in Sherborne. His work is still visible long after his death. The work of the stonemasons who built the palace is still visible after more than 8 centuries. How long after you stop programming is any of your work going to last?”
+</p></blockquote>
+<p>Not long, of course, and I’m not sure this is solvable. The best we can do is make sure our software runs on systems as long as possible, and to preserve the rest in screenshots and videos.</p>
+<p>There are echoes of this theme in <a href="http://www.manton.org/2012/07/permanence.html">my post on permanence last year</a> too, but for writing:</p>
+<blockquote><p>
+  “Nothing lasts on the internet. I could write on my weblog for years and the next day get hit by a bus. The domain expires, the posts are lost, and it doesn’t matter if I had 10 readers or 10,000; it’s as if it never happened.”
+</p></blockquote>
+<p>As much as I dwell on preservation, my actual code and apps and the work I do in the software world might not be that significant. Instead, software can be the tool to make and preserve the important stuff: the writing, art, and discussions online that will matter later. Although I’d love to preserve the software as well, there is so much work to do just to keep the blogs and tweets. I’m content with making that easier.</p>
+<p>Dave Winer also gives a nod to what software as art means, in an otherwise unrelated <a href="http://threads2.scripting.com/2013/march/anOpenNoteToTechPressbloggers">post on the press for Little Outliner</a>, again framing it as what we’re building for other people to use:</p>
+<blockquote><p>
+  “I think software is like other creative arts — music, architecture, cooking, even design of everyday things like bikes and clothes. It takes a relentless focus on the act of using, and what kind of effect you want to create.”
+</p></blockquote>
+<p><a href="https://alpha.app.net/joefiorini/post/4165373">Joe Fiorini takes it even further</a>:</p>
+<blockquote><p>
+  “Perhaps our legacy is not in the software we build but the lives we touch, even in small ways, through the problems our programs solve.”
+</p></blockquote>
+<p>Like Andy Brice’s use of the word ephemeral above, Joe’s statement is difficult to measure. There’s no one thing we can point to years later. We just have to create something worthwhile and trust that it’s making someone’s life better, and that maybe that one customer will leave a mark on the world that survives long after our apps no longer run.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/04/the_legacy_of.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>When it disappears</title>
+		<link>http://www.manton.org/2012/08/when_it_disappears.html</link>
+		<comments>http://www.manton.org/2012/08/when_it_disappears.html#comments</comments>
+		<pubDate>Fri, 17 Aug 2012 19:09:12 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[backup]]></category>
+		<category><![CDATA[blogs]]></category>
+		<category><![CDATA[permanence]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2012/08/when_it_disappears.html</guid>
+		<description><![CDATA[Dave Winer reiterates that we must plan now to preserve our online writing: “There were far fewer bloggers. Maybe thousands. Today there are millions. None of them are thinking about what happens when Tumblr or Blogger or WordPress or Facebook disappear. But come on — we almost know for certain that one of them will. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Dave Winer reiterates that <a href="http://scripting.com/stories/2012/08/16/privatizingAndSocializing.html">we must plan now to preserve our online writing</a>:</p>
+<blockquote><p>
+  “There were far fewer bloggers. Maybe thousands. Today there are millions. None of them are thinking about what happens when Tumblr or Blogger or WordPress or Facebook disappear. But come on — we almost know for certain that one of them will. Given enough time they will all disappear.”
+</p></blockquote>
+<p>These companies are only as strong and permanent as their leaders, and leadership doesn’t last. If you think it can’t happen soon, look at the new Digg. Although <a href="http://digg.com/archive">they want to export the previous content</a>, currently nothing from Digg’s 7-year history is accessible. Not by accident, not by catastrophic failure, but because no one at the new company cared to keep it around.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2012/08/when_it_disappears.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.801 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 12:51:27 -->

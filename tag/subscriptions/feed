@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; subscriptions</title>
+	<atom:link href="http://www.manton.org/tag/subscriptions/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Two weeks notice: accounting</title>
+		<link>http://www.manton.org/2015/07/two-weeks-notice-accounting.html</link>
+		<comments>http://www.manton.org/2015/07/two-weeks-notice-accounting.html#comments</comments>
+		<pubDate>Wed, 29 Jul 2015 17:15:15 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[2weeks]]></category>
+		<category><![CDATA[banks]]></category>
+		<category><![CDATA[baremetrics]]></category>
+		<category><![CDATA[salary]]></category>
+		<category><![CDATA[subscriptions]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2910</guid>
+		<description><![CDATA[Bookkeepers, accountants, lawyers&#8230; I should get one of those at some point. Instead I seem to waste time moving from one accounting app to another — Xero, QuickBooks Online, Less Accounting — hoping that the next one will solve everything. Then I go back to tweaking monthly revenue summaries in Numbers because it turns out that [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Bookkeepers, accountants, lawyers&#8230; I should get one of those at some point. Instead I seem to waste time moving from one accounting app to another — Xero, QuickBooks Online, <a href="https://lessaccounting.com/">Less Accounting</a> — hoping that the next one will solve everything. Then I go back to tweaking monthly revenue summaries in Numbers because it turns out that spreadsheets are still pretty useful <a href="http://sixcolors.com/post/2015/07/numbered-days-freelance-accounting-with-apples-spreadsheet/">for this sort of thing</a>.</p>
+<p>This year I did sign up for what has turned out to be a game-changing app for my business: <a href="https://baremetrics.com/">Baremetrics</a>. I dragged my feet subscribing because it starts at $79/month, but it&#8217;s worth it. The way it breaks down which of your web subscriptions — in my case Searchpath, Watermark, and Tweet Marker — is the most profitable or has the highest customer churn or best average lifetime value&#8230; It was just eye-opening to me and led to finally taking some action to invest in the products that are doing well.</p>
+<p>I still have a lot to figure out with this. The one thing I am doing right, on the advice of several folks over the years, is paying myself the same amount once a month from my business checking account, as if it was a normal salary. This helps in forecasting how much income I need in the near-term to keep enough padding in the bank to cover the slow months. It also makes sure I don’t spend everything too quickly.</p>
+<p>We haven’t traditionally had the most strict budget. It’s easy to get lazy with finances at a regular job where you seemingly have a never-ending paycheck supply. The freelance or indie software world is quite different. I’m learning quickly.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/07/two-weeks-notice-accounting.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Two weeks notice: final pull request</title>
+		<link>http://www.manton.org/2015/07/two-weeks-notice-final-pull-request.html</link>
+		<comments>http://www.manton.org/2015/07/two-weeks-notice-final-pull-request.html#comments</comments>
+		<pubDate>Mon, 27 Jul 2015 14:55:45 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[2weeks]]></category>
+		<category><![CDATA[github]]></category>
+		<category><![CDATA[stripe]]></category>
+		<category><![CDATA[subscriptions]]></category>
+		<category><![CDATA[vitalsource]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2899</guid>
+		<description><![CDATA[With just 5 days left at my regular job, it&#8217;s time to get serious about wrapping up my work. I have a small change mostly ready and tested locally, but need to push it up to GitHub and finish testing on the dev server. I have a couple open Jira tickets to look at after [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>With just 5 days left at my regular job, it&#8217;s time to get serious about wrapping up my work. I have a small change mostly ready and tested locally, but need to push it up to GitHub and finish testing on the dev server. I have a couple open Jira tickets to look at after that.</p>
+<p>Over the weekend I spent a lot of time with the Stripe API, trying to improve how I manage user subscriptions. Stripe has some new features since I first started using it. For example, options for sales tax and a quantity field. The latter is convenient if you have something like the ability to pay for multiple hosted web sites in a subscription, rather than deal with adding custom line items on an invoice.</p>
+<p>Deadlines are an excellent way to push yourself to actually finish something. So this deadline of Friday is good, in a way, but unlike most of my other deadlines, I can’t miss it and keep working for another week. That finality is a little daunting right now, as I look at the week ahead and everything I want to get done.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/07/two-weeks-notice-final-pull-request.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Apple Music and free Beats 1</title>
+		<link>http://www.manton.org/2015/06/apple-music-and-free-beats-1.html</link>
+		<comments>http://www.manton.org/2015/06/apple-music-and-free-beats-1.html#comments</comments>
+		<pubDate>Tue, 30 Jun 2015 17:49:27 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Music]]></category>
+		<category><![CDATA[beats]]></category>
+		<category><![CDATA[ios]]></category>
+		<category><![CDATA[music]]></category>
+		<category><![CDATA[radio]]></category>
+		<category><![CDATA[subscriptions]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2797</guid>
+		<description><![CDATA[Apple Music launched today with iOS 8.4. Christina Warren has an early review for Mashable, in particular mentioning the value of For You: “The real heart of Apple Music is the For You tab. This is basically your music homescreen. When you open the section for the first time, you&#8217;re asked to go through a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Apple Music launched today with iOS 8.4. Christina Warren has <a href="http://mashable.com/2015/06/30/apple-music-hands-on/">an early review for Mashable</a>, in particular mentioning the value of For You:</p>
+<blockquote><p>
+  “The real heart of Apple Music is the For You tab. This is basically your music homescreen. When you open the section for the first time, you&#8217;re asked to go through a discovery exercise. This was lifted directly from Beats Music and it&#8217;s one of the best discovery tools I&#8217;ve used over the years.”
+</p></blockquote>
+<p>If Apple Music can be thought of as Beats Music 2.0, then the Connect tab is probably a little like Ping 2.0, an update on Apple’s first attempt to build a music-only social network. As Daniel and I discussed <a href="http://coreint.org/187">on Core Intuition 187</a>, any service that demonstrates a network effect — everything from eBay to Twitter — needs some critical mass of users to reach its potential. I was curious whether Apple could achieve this if the Connect feature was locked behind a paid subscription after the initial 3-month trial.</p>
+<p>What I missed is that Connect and even Beats 1 will be free. From the <a href="http://www.apple.com/music/">Apple Music page</a>:</p>
+<blockquote><p>
+  “Even without a membership, you can listen to Beats 1 radio, see what artists are posting on Connect, and hear our ad‑supported stations.”
+</p></blockquote>
+<p>Beats 1 is one of the more interesting aspects of Apple Music to me. I just signed up for the trial and plan to continue at the $15/month family subscription.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/06/apple-music-and-free-beats-1.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Searchpath improvements</title>
+		<link>http://www.manton.org/2015/04/searchpath-improvements.html</link>
+		<comments>http://www.manton.org/2015/04/searchpath-improvements.html#comments</comments>
+		<pubDate>Fri, 24 Apr 2015 13:58:17 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[backup]]></category>
+		<category><![CDATA[searchpath]]></category>
+		<category><![CDATA[subscriptions]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2584</guid>
+		<description><![CDATA[As part of a renewed commitment this year to work on my web app Searchpath, I’ve just rolled out a few improvements. A search engine like Searchpath needs frequent maintenance to keep running smoothly — minor bug fixes and behind-the-scenes work on queues and web crawling — but I also hope to catch up on new [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>As part of a renewed commitment this year to work on my web app <a href="http://searchpath.io/">Searchpath</a>, I’ve just rolled out a few improvements. A search engine like Searchpath needs frequent maintenance to keep running smoothly — minor bug fixes and behind-the-scenes work on queues and web crawling — but I also hope to catch up on new features that I’ve long planned for the product.</p>
+<p>One marketing bullet I always had that wasn’t fully realized: “Also serves as a text backup for your site.” Searchpath now exposes links to download both the HTML for any stored page on your site as well as a text-only version of that page after Searchpath has attempted to trim out the navigation and other links. Hopefully this will help out any customers who might need to retrieve lost text from their site if their primary site backup failed (or doesn’t exist).</p>
+<p>Searchpath is free to try and $8/month or $75/year. Setup is as simple as copy/pasting one line of JavaScript where you want a search box. You can <a href="http://searchpath.io/">learn more and get started here</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/04/searchpath-improvements.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Announcing the Tweet Marker developer plan</title>
+		<link>http://www.manton.org/2013/07/announcing_the_tweet.html</link>
+		<comments>http://www.manton.org/2013/07/announcing_the_tweet.html#comments</comments>
+		<pubDate>Tue, 23 Jul 2013 14:17:40 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[developers]]></category>
+		<category><![CDATA[subscriptions]]></category>
+		<category><![CDATA[tweetmarker]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/07/announcing_the_tweet.html</guid>
+		<description><![CDATA[I’m launching a new paid developer plan for Tweet Marker today. It’s $75/month and includes a new admin dashboard with stats on active users, hits, and more. I’ve also expanded the API to support syncing which direct messages have been read. Why charge developers now, after keeping the service free for 2 years? In part [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I’m launching a new <a href="https://api.tweetmarker.net/developers/">paid developer plan for Tweet Marker</a> today. It’s $75/month and includes a new admin dashboard with stats on active users, hits, and more. I’ve also expanded the API to support syncing which direct messages have been read.</p>
+<p>Why charge developers now, after keeping the service free for 2 years? In part it’s because of something I learned from publishing the <a href="http://coreint.org/">Core Intuition</a> podcast with Daniel Jalkut. Because for the first few years of Core Intuition, Daniel and I had trouble getting episodes out very regularly; there was always something more important to work on. Adding sponsors pushed us to stick to a weekly schedule, and it’s worked out even better than I expected.</p>
+<p>I hope the same thing will happen for Tweet Marker. Although I’ve put countless hours into maintaining Tweet Marker (and plenty of money on hosting), I couldn’t justify the effort to create new APIs because it wasn’t a revenue-generating product. Now I can dedicate more time to it, even with a modest level of support from developers.</p>
+<p>Of course, I’m sensitive to the difficulty of transitioning from a free to paid product. That’s why I’m doing two things to make it easier for everyone.</p>
+<p>First, I won’t be turning off any existing developers’ access to the service. The last thing I’d want is to break third-party Twitter apps currently in use. But I do strongly encourage commercial app developers to subscribe if they have the means to.</p>
+<p>Second, I’ve created a referral program for app developers to let their customers know about the <a href="https://api.tweetmarker.net/subscribe">$1/month user subscription</a>. This is a great way for developers to show their support even if they can’t subscribe to the developer plan. But even better, for developers who do subscribe, their account will be credited for each paid user they refer. This can effectively make the new developer plan free or significantly discounted.</p>
+<p>This is a big change for Tweet Marker, but an important one to make Tweet Marker strong. I’m excited to keep working on it, so that Twitter apps can work even better together. <a href="https://api.tweetmarker.net/developers/signin">Sign in here</a> to learn more about it.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/07/announcing_the_tweet.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Tweet Marker new subscriber plan</title>
+		<link>http://www.manton.org/2012/12/tweet_marker_new.html</link>
+		<comments>http://www.manton.org/2012/12/tweet_marker_new.html#comments</comments>
+		<pubDate>Mon, 17 Dec 2012 14:24:15 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[hosting]]></category>
+		<category><![CDATA[servers]]></category>
+		<category><![CDATA[subscriptions]]></category>
+		<category><![CDATA[tweetmarker]]></category>
+		<category><![CDATA[watermark]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2012/12/tweet_marker_new.html</guid>
+		<description><![CDATA[The original goal for Tweet Marker Plus was to help cover the hosting costs for Tweet Marker. It succeeded for a little while, but it also ended up evolving into a larger independent service: Watermark, with much higher hosting costs for archiving and search, and a bunch of new features like App.net support, Dropbox sync, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The original goal for Tweet Marker Plus was to help cover the hosting costs for Tweet Marker. It succeeded for a little while, but it also ended up evolving into a larger independent service: Watermark, with much higher hosting costs for archiving and search, and a bunch of new features like App.net support, Dropbox sync, saved collections, and more. I’m really excited about the future of Watermark.</p>
+<p>I also hear from Tweet Marker users who don’t need Watermark. They still want to support Tweet Marker, though, to make sure it continues running and that it’s as fast as possible.</p>
+<p>So today I’m introducing a separate, inexpensive subscription option for Tweet Marker. Just $1/month! You can subscribe from the <a href="http://tweetmarker.net/">new Tweet Marker home page</a>. And as a bonus you’ll get the first official Safari extension for Tweet Marker, shown in this screenshot:</p>
+<p><img src="http://www.manton.org/images/2012/tweetmarker_extension.png" alt="Tweet Marker extension" border="0" width="564" height="117" /></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2012/12/tweet_marker_new.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Favorites in Tweet Marker Plus</title>
+		<link>http://www.manton.org/2012/07/favorites_in_tweet.html</link>
+		<comments>http://www.manton.org/2012/07/favorites_in_tweet.html#comments</comments>
+		<pubDate>Tue, 17 Jul 2012 04:24:13 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[favorites]]></category>
+		<category><![CDATA[subscriptions]]></category>
+		<category><![CDATA[tweetmarkerplus]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2012/07/favorites_in_tweet.html</guid>
+		<description><![CDATA[I&#8217;ve written about saved filters in Tweet Marker Plus, and now I&#8217;m happy to announce the latest new feature: favorites. Tweet Marker Plus now grabs your favorites from Twitter so that they&#8217;re included in the searchable archive. The UI is better too, so you can tell at a glance what tweets have been favorited, and [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img style="padding: 5px;" src="http://www.manton.org/images/2012/favorites_sidebar.png" alt="favorites sidebar" title="favorites_sidebar.png" border="0" width="261" height="204" align="right" /> I&#8217;ve written about <a href="http://www.manton.org/2012/04/saved_tweet_filters.html">saved filters</a> in Tweet Marker Plus, and now I&#8217;m happy to announce the latest new feature: favorites. Tweet Marker Plus now grabs your favorites from Twitter so that they&#8217;re included in the searchable archive. The UI is better too, so you can tell at a glance what tweets have been favorited, and a new sidebar link can show just your recent favorites.</p>
+<p>A few days ago was the 3-month anniversary of Tweet Marker Plus&#8217;s launch. This is a significant milestone for me because all the early subscriptions were only billed once every 3 months. For most subscribers, this week is the first time recurring billing will have kicked in. (New subscribers are on monthly billing, which is a lot simpler for customers to understand and for me to predict.)</p>
+<p>I also rolled out some other fixes tonight, and improved performance for how background tasks run. <a href="http://tweetmarker.net/plus">Enjoy</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2012/07/favorites_in_tweet.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>I hope iAd fails</title>
+		<link>http://www.manton.org/2010/09/i_hope_iad.html</link>
+		<comments>http://www.manton.org/2010/09/i_hope_iad.html#comments</comments>
+		<pubDate>Fri, 10 Sep 2010 16:49:04 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[iads]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[subscriptions]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2010/09/i_hope_iad.html</guid>
+		<description><![CDATA[I feel bad admitting it, because some of my friends are betting on iAd revenue to feed their family, but I&#8217;m just not on board with Apple running an advertising network. I don&#8217;t want to see ads in my apps, and I don&#8217;t want Apple to ever lose even a little of what it means [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I feel bad admitting it, because some of my friends are betting on iAd revenue to feed their family, but I&#8217;m just not on board with Apple running an advertising network. I don&#8217;t want to see ads in my apps, and I don&#8217;t want Apple to ever lose even a little of what it means to be a product-driven company.</p>
+<p>We talk about this on Core Intuition. Nearly every chance I get I like to point out that all these free Google apps come at a cost. <a href="http://twitter.com/manton/statuses/1317967543">Take this tweet</a> from last year:</p>
+<blockquote><p>&#8220;Google Voice is so awesome but I just think it&#8217;s dangerous to give Google this much power. Slippery slope, folks. You are not a customer.&#8221;</p></blockquote>
+<p><a href="http://www.metafilter.com/95152/Userdriven-discontent#3256046">And this comment</a> on MetaFilter:</p>
+<blockquote><p>&#8220;If you are not paying for it, you&#8217;re not the customer; you&#8217;re the product being sold.&#8221;</p></blockquote>
+<p>Some apps should absolutely be ad-suported (such as a search engine or social network), and many can be freemium (free versions supported by higher-priced subscriptions), but when given a choice I&#8217;d rather pay a fair price for a good service. When your customers are not your users, the product will suffer.</p>
+<p>I know the world is full of ads already. We&#8217;re used to it &mdash; numb to it, maybe. But think about what the App Store has done: millions of people are paying real money for apps that complement ad-supported web sites. These same people would never pay a subscription fee to use the web site, but they&#8217;ll pay a few bucks for the same features in an iPhone app <em>and it seems perfectly normal</em>.</p>
+<p>Do we really want to give that marketplace up? Because once it&#8217;s gone, and iAds are the norm, it will be an uphill battle to get anyone to pay for anything.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2010/09/i_hope_iad.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.841 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:25:14 -->

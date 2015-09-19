@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; imagecapture</title>
+	<atom:link href="http://www.manton.org/tag/imagecapture/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Image Capture API</title>
+		<link>http://www.manton.org/2009/09/image_capture_api.html</link>
+		<comments>http://www.manton.org/2009/09/image_capture_api.html#comments</comments>
+		<pubDate>Mon, 07 Sep 2009 03:50:18 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[imagecapture]]></category>
+		<category><![CDATA[iphone]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2009/09/image_capture_api.html</guid>
+		<description><![CDATA[In &#8220;episode 21 of Core Intuition&#8221;:http://www.coreint.org/2009/07/episode-21-the-tyranny-of-commit-access/, I called the Image Capture API &#8220;quirky&#8221;. What did I mean by that? A few things. Refcon. This should be familiar to anyone who has built Mac OS 9 or Carbon apps. I&#8217;ve certainly written plenty of code that stuffed a pointer to an object in the refcon field [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>In &#8220;episode 21 of Core Intuition&#8221;:http://www.coreint.org/2009/07/episode-21-the-tyranny-of-commit-access/, I called the Image Capture API &#8220;quirky&#8221;. What did I mean by that? A few things.</p>
+<p><em>Refcon.</em> This should be familiar to anyone who has built Mac OS 9 or Carbon apps. I&#8217;ve certainly written plenty of code that stuffed a pointer to an object in the refcon field of a structure or passed to a callback method. It&#8217;s an essential pattern for being able to integrate C++ or Objective-C objects with a C-based API.</p>
+<p>For Image Capture, the code might look like this:</p>
+<pre>  ICAGetDeviceListPB pb = {};
+
+pb.header.refcon = (unsigned long)self;
+
+OSErr err = ICAGetDeviceList (&#038;pb, YourDeviceListCallbackHere);</pre>
+<p>Then in the callback you cast the refcon back to your controller object and go about calling methods and accessing member variables.</p>
+<pre>  void YourDeviceListCallbackHere (ICAHeader* pbHeader)
+
+{
+
+YourController* ic = (YourController *)pbHeader->refcon;
+
+[ic doSomethingUseful:pbHeader];
+
+}</pre>
+<p>Works fine, but what about 64-bit? The reason I noted this part of the API to blog about was because the first version of my code accidentally cast my pointer to a UInt32. Luckily for us, the refcon is actually declared as an unsigned long instead, so it should share the same pointer size in 64-bit land, where long and void* are both 8 bytes. Other data types in Image Capture, such as ICAObject, are declared to be UInt32.</p>
+<p>(What would we do if the refcon was UInt32? The solution is not terribly difficult: use a simple lookup table that maps a random ID or incrementing number stored in the refcon to your 64-bit compatible pointer. But this just doesn&#8217;t seem to be necessary very often.)</p>
+<p><em>No delete function.</em> I found this one strange, and had to dig in example code to find the solution. There is no first-class function in Image Capture for deleting objects off of a camera. Apparently this isn&#8217;t a feature that is supported by all devices, but nevertheless it seems common enough that it deserves something more than an enum constant hidden in a secondary header file.</p>
+<p>Here&#8217;s how you go about deleting a video off of the iPhone:</p>
+<pre>  ICAObjectSendMessagePB pb = {};
+
+pb.header.refcon = 0;
+
+pb.object = (ICAObject)your_movie_id_here;
+
+pb.message.messageType = kICAMessageCameraDeleteOne;
+
+OSErr err = ICAObjectSendMessage (&#038;pb, NULL);</pre>
+<p><em>Bad delete on success design.</em> Related to the above, Image Capture has this trick that seems clever at first but which I don&#8217;t think could be used for most applications. You can set a flag to tell Image Capture to delete a video after it imports. Maybe this also explains why there&#8217;s no standalone delete function, but the design feels dangerous to me; if an import fails halfway through importing 10 videos, the first 5 will still be deleted. I much prefer to examine the imported files to make sure they were saved correctly, and then after everything was successful go back and delete the imported objects.</p>
+<p>It&#8217;s been a couple months since we recorded Core Intuition 21, but there are some other segments worth noting. Daniel and I talked about the WWDC 2009 session videos, a plug for &#8220;rooSwitch&#8221;:http://www.roobasoft.com/rooswitch/, beta testing MarsEdit 3, and a listener question about working for non-developer managers. Listen at coreint.org or &#8220;subscribe in iTunes&#8221;:http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=281777685.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2009/09/image_capture_api.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.746 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:47:36 -->

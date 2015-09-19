@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; newsletter</title>
+	<atom:link href="http://www.manton.org/tag/newsletter/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Wii Transfer survey</title>
+		<link>http://www.manton.org/2009/07/wii_transfer_survey.html</link>
+		<comments>http://www.manton.org/2009/07/wii_transfer_survey.html#comments</comments>
+		<pubDate>Thu, 30 Jul 2009 16:01:26 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[campaignmonitor]]></category>
+		<category><![CDATA[clipstart]]></category>
+		<category><![CDATA[newsletter]]></category>
+		<category><![CDATA[survey]]></category>
+		<category><![CDATA[wiitransfer]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2009/07/wii_transfer_survey.html</guid>
+		<description><![CDATA[Yesterday I sent out a newsletter to all my &#8220;Wii Transfer&#8221;:http://www.riverfold.com/software/wiitransfer/ customers. You can see the &#8220;text of the newsletter here&#8221;:http://www.riverfold.com/newsletter/2009/07.html. I wasn&#8217;t sure how effective this would be, but I immediately got a bunch of responses to the survey, and hopefully more interest in Clipstart too. I decided against doing any specific tracking for [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Yesterday I sent out a newsletter to all my &#8220;Wii Transfer&#8221;:http://www.riverfold.com/software/wiitransfer/ customers. You can see the &#8220;text of the newsletter here&#8221;:http://www.riverfold.com/newsletter/2009/07.html. I wasn&#8217;t sure how effective this would be, but I immediately got a bunch of responses to the survey, and hopefully more interest in Clipstart too.</p>
+<p>I decided against doing any specific tracking for number of views and links clicked, but there was an obvious spike in traffic for a couple hours as people clicked on the links in the email.</p>
+<p>The survey results are about what I expected. Most people are buying Wii Transfer to watch movies and listen to music on their TV. I&#8217;ll use this feedback to simplify the user interface around these features, and prune back a feature set that had grown a little too fast for its own good.</p>
+<p>Here&#8217;s a chart of the results so far:</p>
+<p><img src="http://www.manton.org/images/2009/wt3survey.png" alt="Survey chart" border="0" width="524" height="270" /></p>
+<p>I used &#8220;Campaign Monitor&#8221;:http://www.campaignmonitor.com/ for sending the newsletter, and as usual I&#8217;m very pleased with how simple they make this. I did a full customer export from my registration database and Campaign Monitor merged it with the existing list from my newsletter last year, weeding out duplicates and removing anyone who had already unsubscribed.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2009/07/wii_transfer_survey.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Campaign Monitor</title>
+		<link>http://www.manton.org/2008/10/campaign_monitor.html</link>
+		<comments>http://www.manton.org/2008/10/campaign_monitor.html#comments</comments>
+		<pubDate>Thu, 16 Oct 2008 04:54:10 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[campaignmonitor]]></category>
+		<category><![CDATA[email]]></category>
+		<category><![CDATA[newsletter]]></category>
+		<category><![CDATA[wiitransfer]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2008/10/campaign_monitor.html</guid>
+		<description><![CDATA[Last month, on the 7th episode of Core Intuition, we talked about promotion. In particular I had good things to say about Campaign Monitor, and the folks who built it heard the episode and wanted to ask a set of follow-up questions to use on their own blog. &#8220;That mini-interview with me&#8221;:http://www.campaignmonitor.com/blog/archives/2008/10/manton_reece_talks_email_marke.html about how I [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Last month, on the 7th episode of Core Intuition, we talked about promotion. In particular I had good things to say about Campaign Monitor, and the folks who built it heard the episode and wanted to ask a set of follow-up questions to use on their own blog. &#8220;That mini-interview with me&#8221;:http://www.campaignmonitor.com/blog/archives/2008/10/manton_reece_talks_email_marke.html about how I used the service is now online.</p>
+<p>In closing out that blog post, Mathew Patterson of Freshview suggests a couple things I agree with, including sending a newsletter more frequently than once a year. In fact I would love to send another one soon, to link up a survey to get some more information about why customers are purchasing Wii Transfer.</p>
+<p>Unfortunately my hands are tied with yearly. When I put together the Wii giveaway promotion, I specifically told users opting in that it would be about once a year. I did this to encourage people to sign up without wondering if they would be spammed all the time. And also, I doubted that I would have the time to send a newsletter much more often than every year. So it&#8217;s not ideal, but there it is.</p>
+<p>Since then we&#8217;ve recorded 2 more shows. The latest &#8220;Core Intuition&#8221;:http://www.coreint.org/ hits the lifting of the NDA, the iPhone Tech Talk Tour, and Apple&#8217;s stock price.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2008/10/campaign_monitor.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Ship it, software and newsletter</title>
+		<link>http://www.manton.org/2008/09/ship_it_software.html</link>
+		<comments>http://www.manton.org/2008/09/ship_it_software.html#comments</comments>
+		<pubDate>Fri, 26 Sep 2008 13:41:44 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[newsletter]]></category>
+		<category><![CDATA[today]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2008/09/ship_it_software.html</guid>
+		<description><![CDATA[I&#8217;ve been meaning to link to &#8220;this post by Justin Williams&#8221;:http://log.carpeaqua.com/post/32663772/just-fing-ship-it on shipping his Today app quickly: &#8220;I&#8217;m a big fan of foundation releases. In other words, release the bare minimum you possibly can to constitute a 1.0 and then let your users help decide the direction your application ships.&#8221; There is always more to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;ve been meaning to link to &#8220;this post by Justin Williams&#8221;:http://log.carpeaqua.com/post/32663772/just-fing-ship-it on shipping his Today app quickly:</p>
+<blockquote><p>&#8220;I&#8217;m a big fan of foundation releases. In other words, release the bare minimum you possibly can to constitute a 1.0 and then let your users help decide the direction your application ships.&#8221;</p></blockquote>
+<p>There is always more to do, a never-ending stream of features you could implement for 1.0, and the same can be set for other non-software projects. When I started preparing a newsletter last month, the features crept on: I should have a coupon code, and maybe a special URL to track links, or a survey, or HTML email design instead of plain text.</p>
+<p>I explored most of these options before finally realizing it was more important that I send the newsletter than wait for it to be perfect and solve every problem. In the end I&#8217;m glad I didn&#8217;t spend much time on it, because overall the newsletter was not very successful, providing just a blip in web site traffic and negligible increase in sales.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2008/09/ship_it_software.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 3.631 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:31:12 -->

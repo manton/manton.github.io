@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; riposte</title>
+	<atom:link href="http://www.manton.org/tag/riposte/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Riposte push server crowdfunding</title>
+		<link>http://www.manton.org/2015/08/riposte-push-server-crowdfunding.html</link>
+		<comments>http://www.manton.org/2015/08/riposte-push-server-crowdfunding.html#comments</comments>
+		<pubDate>Tue, 04 Aug 2015 16:54:15 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[adn]]></category>
+		<category><![CDATA[riposte]]></category>
+		<category><![CDATA[servers]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2938</guid>
+		<description><![CDATA[Back in April, the App.net app Riposte was removed from sale. Riposte wasn&#8217;t just the best client for App.net; I think it held its own against even the best Twitter apps, too. The push notification server for Riposte (and its messaging app complement, Whisper) was to keep running for some months and then shut down [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://blog.jaredsinclair.com/post/116294584510/riposte-the-appnet-app-permanently-removed-from">Back in April</a>, the App.net app Riposte was removed from sale. Riposte wasn&#8217;t just the best client for App.net; I think it held its own against even the best Twitter apps, too. The push notification server for Riposte (and its messaging app complement, Whisper) was to keep running for some months and then shut down this summer.</p>
+<p>Even if App.net is slowly fading away, like many users I still have Riposte on my home screen. I cross-post all <a href="http://www.manton.org/category/micro">my microblog posts</a> from this blog to App.net. When I get replies and mentions on App.net, I like to see them as push notifications in Riposte. I can reply in the app easily, or skim through the timeline to see what else is going on.</p>
+<p>Now the developers have launched a <a href="https://app.moonclerk.com/pay/q2j4zmciz4e">crowdfunding campaign</a> to keep the Riposte server running. Their goal is a modest $500 per year to cover AWS hosting and time to keep everything running smoothly. Even if you&#8217;re not very active on App.net anymore, consider donating as a thank-you for everything Riposte did for App.net, and for what it did to advance the state of UI design in social networking apps.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/08/riposte-push-server-crowdfunding.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Fun apps don’t need clean code</title>
+		<link>http://www.manton.org/2015/07/fun-apps-dont-need-clean-code.html</link>
+		<comments>http://www.manton.org/2015/07/fun-apps-dont-need-clean-code.html#comments</comments>
+		<pubDate>Mon, 06 Jul 2015 13:23:08 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[code]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[riposte]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2824</guid>
+		<description><![CDATA[Jared Sinclair says that a successful app has nothing to do with writing clean code. Thinking about Riposte: “Riposte, still used and loved by some App.net diehards, has one or two view controllers I wrote that are thousands of lines long. The app was littered with procedures that should have been generalized but got copied-and-pasted [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://blog.jaredsinclair.com/post/123277602945/judicious-use-of-shitty-code">Jared Sinclair says</a> that a successful app has nothing to do with writing clean code. Thinking about Riposte:</p>
+<blockquote><p>
+  “Riposte, still used and loved by some App.net diehards, has one or two view controllers I wrote that are thousands of lines long. The app was littered with procedures that should have been generalized but got copied-and-pasted everywhere. And it didn’t matter.”
+</p></blockquote>
+<p>Most programmers try to improve their code a little from one project to the next. But obsessing about how the <em>code</em> looks and how it’s structured might mean that you’re not spending enough time worrying about the things that matter even more: what the <em>app</em> looks like and what it does (and ever shipping it).</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/07/fun-apps-dont-need-clean-code.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Goodbye Riposte</title>
+		<link>http://www.manton.org/2015/04/goodbye-riposte.html</link>
+		<comments>http://www.manton.org/2015/04/goodbye-riposte.html#comments</comments>
+		<pubDate>Mon, 13 Apr 2015 15:01:18 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[adn]]></category>
+		<category><![CDATA[riposte]]></category>
+		<category><![CDATA[trademarks]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2568</guid>
+		<description><![CDATA[Jared Sinclair announces that Riposte will no longer be available: “As part of an agreement reached over an alleged trademark infringement, Riposte (the App.net app I made with Jamin Guy) will be removed from sale on the App Store. We’ll also be taking down the riposteapp.net homepage.” Even today, Riposte is arguably the best social [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://blog.jaredsinclair.com/post/116294584510/riposte-the-app-net-app-permanently-removed-from">Jared Sinclair announces</a> that Riposte will no longer be available:</p>
+<blockquote><p>
+  “As part of an agreement reached over an alleged trademark infringement, <a href="http://thesweetsetup.com/apps/best-app-net-client-iphone/">Riposte</a> (the <a href="https://app.net/">App.net</a> app I made with <a href="https://twitter.com/jaminguy">Jamin Guy</a>) will be removed from sale on the App Store. We’ll also be taking down the <a href="http://riposteapp.net/">riposteapp.net</a> homepage.”
+</p></blockquote>
+<p>Even today, Riposte is arguably the best social networking client out there. It pioneered consistent gestures for navigation. It will remain on my home screen for some time to come.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/04/goodbye-riposte.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 2.987 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:12:01 -->

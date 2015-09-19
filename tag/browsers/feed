@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; browsers</title>
+	<atom:link href="http://www.manton.org/tag/browsers/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>The web without HTML</title>
+		<link>http://www.manton.org/2015/09/the-web-without-html.html</link>
+		<comments>http://www.manton.org/2015/09/the-web-without-html.html#comments</comments>
+		<pubDate>Thu, 17 Sep 2015 04:59:14 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[appletv]]></category>
+		<category><![CDATA[browsers]]></category>
+		<category><![CDATA[foodml]]></category>
+		<category><![CDATA[openweb]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3035</guid>
+		<description><![CDATA[On Twitter, Alex Fajkowski responded to my blog post about tvOS with this: &#8220;They have access to the open web—NSURLSession exists. HTML rendering is inappropriate for the watch and tv.&#8221; I disagree with both of those sentences. Maybe Alex didn&#8217;t read my full post, because I wrote that web services are not enough. HTML and [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://twitter.com/thefaj/status/644273497271869440">On Twitter</a>, Alex Fajkowski responded to <a href="http://www.manton.org/2015/09/every-device-needs-the-web.html">my blog post about tvOS</a> with this:</p>
+<blockquote><p>
+  &#8220;They have access to the open web—NSURLSession exists. HTML rendering is inappropriate for the watch and tv.&#8221;
+</p></blockquote>
+<p>I disagree with both of those sentences. Maybe Alex didn&#8217;t read my full post, because I wrote that web <em>services</em> are not enough. HTML and links and URLs are equally important parts of the open web. NSURLSession gets you web services but nothing else.</p>
+<p>(As an aside, HTML turns out to be a pretty useful format for styling text, too. Why wouldn&#8217;t you want to use it for iTunes movie descriptions on the TV, for example? That seems completely appropriate.)</p>
+<p>Think about the full scope of the internet. What percentage of content is available via web services — that is, structured data that can be parsed and displayed with a custom, native UI — compared to all the traditional, HTML-based web sites? You&#8217;ll find that there is an almost unimaginably large number of that latter kind of web site, and the only way to access and display that content is with an HTML renderer.</p>
+<p>Now imagine a world with only native apps. You&#8217;d need custom apps and web services for different kinds of content, just as we have native Twitter or Instagram apps today, but we&#8217;d need these for many thousands of categories: tvOS with TVML, recipe or cooking apps with FOODML, and so on. Eventually, having so many formats would get unmanageable. We&#8217;d need to invent a general purpose format that could accommodate many app formats, and (surprise!) that general format would look a lot like HTML. Why break old content and essentially reboot the web, when we already have a capable format in HTML?</p>
+<p>Of course, there&#8217;s no immediate risk of getting to that hypothetical native-only future. But when a company with the size and influence of Apple has 4 major platforms and only 2 of them have access to the open web, that should give us pause. Let&#8217;s reflect on how this plays out, so we can get back on track if the web does become marginalized.</p>
+<p><a href="http://daringfireball.net/linked/2015/09/16/manton-every-device">John Gruber commented</a> that these new devices don&#8217;t <em>need</em> the web at all, comparing it to the original Mac shipping without a command line interface. I realized while reading his closing paragraph that my own blog post had been poorly titled, and so the whole point too easily misunderstood. John wrote:</p>
+<blockquote><p>
+  &#8220;Or it could be that Apple has decided never to open WebKit to developers on Apple TV. Either way, it won’t affect Apple TV’s success, and everything will be OK.&#8221;
+</p></blockquote>
+<p>Apple TV&#8217;s success doesn&#8217;t change my argument. My Apple TV dev kit arrives on Friday, I&#8217;m going to build an app for it, and I can&#8217;t wait to watch Apple&#8217;s latest platform take off. When I wrote that the Apple TV &#8220;needs&#8221; the web I didn&#8217;t mean that it would be crippled and unsuccessful without it. I simply meant that the web <em>should</em> be there in some form, even if limited.</p>
+<p>(It doesn&#8217;t even have to be Safari. There just needs to be enough web technologies to make some part of the open web possible. Again, that means web services, HTML, and links.)</p>
+<p>Yesterday, <a href="http://daringfireball.net/linked/2015/09/15/ppk-stop-pushing-web-forward">John Gruber also wrote</a> about web apps and native apps, and what each should focus on:</p>
+<blockquote><p>
+  &#8220;Native apps can’t out-web the web, and web apps should embrace that.&#8221;
+</p></blockquote>
+<p>That&#8217;s good advice. There are plenty of important tasks for the web community that should be top priorities, such as encouraging a return to <a href="http://www.manton.org/2015/09/evan-williams-on-indie-web-sites.html">independent publishing</a> and trying to fix the <a href="http://www.manton.org/2015/09/web-history-and-ipfs.html">lack of redundancy</a>. The web will always be playing catch-up with native apps for user experience, but the web will always be <em>ahead</em> as a distributed, open publishing platform. And that is such an important feature, it should be available on as many devices as possible.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/09/the-web-without-html.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Mediocrity is the new application platform</title>
+		<link>http://www.manton.org/2006/03/mediocrity_is_the.html</link>
+		<comments>http://www.manton.org/2006/03/mediocrity_is_the.html#comments</comments>
+		<pubDate>Fri, 10 Mar 2006 03:41:13 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[ajax]]></category>
+		<category><![CDATA[browsers]]></category>
+		<category><![CDATA[flash]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[rails]]></category>
+		<category><![CDATA[ui]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2006/03/mediocrity_is_the.html</guid>
+		<description><![CDATA[Today marks the 4-year anniversary of this weblog. What better way to celebrate than with a discussion of web applications. Willie Abrams said in a recent Campfire chat: &#8220;Web applications automatically have sync.&#8221; He hits on the fundamental principle of web applications popularity, and of course that has always been true. But the difference now [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Today marks the 4-year anniversary of this weblog. What better way to celebrate than with a discussion of web applications.</p>
+<p><a href="http://www.angrylearner.com/">Willie Abrams</a> said in a recent Campfire chat: &#8220;Web applications automatically have sync.&#8221; He hits on the fundamental principle of web applications popularity, and of course that has always been true. But the difference now is that some web apps are actually <i>fast and usable too</i>. (Gasp!)</p>
+<p>The rise of rich web applications that seamlessly mix Flash or Ajax while still staying true to the roots of web architecture (REST design, open standards) has upset the traditional desktop market. I first wrote about this in <a href="http://www.manton.org/2005/12/todo_lists_and.html">&#8220;To-do lists and embracing the network&#8221;</a>, which was in a sense a subtle wake-up call to Mac developers: adapt to the always-on internet or any college drop-out with a shared server will obsolete your app after a few late nights of Rails hacking.</p>
+<p>But it frustrates me to see such praise given to web applications that, were they traditional, native apps, they&#8217;d be laughed away to obscurity or ignored. Ajax is a huge advancement, but that doesn&#8217;t mean that every application works well for the web. I&#8217;m sure Google engineers spent an incredible amount of work on <a href="http://www.techcrunch.com/2006/02/22/google-pages-released/">Google Pages</a>, but compare it to Apple&#8217;s iWeb and it becomes obvious how weak web application interfaces still are.</p>
+<p>Luckily some people are working through the really tough problems. <a href="http://spaces.msn.com/rayozzie/blog/cns!FB3017FBB9B2E142!285.entry">Ray Ozzie&#8217;s Live Clipboard</a> may be the start of a whole new shift in web app functionality, allowing data to move between web sites and even out of the browser. But true drag-and-drop of structured data between a native app and a web site is still a long way off.</p>
+<p>Let&#8217;s make some lists, starting with the good.</p>
+<ul>
+<li>Good web applications are data-driven, multiuser, and use URLs everywhere.</li>
+<li>There is some key component that is about the <i>browsing experience</i>. That might be sifting through large amounts of data, viewing old logs, finding people.</li>
+<li>The kind of data requires an adaptable user interface, not something with a strict set of traditional widgets. HTML is perfect for this.</li>
+</ul>
+<p>On the other side are web applications that might be built by a team of smart people and with a great technology backend, but the application concepts are confused. They don&#8217;t know if they belong in a web browser or on the desktop.</p>
+<ul>
+<li>Mediocre web applications think that a single web browser window is an entire windowing system with movable child windows.</li>
+<li>No features that actually have anything to do with the web. The result is that it <i>adds no value</i> to the web as a whole.</li>
+<li>Trying to replace the whole Microsoft Office suite.</li>
+</ul>
+<p>Something else is changing in the HTML/CSS/JavaScript platform. In 2004, <a href="http://www.joelonsoftware.com/articles/APIWar.html">Joel Spolsky wrote</a> about how instead of picking Mac, Windows, or Linux APIs, developers are building for the web platform and can deploy to any user&#8217;s desktop. Cutting-edge web applications push that claim to its breaking point, as differences between Safari, Mozilla, and Internet Explorer often cause headaches for developers. It&#8217;s no surprise when Microsoft&#8217;s set of Office Live applications require Internet Explorer, but it <i>is</i> note-worthy when Google&#8217;s chat interface does not work in Safari. There is now a whole set of web applications that require the latest version of Mozilla and won&#8217;t work in anything less.</p>
+<p>Five years ago we accepted that web applications were going to be useful but ultimately unfulfilling, joyless experiences. Now most web apps have risen from bad to simply mediocre. The truly great ones have a foundation and design that would still be unrivaled in a desktop app. These amazing apps are not content to reimplement an old application as a web app just to allow use from any machine, but they take it to the next step: rethink the problem, stay agile, and redesign so that it&#8217;s not just web-based, but it&#8217;s <i>actually better</i>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2006/03/mediocrity_is_the.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.522 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 12:50:48 -->

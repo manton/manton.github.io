@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; appstore</title>
+	<atom:link href="http://www.manton.org/tag/appstore/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Peace, indies, and the App Store</title>
+		<link>http://www.manton.org/2015/09/peace-indies-and-the-app-store.html</link>
+		<comments>http://www.manton.org/2015/09/peace-indies-and-the-app-store.html#comments</comments>
+		<pubDate>Sat, 19 Sep 2015 15:53:31 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[indie]]></category>
+		<category><![CDATA[ios9]]></category>
+		<category><![CDATA[marco]]></category>
+		<category><![CDATA[peace]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3056</guid>
+		<description><![CDATA[You&#8217;ve probably heard that Marco Arment has pulled his content-blocking app Peace from the App Store. The app was extremely successful: &#8220;As I write this, Peace has been the number one paid app in the U.S. App Store for about 36 hours. It’s a massive achievement that should be the highlight of my professional career. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>You&#8217;ve probably heard that Marco Arment has pulled his content-blocking app Peace from the App Store. The app was <a href="http://www.marco.org/2015/09/18/just-doesnt-feel-good">extremely successful</a>:</p>
+<blockquote><p>
+  &#8220;As I write this, Peace has been the number one paid app in the U.S. App Store for about 36 hours. It’s a massive achievement that should be the highlight of my professional career. If <a href="https://overcast.fm/">Overcast</a> even broke the top 100, I’d be over the moon.&#8221;
+</p></blockquote>
+<p>I&#8217;ve seen some comments asking why he didn&#8217;t think to do this sooner, before he even shipped the app. But we are just now starting to understand the impact of ad blockers in iOS 9. I don&#8217;t think it&#8217;s an exaggeration to say that the web is different than it was a few days ago, and so our choices — and Marco&#8217;s — are different too. As I mentioned <a href="http://www.manton.org/2015/09/wrap-up-thoughts-on-the-tv-web.html">yesterday</a>, content blockers are one facet of an overall shake-up for the web.</p>
+<p><a href="http://inessential.com/2015/09/18/why_we_love_indies">Brent Simmons writes</a> that only indies can do what Marco did. Marco must have left a lot of money on the table with this decision. It will always look like the right call to me when someone goes with their gut feeling and not with profit.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/09/peace-indies-and-the-app-store.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>App Store delivery truck</title>
+		<link>http://www.manton.org/2015/07/app-store-delivery-truck.html</link>
+		<comments>http://www.manton.org/2015/07/app-store-delivery-truck.html#comments</comments>
+		<pubDate>Fri, 03 Jul 2015 20:34:40 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[creditcards]]></category>
+		<category><![CDATA[distribution]]></category>
+		<category><![CDATA[ios]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2818</guid>
+		<description><![CDATA[Charles Perry follows up from Brent’s post on the App Store with this point of view: “Today, the App Store is basically your delivery truck that takes cash on delivery. We wouldn’t blame a delivery truck for our business failure. It doesn’t make any sense. It’s not a delivery truck’s responsibility to ensure that there’s [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://metakite.com/blog/2015/07/my-delivery-truck/">Charles Perry follows up</a> from <a href="http://inessential.com/2015/06/30/love">Brent’s post</a> on the App Store with this point of view:</p>
+<blockquote><p>
+  “Today, the App Store is basically your delivery truck that takes cash on delivery. We wouldn’t blame a delivery truck for our business failure. It doesn’t make any sense. It’s not a delivery truck’s responsibility to ensure that there’s a market for our products. That’s what market research is for. It’s not a delivery truck’s responsibility to advertise our products or introduce them to customers. That’s what marketing is for.”
+</p></blockquote>
+<p>I really like this analogy. However, if you take everything Charles says as truth, it reveals an even more serious problem: the 30% that Apple charges for distributing bits on their truck is outrageous. It’s flat-out <em>wrong</em> to charge such a high percentage if they are providing no value above credit card processing and file hosting.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/07/app-store-delivery-truck.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Tweet Library 2.5 and consolidation</title>
+		<link>http://www.manton.org/2014/04/tweet_library_25.html</link>
+		<comments>http://www.manton.org/2014/04/tweet_library_25.html#comments</comments>
+		<pubDate>Wed, 23 Apr 2014 17:09:35 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[tweetlibrary]]></category>
+		<category><![CDATA[urls]]></category>
+		<category><![CDATA[watermark]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/04/tweet_library_25.html</guid>
+		<description><![CDATA[There&#8217;s a new update to Tweet Library out today. Major additions include CSV file export to Dropbox and new URL schemes for starting a search, export, or publish. The URL schemes look like this: twtlib://username/search?q=hello&#38;collection=Favorites twtlib://username/export?collection=Testing twtlib://username/publish?collection=Testing twtlib://username/storify?collection=Testing There are a few other important bug fixes too, especially to importing the Tweets.zip archive from Twitter. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>There&#8217;s a new update to <a href="http://www.riverfold.com/software/tweetlibrary/">Tweet Library</a> out today. Major additions include CSV file export to Dropbox and new URL schemes for starting a search, export, or publish. The URL schemes look like this:</p>
+<p>twtlib://username/search?q=hello&amp;collection=Favorites</p>
+<p>twtlib://username/export?collection=Testing</p>
+<p>twtlib://username/publish?collection=Testing</p>
+<p>twtlib://username/storify?collection=Testing</p>
+<p>There are a few other important bug fixes too, especially to importing the Tweets.zip archive from Twitter.</p>
+<p>When I gave up on Twitter as a user, many people asked if I would abandon Tweet Library. I wasn&#8217;t sure at first, but the answer now is a clear &#8220;no&#8221;. In fact, since my last personal tweet in 2012, I&#8217;ve released new features and even redesigned the app for iOS 7.</p>
+<p>But I do need to start consolidating my work on Tweet Library and <a href="http://watermark.io/">Watermark</a>, because the apps share so many concepts around archiving and search. To that end, this week I&#8217;m retiring tweetlibrary.com as a way to browse and publish collections. The site will now redirect to a special landing page on Watermark. Published collections from Tweet Library also go to a public page on Watermark.</p>
+<p>It was a tough decision to change the tweetlibrary.com URLs, but maintaining separate web apps that are so similar made everything more complicated, holding back what I could build. Having a single web codebase (Watermark) will ultimately let me improve both Tweet Library and Watermark more quickly.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/04/tweet_library_25.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Like scripts in animation</title>
+		<link>http://www.manton.org/2014/03/like_scripts_in.html</link>
+		<comments>http://www.manton.org/2014/03/like_scripts_in.html#comments</comments>
+		<pubDate>Tue, 04 Mar 2014 17:01:32 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Animation]]></category>
+		<category><![CDATA[animation]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[culture]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/03/like_scripts_in.html</guid>
+		<description><![CDATA[This line in a blog post on Cartoon Brew made me laugh: “It’s certainly possible to write a Looney Tunes script, just as it’s possible to eat a hamburger with your feet, but there are smarter, easier, and better ways to do it.” Every industry that gets big probably has some of this. There’s the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>This line in a <a href="http://www.cartoonbrew.com/feature-film/space-jam-sequel-is-in-the-works-96410.html">blog post on Cartoon Brew</a> made me laugh:</p>
+<blockquote><p>
+  “It’s certainly possible to write a Looney Tunes script, just as it’s possible to eat a hamburger with your feet, but there are smarter, easier, and better ways to do it.”
+</p></blockquote>
+<p>Every industry that gets big probably has some of this. There’s the old school, the folks who know the right way to do things — for example, you start an animated film with sketches and storyboards, not words — and then there’s everyone who comes in afterwards, without the history and culture of what made it all work. Look at what the App Store has become, compared to how software development worked in the 1990s or early 2000s. If it wasn’t for all the money some of these new developers are making they’d be completely embarrassing themselves with technical naivety and <a href="http://www.bluecloudsolutions.com/blog/money-apps-turn-1k-200k-portfolio/">depressing lack of vision</a>.</p>
+<p>On the other hand, great ideas often start with newcomers. But please respect the past before you break from it.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/03/like_scripts_in.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Flappy Bird on steroids</title>
+		<link>http://www.manton.org/2014/02/flappy_bird_on.html</link>
+		<comments>http://www.manton.org/2014/02/flappy_bird_on.html#comments</comments>
+		<pubDate>Thu, 13 Feb 2014 20:16:48 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[flappybird]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/02/flappy_bird_on.html</guid>
+		<description><![CDATA[On this week’s Core Intuition, we talked a lot about Flappy Bird (and also Threes, and a few other things). One of the points I tried to make is that some of the negativity pointed toward the developer was totally uncalled for. Marco Arment says it well in his post on this topic: “Flappy Bird’s [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.coreint.org/2014/02/episode-124-flappy-bird-on-steroids/">On this week’s Core Intuition</a>, we talked a lot about Flappy Bird (and also Threes, and a few other things). One of the points I tried to make is that some of the negativity pointed toward the developer was totally uncalled for. Marco Arment says it well <a href="http://www.marco.org/2014/02/12/why-indie-developers-go-insane">in his post on this topic</a>:</p>
+<blockquote><p>
+  “Flappy Bird’s success was hilarious, but it also appears to be completely earned. I’ve read the posts suggesting he cheated at the ranks or reviews, but I haven’t seen any that supported those claims enough.”
+</p></blockquote>
+<p>As I read Marco’s full post, and re-listened to what Daniel and I said on the podcast, I do wonder if developer Dong Nguyen had been so overwhelmed by the success that the line blurred for him between the death threats and the joke “this ruined my life” app reviews. You’d have to have a pretty thick skin to not let it get to you, even if I hope that most users had a good sense of humor about the whole thing. It’s true that the game is crazy addicting, but unlike some games — the worst of which are driven by consumable in-app purchases, gimmickly rigged to get users to feed money into the game — Flappy Bird is addicting in kind of the best way, because it’s something we’re all playing and can laugh about together.</p>
+<p>And Nguyen cares about more than just money. He’s demonstrated an empathy for customers that seems to be lacking in many corners of the App Store. Where some developers said he was leaving money on the table by not having <em>more</em> ads, and other developers were quick to rush in with rip-offs of his app, Ngugen wasn’t afraid to admit it was out of control and pull the app from the store. Do you think any of the other developers who renamed their app to include the word “flappy” would have pulled their app? Not a chance.</p>
+<p>I hope Nguyen can bounce back from this and ship more games. With so much attention now, it’ll be fascinating to see what they look like. Or if he’s stashed away some of that $50k/day and wants to just chill out for a while, that’s fine too.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/02/flappy_bird_on.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Ending the App Store top 200</title>
+		<link>http://www.manton.org/2014/02/ending_the_app.html</link>
+		<comments>http://www.manton.org/2014/02/ending_the_app.html#comments</comments>
+		<pubDate>Fri, 07 Feb 2014 19:40:44 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[beats]]></category>
+		<category><![CDATA[music]]></category>
+		<category><![CDATA[top200]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/02/ending_the_app.html</guid>
+		<description><![CDATA[I was chatting with some developers this week, complaining about this post on spamming the App Store and wondering if we’d ever have a better App Store, when I finally realized how we get there. The block for me had always been the top 200 lists. We all know that you can game them, buy [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I was chatting with some developers this week, complaining about <a href="http://www.bluecloudsolutions.com/blog/money-apps-turn-1k-200k-portfolio/">this post on spamming the App Store</a> and wondering if we’d ever have a better App Store, when I finally realized how we get there. The block for me had always been the top 200 lists. We all know that you can game them, buy your way in, and apps that make it in even on their own merits have a huge advantage over everything else, sometimes for months. But I couldn’t conceive of how you could actually <em>get rid of them</em> and if it would make the store better or worse.</p>
+<p>The answer is in Beats Music. They have no overall top 200 list! Instead, they have a bunch of people — musicians and writers who deeply care about music — curating playlists. The top 25 playlists in a genre are so buried in the app that I had to search them out just to write this blog post, because they seem to carry no more weight than any other playlist. Much more common are playlists like “our top 20 of 2013”. That’s not a best-selling list; it’s based on real people’s favorites.</p>
+<p>There are literally hundreds or maybe thousands of other playlists. Intro playlists for a band, related artists that were influential to a singer you like, playlists for a mood or activity, and more. This extra manual step makes it much easier for an algorithm to surface great music: just look for playlists that contain songs you already like, and chances are good that you’ll discover something new.</p>
+<p><a href="http://www.manton.org/2014/02/we_love_music.html">I wrote about Beats Music earlier</a>, how it underscored to me that Apple needs to find the next product category to fall in love with, just like they used to feel about music. Of course we know that Apple <em>already loves apps</em>. Show that by doubling down on featured apps, staff picks, and app playlists.</p>
+<p>How would this fix the junk problem in the App Store? Simple. No one in their right mind would ever feature one of these ad-filled, “re-skinned” cheap apps. Great recommendations mean less reliance on search, making scam apps more difficult to find by accident. (This focus is so complete in Beats Music, for the first couple days of using it I didn’t even realize you could search for a specific song or album.)</p>
+<p>This idea isn’t new. Here’s <a href="http://blog.jaredsinclair.com/post/70498658794/solving-the-app-store-discovery-problem-with-app">Jared Sinclair on app playlists</a>, with the twist that they’re based on apps you have installed and use:</p>
+<blockquote><p>
+  “App playlists should be rigorously simple: just a list of apps. Not all the apps ever downloaded, but the apps that a given user currently has installed on their device. The assumption is that if somebody has an app on their device, they probably like it.”
+</p></blockquote>
+<p>That would be great. But seeing Beats Music ship with almost no traditional music charts at all — in an industry that has embraced the top 40 for decades — tells me that the Beats approach would also work for apps. I think you need both an “installed” playlist and many more fully curated playlists to actually replace the top 200 in the App Store.</p>
+<p>Apple will need to ramp up their staff to do this, but if a new company like Beats can do it, surely a company as huge as Apple can also try. And they’ll have help from app fans everywhere. Writers are already doing this: see Federico Viticci’s <a href="http://www.macstories.net/roundups/my-must-have-ipad-apps-2013-edition/">must-have iPad apps of 2013</a> (could easily be an app playlist) or all the <a href="http://thesweetsetup.com/apps/best-photo-editing-app-iphone/">photo apps mentioned on The Sweet Setup</a> (favorite photo apps playlist) or TechHive’s <a href="http://www.techhive.com/article/2091807/use-these-budgeting-apps-for-more-money-fewer-problems.html">5 apps for budgeting</a> (my playlist would’ve added <a href="http://nothirst.com/moneywell/ipad/">MoneyWell</a>).</p>
+<p>Apple shouldn’t wait until Thursday to feature a few great apps. Feature apps <em>all the time</em>. They’re on the right track with some of the “best of” sections in the store, and with the “Near Me” feature. Go a little further and it will make all the difference to bubble up great apps, and let the junk in the App Store fade away. For the first time I can imagine the store without a top 200 at all, and it looks amazing.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/02/ending_the_app.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Tweet Library 2.4</title>
+		<link>http://www.manton.org/2013/10/tweet_library_24.html</link>
+		<comments>http://www.manton.org/2013/10/tweet_library_24.html#comments</comments>
+		<pubDate>Thu, 31 Oct 2013 15:42:38 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[ios]]></category>
+		<category><![CDATA[tweetlibrary]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/10/tweet_library_24.html</guid>
+		<description><![CDATA[The latest version of Tweet Library was approved by Apple last night. It features an updated design for iOS 7, a new app icon, and a bunch of bug fixes. I also dropped the price to $4.99, universal for both iPhone and iPad, and it’s a free upgrade for all existing customers. The App Store [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The latest version of Tweet Library was approved by Apple last night. It features an updated design for iOS 7, a new app icon, and a bunch of bug fixes. I also dropped the price to $4.99, universal for both iPhone and iPad, and it’s a free upgrade for all existing customers.</p>
+<p>The App Store screenshots weren’t updated yet, so I put together <a href="http://sunlit.io/manton/tweetlibrary24">some screenshots using Sunlit here</a>.</p>
+<p>I’m pretty happy with how this release turned out, but there’s still more work to do. I’ll be following up this release with some additional improvements specifically for iOS 7 soon. You can grab version 2.4 <a href="http://itunes.apple.com/app/tweet-library/id365768793?mt=8">from the App Store here</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/10/tweet_library_24.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Searching abandoned apps</title>
+		<link>http://www.manton.org/2013/04/searching_abandoned_apps.html</link>
+		<comments>http://www.manton.org/2013/04/searching_abandoned_apps.html#comments</comments>
+		<pubDate>Mon, 08 Apr 2013 17:34:22 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[nicemohawk]]></category>
+		<category><![CDATA[old]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/04/searching_abandoned_apps.html</guid>
+		<description><![CDATA[Ben Lachman has some good suggestions after my post and David Smith’s on what to do with abandoned apps, saying that apps should be more clearly labelled as “abandoned”. Which device you’re using could also have an impact on search results: “Search results could be weighted by the device you are using quite heavily. Just [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://nicemohawk.com/blog/2013/03/making-the-app-store-a-nicer-place/">Ben Lachman has some good suggestions</a> after <a href="http://www.manton.org/2013/03/app_store_old_app.html">my post</a> and <a href="http://david-smith.org/blog/2013/03/21/purging-the-back-catalog/">David Smith’s</a> on what to do with abandoned apps, saying that apps should be more clearly labelled as “abandoned”. Which device you’re using could also have an impact on search results:</p>
+<blockquote><p>
+  “Search results could be weighted by the device you are using quite heavily. Just like how on iPhone you don’t see iPad-only apps when searching the app store; on iPhone 5 you should be very unlikely to see apps that only support 3.5-inch screens.”
+</p></blockquote>
+<p>Makes sense to me. Also check out his comment at the end, that kids these days may have a very difficult time revisiting the classic apps from today, 20 years from now.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/04/searching_abandoned_apps.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Jurewitz on features, pricing</title>
+		<link>http://www.manton.org/2013/04/jurewitz_on_features.html</link>
+		<comments>http://www.manton.org/2013/04/jurewitz_on_features.html#comments</comments>
+		<pubDate>Tue, 02 Apr 2013 16:34:23 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[features]]></category>
+		<category><![CDATA[jury]]></category>
+		<category><![CDATA[mvp]]></category>
+		<category><![CDATA[pricing]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/04/jurewitz_on_features.html</guid>
+		<description><![CDATA[Michael Jurewitz wrote a great post last week on minimum viable products: “As you look at your products and how you make them remember these key points. You don’t need all the features under the sun. You don’t need technical excellence (assuming you also avoid technical debt). You need to solve a worthwhile problem in [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://jury.me/blog/2013/3/30/mvp">Michael Jurewitz wrote a great post</a> last week on minimum viable products:</p>
+<blockquote><p>
+  “As you look at your products and how you make them remember these key points. You don’t need all the features under the sun. You don’t need technical excellence (assuming you also avoid technical debt). You need to solve a worthwhile problem in a delightful, thoughtful, and simple way.”
+</p></blockquote>
+<p>What he’s saying is it’s okay to be limited, but make that limited part totally polished. Cutting back features doesn’t mean you also cut back on quality. It reminds me of <a href="http://gettingreal.37signals.com/ch05_Half_Not_Half_Assed.php">the quote from 37signals</a>: “build half a product, not a half-ass product”.</p>
+<p>This is good advice that I need to take to heart. I don’t have much problem shipping. But my apps often have some rough edges at 1.0.</p>
+<p>Also don’t miss Jurewitz’s great <a href="http://mjtsai.com/blog/2013/04/01/understanding-app-store-pricing/">5-part series on App Store pricing</a>. I’m linking to Michael Tsai’s summary here, since it provides nice quotes and links to each part in the series. I saw the talk that these blog posts were based on twice, at Çingleton and NSConference, and this has to be the best translation of a conference session into blog form I’ve ever seen. Not to be missed.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/04/jurewitz_on_features.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>App Store old app maintenance</title>
+		<link>http://www.manton.org/2013/03/app_store_old.html</link>
+		<comments>http://www.manton.org/2013/03/app_store_old.html#comments</comments>
+		<pubDate>Fri, 22 Mar 2013 15:57:27 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[apps]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[art]]></category>
+		<category><![CDATA[downloads]]></category>
+		<category><![CDATA[newdisruptors]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/03/app_store_old.html</guid>
+		<description><![CDATA[David Smith on cleaning up the App Store: “The App Store currently has around 800k active apps listed. I suspect a significant number of these haven’t been updated in more than 12 months. An app that is listed for sale but is no longer under active development creates the possibility for bad user experience. It [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>David Smith on <a href="http://david-smith.org/blog/2013/03/21/purging-the-back-catalog/">cleaning up the App Store</a>:</p>
+<blockquote><p>
+  “The App Store currently has around <a href="http://148apps.biz/app-store-metrics/?mpage=appcount">800k</a> active apps listed. I suspect a significant number of these haven’t been updated in more than 12 months. An app that is listed for sale but is no longer under active development creates the possibility for bad user experience. It is like a grocery store that leaves expired produce on its shelves.”
+</p></blockquote>
+<p>He makes a good argument for removing old apps from the store, but I’d probably hesitate going all the way to actively take them out. There is certainly too much clutter in the App Store — too many apps that aren’t providing much value, some with little chance of an update. But I also dislike the already fragile state of App Store inventory. iOS apps require much more active maintenance than traditional, direct download Mac apps, which can be hosted anywhere and stay available without constant attention from the developer.</p>
+<p>At one point <a href="http://www.muleradio.net/newdisruptors/14/">on episode 14 of The New Disruptors podcast</a>, Glenn Fleishman talked with John Gruber about apps as a unique art form unlike paintings or novels or even film because apps are never done. John Gruber from that show, talking about software:</p>
+<blockquote><p>
+  “To me it is an art form. But it is the one thing that is continuously diddled with. You write a novel and it’s done, it’s out there. Once it’s published, it’s published. You make a movie, it’s done. George Lucas gets a lot of flak because he keeps revisiting his old Star Wars movies and making a change here and there, but it’s not like every year he comes out with a new version of Star Wars. […] But software — an app that has a vibrant and still-growing user base — it’s the same thing, constantly being iterated. It’s the only art form that is like that.”
+</p></blockquote>
+<p>There are always bugs, always missing features, and always (as is David’s point above) new hardware to adapt to. It’s an art form that won’t stay still, so maybe there is an inherent impermanence to it.</p>
+<p>But if apps are an art form, an important part of our culture, then it shouldn’t require so much work to make sure they don’t disappear forever, so quickly. This happened to me just this week, actually. I forgot to renew my iOS developer program account and my apps were automatically removed from sale for a few hours while I scrambled to pay my $99 again.</p>
+<p>Maybe there’s a compromise solution in here somewhere. Instead of being removed from sale, abandoned apps could switch to an archived state. They would no longer show up in top lists or even search, but could still be found with a direct link. With the right kind of fallback like that, Apple could be even more aggressive about gearing the App Store user experience around new apps and modern devices, without sacrificing what is good about the long tail of old apps.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/03/app_store_old.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.811 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 12:35:58 -->

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; macappstore</title>
+	<atom:link href="http://www.manton.org/tag/macappstore/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Clipstart 1.5</title>
+		<link>http://www.manton.org/2012/07/clipstart_15.html</link>
+		<comments>http://www.manton.org/2012/07/clipstart_15.html#comments</comments>
+		<pubDate>Mon, 02 Jul 2012 20:04:41 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[clipstart]]></category>
+		<category><![CDATA[discount]]></category>
+		<category><![CDATA[macappstore]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2012/07/clipstart_15.html</guid>
+		<description><![CDATA[Today I released Clipstart 1.5 for direct download customers and removed the previous version of Clipstart from the Mac App Store. Even though I&#8217;ve written about leaving the Mac App Store several times, actually pulling the trigger was difficult. But I believe it&#8217;s the right thing for my app, right now. Clipstart 1.5 is still [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Today I released <a href="http://www.riverfold.com/software/clipstart/">Clipstart 1.5</a> for direct download customers and removed the previous version of Clipstart from the Mac App Store. Even though I&#8217;ve written about leaving the Mac App Store several times, actually pulling the trigger was difficult. But I believe it&#8217;s the right thing for my app, right now.</p>
+<p>Clipstart 1.5 is still $29. Changes for this release:</p>
+<ul>
+<li>Now requires Mac OS X 10.7 Lion. Please do not upgrade to this version if you are running 10.5 or 10.6.</p>
+</li>
+<li>
+<p>Added &#8220;Consolidate&#8221; command for finding videos that have not been imported or duplicates outside the library.</p>
+</li>
+<li>
+<p>Added AppleScript support for uploading videos. See the help menu for scripting examples.</p>
+</li>
+<li>
+<p>Improved performance throughout the app, especially with importing and refreshing video thumbnails.</p>
+</li>
+<li>
+<p>Improved error message when failing to import all videos from a camera.</p>
+</li>
+<li>
+<p>Fixed tags field on Add Folder dialog not resetting tags value after an import.</p>
+</li>
+<li>
+<p>Support for Mac OS X 10.8 Mountain Lion&#8217;s Gatekeeper security.</p>
+</li>
+</ul>
+<p>If you&#8217;ve been thinking about buying Clipstart but were on the fence before, I&#8217;ll throw in a discount for you. Use coupon code MANTONBLOG to save 20%.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2012/07/clipstart_15.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Sandbox iLife and iWork</title>
+		<link>http://www.manton.org/2012/06/sandbox_ilife_and.html</link>
+		<comments>http://www.manton.org/2012/06/sandbox_ilife_and.html#comments</comments>
+		<pubDate>Mon, 25 Jun 2012 20:03:22 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[macappstore]]></category>
+		<category><![CDATA[sandboxing]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2012/06/sandbox_ilife_and.html</guid>
+		<description><![CDATA[Chad Sellers has a post comparing Mac App Store sandboxing to mistakes from Linux, with this very reasonable advice: &#8220;I believe that Apple should have at least led the way by sandboxing all of their own apps sold through the Mac App Store (I believe they have not sandboxed a single one of their 17).&#8221; [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.c-had.com/history-repeats-itself/">Chad Sellers has a post</a> comparing Mac App Store sandboxing to mistakes from Linux, with this very reasonable advice:</p>
+<blockquote><p>
+  &#8220;I believe that Apple should have at least led the way by sandboxing all of their own apps sold through the Mac App Store (I believe they have not sandboxed a single one of their 17).&#8221;
+</p></blockquote>
+<p>This reminds me of Twitter. When <a href="http://tweetmarker.net/collections/manton/xauthtooauth">Twitter forced third-party clients to move to OAuth</a>, but didn&#8217;t change their own app to use it, many developers said it was a double standard. Twitter&#8217;s response: the official Twitter app was part of the service, not really a separate app, so it didn&#8217;t need to use OAuth.</p>
+<p>Maybe Apple could make the same case for Mac OS X&#8217;s built-in apps: Address Book, iCal, and Mail don&#8217;t need to be sandboxed because they are part of the operating system. But that argument doesn&#8217;t work for Keynote or iMovie. Those apps should play by the same rules that all productivity and video software in the store does.</p>
+<p>If Apple were to sandbox a few of these it would go a long way toward convincing developers to do the same. And it would also shake out bugs and missing APIs in the whole sandbox environment.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2012/06/sandbox_ilife_and.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.921 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:45:10 -->

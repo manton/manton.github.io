@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; rogueamoeba</title>
+	<atom:link href="http://www.manton.org/tag/rogueamoeba/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>The only 2 fixes for the iPhone platform</title>
+		<link>http://www.manton.org/2009/11/the_only_2.html</link>
+		<comments>http://www.manton.org/2009/11/the_only_2.html#comments</comments>
+		<pubDate>Fri, 13 Nov 2009 20:07:11 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[airfoil]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[rogueamoeba]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2009/11/the_only_2.html</guid>
+		<description><![CDATA[I let my iPhone developer account expire last week. Even though I had already stopped development on my iPhone projects, officially letting go of even the temptation to build for the iPhone platform has really helped me focus. The &#8220;Rogue Amoeba rejection for Airfoil Speakers Touch&#8221;:http://www.rogueamoeba.com/utm/2009/11/13/airfoil-speakers-touch-1-0-1-finally-ships/ has been covered on Twitter and &#8220;at Daring Fireball&#8221;:http://daringfireball.net/2009/11/airfoil_touch_situation, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I let my iPhone developer account expire last week. Even though I had already stopped development on my iPhone projects, officially letting go of even the temptation to build for the iPhone platform has really helped me focus.</p>
+<p>The &#8220;Rogue Amoeba rejection for Airfoil Speakers Touch&#8221;:http://www.rogueamoeba.com/utm/2009/11/13/airfoil-speakers-touch-1-0-1-finally-ships/ has been covered on Twitter and &#8220;at Daring Fireball&#8221;:http://daringfireball.net/2009/11/airfoil_touch_situation, but I think it&#8217;s easy to get distracted by legal technicalities and not the heart of the matter: as long as Apple is the gatekeeper, there will be bad decisions and apps that deserve to be approved will be rejected instead. For this reason the App Store cannot be fixed with incremental improvements.</p>
+<p>There are only two possible solutions:</p>
+<h1>Accept all applications. Joe Hewitt, the developer of the Facebook application who this week also quit the App Store, &#8220;has written well on this solution&#8221;:http://joehewitt.com/post/innocent-until-proven-guilty/.</h1>
+<h1>Allow applications to be installed on the phone without being listed in the App Store. Both Android and the Palm Pre &#8220;support this model&#8221;:http://www.techcrunch.com/2009/10/05/palm-free-apps-for-the-web-free-development-for-open-source-and-free-pres/.</h1>
+<p>There is no third or fourth solution. There is no compromise or small improvement to the review process. Better transparency or tiered support options won&#8217;t help either. Without either of the above two changes, rejections will continue because in a subjective review process there will always be bad judgement calls. Some percentage of indie developers will abandon the iPhone either because the risk is too great or based on principle alone.</p>
+<p>Let me take the second one (allow applications to be installed without being listed) because it plays directly to this Rogue Amoeba rejection. Rogue Amoeba is one of my favorite Mac companies, and Daniel Jalkut and I record &#8220;Core Intuition&#8221;:http://www.coreint.org/ using their Audio Hijack Pro app. It&#8217;s universally regarded as great software.</p>
+<p>It might surprise you to find out that Audio Hijack Pro is not listed in the &#8220;Apple Downloads&#8221;:http://www.apple.com/downloads/macosx/ site, though other Rogue Amoeba products such as Fission, Nicecast, and Airfoil are. I&#8217;m not sure Rogue Amoeba has ever spoken on the record about this, but Apple apparently doesn&#8217;t like the app and won&#8217;t list it. Maybe because you can use it to record copyrighted music? Who knows.</p>
+<p>But it doesn&#8217;t matter because being rejected from Apple Downloads doesn&#8217;t mean you can&#8217;t make Mac software! It just means you have to market the software yourself. Rogue Amoeba has to work extra hard to get the word out about the app, but their business won&#8217;t fail just because Apple doesn&#8217;t give it their blessing.</p>
+<p>This is so important for a small company. I want my software to fail because it sucks, or is buggy, or doesn&#8217;t have the right features, not because Apple can shut me down over a minor difference of opinion.</p>
+<p>There are a lot of well-intentioned suggestions for improving the App Store, but the result will always be the same until we acknowledge the root problem. The only fix is for Apple to remove itself as gatekeeper, or let us route around them.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2009/11/the_only_2.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.695 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:47:23 -->

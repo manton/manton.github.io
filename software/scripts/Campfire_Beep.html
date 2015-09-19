@@ -1,0 +1,76 @@
+<html>
+
+<!-- Mirrored from www.manton.org/software/scripts/Campfire_Beep.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 19 Sep 2015 19:52:35 GMT -->
+<head>
+<title>Campfire Beep source</title>
+</head>
+<body bgcolor="white">
+
+<pre><code>
+<font color="gray">-- Campfire Beep.app
+-- by Manton Reece
+-- <a href="../../2006/02/campfire_beep.html">http://www.manton.org/2006/02/campfire_beep.html</a>
+-- last updated Feb 20, 2006</font>
+
+<font color="gray">-- simple global to keep track of the HTML for the chat messages
+-- it's a list of records that look like: {href:"http://you.campfirenow.com/room/123", html:"abcdef"}</font>
+global <font color="green">saved_source_list</font>
+set <font color="green">saved_source_list</font> to {}
+
+on idle
+   
+   try
+      
+      <font color="gray">-- get frontmost app
+      -- we'll use this to not beep if Safari is in the front, because it can be annoying while chatting</font>
+      tell application "System Events" to set front_list to name of every process whose frontmost is true and visible is not equal to false
+      
+      tell application "Safari"
+         repeat with <font color="green">d</font> in <font color="green">documents</font>
+            set <font color="green">the_url</font> to URL of <font color="green">d</font> as string
+            if <font color="green">the_url</font> contains "campfirenow.com/room/" then
+               
+               <font color="gray">-- we can't get the full page source via Apple Events because the contents are updated via Ajax
+               -- this little JavaScript will only retrieve the HTML from the chat messages table</font>
+               set <font color="green">js</font> to "return document.getElementById('chat').innerHTML"
+               set <font color="green">new_source</font> to do JavaScript <font color="green">js</font> in <font color="green">d</font>
+               
+               <font color="gray">-- try to find the page in our HTML source cache list</font>
+               set <font color="green">found_page</font> to false
+               repeat with <font color="green">info</font> in <font color="green">saved_source_list</font>
+                  if href of <font color="green">info</font> is equal to <font color="green">the_url</font> then
+                     set <font color="green">found_page</font> to true
+                     if <font color="green">new_source</font> is not equal to html of <font color="green">info</font> then
+                        if item 1 of <font color="green">front_list</font> is not equal to "Safari" then
+                           beep
+                        end if
+                     end if
+                     set html of <font color="green">info</font> to <font color="green">new_source</font>
+                  end if
+               end repeat
+               
+               <font color="gray">-- if wasn't already cached, add it to end of list</font>
+               if not <font color="green">found_page</font> then
+                  set <font color="green">new_info</font> to {href:<font color="green">the_url</font>, html:<font color="green">new_source</font>}
+                  set <font color="green">saved_source_list</font> to <font color="green">saved_source_list</font> & {<font color="green">new_info</font>}
+               end if
+            end if
+         end repeat
+         
+      end tell
+      
+   on error <font color="green">error_text</font>
+      <font color="gray">-- could enable this for debugging
+      -- the error is probably hardmless and we don't want to be bothered
+      --display dialog error_text</font>
+   end try
+   
+   <font color="gray">-- try again in 2 seconds</font>
+   return 2
+end idle
+</code></pre>
+
+</body>
+
+<!-- Mirrored from www.manton.org/software/scripts/Campfire_Beep.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 19 Sep 2015 19:52:35 GMT -->
+</html>

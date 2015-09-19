@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; api</title>
+	<atom:link href="http://www.manton.org/tag/api/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>I will return to Twitter when&#8230;</title>
+		<link>http://www.manton.org/2015/08/i-will-return-to-twitter-when.html</link>
+		<comments>http://www.manton.org/2015/08/i-will-return-to-twitter-when.html#comments</comments>
+		<pubDate>Fri, 14 Aug 2015 19:24:38 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[api]]></category>
+		<category><![CDATA[openweb]]></category>
+		<category><![CDATA[rss]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2944</guid>
+		<description><![CDATA[As I&#8217;m catching up on some news, two posts today about Twitter caught me eye. First, very big news via Federico Viticci, that full tweet search is available even to third-party apps. Twitter&#8217;s limited search was the main reason I originally built Tweet Library. It&#8217;s fantastic that this data is now more easily available. But [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>As I&#8217;m catching up on some news, two posts today about Twitter caught me eye. First, very big news via Federico Viticci, that full tweet search <a href="https://blog.twitter.com/2015/full-archive-search-api">is available even to third-party apps</a>. Twitter&#8217;s limited search was the main reason I originally built <a href="http://appstore.com/tweetlibrary">Tweet Library</a>. It&#8217;s fantastic that this data is now more easily available.</p>
+<p>But it was this opening paragraph from <a href="http://www.macworld.com/article/2970341/web-social/twitter-on-the-mac-do-your-job-or-get-out-of-the-way.html">Jason Snell&#8217;s article on Macworld</a> about Twitter neglecting the Mac version that got me thinking:</p>
+<blockquote><p>
+  &#8220;Three years ago this month Twitter <a href="http://www.macworld.com/article/1168183/twitter_hands_down_new_strict_rules_for_third_party_developers.html">broke its covenant with the third-party developers</a> who helped fuel its initial growth and create some of its most innovative features. The message was clear: Twitter was in charge of its own platform, and while other Twitter apps would be tolerated, it would only be in limited fashion and for a limited time.&#8221;
+</p></blockquote>
+<p>It was around this time, nearly 3 years ago, that I posted my last tweet. My bet with <a href="http://bitsplitting.org/">Daniel</a> is over whether I will return to Twitter within 5 years. People ask if I&#8217;ll come back sooner, and if I did, what it would take. I&#8217;ve often struggled to articulate those conditions, because I think we are seeing <a href="http://www.manton.org/2015/07/ev-on-twitter-third-party-devs.html">slow but consistent progress</a> to unwind the developer-hostile decisions made a few years ago. It may be that in a couple years the environment will be much improved, but there won&#8217;t be any single decision that &#8220;fixed&#8221; it, or it may be that Twitter is doomed to have changing leadership and there will never be any guarantees.</p>
+<p>There is one thing, though. There is one change that was made while rolling out the version 1.1 Twitter API: they removed support for unauthenticated RSS feeds of user tweets or timelines. If they reversed that one decision, the next day I would be back on Twitter.</p>
+<p>I can pick out a single feature like this, among every other improvement that third-party developers would love to see, because the combination of removing RSS and at the same time locking down the API — those changes together best represent the move away from the open web. Any other incremental improvement short of unauthenticated RSS, no matter how welcome, isn&#8217;t enough.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/08/i-will-return-to-twitter-when.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Ev on Twitter third-party devs</title>
+		<link>http://www.manton.org/2015/07/ev-on-twitter-third-party-devs.html</link>
+		<comments>http://www.manton.org/2015/07/ev-on-twitter-third-party-devs.html#comments</comments>
+		<pubDate>Fri, 17 Jul 2015 15:25:39 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[api]]></category>
+		<category><![CDATA[ev]]></category>
+		<category><![CDATA[platforms]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2855</guid>
+		<description><![CDATA[Business Insider quotes Evan Williams on the developer-hostile attitude of previous Twitter management: “The API denial was, ‘One of our strategic errors we had to wind down over time,’ Evans explained. ‘It wasn’t a win/win for developers, users, and the company.’” Just acknowledging this publicly is progress. It’s now been almost 3 years since my [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.businessinsider.com/evan-williams-on-twitter-and-developers-2015-7">Business Insider quotes Evan Williams</a> on the developer-hostile attitude of previous Twitter management:</p>
+<blockquote><p>
+  “The API denial was, ‘One of our strategic errors we had to wind down over time,’ Evans explained. ‘It wasn’t a win/win for developers, users, and the company.’”
+</p></blockquote>
+<p>Just acknowledging this publicly is progress. It’s now been almost 3 years since my last tweet. I don’t expect to return to Twitter, but I’m still very interested in whether there&#8217;ll be a noticeable change in direction from the new CEO.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/07/ev-on-twitter-third-party-devs.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The risk of a small platform</title>
+		<link>http://www.manton.org/2014/05/the_risk_of.html</link>
+		<comments>http://www.manton.org/2014/05/the_risk_of.html#comments</comments>
+		<pubDate>Wed, 07 May 2014 22:24:51 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[adn]]></category>
+		<category><![CDATA[api]]></category>
+		<category><![CDATA[platforms]]></category>
+		<category><![CDATA[sunlit]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/05/the_risk_of.html</guid>
+		<description><![CDATA[Marco Arment responds to my comment that developers should have seen the potential of the App.net API as something much bigger than Twitter. I wanted my post to be short, but Marco makes good points that are worth following up on. He writes: “Building an app on someone else’s API, rather than making your own, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.marco.org/2014/05/07/manton-adn-api">Marco Arment responds</a> to my comment that developers should have seen the potential of the App.net API as something much bigger than Twitter. I wanted <a href="http://www.manton.org/2014/05/appnet_niche.html">my post</a> to be short, but Marco makes good points that are worth following up on. He writes:</p>
+<blockquote><p>
+  “Building an app on someone else’s API, rather than making your own, is a huge risk: it usually only pays off if the service provides a huge existing userbase and hard-to-duplicate functionality. App.net never offered either. They started out facing the typical social-network chicken-and-egg problem, put a huge paywall in front to prevent any growth, and tried to alleviate that by adding more chicken-and-egg problems to their offerings.”
+</p></blockquote>
+<p>Building entirely on App.net for <a href="http://sunlit.io/">Sunlit</a> was indeed a huge risk, and one that we expected would take time to pay off. It was a bet on the future. We are incredibly proud of our app and the response it got in the App.net community, but our goal was always to make an app <a href="http://manton.org/2014/01/no_coincidence.html">that appealed to everyone</a>, not just a small niche of tech folks. We’ve actually been working for over a month on a new version of Sunlit that expands the reach of the app beyond App.net, and coincidentally it just went into review at Apple this week.</p>
+<p>But I think the chicken-and-egg problem was solvable. The main issue with iOS apps is that they couldn’t sign up a new user directly in the app. This made sense when App.net was a paid-only service, because you’d run into in-app purchase issues with Apple, but it became more technically feasible when the free tier launched.</p>
+<p>The App.net founders also seemed receptive to the idea. There just wasn’t time to make it happen. I believe this single roadblock prevented any potentially-mainstream <a href="http://manton.org/2013/08/waiting_for_appnets.html">killer apps</a> built on App.net from getting off the ground. If it’s not easy to open a third-party app, create an account, and start using the service, too many people will give up. (Our numbers showed that only 40% of Sunlit downloads actually signed in to use the app for real.)</p>
+<p>However, building our own backend for the app would also be very challenging and expensive. We are not syncing small bits of data around. It’s a photo sharing app, so right off the bat you’ve got big files that have to be hosted somewhere. On top of that there’s collaboration features, so you need not just user accounts but private sync channels that have specific read/write access to certain users. Plus all the metadata and formats to support syncing text, photos, and location check-in information. Not to mention publishing HTML, thumbnails, and maps. It’s daunting.</p>
+<p>(In fact, it’s so daunting, I don’t think there’s a single app in the App Store that has feature-parity with Sunlit. The app simply could not have been built by a tiny team of 2 part-time developers if building a whole backend infrastructure first was a prerequisite.)</p>
+<p>Marco closes with this:</p>
+<blockquote><p>
+  “As much as App.net wanted to be — and eventually was — much more than a Twitter clone, it got the vast majority of its initial funding, enthusiasm, and developer support from people’s anger at Twitter’s dickification. But internet outrage doesn’t last long. Since App.net never became the new primary place where our friends all hung out, most of us never left Twitter — we all just accept that they’re dicks now, and we forgot about App.net.”
+</p></blockquote>
+<p>There’s an argument to be made that App.net’s core mistake was building the Alpha web interface only far enough to match Twitter’s features and then moving on to other things. Instead, they could have kept improving Alpha until it was significantly better than Twitter, so good that it couldn’t be ignored. By doing so, maybe they would have also more effectively demonstrated the power of the API underneath.</p>
+<p>I assume that App.net chose not to do this so they wouldn’t compete with developers. After all, the service was founded on the idea that developers should be respected and given every opportunity to succeed. Finding the right balance to showcase the platform with first-party apps without stepping on developers is not always easy. We can argue about which missteps were the most costly, but the founders never wavered on their original principles and they promoted every app that launched on the platform. That means something.</p>
+<p>As for outrage not lasting long on the internet, Marco’s totally right. I just <a href="http://www.manton.org/2014/05/would_i_go_back.html">don’t forget that easily</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/05/the_risk_of.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Tweet Marker now paid-only</title>
+		<link>http://www.manton.org/2013/11/tweet_marker_now.html</link>
+		<comments>http://www.manton.org/2013/11/tweet_marker_now.html#comments</comments>
+		<pubDate>Fri, 29 Nov 2013 16:09:40 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[api]]></category>
+		<category><![CDATA[apps]]></category>
+		<category><![CDATA[plans]]></category>
+		<category><![CDATA[tweetmarker]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/11/tweet_marker_now.html</guid>
+		<description><![CDATA[If you’ve read my blog posts about Tweet Marker over the years, including this one when introducing a paid plan, you might hear a little indecision on the right path forward. I’ve run it more like a community service and less like a business, and admittedly the window for turning it into a profitable endeavor [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>If you’ve read my blog posts about Tweet Marker over the years, including <a href="http://manton.org/2013/07/announcing_the_tweet.html">this one when introducing a paid plan</a>, you might hear a little indecision on the right path forward. I’ve run it more like a community service and less like a business, and admittedly the window for turning it into a profitable endeavor has slipped away. But I still want to make the service work well and improve it.</p>
+<p>After vacationing this week leading up to Thanksgiving, I finally realized I need to remove the support burden of giving out free access. Starting today, Tweet Marker will transition to a paid-only service. To make this easier, I’ve introduced a less expensive $25/month plan for smaller developers. (Previously the only choice was $75/month, which is now the top tier plan with unlimited active users.)</p>
+<p>This solves the problem of automating access to the API. Instead of having to manually fulfill API keys so that developers could try out Tweet Marker, which usually meant weeks or months of delay until I could get to it, by signing up online, developers get immediate access to the API without having to wait on me.</p>
+<p>In the short term, this change means that new apps must subscribe before using the API. In the long run, all existing apps should also transition to a paid plan. I haven’t set a hard deadline for existing apps yet, but will work with developers over the coming months to do so.</p>
+<p>You can learn more at <a href="https://api.tweetmarker.net/developers/">tweetmarker.net/developers/</a>.</p>
+<p><strong>Update:</strong> To be clear, this post is only for developers. There&#8217;s a <a href="https://api.tweetmarker.net/subscribe">$1/month subscription</a> for end users but it is optional.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/11/tweet_marker_now.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Twitter API v1.1</title>
+		<link>http://www.manton.org/2013/03/twitter_api_v11.html</link>
+		<comments>http://www.manton.org/2013/03/twitter_api_v11.html#comments</comments>
+		<pubDate>Wed, 20 Mar 2013 18:19:14 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[api]]></category>
+		<category><![CDATA[tweetlibrary]]></category>
+		<category><![CDATA[tweetmarker]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[watermark]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/03/twitter_api_v11.html</guid>
+		<description><![CDATA[My apps Watermark and Tweet Marker were recently updated to version 1.1 of Twitter’s API. I’ve also finished the coding changes in Tweet Library to support 1.1, but it has not yet been submitted to Apple. I expect it to be another week while I wrap up a new feature included in the update. I [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>My apps <a href="http://watermark.io/">Watermark</a> and <a href="http://tweetmarker.net/">Tweet Marker</a> were recently updated to version 1.1 of Twitter’s API. I’ve also finished the coding changes in Tweet Library to support 1.1, but it has not yet been submitted to Apple. I expect it to be another week while I wrap up a new feature included in the update.</p>
+<p>I don’t like having my release schedule dictated by others, but that’s life as a Twitter developer. And why I no longer post there.</p>
+<p>This matters today because Twitter is running an API <a href="https://dev.twitter.com/blog/api-v1-retirement-update">blackout test</a>. Tweet Library will not be able to load new tweets this afternoon for about an hour (3pm PST) while v1 is unavailable. I’ll post again here and from <a href="https://alpha.app.net/riverfold">@riverfold on App.net</a> when the new version of Tweet Library is shipped off to Apple and live in the App Store.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/03/twitter_api_v11.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Twitter lock-in</title>
+		<link>http://www.manton.org/2012/08/twitter_lockin.html</link>
+		<comments>http://www.manton.org/2012/08/twitter_lockin.html#comments</comments>
+		<pubDate>Tue, 21 Aug 2012 17:47:28 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[api]]></category>
+		<category><![CDATA[tweetlibrary]]></category>
+		<category><![CDATA[tweetmarker]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2012/08/twitter_lockin.html</guid>
+		<description><![CDATA[With every day since Twitter’s new rules were announced, my opinion grows stronger that this is the end of the platform as we’ve known it for the last few years. It hurts that so much of what was pioneered by the developer community has been co-opted and trademarked and turned against developers. Nothing will change [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>With every day since <a href="https://dev.twitter.com/blog/changes-coming-to-twitter-api">Twitter’s new rules</a> were announced, my opinion grows stronger that this is the end of the platform as we’ve known it for the last few years. It hurts that <a href="http://furbo.org/2011/03/11/twitterrific-firsts/">so much of what was pioneered by the developer community</a> has been co-opted and trademarked and turned against developers. Nothing will change tomorrow; we can expect new versions of Tweetbot, Twitterrific, and my own app Tweet Library. But in the long run it’s a dead-end.</p>
+<p>Lex Friedman, <a href="http://www.macworld.com/article/1168222/twitter_app_makers_trying_to_figure_out_the_future.html">writing for Macworld</a>:</p>
+<blockquote><p>
+  “Some developers are notably hesitant to speak on the record, lest they incur Twitter’s wrath; the fear seems to be that since Twitter is now exerting more control than ever over access to its API—which developers leverage to make their Twitter apps work—that irking Twitter too much might result in a developer’s API access getting revoked.”
+</p></blockquote>
+<p>I have less at stake than developers with popular mainstream apps, so in a way I feel it’s my duty to speak out when it’s warranted, where others can’t. I’m quoted in <a href="http://thenextweb.com/twitter/2012/08/21/twitter-secured/">Matthew Panzarino’s article</a> on the Twitter API change, and I was <a href="http://www.kqed.org/news/story/2012/08/20/105989/new_twitter_rules_restrict_app_development_sales?category=bay+area">interviewed for a radio spot on San Francisco’s KQED</a>.</p>
+<p>I could live with some of the API changes. I could live with the display requirements, even the user caps. Maybe I could live in a developer-hostile environment, finding a market niche far below Twitter’s radar. Except for two things:</p>
+<ul>
+<li><strong>“Timeline integrity”</strong>: The display guidelines say you can’t mix other content in a timeline of tweets. You can’t easily have a multi-platform app that shows both App.net posts and Twitter tweets in the same view.</p>
+</li>
+<li>
+<p><strong>Trademarks</strong>: You are allowed to use “Tweet” in the name of your app, but only if Twitter is the only service you support. You can’t add Facebook or App.net or Heello support alongside Twitter.</p>
+</li>
+</ul>
+<p>These are anti-competitive and unworkable. So I’ve decided to spin off Tweet Marker Plus, my paid web-based app that builds on top of the Tweet Marker sync engine. I’ll relaunch it with a new name, slowly introducing new features that aren’t tied exclusively to Twitter. For a hint of where it’s going, you can <a href="https://alpha.app.net/manton">follow me on App.net</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2012/08/twitter_lockin.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Tweet Marker Plus and API v2</title>
+		<link>http://www.manton.org/2012/04/tweet_marker_plus.html</link>
+		<comments>http://www.manton.org/2012/04/tweet_marker_plus.html#comments</comments>
+		<pubDate>Mon, 02 Apr 2012 18:48:23 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[api]]></category>
+		<category><![CDATA[plus]]></category>
+		<category><![CDATA[subscription]]></category>
+		<category><![CDATA[tweetmarker]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2012/04/tweet_marker_plus.html</guid>
+		<description><![CDATA[Tweet Marker is going really well. It&#8217;s growing fast, users love it, and it has wide support in all of my favorite Twitter apps. Today I&#8217;m announcing the next step for the service: Tweet Marker Plus. This is a paid subscription with additional features, such as a brand new search and a web-based timeline that [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Tweet Marker is going really well. It&#8217;s growing fast, users love it, and it has wide support in all of my favorite Twitter apps.</p>
+<p>Today I&#8217;m announcing the next step for the service: Tweet Marker Plus. This is a paid subscription with additional features, such as a brand new search and a web-based timeline that syncs with Tweet Marker. Along with Plus, I&#8217;m rolling out version 2 of the API.</p>
+<p>We&#8217;ve learned a lot over the last few months. Here are some of the things that I wanted to improve for the next version of Tweet Marker, both for the API and the business.</p>
+<ul>
+<li><em>Consistent behavior across clients.</em> It was fine at first for everyone to experiment with their own way to use the API, but now it&#8217;s time to come up with some best practices to guide developers.</p>
+</li>
+<li>
+<p><em>More frequent sync.</em> Mac and iPad clients in particular &mdash; where the app may stay in the front for some time &mdash; need to be hitting the server at regular intervals to catch changes from other devices. I believe this is the most common source of problems.</p>
+</li>
+<li>
+<p><em>JSON-based API.</em> The &#8220;v2&#8243; API should use JSON and carry more metadata, such as timestamps for the tweets and when it synced.</p>
+</li>
+<li>
+<p><em>Profitable hosting.</em> Although I&#8217;ve accepted donations since nearly the beginning, hosting costs are way up. I didn&#8217;t originally intend to turn this into its own business, but that is the clear way forward. It needs to bring in consistent revenue to cover hosting now and into the future.</p>
+</li>
+</ul>
+<p>With paid subscriptions, I can tackle the above bullets and also add more features. The first new feature to launch as part of Plus is a new search. Tweet Marker Plus indexes tweets from your friends so that you can find tweets later. It&#8217;s the solution to use when you don&#8217;t want to search all of Twitter, but you also want a large collection of tweets, not just the most recent ones that many clients store and filter.</p>
+<p>Tweet Marker Plus is $2/month. You can sign up today at &#8220;tweetmarker.net/plus&#8221;:http://tweetmarker.net/plus. Also check out &#8220;the screencast&#8221;:http://www.riverfold.com/software/tweetmarker/.</p>
+<p>The API documentation has moved to Github and is &#8220;also available now&#8221;:https://github.com/manton/tweetmarker/.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2012/04/tweet_marker_plus.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Twitter app chance</title>
+		<link>http://www.manton.org/2011/07/twitter_app_chance.html</link>
+		<comments>http://www.manton.org/2011/07/twitter_app_chance.html#comments</comments>
+		<pubDate>Thu, 14 Jul 2011 16:45:46 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[api]]></category>
+		<category><![CDATA[kiwi]]></category>
+		<category><![CDATA[oauth]]></category>
+		<category><![CDATA[tweetlibrary]]></category>
+		<category><![CDATA[tweetmarker]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2011/07/twitter_app_chance.html</guid>
+		<description><![CDATA[Five years ago today, I joined Twitter as its 897th user, though for some reason &#8220;my first tweet&#8221;:http://twitter.com/manton/statuses/1457463 wasn&#8217;t until a few months later. So much has changed in the meantime &#8212; the API always in flux, the transition from primarily SMS, to web, to apps &#8212; but in many ways the core of the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Five years ago today, I joined Twitter as its 897th user, though for some reason &#8220;my first tweet&#8221;:http://twitter.com/manton/statuses/1457463 wasn&#8217;t until a few months later. So much has changed in the meantime &mdash; the API always in flux, the transition from primarily SMS, to web, to apps &mdash; but in many ways the core of the service remains intact and stronger than ever. Short messages, distributed efficiently to friends.</p>
+<p>I talked about some of the good and bad of being a Twitter developer &#8220;on the ATX Web Show last week&#8221;:http://atxwebshow.com/2011/07/05/episode-34-tweet-library-with-manton/. There have been a string of changes that cause developers to scramble: turning off basic auth, discouraging mainstream clients, disabling DMs for xAuth. With each step, Twitter loses a little goodwill, and that&#8217;s demonstrated in the tweets I &#8220;collected over the xAuth change&#8221;:http://tweetlibrary.com/manton/xauthtooauth.</p>
+<p>Even as Twitter passes 1 million registered apps, there&#8217;s a risk that some developers will stick with the platform as users only, putting their apps in maintenance mode. In May, &#8220;Kiwi developer Isaiah stopped development&#8221;:http://yourhead.tumblr.com/post/5550105265/i-love-you-kiwi-i-know of his Mac Twitter app:</p>
+<blockquote><p>&#8220;I&#8217;m just going to take a break from Kiwi for a while. It&#8217;s still for sale. I still support it. I&#8217;ll still fix bugs when they crop up. But adding new features and playing catch up with the other guys/gals is off the table.&#8221;</p></blockquote>
+<p>Maybe because I don&#8217;t have to depend on Tweet Library sales, I tend to more stubbornly ignore what is good business sense. There&#8217;s so much I still want to do. As &#8220;I wrote in my previous take&#8221;:http://www.manton.org/2011/03/twitters.html on the state of the platform: &#8220;I&#8217;m a little discouraged, but not enough to stop.&#8221;</p>
+<p>I think that&#8217;s doubly true today. More annoyed, but also more determined to plug holes in the platform, from archiving to syncing. I couldn&#8217;t be more excited about the developers who are building in &#8220;Tweet Marker&#8221;:http://tweetmarker.net/ support.</p>
+<p>And there&#8217;s always a chance, a feeling that something big is just around the corner. That if I don&#8217;t add that one feature, or open up that new API, I&#8217;ll miss the tipping point that makes Tweet Library really take off.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2011/07/twitter_app_chance.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>FAQ for Tweet Marker</title>
+		<link>http://www.manton.org/2011/06/faq_for_tweet.html</link>
+		<comments>http://www.manton.org/2011/06/faq_for_tweet.html#comments</comments>
+		<pubDate>Mon, 13 Jun 2011 19:59:56 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[api]]></category>
+		<category><![CDATA[tweetlibrary]]></category>
+		<category><![CDATA[tweetmarker]]></category>
+		<category><![CDATA[tweetmarks]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2011/06/faq_for_tweet.html</guid>
+		<description><![CDATA[I mentioned in &#8220;my first post about Tweet Marker&#8221;:http://www.manton.org/2011/06/tweet_marker.html that there were some decisions still to be made about the service. I don&#8217;t know everything yet, but I do want to answer some common questions I&#8217;m hearing from users and developers. Will Tweet Marker be free? Yes, I do not plan to charge users directly [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I mentioned in &#8220;my first post about Tweet Marker&#8221;:http://www.manton.org/2011/06/tweet_marker.html that there were some decisions still to be made about the service. I don&#8217;t know everything yet, but I do want to answer some common questions I&#8217;m hearing from users and developers.</p>
+<p><em>Will Tweet Marker be free?</em></p>
+<p>Yes, I do not plan to charge users directly to use the service. There will also be no charge to developers for the basic sync API. However, it will take on real hosting costs, so I plan to have a more advanced paid plan (with more features and stats) so that participating Twitter apps can help pay for the service.</p>
+<p><em>How useful is it if the official Twitter app doesn&#8217;t support it?</em></p>
+<p>It is still very useful for users of third-party Twitter clients. I couldn&#8217;t allow the official Twitter app to use the API even if they wanted to, because theirs is a free app and has such a huge number of users. I also like that Tweet Marker becomes a selling point and discovery tool for other apps.</p>
+<p><em>Shouldn&#8217;t Twitter provide this service as part of their API?</em></p>
+<p>That would be great, but Twitter doesn&#8217;t seem interested in providing such a service. They don&#8217;t encourage users to read everything in their timeline, and it would be a little at odds with their focus on only the latest tweets.</p>
+<p><em>Why aren&#8217;t you using Apple&#8217;s new iCloud?</em></p>
+<p>The primary goal with Tweet Marker is to enable different Twitter apps to work together. iCloud is designed for storage and syncing only between apps from the same developer, so it&#8217;s not appropriate as a replacement architecture for Tweet Marker.</p>
+<p><em>Where is it hosted and what language was it written in?</em></p>
+<p>It is hosted on Heroku, which also powers the web site for my iPad app Tweet Library. Tweet Marker is written in Ruby with the Sinatra framework, and backed by PostgreSQL.</p>
+<p><em>What about sample code for building this into an app?</em></p>
+<p>I&#8217;m working on an example project for Mac and iOS. In the meantime, remember that it uses OAuth Echo, which is what most Twitter apps should already be using to post to Twitpic and Yfrog. Just change the URL to use the Tweet Marker server and include the tweet status ID in the POST body. To retrieve the value, it&#8217;s just a GET request without authentication. &#8220;See the docs&#8221;:http://tweetmarker.net/ for more.</p>
+<p><em>Update:</em> I reworded the part above about whether the service will be free, since I don&#8217;t control how third-party clients will make this feature available to their users. I also updated it to reflect the service name change from Tweetmarks to Tweet Marker.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2011/06/faq_for_tweet.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Twitter&#8217;s platform at 5 years</title>
+		<link>http://www.manton.org/2011/03/twitters_platform_at.html</link>
+		<comments>http://www.manton.org/2011/03/twitters_platform_at.html#comments</comments>
+		<pubDate>Sat, 19 Mar 2011 13:23:30 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[api]]></category>
+		<category><![CDATA[oauth]]></category>
+		<category><![CDATA[tweetlibrary]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2011/03/twitters_platform_at.html</guid>
+		<description><![CDATA[Twitter recommended upgrading to OAuth &#8220;for optimal security&#8221; and so developers don&#8217;t need to &#8220;worry about the user changing their password&#8221;. While I dislike APIs that break old clients, I saw mostly the good things about OAuth, framed around letting the user approve access to their own account. Seven months ago, as Twitter was finishing [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Twitter recommended upgrading to OAuth <a href="http://dev.twitter.com/pages/security_best_practices">&#8220;for optimal security&#8221;</a> and so developers don&#8217;t need to <a href="http://dev.twitter.com/announcements">&#8220;worry about the user changing their password&#8221;</a>. While I dislike APIs that break old clients, I saw mostly the good things about OAuth, framed around letting the user approve access to their own account.</p>
+<p>Seven months ago, as Twitter was finishing the OAuth transition, &#8220;Buzz Andersen tweeted this&#8221;:http://twitter.com/buzz/statuses/21402358130:</p>
+<blockquote><p>&#8220;Twitter isn&#8217;t just enforcing OAuth for technical reasons: it&#8217;s a way of taking control of the platform.&#8221;</p></blockquote>
+<p>I&#8217;m not sure I got it at the time. Twitter was all about open APIs, right? They encouraged new clients, and the original Mac client Twitterrific had &#8220;brought a lot of innovation and standards&#8221;:http://furbo.org/2011/03/11/twitterrific-firsts/ to the platform. Why would they need this level of control?</p>
+<p>&#8220;The email from Ryan Sarver&#8221;:http://groups.google.com/group/twitter-development-talk/browse_thread/thread/c82cd59c7a87216a/7dd46c26157c9e29 last week showed part of how Twitter is changing as a company, refocusing from building a network to selling a product. Reading between the lines, it seems that to effectively sell ads, Twitter feels they need to control the user experience. On Twitter clients:</p>
+<blockquote><p>&#8220;Developers have told us that they&#8217;d like more guidance from us about the best opportunities to build on Twitter. More specifically, developers ask us if they should build client apps that mimic or reproduce the mainstream Twitter consumer client experience. The answer is no.&#8221;</p></blockquote>
+<p>Disappointing. At a panel on the Twitter API at SXSW, that sadly no one from Twitter in Austin knew about, the mood was pretty dim. I said to the room that we expected more from Twitter.</p>
+<p>Then over the weekend, Ryan clarified: &#8220;we are saying it&#8217;s not a good business to be in but we aren&#8217;t shutting them off or telling devs they can&#8217;t build them.&#8221; There&#8217;s still plenty of uncertainty, but that&#8217;s a more hopeful message. I collected some additional &#8220;related tweets on tweetlibrary.com&#8221;:http://tweetlibrary.com/manton/twitterapirules.</p>
+<p>Many people during SXSW asked me what this means for Tweet Library. Is Tweet Library a mainstream Twitter client? It has all the basic features of a normal client, but no, not really. It&#8217;s meant to be something more, something unique that solves problems no one else is working on, least of all Twitter.</p>
+<p>I&#8217;m a little discouraged, but not enough to stop. I owe it to my customers to finish what I started: to fix bugs, add new features, polish the rough edges, and make Tweet Library the best app on the Twitter platform.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2011/03/twitters_platform_at.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 2.493 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:23:24 -->

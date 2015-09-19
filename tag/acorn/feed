@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; acorn</title>
+	<atom:link href="http://www.manton.org/tag/acorn/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Acorn 5</title>
+		<link>http://www.manton.org/2015/08/acorn-5.html</link>
+		<comments>http://www.manton.org/2015/08/acorn-5.html#comments</comments>
+		<pubDate>Thu, 20 Aug 2015 17:09:06 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[acorn]]></category>
+		<category><![CDATA[flyingmeat]]></category>
+		<category><![CDATA[graphics]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2962</guid>
+		<description><![CDATA[Flying Meat&#8217;s Acorn 5 is out. I&#8217;ve been using the beta for a while and it&#8217;s a great release. Read Gus Mueller&#8217;s blog post for some of the features, including neat tricks you can do with the new Shape Processor. I also love this section about focusing on bug fixes: &#8220;So we fixed pretty much [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Flying Meat&#8217;s Acorn 5 is out. I&#8217;ve been using the beta for a while and it&#8217;s a great release. Read <a href="http://shapeof.com/archives/2015/8/so_awesome_its_nuts.html">Gus Mueller&#8217;s blog post</a> for some of the features, including neat tricks you can do with the new Shape Processor.</p>
+<p>I also love this section about focusing on bug fixes:</p>
+<blockquote><p>
+  &#8220;So we fixed pretty much all of those. It took months and months of work, it was super boring and mind numbing and it was really hard to justify, and it made Acorn 5 super late. But we did it anyway, because something in us felt that software quality has been going downhill in general, and we sure as heck weren&#8217;t going to let that happen to Acorn.&#8221;
+</p></blockquote>
+<p>Congrats to Gus on another big release. You should <a href="http://flyingmeat.com/acorn/">check it out here</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/08/acorn-5.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Acorn 3</title>
+		<link>http://www.manton.org/2011/04/acorn_3.html</link>
+		<comments>http://www.manton.org/2011/04/acorn_3.html#comments</comments>
+		<pubDate>Mon, 18 Apr 2011 14:43:04 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[acorn]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[flyingmeat]]></category>
+		<category><![CDATA[versions]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2011/04/acorn_3.html</guid>
+		<description><![CDATA[On a &#8220;recent Core Intuition&#8221;:http://www.coreint.org/2011/03/episode-38-the-impression-of-standing-still/, Daniel and I talked about version numbers and the message you send by going to 2.0 or 3.0. The version is as much about marketing as it is about technically tracking the release. I can think of no better example of this than &#8220;Acorn 3&#8243;:http://flyingmeat.com/acorn/. The app started simply enough [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>On a &#8220;recent Core Intuition&#8221;:http://www.coreint.org/2011/03/episode-38-the-impression-of-standing-still/, Daniel and I talked about version numbers and the message you send by going to 2.0 or 3.0. The version is as much about marketing as it is about technically tracking the release.</p>
+<p>I can think of no better example of this than &#8220;Acorn 3&#8243;:http://flyingmeat.com/acorn/. The app started simply enough &mdash; first as just a new FlySketch, then as a simple image editor, then becoming more advanced with each iteration &mdash; but it has really hit its stride with 3.0. The landmark feature, layer styles, alone warrants the bump to 3.0.</p>
+<p>Combine with the overall maturity of the app and you get a blockbuster release. Acorn made the top grossing list and was outselling all other non-Apple software. My Twitter stream lit up with good things about the app.</p>
+<p>The version number is a part of that. This isn&#8217;t a 2.5. The 3.0 is saying: this is big news, and anyone who has maybe heard of Acorn but never tried it needs to give this version a shot.</p>
+<p>I&#8217;m particularly happy for Gus because he&#8217;s earned this success over years. From the archives in 2005, &#8220;Gus&#8217;s post on being an indie&#8221;:http://gusmueller.com/blog/archives/2005/12/25.html:</p>
+<blockquote><p>&#8220;Just plan, set realistic goals, meet those goals, diversify, save up, add four cups of patience, and have fun. And most importantly- work your ass off. It&#8217;s not difficult, it&#8217;s just not easy. It takes time and patience and hard work.&#8221;</p></blockquote>
+<p>One of the first great blog posts about working for yourself writing Mac software.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2011/04/acorn_3.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Clipstart file actions</title>
+		<link>http://www.manton.org/2009/07/clipstart_file_actions.html</link>
+		<comments>http://www.manton.org/2009/07/clipstart_file_actions.html#comments</comments>
+		<pubDate>Fri, 03 Jul 2009 05:31:08 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[acorn]]></category>
+		<category><![CDATA[applescript]]></category>
+		<category><![CDATA[clipstart]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2009/07/clipstart_file_actions.html</guid>
+		<description><![CDATA[&#8220;Clipstart 1.1&#8243;:http://www.riverfold.com/software/clipstart/ is out, with support for the iPhone 3GS, YouTube, and more. I&#8217;m really happy with the response I&#8217;ve received so far. The 3GS is such a convenient device for video that even people who weren&#8217;t taking lots of clips before now find themselves with a bunch of videos. That deserves a dedicated management [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>&#8220;Clipstart 1.1&#8243;:http://www.riverfold.com/software/clipstart/ is out, with support for the iPhone 3GS, YouTube, and more. I&#8217;m really happy with the response I&#8217;ve received so far. The 3GS is such a convenient device for video that even people who weren&#8217;t taking lots of clips before now find themselves with a bunch of videos. That deserves a dedicated management app.</p>
+<p>&#8220;Ryan Irelan&#8221;:http://ryanirelan.com/ asked me the other day if Clipstart would support a simple email option, for quickly sharing a video with family without uploading to a web site. This is a pretty good candidate for using Clipstart&#8217;s file actions, which allow you to process the selected video files with a script.</p>
+<p>I liked how &#8220;Acorn handled this kind of thing&#8221;:http://flyingmeat.com/wikka/AcornExtraScripts, so I essentially lifted its file actions feature directly and put it into Clipstart, even down to the ACShortcutKey shortcut comments. Even though Acorn is for still images and Clipstart for videos, it seemed similar enough that you could conceivably take lightly-modified scripts from one app and use it the other, if they did not deal with the file&#8217;s contents.</p>
+<p>Here&#8217;s the email script that will be included in Clipstart 1.1.1:</p>
+<p><tt><font color="gray">#!/usr/bin/osascript</font></p>
+<p>on run <font color="green">argv</font></p>
+<p>&nbsp; &nbsp; set <font color="green">filepath</font> to item 1 of <font color="green">argv</font></p>
+<p>&nbsp; &nbsp; set <font color="green">old_delims</font> to AppleScript's text item delimiters</p>
+<p>&nbsp; &nbsp; set AppleScript's text item delimiters to {"/"}</p>
+<p>&nbsp; &nbsp; set <font color="green">path_items</font> to text items of (<font color="green">filepath</font> as text)</p>
+<p>&nbsp; &nbsp; set AppleScript's text item delimiters to <font color="green">old_delims</font></p>
+<p>&nbsp; &nbsp; set <font color="green">filename</font> to last item of <font color="green">path_items</font></p>
+<p>&nbsp; &nbsp; tell application "Mail"</p>
+<p>&nbsp; &nbsp;   &nbsp; &nbsp; set <font color="green">new_msg</font> to make new outgoing message with properties {subject:<font color="green">filename</font>, content:"" &amp; return &amp; return}</p>
+<p>&nbsp; &nbsp;   &nbsp; &nbsp; tell <font color="green">new_msg</font></p>
+<p>&nbsp; &nbsp;   &nbsp; &nbsp;   &nbsp; &nbsp; set visible to true</p>
+<p>&nbsp; &nbsp;   &nbsp; &nbsp;   &nbsp; &nbsp; tell content</p>
+<p>&nbsp; &nbsp;   &nbsp; &nbsp;   &nbsp; &nbsp;   &nbsp; &nbsp; make new attachment with properties {file name:<font color="green">filepath</font>} at after the last paragraph</p>
+<p>&nbsp; &nbsp;   &nbsp; &nbsp;   &nbsp; &nbsp; end tell</p>
+<p>&nbsp; &nbsp;   &nbsp; &nbsp; end tell</p>
+<p>&nbsp; &nbsp;   &nbsp; &nbsp; activate</p>
+<p>&nbsp; &nbsp; end tell</p>
+<p>end</tt></p>
+<p>Running scripts has been in Clipstart since 1.0. The implementation is pretty simple. I parse the available file action files to extract the executable path and any shortcut keys and modifiers, then dynamically create the menu items. When it&#8217;s time to run an action I use NSTask and friends to execute the program and pass the script file and selected movie path to it.</p>
+<p>Instead of this:</p>
+<p><tt>/path/to/myscript.sh /path/to/movie.avi</tt></p>
+<p>Clipstart does it like one of these:</p>
+<p><tt>/usr/bin/bash /path/to/myscript.sh /path/to/movie.avi</tt></p>
+<p><tt>/usr/bin/osascript /path/to/myscript.sh /path/to/movie.avi</tt></p>
+<p>I did this to not require setting +x on the file, but it also seems to be a more convenient way of processing command line arguments when run from osascript.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2009/07/clipstart_file_actions.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>JSCocoa in Acorn</title>
+		<link>http://www.manton.org/2009/01/jscocoa_in_acorn.html</link>
+		<comments>http://www.manton.org/2009/01/jscocoa_in_acorn.html#comments</comments>
+		<pubDate>Sun, 11 Jan 2009 22:54:52 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[acorn]]></category>
+		<category><![CDATA[gus]]></category>
+		<category><![CDATA[jscocoa]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2009/01/jscocoa_in_acorn.html</guid>
+		<description><![CDATA[I like this KVC mini-rant from Gus Mueller&#8217;s post about writing &#8220;Acorn plug-ins in JavaScript&#8221;:http://gusmueller.com/blog/archives/2009/01/jscocoa_and_acorn_plugins_in_javascript.html: &#8220;While KVC hacks can be awesomely cool and amazing and generally useful&#8230; it is possible to go a bit too far. So don&#8217;t use that sample code, or I&#8217;ll come looking for you and slam your toe in a door [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I like this KVC mini-rant from Gus Mueller&#8217;s post about writing &#8220;Acorn plug-ins in JavaScript&#8221;:http://gusmueller.com/blog/archives/2009/01/jscocoa_and_acorn_plugins_in_javascript.html:</p>
+<blockquote><p>&#8220;While KVC hacks can be awesomely cool and amazing and generally useful&#8230; it is possible to go a bit too far. So don&#8217;t use that sample code, or I&#8217;ll come looking for you and slam your toe in a door or something equally painful for you and very satisfying for me.&#8221;</p></blockquote>
+<p>Gus has been posting to both his personal and company blogs lately. Another neat script over on the Flying Meat blog is &#8220;this one about drop shadows&#8221;:http://flyingmeat.com/blog/archives/2009/01/curved_drop_shadows_in_acorn.html.</p>
+<p>I still get a lot of mileage out of Flying Meat&#8217;s other product, VoodooPad. I&#8217;ll be writing a follow-up to my &#8220;authoring help post&#8221;:http://www.manton.org/2007/01/falling_in_love.html in the next week or so, this time with an example document.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2009/01/jscocoa_in_acorn.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Using Acorn</title>
+		<link>http://www.manton.org/2007/09/using_acorn.html</link>
+		<comments>http://www.manton.org/2007/09/using_acorn.html#comments</comments>
+		<pubDate>Tue, 25 Sep 2007 18:18:40 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[acorn]]></category>
+		<category><![CDATA[graphics]]></category>
+		<category><![CDATA[photoshop]]></category>
+		<category><![CDATA[pixelmator]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/09/using_acorn.html</guid>
+		<description><![CDATA[I have a copy of CS3. Photoshop, Illustrator, and Flash are all permanently in my Dock. If you do any graphics or animation work, you pretty much need these tools, in the same way that anyone who does any kind of corporate writing needs Word. But truthfully, I haven&#8217;t had Microsoft Office installed for about [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I have a copy of CS3. Photoshop, Illustrator, and Flash are all permanently in my Dock. If you do any graphics or animation work, you pretty much need these tools, in the same way that anyone who does any kind of corporate writing needs Word.</p>
+<p>But truthfully, I haven&#8217;t had Microsoft Office installed for about a year (I use Pages or Leopard&#8217;s QuickLook to read other people&#8217;s Word documents), and I see a similar fate for some of the big Adobe apps. Despite &#8220;what some people have said&#8221;:http://theocacao.com/document.page/271 over the years, there will never be a permanent replacement for Photoshop &#8212; it is too powerful, does too much &#8212; but there could be a healthy market of smaller, focused tools that tackle one piece of the Photoshop puzzle.</p>
+<p>&#8220;Flying Meat&#8217;s Acorn&#8221;:http://www.flyingmeat.com/acorn/ is the first of those tools that actually delivers. For the most part I can use Acorn as if I was using Photoshop. Keyboard shortcuts for switching tools, selection, basic layer manipulation &#8212; it all works.</p>
+<p>I&#8217;ve been testing Acorn by working on some new UI mockups, a task it seems particularly well-suited for. One of the most refreshing things has been using a text tool that renders text just as it would look in a normal NSTextField control. Photoshop has a few anti-aliasing settings, but nothing that exactly matches the normal Mac OS X rendering, which makes mockups that mix and match screenshots from Interface Builder and new text look out of place.</p>
+<p>As a 1.0, this is a very solid app, and most importantly it gets all that non-delicious stuff right. It would be easy when writing a Photoshop competitor to focus on the fun stuff &#8212; Core Image filters or whatnot &#8212; so it&#8217;s nice to see Gus didn&#8217;t gloss over the basics.</p>
+<p>So what&#8217;s missing? After using it for a couple weeks for real work, the only things I am particularly missing are layer groups (totally understand why he left those out for now), Save for Web (which I hear is coming shortly), and Copy Merged (did I miss it?). And the big one: Open/Save for Photoshop files. It doesn&#8217;t need anything fancy in the .psd files, just the same features of a .acorn file to allow a designer to move between the apps if necessary.</p>
+<p>Right as I&#8217;m about to post this, &#8220;Pixelmator finally ships&#8221;:http://www.tuaw.com/2007/09/25/pixelmator-hits-1-0/. I&#8217;ve only spent a few minutes with it, but it also looks pretty competent. Time will tell whether it holds up for real work as well as Acorn has for me.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2007/09/using_acorn.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 2.645 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:11:44 -->

@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; software</title>
+	<atom:link href="http://www.manton.org/tag/software/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>The legacy of software as art</title>
+		<link>http://www.manton.org/2013/04/the_legacy_of.html</link>
+		<comments>http://www.manton.org/2013/04/the_legacy_of.html#comments</comments>
+		<pubDate>Fri, 12 Apr 2013 13:19:42 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[apps]]></category>
+		<category><![CDATA[art]]></category>
+		<category><![CDATA[permanence]]></category>
+		<category><![CDATA[software]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/04/the_legacy_of.html</guid>
+		<description><![CDATA[This post from Andy Brice, via Simon Wolf on ADN, makes a nice complement to my recent post on software as an art form: “My grandfather worked most of his life as a stonemason. Much of that time was spent restoring the ruin of a Bishop’s palace in Sherborne. His work is still visible long [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://successfulsoftware.net/2013/03/24/ephemeral/">This post from Andy Brice</a>, via <a href="https://alpha.app.net/sw/post/4161167">Simon Wolf</a> on ADN, makes a nice complement to <a href="http://www.manton.org/2013/03/app_store_old_app.html">my recent post on software as an art form</a>:</p>
+<blockquote><p>
+  “My grandfather worked most of his life as a stonemason. Much of that time was spent restoring the ruin of a Bishop’s palace in Sherborne. His work is still visible long after his death. The work of the stonemasons who built the palace is still visible after more than 8 centuries. How long after you stop programming is any of your work going to last?”
+</p></blockquote>
+<p>Not long, of course, and I’m not sure this is solvable. The best we can do is make sure our software runs on systems as long as possible, and to preserve the rest in screenshots and videos.</p>
+<p>There are echoes of this theme in <a href="http://www.manton.org/2012/07/permanence.html">my post on permanence last year</a> too, but for writing:</p>
+<blockquote><p>
+  “Nothing lasts on the internet. I could write on my weblog for years and the next day get hit by a bus. The domain expires, the posts are lost, and it doesn’t matter if I had 10 readers or 10,000; it’s as if it never happened.”
+</p></blockquote>
+<p>As much as I dwell on preservation, my actual code and apps and the work I do in the software world might not be that significant. Instead, software can be the tool to make and preserve the important stuff: the writing, art, and discussions online that will matter later. Although I’d love to preserve the software as well, there is so much work to do just to keep the blogs and tweets. I’m content with making that easier.</p>
+<p>Dave Winer also gives a nod to what software as art means, in an otherwise unrelated <a href="http://threads2.scripting.com/2013/march/anOpenNoteToTechPressbloggers">post on the press for Little Outliner</a>, again framing it as what we’re building for other people to use:</p>
+<blockquote><p>
+  “I think software is like other creative arts — music, architecture, cooking, even design of everyday things like bikes and clothes. It takes a relentless focus on the act of using, and what kind of effect you want to create.”
+</p></blockquote>
+<p><a href="https://alpha.app.net/joefiorini/post/4165373">Joe Fiorini takes it even further</a>:</p>
+<blockquote><p>
+  “Perhaps our legacy is not in the software we build but the lives we touch, even in small ways, through the problems our programs solve.”
+</p></blockquote>
+<p>Like Andy Brice’s use of the word ephemeral above, Joe’s statement is difficult to measure. There’s no one thing we can point to years later. We just have to create something worthwhile and trust that it’s making someone’s life better, and that maybe that one customer will leave a mark on the world that survives long after our apps no longer run.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/04/the_legacy_of.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Saying goodbye to Wii Transfer</title>
+		<link>http://www.manton.org/2012/05/saying_goodbye_to.html</link>
+		<comments>http://www.manton.org/2012/05/saying_goodbye_to.html#comments</comments>
+		<pubDate>Tue, 01 May 2012 22:30:04 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[mac]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[waltdisney]]></category>
+		<category><![CDATA[wiitransfer]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2012/05/saying_goodbye_to.html</guid>
+		<description><![CDATA[“Around here, however, we don’t look backwards for very long. We keep moving forward, opening up new doors and doing new things, because we’re curious… and curiosity keeps leading us down new paths.” — Walt Disney There are many posts on this blog about Wii Transfer, the little Mac app that launched commercially almost by [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><em>“Around here, however, we don’t look backwards for very long. We keep moving forward, opening up new doors and doing new things, because we’re curious… and curiosity keeps leading us down new paths.” — Walt Disney</em></p>
+<p>There are many posts on this blog about Wii Transfer, the little Mac app that launched commercially almost by accident, and convinced me that it would be worthwhile to invest time in this side business called Riverfold Software. Early posts like <a href="http://www.manton.org/2006/12/reintroducing_wii.html">the launch post in 2006</a> or <a href="http://www.manton.org/2007/02/first_75_days.html">this one about the first 75 days</a>, and <a href="http://www.manton.org/2007/09/wii_transfer.html">this one covering the price bump in version 2.5</a>. But the app has been fading over the last couple of years, no longer as relevant today as it once was. It&#8217;s time to let it go.</p>
+<p>I&#8217;m retiring Wii Transfer to focus on my other apps. It&#8217;s not that it doesn&#8217;t sell; it still does. It&#8217;s just that it&#8217;s not an app I actually use anymore. By officially shelving the whole project, I hope to remove a psychological burden of sorts — to no longer worry that I&#8217;m ignoring an active product.</p>
+<p>It also doesn&#8217;t fit into a new theme I have for Riverfold: apps that are all about keeping and remembering what matters. For Clipstart, that&#8217;s family videos. For Tweet Library and Tweet Marker Plus, that&#8217;s old tweets. Wii Transfer is about… listening to music on your Wii? It doesn&#8217;t fit, and in the world of the Apple TV and Roku, modern streaming technology has passed the app by.</p>
+<p>If anyone is disappointed that Wii Transfer will no longer receive updates, of course I offer refunds. I won&#8217;t be selling or open sourcing the app, preferring instead to continue to support existing customers myself for as long as they want to use the app. And I&#8217;ll keep the automatic bookmark service running that makes setup easy, as well as the Mii rendering service, so nothing breaks.</p>
+<p>I put a lot of work into Wii Transfer over its 5-year lifespan. It&#8217;s not easy saying goodbye, especially to some of the unique things that only Wii Transfer could do, such as exporting Miis as images. Maybe I can bring that back one day. For now, I&#8217;m following the path started by my apps Tweet Library and Clipstart, for which there are many new things still to do.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2012/05/saying_goodbye_to.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Clipstart 1.4.2</title>
+		<link>http://www.manton.org/2012/04/clipstart_142.html</link>
+		<comments>http://www.manton.org/2012/04/clipstart_142.html#comments</comments>
+		<pubDate>Sun, 29 Apr 2012 21:40:08 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[clipstart]]></category>
+		<category><![CDATA[mac]]></category>
+		<category><![CDATA[software]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2012/04/clipstart_142.html</guid>
+		<description><![CDATA[I released a small bug fix update to Clipstart today, version 1.4.2, to fix an issue with YouTube uploads when using your Gmail address sign-in instead of the YouTube account username. This version should also show up in the Mac App Store after it goes through Apple&#8217;s approval process. You can see the full release [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I released a small bug fix update to Clipstart today, version 1.4.2, to fix an issue with YouTube uploads when using your Gmail address sign-in instead of the YouTube account username. This version should also show up in the Mac App Store after it goes through Apple&#8217;s approval process. You can see the <a href="http://www.riverfold.com/software/clipstart/releasenotes/">full release notes for recent bug fixes here</a>.</p>
+<p>As I said <a href="http://www.manton.org/2012/02/sandboxing_followup.html">earlier this year</a>, there will only be a couple more releases of Clipstart in the Mac App Store. My current plan is to switch completely over to direct-only sales with version 1.5. The new versions run without prompting for registration if you&#8217;ve already purchased and run a copy from the Mac App Store.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2012/04/clipstart_142.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>A fan for your unreleased app</title>
+		<link>http://www.manton.org/2009/07/a_fan_for.html</link>
+		<comments>http://www.manton.org/2009/07/a_fan_for.html#comments</comments>
+		<pubDate>Thu, 09 Jul 2009 15:20:49 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[clipstart]]></category>
+		<category><![CDATA[development]]></category>
+		<category><![CDATA[merlin]]></category>
+		<category><![CDATA[products]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[thedip]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2009/07/a_fan_for.html</guid>
+		<description><![CDATA[Every product needs a believer. Not on the product team, but outside. A champion beta tester. Someone who sees the potential and will offer such constructive criticism and feedback early on that if you don&#8217;t make the app perfect you will be personally letting them down. This is so critical, that many products succeed or [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Every product needs a believer. Not on the product team, but outside. A champion beta tester. Someone who sees the potential and will offer such constructive criticism and feedback early on that if you don&#8217;t make the app perfect you will be personally letting them down.</p>
+<p>This is so critical, that many products succeed or fail to reach 1.0 on this point alone. Without inspiration from your peers, it becomes difficult to push through &#8220;the dip&#8221;:http://sethgodin.typepad.com/the_dip/, the rough times in development when everything goes wrong and you can&#8217;t imagine how your app will ever see the light of day. Seek out that one person &mdash; friend, spouse, blogger, anyone &mdash; who will light a fire under you to ship a quality product.</p>
+<p>Yes, I want to hear how much you like my app, but I also want to hear where it fails and frustrates you.</p>
+<p>The feedback I&#8217;ve received for &#8220;Clipstart&#8221;:http://www.riverfold.com/software/clipstart/ is astonishingly well thought out and helpful. I like to think the app is attracting the best kind of customers: articulate and experienced enough to know what they want. If I could only implement half the suggestions to improve the app it will evolve into something great.</p>
+<p>Of course, great beta testers only go so far. We still have to work really hard. &#8220;Merlin Mann said it best&#8221;:http://www.43folders.com/2009/03/11/kutiman: &#8220;The only person who can sit on your ass is you.&#8221;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2009/07/a_fan_for.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>New and old posts about NetNewsWire</title>
+		<link>http://www.manton.org/2008/01/new_and_old-2.html</link>
+		<comments>http://www.manton.org/2008/01/new_and_old-2.html#comments</comments>
+		<pubDate>Fri, 11 Jan 2008 19:29:26 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[free]]></category>
+		<category><![CDATA[indie]]></category>
+		<category><![CDATA[netnewswire]]></category>
+		<category><![CDATA[software]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2008/01/new_and_old-2.html</guid>
+		<description><![CDATA[&#8220;NetNewsWire is free&#8221;:http://inessential.com/?comments=1&#38;postid=3461 (congrats again Brent!) and reaction is coming in from other indie developers. &#8220;Rory Prior&#8221;:http://www.thinkmac.co.uk/blog/2008/01/scorched-earth.html: &#8220;It&#8217;s hard to compete with a product that&#8217;s as well known and frankly as good as NNW, it&#8217;s damn near impossible to compete with it when it&#8217;s free.&#8221; &#8220;Paul Kafasis&#8221;:http://www.rogueamoeba.com/utm/posts/Article/NNWFree-2008-01-09-19-00.html: &#8220;When something is given away for free, its [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>&#8220;NetNewsWire is free&#8221;:http://inessential.com/?comments=1&amp;postid=3461 (congrats again Brent!) and reaction is coming in from other indie developers.</p>
+<p>&#8220;Rory Prior&#8221;:http://www.thinkmac.co.uk/blog/2008/01/scorched-earth.html: &#8220;It&#8217;s hard to compete with a product that&#8217;s as well known and frankly as good as NNW, it&#8217;s damn near impossible to compete with it when it&#8217;s free.&#8221;</p>
+<p>&#8220;Paul Kafasis&#8221;:http://www.rogueamoeba.com/utm/posts/Article/NNWFree-2008-01-09-19-00.html: &#8220;When something is given away for free, its perceived value is lowered. If software is treated as valueless, it becomes much, much harder to sell.&#8221;</p>
+<p>Ultimately I don&#8217;t think it&#8217;s going to have a significant negative impact as far as devaluating other software (except of course other news readers) because most people paying attention should connect that it supports Newsgator&#8217;s core business model. But rather than debate the issue I searched my archives to see what else I had said about the product. It must be one of the most-blogged-about apps ever, right? I&#8217;m limiting it to 1 post per year.</p>
+<p>2002: &#8220;Moving to NetNewsWire&#8221;:http://www.manton.org/2002/09/moving_to_netnewswire.html</p>
+<p>2003: &#8220;NetNewsWire as a platform&#8221;:http://www.manton.org/2003/03/netnewswire_as_a.html</p>
+<p>2004: &#8220;Google and the great apps to come&#8221;:http://www.manton.org/2004/12/google_and_the_great.html</p>
+<p>2005: &#8220;Tabs are a hack&#8221;:http://www.manton.org/2005/05/tabs_are_a_hack.html</p>
+<p>2006: &#8220;Time for thinking&#8221;:http://www.manton.org/2006/07/time_for.html</p>
+<p>2007: &#8220;New software releases (plus screencast)&#8221;:http://www.manton.org/2007/06/new_software_releases.html</p>
+<p>2008: &#8220;New and old posts about NetNewsWire&#8221;:http://www.manton.org/2008/01/new_and_old.html (you&#8217;re reading it!)</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2008/01/new_and_old-2.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Wii Transfer 2.0 featured on Apple Downloads</title>
+		<link>http://www.manton.org/2007/01/wii_transfer_20.html</link>
+		<comments>http://www.manton.org/2007/01/wii_transfer_20.html#comments</comments>
+		<pubDate>Sat, 20 Jan 2007 07:12:55 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[dns]]></category>
+		<category><![CDATA[jpeg]]></category>
+		<category><![CDATA[mp3]]></category>
+		<category><![CDATA[pricing]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[transfer]]></category>
+		<category><![CDATA[wii]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/01/wii_transfer_20.html</guid>
+		<description><![CDATA[I finished &#8220;Wii Transfer 2.0&#8243;:http://www.riverfold.com/software/wiitransfer/ late Thursday night. This version is an interesting milestone for the application because it goes beyond just using the SD card to shuttle data back and forth between your Mac and Wii. There is a small Cocoa web server embedded inside Wii Transfer that can serve up MP3s and JPEGs [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I finished &#8220;Wii Transfer 2.0&#8243;:http://www.riverfold.com/software/wiitransfer/ late Thursday night. This version is an interesting milestone for the application because it goes beyond just using the SD card to shuttle data back and forth between your Mac and Wii. There is a small Cocoa web server embedded inside Wii Transfer that can serve up MP3s and JPEGs directly to the Wii using the Internet Channel. I think this could be the basis for some really fun stuff in the future.</p>
+<p>One of the things I added at the last minute is to try to simplify how you connect to your Mac from the Wii. IP addresses are difficult to memorize for most people and may change depending on how your home network is setup. To solve this, Wii Transfer will optionally create a permanent URL for you on bookmark.riverfold.com. You can then add that URL as a favorite for your Wii and it will always redirect to your local machine. Wii Transfer will ping the Riverfold server on startup and update the bookmark database with your current IP address. You can think of it as a simplified version of &#8220;Dynamic DNS&#8221;:http://en.wikipedia.org/wiki/Dynamic_DNS.</p>
+<p>I just noticed that Wii Transfer is the featured download and staff pick in the &#8220;video section of Apple&#8217;s download site&#8221;:http://www.apple.com/downloads/macosx/video/. That is a nice surprise. It will be interesting to see what that does to download stats.</p>
+<p>One last thing. Starting next month the price will go up to $14 for version 2.0 (free upgrade for all existing users). I usually work on Wii Transfer at night, so the increase will help offset all the sleep I lost. :-) Even at $14 it may be underpriced. Remember the &#8220;Brent Simmons rule&#8221;:http://www.red-sweater.com/blog/168/the-price-is-wrong: anything less than $20 won&#8217;t be taken seriously. In this case though I think it&#8217;s just about right. I&#8217;m also finding a large percentage of purchases from Europe, despite no localization, probably because the US dollar is so weak now. Enjoy!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2007/01/wii_transfer_20.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Long time no blog</title>
+		<link>http://www.manton.org/2003/01/long_time_no.html</link>
+		<comments>http://www.manton.org/2003/01/long_time_no.html#comments</comments>
+		<pubDate>Wed, 29 Jan 2003 20:47:30 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[trackpack]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2003/01/long_time_no.html</guid>
+		<description><![CDATA[It&#8217;s been two weeks since I last posted, and with every passing day it becomes more difficult to post something. Why? Because with such a delay I feel that I need to somehow justify it with a great blog post. Just wait another day &#8212; then I&#8217;ll hit my readers (all 2.5 of them) with [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>It&#8217;s been two weeks since I last posted, and with every passing day it becomes more difficult to post something. Why? Because with such a delay I feel that I need to somehow justify it with a great blog post. Just wait another day &#8212; then I&#8217;ll hit my readers (all 2.5 of them) with something great.</p>
+<p>Well, something great hasn&#8217;t happened. Instead, I fooled around and added a blogroll to the site, tested Movable Type and Blosxom as possible Radio replacements (not yet), and took notes on things that I&#8217;d like to blog about.</p>
+<p>I&#8217;ve also been thinking about what to do with my recently reacquired domain, metacontent.org. I&#8217;ve been looking at <a href="http://www.movabletype.org/trackback/">TrackBack</a> closer, and the metacontent.org site might make a good general index of recent metadata-related blog posts. It would use the standalone TrackBack implementation and could be pinged by anyone.</p>
+<p>In my old NetNewsWire subscriptions, I had a group named &#8220;Natural Born Bloggers&#8221;. These were mostly old-school bloggers who defy classification, such as Meg with topics that range from web design to <a href="http://www.megnut.com/cooking/002466.asp">cooking</a>, or Dave with technology to <a href="http://scriptingnews.userland.com/backissues/2003/01/26#smokersOnly">life lessons</a>. Apparently I&#8217;m just not cut out for that elite group.</p>
+<p>The flipside, though, is that I&#8217;ve been getting a great amount of real work done.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2003/01/long_time_no.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Being a generalist</title>
+		<link>http://www.manton.org/2002/11/being_a_generalist.html</link>
+		<comments>http://www.manton.org/2002/11/being_a_generalist.html#comments</comments>
+		<pubDate>Wed, 27 Nov 2002 17:39:27 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[php]]></category>
+		<category><![CDATA[software]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2002/11/being_a_generalist.html</guid>
+		<description><![CDATA[John Lim of PHP Everywhere: &#8220;I&#8217;m actually a generalist. I can code a bit in Javascript, I know some C++, PHP and a thousand other useless languages. A generalist is pretty good thing to be in technology, because computers and software changes so fast and if you spend too much time specializing you&#8217;re already a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>John Lim of <a href="http://php.weblogs.com/2002/11/25#a2071">PHP Everywhere</a>:</p>
+<blockquote><p>&#8220;I&#8217;m actually a generalist. I can code a bit in Javascript, I know some C++, PHP and a thousand other useless languages. A generalist is pretty good thing to be in technology, because computers and software changes so fast and if you spend too much time specializing you&#8217;re already a dinosaur before you turn 40.&#8221;</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2002/11/being_a_generalist.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.966 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:16:10 -->

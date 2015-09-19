@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; brent</title>
+	<atom:link href="http://www.manton.org/tag/brent/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Core Intuition with Brent Simmons</title>
+		<link>http://www.manton.org/2014/10/core-intuition-with-brent-simmons.html</link>
+		<comments>http://www.manton.org/2014/10/core-intuition-with-brent-simmons.html#comments</comments>
+		<pubDate>Fri, 24 Oct 2014 13:03:34 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[brent]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[seattle]]></category>
+		<category><![CDATA[web]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2351.html</guid>
+		<description><![CDATA[Daniel and I welcomed Brent Simmons on the Core Intuition podcast this week. Here&#8217;s Brent on writing and the web as a guarantee of free speech: &#8220;The old web where I feel like more people saw the web as what I was talking about: as a unique and amazing invention in human history, a thing [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Daniel and I welcomed <a href="http://inessential.com/">Brent Simmons</a> on the <a href="http://coreint.org/160">Core Intuition podcast this week</a>. Here&#8217;s Brent on writing and the web as a guarantee of free speech:</p>
+<blockquote><p>
+  &#8220;The old web where I feel like more people saw the web as what I was talking about: as a unique and amazing invention in human history, a thing that can bring the 6 billion voices out into the open, to tell their stories and say what they&#8217;re going to say. That this thing is really something special, and it shouldn&#8217;t just be treated as a way for monetizing eyeballs and figuring out great new advances in interstitial ads. [&#8230;] We can&#8217;t lose sight of the opportunity this is. And if the story really is that the web exploded in the mid 90s and became a wonderful thing, and then stopped being that wonderful thing a little more than 20 years later&#8230; Then I couldn&#8217;t even bear that heartbreak.&#8221;
+</p></blockquote>
+<p>Hope you all enjoy the episode. It was great to have Brent on the show.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/10/core-intuition-with-brent-simmons.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>No way to live</title>
+		<link>http://www.manton.org/2013/12/no_way_to.html</link>
+		<comments>http://www.manton.org/2013/12/no_way_to.html#comments</comments>
+		<pubDate>Fri, 13 Dec 2013 14:22:11 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[blogs]]></category>
+		<category><![CDATA[brent]]></category>
+		<category><![CDATA[steve]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[vesper]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/12/no_way_to.html</guid>
+		<description><![CDATA[Two great blog posts yesterday from Brent Simmons that I think are related, though I read one early in the day and the other catching up on RSS feeds late at night. First, on quitting his job to work full-time on Vesper: “A year ago I was a designer for an enterprise app I didn’t [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Two great blog posts yesterday from Brent Simmons that I think are related, though I read one early in the day and the other catching up on RSS feeds late at night. First, <a href="http://inessential.com/2013/12/12/one_year_anniversary">on quitting his job</a> to work full-time on Vesper:</p>
+<blockquote><p>
+  “A year ago I was a designer for an enterprise app I didn’t care about — or even like in the least tiny bit — and which you’ve never seen or heard of. That’s no way to live.”
+</p></blockquote>
+<p>It reminds me, of course, of the famous Steve Jobs quote:</p>
+<blockquote><p>
+  “I have looked in the mirror every morning and asked myself: ‘If today were the last day of my life, would I want to do what I am about to do today?’ And whenever the answer has been ‘No’ for too many days in a row, I know I need to change something.”
+</p></blockquote>
+<p>And then, <a href="http://inessential.com/2013/12/12/the_stream">Brent says about Twitter</a>:</p>
+<blockquote><p>
+  “The 140-character stream is where things not worth saying, and not worth reading, thrive. It’s where things actually worth saying get over-simplified and then get lost, if they get said at all.”
+</p></blockquote>
+<p>In other words, do something you care about, write something lasting. The older I get, the more both of these resonate with me. And even though I haven’t posted to Twitter in over a year, I think I needed to read that post to focus back on this blog, where my writing should live.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/12/no_way_to.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Macworld guest essays</title>
+		<link>http://www.manton.org/2013/04/macworld_guest_essays.html</link>
+		<comments>http://www.manton.org/2013/04/macworld_guest_essays.html#comments</comments>
+		<pubDate>Mon, 15 Apr 2013 15:18:27 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[brent]]></category>
+		<category><![CDATA[cabel]]></category>
+		<category><![CDATA[macworld]]></category>
+		<category><![CDATA[microsoft]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/04/macworld_guest_essays.html</guid>
+		<description><![CDATA[There were a couple special essays on Macworld recently — guest posts from the developer community. First Brent Simmons, who argues that Microsoft isn’t the enemy anymore: “The threat to Macintosh was not that Windows machines were cheaper, or that people had bad taste—the biggest reason was that they worked with everything. That was why [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>There were a couple special essays on Macworld recently — guest posts from the developer community. <a href="http://www.macworld.com/article/2031592/apple-fans-microsoft-is-no-longer-the-enemy.html">First Brent Simmons</a>, who argues that Microsoft isn’t the enemy anymore:</p>
+<blockquote><p>
+  “The threat to Macintosh was not that Windows machines were cheaper, or that people had bad taste—the biggest reason was that they worked with everything. That was why Apple asked Microsoft in 1997 to continue developing Office for Macs, so we could at least say you could run Word and Excel on Macs. […] But, these days, <em>everything</em> works with everything.”
+</p></blockquote>
+<p>And <a href="http://www.macworld.com/article/2033728/apple-unfortunately-no-longer-the-underdog.html">followed by Cabel Sasser</a>, with a similar theme:</p>
+<blockquote><p>
+  “I sometimes very awkwardly find myself rooting for Microsoft, Nokia—anybody—to put up a good fight and keep that fire burning under Apple’s collective behind. The smartest, most incredible people work in Cupertino, and their capabilities are boundless and their drive is endless, but sometimes—especially as a developer—you get the feeling that Apple doesn’t really need you, and will do just fine without you, thank you very much. I want Apple to need us.”
+</p></blockquote>
+<p>Both great essays.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/04/macworld_guest_essays.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.664 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:19:46 -->

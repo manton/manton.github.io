@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; releasenotes</title>
+	<atom:link href="http://www.manton.org/tag/releasenotes/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Tweet Library 2.7 and promising features</title>
+		<link>http://www.manton.org/2015/01/tweet-library-2-7-and-promising-features.html</link>
+		<comments>http://www.manton.org/2015/01/tweet-library-2-7-and-promising-features.html#comments</comments>
+		<pubDate>Wed, 21 Jan 2015 17:55:45 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[releasenotes]]></category>
+		<category><![CDATA[sync]]></category>
+		<category><![CDATA[tweetlibrary]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2424.html</guid>
+		<description><![CDATA[Last year I wrote that I would be removing Tweet Library from the App Store at the end of December, and later said on Core Int and in a tweet that there would be one last update before the app is gone. It&#8217;s well into January and the old version is still for sale. I&#8217;m [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Last year I wrote that <a href="http://www.manton.org/2014/11/winding-down-my-twitter-apps.html">I would be removing Tweet Library from the App Store</a> at the end of December, and later said on <a href="http://www.coreint.org/2015/01/episode-168-motorola-68k-forever/">Core Int</a> and in <a href="https://twitter.com/tweetlibrary/status/536910542288338945">a tweet</a> that there would be one last update before the app is gone. It&#8217;s well into January and the old version is still for sale. I&#8217;m over a month behind schedule but still plan to release the updated version and stop selling the app.</p>
+<p>On the <a href="http://releasenotes.tv/88-theyre-still-your-babies/">latest Release Notes podcast</a> there was a great discussion about when to give up on an app that isn&#8217;t making money, including a mention of my plan with Tweet Library. Joe and Charles talked about why it&#8217;s usually such a bad idea to promise features before you ship, and whether there&#8217;s an obligation to give customers any updates at all.</p>
+<p>I pretty much agree with everything they said, but the upcoming Tweet Library 2.7 &#8220;features&#8221; are different. My goal with this release is for the app to be functional and stable for as long possible. I think the app needs better syncing of tweet collections to help future-proof it, to make it easier for customers to move between iOS devices when they upgrade their iPhone or iPad a year from now. For an app that is going away, I should do everything I can to make sure that a customer&#8217;s data is accessible and that import and export are as robust as possible.</p>
+<p>It&#8217;s a reasonable question to ask why I would spend so much time working on something that will essentially bring in no additional revenue. But while it won&#8217;t directly make any money, it probably helped convince some new customers to buy the app over the last month, and it will very likely reduce the support burden for the app over the following year.</p>
+<p>I also view it as a sort of parting &#8220;thank you&#8221; to my customers. It&#8217;s just the right thing to do to wrap up the app. <a href="http://www.panic.com/blog/the-future-of-unison/">Panic did the same thing</a> when they stopped selling Unison, releasing a major free update at the same time.</p>
+<p>If you&#8217;re interested in picking up a copy of Tweet Library before it&#8217;s too late, you can <a href="http://appstore.com/tweetlibrary">buy it on the App Store for $4.99</a>. The new version should ship in early February.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/01/tweet-library-2-7-and-promising-features.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Podcast appearances and slides</title>
+		<link>http://www.manton.org/2014/02/podcast_appearances_and.html</link>
+		<comments>http://www.manton.org/2014/02/podcast_appearances_and.html#comments</comments>
+		<pubDate>Tue, 25 Feb 2014 18:30:02 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[cocoaconf]]></category>
+		<category><![CDATA[iphreaks]]></category>
+		<category><![CDATA[nsconference]]></category>
+		<category><![CDATA[releasenotes]]></category>
+		<category><![CDATA[sunlit]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/02/podcast_appearances_and.html</guid>
+		<description><![CDATA[I forgot to mention a few weeks back that I was a guest on the iPhreaks Show podcast. The format is a panel of regulars and usually one guest, making it feel more like a roundtable discussion. They had me on to talk about subscription pricing: charging every month for your app or service. Some [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I forgot to mention a few weeks back that I was a guest on <a href="http://iphreaksshow.com/039-iphreaks-show-subscription-apis-for-recurring-revenue-with-manton-reece/">the iPhreaks Show podcast</a>. The format is a panel of regulars and usually one guest, making it feel more like a roundtable discussion. They had me on to talk about subscription pricing: charging every month for your app or service.</p>
+<p>Some of what we talked about was covered in 2 talks I gave last year about subscriptions, at NSConference and CocoaConf Dallas. I’ve finally pulled together the slides from these talks and put the latest version from CocoaConf <a href="http://www.manton.org/misc/Subscription_APIs_CocoaConf_2013.pdf">here as a PDF</a> (17 MB). It’s different than the NSConference one, but I think works better standalone. You can still <a href="http://my.nsconference.com">purchase the videos from NSConference 2013</a> to get my talk and many other great ones.</p>
+<p>This week I was also on <a href="http://releasenotes.tv/41-manton-reece/">the Release Notes podcast</a> with Joe Cieplinski and Charles Perry. They do a great job each episode focusing on something from the business side of running an indie software company, and they’ve had some excellent guests as well. From the show notes for episode 41:</p>
+<blockquote><p>
+  “We talk about creating products vs. services, changing products from free to paid, and the advantages and challenges of subscription pricing. Manton also shares his experience in creating apps like Sunlit that build on top of other services like Twitter and App.net, his recent foray into freemium pricing, and the launch of the new Core Intuition Jobs Board.”
+</p></blockquote>
+<p>If you enjoy <a href="http://www.coreint.org/">Core Intuition</a>, I think you’ll really like Release Notes. Let me know if you have any feedback on the show.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/02/podcast_appearances_and.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.723 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:28:56 -->

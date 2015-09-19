@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; giveaway</title>
+	<atom:link href="http://www.manton.org/tag/giveaway/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>iPhone giveaway wrap-up</title>
+		<link>http://www.manton.org/2009/12/iphone_giveaway_wrapup.html</link>
+		<comments>http://www.manton.org/2009/12/iphone_giveaway_wrapup.html#comments</comments>
+		<pubDate>Wed, 23 Dec 2009 19:52:53 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[giveaway]]></category>
+		<category><![CDATA[iphone]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2009/12/iphone_giveaway_wrapup.html</guid>
+		<description><![CDATA[I was reminded by &#8220;Nick Bonatsakis on Twitter&#8221;:http://twitter.com/nickbonas that I never wrote about how giving away the iPhone worked out. The short answer is: pretty well! The longer answer follows. I&#8217;ve conducted 3 giveaways for Riverfold Software now: Nintendo Wii, back when they were in short supply. You could enter by sending a message to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I was reminded by &#8220;Nick Bonatsakis on Twitter&#8221;:http://twitter.com/nickbonas that I never wrote about how giving away the iPhone worked out. The short answer is: pretty well! The longer answer follows.</p>
+<p>I&#8217;ve conducted 3 giveaways for Riverfold Software now:</p>
+<ul>
+<li>Nintendo Wii, back when they were in short supply. You could enter by sending a message to &#8220;@wii&#8221;:http://twitter.com/wii or by entering your email address and sharing the link with a friend.</p>
+</li>
+<li>
+<p>iPhone 3GS, plus year of Vimeo Plus and Flickr Pro. That&#8217;s what I&#8217;ll talk about below.</p>
+</li>
+<li>
+<p>New Super Mario Bros Wii game. Probably the simplest giveaway, all I asked is that you give me your email address and optionally sign up for my newsletter.</p>
+</li>
+</ul>
+<p>In all cases I had two goals: do something fun for potential customers, and give the press an excuse to write about my products. By that metric all the giveaways were successful.</p>
+<p>I noticed when originally giving away the Wii that most of the entries were Windows users &mdash; people who couldn&#8217;t even use my application! So for the iPhone giveaway I made a change: you could only enter by downloading the app and choosing a special menu item, which loaded a simple webview with the entry form. Pretty straightforward, and no complaints. The total number of entries was lower, but they were targeted to existing or potential customers.</p>
+<p>In additional to sending news about the giveaway to a few contacts who I hoped would pick up the story, I also wrote a formal press release for it, which &#8220;went out through prMac&#8221;:http://prmac.com/release-id-6861.htm. This is so inexpensive that it&#8217;s hard to find fault with it, but I think the main outcome was getting contacted for advertising on sites that I had never heard of before.</p>
+<p>Another thing to remember is to set up a &#8220;system to track referrers&#8221;:http://www.manton.org/2008/09/tracking_sales_referrers.html through to sales, so that you can judge the effectiveness of these giveaway-style marketing efforts. I could tell right away that it paid for itself, but it wasn&#8217;t a significant bump in overall weekly stats. I do believe it helps long-term though.</p>
+<p>The final part I took pride in was <em>shipping quickly</em>. Growing up we all had the wind knocked out of our sails by the &#8220;allow 6-8 weeks for delivery&#8221; fine print on cereal box prizes or other mail-in gimmicks. If nothing else, I made an effort to ship the next day if possible, and I paid for express shipping.</p>
+<p>Giving away stuff is fun. Until I get sued for not following some obscure rule on contests because I didn&#8217;t hire a lawyer, I&#8217;ll plan for more giveaways in 2010.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2009/12/iphone_giveaway_wrapup.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Wrapping up the Wii Giveaway</title>
+		<link>http://www.manton.org/2007/12/wrapping_up_the.html</link>
+		<comments>http://www.manton.org/2007/12/wrapping_up_the.html#comments</comments>
+		<pubDate>Wed, 19 Dec 2007 05:41:52 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[business]]></category>
+		<category><![CDATA[giveaway]]></category>
+		<category><![CDATA[shipping]]></category>
+		<category><![CDATA[wii]]></category>
+		<category><![CDATA[wiitransfer]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/12/wrapping_up_the.html</guid>
+		<description><![CDATA[After sitting on a shelf in my office for 2 months, unopened and unloved, I finally shipped off the Nintendo Wii today to the lucky winner. I was initially worried because he didn&#8217;t respond until well into the second day after I notified him, but he was pretty excited (&#8220;You&#8217;ve made my holiday&#8221;) and I&#8217;m [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.flickr.com/photos/75816553@N00/2122143656" title="View 'Sending away second Wii' on Flickr.com"><img src="http://farm3.static.flickr.com/2106/2122143656_43fcf52440_s.jpg" alt="Sending away second Wii" border="0" width="75" height="75" align="right" vspace="5" hspace="5" style="border: 1px solid lightgray;" /></a> After sitting on a shelf in my office for 2 months, unopened and unloved, I finally shipped off the Nintendo Wii today to the lucky winner. I was initially worried because he didn&#8217;t respond until well into the second day after I notified him, but he was pretty excited (&#8220;You&#8217;ve made my holiday&#8221;) and I&#8217;m glad it could ship out before Christmas. The picture here is in the car before I went into the UPS store to fill the box with peanuts.</p>
+<p>The promotion took a surprising amount of effort, but it was fun and definitely worthwhile. There were a total of 2447 unique submissions (1925 for the email form, and 522 from Twitter). Of those, over 1/3 agreed to sign up for my annual Riverfold Software newsletter. I consider that alone a success, although until I look at the stats more closely it&#8217;s not clear what percentage of potential-customers are actually using Macs. My &#8220;Wii Twitter account&#8221;:http://twitter.com/wii also doubled to about 300 followers.</p>
+<p>Although sales were initially flat, both &#8220;TUAW&#8221;:http://www.tuaw.com/2007/12/05/wii-transfer-maker-giving-away-a-wii/ and &#8220;Ars Technica&#8221;:http://arstechnica.com/journals/apple.ars/2007/12/06/win-a-wii-to-go-with-your-wii-transfer-for-mac ran nice stories on the promotion. I also &#8220;wrote a press release&#8221;:http://riverfold.com/software/wiitransfer/press/giveaway.html, with the idea of hitting some of the bigger gaming sites for the second week of the contest. In the end I decided not to, because I wanted to focus on Mac users, and because frankly there were plenty of submissions and I was burned out on the process.</p>
+<p>The contest easily paid for itself, but the extra sales really weren&#8217;t that significant. I have a database that tracks referrers through to the actual purchase, so I noticed an increase of only about 10-20 copies out of the 100 sales for the month so far. Part of that is no doubt the catch-22 of giving away hardware that is required for your software product, but I know that long-term there will be a benefit to the wider exposure.</p>
+<p>Mistakes? I should have made the whole promotion last just a day or two, and hyped it before launching instead. I also should have required that Twitter users follow Wii before entering, which would have boosted those followers and also greatly simplified tracking submissions (replies were spread over 3 RSS feeds and 33 iChat log transcripts). Relatively minor complaints, though, overall.</p>
+<p>To everyone who provided feedback on the idea, thanks. Maybe next year I&#8217;ll implement some of the more interesting promotion ideas I heard.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2007/12/wrapping_up_the.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Holiday Wii Giveaway and Twitter</title>
+		<link>http://www.manton.org/2007/12/holiday_wii_giveaway.html</link>
+		<comments>http://www.manton.org/2007/12/holiday_wii_giveaway.html#comments</comments>
+		<pubDate>Wed, 05 Dec 2007 05:18:04 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[Video Games]]></category>
+		<category><![CDATA[business]]></category>
+		<category><![CDATA[games]]></category>
+		<category><![CDATA[giveaway]]></category>
+		<category><![CDATA[wii]]></category>
+		<category><![CDATA[wiitransfer]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/12/holiday_wii_giveaway.html</guid>
+		<description><![CDATA[A few months ago I was in Target and they had some Wiis in stock, so on an impulse I bought one. I&#8217;ve owned a Wii since launch day, but I had this idea to give one away for Christmas as an experiment to help promote Wii Transfer. I sat on the idea for a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>A few months ago I was in Target and they had some Wiis in stock, so on an impulse I bought one. I&#8217;ve owned a Wii since launch day, but I had this idea to give one away for Christmas as an experiment to help promote Wii Transfer. I sat on the idea for a while, listened to feedback from others, and finally &#8220;rolled it out this morning&#8221;:http://www.riverfold.com/software/wiitransfer/giveaway/ with two methods to enter: web form (with field to notify a friend about the giveaway) and via Twitter (by sending a reply to @wii).</p>
+<p>Unfortunately there was a major snag with the Twitter idea. It turns out that @wii replies won&#8217;t show up in my Replies tab (or RSS feed) in Twitter unless the user posting the tweet is already following &#8220;twitter.com/wii&#8221;:http://twitter.com/wii. I now regret not making that a requirement, but I also know that it would have hurt the simplicity of entering via Twitter.</p>
+<p>So what&#8217;s the solution? For now, a combination of things. I am now tracking every tweet that contains &#8220;wii&#8221; (try it, there are some fun ones), which I will aggregate with the standard replies as well as results from a search on &#8220;Terraminds&#8221;:http://terraminds.com/twitter/ to fill in any of the tweets I missed. It&#8217;s all a bit cumbersome because the tracking results come through IM (luckily iChat transcripts are XML now).</p>
+<p>It feels very fragile, but hopefully I won&#8217;t miss any entries. There&#8217;s no cost to submitting multiple times, so consider sending another @wii tweet next week or entering with the web form to guarantee you&#8217;re in the drawing. If in doubt, re-read the &#8220;last line on the fine print&#8221;:http://www.riverfold.com/software/wiitransfer/giveaway/.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2007/12/holiday_wii_giveaway.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.055 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:31:34 -->

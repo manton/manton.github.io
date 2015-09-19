@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; webapps</title>
+	<atom:link href="http://www.manton.org/tag/webapps/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Two weeks notice: new products</title>
+		<link>http://www.manton.org/2015/07/two-weeks-notice-new-products.html</link>
+		<comments>http://www.manton.org/2015/07/two-weeks-notice-new-products.html#comments</comments>
+		<pubDate>Thu, 23 Jul 2015 02:40:07 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[2weeks]]></category>
+		<category><![CDATA[clipstart]]></category>
+		<category><![CDATA[mac]]></category>
+		<category><![CDATA[snippets]]></category>
+		<category><![CDATA[sunlit]]></category>
+		<category><![CDATA[webapps]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2881</guid>
+		<description><![CDATA[Tonight I worked on some bug fixes to one of the new apps I hope to ship for Riverfold Software. I have just a handful of beta users, but got some good feedback and bug reports last week, things I want to address before opening it up to more users. When I think of the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Tonight I worked on some bug fixes to one of the new apps I hope to ship for Riverfold Software. I have just a handful of beta users, but got some good feedback and bug reports last week, things I want to address before opening it up to more users.</p>
+<p>When I think of the in-progress apps that I can ship soon to help increase revenue, there are really only 2:</p>
+<ul>
+<li>Clipstart 2.0, which will be renamed Sunlit for Mac, to complement the iPhone version.</li>
+<li>Unannounced microblogging-related web app, which may also come with iPhone and Mac apps.</li>
+</ul>
+<p>The problem with Sunlit for Mac is that I’m requiring 10.11 El Capitan. So no matter how much progress I make on it, I can’t ship it until Apple releases their next version of Mac OS X. I want to chip away at the new features, but I can’t spend all of my time on it yet. I need to focus attention on projects that have a chance of bringing in additional revenue in the very near future, not by the end of the year.</p>
+<p>So the microblogging app — the one I worked on tonight — keeps coming to the front. Since it’s mostly a web app, it has the least number of external API and App Store dependencies that would hold it up. I can ship the core functionality whenever it’s ready. The sooner I get it out the door, the sooner I’ll know if it’s something I can count on as business income.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/07/two-weeks-notice-new-products.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>17 services for hosting and business</title>
+		<link>http://www.manton.org/2014/04/17_services_for.html</link>
+		<comments>http://www.manton.org/2014/04/17_services_for.html#comments</comments>
+		<pubDate>Tue, 29 Apr 2014 15:05:28 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[apps]]></category>
+		<category><![CDATA[hosting]]></category>
+		<category><![CDATA[riverfold]]></category>
+		<category><![CDATA[services]]></category>
+		<category><![CDATA[webapps]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/04/17_services_for.html</guid>
+		<description><![CDATA[While doing our taxes this month, I was a little surprised just how much I spend for various web apps and services to help run Riverfold. While I could trim some of them, most are essential and save a lot of time. I thought it would be interesting to write up some of the most [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>While doing our taxes this month, I was a little surprised just how much I spend for various web apps and services to help run <a href="http://www.riverfold.com/">Riverfold</a>. While I could trim some of them, most are essential and save a lot of time. I thought it would be interesting to write up some of the most important ones.</p>
+<p><a href="https://www.linode.com/?r=f61c5d1648c72ebcf5bd8175aca79cfe5b374401"><strong>Linode</strong></a>: I’ve moved nearly everything to Linode. I like their style: just basic, solid hosting, with good features but not an overwhelming number of services or fancy stuff. They’ve recently increased their RAM and added SSD. I have servers there for Nginx/Unicorn, MySQL, Redis, and Elasticsearch. I also use their load balancer and Longview stats app. This link uses <a href="https://www.linode.com/?r=f61c5d1648c72ebcf5bd8175aca79cfe5b374401">my referral code</a>.</p>
+<p><a href="http://aws.amazon.com/"><strong>Amazon Web Services</strong></a>: I no longer use EC2, but I have some DNS hosted in Amazon’s Route 53. I also use S3 for backups and a new feature that’s coming to <a href="http://sunlit.io/">Sunlit</a> soon.</p>
+<p><a href="http://www.heroku.com/"><strong>Heroku</strong></a>: Before moving to Linode, most of my stuff was on Heroku. Now I only have one small app and database there, and I’ll be completely moved off by the end of the year. I’m including it here for completeness only. It’s a great option to get started if you don’t want to be a part-time system administrator, but I think <a href="http://www.marco.org/2014/03/27/web-hosting-for-app-developers">Marco sums up nicely why you want to use Linux servers</a> instead.</p>
+<p><a href="https://stripe.com/"><strong>Stripe</strong></a>: Can’t say enough good things about Stripe. Watermark, Searchpath, Tweet Marker, and Core Intuition Jobs all use it for credit card processing. It’s the best.</p>
+<p><a href="http://gaug.es/"><strong>Gauges</strong></a>: As much as I always loved <a href="http://haveamint.com">Mint</a>, as my business grew to several web apps and web sites, I looked for a new stats package that could support any number of sites, and which would work better across hosts, since I don’t need to run the database. I’ve been very happy with this.</p>
+<p><a href="http://appfigures.com/"><strong>AppFigures</strong></a>: I’ve used this for years to track <a href="http://www.riverfold.com/software/tweetlibrary/">Tweet Library</a> sales. It’s great. I also like that I can enter other people’s popular apps and get an idea of how they’re trending if they make it to the top lists.</p>
+<p><a href="http://www.blinksale.com/"><strong>Blinksale</strong></a>: Kind of an ancient invoicing app that hasn’t changed at all in years, but it works so I keep using it. Originally started by the folks who would go on to do Gowalla.</p>
+<p><a href="http://www.beanstalkapp.com/"><strong>Beanstalk</strong></a>: I moved the source for all my Riverfold projects here because it can do Subversion and Git well. I sometimes wonder if I should move to GitHub instead, since I do use GitHub and have a couple tiny public repositories there, but I like that Beanstalk is focused only on private hosting. No social; just a well-designed web app.</p>
+<p><a href="https://postmarkapp.com/"><strong>Postmark</strong></a>: Run by the same team as Beanstalk. I switched to this after Sendgrid had <a href="http://manton.org/2013/03/moving_off.html">some PR problems you may remember</a>. Email receipts and whatnot go through Postmark now.</p>
+<p><a href="http://www.dreamhost.com/"><strong>Dreamhost</strong></a>: Still using this for email and a few static or PHP sites. It’s cheap and works well. Not much benefit in moving away from it, though I prefer my more important web apps to be hosted on Linode.</p>
+<p><a href="http://dnsimple.com/"><strong>DNSimple</strong></a>: I have a few domains here and hope to have all of them moved over eventually. I want to have a single place for DNS. Right now I have registration and DNS hosting spread across Dreamhost, Amazon, and Network Solutions. Makes it difficult to remember where everything is and to keep track of expirations.</p>
+<p><a href="https://bufferapp.com/"><strong>Buffer</strong></a>: This company has been on my radar since someone asked me to support it in Tweet Library. They also have a really interesting blog where they share revenue, salaries, subscribers, web traffic, and other usually private details from a company. I admire that a lot. <a href="http://bitsplitting.org/">Daniel</a> and I use it to automate sending Core Intuition Jobs links to Twitter, App.net, and Facebook.</p>
+<p><a href="https://www.mapbox.com/"><strong>Mapbox</strong></a>: We use Mapbox throughout Sunlit. I wrote more <a href="http://www.manton.org/2014/01/sunlit_maps.html">about why here</a>.</p>
+<p><a href="https://www.fogcreek.com/fogbugz/"><strong>FogBugz</strong></a>: In the past I’ve build my own bug tracker, used Jira, Redmine, GitHub issues, and others I’m forgetting. They all have problems so for Riverfold I keep it simple with hosted FogBugz. To complement this I use OmniFocus for non-bug tasks.</p>
+<p><a href="https://www.zendesk.com/"><strong>Zendesk</strong></a>: For too long I was just using Apple’s Mail.app to handle support email. Now support email goes to Zendesk, where I can better track and reply to it. The downside is I’ve had a couple cases of people not seeing the replies, possibly because the HTML email is more often flagged as spam. Need to investigate whether I can switch it to plaintext, but otherwise I’m happy.</p>
+<p><a href="http://keen.io/"><strong>Keen.io</strong></a>: I was inspired to try this after reading <a href="http://carpeaqua.com/2014/04/08/data-analytics-that-matter/">Justin’s post on analytics</a>. I’m experimenting with it to get better insight into how people are using my apps. So far so good.</p>
+<p><a href="https://tapstream.com/"><strong>Tapstream</strong></a>: Just started using this to help track Twitter ads and other links, to see what marketing actually converts to App Store sales. The web app is good, they responded to a support question the same day, and I love that the SDK is just a handful of .m files that can be dropped into an iOS project.</p>
+<p>And that’s it. I may have left a few things out (like consumer-focused apps Dropbox, App.net, and Twitter), but these certainly cover the major services I use now. In the old days it was common to just have one server that did everything. Now there are so many specialized services. While it seems like a lot to manage, each one does a much better job than I could do with a home-grown solution.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/04/17_services_for.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.712 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:34:13 -->

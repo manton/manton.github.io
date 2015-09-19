@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; purity</title>
+	<atom:link href="http://www.manton.org/tag/purity/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Macworld review for WebSentinel</title>
+		<link>http://www.manton.org/2009/07/macworld_review_for.html</link>
+		<comments>http://www.manton.org/2009/07/macworld_review_for.html#comments</comments>
+		<pubDate>Thu, 16 Jul 2009 22:34:49 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[clipstart]]></category>
+		<category><![CDATA[macworld]]></category>
+		<category><![CDATA[purity]]></category>
+		<category><![CDATA[review]]></category>
+		<category><![CDATA[websentinel]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2009/07/macworld_review_for.html</guid>
+		<description><![CDATA[This month I&#8217;ve been lucky to have &#8220;Clipstart&#8221;:http://www.riverfold.com/software/clipstart/ featured in both the US and UK print editions of Macworld. It&#8217;s great to see the product in print. Around 1996 to 1998 I worked for a small Mac software company called Purity Software. When &#8220;Ned Holbrook tweeted&#8221;:http://twitter.com/nedley/status/2639266306 that he had a collection of old Macworld print [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>This month I&#8217;ve been lucky to have &#8220;Clipstart&#8221;:http://www.riverfold.com/software/clipstart/ featured in both the US and UK print editions of Macworld. It&#8217;s great to see the product in print.</p>
+<p>Around 1996 to 1998 I worked for a small Mac software company called Purity Software. When &#8220;Ned Holbrook tweeted&#8221;:http://twitter.com/nedley/status/2639266306 that he had a collection of old Macworld print magazines, combined with having Clipstart&#8217;s review fresh in my mind, it jogged a memory that one of my products from Purity was reviewed in Macworld and I had always wished I had kept a copy. WebSentinel was a C++ PowerPlant app with a great UI for server products of that era (&#8220;screenshots here&#8221;:http://www.purity.com/websentinel.ws?page=exp &mdash; warning, Mac OS 8), though in hindsight it suffered from some annoying bugs and had trouble scaling. It turns out that 10 years later the review is nearly impossible to find online, but by following a series of broken links I eventually got a copy from the Internet Archive&#8217;s Wayback Machine.</p>
+<p>I&#8217;m archiving it below. It ran in the December 1998 issue.</p>
+<p>&#8212;</p>
+<p><em>WebSentinel 2.0</em></p>
+<p><em>Master of the Realms</em></p>
+<p><em>By Jeff Davis</em></p>
+<p>For Macintosh Webmasters who find their server&#8217;s built-in security limited and tedious, Purity Software&#8217;s WebSentinel 2.0 promises relief. This WebStar API (W*API) plug-in provides support for multiple database mechanisms and an attractive interface for an array of security services, including new features such as support for workstation restrictions, HTML log-in forms, and account expiration.</p>
+<p>WebSentinel 2.0 extends the realms model of Web security common on Macintosh Web servers. Rather than applying permissions to a folder (such as the Logs folder), you set permissions for a group of URLs (the realm) that share some specific text (any URL that contains .log, for example). This method can be very powerful, allowing administrators to secure like files regardless of their location on the server.</p>
+<p>In addition to standard HTTP authentication for realms, WebSentinel 2.0 supports HTML-forms-based authentication, allowing you to present personalized log-in screens. Webmasters can designate customized forms and no-access files for each realm. WebSentinel 2.0 even offers Redirection realms, so requests for certain URLs can be automatically sent to another page.</p>
+<p>Once realms are defined, you grant access to users, groups, and workstations. In addition to simple user names and passwords, administrators can define expiration criteria for each user, consisting of a date, a number of days, or even a number of accesses.</p>
+<p>WebSentinel 2.0 supports multiple &#8220;data targets&#8221; (back-end databases); you can save your information to more than one type of outside database, including those in Purity&#8217;s own Verona format and those in FileMaker Pro.</p>
+<p>It took me about 60 seconds to install WebSentinel 2.0 on a Mac server running StarNine&#8217;s WebStar 3.01. After another five minutes, I had my users, groups, and realms up and running. Both the administrative application and Web-browser interface are attractive and usable, but a few very minor interface glitches exist. Although assigning access to users and groups is quite simple, WebSentinel 2.0 needs to offer an easier way to display all users and groups assigned to a given realm within a single window.</p>
+<p>The security options all worked nicely, and there was no noticeable performance hit with ten users and realms. I did encounter problems when trying to use the plug-in with WebTen, due to an inconsistency with Tenon&#8217;s W*API implementation. Tenon has a patch that addresses these problems.</p>
+<p><em>Macworld&#8217;s Buying Advice</em></p>
+<p>Macintosh Webmasters will definitely find that WebSentinel 2.0 offers an elegant extension of WebStar&#8217;s realms-based security. But those dissatisfied with the whole realms concept should look to other options, such as Tenon&#8217;s WebTen, which offers built-in file and folder security.</p>
+<p><em>RATING</em>: 3 1/2 mice <em>PROS</em>: Elegant interface; authentication forms; multiple data targets. <em>CONS</em>: Lack of file and folder security; no easy way to view access by realm. <em>COMPANY</em>: Purity Software (512/328-2288, www.purity.com). $199 (upgrade from 1.0, $79).</p>
+<p>December 1998 page: 62</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2009/07/macworld_review_for.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>WWDC 2006 coming up</title>
+		<link>http://www.manton.org/2006/08/wwdc_2006_coming.html</link>
+		<comments>http://www.manton.org/2006/08/wwdc_2006_coming.html#comments</comments>
+		<pubDate>Fri, 04 Aug 2006 20:39:53 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[beos]]></category>
+		<category><![CDATA[copland]]></category>
+		<category><![CDATA[programming]]></category>
+		<category><![CDATA[purity]]></category>
+		<category><![CDATA[wwdc]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2006/08/wwdc_2006_coming.html</guid>
+		<description><![CDATA[&#8220;John Siracusa rants a bit&#8221;:http://arstechnica.com/staff/fatbits.ars/2006/7/21/4727 about the lack of access to WWDC for non-attendees. I agree that the session DVDs, sample code, and other resources should be made available to everyone. But there is so much to the conference that can&#8217;t be bottled up for later. I have been extremely lucky to have been able [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>&#8220;John Siracusa rants a bit&#8221;:http://arstechnica.com/staff/fatbits.ars/2006/7/21/4727 about the lack of access to WWDC for non-attendees. I agree that the session DVDs, sample code, and other resources should be made available to everyone. But there is so much to the conference that can&#8217;t be bottled up for later.</p>
+<p>I have been extremely lucky to have been able to attend WWDC for each of the last 5 years with &#8220;VitalSource&#8221;:http://www.vitalsource.com/, and a few years off and on before that. I think my first WWDC was 1996, which also makes next week my 10th anniversary of attending.</p>
+<p>1996 was &#8220;Copland&#8221;:http://en.wikipedia.org/wiki/Copland, the middle of the dark years for Apple. It was strange to be a Mac developer back then, to stay optimistic in the face of a barrage of bad press. I think it helped that I was &#8220;part of a small team&#8221;:http://www.purity.com/ that was passionate about this stuff. We couldn&#8217;t imagine building Windows software, although we did dabble in BeOS pretty extensively.</p>
+<p>So, on to my hopes for this year. First, I have no idea what will be in Leopard. Like many people, I hope for some Finder improvements and an effort to bring the fragmented window and control types back together. I also assume that Leopard will have nice new features, and that those features will have developer APIs to go along with them.</p>
+<p>Second, for the last couple of years I&#8217;ve believed that a Mac tablet is forthcoming. Tiger introduced two core pieces to this: handwriting recognition and portrait mode. &#8220;Patent rumors&#8221;:http://www.macsimumnews.com/index.php/archive/buzz_apples_new_accelerometer_patent_reveals_a_stunning_tablet_pc/ continue to hint at such a device. Judging by how many designers and animators have embraced the Windows-based Tablet PCs (for which the hardware mostly still sucks), I think an Apple-designed tablet could be extremely popular. This is the only piece of hardware I would literally buy on day 1.</p>
+<p>Going to WWDC? Say &#8220;hi&#8221; if you see someone who &#8220;looks like this&#8221;:http://www.manton.org/me/293.jpg.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2006/08/wwdc_2006_coming.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 12.535 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:48:09 -->

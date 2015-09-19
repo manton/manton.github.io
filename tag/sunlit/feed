@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; sunlit</title>
+	<atom:link href="http://www.manton.org/tag/sunlit/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Two weeks notice: new products</title>
+		<link>http://www.manton.org/2015/07/two-weeks-notice-new-products.html</link>
+		<comments>http://www.manton.org/2015/07/two-weeks-notice-new-products.html#comments</comments>
+		<pubDate>Thu, 23 Jul 2015 02:40:07 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[2weeks]]></category>
+		<category><![CDATA[clipstart]]></category>
+		<category><![CDATA[mac]]></category>
+		<category><![CDATA[snippets]]></category>
+		<category><![CDATA[sunlit]]></category>
+		<category><![CDATA[webapps]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2881</guid>
+		<description><![CDATA[Tonight I worked on some bug fixes to one of the new apps I hope to ship for Riverfold Software. I have just a handful of beta users, but got some good feedback and bug reports last week, things I want to address before opening it up to more users. When I think of the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Tonight I worked on some bug fixes to one of the new apps I hope to ship for Riverfold Software. I have just a handful of beta users, but got some good feedback and bug reports last week, things I want to address before opening it up to more users.</p>
+<p>When I think of the in-progress apps that I can ship soon to help increase revenue, there are really only 2:</p>
+<ul>
+<li>Clipstart 2.0, which will be renamed Sunlit for Mac, to complement the iPhone version.</li>
+<li>Unannounced microblogging-related web app, which may also come with iPhone and Mac apps.</li>
+</ul>
+<p>The problem with Sunlit for Mac is that I’m requiring 10.11 El Capitan. So no matter how much progress I make on it, I can’t ship it until Apple releases their next version of Mac OS X. I want to chip away at the new features, but I can’t spend all of my time on it yet. I need to focus attention on projects that have a chance of bringing in additional revenue in the very near future, not by the end of the year.</p>
+<p>So the microblogging app — the one I worked on tonight — keeps coming to the front. Since it’s mostly a web app, it has the least number of external API and App Store dependencies that would hold it up. I can ship the core functionality whenever it’s ready. The sooner I get it out the door, the sooner I’ll know if it’s something I can count on as business income.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/07/two-weeks-notice-new-products.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Retiring App.net support for Sunlit</title>
+		<link>http://www.manton.org/2015/07/retiring-app-net-support-for-sunlit.html</link>
+		<comments>http://www.manton.org/2015/07/retiring-app-net-support-for-sunlit.html#comments</comments>
+		<pubDate>Mon, 20 Jul 2015 18:00:34 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[adn]]></category>
+		<category><![CDATA[flickr]]></category>
+		<category><![CDATA[ohai]]></category>
+		<category><![CDATA[sunlit]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2868</guid>
+		<description><![CDATA[Sunlit 1.3.1 shipped today. It’s a minor update focused on fixing bugs, but it is also the first version to remove App.net support. Existing users still have access to all the App.net features — the code still exists in the app for now — but the App.net sign-in button and settings have been removed for new users [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://sunlit.io/">Sunlit</a> 1.3.1 shipped today. It’s a minor update focused on fixing bugs, but it is also the first version to remove App.net support. Existing users still have access to all the App.net features — the code still exists in the app for now — but the App.net sign-in button and settings have been removed for new users to simplify the requirements and UI.</p>
+<p>It was difficult to let go of the App.net-specific features. A significant amount of the codebase was around syncing and collaboration features via App.net. There was also some great location check-in support built on App.net locations and compatibility with <a href="http://ohaiapp.net/">Ohai</a>. I had to remove screenshots and prune down the App Store description to account for the removed features.</p>
+<p>What’s left is an app that has fewer features but which feels light and simple again. Maybe this should have been our 1.0 version all along.</p>
+<p>Two years ago, <a href="http://www.manton.org/2013/08/waiting_for_appnets.html">I wrote about waiting for App.net’s killer app</a>:</p>
+<blockquote><p>
+  “The promise of App.net is bigger than one type of app. App.net isn’t just a blank slate; it’s an amplifier. It’s waiting to power the next new idea and help it grow into something big.”
+</p></blockquote>
+<p>This vision didn’t pan out. But I’m proud that we gave it a shot and put a lot of effort into the platform even after others had given up on it. Now that we’ve finished this “reset”, of sorts, we’ll move forward to build other features we always wanted in Sunlit.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/07/retiring-app-net-support-for-sunlit.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Core Intuition 169</title>
+		<link>http://www.manton.org/2015/01/core-intuition-169.html</link>
+		<comments>http://www.manton.org/2015/01/core-intuition-169.html#comments</comments>
+		<pubDate>Fri, 23 Jan 2015 14:00:19 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[clarion]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[sunlit]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2433.html</guid>
+		<description><![CDATA[Last night we published episode 169 of Core Intuition. As we&#8217;ve done on a couple recent episodes, we let this one run for an hour with a discussion of App Store revenue, sales charts, and progress on our own projects. Sunlit 1.3, the update I mention in the podcast, is complete now and submitted to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Last night we published <a href="http://www.coreint.org/2015/01/episode-169-shame-driven-development/">episode 169 of Core Intuition</a>. As we&#8217;ve done on a couple recent episodes, we let this one run for an hour with a discussion of App Store revenue, sales charts, and progress on our own projects. <a href="http://sunlit.io/">Sunlit</a> 1.3, the update I mention in the podcast, is complete now and submitted to Apple for review.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/01/core-intuition-169.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Preservation State and App Stories</title>
+		<link>http://www.manton.org/2014/05/preservation_state_and.html</link>
+		<comments>http://www.manton.org/2014/05/preservation_state_and.html#comments</comments>
+		<pubDate>Tue, 27 May 2014 19:11:06 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[adn]]></category>
+		<category><![CDATA[podcasts]]></category>
+		<category><![CDATA[sunlit]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/05/preservation_state_and.html</guid>
+		<description><![CDATA[I was the guest on 2 podcasts recently. First, on Preservation State with Philip Mozolak and Christopher Radliff, we talked for an hour about App.net, Beats Music, and more. It was fun to do a longer podcast that’s free to kind of meander through different topics, and I think we covered a lot. Next, on [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I was the guest on 2 podcasts recently. First, <a href="http://preservationstate.com/027-a-manton-reece-nerd-pocket/">on Preservation State with Philip Mozolak and Christopher Radliff</a>, we talked for an hour about App.net, Beats Music, and more. It was fun to do a longer podcast that’s free to kind of meander through different topics, and I think we covered a lot.</p>
+<p>Next, <a href="http://www.appstorypodcast.com/apps/sunlit">on App Stories</a>, Vic Hudson interviewed me about how Sunlit came to be. We talk about App.net, design choices in Sunlit, and the future for the app. There’s a lot in there that I’ve never talked about before. Hope you enjoy these episodes!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/05/preservation_state_and.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Sunlit 1.2</title>
+		<link>http://www.manton.org/2014/05/sunlit_12.html</link>
+		<comments>http://www.manton.org/2014/05/sunlit_12.html#comments</comments>
+		<pubDate>Thu, 08 May 2014 19:47:26 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[adn]]></category>
+		<category><![CDATA[flickr]]></category>
+		<category><![CDATA[sunlit]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/05/sunlit_12.html</guid>
+		<description><![CDATA[Sunlit version 1.2 is now available in the App Store. It includes a few minor improvements and one major change: you can now use the app with only a Flickr account. It no longer requires App.net. We hope this will allow more people to try the app. At any time, you can always add your [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Sunlit version 1.2 is <a href="http://taps.io/Ld3g">now available in the App Store</a>. It includes a few minor improvements and one major change: you can now use the app with only a Flickr account. It no longer requires App.net.</p>
+<p>We hope this will allow more people to try the app. At any time, you can always add your App.net account to the app’s settings and it will unlock the more advanced features: syncing, sharing stories to other App.net users, and multi-user collaboration so that anyone can add photos and edit text in a story.</p>
+<p>Making App.net optional instead of required meant rethinking what the minimum features were that all users should have. Obviously you have to be able to create stories, add photos, include text descriptions, and use filters. But we also kept coming back to one thing: we could not ship without also supporting web publishing. The bulk of work on Sunlit 1.2 was creating a parallel implementation for publishing that would seamlessly work with exactly the same UI, with or without App.net.</p>
+<p>Some people may ask why we chose Flickr instead of creating our own user accounts system, or simply having no registration. To support publishing, it helps to have some unique username for a user, and a secure way to authenticate them on the server. It won’t surprise anyone to hear that <em>a lot</em> of people have Yahoo accounts. With a redesigned web and mobile experience, plus 1 TB of free photo storage, Yahoo’s giving Flickr something of a new resurgence. There’s a lot we could build on the Flickr API.</p>
+<p>At the same time, Sunlit’s App.net support is a powerful differentiator and we’ll continue to improve it. It lets you own your data, share it with other apps like Ohai, and sync to multiple users. I still believe in the App.net API and user community; it’s too good a platform to give up on.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/05/sunlit_12.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The risk of a small platform</title>
+		<link>http://www.manton.org/2014/05/the_risk_of.html</link>
+		<comments>http://www.manton.org/2014/05/the_risk_of.html#comments</comments>
+		<pubDate>Wed, 07 May 2014 22:24:51 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[adn]]></category>
+		<category><![CDATA[api]]></category>
+		<category><![CDATA[platforms]]></category>
+		<category><![CDATA[sunlit]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/05/the_risk_of.html</guid>
+		<description><![CDATA[Marco Arment responds to my comment that developers should have seen the potential of the App.net API as something much bigger than Twitter. I wanted my post to be short, but Marco makes good points that are worth following up on. He writes: “Building an app on someone else’s API, rather than making your own, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.marco.org/2014/05/07/manton-adn-api">Marco Arment responds</a> to my comment that developers should have seen the potential of the App.net API as something much bigger than Twitter. I wanted <a href="http://www.manton.org/2014/05/appnet_niche.html">my post</a> to be short, but Marco makes good points that are worth following up on. He writes:</p>
+<blockquote><p>
+  “Building an app on someone else’s API, rather than making your own, is a huge risk: it usually only pays off if the service provides a huge existing userbase and hard-to-duplicate functionality. App.net never offered either. They started out facing the typical social-network chicken-and-egg problem, put a huge paywall in front to prevent any growth, and tried to alleviate that by adding more chicken-and-egg problems to their offerings.”
+</p></blockquote>
+<p>Building entirely on App.net for <a href="http://sunlit.io/">Sunlit</a> was indeed a huge risk, and one that we expected would take time to pay off. It was a bet on the future. We are incredibly proud of our app and the response it got in the App.net community, but our goal was always to make an app <a href="http://manton.org/2014/01/no_coincidence.html">that appealed to everyone</a>, not just a small niche of tech folks. We’ve actually been working for over a month on a new version of Sunlit that expands the reach of the app beyond App.net, and coincidentally it just went into review at Apple this week.</p>
+<p>But I think the chicken-and-egg problem was solvable. The main issue with iOS apps is that they couldn’t sign up a new user directly in the app. This made sense when App.net was a paid-only service, because you’d run into in-app purchase issues with Apple, but it became more technically feasible when the free tier launched.</p>
+<p>The App.net founders also seemed receptive to the idea. There just wasn’t time to make it happen. I believe this single roadblock prevented any potentially-mainstream <a href="http://manton.org/2013/08/waiting_for_appnets.html">killer apps</a> built on App.net from getting off the ground. If it’s not easy to open a third-party app, create an account, and start using the service, too many people will give up. (Our numbers showed that only 40% of Sunlit downloads actually signed in to use the app for real.)</p>
+<p>However, building our own backend for the app would also be very challenging and expensive. We are not syncing small bits of data around. It’s a photo sharing app, so right off the bat you’ve got big files that have to be hosted somewhere. On top of that there’s collaboration features, so you need not just user accounts but private sync channels that have specific read/write access to certain users. Plus all the metadata and formats to support syncing text, photos, and location check-in information. Not to mention publishing HTML, thumbnails, and maps. It’s daunting.</p>
+<p>(In fact, it’s so daunting, I don’t think there’s a single app in the App Store that has feature-parity with Sunlit. The app simply could not have been built by a tiny team of 2 part-time developers if building a whole backend infrastructure first was a prerequisite.)</p>
+<p>Marco closes with this:</p>
+<blockquote><p>
+  “As much as App.net wanted to be — and eventually was — much more than a Twitter clone, it got the vast majority of its initial funding, enthusiasm, and developer support from people’s anger at Twitter’s dickification. But internet outrage doesn’t last long. Since App.net never became the new primary place where our friends all hung out, most of us never left Twitter — we all just accept that they’re dicks now, and we forgot about App.net.”
+</p></blockquote>
+<p>There’s an argument to be made that App.net’s core mistake was building the Alpha web interface only far enough to match Twitter’s features and then moving on to other things. Instead, they could have kept improving Alpha until it was significantly better than Twitter, so good that it couldn’t be ignored. By doing so, maybe they would have also more effectively demonstrated the power of the API underneath.</p>
+<p>I assume that App.net chose not to do this so they wouldn’t compete with developers. After all, the service was founded on the idea that developers should be respected and given every opportunity to succeed. Finding the right balance to showcase the platform with first-party apps without stepping on developers is not always easy. We can argue about which missteps were the most costly, but the founders never wavered on their original principles and they promoted every app that launched on the platform. That means something.</p>
+<p>As for outrage not lasting long on the internet, Marco’s totally right. I just <a href="http://www.manton.org/2014/05/would_i_go_back.html">don’t forget that easily</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/05/the_risk_of.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Prompt for push notifications</title>
+		<link>http://www.manton.org/2014/02/prompt_for_push.html</link>
+		<comments>http://www.manton.org/2014/02/prompt_for_push.html#comments</comments>
+		<pubDate>Fri, 28 Feb 2014 16:40:04 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[notifications]]></category>
+		<category><![CDATA[push]]></category>
+		<category><![CDATA[sunlit]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/02/prompt_for_push.html</guid>
+		<description><![CDATA[David Smith says to not bother the user with alerts on first launch: “I have just sorted through the App Store and settled on trying out your app. I open it up and you immediately ask if you can send me Push Notifications? I have no context about what these are going to be used [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>David Smith says to <a href="http://david-smith.org/blog/2014/02/28/please-dont-push-me/">not bother the user with alerts on first launch</a>:</p>
+<blockquote><p>
+  “I have just sorted through the App Store and settled on trying out your app. I open it up and you immediately ask if you can send me Push Notifications? I have no context about what these are going to be used for or why they might be useful to me.”
+</p></blockquote>
+<p>I agree. For <a href="http://sunlit.io/">Sunlit</a>, we only prompt to enable push notifications after you’ve chosen to enable sharing for a story. While it might be useful to have push notifications for everyone, by waiting until we <em>really</em> need it, most users are never bothered with the alert. And it forced us to focus on specific and valuable uses of notifications, such as sending a push notification when someone subscribes to your shared story.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/02/prompt_for_push.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Podcast appearances and slides</title>
+		<link>http://www.manton.org/2014/02/podcast_appearances_and.html</link>
+		<comments>http://www.manton.org/2014/02/podcast_appearances_and.html#comments</comments>
+		<pubDate>Tue, 25 Feb 2014 18:30:02 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[cocoaconf]]></category>
+		<category><![CDATA[iphreaks]]></category>
+		<category><![CDATA[nsconference]]></category>
+		<category><![CDATA[releasenotes]]></category>
+		<category><![CDATA[sunlit]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/02/podcast_appearances_and.html</guid>
+		<description><![CDATA[I forgot to mention a few weeks back that I was a guest on the iPhreaks Show podcast. The format is a panel of regulars and usually one guest, making it feel more like a roundtable discussion. They had me on to talk about subscription pricing: charging every month for your app or service. Some [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I forgot to mention a few weeks back that I was a guest on <a href="http://iphreaksshow.com/039-iphreaks-show-subscription-apis-for-recurring-revenue-with-manton-reece/">the iPhreaks Show podcast</a>. The format is a panel of regulars and usually one guest, making it feel more like a roundtable discussion. They had me on to talk about subscription pricing: charging every month for your app or service.</p>
+<p>Some of what we talked about was covered in 2 talks I gave last year about subscriptions, at NSConference and CocoaConf Dallas. I’ve finally pulled together the slides from these talks and put the latest version from CocoaConf <a href="http://www.manton.org/misc/Subscription_APIs_CocoaConf_2013.pdf">here as a PDF</a> (17 MB). It’s different than the NSConference one, but I think works better standalone. You can still <a href="http://my.nsconference.com">purchase the videos from NSConference 2013</a> to get my talk and many other great ones.</p>
+<p>This week I was also on <a href="http://releasenotes.tv/41-manton-reece/">the Release Notes podcast</a> with Joe Cieplinski and Charles Perry. They do a great job each episode focusing on something from the business side of running an indie software company, and they’ve had some excellent guests as well. From the show notes for episode 41:</p>
+<blockquote><p>
+  “We talk about creating products vs. services, changing products from free to paid, and the advantages and challenges of subscription pricing. Manton also shares his experience in creating apps like Sunlit that build on top of other services like Twitter and App.net, his recent foray into freemium pricing, and the launch of the new Core Intuition Jobs Board.”
+</p></blockquote>
+<p>If you enjoy <a href="http://www.coreint.org/">Core Intuition</a>, I think you’ll really like Release Notes. Let me know if you have any feedback on the show.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/02/podcast_appearances_and.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Sunlit 1.1</title>
+		<link>http://www.manton.org/2014/02/sunlit_11.html</link>
+		<comments>http://www.manton.org/2014/02/sunlit_11.html#comments</comments>
+		<pubDate>Fri, 14 Feb 2014 21:00:09 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[dropbox]]></category>
+		<category><![CDATA[flickr]]></category>
+		<category><![CDATA[instagram]]></category>
+		<category><![CDATA[sunlit]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/02/sunlit_11.html</guid>
+		<description><![CDATA[Today we shipped version 1.1 of Sunlit, our app for collecting photos and text together to make and publish stories. Some of the bigger changes include: Instagram and Flickr import. You can now add any of your own Instagram or Flickr photos into a story. With Flickr, you can even browse from your Flickr sets. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Today we shipped version 1.1 of <a href="http://sunlit.io/">Sunlit</a>, our app for collecting photos and text together to make and publish stories. Some of the bigger changes include:</p>
+<ul>
+<li><strong>Instagram and Flickr import.</strong> You can now add any of your own Instagram or Flickr photos into a story. With Flickr, you can even browse from your Flickr sets.</p>
+</li>
+<li>
+<p><strong>Improved Dropbox support.</strong> The first version of Sunlit assumed most of your photos on Dropbox were in the Camera Uploads or Photos folder. For 1.1, we’ve added a full Dropbox browser so you can pick any folder you want.</p>
+</li>
+<li>
+<p><strong>Multi-user text syncing.</strong> Now anyone subscribed to a story can add both photos and text descriptions, and the text will sync to all users. This is a really powerful feature for collaborating on stories. We think it puts Sunlit in a class above any other app like this.</p>
+</li>
+<li>
+<p><strong>Confirm deleted photos.</strong> What happens if you let other people add photos to your story, but they accidentally delete one of your photos? Sunlit now tracks this and shows a special confirmation alert so that you can either allow the photo to be deleted or keep it.</p>
+</li>
+</ul>
+<p>There are other fixes and improvements too, which you can <a href="http://sunlit.io/releasenotes">see in the release notes</a>. Here are a few screenshots of the new Dropbox and Flickr screens:</p>
+<p><img src="http://www.manton.org/images/2014/sunlit_dropbox_flickr.png" width="600" height="336" alt="Sunlit v1.1" /></p>
+<p><a href="https://itunes.apple.com/app/sunlit/id690924901?mt=8">Sunlit is available in the App store</a> as a free download. If you like it, pay just $4.99 to unlock the full app, and leave a review in the App Store to help others discover the app. Thanks!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/02/sunlit_11.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Launch Center Pro and Sunlit</title>
+		<link>http://www.manton.org/2014/01/launch_center_pro.html</link>
+		<comments>http://www.manton.org/2014/01/launch_center_pro.html#comments</comments>
+		<pubDate>Thu, 30 Jan 2014 23:20:17 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[launchcenterpro]]></category>
+		<category><![CDATA[sunlit]]></category>
+		<category><![CDATA[urls]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/01/launch_center_pro.html</guid>
+		<description><![CDATA[I’ve long been a fan of Launch Center Pro, an iPhone app from my local Texas friends David Barnard and Justin Youens. It’s handy even for fairly simple tasks — firing off web searches or other shortcuts into apps — but it’s especially powerful when wiring up multiple apps together. For Sunlit it was nice [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I’ve long been a fan of <a href="http://contrast.co/launch-center-pro/">Launch Center Pro</a>, an iPhone app from my local Texas friends David Barnard and Justin Youens. It’s handy even for fairly simple tasks — firing off web searches or other shortcuts into apps — but it’s especially powerful when wiring up multiple apps together. For Sunlit it was nice to provide some full actions that Launch Center Pro users could use to automate bringing content into Sunlit.</p>
+<p>Jonathan has <a href="http://jonathanhays.me/2014/01/28/the-schemes-of-sunlit/">the full rundown on the URL schemes</a> that Sunlit supports and why we think they’re important. You can also use the Action Composer inside Launch Center Pro to access these actions without having to type them in.</p>
+<p>And just today, <a href="http://www.macstories.net/reviews/launch-center-pro-for-ipad-review/">Launch Center Pro for iPad shipped</a>. Check it out and explore <a href="http://actions.contrast.co">some of the many apps</a> like <a href="http://sunlit.io/">Sunlit</a> that are supported.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/01/launch_center_pro.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.445 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:19:40 -->

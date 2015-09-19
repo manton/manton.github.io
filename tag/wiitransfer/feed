@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; wiitransfer</title>
+	<atom:link href="http://www.manton.org/tag/wiitransfer/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Podcast interviews and the new Riverfold</title>
+		<link>http://www.manton.org/2015/09/podcast-interviews-and-the-new-riverfold.html</link>
+		<comments>http://www.manton.org/2015/09/podcast-interviews-and-the-new-riverfold.html#comments</comments>
+		<pubDate>Tue, 08 Sep 2015 18:49:29 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[cocoaconf]]></category>
+		<category><![CDATA[consulting]]></category>
+		<category><![CDATA[podcasts]]></category>
+		<category><![CDATA[wiitransfer]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3011</guid>
+		<description><![CDATA[I was interviewed for two podcasts recently. The first is the CocoaConf Podcast. Daniel Steinberg does a fantastic job of editing his show with a tight format, mixing together interviews and community news. We talked a lot about my new microblogging project and working on things that matter. I told the story of shutting down [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I was interviewed for two podcasts recently. The first is <a href="http://cocoaconf.com/podcast/14">the CocoaConf Podcast</a>. Daniel Steinberg does a fantastic job of editing his show with a tight format, mixing together interviews and community news.</p>
+<p>We talked a lot about my new microblogging project and working on things that matter. I told the story of shutting down my Mac app Wii Transfer to focus on other projects:</p>
+<blockquote><p>
+  &#8220;It was really popular. I remember when I shipped 2.0 it was one of my best sales days ever, probably <em>the</em> best sales day ever. But what I came to is that as neat as it was, as useful as it was for some people, in the big scheme of things — if you take 5 years out, 10 years out — that app just wasn&#8217;t that important. It was neat, but it&#8217;s time had come and gone.&#8221;
+</p></blockquote>
+<p>The other podcast I was on is a new one called <a href="http://consultpodcast.com/post/128140298572/episode-3-manton-reece-david-interviews-manton">Consult</a>. It&#8217;s an interview show all about consulting and client work. I had a good time chatting with host David Kopec about evolving Riverfold Software to <a href="http://www.riverfold.com/consulting/">include consulting</a> while at the same time expanding into a full-time indie business.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/09/podcast-interviews-and-the-new-riverfold.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Justin Williams kills 2 apps</title>
+		<link>http://www.manton.org/2012/08/justin_williams_kills.html</link>
+		<comments>http://www.manton.org/2012/08/justin_williams_kills.html#comments</comments>
+		<pubDate>Fri, 24 Aug 2012 18:50:40 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[justin]]></category>
+		<category><![CDATA[markdown]]></category>
+		<category><![CDATA[today]]></category>
+		<category><![CDATA[wiitransfer]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2012/08/justin_williams_kills.html</guid>
+		<description><![CDATA[Justin Williams on his decision to stop selling his apps MarkdownMail and Today: “Financially, it may not have made much sense to cut off the revenue streams, but therapeutically I’m freeing up that portion of my brain to focus my full attention on the next version of Elements and the dozens of other ideas that [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://carpeaqua.com/2012/08/20/a-therapeutic-killing/">Justin Williams on his decision to stop selling</a> his apps MarkdownMail and Today:</p>
+<blockquote><p>
+  “Financially, it may not have made much sense to cut off the revenue streams, but therapeutically I’m freeing up that portion of my brain to focus my full attention on the next version of Elements and the dozens of other ideas that that are circling in my head.”
+</p></blockquote>
+<p>I felt exactly the same way <a href="http://www.manton.org/2012/05/saying_goodbye_to.html">when I stopped selling Wii Transfer</a> earlier this year. It wasn’t until a month later that I realized how much I had been enjoying that revenue, limited as it had become. I don’t regret it, though. It was the right thing for my potential customers, not to be misled into thinking there would be new versions. And it was the right thing for my focus, working on other projects.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2012/08/justin_williams_kills.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Saying goodbye to Wii Transfer</title>
+		<link>http://www.manton.org/2012/05/saying_goodbye_to.html</link>
+		<comments>http://www.manton.org/2012/05/saying_goodbye_to.html#comments</comments>
+		<pubDate>Tue, 01 May 2012 22:30:04 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[mac]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[waltdisney]]></category>
+		<category><![CDATA[wiitransfer]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2012/05/saying_goodbye_to.html</guid>
+		<description><![CDATA[“Around here, however, we don’t look backwards for very long. We keep moving forward, opening up new doors and doing new things, because we’re curious… and curiosity keeps leading us down new paths.” — Walt Disney There are many posts on this blog about Wii Transfer, the little Mac app that launched commercially almost by [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><em>“Around here, however, we don’t look backwards for very long. We keep moving forward, opening up new doors and doing new things, because we’re curious… and curiosity keeps leading us down new paths.” — Walt Disney</em></p>
+<p>There are many posts on this blog about Wii Transfer, the little Mac app that launched commercially almost by accident, and convinced me that it would be worthwhile to invest time in this side business called Riverfold Software. Early posts like <a href="http://www.manton.org/2006/12/reintroducing_wii.html">the launch post in 2006</a> or <a href="http://www.manton.org/2007/02/first_75_days.html">this one about the first 75 days</a>, and <a href="http://www.manton.org/2007/09/wii_transfer.html">this one covering the price bump in version 2.5</a>. But the app has been fading over the last couple of years, no longer as relevant today as it once was. It&#8217;s time to let it go.</p>
+<p>I&#8217;m retiring Wii Transfer to focus on my other apps. It&#8217;s not that it doesn&#8217;t sell; it still does. It&#8217;s just that it&#8217;s not an app I actually use anymore. By officially shelving the whole project, I hope to remove a psychological burden of sorts — to no longer worry that I&#8217;m ignoring an active product.</p>
+<p>It also doesn&#8217;t fit into a new theme I have for Riverfold: apps that are all about keeping and remembering what matters. For Clipstart, that&#8217;s family videos. For Tweet Library and Tweet Marker Plus, that&#8217;s old tweets. Wii Transfer is about… listening to music on your Wii? It doesn&#8217;t fit, and in the world of the Apple TV and Roku, modern streaming technology has passed the app by.</p>
+<p>If anyone is disappointed that Wii Transfer will no longer receive updates, of course I offer refunds. I won&#8217;t be selling or open sourcing the app, preferring instead to continue to support existing customers myself for as long as they want to use the app. And I&#8217;ll keep the automatic bookmark service running that makes setup easy, as well as the Mii rendering service, so nothing breaks.</p>
+<p>I put a lot of work into Wii Transfer over its 5-year lifespan. It&#8217;s not easy saying goodbye, especially to some of the unique things that only Wii Transfer could do, such as exporting Miis as images. Maybe I can bring that back one day. For now, I&#8217;m following the path started by my apps Tweet Library and Clipstart, for which there are many new things still to do.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2012/05/saying_goodbye_to.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Wii Transfer 2.7.2</title>
+		<link>http://www.manton.org/2011/08/wii_transfer_272.html</link>
+		<comments>http://www.manton.org/2011/08/wii_transfer_272.html#comments</comments>
+		<pubDate>Sun, 14 Aug 2011 22:29:50 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[mii]]></category>
+		<category><![CDATA[wii]]></category>
+		<category><![CDATA[wiitransfer]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2011/08/wii_transfer_272.html</guid>
+		<description><![CDATA[And now for something completely different. I released a bug fix update to &#8220;Wii Transfer&#8221;:http://www.riverfold.com/software/wiitransfer/ last night, the first in over a year. It doesn&#8217;t have some of the bigger things I&#8217;d like to finish for the app, but it does have an important bug fix to Mii rendering. At some point in a recent [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>And now for something completely different. I released a bug fix update to &#8220;Wii Transfer&#8221;:http://www.riverfold.com/software/wiitransfer/ last night, the first in over a year. It doesn&#8217;t have some of the bigger things I&#8217;d like to finish for the app, but it does have an important bug fix to Mii rendering.</p>
+<p>At some point in a recent update to Safari or Mac OS X, Miis started appearing blank in Wii Transfer. These are rendered in an offscreen window using Flash, then saved as thumbnails in Wii Transfer with the option to export a JPEG. The fix &mdash; for reasons I&#8217;m still not clear on &mdash; was to switch to using NSBitmapImageRep&#8217;s cacheDisplayInRect instead of initWithFocusedViewRect. Needless to say, customers were frustrated that this was no longer working, and I&#8217;m sorry I didn&#8217;t take care of the problem more quickly.</p>
+<p>I&#8217;ve been thinking a lot lately about the future of Wii Transfer and its companion &#8220;@wii&#8221;:http://twitter.com/wii Twitter account. This little Mac app is overdue for a rename and refocused feature set.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2011/08/wii_transfer_272.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Removing features</title>
+		<link>http://www.manton.org/2010/02/removing_features.html</link>
+		<comments>http://www.manton.org/2010/02/removing_features.html#comments</comments>
+		<pubDate>Wed, 03 Feb 2010 20:03:34 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[features]]></category>
+		<category><![CDATA[lukasmathis]]></category>
+		<category><![CDATA[wiitransfer]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2010/02/removing_features.html</guid>
+		<description><![CDATA[&#8220;Lukas Mathis writes&#8221;:http://ignorethecode.net/blog/2010/02/02/removing-features/ about removing features: &#8220;You don&#8217;t _have_ to try to please everybody and eventually create an application that is liked by nobody. In fact, since your users are in all likelihood in a situation where they can switch applications easily, and since they probably are not locked in by the need to open [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>&#8220;Lukas Mathis writes&#8221;:http://ignorethecode.net/blog/2010/02/02/removing-features/ about removing features:</p>
+<blockquote><p>&#8220;You don&#8217;t _have_ to try to please everybody and eventually create an application that is liked by nobody. In fact, since your users are in all likelihood in a situation where they can switch applications easily, and since they probably are not locked in by the need to open a specific file format in its native application, it might be a really bad idea for you to go down the &#8216;simply add up all the requested features&#8217; route of application design.&#8221;</p></blockquote>
+<p>He also links to &#8220;my Wii Transfer survey&#8221;:http://www.manton.org/2009/07/wii_transfer_survey.html, so I thought I&#8217;d post a quick follow-up. I eventually did remove a feature, and the survey to customers served as a nice sanity check that the feature wasn&#8217;t heavily used. The interesting part, to me, is that the feature I removed was the <em>entire 1.0 product for Wii Transfer</em>. Literally everything that 1.0 did is now gone.</p>
+<p>It&#8217;s been two weeks so far without any complaints. I like to think that it removes a distraction from the app &mdash; one less place in the app that could lead the customer down the wrong path. And hopefully it&#8217;ll eliminate a tiny part of my support load, as no one can ask me questions or have problems with that feature again!</p>
+<p>On an internal company mailing list I once wrote:</p>
+<blockquote><p>&#8220;Products that don&#8217;t exist yet have a way of attracting new features because everyone sees the potential in something that has no form&#8221;.</p></blockquote>
+<p>I was talking about resisting the urge for everyone on the team to pile on their favorite features before 1.0, but I think this applies to apps with a minimal design as well. A simple app shows promise. A cluttered app with too much going on looks &#8220;done&#8221;, and sends a message that it is mature and maybe going in a different direction than what the user wants. In that way, the irony is that removing features (the <em>wrong</em> features) may actually make an application more appealing to new users.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2010/02/removing_features.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Wii Transfer 2.7</title>
+		<link>http://www.manton.org/2010/01/wii_transfer_27.html</link>
+		<comments>http://www.manton.org/2010/01/wii_transfer_27.html#comments</comments>
+		<pubDate>Wed, 20 Jan 2010 03:43:56 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[flash]]></category>
+		<category><![CDATA[indierelief]]></category>
+		<category><![CDATA[wiitransfer]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2010/01/wii_transfer_27.html</guid>
+		<description><![CDATA[I finally took the time to give &#8220;Wii Transfer&#8221;:http://www.riverfold.com/software/wiitransfer/ some much-needed attention, releasing version 2.7 of the application tonight. It&#8217;s got the usual bug fixes and some small visual improvements, but the most important change is better video streaming. The biggest mistake I ever made with Wii Transfer was to buy an Apple TV instead [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I finally took the time to give &#8220;Wii Transfer&#8221;:http://www.riverfold.com/software/wiitransfer/ some much-needed attention, releasing version 2.7 of the application tonight. It&#8217;s got the usual bug fixes and some small visual improvements, but the most important change is better video streaming. The biggest mistake I ever made with Wii Transfer was to buy an Apple TV instead of forcing myself to use my own application.</p>
+<p>For this release, I sat down with Wii Transfer and a ripped copy of Star Trek, and I just watched it over and over, experimenting with different Flash Video conversion settings and tweaking networking code. I wasn&#8217;t going to release this until I could watch a 2-hour movie without any rebuffering. The quality is never going to be as good as a console or set-top box with dedicated video streaming features &mdash; this is Flash on the Wii we are talking about &mdash; but I&#8217;m happy with what I came up with.</p>
+<p>Wii Transfer is still only $19, and version 2.7 is a free upgrade for any customer who ever bought the application going back to 1.0 over three years ago. Also an important reminder: <em>all sales go to charity starting tomorrow, January 20th</em>, as part of &#8220;Indie Relief&#8221;:http://www.indierelief.com/.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2010/01/wii_transfer_27.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Wii Transfer survey</title>
+		<link>http://www.manton.org/2009/07/wii_transfer_survey.html</link>
+		<comments>http://www.manton.org/2009/07/wii_transfer_survey.html#comments</comments>
+		<pubDate>Thu, 30 Jul 2009 16:01:26 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[campaignmonitor]]></category>
+		<category><![CDATA[clipstart]]></category>
+		<category><![CDATA[newsletter]]></category>
+		<category><![CDATA[survey]]></category>
+		<category><![CDATA[wiitransfer]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2009/07/wii_transfer_survey.html</guid>
+		<description><![CDATA[Yesterday I sent out a newsletter to all my &#8220;Wii Transfer&#8221;:http://www.riverfold.com/software/wiitransfer/ customers. You can see the &#8220;text of the newsletter here&#8221;:http://www.riverfold.com/newsletter/2009/07.html. I wasn&#8217;t sure how effective this would be, but I immediately got a bunch of responses to the survey, and hopefully more interest in Clipstart too. I decided against doing any specific tracking for [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Yesterday I sent out a newsletter to all my &#8220;Wii Transfer&#8221;:http://www.riverfold.com/software/wiitransfer/ customers. You can see the &#8220;text of the newsletter here&#8221;:http://www.riverfold.com/newsletter/2009/07.html. I wasn&#8217;t sure how effective this would be, but I immediately got a bunch of responses to the survey, and hopefully more interest in Clipstart too.</p>
+<p>I decided against doing any specific tracking for number of views and links clicked, but there was an obvious spike in traffic for a couple hours as people clicked on the links in the email.</p>
+<p>The survey results are about what I expected. Most people are buying Wii Transfer to watch movies and listen to music on their TV. I&#8217;ll use this feedback to simplify the user interface around these features, and prune back a feature set that had grown a little too fast for its own good.</p>
+<p>Here&#8217;s a chart of the results so far:</p>
+<p><img src="http://www.manton.org/images/2009/wt3survey.png" alt="Survey chart" border="0" width="524" height="270" /></p>
+<p>I used &#8220;Campaign Monitor&#8221;:http://www.campaignmonitor.com/ for sending the newsletter, and as usual I&#8217;m very pleased with how simple they make this. I did a full customer export from my registration database and Campaign Monitor merged it with the existing list from my newsletter last year, weeding out duplicates and removing anyone who had already unsubscribed.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2009/07/wii_transfer_survey.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Family packs</title>
+		<link>http://www.manton.org/2008/10/family_packs.html</link>
+		<comments>http://www.manton.org/2008/10/family_packs.html#comments</comments>
+		<pubDate>Tue, 28 Oct 2008 04:02:40 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[family]]></category>
+		<category><![CDATA[pricing]]></category>
+		<category><![CDATA[wiitransfer]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2008/10/family_packs.html</guid>
+		<description><![CDATA[I rolled out &#8220;family pack&#8221; pricing for &#8220;Wii Transfer&#8221;:http://www.riverfold.com/software/wiitransfer/ over the weekend. I had to make changes to my custom PayPal integration scripts to support it, and I also modified the product page to use a simplified checkout (no standalone store page). Pretty straightforward. I was less sure about pricing. A quick survey of other [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I rolled out &#8220;family pack&#8221; pricing for &#8220;Wii Transfer&#8221;:http://www.riverfold.com/software/wiitransfer/ over the weekend. I had to make changes to my custom PayPal integration scripts to support it, and I also modified the product page to use a simplified checkout (no standalone store page). Pretty straightforward.</p>
+<p>I was less sure about pricing. A quick survey of other Mac developers yielded results like these (normal price / family price &mdash; all of these are for 5 users):</p>
+<p>&#8220;Radioshift&#8221;:http://www.rogueamoeba.com/: $32 / $59</p>
+<p>&#8220;Yojimbo&#8221;:http://www.barebones.com/: $39 / $69</p>
+<p>&#8220;Hazel&#8221;:http://www.noodlesoft.com/: $21.95 / $39.95</p>
+<p>&#8220;iLife&#8221;:http://www.apple.com/ilife/: $79 / $99</p>
+<p>&#8220;Bento&#8221;:http://www.filemaker.com/products/bento/: $49 / $99</p>
+<p>&#8220;TextExpander&#8221;:http://www.smileonmymac.com/: $29.95 / $44.95</p>
+<p>&#8220;MoneyWell&#8221;:http://nothirst.com/: $39.99 / $69.99</p>
+<p>Additionally, some companies don&#8217;t have a family pack, but offer discounts for multiple copies:</p>
+<p>&#8220;Acorn&#8221;:http://www.flyingmeat.com/: $49.95 / 2+ (20% off)</p>
+<p>&#8220;On The Job&#8221;:http://www.stuntsoftware.com/: $24.95 / 2+ (20% off)</p>
+<p>&#8220;BusySync&#8221;:http://www.busymac.com/: $25 / 5+ (10% off)</p>
+<p>&#8220;Transmit&#8221;:http://www.panic.com/: $29.95 / 10+ (10% off)</p>
+<p>So 5 copies is the standard for family packs. My original idea was 3 copies for $29, so I threw that out. Five copies for only 50% more seemed way too cheap, especially since Wii Transfer is already the least expensive software of any company I found. True, this is &#8220;free&#8221; money &mdash; most customers don&#8217;t buy more than 1 copy anyway &mdash; but on the other hand they are getting 5 separate serial numbers. Unlike Apple&#8217;s iLife (which has no serial numbers), or Radioshift and BusySync (which allow a special serial number to be used on multiple computers), Wii Transfer&#8217;s URL bookmarking feature requires each copy of Wii Transfer to have a unique serial number to identify the computer.</p>
+<p>I think customers buying a family pack are exceptionally honest. They are going out of their way to do the right thing. But at the same time, it needs to be a fair enough price that I&#8217;m not losing anything if a few customers decide to share their &#8220;extra&#8221; serial numbers with a friend.</p>
+<p>In the end I settled on $39 for the 5-copy family pack, essentially double the normal price of $19. The Bento pricing model convinced me that it was doable, even if percentage wise it&#8217;s slightly higher than other products. I&#8217;ll be watching stats over the next month to see how well it works. &#8220;Decisions are temporary&#8221;:https://gettingreal.37signals.com/ch06_Done.php. I&#8217;m not afraid to change the family price or drop it altogether if it doesn&#8217;t meet my expectations.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2008/10/family_packs.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Campaign Monitor</title>
+		<link>http://www.manton.org/2008/10/campaign_monitor.html</link>
+		<comments>http://www.manton.org/2008/10/campaign_monitor.html#comments</comments>
+		<pubDate>Thu, 16 Oct 2008 04:54:10 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[campaignmonitor]]></category>
+		<category><![CDATA[email]]></category>
+		<category><![CDATA[newsletter]]></category>
+		<category><![CDATA[wiitransfer]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2008/10/campaign_monitor.html</guid>
+		<description><![CDATA[Last month, on the 7th episode of Core Intuition, we talked about promotion. In particular I had good things to say about Campaign Monitor, and the folks who built it heard the episode and wanted to ask a set of follow-up questions to use on their own blog. &#8220;That mini-interview with me&#8221;:http://www.campaignmonitor.com/blog/archives/2008/10/manton_reece_talks_email_marke.html about how I [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Last month, on the 7th episode of Core Intuition, we talked about promotion. In particular I had good things to say about Campaign Monitor, and the folks who built it heard the episode and wanted to ask a set of follow-up questions to use on their own blog. &#8220;That mini-interview with me&#8221;:http://www.campaignmonitor.com/blog/archives/2008/10/manton_reece_talks_email_marke.html about how I used the service is now online.</p>
+<p>In closing out that blog post, Mathew Patterson of Freshview suggests a couple things I agree with, including sending a newsletter more frequently than once a year. In fact I would love to send another one soon, to link up a survey to get some more information about why customers are purchasing Wii Transfer.</p>
+<p>Unfortunately my hands are tied with yearly. When I put together the Wii giveaway promotion, I specifically told users opting in that it would be about once a year. I did this to encourage people to sign up without wondering if they would be spammed all the time. And also, I doubted that I would have the time to send a newsletter much more often than every year. So it&#8217;s not ideal, but there it is.</p>
+<p>Since then we&#8217;ve recorded 2 more shows. The latest &#8220;Core Intuition&#8221;:http://www.coreint.org/ hits the lifting of the NDA, the iPhone Tech Talk Tour, and Apple&#8217;s stock price.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2008/10/campaign_monitor.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Tracking sales referrers</title>
+		<link>http://www.manton.org/2008/09/tracking_sales_referrers.html</link>
+		<comments>http://www.manton.org/2008/09/tracking_sales_referrers.html#comments</comments>
+		<pubDate>Tue, 16 Sep 2008 00:12:30 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[referrers]]></category>
+		<category><![CDATA[riverfold]]></category>
+		<category><![CDATA[sales]]></category>
+		<category><![CDATA[wiitransfer]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2008/09/tracking_sales_referrers.html</guid>
+		<description><![CDATA[The primary way to track marketing and word-of-mouth about your product is to look at web site referrers. Easy. Just install &#8220;Mint&#8221;:http://www.haveamint.com/ and you&#8217;re done. But not all referrers are created equal. A prominent link on Digg might lead to sales or it might lead to dozens of &#8220;wish it was free&#8221; comments on your [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The primary way to track marketing and word-of-mouth about your product is to look at web site referrers. Easy. Just install &#8220;Mint&#8221;:http://www.haveamint.com/ and you&#8217;re done.</p>
+<p>But not all referrers are created equal. A prominent link on Digg might lead to sales or it might lead to dozens of &#8220;wish it was free&#8221; comments on your blog. To really judge the effectiveness of referrers (and in turn give a better idea about where resources should be placed in the future) take it one step further to track the initial referrer link all the way through to purchase. You want to know where the customer first learned about your product.</p>
+<p>This isn&#8217;t a new idea and I&#8217;m certainly not the first to do it. Wil Shipley spoke at length about this technique during &#8220;his C4 talk&#8221;:http://www.viddler.com/explore/rentzsch/videos/4/ in 2007, in the context of online advertising. In talking with other developers it became clear to me that most people don&#8217;t do this, even though it can be achieved in about a dozen lines of code.</p>
+<p>The basics are pretty simple:</p>
+<ul>
+<li>When a link comes in to your site, see if a special cookie is set. I called mine &#8220;WiiTransferRef&#8221;.</p>
+</li>
+<li>
+<p>If the cookie is set, you have a repeat visitor. Nothing to do at this point.</p>
+</li>
+<li>
+<p>If the cookie is missing, this user is likely visiting your site for the first time. Put the referrer value in the cookie.</p>
+</li>
+<li>
+<p>After a purchase is complete, check for this cookie and add an entry to the database with the referrer value and timestamp for the order.</p>
+</li>
+</ul>
+<p>You can add more intelligence as suits your requirements and available time, but the basics don&#8217;t need to be any more complex than this. For bonus points and slightly improved security, you could add a database entry that tracks the referrer value and use the cookie as a session that simply points to that row, updating the database to show completed orders, but I chose not to do that to keep the database uncluttered.</p>
+<p>Here&#8217;s the PHP source for my main product page:</p>
+<pre><code><?php
+
+$val = $_COOKIE['WiiTransferRef'];
+
+$ref = $_SERVER['HTTP_REFERER'];
+
+if (empty ($val) &#038;&#038; (!empty ($ref))) {
+
+setcookie ("WiiTransferRef", $ref, time() + (3600 * 24 * 30));
+
+}
+
+?></code></pre>
+<p>And then the source for the final &#8220;thanks!&#8221; page after a purchase is complete:</p>
+<pre><code><?php
+
+$val = $_COOKIE['WiiTransferRef'];
+
+if (!empty ($val)) {
+
+mysql_connect ("db.hostname.com", "user", "pass");
+
+mysql_select_db ("dbname");
+
+$sql = sprintf("INSERT INTO referrers (url, created_at) VALUES ('%s', now())",
+
+mysql_real_escape_string ($val));
+
+mysql_query ($sql);
+
+}
+
+?></code></pre>
+<p>Note that because I am using simple PayPal buttons, not all customers actually reach the last page, because they can ignore the &#8220;return to seller&#8221; link after a completed transaction and instead go wherever they chose. This limitation goes away if you have rolled your own store or used something like &#8220;PotionStore&#8221;:http://www.potionfactory.com/potionstore.</p>
+<p>I&#8217;ve been tracking these for over a year now. I&#8217;ll share some stats about what I&#8217;ve learned in a future blog post.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2008/09/tracking_sales_referrers.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.794 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 13:23:11 -->

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; luck</title>
+	<atom:link href="http://www.manton.org/tag/luck/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Two weeks notice: it just works out</title>
+		<link>http://www.manton.org/2015/07/two-weeks-notice-it-just-works-out.html</link>
+		<comments>http://www.manton.org/2015/07/two-weeks-notice-it-just-works-out.html#comments</comments>
+		<pubDate>Fri, 24 Jul 2015 01:47:59 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[2weeks]]></category>
+		<category><![CDATA[codemirror]]></category>
+		<category><![CDATA[indie]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[luck]]></category>
+		<category><![CDATA[markdown]]></category>
+		<category><![CDATA[snippets]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2883</guid>
+		<description><![CDATA[John Saddington, who develops the Mac blog editor Desk, pointed to one of my recent posts and wrote: “It does make me ponder, once again, what I’m doing with my so-called ‘career’ and if it’s the ‘right’ one. Although, every single time I think about that I know that I won’t like the answer… yet [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>John Saddington, who develops the Mac blog editor Desk, pointed to one of my recent posts <a href="http://blog.desk.pm/pt-indie/">and wrote</a>:</p>
+<blockquote><p>
+  “It does make me ponder, once again, what I’m doing with my so-called ‘career’ and if it’s the ‘right’ one. Although, every single time I think about that I know that I won’t like the answer… yet it always just works. I can’t tell you why or how I found or discovered this cadence, but, to each his own.”
+</p></blockquote>
+<p>Which in turn makes me reflect on my own career. I’ve been extremely lucky. The right jobs just seemed to have presented themselves to me when I needed them. I hope that luck hasn’t led to overconfidence as I take these next steps to become more independent. It would be a glorious failure if my luck runs out just when I need it most.</p>
+<p>So I’ll have to work harder. I’ll have to better manage my finances, better plan and execute on new products, and better support each app so they’ll form a sustainable business. As I type this, I’m actually a little nervous for the first time since I put in my notice. Lots to do.</p>
+<p>Tonight’s challenge: finish integrating <a href="http://codemirror.net/">CodeMirror</a> into my new app, to provide Markdown syntax highlighting. I had never heard of this JavaScript library before this week. It seems very capable — a big jump forward on a feature I didn’t even think I could provide for 1.0.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/07/two-weeks-notice-it-just-works-out.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Luck being indie</title>
+		<link>http://www.manton.org/2014/10/luck-being-indie.html</link>
+		<comments>http://www.manton.org/2014/10/luck-being-indie.html#comments</comments>
+		<pubDate>Wed, 08 Oct 2014 15:02:19 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[business]]></category>
+		<category><![CDATA[indie]]></category>
+		<category><![CDATA[luck]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2316.html</guid>
+		<description><![CDATA[When Gus Mueller recently linked to Paul Kim&#8217;s post on being indie, he called out the section on luck: &#8220;One thing that I did learn is to have a healthy respect for randomness. Luck plays a huge role and you can’t always attribute one’s success or failure solely on their decisions and actions.&#8221; Reminds me [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>When <a href="http://shapeof.com/archives/2014/10/noodlings-the_long_and_winding_road.html">Gus Mueller recently linked</a> to Paul Kim&#8217;s <a href="http://www.noodlesoft.com/blog/2014/08/29/the-long-and-winding-road/">post on being indie</a>, he called out the section on luck:</p>
+<blockquote><p>
+  &#8220;One thing that I did learn is to have a healthy respect for randomness. Luck plays a huge role and you can’t always attribute one’s success or failure solely on their decisions and actions.&#8221;
+</p></blockquote>
+<p>Reminds me of the book <a href="http://www.amazon.com/gp/product/1118249755/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1118249755&amp;linkCode=as2&amp;tag=mantonorg&amp;linkId=Q2MNQOANOEQSNRP2">Get Lucky</a> by Lane Becker and Thor Muller. Like half the business books I&#8217;ve bought, I never finished reading the whole thing, but it&#8217;s in the stack on my bedside table and I pick it up every once in a while and read something new. I love the book&#8217;s premise and they&#8217;ve got some great stories.</p>
+<p>Most of life is a series of random opportunities. Knowing which ones to skip and which to double-down on makes all the difference.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/10/luck-being-indie.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.687 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:12:24 -->

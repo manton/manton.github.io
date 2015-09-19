@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; vesper</title>
+	<atom:link href="http://www.manton.org/tag/vesper/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Brent resigns from Q Branch</title>
+		<link>http://www.manton.org/2015/06/brent-resigns-from-q-branch.html</link>
+		<comments>http://www.manton.org/2015/06/brent-resigns-from-q-branch.html#comments</comments>
+		<pubDate>Wed, 03 Jun 2015 05:04:40 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[omni]]></category>
+		<category><![CDATA[projects]]></category>
+		<category><![CDATA[vesper]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2644</guid>
+		<description><![CDATA[Brent Simmons, still an Omni employee, has decided to part ways with his Q Branch founders to focus on a new project. The whole essay is an important read, but especially this part: “I turned 47 a little while ago, and I’ve had some reasons to reflect on the shortness of life, and I realized [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Brent Simmons, still an Omni employee, has decided to <a href="http://inessential.com/2015/06/02/resigning_from_q_branch">part ways with his Q Branch founders</a> to focus on a new project. The whole essay is an important read, but especially this part:</p>
+<blockquote><p>
+  “I turned 47 a little while ago, and I’ve had some reasons to reflect on the shortness of life, and I realized how very important it is for me to work on the software that I think about every day. I kept putting it off, but every day that I put it off hurt more than the previous day. I realized that I couldn’t continue — I have to do the work that I <em>need</em> to do.”
+</p></blockquote>
+<p>I think many of us can relate to this. I don’t personally have a single piece of software in mind that has been nagging at me, but I have had a sense for a couple years that everything I work on needs to be something that matters to me. Having a theme across projects has also been a great way to judge what to spend time on.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/06/brent-resigns-from-q-branch.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Brent’s time at Userland</title>
+		<link>http://www.manton.org/2014/05/brents_time_at.html</link>
+		<comments>http://www.manton.org/2014/05/brents_time_at.html#comments</comments>
+		<pubDate>Tue, 27 May 2014 19:47:00 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[frontier]]></category>
+		<category><![CDATA[userland]]></category>
+		<category><![CDATA[vesper]]></category>
+		<category><![CDATA[webedge]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/05/brents_time_at.html</guid>
+		<description><![CDATA[Brent Simmons has another expanded résumé of sorts, following his post about working at NewsGator. I love this write-up because it mirrors a lot of the work I was doing, so it brings back a lot of memories. I was actively using Frontier for client work and crazy side projects; one of my co-workers for [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://inessential.com/2014/05/24/what_happened_at_userland">Brent Simmons has another expanded résumé</a> of sorts, following his post about <a href="http://www.manton.org/2014/05/newsgator_and_sepia.html">working at NewsGator</a>. I love this write-up because it mirrors a lot of the work I was doing, so it brings back a lot of memories. I was actively using Frontier for client work and <a href="http://www.manton.org/archive/idiom/mactivity_presentation/">crazy side projects</a>; one of my co-workers for a time was Mason Hale, who built an early CGI framework for Frontier; and I loosely worked with Dave Winer to help run the frontier-talk mailing list and hack on a potential WebSTAR plug-in for Frontier. (Though I was still a pretty poor C programmer back then. Someone else ended up shipping it.)</p>
+<p>Back when the job description “webmaster” still meant something, I worked for the WebEdge conference which brought together the best web developers for the Mac OS. WebEdge hosted <a href="http://scripting.com/davenet/1996/09/12/MidnightPlanetoWindows.html">the first meeting of the Macintosh Internet Developer Association</a> (MIDAS), led in part by Dave Winer. And I was always playing with the tools that came out of Userland, from Manilla to Radio Userland. I used Radio to run this blog <a href="http://www.manton.org/2004/03/thank_you.html">until 2004</a>.</p>
+<p>Some of the developers from that time have faded away, moved on to other projects away from the public spotlight. But not Brent. He just shipped <a href="http://vesperapp.co/blog/vesper-2-0-and-vesper-sync/">Vesper 2.0</a> and it’s some of his best work.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/05/brents_time_at.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>No way to live</title>
+		<link>http://www.manton.org/2013/12/no_way_to.html</link>
+		<comments>http://www.manton.org/2013/12/no_way_to.html#comments</comments>
+		<pubDate>Fri, 13 Dec 2013 14:22:11 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[blogs]]></category>
+		<category><![CDATA[brent]]></category>
+		<category><![CDATA[steve]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[vesper]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/12/no_way_to.html</guid>
+		<description><![CDATA[Two great blog posts yesterday from Brent Simmons that I think are related, though I read one early in the day and the other catching up on RSS feeds late at night. First, on quitting his job to work full-time on Vesper: “A year ago I was a designer for an enterprise app I didn’t [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Two great blog posts yesterday from Brent Simmons that I think are related, though I read one early in the day and the other catching up on RSS feeds late at night. First, <a href="http://inessential.com/2013/12/12/one_year_anniversary">on quitting his job</a> to work full-time on Vesper:</p>
+<blockquote><p>
+  “A year ago I was a designer for an enterprise app I didn’t care about — or even like in the least tiny bit — and which you’ve never seen or heard of. That’s no way to live.”
+</p></blockquote>
+<p>It reminds me, of course, of the famous Steve Jobs quote:</p>
+<blockquote><p>
+  “I have looked in the mirror every morning and asked myself: ‘If today were the last day of my life, would I want to do what I am about to do today?’ And whenever the answer has been ‘No’ for too many days in a row, I know I need to change something.”
+</p></blockquote>
+<p>And then, <a href="http://inessential.com/2013/12/12/the_stream">Brent says about Twitter</a>:</p>
+<blockquote><p>
+  “The 140-character stream is where things not worth saying, and not worth reading, thrive. It’s where things actually worth saying get over-simplified and then get lost, if they get said at all.”
+</p></blockquote>
+<p>In other words, do something you care about, write something lasting. The older I get, the more both of these resonate with me. And even though I haven’t posted to Twitter in over a year, I think I needed to read that post to focus back on this blog, where my writing should live.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/12/no_way_to.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.965 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:25:31 -->

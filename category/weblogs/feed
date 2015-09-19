@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; Weblogs</title>
+	<atom:link href="http://www.manton.org/category/weblogs/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Wrap-up thoughts on the TV web</title>
+		<link>http://www.manton.org/2015/09/wrap-up-thoughts-on-the-tv-web.html</link>
+		<comments>http://www.manton.org/2015/09/wrap-up-thoughts-on-the-tv-web.html#comments</comments>
+		<pubDate>Fri, 18 Sep 2015 14:58:39 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[appletv]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[openweb]]></category>
+		<category><![CDATA[steve]]></category>
+		<category><![CDATA[wap]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3048</guid>
+		<description><![CDATA[I&#8217;m going to mostly let John Gruber have the last word on the Apple TV vs. the web debate, because I could write about this every day and my readers would run away before I run out of material. I&#8217;m glad John addressed the Mac vs. the command-line argument, though, because it didn&#8217;t seem quite [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;m going to mostly let John Gruber <a href="http://daringfireball.net/linked/2015/09/17/apple-tv-and-the-web">have the last word</a> on the Apple TV vs. the web debate, because I could write about this every day and my readers would run away before I run out of material. I&#8217;m glad John addressed the Mac vs. the command-line argument, though, because it didn&#8217;t seem quite right to me either. He says:</p>
+<blockquote><p>
+  &#8220;The difference is that the command-line-less Mac was intended to <em>replace</em> command-line-based computers. The GUI relegated the command-line interface to a permanent tiny niche. Apple TV and Apple Watch aren’t like that at all — they’re not meant to replace any device you already use to access the open web.&#8221;
+</p></blockquote>
+<p>This is the most hopeful part of the Apple ecosystem as it relates to the web. Apple&#8217;s other platforms really do have a great web experience. Remember when web sites were faster and worked better on a PC than a Mac? If anything, the opposite is true now.</p>
+<p>One of the themes I keep hearing is that a &#8220;web browser&#8221; on a TV will make for a poor user experience, so don&#8217;t bother. I tried to correct that misunderstanding in <a href="http://www.manton.org/2015/09/the-web-without-html.html">this post</a>; it&#8217;s not about standalone Safari, it&#8217;s about web technologies that could be used in native apps. But ignoring that, I think everyone too easily forgets what the mobile web was like before the iPhone.</p>
+<p>Steve Jobs, from the original iPhone introduction:</p>
+<blockquote><p>
+  &#8220;We wanted the best web browser in the world on our phone. Not a baby web browser or a WAP browser — a <em>real</em> browser. [&#8230;] It is the first fully usable HTML browser on a phone.&#8221;
+</p></blockquote>
+<p>That was a breakthrough. I believe the same evolution is possible on tvOS — to include parts of the open web and do it with a great user experience. You can start by weaving it together inside native apps. (I <a href="http://openradar.appspot.com/radar?id=6066362971586560">filed a bug with Apple</a> yesterday with a suggestion. It was marked as a duplicate.)</p>
+<p>The web is at a fascinating, pivotal time right now. It has been shaken up by centralized publishing, closed platforms, and now content blockers. Users no longer value the concepts that made <a href="https://en.wikipedia.org/wiki/Web_2.0">Web 2.0</a> special. The web can still have a strong future, but we have to <em>try something</em>, and we have to try it on every platform we can.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/09/wrap-up-thoughts-on-the-tv-web.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The web without HTML</title>
+		<link>http://www.manton.org/2015/09/the-web-without-html.html</link>
+		<comments>http://www.manton.org/2015/09/the-web-without-html.html#comments</comments>
+		<pubDate>Thu, 17 Sep 2015 04:59:14 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[appletv]]></category>
+		<category><![CDATA[browsers]]></category>
+		<category><![CDATA[foodml]]></category>
+		<category><![CDATA[openweb]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3035</guid>
+		<description><![CDATA[On Twitter, Alex Fajkowski responded to my blog post about tvOS with this: &#8220;They have access to the open web—NSURLSession exists. HTML rendering is inappropriate for the watch and tv.&#8221; I disagree with both of those sentences. Maybe Alex didn&#8217;t read my full post, because I wrote that web services are not enough. HTML and [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://twitter.com/thefaj/status/644273497271869440">On Twitter</a>, Alex Fajkowski responded to <a href="http://www.manton.org/2015/09/every-device-needs-the-web.html">my blog post about tvOS</a> with this:</p>
+<blockquote><p>
+  &#8220;They have access to the open web—NSURLSession exists. HTML rendering is inappropriate for the watch and tv.&#8221;
+</p></blockquote>
+<p>I disagree with both of those sentences. Maybe Alex didn&#8217;t read my full post, because I wrote that web <em>services</em> are not enough. HTML and links and URLs are equally important parts of the open web. NSURLSession gets you web services but nothing else.</p>
+<p>(As an aside, HTML turns out to be a pretty useful format for styling text, too. Why wouldn&#8217;t you want to use it for iTunes movie descriptions on the TV, for example? That seems completely appropriate.)</p>
+<p>Think about the full scope of the internet. What percentage of content is available via web services — that is, structured data that can be parsed and displayed with a custom, native UI — compared to all the traditional, HTML-based web sites? You&#8217;ll find that there is an almost unimaginably large number of that latter kind of web site, and the only way to access and display that content is with an HTML renderer.</p>
+<p>Now imagine a world with only native apps. You&#8217;d need custom apps and web services for different kinds of content, just as we have native Twitter or Instagram apps today, but we&#8217;d need these for many thousands of categories: tvOS with TVML, recipe or cooking apps with FOODML, and so on. Eventually, having so many formats would get unmanageable. We&#8217;d need to invent a general purpose format that could accommodate many app formats, and (surprise!) that general format would look a lot like HTML. Why break old content and essentially reboot the web, when we already have a capable format in HTML?</p>
+<p>Of course, there&#8217;s no immediate risk of getting to that hypothetical native-only future. But when a company with the size and influence of Apple has 4 major platforms and only 2 of them have access to the open web, that should give us pause. Let&#8217;s reflect on how this plays out, so we can get back on track if the web does become marginalized.</p>
+<p><a href="http://daringfireball.net/linked/2015/09/16/manton-every-device">John Gruber commented</a> that these new devices don&#8217;t <em>need</em> the web at all, comparing it to the original Mac shipping without a command line interface. I realized while reading his closing paragraph that my own blog post had been poorly titled, and so the whole point too easily misunderstood. John wrote:</p>
+<blockquote><p>
+  &#8220;Or it could be that Apple has decided never to open WebKit to developers on Apple TV. Either way, it won’t affect Apple TV’s success, and everything will be OK.&#8221;
+</p></blockquote>
+<p>Apple TV&#8217;s success doesn&#8217;t change my argument. My Apple TV dev kit arrives on Friday, I&#8217;m going to build an app for it, and I can&#8217;t wait to watch Apple&#8217;s latest platform take off. When I wrote that the Apple TV &#8220;needs&#8221; the web I didn&#8217;t mean that it would be crippled and unsuccessful without it. I simply meant that the web <em>should</em> be there in some form, even if limited.</p>
+<p>(It doesn&#8217;t even have to be Safari. There just needs to be enough web technologies to make some part of the open web possible. Again, that means web services, HTML, and links.)</p>
+<p>Yesterday, <a href="http://daringfireball.net/linked/2015/09/15/ppk-stop-pushing-web-forward">John Gruber also wrote</a> about web apps and native apps, and what each should focus on:</p>
+<blockquote><p>
+  &#8220;Native apps can’t out-web the web, and web apps should embrace that.&#8221;
+</p></blockquote>
+<p>That&#8217;s good advice. There are plenty of important tasks for the web community that should be top priorities, such as encouraging a return to <a href="http://www.manton.org/2015/09/evan-williams-on-indie-web-sites.html">independent publishing</a> and trying to fix the <a href="http://www.manton.org/2015/09/web-history-and-ipfs.html">lack of redundancy</a>. The web will always be playing catch-up with native apps for user experience, but the web will always be <em>ahead</em> as a distributed, open publishing platform. And that is such an important feature, it should be available on as many devices as possible.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/09/the-web-without-html.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Evan Williams on indie web sites</title>
+		<link>http://www.manton.org/2015/09/evan-williams-on-indie-web-sites.html</link>
+		<comments>http://www.manton.org/2015/09/evan-williams-on-indie-web-sites.html#comments</comments>
+		<pubDate>Wed, 16 Sep 2015 17:09:38 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[evan]]></category>
+		<category><![CDATA[medium]]></category>
+		<category><![CDATA[openweb]]></category>
+		<category><![CDATA[permanence]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3030</guid>
+		<description><![CDATA[From a rough transcript of an interview with Evan Williams: &#8220;The idea won’t be to start a website. That will be dead. The individual website won’t matter. The Internet is not going to be about billions of people going to millions of websites. It will be about getting it from centralized websites.&#8221; I&#8217;m concerned about [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.forbes.com/sites/roberthof/2015/09/09/mediums-evan-williams-to-publishers-your-website-is-toast/">From a rough transcript</a> of an interview with Evan Williams:</p>
+<blockquote><p>
+  &#8220;The idea won’t be to start a website. That will be dead. The individual website won’t matter. The Internet is not going to be about billions of people going to millions of websites. It will be about getting it from centralized websites.&#8221;
+</p></blockquote>
+<p>I&#8217;m concerned about this. Evan is reading into the current rise of centralized services and thinking it&#8217;s more than a short-term trend. But I believe strongly that the open web will bounce back.</p>
+<p>Putting all of our writing in one place like Medium goes against our hope of <a href="http://www.manton.org/2012/07/permanence.html">permanence</a>, because there&#8217;s no guarantee Medium will be around in 20 years, and so all of that content will disappear from the internet if it fails. At least with independent sites and custom domain names we have a chance. We have control, so it&#8217;s in our hands to succeed or fail, not left to the whims of Silicon Valley startups.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/09/evan-williams-on-indie-web-sites.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Doubt, with screenshots</title>
+		<link>http://www.manton.org/2015/08/doubt-with-screenshots.html</link>
+		<comments>http://www.manton.org/2015/08/doubt-with-screenshots.html#comments</comments>
+		<pubDate>Mon, 31 Aug 2015 15:13:07 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[marsedit]]></category>
+		<category><![CDATA[microblogging]]></category>
+		<category><![CDATA[snippets]]></category>
+		<category><![CDATA[thiel]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2982</guid>
+		<description><![CDATA[My good friend and Core Intuition co-host Daniel Jalkut isn&#8217;t convinced. After we recorded last week&#8217;s podcast, we talked privately about the direction I&#8217;m headed in. He&#8217;s seen the projects I have in development, but he thinks working on Mac apps is a safer bet than web services. And he works on a blogging app, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>My good friend and Core Intuition co-host <a href="http://bitsplitting.org/">Daniel Jalkut</a> isn&#8217;t convinced. After we recorded last week&#8217;s podcast, we talked privately about the direction I&#8217;m headed in. He&#8217;s seen the projects I have in development, but he thinks working on Mac apps is a safer bet than web services. And he works on a blogging app, so if I can&#8217;t convince him that the goals I have around microblogging-related tools can be a real business, how am I going to convince the rest of the world?</p>
+<p>Earlier this year I gave a talk at CocoaConf about tips I&#8217;ve learned to be productive while juggling multiple projects. But as I worked on the talk, it turned out to be about something else. It was about Walt Disney moving from Kansas City to Hollywood. It was about crazy side projects that no one else believed in. It was about Texas Hold &#8216;Em poker and risking everything for an idea.</p>
+<p>The new microblogging app and service I&#8217;ve been working on, off and on for the last year, is the most ambitious project I&#8217;ve ever attempted. It is difficult to explain and market, it might only resonate with a niche audience, and it is going to increase my hosting costs. So part of me knows that Daniel is right — that the smart business decision is to put it on hold and focus on my Mac apps, which will probably have more predictable revenue.</p>
+<p>And yet, this project is also the most meaningful. In the words of Peter Thiel, it could take independent microblogging from <a href="http://zerotoonebook.com/">zero to one</a>. A new push forward for weblogs, maybe the first in a while. Therefore, I must do it, and I must accept some risk in the process.</p>
+<p>Lately I&#8217;ve been working on the iPhone version. When you look at these screenshots, it might be tempting to compare it to Twitter. Don&#8217;t. Instead, think about how the plumbing fits together: RSS, microblogs, and the open web.</p>
+<p><img src="http://www.manton.org/images/2015/snippets_iphone_screenshots.png" width="607" height="344" alt="screenshot" border="0" /></p>
+<p>I can&#8217;t wait to officially announce and ship this. If you&#8217;d like to get an email when the beta is ready, <a href="http://eepurl.com/6vVvj">sign up on the announcement list</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/08/doubt-with-screenshots.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Startup life and Medium</title>
+		<link>http://www.manton.org/2015/08/startup-life-and-medium.html</link>
+		<comments>http://www.manton.org/2015/08/startup-life-and-medium.html#comments</comments>
+		<pubDate>Thu, 27 Aug 2015 14:06:21 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[blogs]]></category>
+		<category><![CDATA[essays]]></category>
+		<category><![CDATA[medium]]></category>
+		<category><![CDATA[sanfrancisco]]></category>
+		<category><![CDATA[startups]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2976</guid>
+		<description><![CDATA[Pretty hilarious guide to San Francisco startup life from Padlet on Medium. Here&#8217;s just one small part: &#8220;Markets are chockablock with these desk+gym hybrids — standing desks, treadmill desks, cycling desks. This is why I feel bullish about my swimming desk idea — a big water tank with an infinity pool and a computer bolted on one side. Noise [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Pretty hilarious <a href="https://medium.com/@padlet/an-honest-guide-to-the-san-francisco-startup-life-6df13d23689">guide to San Francisco startup life</a> from Padlet on Medium. Here&#8217;s just one small part:</p>
+<blockquote><p>
+  &#8220;Markets are chockablock with these desk+gym hybrids — standing desks, treadmill desks, cycling desks. This is why I feel bullish about my swimming desk idea — a big water tank with an infinity pool and a computer bolted on one side. Noise cancelling scuba masks, snorkels, and fins come as standard equipment.&#8221;
+</p></blockquote>
+<p>I&#8217;ve been fascinated with Medium lately, and have cross-posted a couple recent posts <a href="http://medium.com/@manton">over there</a> to better understand it. Is it a blogging tool? Sort of. Is it a social network? Not exactly.</p>
+<p>While you can follow other users there, I find that even with the 100+ people I&#8217;m following, the posts I see on Medium are almost exclusively popular essays written by people I don&#8217;t know. They&#8217;re recommended enough that they show up in Medium&#8217;s daily emails, or on the home page, or linked from other blogs I read. But it&#8217;s like if you signed in to Twitter and only saw retweets.</p>
+<p>This may explain Medium&#8217;s design changes to encourage quick, microblog-like posts, in addition to full essays. Longer blog posts just aren&#8217;t written often enough to make for a meaningful social network.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/08/startup-life-and-medium.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Future-safe weblogs</title>
+		<link>http://www.manton.org/2015/08/future-safe-weblogs.html</link>
+		<comments>http://www.manton.org/2015/08/future-safe-weblogs.html#comments</comments>
+		<pubDate>Mon, 17 Aug 2015 18:24:00 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[github]]></category>
+		<category><![CDATA[medium]]></category>
+		<category><![CDATA[microblogs]]></category>
+		<category><![CDATA[scriptingnews]]></category>
+		<category><![CDATA[snippets]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2950</guid>
+		<description><![CDATA[It&#8217;s a common theme for Dave Winer to write about preserving our writing on the web. Today he outlines some criteria for judging whether a web host will last: &#8220;The concern is that the record we&#8217;re creating is fragile and ephemeral, so that to historians of the future, the period of innovation where we moved [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>It&#8217;s a common theme for Dave Winer to write about preserving our writing on the web. <a href="http://scripting.com/2015/08/17/criteriaForFuturesafety.html">Today he outlines some criteria</a> for judging whether a web host will last:</p>
+<blockquote><p>
+  &#8220;The concern is that the record we&#8217;re creating is fragile and ephemeral, so that to historians of the future, the period of innovation where we moved our intellectual presence from physical to electronic media will be a blank spot, with almost none of it persisting.&#8221;
+</p></blockquote>
+<p>I think about this in 2 parts. The first is publishing your weblog to your own domain name. This ensures that your writing doesn&#8217;t go away and links don&#8217;t break when your web host goes out of business, because you can copy your content somewhere else and map your domain to that new location.</p>
+<p>The second is some kind of host that will last forever. This is an unsolved problem. Hosting fees need to be paid, domain name registrations need to be renewed. It may be too big a leap to ever get there, but we could settle instead for better mirroring of content. I&#8217;d like to have my content mirrored automatically to GitHub Pages, for example, and maybe even Medium.</p>
+<p>Imagine the life of a printed book from the early 20th century that has now survived generations. How was this possible? Many copies must have been printed, because some will inevitably be lost or destroyed. And when a library or bookstore is closed, copies of the book must be transferred to a new location.</p>
+<p>This all follows naturally with a printed book, but to adopt the same pattern for digital works, we must go out of our way to create a system of mirroring and long-term storage that tries to match what happens in the real world automatically. It&#8217;s a great challenge.</p>
+<p>Unfortunately very little has changed on this topic since <a href="http://www.manton.org/2012/07/permanence.html">I wrote about permanence 3 years ago</a>. But we can change that. Open formats and auto-mirroring will be a key part of <a href="http://www.manton.org/2015/07/sneak-peek-screenshot.html">my new microblogging platform</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/08/future-safe-weblogs.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>I will return to Twitter when&#8230;</title>
+		<link>http://www.manton.org/2015/08/i-will-return-to-twitter-when.html</link>
+		<comments>http://www.manton.org/2015/08/i-will-return-to-twitter-when.html#comments</comments>
+		<pubDate>Fri, 14 Aug 2015 19:24:38 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[api]]></category>
+		<category><![CDATA[openweb]]></category>
+		<category><![CDATA[rss]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2944</guid>
+		<description><![CDATA[As I&#8217;m catching up on some news, two posts today about Twitter caught me eye. First, very big news via Federico Viticci, that full tweet search is available even to third-party apps. Twitter&#8217;s limited search was the main reason I originally built Tweet Library. It&#8217;s fantastic that this data is now more easily available. But [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>As I&#8217;m catching up on some news, two posts today about Twitter caught me eye. First, very big news via Federico Viticci, that full tweet search <a href="https://blog.twitter.com/2015/full-archive-search-api">is available even to third-party apps</a>. Twitter&#8217;s limited search was the main reason I originally built <a href="http://appstore.com/tweetlibrary">Tweet Library</a>. It&#8217;s fantastic that this data is now more easily available.</p>
+<p>But it was this opening paragraph from <a href="http://www.macworld.com/article/2970341/web-social/twitter-on-the-mac-do-your-job-or-get-out-of-the-way.html">Jason Snell&#8217;s article on Macworld</a> about Twitter neglecting the Mac version that got me thinking:</p>
+<blockquote><p>
+  &#8220;Three years ago this month Twitter <a href="http://www.macworld.com/article/1168183/twitter_hands_down_new_strict_rules_for_third_party_developers.html">broke its covenant with the third-party developers</a> who helped fuel its initial growth and create some of its most innovative features. The message was clear: Twitter was in charge of its own platform, and while other Twitter apps would be tolerated, it would only be in limited fashion and for a limited time.&#8221;
+</p></blockquote>
+<p>It was around this time, nearly 3 years ago, that I posted my last tweet. My bet with <a href="http://bitsplitting.org/">Daniel</a> is over whether I will return to Twitter within 5 years. People ask if I&#8217;ll come back sooner, and if I did, what it would take. I&#8217;ve often struggled to articulate those conditions, because I think we are seeing <a href="http://www.manton.org/2015/07/ev-on-twitter-third-party-devs.html">slow but consistent progress</a> to unwind the developer-hostile decisions made a few years ago. It may be that in a couple years the environment will be much improved, but there won&#8217;t be any single decision that &#8220;fixed&#8221; it, or it may be that Twitter is doomed to have changing leadership and there will never be any guarantees.</p>
+<p>There is one thing, though. There is one change that was made while rolling out the version 1.1 Twitter API: they removed support for unauthenticated RSS feeds of user tweets or timelines. If they reversed that one decision, the next day I would be back on Twitter.</p>
+<p>I can pick out a single feature like this, among every other improvement that third-party developers would love to see, because the combination of removing RSS and at the same time locking down the API — those changes together best represent the move away from the open web. Any other incremental improvement short of unauthenticated RSS, no matter how welcome, isn&#8217;t enough.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/08/i-will-return-to-twitter-when.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Embrace cross-posting</title>
+		<link>http://www.manton.org/2015/07/embrace-cross-posting.html</link>
+		<comments>http://www.manton.org/2015/07/embrace-cross-posting.html#comments</comments>
+		<pubDate>Fri, 17 Jul 2015 18:00:26 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[crosspost]]></category>
+		<category><![CDATA[rss]]></category>
+		<category><![CDATA[snippets]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2857</guid>
+		<description><![CDATA[When App.net was first taking off, many microbloggers struggled with how to decide where to post their short-form writing. Should they post some topics to Twitter and others to App.net? Should they cross-post everything to both services? At the time, there was an informal consensus that cross-posting was a cheat. It couldn’t take advantage of [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>When App.net was first taking off, many microbloggers struggled with how to decide where to post their short-form writing. Should they post some topics to Twitter and others to App.net? Should they cross-post everything to both services? At the time, there was an informal consensus that cross-posting was a cheat. It couldn’t take advantage of each platform’s strengths, and followers might often see the same post twice.</p>
+<p>I now believe that cross-posting is a good thing. Photos, as one example, are frequently cross-posted to both Instagram and Facebook. Tweets can be sent to Twitter <a href="http://www.manton.org/2015/06/more-quick-blogging-workflows.html">as well as our own blogs</a>. Many apps like Instagram or Foursquare support and even encourage cross-posting. It’s good for developers because it helps spread knowledge of the publishing app, and it’s good for writers because it means there are multiple copies of our content.</p>
+<p><a href="http://www.manton.org/2015/07/sneak-peek-screenshot.html">It’s no secret</a> that I’m building a microblog aggregation and publishing service. The goal is for us to get back to our roots with blogging — to write on our own web sites first, not as an afterthought to Twitter. Cross-posting is an important bootstrap for that.</p>
+<p>If you don’t have a blog, <em>start one today</em>. It takes minutes to set up, and hardly any more time to wire up automatic tweeting <a href="http://www.manton.org/2015/06/microblogging-with-wordpress.html">via IFTTT from your RSS feed</a>. Start with cross-posting and see if something interesting evolves from there.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/07/embrace-cross-posting.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Sneak peek screenshot</title>
+		<link>http://www.manton.org/2015/07/sneak-peek-screenshot.html</link>
+		<comments>http://www.manton.org/2015/07/sneak-peek-screenshot.html#comments</comments>
+		<pubDate>Tue, 14 Jul 2015 05:34:19 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[microblogging]]></category>
+		<category><![CDATA[rss]]></category>
+		<category><![CDATA[screenshot]]></category>
+		<category><![CDATA[snippets]]></category>
+		<category><![CDATA[timelines]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2849</guid>
+		<description><![CDATA[Here&#8217;s a screenshot of the new microblogging project I&#8217;m working on. It&#8217;s almost ready for more beta testers. If you&#8217;re a fan of RSS and the open web, sign up for the announce list.]]></description>
+				<content:encoded><![CDATA[<p>Here&#8217;s a screenshot of the new microblogging project I&#8217;m working on. It&#8217;s almost ready for more beta testers. If you&#8217;re a fan of RSS and the open web, <a href="http://eepurl.com/6vVvj">sign up for the announce list</a>.</p>
+<p><center><img src="http://www.manton.org/images/2015/snippets_beta_screenshot.png" width="500" height="521" alt="Snippets screenshot" border="0" /></center></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/07/sneak-peek-screenshot.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>More with Typed.com</title>
+		<link>http://www.manton.org/2015/07/more-with-typed-com.html</link>
+		<comments>http://www.manton.org/2015/07/more-with-typed-com.html#comments</comments>
+		<pubDate>Sat, 11 Jul 2015 15:57:17 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[drafts]]></category>
+		<category><![CDATA[editorial]]></category>
+		<category><![CDATA[microblogging]]></category>
+		<category><![CDATA[typed]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2837</guid>
+		<description><![CDATA[Last week I mentioned Typed.com and Elliot Jackson’s tips in the Realmac forums for posting via Drafts and Editorial. Now Elliot has expanded his solution into a full blog post: “The gist of it is that your post, written in Drafts, gets sent to Editorial which will take care of the publishing part thanks to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.manton.org/2015/07/microblogging-with-typed-com.html">Last week I mentioned</a> Typed.com and Elliot Jackson’s tips in the Realmac forums for posting via Drafts and Editorial. Now Elliot has expanded his solution <a href="http://casualnotebook.com/posts/microblogging-with-typedcom">into a full blog post</a>:</p>
+<blockquote><p>
+  “The gist of it is that your post, written in <a href="https://itunes.apple.com/us/app/id905337691?at=1l3vn5T">Drafts</a>, gets sent to <a href="https://itunes.apple.com/us/app/editorial/id673907758?mt=8&amp;at=1l3vn5T">Editorial</a> which will take care of the publishing part thanks to it’s ability to run Python and Javascript scripts in it’s built in browser. The post could be both written and published from Editorial, but as nearly everything I do on my phone runs through Drafts anyway, it made sense for this to too.”
+</p></blockquote>
+<p>I’ve been using Editorial as my default iOS text editor for a while. I have a “Notes” folder on Dropbox that I use like Simplenote, but driven from <a href="http://www.selfcoded.com/justnotes/">Justnotes</a> on the Mac and accessible via Editorial or any iOS editor. But I’ve just barely scratched the surface of what is possible with Editorial. It’s one of those rare apps that is fine for new users, but which also contains a great depth of features when you’re ready to explore underneath the initial layer of its UI.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/07/more-with-typed-com.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.568 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 12:44:28 -->

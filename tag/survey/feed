@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; survey</title>
+	<atom:link href="http://www.manton.org/tag/survey/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Wii Transfer survey</title>
+		<link>http://www.manton.org/2009/07/wii_transfer_survey.html</link>
+		<comments>http://www.manton.org/2009/07/wii_transfer_survey.html#comments</comments>
+		<pubDate>Thu, 30 Jul 2009 16:01:26 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[campaignmonitor]]></category>
+		<category><![CDATA[clipstart]]></category>
+		<category><![CDATA[newsletter]]></category>
+		<category><![CDATA[survey]]></category>
+		<category><![CDATA[wiitransfer]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2009/07/wii_transfer_survey.html</guid>
+		<description><![CDATA[Yesterday I sent out a newsletter to all my &#8220;Wii Transfer&#8221;:http://www.riverfold.com/software/wiitransfer/ customers. You can see the &#8220;text of the newsletter here&#8221;:http://www.riverfold.com/newsletter/2009/07.html. I wasn&#8217;t sure how effective this would be, but I immediately got a bunch of responses to the survey, and hopefully more interest in Clipstart too. I decided against doing any specific tracking for [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Yesterday I sent out a newsletter to all my &#8220;Wii Transfer&#8221;:http://www.riverfold.com/software/wiitransfer/ customers. You can see the &#8220;text of the newsletter here&#8221;:http://www.riverfold.com/newsletter/2009/07.html. I wasn&#8217;t sure how effective this would be, but I immediately got a bunch of responses to the survey, and hopefully more interest in Clipstart too.</p>
+<p>I decided against doing any specific tracking for number of views and links clicked, but there was an obvious spike in traffic for a couple hours as people clicked on the links in the email.</p>
+<p>The survey results are about what I expected. Most people are buying Wii Transfer to watch movies and listen to music on their TV. I&#8217;ll use this feedback to simplify the user interface around these features, and prune back a feature set that had grown a little too fast for its own good.</p>
+<p>Here&#8217;s a chart of the results so far:</p>
+<p><img src="http://www.manton.org/images/2009/wt3survey.png" alt="Survey chart" border="0" width="524" height="270" /></p>
+<p>I used &#8220;Campaign Monitor&#8221;:http://www.campaignmonitor.com/ for sending the newsletter, and as usual I&#8217;m very pleased with how simple they make this. I did a full customer export from my registration database and Campaign Monitor merged it with the existing list from my newsletter last year, weeding out duplicates and removing anyone who had already unsubscribed.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2009/07/wii_transfer_survey.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Tagging survey</title>
+		<link>http://www.manton.org/2009/01/tagging_survey.html</link>
+		<comments>http://www.manton.org/2009/01/tagging_survey.html#comments</comments>
+		<pubDate>Sat, 10 Jan 2009 17:01:41 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[survey]]></category>
+		<category><![CDATA[tagging]]></category>
+		<category><![CDATA[wufoo]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2009/01/tagging_survey.html</guid>
+		<description><![CDATA[Last month &#8220;I asked on Twitter&#8221;:http://twitter.com/manton/statuses/1035361474 for opinions on comma-delimited vs. space-delimited tagging. I didn&#8217;t get very many responses, but what I did get was pretty interesting. Consensus: most people like commas and everyone likes Flickr. (The second takeaway here is that the service or app is more important, since Flickr uses spaces and everyone [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Last month &#8220;I asked on Twitter&#8221;:http://twitter.com/manton/statuses/1035361474 for opinions on comma-delimited vs. space-delimited tagging. I didn&#8217;t get very many responses, but what I did get was pretty interesting.</p>
+<p>Consensus: most people like commas and everyone likes Flickr. (The second takeaway here is that the service or app is more important, since Flickr uses spaces and everyone seems to cope just fine, even that 66% who prefer commas.)</p>
+<div style="text-align:center;"><img src="http://www.manton.org/images/2009/tag_survey.png" alt="Tag survey chart" border="0" width="320" height="197" /></div>
+<p>You can see the &#8220;full report stats on Wufoo&#8221;:http://riverfold.wufoo.com/reports/tagging-report/.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2009/01/tagging_survey.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.494 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:31:14 -->

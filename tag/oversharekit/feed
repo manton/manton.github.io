@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; oversharekit</title>
+	<atom:link href="http://www.manton.org/tag/oversharekit/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Sunlit sync and publishing</title>
+		<link>http://www.manton.org/2014/01/sunlit_sync_and.html</link>
+		<comments>http://www.manton.org/2014/01/sunlit_sync_and.html#comments</comments>
+		<pubDate>Mon, 20 Jan 2014 23:20:15 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[adn]]></category>
+		<category><![CDATA[jobs]]></category>
+		<category><![CDATA[macworld]]></category>
+		<category><![CDATA[oversharekit]]></category>
+		<category><![CDATA[sunlit]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/01/sunlit_sync_and.html</guid>
+		<description><![CDATA[It was Macworld Expo in 1997, and Steve Jobs had just come back to Apple. Somehow I was lucky enough to get a seat in the keynote, and I sat there with a big grin on my face as Steve came out to talk about NeXTSTEP, which would eventually become the foundation for Mac OS [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>It was Macworld Expo in 1997, and Steve Jobs had just come back to Apple. Somehow I was lucky enough to get a seat in the keynote, and I sat there with a big grin on my face as Steve came out to talk about NeXTSTEP, which would eventually become the foundation for Mac OS X. He likened developing an app to constructing a building, one level at a time. A good OS allowed you to build higher.</p>
+<p>Microsoft’s DOS gave you very little, so you had to start at the ground floor. Developing for the Mac and Windows was like starting out on a 5-story building. But the developer tools from NeXT were like starting out on the 20th floor, because they were so advanced, because they “lifted the developer up” and let apps be developed more quickly than if you had to deal with all the basic foundational stuff every app needs.</p>
+<p>I think the App.net API is that same kind of advancement for apps compared to most other web APIs. It is significantly more consistent and full-featured than anything else out there.</p>
+<p><a href="http://sunlit.io/">Sunlit</a> syncs stories and photos with App.net, using your App.net private file storage (for storing photo data) as well as private channels and messages (for syncing story titles, permissions, and other metadata). We like this solution because everyone who signs in to the app with their App.net credentials gets sync automatically. It also means that if you authorize other apps to see your App.net files, you can manage the data Sunlit syncs there, or get it out again without us having to directly build an export feature.</p>
+<p>(Although we do offer a number of export choices in Sunlit, such as saving photos to your camera roll, sharing them on social networks, or sending them to any app that supports “Open In”. We do this <a href="http://jonathanhays.me/2014/01/20/sharing-about-overshare/">with OvershareKit</a>.)</p>
+<p>Publishing in Sunlit is another feature that utilizes App.net file storage. It allows you to take a story — photos and text — and publish it to a URL. The URL is public, but it’s not linked from anywhere unless you directly share the URL with someone. This makes it convenient for quickly publishing a set of photos and sending the link to family, for example.</p>
+<p>Here’s what the published stories currently look like: <a href="http://sunlit.io/manton/nationalparks">http://sunlit.io/manton/nationalparks</a></p>
+<p>On the surface this may look like Sunlit is uploading photos and other data to sunlit.io, where it’s probably stored in a relational database or on the server filesystem somewhere. But that’s not how it works at all.</p>
+<p>The iPhone app actually uploads all photos to App.net file storage, marks the new files public, then generates a static HTML page and also uploads <em>that</em> to App.net. It then registers the story with sunlit.io, which caches the HTML just to make things a little faster. We never store any photos on sunlit.io itself, instead merely referencing their public URLs on App.net. (View source on the page to see the proof.)</p>
+<p>This difference means you can move the site anywhere just by copying files from App.net, with any number of available <a href="https://directory.app.net/">file management tools</a>. Or just copy the HTML file to your own server to serve the page from your own domain. The CSS and JavaScript is all bundled inline in the HTML, except jQuery, which loads from a URL.</p>
+<p>We think this approach makes the whole system a lot more flexible and open. Your data is never hidden inside the app and your published pages are never locked behind a server.</p>
+<p>Several months ago <a href="http://www.manton.org/2013/08/waiting_for_appnets.html">I wrote this about App.net</a>:</p>
+<blockquote><p>
+  “The promise of App.net is bigger than one type of app. App.net isn’t just a blank slate; it’s an amplifier. It’s waiting to power the next new idea and help it grow into something big.”
+</p></blockquote>
+<p>I still believe that. It’s making apps easier to build and more powerful, just like NeXTSTEP was. There’s really no other web platform like it. That’s why we picked it for Sunlit.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/01/sunlit_sync_and.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.540 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:42:37 -->

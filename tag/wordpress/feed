@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; wordpress</title>
+	<atom:link href="http://www.manton.org/tag/wordpress/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Four microblogging community tips</title>
+		<link>http://www.manton.org/2015/06/four-microblogging-community-tips.html</link>
+		<comments>http://www.manton.org/2015/06/four-microblogging-community-tips.html#comments</comments>
+		<pubDate>Thu, 25 Jun 2015 18:26:49 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[htaccess]]></category>
+		<category><![CDATA[microblog]]></category>
+		<category><![CDATA[modrewrite]]></category>
+		<category><![CDATA[sms]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2779</guid>
+		<description><![CDATA[Ever since writing about my WordPress-based microblog and linking to similar solutions from Seth Clifford and Ben Brooks, I’ve been hearing from more bloggers about their interesting microblog workflows. Everyone has a slightly different spin on the basic idea, but all of them achieve some independence from Twitter by having the primary copy of each [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Ever since <a href="http://www.manton.org/2015/06/microblogging-with-wordpress.html">writing about my WordPress-based microblog</a> and linking to <a href="http://www.manton.org/2015/06/more-quick-blogging-workflows.html">similar solutions from Seth Clifford and Ben Brooks</a>, I’ve been hearing from more bloggers about their interesting microblog workflows. Everyone has a slightly different spin on the basic idea, but all of them achieve some independence from Twitter by having the primary copy of each post live on their own site.</p>
+<p>First, <a href="https://alpha.app.net/chasemccoy/post/61446625">Chase McCoy mentions on App.net</a> that he uses Launch Center Pro for quick microblogging of links:</p>
+<blockquote><p>
+  “To make a post all I have to do is copy a link, and then run a Launch Center Pro action that prompts me for the text of the post. One click and it&#8217;s done!”
+</p></blockquote>
+<p>Then, <a href="http://vandragt.com/2015/06/microblogging-with-wordpress-and-twitter">Sander van Dragt describes</a> his WordPress setup. It’s similar to mine, but his post includes more detail. He also links to a comment on <a href="https://gist.github.com/manton/f8b6f8b391a2f3d9b419#comment-1480486">my .htaccess gist</a> with a better explanation and rewrite rules.</p>
+<p>Next up, <a href="http://adamsimpson.net/writing/microblogging">Adam Simpson shares</a> how he posts to his own microblog directly from an SMS. He even goes one step further, integrating tweet features directly back into WordPress:</p>
+<blockquote><p>
+  “I save the tweet ID of every post that gets posted to Twitter. I use that ID to pull in the favorite and retweet counts and display them next to each ‘note’ in the WordPress dashboard.”
+</p></blockquote>
+<p>And finally, here’s <a href="https://alpha.app.net/mrhenko/post/61441031#61435778">an AppleScript solution on App.net from Henrik Carlsson</a> that allows him to take any text on his Mac and quickly post it to his microblog via an Automator workflow. Pretty great. I had forgotten that AppleScript has native XML-RPC support, which most blogging systems support.</p>
+<p>I’m inspired by all the cool work people are doing around blogs. It’s a good time to write on the web.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/06/four-microblogging-community-tips.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>More quick blogging workflows</title>
+		<link>http://www.manton.org/2015/06/more-quick-blogging-workflows.html</link>
+		<comments>http://www.manton.org/2015/06/more-quick-blogging-workflows.html#comments</comments>
+		<pubDate>Sat, 20 Jun 2015 15:07:10 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[drafts]]></category>
+		<category><![CDATA[microblogs]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[wordpress]]></category>
+		<category><![CDATA[wwdc]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2747</guid>
+		<description><![CDATA[I had a great conversion with Seth Clifford one night at WWDC, about writing and blogging. We all want to get better at writing and posting more frequently. As I mentioned in yesterday’s post, the best way to improve anything is to do more of it, more often. I believe there are two important facets [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I had a great conversion with Seth Clifford one night at WWDC, about writing and blogging. We all want to get better at writing and posting more frequently. As I mentioned <a href="http://www.manton.org/2015/06/we-need-more-bad-ideas.html">in yesterday’s post</a>, the best way to improve anything is to do more of it, more often.</p>
+<p>I believe there are two important facets to microblogging. The first is the timeline experience: a reverse-chronological list of posts from your friends, like you see on Twitter. The second is that posting should be effortless: if there’s less friction between your idea and publishing it, you’ll write more often. So a big part of posting regularly is just having a system that makes it easy.</p>
+<p><a href="http://sethclifford.me/2015/06/auto-posting-to-wordpress-and-archiving-in-dropbox-with-drafts/">Seth updated his iOS blogging workflow</a> by using Drafts and WordPress’s email-to-blog feature. As a nice bonus, he gets Markdown files of each post saved to Dropbox:</p>
+<blockquote><p>
+  “Drafts allows you to send email as an action. WordPress allows you to post into the system via email. Using a combination of the action and the <a href="http://jetpack.me/support/post-by-email/">Jetpack plugin’s email functionality</a>, I can go from idea to published in seconds, without touching the WP iOS app (which continues to get better, but still isn’t <em>fast</em>) and get my local copy stored away.”
+</p></blockquote>
+<p>Also this week, Ben Brooks has switched his core Twitter posting to go through WordPress. He has a <a href="http://benb.me/">standalone microblog at benb.me</a> where the posts live. They go out to Twitter automatically via IFTTT. Posting to a blog first and then Twitter second seems like a simple idea, but it is extremely powerful. Years from now you end up with an archive of all your short-form writing at your own domain. Not as an afterthought, but as the <em>default</em>.</p>
+<p>The great thing about blogging is there’s no one correct way to do this stuff. I’m really happy to see these solutions from Seth and Ben, and I know other folks are working on similar workflows.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/06/more-quick-blogging-workflows.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Microblogging with WordPress</title>
+		<link>http://www.manton.org/2015/06/microblogging-with-wordpress.html</link>
+		<comments>http://www.manton.org/2015/06/microblogging-with-wordpress.html#comments</comments>
+		<pubDate>Thu, 18 Jun 2015 16:32:00 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[ifttt]]></category>
+		<category><![CDATA[microblogs]]></category>
+		<category><![CDATA[snippets]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2739</guid>
+		<description><![CDATA[I wrote at a high level how I improved my microblogging workflow before WWDC, but I’d like to use this post to show the surrounding details. I hope it’s useful to other folks who want to control their own content. Post formats. Newer versions of WordPress have the concept of post formats. Normal blog posts [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.manton.org/2015/06/wordpress-microblog-posting-from-do-note.html">I wrote at a high level</a> how I improved my microblogging workflow before WWDC, but I’d like to use this post to show the surrounding details. I hope it’s useful to other folks who want to control their own content.</p>
+<p><strong>Post formats</strong>. Newer versions of WordPress have the concept of post formats. Normal blog posts have a “standard” format, but there are also these types: aside, image, link, quote, and status. For microblogs, I recommend “status”.</p>
+<p><strong>No titles</strong>. As I proposed <a href="http://www.manton.org/2014/09/defining-a-microblog-post.html">in a previous blog post</a>, for small posts we should revisit an original feature of RSS: the title of a post is optional. In fact, early blogging systems like Radio Userland didn’t even have a title field. When you’re writing a microblog post in WordPress, just leave the title blank, and if necessary update the post template to not include the title in HTML or the RSS feed.</p>
+<p><strong>RSS feeds</strong>. If you create a brand new WordPress blog for microblog posts, you won’t need to do anything special about RSS feeds. But if you share a single blog for both standard and status formats, you may want to have 2 feeds: one that excludes microblog posts and one that contains <em>only</em> microblog posts. Just use a special category for microblog posts in addition to the post format. <a href="https://gist.github.com/manton/f8b6f8b391a2f3d9b419">Here’s a section of my .htaccess file</a> where I use the “cat” parameter to include or exclude this category for my blog’s feeds.</p>
+<p><strong>iPhone posting</strong>. One of the lessons from Twitter is that posting should be effortless. Using WordPress on iOS is fine, but I’ve found that wiring up a simple posting recipe in IFTTT’s <a href="https://ifttt.com/products/do/note">Do Note app</a> makes it trivial to post from your phone. Use the WordPress action in IFTTT but also get <a href="https://wordpress.org/plugins/ifttt-post-formats/">this WordPress plug-in</a>. Since the WordPress action can’t yet specify a post format, the plug-in can simulate it by using a special ifttt-status category. <a href="http://www.manton.org/images/2015/microblog_screenshot_status.png">Here’s a screenshot</a> of what my IFTTT recipe looks like.</p>
+<p><strong>Tweeting</strong>. Now that you have a blog that contains all your microblog posts, you can wire it up to Twitter to automatically cross-post them as tweets. You’re writing <em>on your own site first</em>, but the posts still go out to your Twitter followers. Again, use an IFTTT recipe that pulls from your microblog RSS feed and sends the post content to Twitter. Since I don’t post to Twitter, <a href="http://www.manton.org/images/2015/microblog_screenshot_rss.png">I’ve set mine to post to App.net</a> instead. You can continue to reply and favorite directly on Twitter.</p>
+<p>I’m very excited about the potential for microblogging. For the last year I’ve been working on a new platform around this stuff. By adopting some of these tips for WordPress, your microblog will be ready for my platform, but more importantly your blog will be open and extensible. Let’s get back to our roots with RSS and see what tools and web sites we can build.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/06/microblogging-with-wordpress.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>WordPress microblog posting from Do Note</title>
+		<link>http://www.manton.org/2015/06/wordpress-microblog-posting-from-do-note.html</link>
+		<comments>http://www.manton.org/2015/06/wordpress-microblog-posting-from-do-note.html#comments</comments>
+		<pubDate>Tue, 02 Jun 2015 11:53:06 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[ifttt]]></category>
+		<category><![CDATA[microblogs]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2633</guid>
+		<description><![CDATA[I finally have a great use for IFTTT’s Do Note app. I’ve wired it up to my WordPress blog so that I can quickly publish microblog posts there. Previously, if I was on the go I could use the official WordPress iOS app, but that requires a bunch of extra taps: setting the post format [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I finally have a great use for IFTTT’s <a href="https://ifttt.com/products/do/note">Do Note</a> app. I’ve wired it up to my WordPress blog so that I can quickly publish microblog posts there. Previously, if I was on the go I could use the official WordPress iOS app, but that requires a bunch of extra taps: setting the post format to “status”, setting the category to “Snippets”, and going back and forth between screens. Now all of those defaults are baked into the IFTTT recipe. (Grab <a href="https://wordpress.org/plugins/ifttt-post-formats/">this WordPress plug-in</a> to set the custom post formats automatically.)</p>
+<p>I also wanted to streamline my cross-posting to App.net, which before now had been a manual copy and paste. I use a pair of RSS triggers in IFTTT for this as well, to go from my main RSS feed and my microblog RSS feed. And at the same time, I’ve updated the CSS for <a href="http://www.manton.org/category/micro">my microblog posts</a> so they look a little better over the web.</p>
+<p>Effortless tweeting is a big part of what Twitter got right on user experience. With WWDC around the corner, I should be posting to my own microblog more frequently now that I have a good workflow.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/06/wordpress-microblog-posting-from-do-note.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Snippets category paging</title>
+		<link>http://www.manton.org/2015/01/snippets-category-paging.html</link>
+		<comments>http://www.manton.org/2015/01/snippets-category-paging.html#comments</comments>
+		<pubDate>Fri, 23 Jan 2015 17:19:22 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[rss]]></category>
+		<category><![CDATA[snippets]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2435</guid>
+		<description><![CDATA[Today I fixed some URL-related issues with this blog since moving to WordPress. Clicking through multiple pages of posts in a category now works again. I tweaked the category links slightly, dropping the .html extension, but all the old URLs are preserved through redirects. Also a reminder if you&#8217;re subscribed to the RSS feed: my [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Today I fixed some URL-related issues with this blog since moving to WordPress. Clicking through multiple pages of posts in a category now works again. I tweaked the category links slightly, dropping the .html extension, but all the old URLs are preserved through redirects.</p>
+<p>Also a reminder if you&#8217;re subscribed to the RSS feed: my shorter, microblog-style posts go into the <a href="http://www.manton.org/category/micro/">Snippets category</a>, which  is not included in the main feed. If you&#8217;d like to subscribe to those as well, just add the <a href="http://www.manton.org/snippets.xml">Snippets RSS feed</a> to your news reader. I also still cross-post them to App.net.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/01/snippets-category-paging.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Owning the microblog</title>
+		<link>http://www.manton.org/2014/09/owning-the-microblog.html</link>
+		<comments>http://www.manton.org/2014/09/owning-the-microblog.html#comments</comments>
+		<pubDate>Thu, 04 Sep 2014 12:33:27 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[microblogs]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2219.html</guid>
+		<description><![CDATA[I mentioned earlier this year that I really liked how Noah Read posted tweets and photos to his own site, calling them snippets. I&#8217;m borrowing that name and implementing something similar here. If you visit my home page, you&#8217;ll see these short posts already interspersed alongside regular, longer posts. These new snippets don&#8217;t show up [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.manton.org/2014/05/snippets.html">I mentioned earlier this year</a> that I really liked how <a href="http://noahread.net/snippets">Noah Read</a> posted tweets and photos to his own site, calling them snippets. I&#8217;m borrowing that name and implementing something similar here. If you visit <a href="http://www.manton.org/">my home page</a>, you&#8217;ll see these short posts already interspersed alongside regular, longer posts.</p>
+<p>These new snippets don&#8217;t show up in the normal RSS feed. There&#8217;s a <a href="http://www.manton.org/snippets.xml">separate feed at /snippets.xml</a> for them, and they get their own category for browsing on the web. I&#8217;ll also be cross-posting them to App.net.</p>
+<p>Like the posts in Dave Winer&#8217;s new <a href="http://radio3.io/">Radio3</a>, these RSS items don&#8217;t have titles. They&#8217;ll be short like a tweet or App.net post: usually 100-200 characters.</p>
+<p>This is the first step in a larger project that I&#8217;m working on — something fun that reminds me of the early days of blogging. But if nothing else, it&#8217;s nice to control my own content again. I should have kept all these microblog posts on my own domain years ago.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/09/owning-the-microblog.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Thank you Movable Type</title>
+		<link>http://www.manton.org/2014/09/thank-you-movable-type.html</link>
+		<comments>http://www.manton.org/2014/09/thank-you-movable-type.html#comments</comments>
+		<pubDate>Wed, 03 Sep 2014 20:42:15 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[movabletype]]></category>
+		<category><![CDATA[radio]]></category>
+		<category><![CDATA[rands]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2200.html</guid>
+		<description><![CDATA[10 years ago I switched this blog from Radio Userland to Movable Type. Looking back, it&#8217;s incredible how mature the software was at the time that it could last this long. I didn&#8217;t stay current with updates; the version I was running was ancient by any standard. I&#8217;m planning some new blog-related experiments soon, so [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.manton.org/2004/03/thank_you_radio.html">10 years ago</a> I switched this blog from Radio Userland to Movable Type. Looking back, it&#8217;s incredible how mature the software was at the time that it could last this long. I didn&#8217;t stay current with updates; the version I was running was ancient by any standard.</p>
+<p>I&#8217;m planning some new blog-related experiments soon, so it was time to migrate to a new blogging app. While I still prefer static publishing, after evaluating a bunch of options I ended up going with WordPress. I don&#8217;t love it, but it has one feature that is more important than anything else: I&#8217;m fairly confident it will be around and well-supported 10 years from now. <a href="http://randsinrepose.com/archives/with-great-joy/">Rands recently</a> made a similar choice.</p>
+<p>I preserved every blog post URL from the previous version of the site so that links don&#8217;t break. This wasn&#8217;t trivial. For a time it had me lost into the darkness of writing WordPress plug-ins, which didn&#8217;t work anyway, before finally coming to my senses and writing a script to post-process all the Movable Type titles into custom slugs.</p>
+<p>The RSS feed is also the same, but not the RSS item GUIDs. This means you&#8217;ll probably have a one-time &#8220;mark all as read&#8221; in your favorite news reader. Apologies, but it was either that or never ship the new site.</p>
+<p>There&#8217;s a little bit of cleanup and design work still to do. The site already looks much better on mobile devices, though. I&#8217;m excited to get back into regular blogging.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/09/thank-you-movable-type.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>5 years until automation</title>
+		<link>http://www.manton.org/2014/02/5_years_until.html</link>
+		<comments>http://www.manton.org/2014/02/5_years_until.html#comments</comments>
+		<pubDate>Wed, 12 Feb 2014 00:37:10 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[automation]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[rss]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/02/5_years_until.html</guid>
+		<description><![CDATA[For over 5 years and 122 episodes, every time we released a new episode of Core Intuition, I manually added the episode to the RSS feed using BBEdit. There was enough tedious XML copy-and-pasting that it was silly not to automate this process, but we kept putting it off. Finally last week, we switched over [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>For over 5 years and 122 episodes, every time we released a new episode of <a href="http://coreint.org/">Core Intuition</a>, I manually added the episode to the RSS feed using BBEdit.  There was enough tedious XML copy-and-pasting that it was silly not to automate this process, but we kept putting it off. Finally last week, we switched over to an RSS feed generated by WordPress.</p>
+<p>What surprised me is that until it was automated, I didn&#8217;t realize how much time I had been wasting editing and uploading the file manually. It was a small but very noticeable win last week when I could just upload the MP3 and click Publish, and that was it.</p>
+<p>I&#8217;m not sure what the lesson is here. I never <a href="http://xkcd.com/1319/">automate a task too soon</a>, but 5 years was a long time. Maybe it&#8217;s just this: it&#8217;s never too late to get a better workflow.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/02/5_years_until.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.228 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:21:46 -->

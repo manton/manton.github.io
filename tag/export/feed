@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; export</title>
+	<atom:link href="http://www.manton.org/tag/export/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Watermark export using Dropbox</title>
+		<link>http://www.manton.org/2012/09/watermark_export_using.html</link>
+		<comments>http://www.manton.org/2012/09/watermark_export_using.html#comments</comments>
+		<pubDate>Thu, 13 Sep 2012 13:16:51 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[dropbox]]></category>
+		<category><![CDATA[export]]></category>
+		<category><![CDATA[filters]]></category>
+		<category><![CDATA[watermark]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2012/09/watermark_export_using.html</guid>
+		<description><![CDATA[I’ve been making Watermark better. Sometimes it’s small tweaks or bug fixes; other times, more noticeable new features. Because it’s a subscription, I’m determined to improve it quickly and often. I don’t write about most of these changes, but the new Dropbox sync in Watermark deserves special attention. Watermark originally shipped without any kind of [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I’ve been making <a href="http://watermark.io/">Watermark</a> better. Sometimes it’s small tweaks or bug fixes; other times, more noticeable new features. Because it’s a subscription, I’m determined to improve it quickly and often. I don’t write about most of these changes, but the new Dropbox sync in Watermark deserves special attention.</p>
+<p>Watermark originally shipped without any kind of export feature. This was a glaring omission for an archiving tool. But because of the large number of tweets stored by Watermark — some users have hundreds of thousands of tweets from their friends in the app — a simple export wasn’t feasible. I could have offered an export of just your own tweets, but then you also have the fairly clunky step of waiting for the server to gather tweets together, then downloading a file from your web browser, finding where to store it or the previous downloaded copy to replace it with.</p>
+<p>Dropbox sync fixes that. Watermark can now automatically copy tweets (and App.net posts) from your saved filters and custom collections to CSV files on Dropbox. For example, search Watermark for “iPhone 5”, click “Save as filter”, and the most recent 1000 tweets matching that query will appear in a file called “iPhone_5.csv” on Dropbox. It keeps running in the background, so the files are updated every hour as new tweets matching the search are downloaded by Watermark, even if you aren’t signed in.</p>
+<p>See the <a href="http://watermark.io/app/account">account page and FAQ</a> for details and a sign-in link to authorize Watermark with Dropbox.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2012/09/watermark_export_using.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Clipstart 1.2 ships soooon</title>
+		<link>http://www.manton.org/2009/08/clipstart_12_ships.html</link>
+		<comments>http://www.manton.org/2009/08/clipstart_12_ships.html#comments</comments>
+		<pubDate>Sat, 22 Aug 2009 18:27:43 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[applescript]]></category>
+		<category><![CDATA[clipstart]]></category>
+		<category><![CDATA[export]]></category>
+		<category><![CDATA[isight]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2009/08/clipstart_12_ships.html</guid>
+		<description><![CDATA[Now that I&#8217;m done &#8220;giving away a free iPhone&#8221;:http://twitter.com/manton/status/3370506213, I can move on to the next phase of my marketing plan: release new and better software! Crazy, huh? Clipstart 1.2 is nearly ready and I&#8217;m very proud of this release. There&#8217;s so much new stuff I could have called it 2.0. Batch export. Select multiple [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Now that I&#8217;m done &#8220;giving away a free iPhone&#8221;:http://twitter.com/manton/status/3370506213, I can move on to the next phase of my marketing plan: release new and better software! Crazy, huh? Clipstart 1.2 is nearly ready and I&#8217;m very proud of this release. There&#8217;s so much new stuff I could have called it 2.0.</p>
+<p><em>Batch export.</em> Select multiple videos and convert them to H.264, or optimized for iPod, iPhone, and Apple TV, and optionally run a script on the results. It can even create an HTML 5 web site and export in Ogg Theora format for Firefox and Opera users.</p>
+<p><em>Twitter upload.</em> Works with Yfrog to upload a video and post to Twitter. To include a custom tweet, use the &#8220;Upload with Options&#8221; command, just as you would add a description to a Flickr, Vimeo, or YouTube upload.</p>
+<p><em>New tagging interface.</em> Easy way to tag multiple videos from the keyboard. You can also now drag videos to an existing tag to apply that tag to the selection.</p>
+<p><em>iSight capture.</em> I wasn&#8217;t planning on adding this until later, but I think it complements the Twitter support well. Capture from the iSight and it records as H.264 and adds the video to your Clipstart library.</p>
+<p><em>New toolbar and button style.</em> I shouldn&#8217;t have used the round rectangle scope button style in Clipstart 1.0, so I decided to roll my own that fit well with the toolbar. It&#8217;s still not a standard toolbar but I hope to transition to one in a future version of Clipstart.</p>
+<p><em>Change date for multiple videos.</em> You can update the date for multiple videos at once, with the flexibility of changing specific portions of the date, such as just the year or month. Great for correcting dates from cameras.</p>
+<p><em>AppleScript support.</em> Just the basics for now, but you can get a list of videos, with tags and other metadata for each.</p>
+<p>Plus some other fixes and Snow Leopard compatibility. I plan to release it in the next couple days, just in case Snow Leopard is released on the 28th as rumored. If you are interested in trying a beta and submitting some last-minute feedback, drop me an email at &#8220;support@riverfold.com&#8221;:support@riverfold.com.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2009/08/clipstart_12_ships.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Ta-da List export to TaskPaper</title>
+		<link>http://www.manton.org/2007/08/tada_list_export.html</link>
+		<comments>http://www.manton.org/2007/08/tada_list_export.html#comments</comments>
+		<pubDate>Sat, 04 Aug 2007 06:38:51 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[export]]></category>
+		<category><![CDATA[ruby]]></category>
+		<category><![CDATA[tadalist]]></category>
+		<category><![CDATA[taskpaper]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/08/tada_list_export.html</guid>
+		<description><![CDATA[I&#8217;ve been using &#8220;Ta-da List&#8221;:http://www.tadalist.com/ for the last couple of years for all my to-do lists. I have about 100 lists and love the speed of adding new items and some of the subtle smarts it applies to sorting recent lists and cleaning up completed ones. But I&#8217;ve been on the lookout for a desktop [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;ve been using &#8220;Ta-da List&#8221;:http://www.tadalist.com/ for the last couple of years for all my to-do lists. I have about 100 lists and love the speed of adding new items and some of the subtle smarts it applies to sorting recent lists and cleaning up completed ones.</p>
+<p>But I&#8217;ve been on the lookout for a desktop app. OmniOutliner has become a bit bloated and all the Getting Things Done apps seem so structured. Along comes &#8220;TaskPaper&#8221;:http://hogbaysoftware.com/projects/taskpaper today and there&#8217;s a lot to like. The plain text file format is refreshing and nicely open.</p>
+<p>I wrote a Ruby script to export all my lists from Ta-da into TaskPaper so that I can give it a proper workout. It makes a new document (with a single project) for each list it finds. Make sure to install &#8220;Hpricot&#8221;:http://code.whytheluckystiff.net/hpricot/ first &#8212; there&#8217;s no official Ta-da List API so we need to parse HTML a little.</p>
+<p>Download: &#8220;tadalist_taskpaper.rb&#8221;:http://www.manton.org/software/scripts/tadalist_taskpaper.rb</p>
+<p>Instructions:</p>
+<ul>
+<li>Open the file in your favorite text editor and change TADALIST_HOST to whatever your account is.</p>
+</li>
+<li>
+<p>Make sure Safari is running and you have logged into Ta-da. The script reads the cookie value from Safari&#8217;s Cookies.plist so that it doesn&#8217;t need to simulate a real sign-in.</p>
+</li>
+<li>
+<p>Run from the command line. It will create the new files in the current directory.</p>
+</li>
+<li>
+<p>You will see short status messages for what it is doing. It&#8217;s broken if there are any Ruby exceptions.</p>
+</li>
+</ul>
+<p>Enjoy!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2007/08/tada_list_export.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 5.069 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:44:40 -->

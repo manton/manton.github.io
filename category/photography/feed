@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; Photography</title>
+	<atom:link href="http://www.manton.org/category/photography/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Google Photos</title>
+		<link>http://www.manton.org/2015/06/google-photos.html</link>
+		<comments>http://www.manton.org/2015/06/google-photos.html#comments</comments>
+		<pubDate>Thu, 04 Jun 2015 16:20:39 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Photography]]></category>
+		<category><![CDATA[dropbox]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[photos]]></category>
+		<category><![CDATA[search]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2654</guid>
+		<description><![CDATA[Tim Cook spoke recently about privacy and cloud services: “You might like these so-called free services, but we don&#8217;t think they&#8217;re worth having your email or your search history or now even your family photos data-mined and sold off for God knows what advertising purpose.” I’m going to give you a very cynical translation, which [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Tim Cook spoke recently about privacy and cloud services:</p>
+<blockquote><p>
+  “You might like these so-called free services, but we don&#8217;t think they&#8217;re worth having your email or your search history or now even your family photos data-mined and sold off for God knows what advertising purpose.”
+</p></blockquote>
+<p>I’m going to give you a very cynical translation, which I don’t often do: <em>We are in denial about how much better Google Photos is than what we’re doing at Apple. It is so advanced in terms of search that we won’t be able to match it anytime soon. In fact, we don’t even have anyone working on similar technology at all.</em></p>
+<p>It&#8217;s not about being free. I pay Dropbox $20/month to be grandfathered into 2 TB of storage so that I can put all of my photos and documents there. Dropbox is rock solid and worth it.</p>
+<p><a href="http://www.marco.org/2015/05/29/why-not-google">Like Marco</a> and others, I have tried to avoid Google services. I don’t use Gmail. I hate advertising. But the idea of being able to quickly search my photos by content without even tagging or organizing them was too compelling to not try. So I’ve uploaded over 10,000 photos so far to Google Photos. It is really good. (I’m going to finish uploading all my photos and give it a few months before making a final judgement on the search vs. privacy trade-off.)</p>
+<p>Some of the random searches that work out of the box to filter my photos: “beach”, “trains”, “New York City”, “Oregon and 2013”, “road trip”, “party”, “basketball”, “Christmas tree”. I never saw a demo or tutorial for how to use Google Photos; I just type stuff in and it mostly works, discovering photos and events. And on top of that, there’s also the automatic stories and collages, which is something we always wanted to build for <a href="http://sunlit.io/">Sunlit</a>.</p>
+<p>My family photos are the most important files I have on my computer, and I very rarely share any photos of my kids publicly. But ironically I’m willing to overlook some of the privacy concerns around this exactly <em>because</em> the photos are so valuable to me. I want multiple copies in the cloud, and I want the power of search that Google has built.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/06/google-photos.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Photos+ and focus</title>
+		<link>http://www.manton.org/2014/04/photos_and_focus.html</link>
+		<comments>http://www.manton.org/2014/04/photos_and_focus.html#comments</comments>
+		<pubDate>Fri, 18 Apr 2014 21:39:41 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Photography]]></category>
+		<category><![CDATA[dropbox]]></category>
+		<category><![CDATA[glassboard]]></category>
+		<category><![CDATA[photosplus]]></category>
+		<category><![CDATA[silverpine]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/04/photos_and_focus.html</guid>
+		<description><![CDATA[You may have heard by now that Photos+ has a new home at SilverPine software. My friend Jonathan Hays — now co-founder of SilverPine — is of course also half of Sunlit, so it was a great fit for him to take on another photo app as well. He writes: “In addition to consulting, we [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>You may have heard by now that <a href="http://jonathanhays.me/2014/04/16/silverpine-software/">Photos+ has a new home at SilverPine software</a>. My friend Jonathan Hays — now co-founder of SilverPine — is of course also half of <a href="http://sunlit.io/">Sunlit</a>, so it was a great fit for him to take on another photo app as well. He writes:</p>
+<blockquote><p>
+  “In addition to consulting, we intend to slowly grow a portfolio of software. To that end, we are announcing today that we have purchased Photos+ from Second Gear Software. We have quite a bit of expertise with photo Apps (see Sunlit, among others) and when Justin Williams approached me about purchasing it from him, it felt like a great fit. We have big plans for Photos+ and have already put into motion the first phase of those plans: native Dropbox integration!”
+</p></blockquote>
+<p>I tested the Dropbox support during the 1.1 beta and think it’s a great direction to take the app. Dropbox the company is going all in on photos: just in the last week shipping Carousel and now acquiring Loom. The more people start using Dropbox to store all their photos, the more useful companion photo apps like Photos+ and Sunlit will be.</p>
+<p>And now <a href="http://carpeaqua.com/2014/04/17/moonshots/">Justin Williams is free to focus all his time on Glassboard</a>. While I’ve been building web services and subscription apps for a while now, the truth is I’m still figuring out how to do this as a business too. I’ve learned a lot from Justin’s recent blog posts on the subject.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/04/photos_and_focus.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Mirror Project</title>
+		<link>http://www.manton.org/2002/10/mirror_project.html</link>
+		<comments>http://www.manton.org/2002/10/mirror_project.html#comments</comments>
+		<pubDate>Sat, 05 Oct 2002 04:08:44 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Photography]]></category>
+		<category><![CDATA[mirrors]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2002/10/mirror_project.html</guid>
+		<description><![CDATA[Peter Merholz writes about his first contribution to the Mirror Project: &#8220;I went to the mirror, and saw I could frame myself in between the two brothers talking, and snapped the photo you see on the site. My dad is older than Bertin, and in infinitely better shape. I wondered just what dad was *thinking* [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Peter Merholz writes about <a href="http://peterme.com/archives/00000300.html">his first contribution to the Mirror Project</a>:</p>
+<blockquote><p>&#8220;I went to the mirror, and saw I could frame myself in between the two brothers talking, and snapped the photo you see on the site. My dad is older than Bertin, and in infinitely better shape. I wondered just what dad was *thinking* as he was looking at his little brother, who probably tagged along with him on the streets of Cleveland, who probably looked up to him in that way that younger brothers do, and now, as they enter twilight years, the younger brother is clearly going to pass long before the older.&#8221;</p></blockquote>
+<p><a href="http://www.mirrorproject.com/mirror/?id=3454">I submitted a photo</a> to the Mirror Project earlier this year, too, but it doesn&#8217;t have an interesting story behind it. I had browsed through the Mirror Project site earlier that day or week, and afterwards whenever I saw my reflection in something I thought about the site. It&#8217;s a cool idea. If you like what you see, you can even subscribe to an <a href="http://www.mirrorproject.com/mirrorproject.rss">RSS feed of the latest submissions</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2002/10/mirror_project.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 2.238 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 13:34:49 -->

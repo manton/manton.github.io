@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; today</title>
+	<atom:link href="http://www.manton.org/tag/today/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Justin Williams kills 2 apps</title>
+		<link>http://www.manton.org/2012/08/justin_williams_kills.html</link>
+		<comments>http://www.manton.org/2012/08/justin_williams_kills.html#comments</comments>
+		<pubDate>Fri, 24 Aug 2012 18:50:40 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[justin]]></category>
+		<category><![CDATA[markdown]]></category>
+		<category><![CDATA[today]]></category>
+		<category><![CDATA[wiitransfer]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2012/08/justin_williams_kills.html</guid>
+		<description><![CDATA[Justin Williams on his decision to stop selling his apps MarkdownMail and Today: “Financially, it may not have made much sense to cut off the revenue streams, but therapeutically I’m freeing up that portion of my brain to focus my full attention on the next version of Elements and the dozens of other ideas that [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://carpeaqua.com/2012/08/20/a-therapeutic-killing/">Justin Williams on his decision to stop selling</a> his apps MarkdownMail and Today:</p>
+<blockquote><p>
+  “Financially, it may not have made much sense to cut off the revenue streams, but therapeutically I’m freeing up that portion of my brain to focus my full attention on the next version of Elements and the dozens of other ideas that that are circling in my head.”
+</p></blockquote>
+<p>I felt exactly the same way <a href="http://www.manton.org/2012/05/saying_goodbye_to.html">when I stopped selling Wii Transfer</a> earlier this year. It wasn’t until a month later that I realized how much I had been enjoying that revenue, limited as it had become. I don’t regret it, though. It was the right thing for my potential customers, not to be misled into thinking there would be new versions. And it was the right thing for my focus, working on other projects.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2012/08/justin_williams_kills.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Ship it, software and newsletter</title>
+		<link>http://www.manton.org/2008/09/ship_it_software.html</link>
+		<comments>http://www.manton.org/2008/09/ship_it_software.html#comments</comments>
+		<pubDate>Fri, 26 Sep 2008 13:41:44 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[newsletter]]></category>
+		<category><![CDATA[today]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2008/09/ship_it_software.html</guid>
+		<description><![CDATA[I&#8217;ve been meaning to link to &#8220;this post by Justin Williams&#8221;:http://log.carpeaqua.com/post/32663772/just-fing-ship-it on shipping his Today app quickly: &#8220;I&#8217;m a big fan of foundation releases. In other words, release the bare minimum you possibly can to constitute a 1.0 and then let your users help decide the direction your application ships.&#8221; There is always more to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;ve been meaning to link to &#8220;this post by Justin Williams&#8221;:http://log.carpeaqua.com/post/32663772/just-fing-ship-it on shipping his Today app quickly:</p>
+<blockquote><p>&#8220;I&#8217;m a big fan of foundation releases. In other words, release the bare minimum you possibly can to constitute a 1.0 and then let your users help decide the direction your application ships.&#8221;</p></blockquote>
+<p>There is always more to do, a never-ending stream of features you could implement for 1.0, and the same can be set for other non-software projects. When I started preparing a newsletter last month, the features crept on: I should have a coupon code, and maybe a special URL to track links, or a survey, or HTML email design instead of plain text.</p>
+<p>I explored most of these options before finally realizing it was more important that I send the newsletter than wait for it to be perfect and solve every problem. In the end I&#8217;m glad I didn&#8217;t spend much time on it, because overall the newsletter was not very successful, providing just a blip in web site traffic and negligible increase in sales.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2008/09/ship_it_software.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.123 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:30:56 -->

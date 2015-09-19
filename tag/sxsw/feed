@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; sxsw</title>
+	<atom:link href="http://www.manton.org/tag/sxsw/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>12 years of blogging</title>
+		<link>http://www.manton.org/2014/03/12_years_of.html</link>
+		<comments>http://www.manton.org/2014/03/12_years_of.html#comments</comments>
+		<pubDate>Sun, 09 Mar 2014 22:37:10 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[blogs]]></category>
+		<category><![CDATA[categories]]></category>
+		<category><![CDATA[sxsw]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/03/12_years_of.html</guid>
+		<description><![CDATA[It’s SXSW this weekend, and while I’m again not attending this year, it’s a reminder that today is the 12th anniversary of starting this blog. I took some time today to fix the categories and tags on about a dozen older posts. One of those was fun to rediscover, linking to John Siracusa’s review of [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>It’s SXSW this weekend, and while I’m again not attending this year, it’s a reminder that today is the 12th anniversary of starting this blog. I took some time today to fix the categories and tags on about a dozen older posts. One of those was fun to rediscover, <a href="http://manton.org/2002/09/john_siracusa_has.html">linking to John Siracusa’s review of Mac OS X 10.2</a>. Here’s the part from John that I quoted:</p>
+<blockquote><p>
+  “And forget about any truly forward-looking features akin to Copland’s saved searches or BeOS’s metadata-powered custom views. Put simply, the Finder, once the crown jewel of the Mac user interface, no longer seems to be a priority at Apple.”
+</p></blockquote>
+<p>That was September 2002. It feels like it has really taken until 10.9 Mavericks (with tags and Finder tabs) for that to change.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/03/12_years_of.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Kevin Lynch at Apple</title>
+		<link>http://www.manton.org/2013/03/kevin_lynch_at.html</link>
+		<comments>http://www.manton.org/2013/03/kevin_lynch_at.html#comments</comments>
+		<pubDate>Wed, 20 Mar 2013 08:38:25 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[adobe]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[flash]]></category>
+		<category><![CDATA[macromedia]]></category>
+		<category><![CDATA[sxsw]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/03/kevin_lynch_at.html</guid>
+		<description><![CDATA[John Gruber has a series of posts questioning Apple’s judgement in hiring Kevin Lynch. This one best sums it up: “I get that the guy worked for Adobe and had to play for the home team, but as CTO he backed a dying technology for years too long. In 2007 when the iPhone shipped Flash-free, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>John Gruber has a series of posts questioning Apple’s judgement in hiring Kevin Lynch. <a href="http://daringfireball.net/linked/2013/03/19/exhibit-b">This one best sums it up</a>:</p>
+<blockquote><p>
+  “I get that the guy worked for Adobe and had to play for the home team, but as CTO he backed a dying technology for years too long. In 2007 when the iPhone shipped Flash-free, that was one thing. But for Adobe to still be backing the Flash horse in 2010 when the iPad came out — they just looked silly.”
+</p></blockquote>
+<p>All of that is true. But instead of reflecting poor judgement, I think Kevin Lynch joining Apple could be good news in what it says about Apple. They didn’t hire him blindly. Apple knows what Kevin has been working on, knows what he’s said in public, and at this moment probably knows much better than we do what it was like to be at Adobe those last few years. For all we know Apple cares more about his work on Creative Cloud than Flash.</p>
+<p><a href="http://klynch.com/">Kevin also has a rich history</a> that is closely tied with the Mac. He worked as a developer on FrameMaker. He worked at General Magic alongside old-school Apple engineers. He worked at Macromedia when they started building web tools.</p>
+<p>I heard him speak much later at SXSW in 2002, for a joint presentation he gave with Jeffrey Veen. At the time I disagreed with Kevin’s vision for Flash and the web, but the SXSW talk was interesting enough that I <a href="http://manton.org/2003/03/flash_vs_web_apps.html">referenced it afterwards</a> and again <a href="http://manton.org/2004/03/sxsw_day_1_web.html">later</a>. Kevin was so good that he somehow demonstrated he got the web even as he pitched a product that was increasingly at odds with it.</p>
+<p>Was he wrong about Flash? Yes. But I choose to view his move to Apple as an indication that he was at the wrong company more than that he was completely wrong-headed. Maybe it was time for something new, a course correction back to the earlier part of his career. Skepticism about this hire is fine, but to treat him as an outsider is to forget the other great things he’s worked on. Once you’ve built Mac software, no matter how long ago, you’ll always be one of us.</p>
+<p>I hope Apple sees it that way too. Because if Apple is confident of anything, it’s that they can’t get stuck in one old way of thinking, can’t discount good people because of one unforgivable bad idea. That Apple is able to brush aside the Flash debate as yesterday’s news — even accept as a VP someone who was at the heart of that debate, and on the wrong side — shows to me that they’re only looking forward.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/03/kevin_lynch_at.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Aaron Swartz</title>
+		<link>http://www.manton.org/2013/01/aaron_swartz.html</link>
+		<comments>http://www.manton.org/2013/01/aaron_swartz.html#comments</comments>
+		<pubDate>Tue, 15 Jan 2013 15:03:52 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[aaronswartz]]></category>
+		<category><![CDATA[collections]]></category>
+		<category><![CDATA[sxsw]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/01/aaron_swartz.html</guid>
+		<description><![CDATA[I met Aaron briefly at SXSW, maybe 8 or 9 years ago, when the conference was still so small you could run into everyone. He wouldn’t remember me, but I followed his work and linked to him a couple times here. He was so young and already doing great things. Lawrence Lessig: “He was brilliant, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I met Aaron briefly at SXSW, maybe 8 or 9 years ago, when the conference was still so small you could run into everyone. He wouldn’t remember me, but I followed his work and linked to him a couple times here. He was so young and already doing great things.</p>
+<p><a href="http://lessig.tumblr.com/post/40347463044/prosecutor-as-bully">Lawrence Lessig</a>:</p>
+<blockquote><p>
+  “He was brilliant, and funny. A kid genius. A soul, a conscience, the source of a question I have asked myself a million times: What would Aaron think?”
+</p></blockquote>
+<p><a href="http://inessential.com/2013/01/12/aaron_swartz">Brent Simmons</a>:</p>
+<blockquote><p>
+  “He’d gone on to do cool things — and make some mistakes, and get in trouble for them. But I knew he was extraordinary, and I expected him to grow up to become an American hero.”
+</p></blockquote>
+<p><a href="http://boingboing.net/2013/01/12/rip-aaron-swartz.html">Cory Doctorow</a>:</p>
+<blockquote><p>
+  “Aaron had an unbeatable combination of political insight, technical skill, and intelligence about people and issues. I think he could have revolutionized American (and worldwide) politics. His legacy may still yet do so.”
+</p></blockquote>
+<p><a href="http://bitsplitting.org/2013/01/12/aaron-swartz/">Daniel Jalkut</a>:</p>
+<blockquote><p>
+  “After witnessing a small extent of the struggles Aaron fought, I choose to commemorate him with gratitude for the many bad weeks when he resisted drastic action, and gave us all more time to appreciate and share his contributions.”
+</p></blockquote>
+<p>…<a href="http://twitter.com/danielpunkass/statuses/290318018901319680">and</a>:</p>
+<blockquote><p>
+  “You’ve honored Aaron Swartz by acknowledging what he did before he died. Now honor him by doing what he might have done.”
+</p></blockquote>
+<p>Such a loss. For more links, <a href="http://watermark.io/collections/manton/aaronswartz1986-2013">I started a collection of tweets</a> when my timeline woke up to the news of Aaron’s death.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/01/aaron_swartz.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>10 years and 37signals</title>
+		<link>http://www.manton.org/2012/03/10_years_and.html</link>
+		<comments>http://www.manton.org/2012/03/10_years_and.html#comments</comments>
+		<pubDate>Fri, 09 Mar 2012 23:28:08 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[37signals]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[sxsw]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2012/03/10_years_and.html</guid>
+		<description><![CDATA[Every year on March 9th, as SXSW is getting started, I like to mark the anniversary of this blog. This time it&#8217;s the 10th year. &#8220;My second post back in 2002&#8243;:http://www.manton.org/2002/03/ernest_kim_and_jason.html was about a panel run by 37signals. I wrote: &#8220;Ernest and Jason really get it &#8212; I hope they inspire some designers to think [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Every year on March 9th, as SXSW is getting started, I like to mark the anniversary of this blog. This time it&#8217;s the 10th year.</p>
+<p>&#8220;My second post back in 2002&#8243;:http://www.manton.org/2002/03/ernest_kim_and_jason.html was about a panel run by 37signals. I wrote:</p>
+<blockquote><p>&#8220;Ernest and Jason really get it &#8212; I hope they inspire some designers to think about web sites in a new way, and finally start focusing on usability and page load time and cut the fancy graphics, roll-overs, and animations.&#8221;</p></blockquote>
+<p>This was a couple years before they reinvented themselves as a software company with Basecamp. As the &#8220;new Basecamp launches this week&#8221;:http://37signals.com/svn/posts/3129-launch-the-all-new-basecamp, it&#8217;s fascinating to think back on how far 37signals has come. The web is bigger now and more complex. Subscription web apps are everywhere. But I think the focus on performance that drove Jason Fried and his original co-founders to promote simple design in that SXSW panel a decade ago is still very much at the heart of what 37signals does.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2012/03/10_years_and.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SXSW 2012 and Twitter API innovation</title>
+		<link>http://www.manton.org/2011/09/sxsw_2012_and.html</link>
+		<comments>http://www.manton.org/2011/09/sxsw_2012_and.html#comments</comments>
+		<pubDate>Thu, 01 Sep 2011 15:06:43 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[conferences]]></category>
+		<category><![CDATA[sxsw]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2011/09/sxsw_2012_and.html</guid>
+		<description><![CDATA[The short version of this post is: &#8220;please vote for my SXSW talk&#8221;:http://panelpicker.sxsw.com/ideas/view/11867, which I&#8217;ve proposed with David Barnard of App Cubby. If selected, we&#8217;ll be talking about how to innovate on top of Twitter, using examples from the history of Twitter apps in the App Store including Tweet Marker, Tweet Library, and David&#8217;s upcoming [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The short version of this post is: &#8220;please vote for my SXSW talk&#8221;:http://panelpicker.sxsw.com/ideas/view/11867, which I&#8217;ve proposed with David Barnard of App Cubby. If selected, we&#8217;ll be talking about how to innovate on top of Twitter, using examples from the history of Twitter apps in the App Store including Tweet Marker, Tweet Library, and David&#8217;s upcoming app Tweet Speaker. Equal parts business and APIs, I hope it&#8217;ll capture how much we can still do if we think beyond the Twitter basics.</p>
+<p>The longer story is that SXSW is always changing. I started this blog on the first day of SXSW 2002, when the conference was just a few rooms in a single hallway, and I&#8217;ve seen it grow to more than a few <em>venues</em> spread across downtown Austin and even farther out. That&#8217;s okay. There&#8217;s a place for small events, as SXSW once was, and there&#8217;s a place for <em>the</em> event where the blogging, design, social network, and software folks can meet in one place.</p>
+<p>Take the Mac and iOS development world. This year alone has NSConference, Voices That Matter, 360|iDev, 360|MacDev, CocoaConf, MacTech, &Ccedil;ingleton, and SecondConf. These attract developers from all over the country, but most people can attend one at most, and many events are regional conferences at heart.</p>
+<p>We need WWDC as the single place. No matter how great the smaller conferences are, WWDC is the big one, the one you don&#8217;t miss. And so it is with SXSW.</p>
+<p>I believe SXSW 2012 is going to be fascinating to watch. A couple years past when everyone already thought it was too big, 2012 could see real turnover. Some previous attendees will skip it, and many new people will speak for the first time. I want to see that conference, to find out what its themes and focus will be, and hopefully &#8220;our talk&#8221;:http://panelpicker.sxsw.com/ideas/view/11867 can be part of it.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2011/09/sxsw_2012_and.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SXSW conflict</title>
+		<link>http://www.manton.org/2011/04/sxsw_conflict.html</link>
+		<comments>http://www.manton.org/2011/04/sxsw_conflict.html#comments</comments>
+		<pubDate>Mon, 11 Apr 2011 01:58:17 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Comics]]></category>
+		<category><![CDATA[comic]]></category>
+		<category><![CDATA[drawings]]></category>
+		<category><![CDATA[sxsw]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2011/04/sxsw_conflict.html</guid>
+		<description><![CDATA[I&#8217;m still working on a longer post about SXSW 2011 &#8212; yes, a month late &#8212; but until that&#8217;s ready, here&#8217;s a drawing I made after the conference.]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;m still working on a longer post about SXSW 2011 &mdash; yes, a month late &mdash; but until that&#8217;s ready, here&#8217;s a drawing I made after the conference.</p>
+<p><a href="http://gowalla.com/spots/9225"><img src="http://www.manton.org/images/2011/sxsw_conflict.png" width="500" height="396" border="0" alt="SXSW drawing" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2011/04/sxsw_conflict.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Wayback</title>
+		<link>http://www.manton.org/2011/03/wayback.html</link>
+		<comments>http://www.manton.org/2011/03/wayback.html#comments</comments>
+		<pubDate>Wed, 09 Mar 2011 13:11:45 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[blogger]]></category>
+		<category><![CDATA[evan]]></category>
+		<category><![CDATA[sxsw]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2011/03/wayback.html</guid>
+		<description><![CDATA[Today is the 9th anniversary of this blog. Once a year I dig through old posts, remembering what the industry was like and the topics I was interested in. This time I found a link to a post Evan Williams wrote in 2001 as Pyra Labs and Blogger were struggling: &#8220;First of all, the company [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Today is the 9th anniversary of this blog. Once a year I dig through old posts, remembering what the industry was like and the topics I was interested in. This time I found a link to a post Evan Williams wrote in 2001 as Pyra Labs and Blogger were struggling:</p>
+<blockquote><p>&#8220;First of all, the company (Pyra) is not dead, and the service (Blogger) is not going away. However: We are out of money, and I have lost my team.&#8221;</p></blockquote>
+<p>And:</p>
+<blockquote><p>&#8220;Yes, things would have been very, very different if the Internet Bubble wouldn&#8217;t have burst and we were still in that&#8230;that, Other World in which we started. In that world, things that seem dumb now (such as launching a product and letting it grow for so long without making revenue from it a priority) made sense.&#8221;</p></blockquote>
+<p>The full text is &#8220;available on the Wayback Machine&#8221;:http://replay.waybackmachine.org/200102040700/http://www.evhead.com/longer/2200706_essays.asp. I wish more CEOs blogged with even half the sincerity.</p>
+<p>SXSW Interactive starts this weekend. When Evan wrote the above, the conference was a few rooms along a single hallway. Now it&#8217;s a monster conference, spread across multiple venues, with a speaker database so dense I don&#8217;t even know where to start. Still, I&#8217;ll be there and hope to catch up with any of y&#8217;all making it to Austin.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2011/03/wayback.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Check in here</title>
+		<link>http://www.manton.org/2010/03/check_in_here.html</link>
+		<comments>http://www.manton.org/2010/03/check_in_here.html#comments</comments>
+		<pubDate>Tue, 09 Mar 2010 14:11:02 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[foursquare]]></category>
+		<category><![CDATA[gowalla]]></category>
+		<category><![CDATA[sxsw]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2010/03/check_in_here.html</guid>
+		<description><![CDATA[I started this blog exactly 8 years ago today, right before SXSW, so I thought I&#8217;d post about something related to the event. This year Gowalla and Foursquare are going to be huge. I was a little late to the location-based game party, initially being turned off by Foursquare when it asked for my phone [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I started this blog exactly 8 years ago today, right before SXSW, so I thought I&#8217;d post about something related to the event. This year Gowalla and Foursquare are going to be huge. I was a little late to the location-based game party, initially being turned off by Foursquare when it asked for my phone number just to register, but over the last 6 months I&#8217;ve been thoroughly enjoying using Gowalla.</p>
+<p>&#8220;Jeff Croft has a detailed breakdown&#8221;:http://jeffcroft.com/blog/2010/mar/08/foursquare-versus-gowalla-round-two/ of the differences between Gowalla and Foursquare:</p>
+<blockquote><p>&#8220;Gowalla is capable of having spots which are not addressable, and which are very precise points on the Earth&#8217;s surface. This, again, points to its geocaching nature. You can create a spot for that really wicked tree in your favorite park, or your mailbox, or the trash dumpster where your favorite bum spends most of his days.&#8221;</p></blockquote>
+<p>This is one of Gowalla&#8217;s best features. I also prefer its design, and the playful personality they&#8217;ve baked into the app. While I agree with Jeff that there doesn&#8217;t need to be one winner, I&#8217;m not interested in checking in with more than one application every time I visit a spot, so I use Gowalla exclusively. And because I have friends at Gowalla, I want them to succeed.</p>
+<p>My message to Foursquare users who are coming into town for SXSW: Gowalla is an Austin-based company and they are &#8220;doing fun stuff for SXSW&#8221;:http://gowalla.com/sxsw. Why not give Gowalla a try for the weekend?</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2010/03/check_in_here.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Cuts in Core Intuition</title>
+		<link>http://www.manton.org/2008/09/cuts_in_core.html</link>
+		<comments>http://www.manton.org/2008/09/cuts_in_core.html#comments</comments>
+		<pubDate>Tue, 30 Sep 2008 02:21:12 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[politics]]></category>
+		<category><![CDATA[sxsw]]></category>
+		<category><![CDATA[ted]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2008/09/cuts_in_core.html</guid>
+		<description><![CDATA[When producing &#8220;Core Intuition&#8221;:http://www.coreint.org/ we generally record more than we need, giving us flexibility to cut out the rambling tangents, technical errors, and frequent &#8220;uhms&#8221; that threaten to destroy any kind of pacing or interest in the show. The decision of what to leave out is just as important as the original source work &#8212; [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>When producing &#8220;Core Intuition&#8221;:http://www.coreint.org/ we generally record more than we need, giving us flexibility to cut out the rambling tangents, technical errors, and frequent &#8220;uhms&#8221; that threaten to destroy any kind of pacing or interest in the show. The decision of what to leave out is just as important as the original source work &mdash; being able to recognize the best parts that add value vs. the fluff that can be dropped to make the whole thing stronger. It&#8217;s that way with any product, not just podcasts.</p>
+<p>For episode 8, posted this morning, we ended up recording even more than usual, so we cut a batch of insignificant things but also a few good points in an effort to bring the podcast down to something closer to 30 minutes. I wanted to gather a few of those lost topics here.</p>
+<p><b>Politics</b>. We recorded the show Friday before the first presidential debate, so it only made sense to discuss the campaign. Core Intuition started before the Democratic primaries were officially over, during which time Daniel and I were quite vocal on Twitter and blogs about the election. It still surprises me that we haven&#8217;t let politics get into the show. Probably for the best.</p>
+<p><b>SXSW</b>. I talked more about the SXSW Interactive festival, from its beginnings in the 1990s as a multimedia show to the current mix of web, social media, and design. Some of the most interesting talks in the last couple of years trended away away from &#8220;5 experts on a panel&#8221; sessions to more formal talks, by speakers who love SXSW and don&#8217;t want to see it fall into mediocrity. While it&#8217;s not a developer conference, there has been a steady attendance increase from web application developers and even Mac developers.</p>
+<p><b>TED</b>. Daniel commented on the 20-minute sessions at &#8220;TED&#8221;:http://www.ted.com/, and how any conference would benefit from this focused approach. Imagine how much more useful sessions at WWDC would be if the speakers cruised through their technical slides in 20 minutes and then left much more time for Q&amp;A.</p>
+<p>So those were a few of the segments we left out. The final show included a wrap-up of the C4 conference, insight from Daniel&#8217;s &#8220;Shush&#8221; iPhone app, and rants on Google Android and user experience. &#8220;Check it out&#8221;:http://www.coreint.org/.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2008/09/cuts_in_core.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>TwitterConf 2007</title>
+		<link>http://www.manton.org/2007/03/twitterconf_2007.html</link>
+		<comments>http://www.manton.org/2007/03/twitterconf_2007.html#comments</comments>
+		<pubDate>Thu, 22 Mar 2007 05:55:56 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[austin]]></category>
+		<category><![CDATA[friends]]></category>
+		<category><![CDATA[sxsw]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/03/twitterconf_2007.html</guid>
+		<description><![CDATA[It&#8217;s been over a week since SXSW Interactive wrapped up, and I can&#8217;t bring myself to post anything interesting about it. Don&#8217;t get me wrong, I had a great time. But I missed more sessions than usual this year (I&#8217;m trying to ship software here!), skipped half the parties (Traci was sick all weekend), and [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>It&#8217;s been over a week since SXSW Interactive wrapped up, and I can&#8217;t bring myself to post anything interesting about it. Don&#8217;t get me wrong, I had a great time. But I missed more sessions than usual this year (I&#8217;m trying to ship software here!), skipped half the parties (Traci was sick all weekend), and I didn&#8217;t notice any big themes that unified the conference.</p>
+<p>Except Twitter. Which just underscores that it is about the people, and what they are doing, and being inspired.</p>
+<p>I had a great time meeting new folks and catching up with old acquaintances: talking independent Mac development with Buzz Andersen and Justin Miller; software pricing with John Gruber; Rails and cities with Jamie Stephens and Sergio Rabiela; bumping into old school Mac web guys Carl de Cordova, Raines Cohen, Bill Christensen, and Wes Felter; co-workers and former co-workers Damon Clinkscales and Ryan Irelan respectively; lunch in a pub as a storm came down with Austinites Ben and Sara Brumfield; seeing my old friend John Brauer from high school who needs to email me (hint!); and finally meeting Shaun Inman and a bunch of other people whose names I can&#8217;t recall at the moment and whose business cards are buried somewhere, but no one is quite sure where.</p>
+<p>My only regret is that there were a few people I wanted to say hi to that I literally saw from a distance on the first day of the conference and then <em>never saw again</em>. Maybe they took the wrong escalator and are still trapped in the void of that 3rd floor.</p>
+<p>Of all the kajillion SXSW posts that have come through my fresh not-even-a-beta copy of NetNewsWire, I liked &#8220;Peter Merholtz&#8217;s write-up&#8221;:http://www.peterme.com/?p=533 the best:</p>
+<blockquote><p>&#8220;What I realized, and what I need to do if I return to SXSW, is that in order to enjoy what SXSW Interactive has become (and boy, has it changed since 1999) I have to take a more Zen-like approach, ignoring all the Things I Could Be Doing, and focus on simply getting the most out of whatever I Am Doing.&#8221;</p></blockquote>
+<p>Seeya next year.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2007/03/twitterconf_2007.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.768 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:27:30 -->

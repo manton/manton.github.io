@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; vitalsource</title>
+	<atom:link href="http://www.manton.org/tag/vitalsource/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Starting over</title>
+		<link>http://www.manton.org/2015/08/starting-over.html</link>
+		<comments>http://www.manton.org/2015/08/starting-over.html#comments</comments>
+		<pubDate>Mon, 03 Aug 2015 15:41:25 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[frozen]]></category>
+		<category><![CDATA[idina]]></category>
+		<category><![CDATA[music]]></category>
+		<category><![CDATA[riverfold]]></category>
+		<category><![CDATA[vitalsource]]></category>
+		<category><![CDATA[wholefoods]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2935</guid>
+		<description><![CDATA[&#8220;Am I always starting over In a brand new story? Am I always back at one After all I&#8217;ve done?&#8221; — Always Starting Over, from the broadway show If/Then Daniel said on the latest Core Intuition that it’s important to celebrate major work milestones, like shipping a new app or quitting a job. I didn’t think [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><em>&#8220;Am I always starting over<br />
+In a brand new story?<br />
+Am I always back at one<br />
+After all I&#8217;ve done?&#8221;<br />
+— <a href="https://itun.es/us/5MKtZ?i=860769901">Always Starting Over</a>, from the broadway show If/Then</em></p>
+<p>Daniel said on the <a href="http://coreint.org/192">latest Core Intuition</a> that it’s important to celebrate major work milestones, like shipping a new app or quitting a job. I didn’t think I’d be celebrating right away, but as it turned out, my wife met me for lunch on Friday and we had a beer to mark the occasion. She snapped this photo:</p>
+<p><center><a href="https://instagram.com/p/5z8rowxMfV/"><img src="http://www.manton.org/images/2015/whole_foods_lunch_beer.jpg" width="400" height="400" border="0" /></a></center></p>
+<p>Some things just work out. I couldn’t have picked a better t-shirt to wear if I had planned it.</p>
+<p>When 5pm came around I made a final comment on Confluence, replied to a couple emails, and then signed out of HipChat. But I didn&#8217;t have time for much reflection. My son and I were busy packing up to head to a campout with Boy Scouts. Then as soon as we arrived back the next day, I turned around again to take my daughter to see <a href="http://idinamenzel.com/">Idina Menzel</a>.</p>
+<p>The concert was incredible, somehow including both Wicked&#8217;s &#8220;Defying Gratify&#8221; and Radiohead&#8217;s &#8220;Creep&#8221; — and yes, of course Frozen — to make a show with both the occasional explicit lyric <em>and</em>  little kids pulled up from the audience to sing. It was only while driving home from the concert that I had a moment to think what I need to do next. Idina&#8217;s lines from If/Then at the beginning of this post kept coming back to me.</p>
+<p>I&#8217;ve worked a long time on a few things, and they were pretty good, but now it&#8217;s time to start over. I turn 40 in a few months. It&#8217;s time to figure out what the next 10 years of my life should be about.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/08/starting-over.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Two weeks notice: unfinished work</title>
+		<link>http://www.manton.org/2015/07/two-weeks-notice-unfinished-work.html</link>
+		<comments>http://www.manton.org/2015/07/two-weeks-notice-unfinished-work.html#comments</comments>
+		<pubDate>Fri, 31 Jul 2015 17:42:03 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[2weeks]]></category>
+		<category><![CDATA[bugs]]></category>
+		<category><![CDATA[flickr]]></category>
+		<category><![CDATA[products]]></category>
+		<category><![CDATA[vitalsource]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2930</guid>
+		<description><![CDATA[Three weeks ago I had about a dozen open Jira tickets. Today, my last day with the company, most of those are still open. I was able to update some documentation and do minor maintenance work, but a bigger change I had hoped to deploy turned out to be impossible because of a missing internal [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Three weeks ago I had about a dozen open Jira tickets. Today, my last day with the company, most of those are still open. I was able to update some documentation and do minor maintenance work, but a bigger change I had hoped to deploy turned out to be impossible because of a missing internal API.</p>
+<p>It’s unsatisfying to leave unfinished work. There’s only so much that can be done in a limited time, though, and as we all know software (especially a web app) is rarely ever completely finished.</p>
+<p>Bittersweet, moving on after so many years. The folks I’ve worked with have been really great. I’m going to enjoy keeping an eye on what they ship long after my GitHub access has been revoked.</p>
+<p>This morning, my (now) former boss and good friend <a href="https://twitter.com/willie">Willie Abrams</a> linked in the company chat room to some of the photos that he had taken over the last 14 years. Brought back a lot of good memories, from brainstorming app features in a conference room to wandering around San Francisco before WWDC.</p>
+<p>I think I’m going to let this be the final post to wrap up the “two weeks notice” series. I’ve accomplished a lot but there is still plenty left, especially <a href="http://www.manton.org/2015/07/two-weeks-notice-new-products.html">shipping new products</a>. It’s been good to force myself to write every day, so I’ll keep that going with the usual full posts and <a href="http://www.manton.org/category/micro">microblog posts</a>.</p>
+<p>You can find all 14 posts under <a href="http://www.manton.org/tag/2weeks">the tag “2weeks”</a>. Thanks for reading.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/07/two-weeks-notice-unfinished-work.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Two weeks notice: Core Int 192</title>
+		<link>http://www.manton.org/2015/07/two-weeks-notice-core-int-192.html</link>
+		<comments>http://www.manton.org/2015/07/two-weeks-notice-core-int-192.html#comments</comments>
+		<pubDate>Fri, 31 Jul 2015 17:02:02 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[2weeks]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[vitalsource]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2928</guid>
+		<description><![CDATA[Continuing from last week’s Core Intuition, today Daniel and I talk more about how things are going with the final days of my job winding down. We then take the second half of the show to catch up on recent news around Twitter’s leadership. From the show notes: “Daniel and Manton acknowledge celebration as a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Continuing from last week’s Core Intuition, today Daniel and I talk more about how things are going with the final days of my job winding down. We then take the second half of the show to catch up on recent news around Twitter’s leadership.</p>
+<p>From the show notes:</p>
+<blockquote><p>
+  “Daniel and Manton acknowledge celebration as a survival tactic, discuss the urgency of making ends meet as an indie, and examine changes underway at Twitter with interim CEO Jack Dorsey.”
+</p></blockquote>
+<p>You can listen or subscribe at the <a href="http://coreint.org/192">Core Intuition web site</a>. Special thanks to returning sponsor <a href="http://cocoaconf.com/">CocoaConf</a>. They’ve got conferences coming up in Boston and San Jose, and then Yosemite National Park next year.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/07/two-weeks-notice-core-int-192.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Two weeks notice: final pull request</title>
+		<link>http://www.manton.org/2015/07/two-weeks-notice-final-pull-request.html</link>
+		<comments>http://www.manton.org/2015/07/two-weeks-notice-final-pull-request.html#comments</comments>
+		<pubDate>Mon, 27 Jul 2015 14:55:45 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[2weeks]]></category>
+		<category><![CDATA[github]]></category>
+		<category><![CDATA[stripe]]></category>
+		<category><![CDATA[subscriptions]]></category>
+		<category><![CDATA[vitalsource]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2899</guid>
+		<description><![CDATA[With just 5 days left at my regular job, it&#8217;s time to get serious about wrapping up my work. I have a small change mostly ready and tested locally, but need to push it up to GitHub and finish testing on the dev server. I have a couple open Jira tickets to look at after [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>With just 5 days left at my regular job, it&#8217;s time to get serious about wrapping up my work. I have a small change mostly ready and tested locally, but need to push it up to GitHub and finish testing on the dev server. I have a couple open Jira tickets to look at after that.</p>
+<p>Over the weekend I spent a lot of time with the Stripe API, trying to improve how I manage user subscriptions. Stripe has some new features since I first started using it. For example, options for sales tax and a quantity field. The latter is convenient if you have something like the ability to pay for multiple hosted web sites in a subscription, rather than deal with adding custom line items on an invoice.</p>
+<p>Deadlines are an excellent way to push yourself to actually finish something. So this deadline of Friday is good, in a way, but unlike most of my other deadlines, I can’t miss it and keep working for another week. That finality is a little daunting right now, as I look at the week ahead and everything I want to get done.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/07/two-weeks-notice-final-pull-request.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Two weeks notice: your business model is wrong</title>
+		<link>http://www.manton.org/2015/07/two-weeks-notice-your-business-model-is-wrong.html</link>
+		<comments>http://www.manton.org/2015/07/two-weeks-notice-your-business-model-is-wrong.html#comments</comments>
+		<pubDate>Fri, 24 Jul 2015 22:31:32 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[2weeks]]></category>
+		<category><![CDATA[bugs]]></category>
+		<category><![CDATA[snippets]]></category>
+		<category><![CDATA[vitalsource]]></category>
+		<category><![CDATA[zoom]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2885</guid>
+		<description><![CDATA[How is it Friday already? I have just one week left at my regular job. In addition to looking at documentation, I talked on a video call with the lead engineer who will take over a couple of my projects. We went over my current bug list (exactly 13 lucky tickets in Jira) and reviewed a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>How is it Friday already? I have just one week left at my regular job. In addition to <a href="http://www.manton.org/2015/07/two-weeks-notice-writing-documentation.html">looking at documentation</a>, I talked on a video call with the lead engineer who will take over a couple of my projects. We went over my current bug list (exactly 13 lucky tickets in Jira) and reviewed a few of the trickier outstanding issues.</p>
+<p>Nothing like walking through old code, even at a high level, to discover so much outdated cruft that could be redesigned or cleared out. There’s always a little bit of regret: if only I had fixed this one last problem before leaving, or smoothed over this one confusing part of the web UI. But that’s a slippery slope that could go on indefinitely. Web software in particular is evolving and never fully complete.</p>
+<p>Meanwhile, I continue to get great feedback on my new <a href="http://www.riverfold.com/">Riverfold</a> project from the very early beta testers. Bug reports, new ideas, and sometimes a series of questions that basically ends up as: you’re charging the wrong users, what if you tried <em>this completely different way to make money</em> instead?</p>
+<p>While I don’t think there’s any direct competition for what I’m building, there are a lot of related services. I’d count even parts of Tumblr and WordPress among the services that are both complementary and in a similar theme to what I want to do. Tumblr makes money primarily through ads. WordPress has ads but (I expect) makes more money through their upgrades: paid custom domains, VaultPress backup, and premium themes.</p>
+<p>When choosing a business model for my app, I’ve also been inspired by GitHub’s simplicity. Free for open source projects, which allows you to get a feel for how the entire system works as long as you don’t need private repositories. Paid for organizations, scaling up based on how many projects you have. The success of my project will hang on whether I can mix some of all these models without confusing potential new customers.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/07/two-weeks-notice-your-business-model-is-wrong.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>13 years</title>
+		<link>http://www.manton.org/2014/02/13_years.html</link>
+		<comments>http://www.manton.org/2014/02/13_years.html#comments</comments>
+		<pubDate>Sun, 02 Feb 2014 22:15:33 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[bookshelf]]></category>
+		<category><![CDATA[vitalsource]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/02/13_years.html</guid>
+		<description><![CDATA[If you’ve been reading my blog for a very long time, or listening to my podcast, you probably know that in addition to my business Riverfold Software, I also have a “regular” job at VitalSource. As that company has grown, I feel less comfortable blogging about my work there, since I can’t speak for the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>If you’ve been reading my blog for a very long time, or listening to <a href="http://coreint.org/">my podcast</a>, you probably know that in addition to my business <a href="http://www.riverfold.com/">Riverfold Software</a>, I also have a “regular” job at <a href="http://www.vitalsource.com/">VitalSource</a>. As that company has grown, I feel less comfortable blogging about my work there, since I can’t speak for the company or even the smaller group I directly work with.</p>
+<p>But this month is my 13th anniversary (!) with VitalSource, so I thought it would be interesting to look back on the times I’ve blogged about my work there, and highlight some of things I’ve helped build.</p>
+<p>One of the earlier posts, back in 2005, was <a href="http://manton.org/2005/08/vitalsource.html">about our new store</a>, where I linked to blog posts from James Duncan Davidson, Mike Clark, and Ryan Irelan about the project. But nearly a decade of migrating between blog systems has taken its toll; my post is still there, but the other links are all 404 not found.</p>
+<p>Then from 2007, I wrote about <a href="http://manton.org/2007/01/bookshelf_note_sharing.html">syncing highlights and notes in e-books</a>:</p>
+<blockquote><p>
+  “The architecture is based on the Simple Sharing Extensions (SSE) for RSS and OPML. On top of that we have added a VitalSource namespace and a few extra XML elements and attributes to keep track of Bookshelf-specific data, such as highlighter color and selected text within a book. The goal is to keep it as open as possible, so that in the future we can both consume other sources of user notes, and allow third-parties to also hook into the data in interesting ways.”
+</p></blockquote>
+<p>We recently updated the API to use a new, faster sync architecture, but the web app is still in use today. I’ve been updating it for Rails 4, a tedious process because of the Rails community’s fascination with deprecation.</p>
+<p>Again in 2007, I mentioned updates to two of my favorite apps, MarsEdit 1.2 and NetNewsWire 3.0, along with <a href="http://manton.org/2007/06/new_software_releases.html">VitalSource Bookshelf 4.6</a>:</p>
+<blockquote><p>
+  “At VitalSource we also just released Bookshelf 4.6 today, which lays the foundation for media-rich textbooks and adds a highlighter rating UI for any subscribed highlighters you have. This data will bubble up in a few places in the future to allow you to discover people and books, although for now it’s one-way.”
+</p></blockquote>
+<p>It’s neat looking back on this post because it includes a <a href="http://www.manton.org/screencasts/2007/bookshelf_rating.mov">short screencast of the app</a> from 2007, presumably running on Mac OS X 10.4 Tiger. The promise of this highlighter ratings feature never really materialized, though.</p>
+<p>In 2010, <a href="http://manton.org/2010/03/ipad_ships_next.html">I thought about the iPad</a> right before its release:</p>
+<blockquote><p>
+  “I’m working on 2 apps for the iPad. The first is just a minor iPad refresh of an existing iPhone app at VitalSource called Bookshelf Noteview (iTunes link). It’s for reading notes and highlights synced from our e-book platform.”
+</p></blockquote>
+<p>Noteview was eventually removed from sale. The other app I hinted at would become <a href="http://www.riverfold.com/software/tweetlibrary/">Tweet Library</a>.</p>
+<p>Around the same time, <a href="http://manton.org/2010/03/mac_os_x_server.html">I blogged about Mac OS X</a> as a server platform:</p>
+<blockquote><p>
+  “At VitalSource we now have a dozen Xserves running Ruby on Rails and a couple others running MySQL. While it’s mostly stable now, over the years there have been several mystery show-stopper problems that no one seems to have on other platforms.”
+</p></blockquote>
+<p>Obviously Apple no longer sells the Xserve. At VitalSource all our best new servers run Linux.</p>
+<p>Also in 2010, <a href="http://manton.org/2010/08/congratulations.html">I reflected on how a team grows</a>:</p>
+<blockquote><p>
+  “If you’re working by yourself and add another person to the project, a funny thing happens: you become a manager. Before, you could spend 100% of your time on the work. Now you can allocate 50-75%, because you’re getting the new programmer up to speed, answering questions, and setting priorities. If you’re lucky (and I usually am), the person you added is contributing so much that it easily makes up for your loss in productivity, and then some.”
+</p></blockquote>
+<p>Later in 2010, I described how we <a href="http://manton.org/2010/09/bookshelf_touch.html">shipped Bookshelf for iPhone</a>:</p>
+<blockquote><p>
+  “At its core the app is 3 parts: a large C++ codebase, brand new Objective-C UI code, and a bunch of clever WebKit and JavaScript work. In many ways it’s a more difficult project than my other iPad app (still in development), but some great coders contributed to different parts of the architecture, before and after I joined the project.”
+</p></blockquote>
+<p>There are other posts, but I think these hit some of the more interesting milestones in the last 13 years. I also have an archive of earlier, company-internal blog posts, starting in 2001, that I hope to look into and publish pieces from one day.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/02/13_years.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Bookshelf Touch</title>
+		<link>http://www.manton.org/2010/09/bookshelf_touch.html</link>
+		<comments>http://www.manton.org/2010/09/bookshelf_touch.html#comments</comments>
+		<pubDate>Wed, 22 Sep 2010 04:38:09 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[bookshelf]]></category>
+		<category><![CDATA[ebooks]]></category>
+		<category><![CDATA[textbooks]]></category>
+		<category><![CDATA[vitalsource]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2010/09/bookshelf_touch.html</guid>
+		<description><![CDATA[Although I had worked a little on iOS apps before, updating an existing app for the iPad and tinkering with unfinished apps, the first 1.0 for iOS that I played a significant role in just shipped last week: a &#8220;mobile version of Bookshelf&#8221;:http://itunes.apple.com/us/app/vitalsource-bookshelf/id389359495?mt=8 for VitalSource. The iPhone version has been in development off and on [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img src="http://www.manton.org/images/2010/bookshelf_touch.png" alt="Bookshelf screenshot" title="bookshelf_touch.png" border="0" width="200" height="300" style="float:right;" hspace="10" /> Although I had worked a little on iOS apps before, updating an existing app for the iPad and tinkering with unfinished apps, the first 1.0 for iOS that I played a significant role in just shipped last week: a &#8220;mobile version of Bookshelf&#8221;:http://itunes.apple.com/us/app/vitalsource-bookshelf/id389359495?mt=8 for VitalSource. The iPhone version has been in development off and on for a while, but I took over the project fairly late in development, with a coding frenzy through the summer as we switched file formats and scrambled to finish in time for fall students.</p>
+<p>Today the app broke into the App Store&#8217;s top 25 for free Education apps.</p>
+<p>It&#8217;s designed for existing VitalSource customers, supporting both our file formats (for XML-based reflowable content or PDF-like fixed layout), with synced highlights, figure search, and offline access. At its core the app is 3 parts: a large C++ codebase, brand new Objective-C UI code, and a bunch of clever WebKit and JavaScript work. In many ways it&#8217;s a more difficult project than my other iPad app (still in development), but some great coders contributed to different parts of the architecture, before and after I joined the project.</p>
+<p>Nearly 10 years ago, when I was hired at VitalSource to build the Mac version of our e-book reader, we delivered textbooks on DVD-ROMs and our technology was years ahead of everyone else. Today, and especially post-iPad, the market is a lot different, with some beautiful competition like &#8220;Inkling&#8221;:http://itunes.apple.com/us/app/inkling/id379351586?mt=8. Bookshelf for iPhone wasn&#8217;t first to the App Store, but it inherits an existing user base, strong platform, and large book inventory. I like VitalSource&#8217;s chances.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2010/09/bookshelf_touch.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Congratulations, you&#8217;re a manager</title>
+		<link>http://www.manton.org/2010/08/congratulations_youre_a.html</link>
+		<comments>http://www.manton.org/2010/08/congratulations_youre_a.html#comments</comments>
+		<pubDate>Sun, 08 Aug 2010 19:09:36 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[indie]]></category>
+		<category><![CDATA[jobs]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[riverfold]]></category>
+		<category><![CDATA[vitalsource]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2010/08/congratulations_youre_a.html</guid>
+		<description><![CDATA[The sort of odd &#8220;best of both worlds&#8221; balance in my different projects at &#8220;VitalSource&#8221;:http://www.vitalsource.com/ and as a solo shop is that I love working with a team, and I also love working alone. I mean really alone, doing the planning and design and coding and marketing. I&#8217;ve resisted farming out any piece of my [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The sort of odd &#8220;best of both worlds&#8221; balance in my different projects at &#8220;VitalSource&#8221;:http://www.vitalsource.com/ and as a solo shop is that I love working with a team, and I also love working alone. I mean really alone, doing the planning and design and coding and marketing. I&#8217;ve resisted farming out any piece of my apps at &#8220;Riverfold&#8221;:http://www.riverfold.com/ (except the application icon) so that I can have complete control. It&#8217;s brutally hard sometimes, but it&#8217;s mine.</p>
+<p>If you&#8217;re working by yourself and add another person to the project, a funny thing happens: you become a manager. Before, you could spend 100% of your time on the work. Now you can allocate 50-75%, because you&#8217;re getting the new programmer up to speed, answering questions, and setting priorities. If you&#8217;re lucky (and I usually am), the person you added is contributing so much that it easily makes up for your loss in productivity, and then some.</p>
+<p>The trade-off is worth it. Exchange the previous low communication overhead for extra coding man-hours.</p>
+<p>You can build something great with a team, something that would be impossible alone, if you surround yourself with people who are better at your job than you are. I love that first moment when a team doubles in size from 1 to 2, or 2 to 4.</p>
+<p>But after the initial frenzy of coding and emails and new features, I usually get burned out again. The project doesn&#8217;t strictly need me anymore, and I&#8217;m ready to get back to starting an app from scratch, when the scope is so small that the whole thing still fits in my head.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2010/08/congratulations_youre_a.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Mac OS X Server tantrums</title>
+		<link>http://www.manton.org/2010/03/mac_os_x-3.html</link>
+		<comments>http://www.manton.org/2010/03/mac_os_x-3.html#comments</comments>
+		<pubDate>Mon, 29 Mar 2010 14:14:21 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[macosx]]></category>
+		<category><![CDATA[rentzsch]]></category>
+		<category><![CDATA[server]]></category>
+		<category><![CDATA[vitalsource]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2010/03/mac_os_x-3.html</guid>
+		<description><![CDATA[&#8220;At VitalSource&#8221;:http://www.vitalsource.com/ we now have a dozen Xserves running Ruby on Rails and a couple others running MySQL. While it&#8217;s mostly stable now, over the years there have been several mystery show-stopper problems that no one seems to have on other platforms. Which is why I found this &#8220;quote from Rentzsch&#8221;:http://rentzsch.tumblr.com/post/316835872/mac-os-x-server-a-fear-realized so interesting: &#8220;The trick [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>&#8220;At VitalSource&#8221;:http://www.vitalsource.com/ we now have a dozen Xserves running Ruby on Rails and a couple others running MySQL. While it&#8217;s mostly stable now, over the years there have been several mystery show-stopper problems that no one seems to have on other platforms.</p>
+<p>Which is why I found this &#8220;quote from Rentzsch&#8221;:http://rentzsch.tumblr.com/post/316835872/mac-os-x-server-a-fear-realized so interesting:</p>
+<blockquote><p>&#8220;The trick is to radically minimize all services performed by Mac OS X Server itself, and instead run services in VMware-hosted Debian images. At that point, Mac OS X Server becomes little more than a simple container for VMware, something it seems able to handle with a minimum of tantrums.&#8221;</p></blockquote>
+<p>It seems kind of wasteful, but Mac OS X Server really is overkill most of the time.</p>
+<p>Related: over the weekend I checked into &#8220;Heroku&#8221;:http://www.heroku.com/. I&#8217;m impressed with what they have built. If it works as advertised, I think I&#8217;ll supplement my Dreamhost stuff with Heroku any time I need a Ruby backend.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2010/03/mac_os_x-3.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>iPad ships next week</title>
+		<link>http://www.manton.org/2010/03/ipad_ships_next.html</link>
+		<comments>http://www.manton.org/2010/03/ipad_ships_next.html#comments</comments>
+		<pubDate>Tue, 23 Mar 2010 12:48:33 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[ipad]]></category>
+		<category><![CDATA[vitalsource]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2010/03/ipad_ships_next.html</guid>
+		<description><![CDATA[With the iPad set to ship in just a week and a half, I&#8217;ve been quietly reshuffling some of my projects around it. I&#8217;ve written critically of the iPhone and App Store a couple times, such as how the iPhone is a gold rush distraction that &#8220;doesn&#8217;t need me&#8221;:http://www.manton.org/2009/09/its_okay_to_ignore.html. I also stand by &#8220;earlier opinions&#8221;:http://www.manton.org/2009/11/the_only_2.html [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>With the iPad set to ship in just a week and a half, I&#8217;ve been quietly reshuffling some of my projects around it. I&#8217;ve written critically of the iPhone and App Store a couple times, such as how the iPhone is a gold rush distraction that &#8220;doesn&#8217;t need me&#8221;:http://www.manton.org/2009/09/its_okay_to_ignore.html. I also stand by &#8220;earlier opinions&#8221;:http://www.manton.org/2009/11/the_only_2.html of how unfixable the App Store is, especially now when it&#8217;s obvious that any effort trying to convince Apple to open the store is completely wasted. They never will.</p>
+<p>But I really like what I&#8217;ve seen of the iPad platform so far and I think it represents a big shift for everyday computing in a way that a cell phone can&#8217;t. So I renewed my membership in the iPhone developer program.</p>
+<p>I&#8217;m working on 2 apps for the iPad. The first is just a minor iPad refresh of an existing iPhone app at VitalSource called &#8220;Bookshelf Noteview&#8221;:http://itunes.apple.com/us/app/bookshelf-noteview/id333263742?mt=8 (iTunes link). It&#8217;s for reading notes and highlights synced from our e-book platform.</p>
+<p>I&#8217;m not ready to announce the next app yet, but it&#8217;s a personal project which I had originally written for the Mac over a year ago. I shelved it at the time because I wasn&#8217;t sure there was demand, the backend web services weren&#8217;t mature, and I wasn&#8217;t ready to take it to completion. For the iPad though, it might be perfect.</p>
+<p>And that&#8217;s ultimately where I see the most interesting potential for the iPad. New middle-ground apps that we haven&#8217;t even thought of yet, not ports from another platform. Apps that would feel small or distracting or wrong on the Mac, yet equally oversized for a relatively underpowered iPhone. Maybe the never-tested-on-a-real-device launch day apps will be buggy and the overall quality low, but I can&#8217;t wait to try them anyway.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2010/03/ipad_ships_next.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.210 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:17:37 -->

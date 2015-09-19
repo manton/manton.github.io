@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; delicious</title>
+	<atom:link href="http://www.manton.org/tag/delicious/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Don&#8217;t give up, shipping takes time</title>
+		<link>http://www.manton.org/2008/02/dont_give_up.html</link>
+		<comments>http://www.manton.org/2008/02/dont_give_up.html#comments</comments>
+		<pubDate>Sat, 09 Feb 2008 21:44:03 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[c4]]></category>
+		<category><![CDATA[delicious]]></category>
+		<category><![CDATA[indie]]></category>
+		<category><![CDATA[mac]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2008/02/dont_give_up.html</guid>
+		<description><![CDATA[I love the passion in &#8220;this comment from Wil Shipley&#8221;:http://theocacao.com/comment/5466: &#8220;This app is all I&#8217;m working on. My entire reputation, my 25 years in the industry, my company is all riding on this release. I&#8217;m not going to just suddenly give up one day for no reason.&#8221; I&#8217;m one of those people who will upgrade [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I love the passion in &#8220;this comment from Wil Shipley&#8221;:http://theocacao.com/comment/5466:</p>
+<blockquote><p>&#8220;This app is all I&#8217;m working on. My entire reputation, my 25 years in the industry, my company is all riding on this release. I&#8217;m not going to just suddenly give up one day for no reason.&#8221;</p></blockquote>
+<p>I&#8217;m one of those people who will upgrade to &#8220;Delicious Library&#8221;:http://www.delicious-monster.com/ 2 on the first day and I know I won&#8217;t be disappointed. Although my indie app has a tiny fraction of the users Delicious has, I&#8217;m currently going through the same kind of delays.</p>
+<p>After months of quick, focused &#8220;Wii Transfer&#8221;:http://www.riverfold.com/software/wiitransfer/ releases, I decided in November to skip a minor bug fix release and roll up all the outstanding issues into a bigger release with several important user interface improvements. You reach a point in this process where there is no turning back, and for every refinement to the product you see just how much more you could do. I think it&#8217;s that kind of constant, iterative polishing that Wil is going through now.</p>
+<p>If you are curious about the business of software development, don&#8217;t miss his &#8220;talk from C4&#8243;:http://www.viddler.com/explore/rentzsch/videos/4/ last year. In many ways I&#8217;m glad it took so long for the videos to go up; I&#8217;ve already forgotten half of the content so it will be fun to review the sessions.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2008/02/dont_give_up.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Rails and Mac dev communities</title>
+		<link>http://www.manton.org/2007/09/rails_and_mac.html</link>
+		<comments>http://www.manton.org/2007/09/rails_and_mac.html#comments</comments>
+		<pubDate>Mon, 17 Sep 2007 18:11:11 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[c4]]></category>
+		<category><![CDATA[delicious]]></category>
+		<category><![CDATA[mac]]></category>
+		<category><![CDATA[rails]]></category>
+		<category><![CDATA[ruby]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/09/rails_and_mac.html</guid>
+		<description><![CDATA[&#8220;Damon Clinkscales has a write-up&#8221;:http://damonclinkscales.com/past/lone-star-charity-workshop-wrap-up/ of the Charity Workshop that took place before the Lone Star Ruby Conference in Austin a couple weekends ago. I skipped the conference and attended these tutorials instead, enjoying some great talks by Marcel Molina, Bruce Williams, and 6 other speakers all packed into 4 hours. I definitely picked up [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>&#8220;Damon Clinkscales has a write-up&#8221;:http://damonclinkscales.com/past/lone-star-charity-workshop-wrap-up/ of the Charity Workshop that took place before the Lone Star Ruby Conference in Austin a couple weekends ago. I skipped the conference and attended these tutorials instead, enjoying some great talks by Marcel Molina, Bruce Williams, and 6 other speakers all packed into 4 hours. I definitely picked up a few good tips on Ruby blocks and ActiveRecord, but I was not-so-secretly relieved that I didn&#8217;t attend the full conference.</p>
+<p>&#8220;Since brunch on Sunday&#8221;:http://www.flickr.com/photos/digitalnomad/1352583178/ after the conference, where I got to hear another wrap-up from co-workers, I&#8217;ve been thinking about why. Why did I sell my RailsConf ticket and book a flight to Chicago for C4 instead? Why skip a cheap Ruby conference practically in my own backyard? Why have I whittled my Ruby-themed blog subscriptions down to just a few from dozens?</p>
+<p>Now I know: it&#8217;s about the difference in the communities. The Mac developer community is all about building  unique apps, crafting an excellent user experience, and the &#8220;indie culture&#8221;:http://www.al3x.net/2007/08/c41-friday.html of building something small and useful. The Rails community by contrast seems focused on how few lines of code a controller method is. I&#8217;m lucky to work with people who care about that stuff, because it often does yield better applications, but I just don&#8217;t wake up in the morning excited about rewriting code, so why would I leave my family for a few days to hear someone talk about it?</p>
+<p>There are many kinds of programmers. People who have hacked their whole life, dropping out of school to sell software; traditional developers with a CS degree and big company background; and even fine arts majors who fell into programming by accident as a way to build web sites. Based on that background, or what direction their passion takes them, I believe there is a balance between joy for the <em>act of writing code</em> vs. the pride in <em>seeing the final product</em>, and each programmer leans to one way or the other.</p>
+<p>For Rails developers, at least many of the leaders in the industry who came from or were inspired by the extreme programming methodology and test-driven development, it&#8217;s the former: the art is found in the lines of code &#8212; how efficient can the logic be, how DRY, how RESTful.</p>
+<p>For Mac developers, not just the &#8220;Delicious Generation&#8221;:http://www.rogueamoeba.com/utm/posts/Article/DeliciousGeneration-2006-11-06-10-00 but old school Mac developers as well, it&#8217;s the latter: the art is how the final product looks and behaves &#8212; being inspired to build something simply because you used another application that was great.</p>
+<p>Cutting it this way allows me to see two things very clearly that were confusing before. It puts specifics to why I&#8217;ve drifted further away from the Rails cutting edge, and it explains why I get so annoyed with some of the newer crop of Mac developers who proclaim &#8220;bindings&#8221;:http://cocoadevcentral.com/articles/000080.php and garbage collection as beautiful gifts for programmer productivity even though they have no added value for the user experience.</p>
+<p>Rails is a great framework, and I will continue to enjoy switching gears to write web apps in between my Mac projects. But I&#8217;m not going to tune back into that community until there is an equal focus on the bigger picture as it impacts the user (more scaling, more UI best practices), or whatever the next big thing to hit web apps ends up being.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2007/09/rails_and_mac.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.326 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:17:43 -->

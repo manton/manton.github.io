@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; news</title>
+	<atom:link href="http://www.manton.org/tag/news/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Types of news readers</title>
+		<link>http://www.manton.org/2015/06/types-of-news-readers.html</link>
+		<comments>http://www.manton.org/2015/06/types-of-news-readers.html#comments</comments>
+		<pubDate>Fri, 26 Jun 2015 15:30:58 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[news]]></category>
+		<category><![CDATA[rivers]]></category>
+		<category><![CDATA[rss]]></category>
+		<category><![CDATA[timelines]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2783</guid>
+		<description><![CDATA[Brent Simmons describes how he sees news readers as falling into 3 general types: casual newspaper, productivity, and river of news. This matches my thinking as well. We need all of these different apps, although it’s the third category that I’m currently fascinated with. I wrote a little about timelines and River.js earlier this week.]]></description>
+				<content:encoded><![CDATA[<p><a href="http://inessential.com/2015/06/23/varieties_of_news_readers">Brent Simmons describes</a> how he sees news readers as falling into 3 general types: casual newspaper, productivity, and river of news. This matches my thinking as well. We need all of these different apps, although it’s the third category that I’m currently fascinated with. I wrote a little <a href="http://www.manton.org/2015/06/microblog-timelines-project-lightning-and-river-js.html">about timelines and River.js earlier this week</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/06/types-of-news-readers.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Apple News and RSS</title>
+		<link>http://www.manton.org/2015/06/apple-news-and-rss.html</link>
+		<comments>http://www.manton.org/2015/06/apple-news-and-rss.html#comments</comments>
+		<pubDate>Mon, 15 Jun 2015 19:25:24 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[adn]]></category>
+		<category><![CDATA[news]]></category>
+		<category><![CDATA[rss]]></category>
+		<category><![CDATA[wwdc]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2713</guid>
+		<description><![CDATA[Daniel Jalkut has an optimistic take on Apple News. He doesn’t think it is comparable to centralized publishing systems like Twitter or Medium for one important reason: “Because the content doesn’t live on Apple’s servers. This is a key distinction in my mind. Apple’s News App serves primarily not as a source of information, but [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://bitsplitting.org/2015/06/15/apple-news-and-the-open-web/">Daniel Jalkut has an optimistic take</a> on Apple News. He doesn’t think it is comparable to centralized publishing systems like Twitter or Medium for one important reason:</p>
+<blockquote><p>
+  “Because <em>the content doesn’t live on Apple’s servers</em>. This is a key distinction in my mind. Apple’s News App serves primarily not as a <em>source</em> of information, but as an amplifier of it.”
+</p></blockquote>
+<p>Any technology that invokes “amplifier” in a review is something I want to pay attention to. I used the same word in the closing paragraph of <a href="http://manton.org/2013/08/waiting_for_appnets.html">my pitch for App.net</a>. That service is fading away now, of course, but it’s just another reminder that even the most well-intentioned platforms are dangerous if they distract us from controlling our own content and hosting it at a custom domain.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/06/apple-news-and-rss.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>River of news</title>
+		<link>http://www.manton.org/2008/09/river_of_news.html</link>
+		<comments>http://www.manton.org/2008/09/river_of_news.html#comments</comments>
+		<pubDate>Mon, 22 Sep 2008 16:24:48 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[news]]></category>
+		<category><![CDATA[sick]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[vacation]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2008/09/river_of_news.html</guid>
+		<description><![CDATA[No, I don&#8217;t mean &#8220;Dave Winer&#8217;s thoughts&#8221;:http://www.reallysimplesyndication.com/riverOfNews on RSS reader design exactly, although that&#8217;s part of it. It&#8217;s more the way we in the technology community interact with the world. Hundreds of news feeds, company chat, external IRC channels, private AIM, email dinging every 5 minutes, and the constant flow of tweets. At home, we&#8217;re [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>No, I don&#8217;t mean &#8220;Dave Winer&#8217;s thoughts&#8221;:http://www.reallysimplesyndication.com/riverOfNews on RSS reader design exactly, although that&#8217;s part of it. It&#8217;s more the way we in the technology community interact with the world. Hundreds of news feeds, company chat, external IRC channels, private AIM, email dinging every 5 minutes, and the constant flow of tweets. At home, we&#8217;re connected essentially 24/7; on the road, the iPhone brings it all with us. Plus there&#8217;s the never-ending pile of work to do on too many projects.</p>
+<p>Technology news or politics or development moves too fast and doesn&#8217;t slow down. It&#8217;s easy to feel like you&#8217;re being pulled down the river, one hand struggling to hold on to the raft and the other deep in the current, information overload all around.</p>
+<p>Since coming back from C4 I&#8217;d been fighting a cold, which developed into a cough and sinus infection and fever and whatever worse. I finally hit the doctor up last week and just unplugged, checking email twice a day for emergencies only. I spent the rest of the day sleeping, reading, and with family &mdash; a self-imposed vacation for my brain as much as my body.</p>
+<p>Four days later I&#8217;m feeling quite a bit better, and trying to think about what changes to make in my schedule so as to not wind up insane or dead before I&#8217;m 35. But even as I say that I acknowledge that it&#8217;s stretching the truth, because I&#8217;ve never been happier.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2008/09/river_of_news.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.228 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:24:27 -->

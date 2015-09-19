@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; slack</title>
+	<atom:link href="http://www.manton.org/tag/slack/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Two weeks notice: podcast revenue</title>
+		<link>http://www.manton.org/2015/07/two-weeks-notice-podcast-revenue.html</link>
+		<comments>http://www.manton.org/2015/07/two-weeks-notice-podcast-revenue.html#comments</comments>
+		<pubDate>Tue, 21 Jul 2015 23:34:29 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[2weeks]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[slack]]></category>
+		<category><![CDATA[sponsors]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2873</guid>
+		<description><![CDATA[In my first post I framed the situation as pinning my indie hopes on two things: my own apps and client work. But as Daniel points out, I’ve actually lucked into several distinct revenue sources. And one of the most promising continues to be our Core Intuition podcast sponsorships and the companion jobs site. The [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.manton.org/2015/07/two-weeks-notice-the-first-weekend.html">In my first post</a> I framed the situation as pinning my indie hopes on two things: my own apps and client work. But <a href="http://bitsplitting.org/2015/07/20/full-time-indie/">as Daniel points out</a>, I’ve actually lucked into several distinct revenue sources. And one of the most promising continues to be our <a href="http://www.coreint.org/sponsorship/">Core Intuition podcast sponsorships</a> and the companion <a href="http://jobs.coreint.org/">jobs site</a>.</p>
+<p>The podcast got some good news over the weekend as we’re adding another long-term sponsor. We’ve had this company as sponsors in the past, and I’m looking forward to having them back and talking about how I use their products.</p>
+<p>Like software, revenue from Core Intuition comes in waves. Sometimes we’ll be booked up for months, other times there will be a drought of sponsors, so we’ll focus on pitching the jobs site instead. Sometimes we’ll get new job listings every day, other times a week will go by with nothing. Since we’re not actively marketing it as if it was a full-time business, we can’t count on any kind of consistency from it.</p>
+<p>It’s funny how the podcast worked out, though. We started it just because we thought it would be neat — because we thought we had something to share with the community, back in 2008 when there were very few developer podcasts. We added sponsorships to help justify the time and keep us to a weekly schedule. And now, ironically, the podcast that was <em>about</em> running an indie business will actually help me do just that.</p>
+<p>I’m so grateful to listeners new and old who have supported us. I received a bunch of nice “congrats!” emails and mentions on <a href="http://chat.coreint.org/">our Slack channels</a> yesterday. We’re approaching 200 episodes now, over 7 years, and I hope we can continue to keep the podcast interesting for some time to come.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/07/two-weeks-notice-podcast-revenue.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Core Int 180 and Slack</title>
+		<link>http://www.manton.org/2015/04/core-int-180-and-slack.html</link>
+		<comments>http://www.manton.org/2015/04/core-int-180-and-slack.html#comments</comments>
+		<pubDate>Sun, 19 Apr 2015 03:04:11 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[slack]]></category>
+		<category><![CDATA[swift]]></category>
+		<category><![CDATA[wwdc]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2579</guid>
+		<description><![CDATA[We posted this week&#8217;s Core Intuition late last night. This episode is all about WWDC tickets, our plan for San Francisco, and when we&#8217;re going to adopt Swift. We&#8217;re also trying something new for listeners, or anyone who wants to talk about programming, WWDC, and other Mac and iOS topics. You can get an automatic [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We posted <a href="http://coreint.org/180">this week&#8217;s Core Intuition</a> late last night. This episode is all about WWDC tickets, our plan for San Francisco, and when we&#8217;re going to adopt Swift.</p>
+<p>We&#8217;re also trying something new for listeners, or anyone who wants to talk about programming, WWDC, and other Mac and iOS topics. You can get an automatic invite to our Slack channels for the show by visiting <a href="http://chat.coreint.org/">chat.coreint.org</a>. Feel free to join in! I&#8217;ve been impressed with how well Slack works for this, and the great discussion that&#8217;s already happening there.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/04/core-int-180-and-slack.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Building Slack</title>
+		<link>http://www.manton.org/2014/03/building_slack.html</link>
+		<comments>http://www.manton.org/2014/03/building_slack.html#comments</comments>
+		<pubDate>Mon, 03 Mar 2014 18:05:46 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[flickr]]></category>
+		<category><![CDATA[marketing]]></category>
+		<category><![CDATA[slack]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/03/building_slack.html</guid>
+		<description><![CDATA[Stewart Butterfield, co-founder of Flickr and his latest company Tiny Speck, published an internal email from around the middle of development on their collaboration app Slack: “There’s no point doing this to be small. We should go big, if only because there are a lot of people in the world who deserve Slack. Going big [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Stewart Butterfield, co-founder of Flickr and his latest company Tiny Speck, <a href="https://medium.com/medium-long/4c59524d650d">published an internal email</a> from around the middle of development on their collaboration app Slack:</p>
+<blockquote><p>
+  “There’s no point doing this to be small. We should go big, if only because there are a lot of people in the world who deserve Slack. Going big also means that it will have to be really, really good. But that’s convenient, since there’s also no point doing it if it is not really, really good.”
+</p></blockquote>
+<p>It’s long but there’s a lot of good stuff in it on marketing and building a product people need.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/03/building_slack.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 4.406 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:19:23 -->

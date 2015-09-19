@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; jordan</title>
+	<atom:link href="http://www.manton.org/tag/jordan/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Jordan Breeding</title>
+		<link>http://www.manton.org/2015/04/jordan-breeding.html</link>
+		<comments>http://www.manton.org/2015/04/jordan-breeding.html#comments</comments>
+		<pubDate>Wed, 01 Apr 2015 15:26:00 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[jordan]]></category>
+		<category><![CDATA[nsdrinking]]></category>
+		<category><![CDATA[podcasts]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2522</guid>
+		<description><![CDATA[Last week at NSDrinking we had one of our biggest turnouts yet. At one point, we’re talking about programming jobs, meetups, and Apple, and Jordan Breeding was mentioned. Not in the context of having passed away, but just in remembering something he had said or done. A stranger listening to the conversation would have no [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Last week at <a href="http://twitter.com/nsdrinking">NSDrinking</a> we had one of our biggest turnouts yet. At one point, we’re talking about programming jobs, meetups, and Apple, and Jordan Breeding was mentioned. Not in the context of having passed away, but just in remembering something he had said or done. A stranger listening to the conversation would have no idea that Jordan wasn’t still a member of the community.</p>
+<p>This struck me as exactly right. I think anyone would would want to be remembered as <em>who they were</em>, not how they left us.</p>
+<p>Like many in our developer community, I&#8217;ve thought about Jordan Breeding at certain moments over the last couple months. <a href="http://www.patrickburleson.com/2015/02/09/remembering-jordan-breeding/">Patrick Burleson shared a story</a> about his close friend:</p>
+<blockquote><p>
+  “For those that knew Jordan, they know that he was a incredibly generous and caring person. He did so many things for so many people, it’s a wonder he ever got anything else done.”
+</p></blockquote>
+<p><a href="http://ideveloper.co/podcast135/">Episode 135 of the iDeveloper podcast</a> opened with a segment remembering Jordan. Scotty and John did a great job of capturing what he meant to the community. Scotty says:</p>
+<blockquote><p>
+  “Everybody has said really the same things about him. Firstly, how clever he was. He was an incredibly intelligent person. But secondly, how generous and humble he was with that intelligence, and how he shared with people. He always made you feel like you could be better, and do better, and was always having a laugh about things.”
+</p></blockquote>
+<p>Guy English also dedicated <a href="http://www.imore.com/60-melton-ganatra-episode-iii-shipping-software">episode 60 of the Debug podcast</a> to Jordan. <a href="http://kickingbear.com/blog/archives/514">On his blog</a> he writes:</p>
+<blockquote><p>
+  “Good guy. I didn’t know him well but he always struck me as someone I’d like to get to know better. I lost out on that and too many others did too. Those who knew him universally loved him.”
+</p></blockquote>
+<p>Kyle Richter worked with Jordan and <a href="http://kylerichter.com/jordan/">had this to say</a>, echoing Patrick’s quote above about how Jordan went out of his way for other people:</p>
+<blockquote><p>
+  “We were having dinner with some friends in California and my iPhone was acting up. Jordan volunteered to break away from the pack and come to the Apple Store with me. You rarely get to pick your last time with a friend, my last time with Jordan was him fighting with the Apple Store staff on my behalf. That was Jordan, even with everything he was going through he never thought of himself first.”
+</p></blockquote>
+<p>And finally, <a href="https://storify.com/gruber/jordan-breeding">a collection of tweets</a> via John Gruber. You know when reading any of these that Jordan will be remembered for a long time. He accomplished a great deal and went far, quickly, and that progress is a personal inspiration whenever I consider accelerating the change in my own career. Carpe diem.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/04/jordan-breeding.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.311 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:25:47 -->

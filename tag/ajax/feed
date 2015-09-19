@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; ajax</title>
+	<atom:link href="http://www.manton.org/tag/ajax/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Ajax as a scaling tool</title>
+		<link>http://www.manton.org/2008/09/ajax_as_a.html</link>
+		<comments>http://www.manton.org/2008/09/ajax_as_a.html#comments</comments>
+		<pubDate>Tue, 30 Sep 2008 18:05:50 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[ajax]]></category>
+		<category><![CDATA[sproutcore]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2008/09/ajax_as_a.html</guid>
+		<description><![CDATA[When &#8220;MobileMe&#8221;:http://www.me.com/ launched with a beautiful new design, the web application suite was essentially unusable because of terrible performance. Timeouts and slow page refreshes were the norm. At the time, I didn&#8217;t think too much of this. I just waited a couple of weeks until they had either improved their backend infrastructure or until traffic [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>When &#8220;MobileMe&#8221;:http://www.me.com/ launched with a beautiful new design, the web application suite was essentially unusable because of terrible performance. Timeouts and slow page refreshes were the norm. At the time, I didn&#8217;t think too much of this. I just waited a couple of weeks until they had either improved their backend infrastructure or until traffic had died down enough to make the site work again.</p>
+<p>But one thing that did catch my eye is the insane number of Ajax hits from the SproutCore-based UI. Even &#8220;Cappuccino&#8221;:http://cappuccino.org/, which I praise as brilliant to everyone I talk to, seems to join Gmail&#8217;s progress bar with this same loading overhead cruft.</p>
+<p>Maybe I&#8217;m reading too much into it, but I think as work shifts from the server side to JavaScript there is the potential for waste and chattiness. It&#8217;s like the countless pixel spacers from the 1990s table-based designs all over again.</p>
+<p>Now there&#8217;s a counter-argument to this, that you can cut down on the weight of hits by just sending snippets of JSON or some other lightweight format without the baggage of too many HTML tags, but in practice I think the overhead of the large JavaScript libraries and resources to construct modern app-like UIs overshadow potential gains.</p>
+<p>Unavoidable? Maybe. Or maybe most applications will still benefit from &#8220;traditional&#8221; Ajax. &#8220;Twitter recently redesigned&#8221;:http://blog.twitter.com/2008/09/changes-afoot.html and made their web site faster in that way. Instead of a completely new client-driven interaction model, they just take pieces of the web site and load content without requiring a full page refresh. Easy wins. Web 3.0 not required.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2008/09/ajax_as_a.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Essays about the web</title>
+		<link>http://www.manton.org/2007/04/essays_about_the.html</link>
+		<comments>http://www.manton.org/2007/04/essays_about_the.html#comments</comments>
+		<pubDate>Mon, 09 Apr 2007 06:20:38 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[ajax]]></category>
+		<category><![CDATA[backpack]]></category>
+		<category><![CDATA[flickr]]></category>
+		<category><![CDATA[ical]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[ui]]></category>
+		<category><![CDATA[web]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/04/essays_about_the.html</guid>
+		<description><![CDATA[Paul Graham thinks &#8220;Microsoft and desktop apps are dead&#8221;:http://www.paulgraham.com/microsoft.html: &#8220;Gmail also showed how much you could do with web-based software, if you took advantage of what later came to be called &#8216;Ajax.&#8217; And that was the second cause of Microsoft&#8217;s death: everyone can see the desktop is over. It now seems inevitable that applications will [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Paul Graham thinks &#8220;Microsoft and desktop apps are dead&#8221;:http://www.paulgraham.com/microsoft.html:</p>
+<blockquote><p>&#8220;Gmail also showed how much you could do with web-based software, if you took advantage of what later came to be called &#8216;Ajax.&#8217; And that was the second cause of Microsoft&#8217;s death: everyone can see the desktop is over. It now seems inevitable that applications will live on the web &#8212; not just email, but everything, right up to Photoshop. Even Microsoft sees that now.&#8221;</p></blockquote>
+<p>He&#8217;s definitely off the mark with that statement. Luckily &#8220;Martin Pilkington has a counter-rant&#8221;:http://pilky.mcubedsw.com/index.php?/site/the_desktop_is_here_to_stay/:</p>
+<blockquote><p>&#8220;There seems to be a slightly delusional section of web developers who seem to believe that in a few years time all of our applications and data will be online, while our computers run little more than a browser. Of course this is complete bull.&#8221;</p></blockquote>
+<p>As someone who builds both desktop software and web apps, I&#8217;m very much interested in what happens in the middle. Next generation Mac software in particular can mix local HTML interfaces, web services, and syncing with a traditional rich UI to build something that is the best of both offline and online worlds.</p>
+<p>I had an interesting conversation with &#8220;Willie Abrams&#8221;:http://willie.tumblr.com/ the other day about why the Flickr UI is better than iPhoto, even if you take away all the social parts of Flickr. The reason is that Flickr introduces extra layouts specific to certain types of activities, such as the excellent calendar view for archives. Another example of a web app UI innovation is the Backpack reminder UI that &#8220;John Gruber recently wrote about&#8221;:http://daringfireball.net/2007/03/deal_with_it.</p>
+<p>Web apps are usually able to iterate on features and interfaces much quicker than desktop software, but that doesn&#8217;t make web apps inherently better. Put another way, iCal sucks because it hasn&#8217;t been seriously updated in 5 years.</p>
+<p>I have other thoughts on this topic, but already I&#8217;ve extended this blog post 3 paragraphs more than intended.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2007/04/essays_about_the.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Mediocrity is the new application platform</title>
+		<link>http://www.manton.org/2006/03/mediocrity_is_the.html</link>
+		<comments>http://www.manton.org/2006/03/mediocrity_is_the.html#comments</comments>
+		<pubDate>Fri, 10 Mar 2006 03:41:13 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[ajax]]></category>
+		<category><![CDATA[browsers]]></category>
+		<category><![CDATA[flash]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[rails]]></category>
+		<category><![CDATA[ui]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2006/03/mediocrity_is_the.html</guid>
+		<description><![CDATA[Today marks the 4-year anniversary of this weblog. What better way to celebrate than with a discussion of web applications. Willie Abrams said in a recent Campfire chat: &#8220;Web applications automatically have sync.&#8221; He hits on the fundamental principle of web applications popularity, and of course that has always been true. But the difference now [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Today marks the 4-year anniversary of this weblog. What better way to celebrate than with a discussion of web applications.</p>
+<p><a href="http://www.angrylearner.com/">Willie Abrams</a> said in a recent Campfire chat: &#8220;Web applications automatically have sync.&#8221; He hits on the fundamental principle of web applications popularity, and of course that has always been true. But the difference now is that some web apps are actually <i>fast and usable too</i>. (Gasp!)</p>
+<p>The rise of rich web applications that seamlessly mix Flash or Ajax while still staying true to the roots of web architecture (REST design, open standards) has upset the traditional desktop market. I first wrote about this in <a href="http://www.manton.org/2005/12/todo_lists_and.html">&#8220;To-do lists and embracing the network&#8221;</a>, which was in a sense a subtle wake-up call to Mac developers: adapt to the always-on internet or any college drop-out with a shared server will obsolete your app after a few late nights of Rails hacking.</p>
+<p>But it frustrates me to see such praise given to web applications that, were they traditional, native apps, they&#8217;d be laughed away to obscurity or ignored. Ajax is a huge advancement, but that doesn&#8217;t mean that every application works well for the web. I&#8217;m sure Google engineers spent an incredible amount of work on <a href="http://www.techcrunch.com/2006/02/22/google-pages-released/">Google Pages</a>, but compare it to Apple&#8217;s iWeb and it becomes obvious how weak web application interfaces still are.</p>
+<p>Luckily some people are working through the really tough problems. <a href="http://spaces.msn.com/rayozzie/blog/cns!FB3017FBB9B2E142!285.entry">Ray Ozzie&#8217;s Live Clipboard</a> may be the start of a whole new shift in web app functionality, allowing data to move between web sites and even out of the browser. But true drag-and-drop of structured data between a native app and a web site is still a long way off.</p>
+<p>Let&#8217;s make some lists, starting with the good.</p>
+<ul>
+<li>Good web applications are data-driven, multiuser, and use URLs everywhere.</li>
+<li>There is some key component that is about the <i>browsing experience</i>. That might be sifting through large amounts of data, viewing old logs, finding people.</li>
+<li>The kind of data requires an adaptable user interface, not something with a strict set of traditional widgets. HTML is perfect for this.</li>
+</ul>
+<p>On the other side are web applications that might be built by a team of smart people and with a great technology backend, but the application concepts are confused. They don&#8217;t know if they belong in a web browser or on the desktop.</p>
+<ul>
+<li>Mediocre web applications think that a single web browser window is an entire windowing system with movable child windows.</li>
+<li>No features that actually have anything to do with the web. The result is that it <i>adds no value</i> to the web as a whole.</li>
+<li>Trying to replace the whole Microsoft Office suite.</li>
+</ul>
+<p>Something else is changing in the HTML/CSS/JavaScript platform. In 2004, <a href="http://www.joelonsoftware.com/articles/APIWar.html">Joel Spolsky wrote</a> about how instead of picking Mac, Windows, or Linux APIs, developers are building for the web platform and can deploy to any user&#8217;s desktop. Cutting-edge web applications push that claim to its breaking point, as differences between Safari, Mozilla, and Internet Explorer often cause headaches for developers. It&#8217;s no surprise when Microsoft&#8217;s set of Office Live applications require Internet Explorer, but it <i>is</i> note-worthy when Google&#8217;s chat interface does not work in Safari. There is now a whole set of web applications that require the latest version of Mozilla and won&#8217;t work in anything less.</p>
+<p>Five years ago we accepted that web applications were going to be useful but ultimately unfulfilling, joyless experiences. Now most web apps have risen from bad to simply mediocre. The truly great ones have a foundation and design that would still be unrivaled in a desktop app. These amazing apps are not content to reimplement an old application as a web app just to allow use from any machine, but they take it to the next step: rethink the problem, stay agile, and redesign so that it&#8217;s not just web-based, but it&#8217;s <i>actually better</i>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2006/03/mediocrity_is_the.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.625 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:22:56 -->

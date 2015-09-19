@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; parties</title>
+	<atom:link href="http://www.manton.org/tag/parties/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>WWDC 2008 wrap-up</title>
+		<link>http://www.manton.org/2008/08/wwdc_2008_wrapup.html</link>
+		<comments>http://www.manton.org/2008/08/wwdc_2008_wrapup.html#comments</comments>
+		<pubDate>Sat, 02 Aug 2008 15:03:37 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[parties]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[wwdc]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2008/08/wwdc_2008_wrapup.html</guid>
+		<description><![CDATA[Yes, this post is a month and a half late. I could probably just re-post &#8220;what I wrote in 2007&#8243;:http://www.manton.org/2007/06/wwdc_2007_in.html and it would almost pass for this year&#8217;s WWDC review. Just insert more iPhone and more beer. Instead of a formal write-up, I wanted to piece together the week from Twitter posts, but that proved [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Yes, this post is a month and a half late. I could probably just re-post &#8220;what I wrote in 2007&#8243;:http://www.manton.org/2007/06/wwdc_2007_in.html and it would almost pass for this year&#8217;s WWDC review. Just insert more iPhone and more beer.</p>
+<p>Instead of a formal write-up, I wanted to piece together the week from Twitter posts, but that proved tedious enough that I had to write a little app to help me out. I started by adding my own relevant tweets for WWDC week, then threw in a dozen people I follow and selectively picked the tweets that were significant or about events for which I didn&#8217;t directly post.</p>
+<p>So here you go. How I remembered WWDC 2008, in 95 tweets.</p>
+<p><a href="http://twitter.com/manton">manton</a>: Totally forgot about partitioning my MacBook for potential 10.6, but (surprise!) it&#8217;s still partitioned from last time. Now packing. <a href="http://twitter.com/manton/statuses/829466322" style="color: gray;">Sat 06:14 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Woke 20 minutes before my alarm. Making coffee for my taxi driver / wife. <a href="http://twitter.com/manton/statuses/829687178" style="color: gray;">Sun 03:52 AM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Migas in AUS while waiting for my plane to get here. As usual arrived way too early. <a href="http://twitter.com/manton/statuses/829746391" style="color: gray;">Sun 06:26 AM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: I brought a Wiimote with me for testing and the lights are blinking. Suddenly paranoid about Bluetooth on planes, so taking batteries out. <a href="http://twitter.com/manton/statuses/829747169" style="color: gray;">Sun 06:28 AM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: San Diego airport. Slightly delayed flight. Never been here but it looks like the worst place for a layover. <a href="http://twitter.com/manton/statuses/829863215" style="color: gray;">Sun 10:15 AM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Landed at SFO. <a href="http://twitter.com/manton/statuses/829950483" style="color: gray;">Sun 01:08 PM</a></p>
+<p><a href="http://twitter.com/willie">willie</a>: bart <a href="http://twitter.com/willie/statuses/829959220" style="color: gray;">Sun 01:25 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Still surprised to run into other devs in person. Almost adjusted from online to real world. <a href="http://twitter.com/manton/statuses/830004615" style="color: gray;">Sun 03:03 PM</a></p>
+<p><a href="http://twitter.com/duncan">duncan</a>: Bumped into <a href="http://twitter.com/willie">@willie</a> <a href="http://twitter.com/manton">@manton</a> and <a href="http://twitter.com/phi">@phi</a> Sweet!!!!! <a href="http://twitter.com/duncan/statuses/830022438" style="color: gray;">Sun 03:39 PM</a></p>
+<p><a href="http://twitter.com/dmoren">dmoren</a>: en route to sfMacIndie via Moscone West&#8230; <a href="http://twitter.com/dmoren/statuses/830067535" style="color: gray;">Sun 05:16 PM</a></p>
+<p><a href="http://twitter.com/brentsimmons">brentsimmons</a>: At Jillian&#8217;s &#8212; Tommy&#8217;s next. <a href="http://twitter.com/brentsimmons/statuses/830143187" style="color: gray;">Sun 07:45 PM</a></p>
+<p><a href="http://twitter.com/dmoren">dmoren</a>: chilling with <a href="http://twitter.com/clint">@clint</a> and <a href="http://twitter.com/ejacqui">@ejacqui</a>. I do not know where in SF they have taken me. Hope I make it to the keynote tomorrow. <a href="http://twitter.com/dmoren/statuses/830171232" style="color: gray;">Sun 08:38 PM</a></p>
+<p><a href="http://twitter.com/bmf">bmf</a>: Tommy&#8217;s&#8217;d!  <a href="http://snipurl.com/2en8i">http://snipurl.com/2en8i</a> <a href="http://twitter.com/bmf/statuses/830230969" style="color: gray;">Sun 10:47 PM</a></p>
+<p><a href="http://twitter.com/ccgus">ccgus</a>: chiefton! <a href="http://twitter.com/ccgus/statuses/830249960" style="color: gray;">Sun 11:34 PM</a></p>
+<p><a href="http://twitter.com/gruber">gruber</a>: Fucking-A, <a href="http://twitter.com/nevenmrgan">@nevenmrgan</a>, <a href="http://twitter.com/seoulbrother">@seoulbrother</a>, <a href="http://twitter.com/manton">@manton</a>, not a bad scene at all. <a href="http://twitter.com/gruber/statuses/830269227" style="color: gray;">Mon 12:21 AM</a></p>
+<p><a href="http://twitter.com/danielpunkass">danielpunkass</a>: I&#8217;m so not going to Denny&#8217;s. I am at home away from home in my sweet friends&#8217; guest room.  Final tweets then good night. <a href="http://twitter.com/danielpunkass/statuses/830320977" style="color: gray;">Mon 02:21 AM</a></p>
+<p><a href="http://twitter.com/rtmfd">rtmfd</a>: Running on fumes, tequila fumes. <a href="http://twitter.com/rtmfd/statuses/830460332" style="color: gray;">Mon 06:35 AM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Set my alarm for 9am. Woke at 7 with the sun streaming through the windows. Aeiii. <a href="http://twitter.com/manton/statuses/830505383" style="color: gray;">Mon 07:34 AM</a></p>
+<p><a href="http://twitter.com/chockenberry">chockenberry</a>: I will be happy to demo [REDACTED] apps during WWDC. You can touch it. <a href="http://twitter.com/chockenberry/statuses/830531851" style="color: gray;">Mon 08:07 AM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: And I&#8217;m in. <a href="http://twitter.com/manton/statuses/830615998" style="color: gray;">Mon 09:53 AM</a></p>
+<p><a href="http://twitter.com/moonshark">moonshark</a>: in the WWDC keynote, good view considering the crowds <a href="http://twitter.com/moonshark/statuses/830618276" style="color: gray;">Mon 09:56 AM</a></p>
+<p><a href="http://twitter.com/atomicbird">atomicbird</a>: Al Gore is here <a href="http://twitter.com/atomicbird/statuses/830624299" style="color: gray;">Mon 10:02 AM</a></p>
+<p><a href="http://twitter.com/gruber">gruber</a>: Holy shit $199 for 8GB <a href="http://twitter.com/gruber/statuses/830711083" style="color: gray;">Mon 11:48 AM</a></p>
+<p><a href="http://twitter.com/twelvelabs">twelvelabs</a>: Happy to finally get to see several months of my work shared with the rest of the world. <a href="http://twitter.com/twelvelabs/statuses/830721560" style="color: gray;">Mon 12:07 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Apple published a Snow Leopard press release before even showing developers? Not cool. <a href="http://twitter.com/manton/statuses/830786921" style="color: gray;">Mon 01:28 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Graphics and Media, don&#8217;t let us down. I&#8217;m hovering dangerously between disappointed and satisfied from this morning and early afternoon. <a href="http://twitter.com/manton/statuses/830919148" style="color: gray;">Mon 04:58 PM</a></p>
+<p><a href="http://twitter.com/brentsimmons">brentsimmons</a>: Heading for buzz&#8217;s party. <a href="http://twitter.com/brentsimmons/statuses/830987259" style="color: gray;">Mon 06:57 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Dinner and good &quot;best of the day&quot; discussion with <a href="http://twitter.com/willie">@willie</a>, <a href="http://twitter.com/moonshark">@moonshark</a>, and work folks. Heading to Buzz party. <a href="http://twitter.com/manton/statuses/831041429" style="color: gray;">Mon 08:31 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Choosing sleep. <a href="http://twitter.com/manton/statuses/831150334" style="color: gray;">Tue 12:24 AM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Forget 3G, forget GPS. You know what I would pay $199 for? Flagging messages in MobileMail. <a href="http://twitter.com/manton/statuses/831154649" style="color: gray;">Tue 12:35 AM</a></p>
+<p><a href="http://twitter.com/buzz">buzz</a>: Well, I think we can call the party a success. <a href="http://twitter.com/buzz/statuses/831158426" style="color: gray;">Tue 12:45 AM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Guessed i picked the wrong session. Mostly new people based on the show of hands. <a href="http://twitter.com/manton/statuses/831513074" style="color: gray;">Tue 10:40 AM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Session hopping is much better than seeing yet another intro to Xcode demo. <a href="http://twitter.com/manton/statuses/831532425" style="color: gray;">Tue 11:07 AM</a></p>
+<p><a href="http://twitter.com/ashponders">ashponders</a>: <a href="http://twitter.com/manton">@manton</a> is not carrying anything today. I am jealous. <a href="http://twitter.com/ashponders/statuses/831542065" style="color: gray;">Tue 11:24 AM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: iPhone view controllers. Nice thing about only playing with the SDK a little is that I&#8217;ll learn more this week. <a href="http://twitter.com/manton/statuses/831631640" style="color: gray;">Tue 01:43 PM</a></p>
+<p><a href="http://twitter.com/brentsimmons">brentsimmons</a>: CocoaHeads tonight. 7-9 Apple</p>
+<p>Store. Presentations + Q&amp;A. <a href="http://twitter.com/brentsimmons/statuses/831642031" style="color: gray;">Tue 01:59 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Almost the end of day 2, and I&#8217;m not sick of the iPhone yet. <a href="http://twitter.com/manton/statuses/831740813" style="color: gray;">Tue 04:46 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: W too busy. Grabbing quick noodles at Metreon before CocoaHeads. <a href="http://twitter.com/manton/statuses/831799181" style="color: gray;">Tue 06:30 PM</a></p>
+<p><a href="http://twitter.com/louielouie">louielouie</a>: At CocoaHeads WWDC &#8211; getting to hear about Objective-J first-hand woohoo <a href="http://twitter.com/louielouie/statuses/831819625" style="color: gray;">Tue 07:05 PM</a></p>
+<p><a href="http://twitter.com/ccgus">ccgus</a>: I just realized I didn&#8217;t demo acorn in my pres <a href="http://twitter.com/ccgus/statuses/831841921" style="color: gray;">Tue 07:45 PM</a></p>
+<p><a href="http://twitter.com/brentsimmons">brentsimmons</a>: Heading to Ars party. <a href="http://twitter.com/brentsimmons/statuses/831894138" style="color: gray;">Tue 09:21 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Good presentations at CocoaHeads. Outside full Ars party wondering what&#8217;s next. <a href="http://twitter.com/manton/statuses/831904216" style="color: gray;">Tue 09:43 PM</a></p>
+<p><a href="http://twitter.com/brentsimmons">brentsimmons</a>: Tempest. Yest. <a href="http://twitter.com/brentsimmons/statuses/831952468" style="color: gray;">Tue 11:31 PM</a></p>
+<p><a href="http://twitter.com/macdevnet">macdevnet</a>: Back from Cocoaheads and Ars Party,  I think I&#8217;m getting to old for this. Great to spend some time getting to know <a href="http://twitter.com/manton">@manton</a> though <a href="http://twitter.com/macdevnet/statuses/831973900" style="color: gray;">Wed 12:10 AM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Why can&#8217;t I sleep in? This is annoying. It&#8217;s as if my kids are here virtually, waking me up across time zones. <a href="http://twitter.com/manton/statuses/832196022" style="color: gray;">Wed 07:14 AM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Pixar session is always good, got in early. Wonder what <a href="http://twitter.com/SenorDanimal">@SenorDanimal</a> is up to. <a href="http://twitter.com/manton/statuses/832408241" style="color: gray;">Wed 12:06 PM</a></p>
+<p><a href="http://twitter.com/ccgus">ccgus</a>: I lost manton <a href="http://twitter.com/ccgus/statuses/832409404" style="color: gray;">Wed 12:08 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Push stuff is elegant, but the team doesn&#8217;t seem to understand the scale of what they are building. <a href="http://twitter.com/manton/statuses/832523085" style="color: gray;">Wed 03:04 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Grand Central Dispatch. Cool stuff. Looking forward to randomly using blocks a lot before the fun wears off. <a href="http://twitter.com/manton/statuses/832561925" style="color: gray;">Wed 04:06 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Apple Design Awards. I didn&#8217;t enter, so I&#8217;m almost relaxed. Good luck to all. <a href="http://twitter.com/manton/statuses/832683095" style="color: gray;">Wed 07:33 PM</a></p>
+<p><a href="http://twitter.com/willie">willie</a>: At ADA. We didnt enter because our lack of superfluous shiny technologies <a href="http://twitter.com/willie/statuses/832685683" style="color: gray;">Wed 07:37 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Congrats to <a href="http://twitter.com/nevenmrgan">@nevenmrgan</a> on the ADA win! <a href="http://twitter.com/manton/statuses/832704774" style="color: gray;">Wed 08:09 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Twitterific won! Congrats <a href="http://twitter.com/chockenberry">@chockenberry</a>, well deserved. <a href="http://twitter.com/manton/statuses/832707582" style="color: gray;">Wed 08:14 PM</a></p>
+<p><a href="http://twitter.com/atomicbird">atomicbird</a>: Best iPhone productivity app: OmniFocus <a href="http://twitter.com/atomicbird/statuses/832708565" style="color: gray;">Wed 08:15 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Going to stay for at least part of Stump to support <a href="http://twitter.com/willie">@willie</a>&#8216;s addiction. <a href="http://twitter.com/manton/statuses/832728408" style="color: gray;">Wed 08:50 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: I don&#8217;t usually sit this close to the front. Scared. <a href="http://twitter.com/manton/statuses/832736737" style="color: gray;">Wed 09:05 PM</a></p>
+<p><a href="http://twitter.com/willie">willie</a>: Involved in 2 stump points for the crowd this year. Rock. James Brown and the Quadra 840av. <a href="http://twitter.com/willie/statuses/832771891" style="color: gray;">Wed 10:15 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: A surprising number of people I know are winning Stump t-shirts this year. <a href="http://twitter.com/manton/statuses/832777809" style="color: gray;">Wed 10:28 PM</a></p>
+<p><a href="http://twitter.com/brentsimmons">brentsimmons</a>: At chieftain. 5th and Howard. <a href="http://twitter.com/brentsimmons/statuses/832786727" style="color: gray;">Wed 10:47 PM</a></p>
+<p><a href="http://twitter.com/brentsimmons">brentsimmons</a>: Tempest now, folks. <a href="http://twitter.com/brentsimmons/statuses/832844759" style="color: gray;">Thu 01:02 AM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Using the iPod dock in the hotel room. Strange, but the first time I&#8217;ve actually ever used a radio dock. Sounds good! <a href="http://twitter.com/manton/statuses/833078042" style="color: gray;">Thu 07:57 AM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Wish there were Apple t-shirt sizes between kids 7 and adult small. Preferably in pink. <a href="http://twitter.com/manton/statuses/833163270" style="color: gray;">Thu 09:48 AM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Sitting in on Advanced Ajax for a change of pace. <a href="http://twitter.com/manton/statuses/833187042" style="color: gray;">Thu 10:20 AM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Typing lyrics into Google on iPhone to expand my WWDC music playlist. <a href="http://twitter.com/manton/statuses/833194080" style="color: gray;">Thu 10:29 AM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: <a href="http://twitter.com/atomicbird">@atomicbird</a> Tom Dowdy. It was a great tribute. <a href="http://twitter.com/manton/statuses/833198801" style="color: gray;">Thu 10:36 AM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Wasn&#8217;t going to see Dinosaurs, but intrigued after hearing a better description. <a href="http://twitter.com/manton/statuses/833274403" style="color: gray;">Thu 12:26 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Just passed <a href="http://twitter.com/schwa">@schwa</a> talking enthusiastically to a trash can. Then noticed the earbuds. <a href="http://twitter.com/manton/statuses/833391515" style="color: gray;">Thu 03:34 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Debugging with WebKit session. Inspector just keeps getting better. Still like CSSEdit, buy may use it less. <a href="http://twitter.com/manton/statuses/833407538" style="color: gray;">Thu 04:01 PM</a></p>
+<p><a href="http://twitter.com/danmessing">danmessing</a>: Apple bash time. <a href="http://twitter.com/danmessing/statuses/833501356" style="color: gray;">Thu 06:48 PM</a></p>
+<p><a href="http://twitter.com/gruber">gruber</a>: Thirsty Bear with Buzz Andersen and other malfeasants. <a href="http://twitter.com/gruber/statuses/833571459" style="color: gray;">Thu 09:05 PM</a></p>
+<p><a href="http://twitter.com/buzz">buzz</a>: Drinking a Golden Vanilla beer with assorted Mac noteables at the Thirsty Bear. <a href="http://twitter.com/buzz/statuses/833577181" style="color: gray;">Thu 09:16 PM</a></p>
+<p><a href="http://twitter.com/willie">willie</a>: Barenaked Ladies &#8211; <a href="http://snaptweet.com/20fd8">http://snaptweet.com/20fd8</a> &lt;a href=&#8221;http://twitter.com/wi</p>
+<p>llie/statuses/833603172&#8243; style=&#8221;color: gray;&#8221;>Thu 10:09 PM</a></p>
+<p><a href="http://twitter.com/moonshark">moonshark</a>: Bare Naked Ladies &#8211; Apple WWDC Bash &#8211; <a href="http://snaptweet.com/3d7d5">http://snaptweet.com/3d7d5</a> <a href="http://twitter.com/moonshark/statuses/833604083" style="color: gray;">Thu 10:11 PM</a></p>
+<p><a href="http://twitter.com/dmoren">dmoren</a>: totally just film-geeked out with <a href="http://twitter.com/nevenmrgan">@nevenmrgan</a>. Hitchcock, bitches. <a href="http://twitter.com/dmoren/statuses/833655550" style="color: gray;">Thu 11:23 PM</a></p>
+<p><a href="http://twitter.com/brentsimmons">brentsimmons</a>: Heading to Tempest. <a href="http://twitter.com/brentsimmons/statuses/833669620" style="color: gray;">Thu 11:56 PM</a></p>
+<p><a href="http://twitter.com/danielpunkass">danielpunkass</a>: Tempest tonight was perfect crowd. Could have used several more hours of that scenario. &#8216;Tis a shame. <a href="http://twitter.com/danielpunkass/statuses/833735259" style="color: gray;">Fri 02:27 AM</a></p>
+<p><a href="http://twitter.com/bmf">bmf</a>: Dan M. wrote the &quot;e&quot; and ate the shit out of some toast. <a href="http://twitter.com/bmf/statuses/833750445" style="color: gray;">Fri 03:01 AM</a></p>
+<p><a href="http://twitter.com/danielpunkass">danielpunkass</a>: I got my ride home thanks to <a href="http://twitter.com/manton">@manton</a>&#8216;s cab allowance. Thanks! <a href="http://twitter.com/danielpunkass/statuses/833753030" style="color: gray;">Fri 03:06 AM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Last WWDC session. It&#8217;s been a great week but can&#8217;t wait to be home. <a href="http://twitter.com/manton/statuses/834195760" style="color: gray;">Fri 01:58 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Dropped my badge at the hotel and going to wonder around. To everyone I missed saying goodbye to: safe travels and seeya next time! <a href="http://twitter.com/manton/statuses/834243580" style="color: gray;">Fri 03:17 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: <a href="http://twitter.com/brentsimmons">@brentsimmons</a> <a href="http://twitter.com/rtmfd">@rtmfd</a> I&#8217;m going to take a raincheck on last drinks until the next conference, need to go shopping. Was good to hang out. <a href="http://twitter.com/manton/statuses/834251030" style="color: gray;">Fri 03:30 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: The Ms Pac-man in the W lobby doesn&#8217;t need quarters. Fun. <a href="http://twitter.com/manton/statuses/834258211" style="color: gray;">Fri 03:43 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Visiting the Cartoon Art Museum. <a href="http://twitter.com/manton/statuses/834269211" style="color: gray;">Fri 04:04 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Walking to Chinatown in search of gifts. <a href="http://twitter.com/manton/statuses/834313339" style="color: gray;">Fri 05:24 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Walking back to the hotel using the longest possible route. Feel very relaxed. <a href="http://twitter.com/manton/statuses/834335957" style="color: gray;">Fri 06:08 PM</a></p>
+<p><a href="http://twitter.com/duncan">duncan</a>: Taking <a href="http://twitter.com/willie">@willie</a> <a href="http://twitter.com/manton">@manton</a> <a href="http://twitter.com/phi">@phi</a> Daniel and crew to Luce. Oh yeah. Celebration of a long week. <a href="http://twitter.com/duncan/statuses/834362558" style="color: gray;">Fri 07:01 PM</a></p>
+<p><a href="http://twitter.com/willie">willie</a>: dining with <a href="http://twitter.com/pinar">@pinar</a> <a href="http://twitter.com/duncan">@duncan</a> <a href="http://twitter.com/moonshark">@moonshark</a> <a href="http://twitter.com/manton">@manton</a> &amp; others. Good times. <a href="http://twitter.com/willie/statuses/834373474" style="color: gray;">Fri 07:23 PM</a></p>
+<p><a href="http://twitter.com/willie">willie</a>: Pantade &#8211; <a href="http://snaptweet.com/dc8bd">http://snaptweet.com/dc8bd</a> <a href="http://twitter.com/willie/statuses/834381917" style="color: gray;">Fri 07:41 PM</a></p>
+<p><a href="http://twitter.com/willie">willie</a>: Bisque &#8211; <a href="http://snaptweet.com/d901c">http://snaptweet.com/d901c</a> <a href="http://twitter.com/willie/statuses/834381923" style="color: gray;">Fri 07:41 PM</a></p>
+<p><a href="http://twitter.com/ccgus">ccgus</a>: A great WWDC photo set: <a href="http://tinyurl.com/5rtwpu">http://tinyurl.com/5rtwpu</a> <a href="http://twitter.com/ccgus/statuses/834407793" style="color: gray;">Fri 08:33 PM</a></p>
+<p><a href="http://twitter.com/willie">willie</a>: Study of Chocolate &#8211; <a href="http://snaptweet.com/04f07">http://snaptweet.com/04f07</a> <a href="http://twitter.com/willie/statuses/834411384" style="color: gray;">Fri 08:41 PM</a></p>
+<p><a href="http://twitter.com/danielpunkass">danielpunkass</a>: I&#8217;m committing to never beat myself up again for missing lots of sessions at WWDC.  The social contacts are priceless and inspirational. <a href="http://twitter.com/danielpunkass/statuses/834440697" style="color: gray;">Fri 09:45 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Great dinner with the work folks + <a href="http://twitter.com/duncan">@duncan</a>, <a href="http://twitter.com/pinarozger">@pinarozger</a>, and Daniel Steinberg (no twit?). <a href="http://twitter.com/willie">@willie</a> has the food photos. <a href="http://twitter.com/manton/statuses/834450863" style="color: gray;">Fri 10:08 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: And that&#8217;s it. Catching a taxi to SFO. WWDC review: worst keynote, best conference week. <a href="http://twitter.com/manton/statuses/834629607" style="color: gray;">Sat 06:27 AM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Landed in Austin. Pretty funny flight crew made the trip back easier. <a href="http://twitter.com/manton/statuses/834853749" style="color: gray;">Sat 01:31 PM</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2008/08/wwdc_2008_wrapup.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>WWDC 2007 in one post</title>
+		<link>http://www.manton.org/2007/06/wwdc_2007_in.html</link>
+		<comments>http://www.manton.org/2007/06/wwdc_2007_in.html#comments</comments>
+		<pubDate>Mon, 18 Jun 2007 12:50:09 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[leopard]]></category>
+		<category><![CDATA[moof]]></category>
+		<category><![CDATA[parties]]></category>
+		<category><![CDATA[tuaw]]></category>
+		<category><![CDATA[wwdc]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/06/wwdc_2007_in.html</guid>
+		<description><![CDATA[Along with most of our house, my office is packed up and ready to move this week. The photo to the right is of one of the handful of items in a box labeled &#8220;Manton&#8217;s desk,&#8221; or, if someone else had her way, &#8220;Random junk Manton saves to remember the past but which should really [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img src="http://www.manton.org/images/2007/moof_beer.jpg" alt="Moof" width="150" height="265" border="0" align="right" hspace="5" vspace="6" style="border: 1px solid gray;" /> Along with most of our house, my office is packed up and ready to move this week. The photo to the right is of one of the handful of items in a box labeled &#8220;Manton&#8217;s desk,&#8221; or, if someone else had her way, &#8220;Random junk Manton saves to remember the past but which should really be in the trash can.&#8221;</p>
+<p>It&#8217;s unopened Moof beer from WWDC 1996, my first WWDC. At 20 I was too young to drink, but I probably would have saved it anyway. That was back when Apple gave you cool stuff and not just another cheap laptop bag.</p>
+<p>This year&#8217;s WWDC will probably go down as one of my favorites. The keynote was a bit dull, but it was offset by the reality that Leopard is a mature and usable system. I have been running all my primary apps off of it since last week, including Mail.app, NetNewsWire 3.0, and Xcode.</p>
+<p>I couldn&#8217;t place the feeling at the time, but now I realize that last week&#8217;s sessions were, in a way, relaxing. There was no sense of urgency. Most of the sessions I attended were practical, full of hands-on advice for preparing for Leopard and many applicable to Tiger development as well. I got a lot out of the week, and when I decided to skip out on Friday it didn&#8217;t feel like the world would come crashing down because of it.</p>
+<p><img src="http://www.manton.org/images/2007/james_morrison.jpg" alt="James Morrison" width="300" height="226" hspace="8" vspace="5" border="0" align="left" style="border: 1px solid gray;" /> Other highlights of WWDC 2007 were away from the sessions: walking Chinatown with &#8220;Willie&#8221;:http://willie.tumblr.com/ on Sunday in search of the illusive bakery item; hitting the &#8220;SF Mac Indie party&#8221;:http://sfmacindie.com/ that night and hanging out with fellow developers afterwards; Buzz Andersen&#8217;s party Monday, catching up with &#8220;Lane&#8221;:http://www.monstro.com/ and the host; the &#8220;Dan Benjamin&#8221;:http://www.hivelogic.com/ annual breakfast; Apple &#8220;Design Awards&#8221;:http://developer.apple.com/wwdc/ada/ on Tuesday, which had a record number of wins for <em>apps I&#8217;ve actually used</em>; accidentally walking into a James Morrison concert at the Apple Store (left photo); being interviewed by Scott McNulty of &#8220;TUAW&#8221;:http://www.tuaw.com/, though I secretly hope they will decide not to air it; enjoying great Italian with the &#8220;VitalSource&#8221;:http://www.vitalsource.com/ team on Wednesday before catching the tail end of &#8220;CocoaHeads&#8221;:http://theocacao.com/document.page/480; plus the Apple Bash and more drinks and discussion Thursday night.</p>
+<p>Like at &#8220;SXSW earlier this year&#8221;:http://www.manton.org/2007/03/twitterconf.html, Twitter proves both cool and useful. I was lucky enough to meet many of the people on my Twitter friends list for the first time last week.</p>
+<p>Of course it wasn&#8217;t all fun and games. I sifted through more legitimate Bookshelf bug reports than usual; I was exhausted pretty much every day; and there were a couple developers I had hoped to seek out that I just never made the time to.</p>
+<p>All in all, though, a good week and now I&#8217;m ready to get back to coding.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2007/06/wwdc_2007_in.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.071 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:50:14 -->

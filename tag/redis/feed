@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; redis</title>
+	<atom:link href="http://www.manton.org/tag/redis/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Twitter&#8217;s modern architecture</title>
+		<link>http://www.manton.org/2013/07/twitters_modern_architecture.html</link>
+		<comments>http://www.manton.org/2013/07/twitters_modern_architecture.html#comments</comments>
+		<pubDate>Tue, 09 Jul 2013 14:25:19 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[redis]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/07/twitters_modern_architecture.html</guid>
+		<description><![CDATA[I love this detailed write-up of the Twitter backend as it exists today. Sending a tweet to your followers uses a massive Redis cluster with a couple terabytes of RAM: “Let’s say you tweet and you have 20K followers. What the fanout daemon will do is look up the location of all 20K users inside [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I love <a href="http://highscalability.com/blog/2013/7/8/the-architecture-twitter-uses-to-deal-with-150m-active-users.html">this detailed write-up of the Twitter backend</a> as it exists today. Sending a tweet to your followers uses a massive Redis cluster with a couple terabytes of RAM:</p>
+<blockquote><p>
+  “Let’s say you tweet and you have 20K followers. What the fanout daemon will do is look up the location of all 20K users inside the Redis cluster. Then it will start inserting the Tweet ID of the tweet into all those lists throughout the Redis cluster. So for every write of a tweet as many as 20K inserts are occurring across the Redis cluster.”
+</p></blockquote>
+<p>A listener of <a href="http://coreint.org/">Core Intuition</a> asked me today if I had second thoughts about no longer using Twitter, especially since I still maintain a Twitter app. We’ll discuss this on a future episode, but the short answer is: no, I don’t regret it. I have a huge amount of respect for what Twitter has built at a technical level, and for the opportunities it gives people to communicate. I just don’t like their attitude toward developers.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/07/twitters_modern_architecture.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Redis-only migration</title>
+		<link>http://www.manton.org/2011/10/redisonly_migration.html</link>
+		<comments>http://www.manton.org/2011/10/redisonly_migration.html#comments</comments>
+		<pubDate>Tue, 25 Oct 2011 20:20:10 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[ec2]]></category>
+		<category><![CDATA[heroku]]></category>
+		<category><![CDATA[redis]]></category>
+		<category><![CDATA[tweetmarker]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2011/10/redisonly_migration.html</guid>
+		<description><![CDATA[The best critique and praise for Heroku is that it&#8217;s opinionated: only deploy with Git, only use PostgreSQL. On the whole this is a good thing, because it simplifies the choices that developers have to make. Fewer choices means more time to spend on things that matter. But at $200/month for a dedicated database, there&#8217;s [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The best critique and praise for Heroku is that it&#8217;s opinionated: only deploy with Git, only use PostgreSQL. On the whole this is a good thing, because it simplifies the choices that developers have to make. Fewer choices means more time to spend on things that matter.</p>
+<p>But at $200/month for a dedicated database, there&#8217;s a very real cost with PostgreSQL on Heroku. For a service like &#8220;Tweet Marker&#8221;:http://tweetmarker.net/ that is currently free, I wanted to save money on hosting and simplify things down to a single database. I might have preferred to streamline to PostgreSQL-only, since it&#8217;s rock solid and Heroku&#8217;s tools are excellent for managing backups and moving data around, but Resque (which Tweet Marker uses to process background work) is built on Redis. If I wanted to streamline to a single database, it had to be to Redis.</p>
+<p>Tweet Marker as essentially an OAuth-wrapped key/value store anyway, so why burden the app with a full relational database? The handful of extra tables I had for tracking users and sessions could also be migrated to Redis. And even though it&#8217;s a memory database at heart, it is persistent, so I can use it for real data.</p>
+<p>I conducted the transition in stages:</p>
+<ul>
+<li>First, I was using Redis for stats. Because Redis has an atomic increment command, it&#8217;s trivial to use it to keep counters on various metrics: total number of reads/writes per hour, day, or month, broken down by different Twitter clients. This was my first use of Redis outside Resque tasks and it performed great.</p>
+</li>
+<li>
+<p>Next, I moved the marker data. I wrote a script to dump all the data from PostgreSQL to Redis, and at the same time modified Tweet Marker to write data to both locations when requests came in. I let that run for about 2 days to confirm that the data was identical in both places before shutting PostgreSQL down and routing reads to Redis only.</p>
+</li>
+<li>
+<p>Finally, I finished moving some additional tables to Redis so that I could completely shutdown PostgreSQL. Again, simple is better.</p>
+</li>
+</ul>
+<p>All of this was using Heroku&#8217;s &#8220;Redis To Go&#8221;:https://redistogo.com/ add-on. I love it because there&#8217;s no configuration; click a couple buttons and you have a server. But as soon as I was running full time on Redis To Go, I started to be concerned that I had given up a great amount of control over my data. While Redis To Go conveniently offers daily backup snapshots, it doesn&#8217;t appear to have any commands for restoring data or otherwise getting access to the server and Redis files. And though I could probably set up a separate Redis To Go instance and manually send it a slaveof command to turn it into a slave, not being able to edit the config file meant that if the server was rebooted I would lose the slave until it could be reset. Not good.</p>
+<p>I also expected I would quickly outgrow the smaller Redis To Go plans, eventually forcing the monthly pricing up to the same level as I was paying for PostgreSQL, but with less control. I had to run my own database server instead. And because Heroku is all on Amazon EC2, it also had to be on EC2 for the best performance between web server and database.</p>
+<p>I went to work provisioning an EC2 instance. Initially it ran as a Redis slave to the master on Redis To Go. After I felt comfortable with EC2 and had automated backups in place, I added a separate instance on Amazon for the master and switched the app over to it. The cost for 2 &#8220;micro&#8221; instances is about the same as I was paying for Redis To Go, but with much more available memory, hourly backups to S3, and access to the Redis aof log. And my total monthly hosting costs are about half what they were before.</p>
+<p>I&#8217;m hoping to keep this setup for at least the rest of the year and well into next. As the Tweet Marker user base grows, I&#8217;ll bump up to higher-capacity EC2 instances. Heroku continues to be really great, so I don&#8217;t expect to change anything there.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2011/10/redisonly_migration.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.654 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:43:13 -->

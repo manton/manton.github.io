@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; jobs</title>
+	<atom:link href="http://www.manton.org/tag/jobs/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Core Int jobs testimonials</title>
+		<link>http://www.manton.org/2015/04/core-int-jobs-testimonials.html</link>
+		<comments>http://www.manton.org/2015/04/core-int-jobs-testimonials.html#comments</comments>
+		<pubDate>Wed, 22 Apr 2015 03:35:59 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[jobs]]></category>
+		<category><![CDATA[resumes]]></category>
+		<category><![CDATA[testimonials]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2582</guid>
+		<description><![CDATA[We’ve been lucky to see some great job listings appear on Core Intuition Jobs. Companies are getting good résumés and job applicants are finding the kind of job they’ve always wanted. When we hear from companies who have hired someone, we like to include a brief testimonial on the sidebar of the site. We’re about [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We’ve been lucky to see some great job listings appear on <a href="http://jobs.coreint.org/">Core Intuition Jobs</a>. Companies are getting good résumés and job applicants are finding the kind of job they’ve always wanted.</p>
+<p>When we hear from companies who have hired someone, we like to include a brief testimonial on the sidebar of the site. We’re about to add this one from Ken Drew at iRobot:</p>
+<blockquote><p>
+  “Our experience with the Core Intuition Jobs board went beyond our expectations. It provided higher caliber candidates for our recent iOS developer position. After doing code reviews for the candidate we eventually hired, we are more than pleased with who we found.”
+</p></blockquote>
+<p>Thank you to everyone who <a href="http://www.coreint.org/">listens to the podcast</a> or watches <a href="http://twitter.com/coreintjobs">on Twitter</a> for new job listings. The opportunities for iOS and Mac developers have never been better. Get the job you want or find the next great member of your team.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/04/core-int-jobs-testimonials.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Omni gets Brent, and a SilverPine update</title>
+		<link>http://www.manton.org/2014/09/omni-gets-brent-and-a-silverpine-update.html</link>
+		<comments>http://www.manton.org/2014/09/omni-gets-brent-and-a-silverpine-update.html#comments</comments>
+		<pubDate>Mon, 29 Sep 2014 19:39:57 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[indie]]></category>
+		<category><![CDATA[jobs]]></category>
+		<category><![CDATA[omni]]></category>
+		<category><![CDATA[silverpine]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2291.html</guid>
+		<description><![CDATA[We are so lucky in the Mac and iOS developer community that there are a number of ways to be successful. The most common: Work for someone else at their company. Work for yourself as an indie developer. Work for clients as a contractor or consultant. Any mix of the above or all 3. There&#8217;s [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We are so lucky in the Mac and iOS developer community that there are a number of ways to be successful. The most common:</p>
+<ul>
+<li>Work for someone else at their company.</li>
+<li>Work for yourself as an indie developer.</li>
+<li>Work for clients as a contractor or consultant.</li>
+<li>Any mix of the above or all 3.</li>
+</ul>
+<p>There&#8217;s no right answer. What works for one developer might be a poor choice for someone else. And throughout our careers, we may move between any of these different paths depending on what life and family require.</p>
+<p>Today, Brent Simmons announced that he&#8217;s making one of those moves. <a href="http://inessential.com/2014/09/29/omni">He&#8217;s starting at Omni</a>, and he&#8217;ll continue to work on Vesper as well:</p>
+<blockquote><p>
+  &#8220;I love that I get to work on both Vesper and on Omni apps. Omni is one of the great Cocoa development companies, and they’ve grown slowly and steadily over many years. They write lovable productivity apps — not just great iOS apps but also great <em>Mac</em> apps.&#8221;
+</p></blockquote>
+<p>Also today, Jon Hays announced that <a href="http://jonathanhays.me/2014/09/29/state-of-the-pines-6-months/">his 6-month-old company SilverPine is doing great</a>, and they&#8217;ve finished a bunch of client projects:</p>
+<blockquote><p>
+  &#8220;To say that some days my hair feels like it’s on fire is an understatement. That being said, I wouldn’t trade it for the world. The work we do is creative, challenging, cutting edge and very rewarding.&#8221;
+</p></blockquote>
+<p>Congrats to both! Change is exciting. It&#8217;s great to see friends happy doing what they love.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/09/omni-gets-brent-and-a-silverpine-update.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Core Intuition Jobs</title>
+		<link>http://www.manton.org/2014/02/core_intuition_jobs.html</link>
+		<comments>http://www.manton.org/2014/02/core_intuition_jobs.html#comments</comments>
+		<pubDate>Fri, 21 Feb 2014 21:44:19 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[jobs]]></category>
+		<category><![CDATA[podcast]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/02/core_intuition_jobs.html</guid>
+		<description><![CDATA[This week we launched the Core Intuition Jobs site on episode 125 of the podcast. The idea was to create a job board focused only around Mac and iOS developers. The 24 jobs already listed there all talk about Objective-C, Cocoa, ARC, or Xcode, so you don’t need to weed through a giant list of [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>This week we launched the <a href="http://jobs.coreint.org/">Core Intuition Jobs</a> site on <a href="http://www.coreint.org/2014/02/episode-125-never-feeling-relaxed-again/">episode 125 of the podcast</a>. The idea was to create a job board focused only around Mac and iOS developers. The 24 jobs already listed there all talk about Objective-C, Cocoa, ARC, or Xcode, so you don’t need to weed through a giant list of thousands of irrelevant jobs. There are some really great companies in the list.</p>
+<p>We’ve also added <a href="http://jobs.coreint.org/rss.xml">an RSS feed</a>, so you can see when new jobs are posted, and we’ll be rolling out <a href="https://twitter.com/coreintjobs">@coreintjobs</a> on Twitter and <a href="https://alpha.app.net/coreintjobs">App.net</a> soon. Even if you’re not actively looking for a new position, subscribing to the feed or following @coreintjobs is a great way to see some of the amazing work being done in the Cocoa community.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/02/core_intuition_jobs.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Sunlit sync and publishing</title>
+		<link>http://www.manton.org/2014/01/sunlit_sync_and.html</link>
+		<comments>http://www.manton.org/2014/01/sunlit_sync_and.html#comments</comments>
+		<pubDate>Mon, 20 Jan 2014 23:20:15 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[adn]]></category>
+		<category><![CDATA[jobs]]></category>
+		<category><![CDATA[macworld]]></category>
+		<category><![CDATA[oversharekit]]></category>
+		<category><![CDATA[sunlit]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/01/sunlit_sync_and.html</guid>
+		<description><![CDATA[It was Macworld Expo in 1997, and Steve Jobs had just come back to Apple. Somehow I was lucky enough to get a seat in the keynote, and I sat there with a big grin on my face as Steve came out to talk about NeXTSTEP, which would eventually become the foundation for Mac OS [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>It was Macworld Expo in 1997, and Steve Jobs had just come back to Apple. Somehow I was lucky enough to get a seat in the keynote, and I sat there with a big grin on my face as Steve came out to talk about NeXTSTEP, which would eventually become the foundation for Mac OS X. He likened developing an app to constructing a building, one level at a time. A good OS allowed you to build higher.</p>
+<p>Microsoft’s DOS gave you very little, so you had to start at the ground floor. Developing for the Mac and Windows was like starting out on a 5-story building. But the developer tools from NeXT were like starting out on the 20th floor, because they were so advanced, because they “lifted the developer up” and let apps be developed more quickly than if you had to deal with all the basic foundational stuff every app needs.</p>
+<p>I think the App.net API is that same kind of advancement for apps compared to most other web APIs. It is significantly more consistent and full-featured than anything else out there.</p>
+<p><a href="http://sunlit.io/">Sunlit</a> syncs stories and photos with App.net, using your App.net private file storage (for storing photo data) as well as private channels and messages (for syncing story titles, permissions, and other metadata). We like this solution because everyone who signs in to the app with their App.net credentials gets sync automatically. It also means that if you authorize other apps to see your App.net files, you can manage the data Sunlit syncs there, or get it out again without us having to directly build an export feature.</p>
+<p>(Although we do offer a number of export choices in Sunlit, such as saving photos to your camera roll, sharing them on social networks, or sending them to any app that supports “Open In”. We do this <a href="http://jonathanhays.me/2014/01/20/sharing-about-overshare/">with OvershareKit</a>.)</p>
+<p>Publishing in Sunlit is another feature that utilizes App.net file storage. It allows you to take a story — photos and text — and publish it to a URL. The URL is public, but it’s not linked from anywhere unless you directly share the URL with someone. This makes it convenient for quickly publishing a set of photos and sending the link to family, for example.</p>
+<p>Here’s what the published stories currently look like: <a href="http://sunlit.io/manton/nationalparks">http://sunlit.io/manton/nationalparks</a></p>
+<p>On the surface this may look like Sunlit is uploading photos and other data to sunlit.io, where it’s probably stored in a relational database or on the server filesystem somewhere. But that’s not how it works at all.</p>
+<p>The iPhone app actually uploads all photos to App.net file storage, marks the new files public, then generates a static HTML page and also uploads <em>that</em> to App.net. It then registers the story with sunlit.io, which caches the HTML just to make things a little faster. We never store any photos on sunlit.io itself, instead merely referencing their public URLs on App.net. (View source on the page to see the proof.)</p>
+<p>This difference means you can move the site anywhere just by copying files from App.net, with any number of available <a href="https://directory.app.net/">file management tools</a>. Or just copy the HTML file to your own server to serve the page from your own domain. The CSS and JavaScript is all bundled inline in the HTML, except jQuery, which loads from a URL.</p>
+<p>We think this approach makes the whole system a lot more flexible and open. Your data is never hidden inside the app and your published pages are never locked behind a server.</p>
+<p>Several months ago <a href="http://www.manton.org/2013/08/waiting_for_appnets.html">I wrote this about App.net</a>:</p>
+<blockquote><p>
+  “The promise of App.net is bigger than one type of app. App.net isn’t just a blank slate; it’s an amplifier. It’s waiting to power the next new idea and help it grow into something big.”
+</p></blockquote>
+<p>I still believe that. It’s making apps easier to build and more powerful, just like NeXTSTEP was. There’s really no other web platform like it. That’s why we picked it for Sunlit.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/01/sunlit_sync_and.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Congratulations, you&#8217;re a manager</title>
+		<link>http://www.manton.org/2010/08/congratulations_youre_a.html</link>
+		<comments>http://www.manton.org/2010/08/congratulations_youre_a.html#comments</comments>
+		<pubDate>Sun, 08 Aug 2010 19:09:36 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[indie]]></category>
+		<category><![CDATA[jobs]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[riverfold]]></category>
+		<category><![CDATA[vitalsource]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2010/08/congratulations_youre_a.html</guid>
+		<description><![CDATA[The sort of odd &#8220;best of both worlds&#8221; balance in my different projects at &#8220;VitalSource&#8221;:http://www.vitalsource.com/ and as a solo shop is that I love working with a team, and I also love working alone. I mean really alone, doing the planning and design and coding and marketing. I&#8217;ve resisted farming out any piece of my [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The sort of odd &#8220;best of both worlds&#8221; balance in my different projects at &#8220;VitalSource&#8221;:http://www.vitalsource.com/ and as a solo shop is that I love working with a team, and I also love working alone. I mean really alone, doing the planning and design and coding and marketing. I&#8217;ve resisted farming out any piece of my apps at &#8220;Riverfold&#8221;:http://www.riverfold.com/ (except the application icon) so that I can have complete control. It&#8217;s brutally hard sometimes, but it&#8217;s mine.</p>
+<p>If you&#8217;re working by yourself and add another person to the project, a funny thing happens: you become a manager. Before, you could spend 100% of your time on the work. Now you can allocate 50-75%, because you&#8217;re getting the new programmer up to speed, answering questions, and setting priorities. If you&#8217;re lucky (and I usually am), the person you added is contributing so much that it easily makes up for your loss in productivity, and then some.</p>
+<p>The trade-off is worth it. Exchange the previous low communication overhead for extra coding man-hours.</p>
+<p>You can build something great with a team, something that would be impossible alone, if you surround yourself with people who are better at your job than you are. I love that first moment when a team doubles in size from 1 to 2, or 2 to 4.</p>
+<p>But after the initial frenzy of coding and emails and new features, I usually get burned out again. The project doesn&#8217;t strictly need me anymore, and I&#8217;m ready to get back to starting an app from scratch, when the scope is so small that the whole thing still fits in my head.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2010/08/congratulations_youre_a.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Software product myth</title>
+		<link>http://www.manton.org/2009/01/software_product_myth.html</link>
+		<comments>http://www.manton.org/2009/01/software_product_myth.html#comments</comments>
+		<pubDate>Sat, 24 Jan 2009 20:47:42 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[expenses]]></category>
+		<category><![CDATA[jobs]]></category>
+		<category><![CDATA[riverfold]]></category>
+		<category><![CDATA[vitalsource]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2009/01/software_product_myth.html</guid>
+		<description><![CDATA[&#8220;Rob Walling has a good post&#8221;:http://www.softwarebyrob.com/2009/01/07/expenses-you-dont-think-of-when-starting-a-business/ about all the expenses it&#8217;s easy to overlook when starting a software business. The most insightful line is this: &#8220;The point of The Software Product Myth is that at some point you are going to have too few sales to support yourself monetarily, yet too much work to fit [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>&#8220;Rob Walling has a good post&#8221;:http://www.softwarebyrob.com/2009/01/07/expenses-you-dont-think-of-when-starting-a-business/ about all the expenses it&#8217;s easy to overlook when starting a software business. The most insightful line is this:</p>
+<blockquote><p>&#8220;The point of The Software Product Myth is that at some point you are going to have too few sales to support yourself monetarily, yet too much work to fit comfortably into your evenings and weekends.&#8221;</p></blockquote>
+<p>This rings true for me. Wii Transfer is too successful to abandon, but not successful enough that I can retire to a beach house. Luckily I love the &#8220;people I work with&#8221;:http://www.vitalsource.com/, but I&#8217;ll admit that running Riverfold on the side is making me a little bit nuts.</p>
+<p>I guess the &#8220;good news&#8221; is that I&#8217;m pretty used to too much work and too little sleep.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2009/01/software_product_myth.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Spoiled by iTunes, and the future of music</title>
+		<link>http://www.manton.org/2007/02/spoiled_by_itunes.html</link>
+		<comments>http://www.manton.org/2007/02/spoiled_by_itunes.html#comments</comments>
+		<pubDate>Thu, 08 Feb 2007 05:37:22 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Music]]></category>
+		<category><![CDATA[cds]]></category>
+		<category><![CDATA[itunes]]></category>
+		<category><![CDATA[jobs]]></category>
+		<category><![CDATA[music]]></category>
+		<category><![CDATA[steve]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/02/spoiled_by_itunes.html</guid>
+		<description><![CDATA[I have been &#8220;iTunes-free for four weeks now&#8221;:http://www.manton.org/2007/01/goodbye_itms.html, and I hate it. It must be like quitting smoking, except without the fear of dying always at your back. I stopped by a Best Buy the other day and couldn&#8217;t find any CDs to buy. How do you shop for music without listening to it first? [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I have been &#8220;iTunes-free for four weeks now&#8221;:http://www.manton.org/2007/01/goodbye_itms.html, and I hate it. It must be like quitting smoking, except without the fear of dying always at your back. I stopped by a Best Buy the other day and <em>couldn&#8217;t find any CDs to buy</em>. How do you shop for music without listening to it first? How do you find new artists without &#8220;customers also bought&#8230;&#8221; sidebars? Years ago I might listen to the radio to discover new music, but that was before the dial was permanently stuck on NPR.</p>
+<p>&#8220;Steve Jobs dropped the bomb&#8221;:http://www.apple.com/hotnews/thoughtsonmusic/ while I was at lunch yesterday, and I furiously read and re-read it and watched the fallout. Blog entries in NetNewsWire lit up like clockwork. As &#8220;I posted to Twitter&#8221;:http://twitter.com/manton, when the balance tips again to user control we&#8217;ll look back at this as a real shift in thinking. And the reason you know it&#8217;s true is because it sounds redundant to say the words.</p>
+<p>But today&#8230; I browsed for music on iTunes and then ordered CDs from Amazon.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2007/02/spoiled_by_itunes.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Disney buys Pixar</title>
+		<link>http://www.manton.org/2006/01/disney_buys_pixar.html</link>
+		<comments>http://www.manton.org/2006/01/disney_buys_pixar.html#comments</comments>
+		<pubDate>Tue, 24 Jan 2006 23:52:56 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Animation]]></category>
+		<category><![CDATA[animation]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[disney]]></category>
+		<category><![CDATA[jobs]]></category>
+		<category><![CDATA[lasseter]]></category>
+		<category><![CDATA[pixar]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2006/01/disney_buys_pixar.html</guid>
+		<description><![CDATA[It was made official today. The rumor only surfaced a week ago, but in that time many people have gone from surprise and skepticism to hope that maybe it could be great for both companies. For Pixar, it might mean more creative control over their characters and sequels, plus not having to worry about distribution [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.latimes.com/business/la-012406pixar_lat,0,67769.story?coll=la-home-headlines">It was made official today</a>. The rumor only surfaced a week ago, but in that time many people have gone from surprise and skepticism to hope that maybe it could be great for both companies. For Pixar, it might mean more creative control over their characters and sequels, plus not having to worry about distribution or settling for a partner without the reach into merchandising and vacation spots that Disney has. Interestingly, John Lasseter will also advise on new theme park attractions.</p>
+<p>In the old days under Walt, it was common for artists to move between short films, features, and Disneyland design. Walt had a knack for seeing the best skills in people and using them wherever they could be most effective. He also had an instinct for story, a relentless pursuit of quality, and of what people would want to see, or how to sell it. Steve Jobs shares more than a few of these qualities, even if his management style at Pixar has been to delegate more than micromanage. Could Jobs pull another NeXT and infuse Disney with Pixar management and culture, or will he be content to sit on the board and coordinate deals with Apple for video content? Who knows.</p>
+<p>For Disney, the benefits of the deal are pretty obvious, since all of the Pixar films have been huge money-makers. What&#8217;s less clear is what will happen to all the films currently in production at Disney. We have to assume they will continue mostly unchanged. Disney had a rough and controversial transition to 3d, with many layoffs and studio closures, but they did make the transition and this deal will probably upset that just a little.</p>
+<p>There is also still that dream that with a leader (Lasseter) who appreciates traditional 2d animation, Disney might even buy back some of those old animation desks and give 2d another try. Although some of the great directors of the 2nd golden age at Disney have left (such as Ron Clements and John Musker of The Little Mermaid and Aladdin), Disney still has many 2d-trained directors, and now so does Pixar (Brad Bird), with enough 2d fans throughout both companies to form another studio branch entirely.</p>
+<p>I read a bunch of weblogs by artists at Disney and Pixar now, so hopefully their views will start to trickle in too. Good luck to everyone at both studios.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2006/01/disney_buys_pixar.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 2.162 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:17:02 -->

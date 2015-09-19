@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; filters</title>
+	<atom:link href="http://www.manton.org/tag/filters/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Watermark export using Dropbox</title>
+		<link>http://www.manton.org/2012/09/watermark_export_using.html</link>
+		<comments>http://www.manton.org/2012/09/watermark_export_using.html#comments</comments>
+		<pubDate>Thu, 13 Sep 2012 13:16:51 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[dropbox]]></category>
+		<category><![CDATA[export]]></category>
+		<category><![CDATA[filters]]></category>
+		<category><![CDATA[watermark]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2012/09/watermark_export_using.html</guid>
+		<description><![CDATA[I’ve been making Watermark better. Sometimes it’s small tweaks or bug fixes; other times, more noticeable new features. Because it’s a subscription, I’m determined to improve it quickly and often. I don’t write about most of these changes, but the new Dropbox sync in Watermark deserves special attention. Watermark originally shipped without any kind of [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I’ve been making <a href="http://watermark.io/">Watermark</a> better. Sometimes it’s small tweaks or bug fixes; other times, more noticeable new features. Because it’s a subscription, I’m determined to improve it quickly and often. I don’t write about most of these changes, but the new Dropbox sync in Watermark deserves special attention.</p>
+<p>Watermark originally shipped without any kind of export feature. This was a glaring omission for an archiving tool. But because of the large number of tweets stored by Watermark — some users have hundreds of thousands of tweets from their friends in the app — a simple export wasn’t feasible. I could have offered an export of just your own tweets, but then you also have the fairly clunky step of waiting for the server to gather tweets together, then downloading a file from your web browser, finding where to store it or the previous downloaded copy to replace it with.</p>
+<p>Dropbox sync fixes that. Watermark can now automatically copy tweets (and App.net posts) from your saved filters and custom collections to CSV files on Dropbox. For example, search Watermark for “iPhone 5”, click “Save as filter”, and the most recent 1000 tweets matching that query will appear in a file called “iPhone_5.csv” on Dropbox. It keeps running in the background, so the files are updated every hour as new tweets matching the search are downloaded by Watermark, even if you aren’t signed in.</p>
+<p>See the <a href="http://watermark.io/app/account">account page and FAQ</a> for details and a sign-in link to authorize Watermark with Dropbox.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2012/09/watermark_export_using.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Saved tweet filters</title>
+		<link>http://www.manton.org/2012/04/saved_tweet_filters.html</link>
+		<comments>http://www.manton.org/2012/04/saved_tweet_filters.html#comments</comments>
+		<pubDate>Fri, 13 Apr 2012 02:04:54 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[filters]]></category>
+		<category><![CDATA[plus]]></category>
+		<category><![CDATA[tweetmarker]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2012/04/saved_tweet_filters.html</guid>
+		<description><![CDATA[When I created &#8220;Tweet Marker Plus&#8221;:http://tweetmarker.net/plus, I thought I was creating a new way to search Twitter. Limit the search to just people you follow and you can store more tweets, and more relevant ones. But as I&#8217;ve been adding new features to it, I&#8217;m realizing that Tweet Marker Plus is really a new kind [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>When I created &#8220;Tweet Marker Plus&#8221;:http://tweetmarker.net/plus, I thought I was creating a new way to search Twitter. Limit the search to just people you follow and you can store more tweets, and more relevant ones. But as I&#8217;ve been adding new features to it, I&#8217;m realizing that Tweet Marker Plus is really a new kind of Twitter client &mdash; a client that has search and filters at its core.</p>
+<p>Here&#8217;s what the sidebar looks like in my Tweet Marker Plus account:</p>
+<p><img src="http://www.manton.org/images/2012/saved_filters.png" alt="saved filters" border="0" width="267" height="332" /></p>
+<p>Seems simple enough. But quickly switching between saved filters is very powerful. Because Tweet Marker is routinely fetching new tweets in the background, even when you haven&#8217;t opened your web browser in days or weeks, <em>there are no gaps in the timeline</em>. When I use a filter, it&#8217;s showing me everything that any of the people I follow have said since I first started using Tweet Marker Plus.</p>
+<p>I&#8217;m excited about this. I&#8217;ll keep adding features and growing the storage, to make Tweet Marker Plus the best value $2/month could possibly get you.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2012/04/saved_tweet_filters.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Tweet Library filters</title>
+		<link>http://www.manton.org/2011/02/tweet_library_filters.html</link>
+		<comments>http://www.manton.org/2011/02/tweet_library_filters.html#comments</comments>
+		<pubDate>Sun, 13 Feb 2011 02:08:25 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[filters]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2011/02/tweet_library_filters.html</guid>
+		<description><![CDATA[&#8220;John Chandler wrote a nice post&#8221;:http://www.byjohnchandler.com/2011/01/28/filter-friday/ on the filters he uses in various Twitter apps. Here&#8217;s a clever one for &#8220;you missed it&#8221;: &#8220;I try to limit how many people I follow so I can read most of what they say. So, if they preface a tweet with something like &#8216;If you missed it,&#8217; or [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>&#8220;John Chandler wrote a nice post&#8221;:http://www.byjohnchandler.com/2011/01/28/filter-friday/ on the filters he uses in various Twitter apps. Here&#8217;s a clever one for <em>&#8220;you missed it&#8221;</em>:</p>
+<blockquote><p>&#8220;I try to limit how many people I follow so I can read most of what they say. So, if they preface a tweet with something like &#8216;If you missed it,&#8217; or &#8216;In case you missed it,&#8217; I probably didn&#8217;t.&#8221;</p></blockquote>
+<p>As I mentioned in the comments, I have a few filters I like too, such as filtering out all old-style RTs. I even experimented with filtering out all hashtags. It&#8217;s great when I want to completely un-clutter the timeline of gimmicky tweets, but I can keep the filter toggled off when I have more time to read.</p>
+<p>The advantage of how I built filters in &#8220;Tweet Library&#8221;:http://www.riverfold.com/software/tweetlibrary/ is that they are dynamic collections inside the app, kind of like smart playlists in iTunes. This means while it filters the junk out of my timeline, I can still occasionally go and review what it filtered out.</p>
+<p>(I just submitted Tweet Library 1.2.1 to the App Store with a handful of bug fixes. Hopefully it&#8217;ll be approved soon.)</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2011/02/tweet_library_filters.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.112 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:38:59 -->

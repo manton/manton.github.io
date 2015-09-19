@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; siracusa</title>
+	<atom:link href="http://www.manton.org/tag/siracusa/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>John Siracusa’s unbreakable record</title>
+		<link>http://www.manton.org/2015/04/john-siracusas-unbreakable-record.html</link>
+		<comments>http://www.manton.org/2015/04/john-siracusas-unbreakable-record.html#comments</comments>
+		<pubDate>Fri, 17 Apr 2015 17:22:12 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[mac]]></category>
+		<category><![CDATA[siracusa]]></category>
+		<category><![CDATA[spurs]]></category>
+		<category><![CDATA[writing]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2577</guid>
+		<description><![CDATA[I’ve been watching a lot of NBA games this season. I’ve caught well over half of the Spurs’s 82 games so far alone, on TV and SiriusXM in the car (and a few in person in San Antonio). I’m not sure how far they’ll make it, but you can’t argue with the greatness of this [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I’ve been watching a lot of NBA games this season. I’ve caught well over half of the Spurs’s 82 games so far alone, on TV and SiriusXM in the car (and a few in person in San Antonio). <a href="http://www.manton.org/2015/04/2575.html">I’m not sure</a> how far they’ll make it, but you can’t argue with the greatness of this team over so many years.</p>
+<p>The NBA has some records that just seem unbreakable. Either because the rules or style of play have evolved in the modern era, or because the records were insane at the time, these are feats we may not see again. <a href="http://www.foxsports.com/nba/lists/10-unbreakable-NBA-records">Here are 10 such records</a>, from Wilt Chamberlain’s 100-point game to the Laker’s 33-game winning streak to Bill Russell’s 11 championships. The Spurs’s 16-year streak of 50-win seasons is approaching this category of success as well.</p>
+<p>That’s kind of how I view John Siracusa’s <a href="http://arstechnica.com/apple/2015/04/after-fifteen-years-ars-says-goodbye-to-john-siracusas-os-x-reviews/">series of Mac OS X reviews on Ars Technica</a>. There have been other excellent reviews about Mac OS X over the years, but the depth and consistency of John’s reviews may always stand apart. If you’re starting today and want to top it, you will have to work for the next 15 years just to be competitive at all.</p>
+<p><a href="http://hypercritical.co/2015/04/15/os-x-reviewed">Congratulations John</a> on a great run. Nothing seems to last forever on the internet — web sites fade away, and some obscure technology isn’t well-covered to begin with — so it’s nice to know that these Mac OS X reviews are at a stable site where we’ll be able to reference them for years to come.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/04/john-siracusas-unbreakable-record.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>John Siracusa has an excellent Jaguar article</title>
+		<link>http://www.manton.org/2002/09/john_siracusa_has.html</link>
+		<comments>http://www.manton.org/2002/09/john_siracusa_has.html#comments</comments>
+		<pubDate>Fri, 06 Sep 2002 15:37:08 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[finder]]></category>
+		<category><![CDATA[jaguar]]></category>
+		<category><![CDATA[siracusa]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2002/09/john_siracusa_has.html</guid>
+		<description><![CDATA[John Siracusa has an excellent Jaguar article over at Ars Technica. A long read, but worth it. One highlight: &#8220;And forget about any truly forward-looking features akin to Copland&#8217;s saved searches or BeOS&#8217;s metadata-powered custom views. Put simply, the Finder, once the crown jewel of the Mac user interface, no longer seems to be a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>John Siracusa has an <a href="http://www.arstechnica.com/reviews/02q3/macosx-10.2/macosx-10.2-1.html">excellent Jaguar article</a> over at Ars Technica. A long read, but worth it. One highlight:</p>
+<blockquote><p>&#8220;And forget about any truly forward-looking features akin to Copland&#8217;s saved searches or BeOS&#8217;s metadata-powered custom views. Put simply, the Finder, once the crown jewel of the Mac user interface, no longer seems to be a priority at Apple.&#8221;</p></blockquote>
+<p>And don&#8217;t miss this gem:</p>
+<blockquote><p>&#8220;I&#8217;ll be damned if I&#8217;m going to use antialiased text or anything larger than a 9pt font on a Unix command line. [&#8230;] Is there a special MAKE_SPACING_NOT_LOOK_LIKE_ASS flag that they&#8217;re using?&#8221;</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2002/09/john_siracusa_has.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 2.892 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:13:20 -->

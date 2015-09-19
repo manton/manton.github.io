@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; iphone</title>
+	<atom:link href="http://www.manton.org/tag/iphone/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Wrap-up thoughts on the TV web</title>
+		<link>http://www.manton.org/2015/09/wrap-up-thoughts-on-the-tv-web.html</link>
+		<comments>http://www.manton.org/2015/09/wrap-up-thoughts-on-the-tv-web.html#comments</comments>
+		<pubDate>Fri, 18 Sep 2015 14:58:39 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[appletv]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[openweb]]></category>
+		<category><![CDATA[steve]]></category>
+		<category><![CDATA[wap]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3048</guid>
+		<description><![CDATA[I&#8217;m going to mostly let John Gruber have the last word on the Apple TV vs. the web debate, because I could write about this every day and my readers would run away before I run out of material. I&#8217;m glad John addressed the Mac vs. the command-line argument, though, because it didn&#8217;t seem quite [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;m going to mostly let John Gruber <a href="http://daringfireball.net/linked/2015/09/17/apple-tv-and-the-web">have the last word</a> on the Apple TV vs. the web debate, because I could write about this every day and my readers would run away before I run out of material. I&#8217;m glad John addressed the Mac vs. the command-line argument, though, because it didn&#8217;t seem quite right to me either. He says:</p>
+<blockquote><p>
+  &#8220;The difference is that the command-line-less Mac was intended to <em>replace</em> command-line-based computers. The GUI relegated the command-line interface to a permanent tiny niche. Apple TV and Apple Watch aren’t like that at all — they’re not meant to replace any device you already use to access the open web.&#8221;
+</p></blockquote>
+<p>This is the most hopeful part of the Apple ecosystem as it relates to the web. Apple&#8217;s other platforms really do have a great web experience. Remember when web sites were faster and worked better on a PC than a Mac? If anything, the opposite is true now.</p>
+<p>One of the themes I keep hearing is that a &#8220;web browser&#8221; on a TV will make for a poor user experience, so don&#8217;t bother. I tried to correct that misunderstanding in <a href="http://www.manton.org/2015/09/the-web-without-html.html">this post</a>; it&#8217;s not about standalone Safari, it&#8217;s about web technologies that could be used in native apps. But ignoring that, I think everyone too easily forgets what the mobile web was like before the iPhone.</p>
+<p>Steve Jobs, from the original iPhone introduction:</p>
+<blockquote><p>
+  &#8220;We wanted the best web browser in the world on our phone. Not a baby web browser or a WAP browser — a <em>real</em> browser. [&#8230;] It is the first fully usable HTML browser on a phone.&#8221;
+</p></blockquote>
+<p>That was a breakthrough. I believe the same evolution is possible on tvOS — to include parts of the open web and do it with a great user experience. You can start by weaving it together inside native apps. (I <a href="http://openradar.appspot.com/radar?id=6066362971586560">filed a bug with Apple</a> yesterday with a suggestion. It was marked as a duplicate.)</p>
+<p>The web is at a fascinating, pivotal time right now. It has been shaken up by centralized publishing, closed platforms, and now content blockers. Users no longer value the concepts that made <a href="https://en.wikipedia.org/wiki/Web_2.0">Web 2.0</a> special. The web can still have a strong future, but we have to <em>try something</em>, and we have to try it on every platform we can.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/09/wrap-up-thoughts-on-the-tv-web.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Matt Bonner and the iPhone 6</title>
+		<link>http://www.manton.org/2015/07/matt-bonner-and-the-iphone-6.html</link>
+		<comments>http://www.manton.org/2015/07/matt-bonner-and-the-iphone-6.html#comments</comments>
+		<pubDate>Tue, 07 Jul 2015 19:18:21 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[basketball]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[spurs]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2826</guid>
+		<description><![CDATA[I’ve always said the iPhone 6 and 6 Plus are ginormous. In an interview with the Concord Monitor, San Antonio Spurs player Matt Bonner speculates that reaching his fingers across that screen contributed to an elbow injury: “‘Everybody is going to find this hilarious, but here’s my theory on how I got it,’ he said. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I’ve always said the iPhone 6 and 6 Plus are ginormous. <a href="http://www.concordmonitor.com/community/town-by-town/concord/17589745-95/rapping-and-rocking-with-matt-bonner">In an interview with the Concord Monitor</a>, San Antonio Spurs player Matt Bonner speculates that reaching his fingers across that screen contributed to an elbow injury:</p>
+<blockquote><p>
+  “‘Everybody is going to find this hilarious, but here’s my theory on how I got it,’ he said. ‘When the new iPhone came out it was way bigger than the last one, and I think because I got that new phone it was a strain to use it, you have to stretch further to hit the buttons, and I honestly think that’s how I ended up developing it.’”
+</p></blockquote>
+<p>Bring on the iPhone 6C in a 4-inch plastic design. The current phones are dangerously too big.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/07/matt-bonner-and-the-iphone-6.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Why Ello isn’t enough</title>
+		<link>http://www.manton.org/2015/06/why-ello-isnt-enough.html</link>
+		<comments>http://www.manton.org/2015/06/why-ello-isnt-enough.html#comments</comments>
+		<pubDate>Sun, 21 Jun 2015 21:33:07 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[blogs]]></category>
+		<category><![CDATA[ello]]></category>
+		<category><![CDATA[fonts]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[social]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2758</guid>
+		<description><![CDATA[Last week, to not much fanfare at all because nearly everyone had already lost interest, Ello shipped their iPhone app. Credit to them for attempting to build a new social network, because this is extremely difficult. But it seems to me that Ello is a bust. They needed a more compelling pitch than simply “no [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Last week, to not much fanfare at all because nearly everyone had already lost interest, <a href="http://ello.co/">Ello</a> shipped their iPhone app. Credit to them for attempting to build a new social network, because this is extremely difficult. But it seems to me that Ello is a bust. They needed a more compelling pitch than simply “no ads”.</p>
+<p>(I’ve heard some people joke about Ello’s monospaced font, but I kind of love that about Ello. If you want to differentiate yourself, design isn’t a bad place to start.)</p>
+<p>App.net was — and likely will be for many more years — the most successful attempt to compete with Twitter and Facebook. If they fell short, despite how many things they got right, how can another clone of existing social networks hope to do any better?</p>
+<p>I wish I could cheer Ello on. Spend enough time clicking around on Ello and you discover a niche but fascinating community, full of beautiful art and photos. It’s just that after so many months, there’s still not even a mention of an official API on the <a href="https://ello.co/wtf/resources/feature-list/">planned features page</a>.</p>
+<p>The next great social platform can’t be yet another centralized system. It has to be more distributed and more open even than App.net. It has to focus on writing and bloggers and embrace what is good about the web. Ello doesn’t do any of these things.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/06/why-ello-isnt-enough.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>No perfect iPhone size</title>
+		<link>http://www.manton.org/2015/04/no-perfect-iphone-size.html</link>
+		<comments>http://www.manton.org/2015/04/no-perfect-iphone-size.html#comments</comments>
+		<pubDate>Tue, 07 Apr 2015 15:59:05 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[6plus]]></category>
+		<category><![CDATA[color]]></category>
+		<category><![CDATA[iphone]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2546</guid>
+		<description><![CDATA[Some people bought the iPhone 6 and then went back to the 5S. Some people bought the iPhone 6 Plus and then tried the 6. Some worked their way up to the 6 Plus after adapting to the 6. Some never upgraded to the 6 or 6 Plus because both are too big. Marco’s post [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Some people bought the iPhone 6 and then went back to the 5S. Some people bought the iPhone 6 Plus and then tried the 6. Some worked their way up to the 6 Plus after adapting to the 6. Some never upgraded to the 6 or 6 Plus because both are too big.</p>
+<p><a href="http://www.marco.org/2015/04/06/life-with-the-iphone-6-plus">Marco’s post</a> is a good formal summary of a few write-ups I’ve read this week:</p>
+<blockquote><p>
+  “Having used an iPhone 6 full-time from its launch until these 6 Plus experiments over the last few weeks, I can confidently say that neither phone is extremely well-designed. Both have nontrivial and completely avoidable flaws. But the 6 Plus has bigger advantages over the other phones, while the 6 seems to sit in a mediocre middle ground.”
+</p></blockquote>
+<p>The lesson from all these switches couldn&#8217;t be more clear: there&#8217;s no longer one perfect iPhone for everyone. What works great for one person might be terrible for someone else. I personally love the 5C design — the size of the screen, the way the plastic feels in my hand, flipping or spinning it on my fingers without worry that it’ll slip, using it without a case, adding <a href="http://mattgemmell.com/colours/">a little color</a> to my life — but many people never even tried it because it contains underpowered hardware compared to the latest models.</p>
+<p>Apple would be crazy to discontinue any size. I&#8217;m more convinced than ever that we&#8217;ll see a 4-inch 6C alongside a new 6S and 6S Plus later this year. They won&#8217;t have identical specs, and that&#8217;s okay. I&#8217;ll happily pick the 4-inch model even if its camera is a year behind the cutting edge. The iPhone market is so ginormous now that I know there are millions of people who feel the same way.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/04/no-perfect-iphone-size.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>iPhone 6 Plus is still huge</title>
+		<link>http://www.manton.org/2015/02/iphone-6-plus-is-still-huge.html</link>
+		<comments>http://www.manton.org/2015/02/iphone-6-plus-is-still-huge.html#comments</comments>
+		<pubDate>Mon, 09 Feb 2015 21:13:35 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[iphone]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2470</guid>
+		<description><![CDATA[Seth Clifford goes back to the iPhone 6 after a long time with the Plus: “I was convinced that the unique size and abilities of the Plus would change the way I use my phone. In my mind, it was large enough to be a small tablet, and I would do so many more things [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://sethclifford.me/2015/02/08/the-iphone-6-is-my-new-phone/">Seth Clifford</a> goes back to the iPhone 6 after a long time with the Plus:</p>
+<blockquote><p>
+  “I was convinced that the unique size and abilities of the Plus would change the way I use my phone. In my mind, it was large enough to be a small tablet, and I would do so many more things on it, potentially obviating the need for an iPad. That didn’t happen for a variety of reasons.”
+</p></blockquote>
+<p>As for me, I’m still using the iPhone 5C and think the design is nearly perfect. I wish I had the iPhone 6’s camera, but I’m not upgrading phones until Apple ships a “6C” next year with a 4-inch screen.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/02/iphone-6-plus-is-still-huge.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The third era of WWDC</title>
+		<link>http://www.manton.org/2014/05/the_third_era.html</link>
+		<comments>http://www.manton.org/2014/05/the_third_era.html#comments</comments>
+		<pubDate>Wed, 28 May 2014 16:26:16 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[mac]]></category>
+		<category><![CDATA[sanfrancisco]]></category>
+		<category><![CDATA[wwdc]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/05/the_third_era.html</guid>
+		<description><![CDATA[“This is it,” a friend said to me as we were walking up Market Street with other developers, late at night as WWDC was winding down several years ago. The iPhone had hit. The conference was getting bigger. Apple was on the verge of becoming a giant in the industry and you could feel it [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>“This is it,” a friend said to me as we were walking up Market Street with other developers, late at night as WWDC was winding down several years ago. The iPhone had hit. The conference was getting bigger. Apple was on the verge of becoming a giant in the industry and you could feel it in the air — a coming change that was obvious only from a distance because it disappeared as you reached for it, like San Francisco fog rolling over the bay. “This is the height of the conference and it’s never going to be like this again.”</p>
+<p>Looking back it perfectly captured what I think of as the second “era” of WWDC. It was a kind of golden age for Mac and iOS developers, with a new generation of successful Mac indies and before the iOS race to the bottom was much past the starting line.</p>
+<p>From my perspective, learning Mac development in the mid 90s, there are three distinct eras of Apple’s WWDC. My first WWDCs were at the San Jose Convention Center. The developer base was small enough that you consistently ran into everyone, companies like Metrowerks and even Adobe seemed to have an influence on the conference, and Apple frequently showed off new APIs that might not actually ship soon or ever. It was an exciting time to be a Mac developer but the rest of the world didn’t care. This was the backdrop for the failed Copland project, for Steve Jobs coming back, for the clash between Carbon and Cocoa, and the acceptance of Mac OS X.</p>
+<p>The next era was at the move to San Francisco. The conference was getting bigger but Apple attempted to keep the events and themes that made WWDC the same, even for a while busing attendees to the beer bash in Cupertino. This is the time when the iPhone SDK arrived and the conference exploded. I think most developers will always look back at this time as something amazing. It’s the backdrop for that walk up Market Street and a dozen similar conversations.</p>
+<p>Now we’re in the third modern era of WWDC, with one undeniable characteristic: a small percentage of developers can get a ticket to the conference. The community, however, is as strong as ever, and there’s still a desire to have WWDC be that “one place” that developers can meet each year. It’s a need that smaller, regional conferences, no matter how important they are, just can’t fill.</p>
+<p>I like <a href="http://jamesdempsey.net/2014/04/18/life-without-wwdc/">this post from James Dempsey</a> because it starts with the assumption that <em>not</em> getting a WWDC ticket is the new normal:</p>
+<blockquote><p>
+  “Once something changes from being dependably available to rarely available, you begin to form alternate plans and take alternate paths.”
+</p></blockquote>
+<p>He’s right. Since it’s likely that Apple will continue to iterate slowly instead of making major changes to grow the conference, we’re better off adapting. By adapting we can focus on preserving the community aspects of WWDC that are arguably just as important as the technical tracks.</p>
+<p>And change comes slowly to WWDC. I realized while watching (https://developer.apple.com/tech-talks/videos/) recently that Apple just doesn’t see a big problem. John Geleynse described a situation where only one person from a team is at WWDC; the rest of the company is back at the office watching videos and sending questions to their coworker at the conference to ask in the labs. Getting videos out the same day makes the conference more useful for both those without a ticket and actual attendees (and their team) too.</p>
+<p>(I still have complaints about how WWDC tickets are distributed and why Apple doesn’t attempt to grow the conference a little more, but the lottery is an improvement over last year. See Core Intuition <a href="http://coreint.org/132">episodes 132</a> and <a href="http://coreint.org/133">133</a> for a full discussion.)</p>
+<p>I’ll be in San Francisco for a few days next week — at <a href="http://www.altconf.com/">AltConf</a>, at the <a href="http://guestlistapp.com/events/250698">Cartoon Art Museum fundraiser</a>, catching up on session videos, <a href="http://bb.zaarly.com">waiting in line</a> for coffee, hiding in my hotel room writing code, and getting some good food and drink with fellow developers. WWDC means something different now, but it matters just as much as it always has. Hope to see you there.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/05/the_third_era.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Launch Center Pro and Sunlit</title>
+		<link>http://www.manton.org/2014/01/launch_center_pro.html</link>
+		<comments>http://www.manton.org/2014/01/launch_center_pro.html#comments</comments>
+		<pubDate>Thu, 30 Jan 2014 23:20:17 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[launchcenterpro]]></category>
+		<category><![CDATA[sunlit]]></category>
+		<category><![CDATA[urls]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/01/launch_center_pro.html</guid>
+		<description><![CDATA[I’ve long been a fan of Launch Center Pro, an iPhone app from my local Texas friends David Barnard and Justin Youens. It’s handy even for fairly simple tasks — firing off web searches or other shortcuts into apps — but it’s especially powerful when wiring up multiple apps together. For Sunlit it was nice [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I’ve long been a fan of <a href="http://contrast.co/launch-center-pro/">Launch Center Pro</a>, an iPhone app from my local Texas friends David Barnard and Justin Youens. It’s handy even for fairly simple tasks — firing off web searches or other shortcuts into apps — but it’s especially powerful when wiring up multiple apps together. For Sunlit it was nice to provide some full actions that Launch Center Pro users could use to automate bringing content into Sunlit.</p>
+<p>Jonathan has <a href="http://jonathanhays.me/2014/01/28/the-schemes-of-sunlit/">the full rundown on the URL schemes</a> that Sunlit supports and why we think they’re important. You can also use the Action Composer inside Launch Center Pro to access these actions without having to type them in.</p>
+<p>And just today, <a href="http://www.macstories.net/reviews/launch-center-pro-for-ipad-review/">Launch Center Pro for iPad shipped</a>. Check it out and explore <a href="http://actions.contrast.co">some of the many apps</a> like <a href="http://sunlit.io/">Sunlit</a> that are supported.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/01/launch_center_pro.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Apple’s misunderstood ad</title>
+		<link>http://www.manton.org/2013/12/apples_misunderstood_ad.html</link>
+		<comments>http://www.manton.org/2013/12/apples_misunderstood_ad.html#comments</comments>
+		<pubDate>Tue, 17 Dec 2013 05:32:59 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[ads]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[tv]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/12/apples_misunderstood_ad.html</guid>
+		<description><![CDATA[Apple has produced some amazing ads over the years. 1984, introducing the original Mac; the Think Different campaign; and one of my favorite this year, about photos. Their new ad “Misunderstood” is also great. Federico Viticci has a rundown of the details and how brilliantly it unfolds. I first noticed the video via Neven Mrgan, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Apple has produced some amazing ads over the years. 1984, introducing the original Mac; the Think Different campaign; and one of my favorite this year, <a href="http://www.youtube.com/watch?v=NoVW62mwSQQ">about photos</a>.</p>
+<p>Their new ad “Misunderstood” is also great. <a href="http://www.macstories.net/news/apple-airs-iphone-5s-holiday-commercial-featuring-airplay/">Federico Viticci has a rundown</a> of the details and how brilliantly it unfolds. I first noticed the video via Neven Mrgan, who had <a href="https://alpha.app.net/mrgan/post/17528712">this to say on App.net</a>:</p>
+<blockquote><p>
+  “Apple’s new ad (‘Misunderstood’) is technically perfect: <a href="https://www.youtube.com/watch?v=ImlmVqH_5HM">https://www.youtube.com/watch?v=ImlmVqH_5HM</a> …but I have to say it doesn’t quite ring true to me. Kids use iPhones to shut out the family and hang out within their own social circle (and that’s ok).”
+</p></blockquote>
+<p>He’s right. My daughters will likely escape to Instagram and various chat apps to connect with their friends through the holidays. But also I think ads like this work so well not because they represent reality, not because they’re true, but because we want them to be.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/12/apples_misunderstood_ad.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Searching abandoned apps</title>
+		<link>http://www.manton.org/2013/04/searching_abandoned_apps.html</link>
+		<comments>http://www.manton.org/2013/04/searching_abandoned_apps.html#comments</comments>
+		<pubDate>Mon, 08 Apr 2013 17:34:22 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[nicemohawk]]></category>
+		<category><![CDATA[old]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/04/searching_abandoned_apps.html</guid>
+		<description><![CDATA[Ben Lachman has some good suggestions after my post and David Smith’s on what to do with abandoned apps, saying that apps should be more clearly labelled as “abandoned”. Which device you’re using could also have an impact on search results: “Search results could be weighted by the device you are using quite heavily. Just [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://nicemohawk.com/blog/2013/03/making-the-app-store-a-nicer-place/">Ben Lachman has some good suggestions</a> after <a href="http://www.manton.org/2013/03/app_store_old_app.html">my post</a> and <a href="http://david-smith.org/blog/2013/03/21/purging-the-back-catalog/">David Smith’s</a> on what to do with abandoned apps, saying that apps should be more clearly labelled as “abandoned”. Which device you’re using could also have an impact on search results:</p>
+<blockquote><p>
+  “Search results could be weighted by the device you are using quite heavily. Just like how on iPhone you don’t see iPad-only apps when searching the app store; on iPhone 5 you should be very unlikely to see apps that only support 3.5-inch screens.”
+</p></blockquote>
+<p>Makes sense to me. Also check out his comment at the end, that kids these days may have a very difficult time revisiting the classic apps from today, 20 years from now.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/04/searching_abandoned_apps.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Three ADN clients for iPhone</title>
+		<link>http://www.manton.org/2013/03/three_adn_clients.html</link>
+		<comments>http://www.manton.org/2013/03/three_adn_clients.html#comments</comments>
+		<pubDate>Mon, 25 Mar 2013 18:32:26 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[adn]]></category>
+		<category><![CDATA[ipad]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[review]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/03/three_adn_clients.html</guid>
+		<description><![CDATA[Lots of new people are joining App.net. If you’re one of them, welcome! In this post I’m going to briefly review 3 of the most popular iPhone clients: Netbot, Felix, and Riposte. You can’t really go wrong with any of these three apps. And if you’re looking for a Mac client, my current favorite is [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Lots of new people are joining App.net. If you’re one of them, welcome! In this post I’m going to briefly review 3 of the most popular iPhone clients: <a href="http://tapbots.com/software/netbot/">Netbot</a>, <a href="http://tigerbears.com/felix/">Felix</a>, and <a href="http://riposteapp.net/">Riposte</a>. You can’t really go wrong with any of these three apps. And if you’re looking for a Mac client, my current favorite is <a href="http://kiwi-app.net/">Kiwi</a>.</p>
+<p><img src="http://www.manton.org/images/2013/adn_netbot.png" alt="Netbot" border="0" width="180" height="259" style="float:right; padding: 5px;" /></p>
+<p><strong>Netbot</strong> is nearly identical to Tweetbot. It shares most of the same source and all of the same UI design. That common heritage is great because it’s familiar to fans of Tweetbot, and it allowed Tapbots to launch onto App.net in a big way, leapfrogging all other clients that were under development at that time.</p>
+<p>But the familiar design is a double-edged sword. Not just because the App.net API will evolve and diverge from the Twitter API, but because if you switch between both Tweetbot and Netbot often, you may need to be careful that you remember which app you’re posting from. This was a problem for me since I no longer post to Twitter, and the last thing I wanted to do was accidentally leave a new post there after a 5-month absence.</p>
+<p>All the usual features you’d expect are present in Netbot: timeline, mentions, private messages, multiple accounts, and sync with Stream Marker. It even has an iPad version, which you may want to pick up even if you chose a different primary app on the iPhone.</p>
+<p>Netbot also has one big feature that most App.net clients don’t have: post search. This is not part of the core App.net API. Tapbots rolled their own search server so that they could offer this feature inside the app.</p>
+<p><em>Sidenote plug: if you want search for all the posts from anyone you’re following, and your own posts, consider my web app <a href="http://watermark.io/">Watermark</a>. You can subscribe on the web or <a href="https://itunes.apple.com/app/watermark-mobile/id566886320?ls=1&amp;mt=8">in the iPhone version</a>.</em></p>
+<p><img src="http://www.manton.org/images/2013/adn_felix.png" alt="Felix" border="0" width="180" height="259" style="float:right; padding: 5px;" /></p>
+<p><strong>Felix</strong> is possibly the most mature and actively maintained of the App.net-exclusive apps. You can tell <a href="https://alpha.app.net/billkunz">from his App.net posts</a> that the developer is passionate about App.net and determined to keep making his app better.</p>
+<p>The current version supports all the basic features as well as push notifications, narrow inline image previews that take the full width of the screen, iCloud sync for drafts, starred conversations, and a brand new feature in version 1.5: collapsing posts you don’t want to see, similar to Twitterrific 5’s muffling. The only omission is that it does not yet support multiple accounts.</p>
+<p>Felix is also unique in that it is the only one of these 3 apps that is not free. The other apps are counting on the <a href="http://blog.app.net/2012/09/27/announcing-the-app-net-developer-incentive-program/">Developer Incentive Program</a> to send them a check each month instead of relying on traditional sales. Felix is a good value at $5, though, and the price shouldn’t stop you from trying it out, especially as it is a very small amount compared to the paid App.net subscription itself.</p>
+<p>There are a number of gestures in Felix. One interesting shortcut — which may also be familiar to users of Twitterrific 5 — is swipe right to quickly start a reply. I personally found that this breaks the illusion of gestures as direct manipulation, though. Since swiping to the left pulls forward the conversation, doing the reverse swipe should go back to the timeline. (<strong>Update:</strong> There’s actually a setting in Felix to switch this behavior.)</p>
+<p>Felix also added a clever trick in its post composition window. You can swipe the text view to move the selection cursor one character over, or use two fingers to swipe across an entire word at a time. This saves a lot of time tapping-and-holding and fiddling with the magnifying glass. Felix is packed with little details and shortcuts like this.</p>
+<p><img src="http://www.manton.org/images/2013/adn_riposte.png" alt="Riposte" border="0" width="180" height="259" style="float:right; padding: 5px;" /></p>
+<p><strong>Riposte</strong> is beautifully done, with a clear design and a simple left/right gesture system to navigate through anything in the app. By default, there is no toolbar or tabs; everything is full-screen. Following Netbot’s lead, the developers of Riposte have decided to make their app free, and they have <a href="http://riposteapp.net/why-were-free.html">written up some thoughts on why</a>.</p>
+<p>Multiple accounts are handled well and it’s easy to switch between them. Like Felix and Netbot, push notifications are supported. Riposte uses large square inline images. It’s got a great interactions view that shows users who have recently followed you or starred your posts.</p>
+<p>Riposte mirrors Felix’s compose text view gestures, and Riposte was the first to introduce 2-finger swipes in that text view. I love that both apps now support these gestures about equally, and hope to see many more apps steal this feature soon.</p>
+<p>Since it doesn’t have tabs, switching between timeline, mentions, global stream, and other views is done through a slide-out panel, <a href="http://kenyarmosh.com/ios-pattern-slide-out-navigation/">popularized in early apps</a> like Facebook, Path, and Sparrow, and now very common everywhere, including my own Twitter app <a href="http://www.riverfold.com/software/tweetlibrary/">Tweet Library</a>. It’s a swipe and a tap instead of the single tap of Netbot or Felix, but it is space-efficient and fits the flow of gestures in Riposte.</p>
+<p>While Riposte holds its own against the competition, I think it will be chosen most not for its features but for its design. The striking full-screen look and consistent, discoverable gestures make this app feel great. It also has probably the most readable conversation view of any app I’ve used, where the focused post appears immediately and then is surrounded with the full conversation using smaller text. That design is even maintained in HTML email when sending a conversation from the app.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/03/three_adn_clients.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 3.052 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 12:46:53 -->

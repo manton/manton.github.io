@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; links</title>
+	<atom:link href="http://www.manton.org/tag/links/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Microblog links</title>
+		<link>http://www.manton.org/2014/09/microblog-links.html</link>
+		<comments>http://www.manton.org/2014/09/microblog-links.html#comments</comments>
+		<pubDate>Wed, 17 Sep 2014 17:19:25 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[links]]></category>
+		<category><![CDATA[microblogs]]></category>
+		<category><![CDATA[rss]]></category>
+		<category><![CDATA[urls]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2271.html</guid>
+		<description><![CDATA[Brent Simmons points to my post on microblogs and asks: &#8220;Is the web we lost gone forever? Was it a brief golden age before the rise of Facebook and Twitter and The Algorithms of Engagement?&#8221; But he quickly follows with an alternate view: that it&#8217;s a blip and we&#8217;ll get back on track. And that&#8217;s [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Brent Simmons points to my post on microblogs <a href="http://inessential.com/2014/09/15/manton_on_microblogs">and asks</a>:</p>
+<blockquote><p>
+  &#8220;Is the web we lost gone forever? Was it a brief golden age before the rise of Facebook and Twitter and The Algorithms of Engagement?&#8221;
+</p></blockquote>
+<p>But he quickly follows with an alternate view: that it&#8217;s a blip and we&#8217;ll get back on track. And that&#8217;s what I believe.</p>
+<p>Instead of accepting a common opinion that Twitter is slowly replacing RSS readers, we should flip that around. What kind of changes could be made to RSS readers to embrace microblogging and make Twitter itself less important? Because once we do that, we get back control of our own short-form content and at the same time encourage open tools that will survive independent of whatever happens with Twitter and Facebook in the future.</p>
+<p>I received some other great feedback about defining what it means to be a microblog post. One question that I didn&#8217;t address is links. <a href="http://noahread.net/blog/microblog-links">Noah Read writes</a>:</p>
+<blockquote><p>
+  &#8220;It has consistently annoyed me that Twitter and App.net’s links count against my character count. It seems to run counter to what I love about microblogging, carefully chosen words communicating a succinct idea. I often have a pretty good tweet composed and then I paste in the link to a site or image and have to rework the whole thing.&#8221;
+</p></blockquote>
+<p><a href="http://david.ely.fm/post/97612487910/re-defining-a-microblog-post">And David Ely says</a> that a microblog post&#8230;</p>
+<blockquote><p>
+  &#8220;Contains a single thought, a link with short commentary, or a photo with a caption.&#8221;
+</p></blockquote>
+<p>Whereas a full blog post would often contain multiple links. Certainly a lot of what is posted to Twitter and Facebook is just a single link with short commentary.</p>
+<p>I also noticed recently that Dave Winer&#8217;s <a href="http://radio3.io/">Radio3</a> includes links in the text when tweeting, but in the RSS feed the text and the link are split out. The URL goes in the RSS item&#8217;s link tag. While this is easy enough to support in tools, it&#8217;s surprising if you consider the link part of the content, not metadata. (I also expect inline HTML links to become even more common.)</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/09/microblog-links.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Wii Transfer takes over internet</title>
+		<link>http://www.manton.org/2007/01/wii_transfer_takes.html</link>
+		<comments>http://www.manton.org/2007/01/wii_transfer_takes.html#comments</comments>
+		<pubDate>Sun, 28 Jan 2007 06:40:35 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[bugs]]></category>
+		<category><![CDATA[links]]></category>
+		<category><![CDATA[transfer]]></category>
+		<category><![CDATA[wii]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/01/wii_transfer_takes.html</guid>
+		<description><![CDATA[Okay, not really. But this has been a crazy and surprising week for my &#8220;little&#8221; application, Wii Transfer. Putting 8 hours each day into &#8220;VitalSource&#8221;:http://www.vitalsource.com/ (I have a post coming about that tomorrow, by the way) and then juggling home responsibilities, putting out various other fires, and sitting down to work on Wii Transfer until [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Okay, not really. But this has been a crazy and surprising week for my &#8220;little&#8221; application, Wii Transfer. Putting 8 hours each day into &#8220;VitalSource&#8221;:http://www.vitalsource.com/ (I have a post coming about that tomorrow, by the way) and then juggling home responsibilities, putting out various other fires, and sitting down to work on Wii Transfer until 3am is just not healthy.</p>
+<p>Luckily I slept great last night and took a 3-hour nap today. So time to blog again. :-)</p>
+<p>Over a week ago I released Wii Transfer 2.0 and made a big mistake, and since I&#8217;ve been programming for the Mac for over a dozen years now, I really should know better. It was buggy. And not just a few minor cosmetic problems, but at least two serious crashers. I simply had not tested enough. It&#8217;s difficult (sometimes impossible) to regain a user&#8217;s trust after their first experience with an application is a bad one, so I got to work that weekend fixing problems and releasing beta builds to customers to get a few extra eyes on the software.</p>
+<p>Then Monday came, and <em>all hell broke loose</em>.</p>
+<p>Links from &#8220;Daring Fireball&#8221;:http://daringfireball.net/linked/2007/january#mon-22-wii_transfer, &#8220;Ranchero&#8221;:http://www.ranchero.com/?comments=1&amp;postid=1523, and &#8220;The Unofficial Apple Weblog&#8221;:http://www.tuaw.com/2007/01/22/wii-transfer-2-0/ were followed by &#8220;Jostiq&#8221;:http://joystiq.com/2007/01/25/wii-transfer-for-mac-os-turns-your-wii-into-a-media-center-but/, &#8220;Infendo&#8221;:http://infendo.com/2007/01/wii-media-center-software.html, &#8220;4 Color Rebellion&#8221;:http://4colorrebellion.com/archives/2007/01/22/wii-transfer-for-mac-reaches-20/, and a bunch of others. Ironically one of the only gaming sites I read that never linked to Wii Transfer was the only one I had actually sent an announcement to (&#8220;GoNintendo&#8221;:http://www.gonintendo.com/). Traffic and sales were way up (&#8220;here&#8217;s a Mint screenshot&#8221;:http://www.manton.org/images/2007/riverfold_mint.png from one day last week).</p>
+<p>But meanwhile, the application was just not that stable. I started rewriting most of the web server inside Wii Transfer and fixing lots of issues with iTunes and iPhoto libraries stored on external drives. Then I made my second mistake: I added a feature (album cover artwork!). Obviously, adding a feature in the middle of bug fixes just delays the original fixes and introduces new problems.</p>
+<p>I also quickly realized how many things could go wrong with how music and picture sharing works. It relies on the Nintendo Wii and your Mac being on the same local network. Because Wii Transfer pings a bookmark server to register your IP address, you also have to make sure the app picks the right IP if your Mac is on both ethernet and wireless networks. Worse, many people have the Mac OS X built-in firewall enabled, so users are required to manually open up port 9000.</p>
+<p>At one point on Tuesday when sales were coming in, every time I received a PayPal notification email I literally groaned. &#8220;Stop buying this software until I can make it work reliably,&#8221; I would say to the computer. The thing that got me through was that all customers who sent in support email were extremely helpful and patient. The other good news is that with version 2.1.1, it&#8217;s looking pretty solid, and the next update should wrap up any remaining fringe issues.</p>
+<p>To everyone who gave Wii Transfer a try, thanks! I think you&#8217;ll like what comes next.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2007/01/wii_transfer_takes.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.215 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:41:19 -->

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; riverjs</title>
+	<atom:link href="http://www.manton.org/tag/riverjs/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Microblog timelines, Project Lightning, and River.js</title>
+		<link>http://www.manton.org/2015/06/microblog-timelines-project-lightning-and-river-js.html</link>
+		<comments>http://www.manton.org/2015/06/microblog-timelines-project-lightning-and-river-js.html#comments</comments>
+		<pubDate>Mon, 22 Jun 2015 13:42:23 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[riverjs]]></category>
+		<category><![CDATA[rss]]></category>
+		<category><![CDATA[snippets]]></category>
+		<category><![CDATA[timelines]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2765</guid>
+		<description><![CDATA[I said that one important facet to microblogging is the timeline experience. This is a basic foundation to Twitter’s success, although they continue to de-emphasize or twist it. Their upcoming Project Lightning will attempt to curate and deliver tweets to you that are important regardless of who you’re following. From Mat Honan’s scoop on the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.manton.org/2015/06/more-quick-blogging-workflows.html">I said</a> that one important facet to microblogging is the timeline experience. This is a basic foundation to Twitter’s success, although they continue to de-emphasize or twist it. Their upcoming Project Lightning will attempt to curate and deliver tweets to you that are important regardless of who you’re following. <a href="http://www.buzzfeed.com/mathonan/twitters-top-secret-project-lightning-revealed">From Mat Honan’s scoop</a> on the project for Buzz Feed:</p>
+<blockquote><p>
+  “Launch one of these events and you’ll see a visually driven, curated collection of tweets. A team of editors, working under Katie Jacobs Stanton, who runs Twitter’s global media operations, will select what it thinks are the best and most relevant tweets and package them into a collection.”
+</p></blockquote>
+<p><a href="http://www.wired.com/2015/06/twitter-project-lightning-timeline/">David Pierce wrote for Wired</a> with further speculation on what it could mean for Twitter. David starts with the premise that Twitter is basically full of junk:</p>
+<blockquote><p>
+  “Sure, yes, everyone’s Twitter is different—that’s one of the service’s best aspects, that you can follow anyone you want and see whatever you want. Unfortunately, this only works if everyone on Twitter isn’t terrible most of the time. They are.”
+</p></blockquote>
+<p>The essay continues, describing Project Lightning as the death of the Twitter timeline as we know it:</p>
+<blockquote><p>
+  “With this change, Twitter doesn’t have to look like an endlessly flowing, context-free stream of tweets; instead, you can see a hand-curated set of tweets, links, images, and videos related to what’s happening right now. You see one at a time, swiping through them until you get to the end. And there’s an end!”
+</p></blockquote>
+<p>Since I haven’t seen this new feature, I can’t tell whether it’s a major shift in how Twitter is used. <a href="http://www.macstories.net/linked/twitters-project-lightning/">Federico Viticci is optimistic</a> about it:</p>
+<blockquote><p>
+  “This is another example of Twitter moving beyond Legacy Twitter and the belief that Twitter is still only a timeline of tweets in chronological order. The company has been enhancing the service with media improvements and design changes aimed at making Twitter less static – the opposite of a traditional timeline. If anything, they&#8217;ve been moving <em>too slowly</em> in this area.”
+</p></blockquote>
+<p>I agree with Federico on the value of curation and surfacing great content. But also the timeline must remain at the heart of Twitter, just as a reverse-chronological list of posts has been on every blog home page since the term weblog was coined 18 years ago.</p>
+<p>Dave Winer calls these timelines “rivers”, and last week <a href="http://scripting.com/2015/06/19/riverbrowserOpenSourceRelease.html">he open-sourced a browser</a> for the River.js timeline files. Formatted as JSONP, you can think of River.js as conceptually the same as an RSS feed, except that it’s easy to display with HTML using only JavaScript.</p>
+<p>I plan to fully support outputting River.js in the project I’m working on. For the last few years, Twitter has had a monopoly on the timeline. We need to break that up. The first step is <a href="http://www.manton.org/2015/06/microblogging-with-wordpress.html">encouraging microblogs everywhere</a>, and the next step is to build tools that embrace the timeline experience. If you’d like to see my take on this, please <a href="http://eepurl.com/6vVvj">sign up on the project announce list</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/06/microblog-timelines-project-lightning-and-river-js.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.727 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:24:37 -->

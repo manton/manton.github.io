@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; tweetbot</title>
+	<atom:link href="http://www.manton.org/tag/tweetbot/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Layered glass</title>
+		<link>http://www.manton.org/2013/07/layered_glass.html</link>
+		<comments>http://www.manton.org/2013/07/layered_glass.html#comments</comments>
+		<pubDate>Fri, 12 Jul 2013 16:28:37 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[2d]]></category>
+		<category><![CDATA[glass]]></category>
+		<category><![CDATA[ios7]]></category>
+		<category><![CDATA[macworld]]></category>
+		<category><![CDATA[tweetbot]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/07/layered_glass.html</guid>
+		<description><![CDATA[Nate Barham describes iOS 7 as layered glass: “The best developers will see iOS as an operational model, not a visual one. Imagine a Tapbots app that, instead of removing the cute ‘I’m a twitter robot in your phone!’ aesthetic, doubles down on it. Zooming metal plates, ratcheting gears not shadowed from without but appearing [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://natebarham.com/post/53767446736/layered-glass-the-nothing-ui">Nate Barham describes iOS 7</a> as layered glass:</p>
+<blockquote><p>
+  “The best developers will see iOS as an operational model, not a visual one. Imagine a Tapbots app that, instead of removing the cute ‘I’m a twitter robot in your phone!’ aesthetic, doubles down on it. Zooming metal plates, ratcheting gears not shadowed from without but appearing from within the device, only now it isn’t a robot-esque layer over the stock controls, the UI becomes the character that the developer envisions—even more so than it has ever done before.”
+</p></blockquote>
+<p>I really like this post, but I’m not totally sold on the paragraph quoted above. Done right, it could be brilliant. But this is a very difficult thing to pull off, keeping the playful spirit of Tweetbot with a lighter, minimalist iOS 7 UI.</p>
+<p>And related, if you missed <a href="http://www.macworld.com/article/2043265/why-ios-7s-design-is-bold-but-flawed.html">Christa Mrgan’s recent Macworld essay</a>, she also covers how iOS 7 will use depth and motion to switch from “faux 3D to real 2.5D”, with an example from Adobe’s After Effects. Makes me wonder if designers will need new prototyping tools.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/07/layered_glass.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Tweetbot + Twitterrific</title>
+		<link>http://www.manton.org/2011/08/tweetbot_twitterrific.html</link>
+		<comments>http://www.manton.org/2011/08/tweetbot_twitterrific.html#comments</comments>
+		<pubDate>Sun, 28 Aug 2011 15:41:54 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[tweetbot]]></category>
+		<category><![CDATA[tweetmarker]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[twitterrific]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2011/08/tweetbot_twitterrific.html</guid>
+		<description><![CDATA[The second app to support &#8220;Tweet Marker&#8221;:http://tweetmarker.net/ has arrived, and it&#8217;s a great one: &#8220;Tweetbot&#8221;:http://tapbots.com/software/tweetbot/. I love using Tweetbot on the iPhone and Twitterrific on the Mac and iPad. Seeing these apps work together just makes for a better Twitter experience. Here are a few tips to keep in mind while using apps that support [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The second app to support &#8220;Tweet Marker&#8221;:http://tweetmarker.net/ has arrived, and it&#8217;s a great one: &#8220;Tweetbot&#8221;:http://tapbots.com/software/tweetbot/. I love using Tweetbot on the iPhone and Twitterrific on the Mac and iPad. Seeing these apps work together just makes for a better Twitter experience.</p>
+<p>Here are a few tips to keep in mind while using apps that support Tweet Marker:</p>
+<p><em>Turn it on!</em> First things first: enable Tweet Marker in both apps on every device you plan to use Twitter on. MacStories has a good summary of this (with screenshots) for &#8220;their coverage of Twitterrific&#8221;:http://www.macstories.net/mac/twitterrific-4-3-syncs-timeline-position-with-tweet-marker/ and &#8220;again for Tweetbot&#8221;:http://www.macstories.net/news/tweetbot-1-6-gets-tweet-marker-timeline-sync/.</p>
+<p><em>What syncs?</em> Only the main timeline and mentions sync between the apps. While working with these developers, we made a decision to change how Twitter lists sync after Twitterrific had already shipped. So while both apps think they are syncing lists, the format on the server is not compatible between the two. A future version should fix this.</p>
+<p><em>How to switch apps?</em> Most apps take the approach of saving the last-read position when the app is quit or sent to the background, and restoring it again when it is launched or brought to the front. You may need to change your default habits a little to get the most accurate behavior. When you know you are going to switch apps, just close your active Twitter client first before opening the next one. It may also help to wait for the app to download new tweets before scrolling or interacting with it.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2011/08/tweetbot_twitterrific.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Tweetbot</title>
+		<link>http://www.manton.org/2011/04/tweetbot.html</link>
+		<comments>http://www.manton.org/2011/04/tweetbot.html#comments</comments>
+		<pubDate>Wed, 20 Apr 2011 21:01:55 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[tweetbot]]></category>
+		<category><![CDATA[tweetlibrary]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2011/04/tweetbot.html</guid>
+		<description><![CDATA[After about a day of using Tweetbot, &#8220;I said&#8221;:https://twitter.com/manton/status/58723721728360448: &#8220;Tweetbot gets nearly everything in the UI right. Love it. But.. it&#8217;s a basic client. I still think the future for third parties is features.&#8221; I only got a few responses, most defending Tweetbot as something special. I agree, and there&#8217;s a lot to be inspired [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>After about a day of using Tweetbot, &#8220;I said&#8221;:https://twitter.com/manton/status/58723721728360448:</p>
+<blockquote><p>&#8220;Tweetbot gets nearly everything in the UI right. Love it. But.. it&#8217;s a basic client. I still think the future for third parties is features.&#8221;</p></blockquote>
+<p>I only got a few responses, most defending Tweetbot as something special. I agree, and there&#8217;s a lot to be inspired by from it. In an odd way, though, just being the best Twitter client isn&#8217;t enough.</p>
+<p>&#8220;Marco Arment writes more&#8221;:http://www.marco.org/2011/04/18/ben-brooks-on-tweetbot (following a &#8220;post from Ben Brooks&#8221;:http://brooksreview.net/2011/04/appsuration/) about why Tweetbot isn&#8217;t for him despite being such a good client:</p>
+<blockquote><p>&#8220;A new Twitter client that essentially offers the Twitter app&#8217;s features, but in different places, isn&#8217;t enough of a difference for me to switch. If anything, it supports Twitter&#8217;s &#8216;don&#8217;t make full-featured apps&#8217; position. Maybe they were right.&#8221;</p></blockquote>
+<p>The problem isn&#8217;t that third parties shouldn&#8217;t make full-featured clients; it&#8217;s that they shouldn&#8217;t make clients that have <em>exactly the same features as every other client</em>. If Twitter discourages all apps from being made just because many will fail, we&#8217;ll miss out on all the things Twitter will never add to their apps and platform.</p>
+<p>I see three compelling reasons to use Tweetbot 1.0: the design, swipe for conversations, and related tweets. The last is actually in the Twitter API &mdash; I&#8217;ve been meaning to add it to Tweet Library &mdash; but it&#8217;s not yet documented outside of an email message to the dev mailing list. Congrats to Tapbots for being the first I&#8217;ve seen to add it as a high-profile feature.</p>
+<p>Last September I wrote about &#8220;next-generation Twitter apps&#8221;:http://www.manton.org/2010/09/next_generation.html:</p>
+<blockquote><p>&#8220;I believe we&#8217;re about to see a third generation of clients that will go way beyond what the web site can do. There was worry when Twitter bought Tweetie that it would destroy the third-party Twitter market, and sure, some developers will fail or be discouraged from trying to compete against a free official product. But really what it does is raise the bar &mdash; that to succeed Twitter clients should be more than just a one-to-one mapping between UI and the Twitter API.&#8221;</p></blockquote>
+<p>I hadn&#8217;t announced Tweet Library yet when I wrote that. Now that I&#8217;ve shipped it, I believe even more strongly that we haven&#8217;t seen anything yet from Twitter apps. Tweetbot is a great 1.0 and my go-to app on the phone because it&#8217;s better in lots of small ways than anything else. But that it&#8217;s not for everyone is actually great news. I hope there are plenty of unique features still to come from a variety of other apps.</p>
+<p>Consider this: Tweetie already &#8220;won&#8221; the market. No matter what we do as Twitter API developers, none of us can ever have the most popular Twitter app. This frees every app to focus on its core strength. For Twitterrific, that&#8217;s a unified timeline; for Echofon, that&#8217;s last-read sync; for Hibari, that&#8217;s keywords; for Kiwi, that&#8217;s themes; for my own Tweet Library, that&#8217;s curation.</p>
+<p>What&#8217;s Tweetbot&#8217;s core strength? For now, overall user experience, not standout features. But I&#8217;ve been a Tapbots customer long enough that I&#8217;m excited to see where they take it.</p>
+<p>For more Tweetbot discussion, check out &#8220;this collection of tweets I made&#8221;:http://tweetlibrary.com/manton/tweetbot1.0 about the launch.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2011/04/tweetbot.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Birdfeed, etc.</title>
+		<link>http://www.manton.org/2010/09/birdfeed_etc.html</link>
+		<comments>http://www.manton.org/2010/09/birdfeed_etc.html#comments</comments>
+		<pubDate>Wed, 29 Sep 2010 19:20:48 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[birdfeed]]></category>
+		<category><![CDATA[ipad]]></category>
+		<category><![CDATA[tweetbot]]></category>
+		<category><![CDATA[tweetlibrary]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2010/09/birdfeed_etc.html</guid>
+		<description><![CDATA[He snuck it in under a commentary on Alex Payne&#8217;s excellent &#8220;last post about Twitter&#8221;:http://al3x.net/2010/09/15/last-thing-about-twitter.html, but we now have a &#8220;Birdfeed postmortem of sorts from Buzz Andersen&#8221;:http://log.scifihifi.com/post/1144913920/in-a-way-the-twitter-platform-has-come-full. I&#8217;m particularly interested in where Buzz thinks the Twitter app market is going: &#8220;Does this mean that there&#8217;s no longer room for third party Twitter clients? My suspicion [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>He snuck it in under a commentary on Alex Payne&#8217;s excellent &#8220;last post about Twitter&#8221;:http://al3x.net/2010/09/15/last-thing-about-twitter.html, but we now have a &#8220;Birdfeed postmortem of sorts from Buzz Andersen&#8221;:http://log.scifihifi.com/post/1144913920/in-a-way-the-twitter-platform-has-come-full. I&#8217;m particularly interested in where Buzz thinks the Twitter app market is going:</p>
+<blockquote><p>&#8220;Does this mean that there&#8217;s no longer room for third party Twitter clients? My suspicion is that people will continue to make them, but it seems to me that they&#8217;re already on the road to becoming increasingly uniform and commoditized as the Twitter experience is more sharply defined by Twitter itself (as my Birdfeed collaborator Neven Mrgan has suggested to me, Twitter clients are going the way of email clients).&#8221;</p></blockquote>
+<p>It seems nearly everyone thinks competing with Twitter&#8217;s official app is a bad idea. &#8220;Here&#8217;s Tapbots revealing Tweetbot&#8221;:http://tapbots.com/blog/business/say-hello-to-tweetbot shortly after the Tweetie acquisition:</p>
+<blockquote><p>&#8220;But this news changes things for us. We probably won&#8217;t be able to charge for the app anymore. Who&#8217;s going to pay for a Twitter client when &#8216;Tweetie&#8217; is free?&#8221;</p></blockquote>
+<p>I think the problem isn&#8217;t trying to build any Twitter app. The problem is building a <em>mainstream Twitter client</em>. The official iPhone and iPad apps, plus the redesigned web site, are so good that it&#8217;s futile to go head to head with them. You can&#8217;t undercut on price, and they are so well coded you&#8217;d need a talented full-time team to out-engineer them.</p>
+<p>As I said in &#8220;my last Twitter post&#8221;:http://www.manton.org/2010/09/next_generation.html, the trick is to look past the API. What would I want Twitter to add to the platform if I had my way? Design an app around that and you might have something interesting.</p>
+<p>The theme in Buzz&#8217;s post that resonated the strongest with me is the emotional drain that building an app like this can have. The competition is intense. There&#8217;s a feeling that if you don&#8217;t have every little feature when you ship, you&#8217;ll be laughed out of the App Store. That is certainly on my mind, especially as &#8220;I intend to push the price&#8221;:http://www.manton.org/2010/06/10_ipad_apps.html in this market, and even with beta feedback I&#8217;m still not sure how my app is going to be received in the real world.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2010/09/birdfeed_etc.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.487 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:38:43 -->

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; netnewswire</title>
+	<atom:link href="http://www.manton.org/tag/netnewswire/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>RSS reading and writing</title>
+		<link>http://www.manton.org/2014/10/rss-reading-and-writing.html</link>
+		<comments>http://www.manton.org/2014/10/rss-reading-and-writing.html#comments</comments>
+		<pubDate>Thu, 09 Oct 2014 03:17:35 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[marsedit]]></category>
+		<category><![CDATA[microblogging]]></category>
+		<category><![CDATA[netnewswire]]></category>
+		<category><![CDATA[rss]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2323.html</guid>
+		<description><![CDATA[I&#8217;ve received so much feedback about microblogging that I haven&#8217;t had a chance to reply or blog about each one yet. This post from Dave Peck is especially interesting: &#8220;For some time now, I’ve wanted a new kind of RSS client: one that reads and writes. Today’s RSS apps artificially separate us from the content [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;ve received so much feedback about microblogging that I haven&#8217;t had a chance to reply or blog about each one yet. <a href="http://davepeck.org/2014/10/10/i-want-an-rss-reader-writer/">This post from Dave Peck</a> is especially interesting:</p>
+<blockquote><p>
+  &#8220;For some time now, I’ve wanted a new kind of RSS client: one that reads <em>and</em> writes. Today’s RSS apps artificially separate us from the content we read. If we want to reply — if we want to <em>participate</em> in the conversation — we’ve got to use an entirely unrelated set of tools.&#8221;
+</p></blockquote>
+<p><a href="http://www.red-sweater.com/marsedit/">MarsEdit</a> of course was famously spun off from NetNewsWire. Early versions of NetNewsWire did three things: reading blogs, organizing ideas in a notepad outliner, and writing new blog posts. I think Brent was on to something with combining all these features, but I also totally understand wanting to simplify so that each component is as good as it can be. MarsEdit wouldn&#8217;t be as full-featured and polished today if it hadn&#8217;t been given that room to grow as its own app.</p>
+<p>Also, don&#8217;t miss the last half of <a href="http://coreint.org/158">today&#8217;s Core Intuition</a>. Daniel and I talk at length about microblogging and owning your own content.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/10/rss-reading-and-writing.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>NewsGator and Sepia Labs</title>
+		<link>http://www.manton.org/2014/05/newsgator_and_sepia.html</link>
+		<comments>http://www.manton.org/2014/05/newsgator_and_sepia.html#comments</comments>
+		<pubDate>Mon, 12 May 2014 13:03:21 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[glassboard]]></category>
+		<category><![CDATA[netnewswire]]></category>
+		<category><![CDATA[newsgator]]></category>
+		<category><![CDATA[rss]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/05/newsgator_and_sepia.html</guid>
+		<description><![CDATA[Great post from Brent Simmons, recalling his time at NewsGator. On trying to get Nick Bradbury to join them at Sepia Labs, the spin-off that was building Glassboard: “I loved working with Nick in the past, and — even though Nick was an iPhone user and Delphi programmer — I wanted him as our Android [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Great post from Brent Simmons, <a href="http://inessential.com/2014/05/10/what_happened_at_newsgator">recalling his time at NewsGator</a>. On trying to get Nick Bradbury to join them at Sepia Labs, the spin-off that was building Glassboard:</p>
+<blockquote><p>
+  “I loved working with Nick in the past, and — even though Nick was an iPhone user and Delphi programmer — I wanted him as our Android developer. Nick was not eager to be on the NewsGator payroll again, but he accepted since we were spinning out into a separate company. And he quickly turned into a great Android developer, as we all knew he would.”
+</p></blockquote>
+<p>There’s plenty more, about the different stages the company went through from Brent’s perspective. I love posts like this. It’s important to capture the history and culture of tech companies, before our memory fades. And it’s not unlike what Brent has done on a bigger scale for his podcast <a href="http://therecord.co">The Record</a> with Chris Parrish.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/05/newsgator_and_sepia.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>NetNewsWire production process</title>
+		<link>http://www.manton.org/2010/04/netnewswire_production_process.html</link>
+		<comments>http://www.manton.org/2010/04/netnewswire_production_process.html#comments</comments>
+		<pubDate>Mon, 19 Apr 2010 02:56:16 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[brentsimmons]]></category>
+		<category><![CDATA[ipad]]></category>
+		<category><![CDATA[netnewswire]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2010/04/netnewswire_production_process.html</guid>
+		<description><![CDATA[I like &#8220;this Flickr set from Brent Simmons&#8221;:http://www.flickr.com/photos/brentsimmons/sets/72157623879850432/ showing the stages of building NetNewsWire for the iPad. It&#8217;s exactly the process I&#8217;m going through right now with my new app. Get some placeholder views and tables in there, then iterate, each time filling in more of the missing pieces. iPad interface design is also proving [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I like &#8220;this Flickr set from Brent Simmons&#8221;:http://www.flickr.com/photos/brentsimmons/sets/72157623879850432/ showing the stages of building NetNewsWire for the iPad. It&#8217;s exactly the process I&#8217;m going through right now with my new app. Get some placeholder views and tables in there, then iterate, each time filling in more of the missing pieces.</p>
+<p>iPad interface design is also proving to be much more difficult than I thought it would be. Concepts that work on the iPhone don&#8217;t necessarily translate to the larger device, and there are very few iPad apps to draw inspiration from. There&#8217;s no standout app from Apple&#8217;s lineup either, at least not in the way that iTunes 1.0 defined nearly every Mac app to follow. With the exception of some very basic ideas like splitviews collapsing in portrait mode, and a generous sprinkling of popovers, I&#8217;ve yet to see much consistency from new touch apps.</p>
+<p>Apps that have had the biggest influence on me so far: from the iPhone, Birdfeed and Pastebot; and on the iPad, Mail and Twitterrific. Send me a reply &#8220;on Twitter&#8221;:http://twitter.com/manton if you have any other recommendations.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2010/04/netnewswire_production_process.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>New and old posts about NetNewsWire</title>
+		<link>http://www.manton.org/2008/01/new_and_old-2.html</link>
+		<comments>http://www.manton.org/2008/01/new_and_old-2.html#comments</comments>
+		<pubDate>Fri, 11 Jan 2008 19:29:26 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[free]]></category>
+		<category><![CDATA[indie]]></category>
+		<category><![CDATA[netnewswire]]></category>
+		<category><![CDATA[software]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2008/01/new_and_old-2.html</guid>
+		<description><![CDATA[&#8220;NetNewsWire is free&#8221;:http://inessential.com/?comments=1&#38;postid=3461 (congrats again Brent!) and reaction is coming in from other indie developers. &#8220;Rory Prior&#8221;:http://www.thinkmac.co.uk/blog/2008/01/scorched-earth.html: &#8220;It&#8217;s hard to compete with a product that&#8217;s as well known and frankly as good as NNW, it&#8217;s damn near impossible to compete with it when it&#8217;s free.&#8221; &#8220;Paul Kafasis&#8221;:http://www.rogueamoeba.com/utm/posts/Article/NNWFree-2008-01-09-19-00.html: &#8220;When something is given away for free, its [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>&#8220;NetNewsWire is free&#8221;:http://inessential.com/?comments=1&amp;postid=3461 (congrats again Brent!) and reaction is coming in from other indie developers.</p>
+<p>&#8220;Rory Prior&#8221;:http://www.thinkmac.co.uk/blog/2008/01/scorched-earth.html: &#8220;It&#8217;s hard to compete with a product that&#8217;s as well known and frankly as good as NNW, it&#8217;s damn near impossible to compete with it when it&#8217;s free.&#8221;</p>
+<p>&#8220;Paul Kafasis&#8221;:http://www.rogueamoeba.com/utm/posts/Article/NNWFree-2008-01-09-19-00.html: &#8220;When something is given away for free, its perceived value is lowered. If software is treated as valueless, it becomes much, much harder to sell.&#8221;</p>
+<p>Ultimately I don&#8217;t think it&#8217;s going to have a significant negative impact as far as devaluating other software (except of course other news readers) because most people paying attention should connect that it supports Newsgator&#8217;s core business model. But rather than debate the issue I searched my archives to see what else I had said about the product. It must be one of the most-blogged-about apps ever, right? I&#8217;m limiting it to 1 post per year.</p>
+<p>2002: &#8220;Moving to NetNewsWire&#8221;:http://www.manton.org/2002/09/moving_to_netnewswire.html</p>
+<p>2003: &#8220;NetNewsWire as a platform&#8221;:http://www.manton.org/2003/03/netnewswire_as_a.html</p>
+<p>2004: &#8220;Google and the great apps to come&#8221;:http://www.manton.org/2004/12/google_and_the_great.html</p>
+<p>2005: &#8220;Tabs are a hack&#8221;:http://www.manton.org/2005/05/tabs_are_a_hack.html</p>
+<p>2006: &#8220;Time for thinking&#8221;:http://www.manton.org/2006/07/time_for.html</p>
+<p>2007: &#8220;New software releases (plus screencast)&#8221;:http://www.manton.org/2007/06/new_software_releases.html</p>
+<p>2008: &#8220;New and old posts about NetNewsWire&#8221;:http://www.manton.org/2008/01/new_and_old.html (you&#8217;re reading it!)</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2008/01/new_and_old-2.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>New software releases (plus screencast)</title>
+		<link>http://www.manton.org/2007/06/new_software_releases.html</link>
+		<comments>http://www.manton.org/2007/06/new_software_releases.html#comments</comments>
+		<pubDate>Wed, 06 Jun 2007 01:20:25 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[bookshelf]]></category>
+		<category><![CDATA[cocoa]]></category>
+		<category><![CDATA[highlighters]]></category>
+		<category><![CDATA[marsedit]]></category>
+		<category><![CDATA[netnewswire]]></category>
+		<category><![CDATA[quicktime]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/06/new_software_releases.html</guid>
+		<description><![CDATA[Today is a good day to release software. &#8220;MarsEdit gets a nice update&#8221;:http://www.red-sweater.com/blog/346/marsedit-12-growl-picasa-and-vox and &#8220;NetNewsWire 3.0&#8243;:http://ranchero.com/?comments=1&#38;postid=1646 ships. At VitalSource we also just released &#8220;Bookshelf 4.6&#8243;:http://www.vitalsource.com/index/bookshelf today, which lays the foundation for media-rich textbooks and adds a highlighter rating UI for any subscribed highlighters you have. This data will bubble up in a few places in [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Today is a good day to release software. &#8220;MarsEdit gets a nice update&#8221;:http://www.red-sweater.com/blog/346/marsedit-12-growl-picasa-and-vox and &#8220;NetNewsWire 3.0&#8243;:http://ranchero.com/?comments=1&amp;postid=1646 ships. At VitalSource we also just released &#8220;Bookshelf 4.6&#8243;:http://www.vitalsource.com/index/bookshelf today, which lays the foundation for media-rich textbooks and adds a highlighter rating UI for any subscribed highlighters you have. This data will bubble up in a few places in the future to allow you to discover people and books, although for now it&#8217;s one-way.</p>
+<p>Here&#8217;s a &#8220;short screencast of the rating interface&#8221;:http://www.manton.org/screencasts/2007/bookshelf_rating.mov (12 seconds, 700k). The star widget is a simple Cocoa control that hits a web service in the background. It was fun to write and surprisingly not very much code.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2007/06/new_software_releases.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.603 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:17:48 -->

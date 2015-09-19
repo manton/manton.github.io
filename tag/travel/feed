@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; travel</title>
+	<atom:link href="http://www.manton.org/tag/travel/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Back from Europe</title>
+		<link>http://www.manton.org/2015/08/back-from-europe.html</link>
+		<comments>http://www.manton.org/2015/08/back-from-europe.html#comments</comments>
+		<pubDate>Fri, 14 Aug 2015 15:22:38 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[london]]></category>
+		<category><![CDATA[paris]]></category>
+		<category><![CDATA[travel]]></category>
+		<category><![CDATA[vacation]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2942</guid>
+		<description><![CDATA[After blogging every day for a couple weeks at the end of July, I decided to take a break while my family and I took a vacation to London and Paris over the last 10 days. Instead we kept a private-ish travel blog of the trip. It&#8217;s similar to what I might post in a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>After blogging every day for a couple weeks at the end of July, I decided to take a break while my family and I took a vacation to London and Paris over the last 10 days. Instead we kept a private-ish travel blog of the trip. It&#8217;s similar to what I might post in a private journal (handwritten or <a href="http://dayoneapp.com/">Day One</a>), but accessible to family in a richer &#8220;own your own content&#8221; way than just Facebook photos.</p>
+<p>I also posted 7 photos throughout the trip to <a href="https://instagram.com/manton">my Instagram account</a>. I like to use Instagram to capture just the very best photo from something, so the timeline never feels overloaded. Of course we took hundreds of photos overall. Some went to the trip blog, some went to Instagram and Facebook, some went to Snapchat (teenagers!), and the rest we&#8217;ll sort through as we have time. We had wi-fi in the apartments and so I made sure everything was synced up to Dropbox at least once a day.</p>
+<p>I worked a little while traveling, but could only be so productive without getting in the way of enjoying the vacation. I&#8217;m catching up on some email and client work this morning. Feeling fairly rested despite a very long travel day coming back home.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/08/back-from-europe.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Conferences in cool places</title>
+		<link>http://www.manton.org/2015/04/conferences-in-cool-places.html</link>
+		<comments>http://www.manton.org/2015/04/conferences-in-cool-places.html#comments</comments>
+		<pubDate>Tue, 07 Apr 2015 19:01:09 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[cocoaconf]]></category>
+		<category><![CDATA[conferences]]></category>
+		<category><![CDATA[ireland]]></category>
+		<category><![CDATA[travel]]></category>
+		<category><![CDATA[ull]]></category>
+		<category><![CDATA[yosemite]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2548</guid>
+		<description><![CDATA[Last week my Instagram timeline included a bunch of really beautiful photos from folks in Ireland for Úll. Jason Snell writes about the conference: “The location, in Killarney in county Kerry, is spectacular. It’s rainy and windy and the different patterns on the surface of the lake right outside the hotel are beautiful to watch.” [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Last week my Instagram timeline included a bunch of really beautiful photos from folks in Ireland for Úll. <a href="http://sixcolors.com/2015/03/notes-and-podcasts-from-ireland/">Jason Snell writes</a> about the conference:</p>
+<blockquote><p>
+  “The location, in Killarney in county Kerry, is spectacular. It’s rainy and windy and the different patterns on the surface of the lake right outside the hotel are beautiful to watch.”
+</p></blockquote>
+<p>There were a lot of neat ideas for Úll that I bet made it special, including <a href="http://2015.ull.ie/site/blog/childrenstrack">a kids track</a> and the <a href="http://2015.ull.ie/site/blog/the-ull-train-is-a-coming">train ride</a>. I’m a sucker for anything train related, for example the <a href="http://releasenotes.tv/conference/#venue">train car hotel rooms</a> in the upcoming Release Notes conference venue.</p>
+<p>These special touches transform a conference into half work, half vacation. Every technical thing you might want to learn is on the internet these days anyway. Conferences should be about inspiration as much as anything else, and a great setting is part of that.</p>
+<p><a href="http://sixcolors.com/link/2015/04/tickets-still-available-for-yosemite-conference/">Here’s Jason again</a>, writing about the national park location for Yosemite CocoaConf:</p>
+<blockquote><p>
+  “As I just experienced at Úll in Ireland, these sorts of conferences are truly special. It’s a chance for a small group of people who share an interest in Apple and related technologies to spend a few days together. They’re always a blast, but add in the unique setting of Yosemite National Park and this one promises to be that much more amazing.”
+</p></blockquote>
+<p>I’m sorry to miss that one. For the last several years I’ve mostly fallen into a pattern of traveling to attend just one non-WWDC conference a year. This year I’ll be <a href="http://cocoaconf.com/session/details/649">speaking at CocoaConf in Austin</a> and hope to make <a href="http://releasenotes.tv/conference/">Release Notes</a> as well. Tickets for CocoaConf are on sale now, and Release Notes tickets should be announced soon.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/04/conferences-in-cool-places.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Honeymoon world tour</title>
+		<link>http://www.manton.org/2010/09/honeymoon_world_tour.html</link>
+		<comments>http://www.manton.org/2010/09/honeymoon_world_tour.html#comments</comments>
+		<pubDate>Tue, 14 Sep 2010 00:48:05 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[blogs]]></category>
+		<category><![CDATA[europe]]></category>
+		<category><![CDATA[family]]></category>
+		<category><![CDATA[travel]]></category>
+		<category><![CDATA[trips]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2010/09/honeymoon_world_tour.html</guid>
+		<description><![CDATA[&#8220;Via Daring Fireball&#8221;:http://daringfireball.net/linked/2010/09/12/lanyrd, I&#8217;m loving &#8220;this blog and idea&#8221;:http://sparkabout.net/ from newlyweds Simon Willison and Natalie Downe, who are traveling the world on a working honeymoon: &#8220;We&#8217;ve been in Morocco now for just over a month. We launched Lanyrd from a rented apartment in Casablanca, and we&#8217;re writing this update from a Riad in Marrakech. So [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>&#8220;Via Daring Fireball&#8221;:http://daringfireball.net/linked/2010/09/12/lanyrd, I&#8217;m loving &#8220;this blog and idea&#8221;:http://sparkabout.net/ from newlyweds Simon Willison and Natalie Downe, who are traveling the world on a working honeymoon:</p>
+<blockquote><p>&#8220;We&#8217;ve been in Morocco now for just over a month. We launched Lanyrd from a rented apartment in Casablanca, and we&#8217;re writing this update from a Riad in Marrakech. So far, travelling and working on a startup have complemented each other surprisingly well.&#8221;</p></blockquote>
+<p>In 1999, Traci and I took a similar but shorter 2-month vacation to Europe where we both worked remotely. This was before wi-fi, so much of the destination planning centered around pay-by-the-hour internet cafes or reliable hotel phone lines for dial-up. Lots of backpacking, cheap rooms, and trains and boats between 6 countries. We were constantly broke and our accommodations varied between the crummy (freezing showers at a hostel) to the beautiful (freezing showers with a Mediterranean view), but those were easily some of the best weeks of my life. At the end of the trip we got engaged and came back to America to get married and have kids and never leave our neighborhood again.</p>
+<p>Someday we&#8217;ll go back.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2010/09/honeymoon_world_tour.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.194 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:30:29 -->

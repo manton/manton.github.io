@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; ebooks</title>
+	<atom:link href="http://www.manton.org/tag/ebooks/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>The Daily</title>
+		<link>http://www.manton.org/2011/05/the_daily.html</link>
+		<comments>http://www.manton.org/2011/05/the_daily.html#comments</comments>
+		<pubDate>Tue, 24 May 2011 21:54:47 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[daily]]></category>
+		<category><![CDATA[ebooks]]></category>
+		<category><![CDATA[ipad]]></category>
+		<category><![CDATA[newspapers]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2011/05/the_daily.html</guid>
+		<description><![CDATA[&#8220;David Barnard chimes in&#8221;:http://davidbarnard.com/post/5649151852/orchestrating-magic on The Daily: &#8220;The carousel is a fun bit of UI (at least in theory, it&#8217;s still a bit laggy and jittery for my taste), but there&#8217;s just no way to quickly deliver enough content to make the carousel usable. The front page and table of contents, on the other hand, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>&#8220;David Barnard chimes in&#8221;:http://davidbarnard.com/post/5649151852/orchestrating-magic on The Daily:</p>
+<blockquote><p>&#8220;The carousel is a fun bit of UI (at least in theory, it&#8217;s still a bit laggy and jittery for my taste), but there&#8217;s just no way to quickly deliver enough content to make the carousel usable. The front page and table of contents, on the other hand, could likely be fully delivered in the 4-5 seconds from the launch of the app to the end of the launch animation. Sending users directly to the front page (or potentially a redesigned table of contents, but I wont get into that) will make it feel as though the app has been magically filled with content.&#8221;</p></blockquote>
+<p>David makes some great points. Put another way, if some of their design decisions were too ambitious for their technical plumbing to keep up with, they should update the design and optimize it for speed. With such a mainstream app, though, you can&#8217;t really win. I&#8217;m sure if it was only fast and not fancy, it would have been criticized as too bland.</p>
+<p>The initial criticism of &#8220;The Daily&#8221;:http://www.thedaily.com/ always seemed overblown to me. It&#8217;s not perfect, but they got some of the difficult things right: navigation that makes sense, original content, good layout, clear subscription model.</p>
+<p>Off and on for the first few weeks, I would read several articles each day in The Daily. There were a couple crashes and glitches, but nothing that made the app unusable. If no one else had been complaining, I&#8217;m not sure I would have noticed anything so wrong it was worth mentioning.</p>
+<p>They can make it faster and polish up the rough edges over a few subsequent bug fix releases. And maybe enough of the fundamentals are right that they can get pretty far even without the design changes David suggests.</p>
+<p>Now that I&#8217;ve &#8220;written a few e-book apps&#8221;:http://www.vitalsource.com/, I can say with certainty that getting the basics right is more challenging than it looks. Other traditional companies moving their content to the iPad have launched much farther off-course than The Daily.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2011/05/the_daily.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>In-app purchase changes</title>
+		<link>http://www.manton.org/2011/02/inapp_purchase_changes.html</link>
+		<comments>http://www.manton.org/2011/02/inapp_purchase_changes.html#comments</comments>
+		<pubDate>Thu, 10 Feb 2011 18:34:33 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[ebooks]]></category>
+		<category><![CDATA[inapp]]></category>
+		<category><![CDATA[thedaily]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2011/02/inapp_purchase_changes.html</guid>
+		<description><![CDATA[With the recent release of &#8220;The Daily&#8221;:http://www.thedaily.com/ and the news of &#8220;Sony&#8217;s e-book app rejection&#8221;:http://arstechnica.com/apple/news/2011/02/change-in-apple-policy-has-e-book-fans-worried-about-their-apps.ars, there&#8217;s speculation that Apple will change the rules around iOS in-app purchases. The 30% cut makes it difficult for some businesses to move to the App Store without passing a cost increase on to customers. Other than &#8220;no change&#8221;, I&#8217;ve [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>With the recent release of &#8220;The Daily&#8221;:http://www.thedaily.com/ and the news of &#8220;Sony&#8217;s e-book app rejection&#8221;:http://arstechnica.com/apple/news/2011/02/change-in-apple-policy-has-e-book-fans-worried-about-their-apps.ars, there&#8217;s speculation that Apple will change the rules around iOS in-app purchases. The 30% cut makes it difficult for some businesses to move to the App Store without passing a cost increase on to customers.</p>
+<p>Other than &#8220;no change&#8221;, I&#8217;ve only heard two possible solutions:</p>
+<p>&bull; <em>Special deals for the big guys.</em> Amazon and other retailers could negotiate lower rates. But as Marco mentioned on &#8220;Build and Analyze&#8221;:http://5by5.tv/buildanalyze/11, the App Store treats large and small developers as equals. It&#8217;s a real strength that a 2-person game company can compete with Electronic Arts. I hope we never lose that.</p>
+<p>&bull; <em>Lower percentage for everyone.</em> Not going to happen. Take an app like Twitterrific. I consider it a $5 app, but to the store it&#8217;s actually a free app with a $5 in-app upgrade. Lowering the in-app cut would encourage many previously paid apps to convert to free and pay less to Apple.</p>
+<p>This is why I believe the only option is for Apple to <em>distinguish between in-app content and features</em>. Content purchases, such as e-books or virtual game items, would be in one class of payment. Feature upgrades, such as unlocking core functionality in the app, would continue to be 30%, same as paid downloads.</p>
+<p>Is it confusing for developers? Is it totally subjective and up to the judgement of the review team? Yes. Welcome to the App Store.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2011/02/inapp_purchase_changes.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Bookshelf Touch</title>
+		<link>http://www.manton.org/2010/09/bookshelf_touch.html</link>
+		<comments>http://www.manton.org/2010/09/bookshelf_touch.html#comments</comments>
+		<pubDate>Wed, 22 Sep 2010 04:38:09 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[bookshelf]]></category>
+		<category><![CDATA[ebooks]]></category>
+		<category><![CDATA[textbooks]]></category>
+		<category><![CDATA[vitalsource]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2010/09/bookshelf_touch.html</guid>
+		<description><![CDATA[Although I had worked a little on iOS apps before, updating an existing app for the iPad and tinkering with unfinished apps, the first 1.0 for iOS that I played a significant role in just shipped last week: a &#8220;mobile version of Bookshelf&#8221;:http://itunes.apple.com/us/app/vitalsource-bookshelf/id389359495?mt=8 for VitalSource. The iPhone version has been in development off and on [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img src="http://www.manton.org/images/2010/bookshelf_touch.png" alt="Bookshelf screenshot" title="bookshelf_touch.png" border="0" width="200" height="300" style="float:right;" hspace="10" /> Although I had worked a little on iOS apps before, updating an existing app for the iPad and tinkering with unfinished apps, the first 1.0 for iOS that I played a significant role in just shipped last week: a &#8220;mobile version of Bookshelf&#8221;:http://itunes.apple.com/us/app/vitalsource-bookshelf/id389359495?mt=8 for VitalSource. The iPhone version has been in development off and on for a while, but I took over the project fairly late in development, with a coding frenzy through the summer as we switched file formats and scrambled to finish in time for fall students.</p>
+<p>Today the app broke into the App Store&#8217;s top 25 for free Education apps.</p>
+<p>It&#8217;s designed for existing VitalSource customers, supporting both our file formats (for XML-based reflowable content or PDF-like fixed layout), with synced highlights, figure search, and offline access. At its core the app is 3 parts: a large C++ codebase, brand new Objective-C UI code, and a bunch of clever WebKit and JavaScript work. In many ways it&#8217;s a more difficult project than my other iPad app (still in development), but some great coders contributed to different parts of the architecture, before and after I joined the project.</p>
+<p>Nearly 10 years ago, when I was hired at VitalSource to build the Mac version of our e-book reader, we delivered textbooks on DVD-ROMs and our technology was years ahead of everyone else. Today, and especially post-iPad, the market is a lot different, with some beautiful competition like &#8220;Inkling&#8221;:http://itunes.apple.com/us/app/inkling/id379351586?mt=8. Bookshelf for iPhone wasn&#8217;t first to the App Store, but it inherits an existing user base, strong platform, and large book inventory. I like VitalSource&#8217;s chances.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2010/09/bookshelf_touch.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 8.636 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:16:32 -->

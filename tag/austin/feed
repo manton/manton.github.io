@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; austin</title>
+	<atom:link href="http://www.manton.org/tag/austin/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Austin rain</title>
+		<link>http://www.manton.org/2015/06/2637.html</link>
+		<comments>http://www.manton.org/2015/06/2637.html#comments</comments>
+		<pubDate>Tue, 02 Jun 2015 14:36:35 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[austin]]></category>
+		<category><![CDATA[flooding]]></category>
+		<category><![CDATA[rain]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2637</guid>
+		<description><![CDATA[I think it has finally stopped raining in Austin. Starting to look like summer again: Contrast with this video we took on our street last week. We get our fair share of thunderstorms, but I had never seen anything quite like the rain we got last month.]]></description>
+				<content:encoded><![CDATA[<p>I think it has finally stopped raining in Austin. Starting to look like summer again:</p>
+<p><img src="http://www.manton.org/images/2015/sunny_week.png" width="600" height="115" alt="10 days" border="0" /></p>
+<p>Contrast with <a href="https://www.dropbox.com/s/fo8hh82rf5a2az5/Balcones%20lake%20flooding.mov?dl=0">this video</a> we took on our street last week. We get our fair share of thunderstorms, but I had never seen anything quite like the rain we got last month.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/06/2637.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="https://www.dropbox.com/s/fo8hh82rf5a2az5/Balcones%20lake%20flooding.mov?dl=0" length="0" type="video/quicktime" />
+		</item>
+		<item>
+		<title>Google Fiber in Austin</title>
+		<link>http://www.manton.org/2013/04/google_fiber_in.html</link>
+		<comments>http://www.manton.org/2013/04/google_fiber_in.html#comments</comments>
+		<pubDate>Wed, 10 Apr 2013 22:41:12 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[austin]]></category>
+		<category><![CDATA[cable]]></category>
+		<category><![CDATA[fiber]]></category>
+		<category><![CDATA[fios]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[isps]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/04/google_fiber_in.html</guid>
+		<description><![CDATA[Google Fiber is coming to Austin next year, with crazy-fast 1 Gbps speeds. It was all over the local news in Austin yesterday. Although I’ve been trying to slowly move off of Google services, this would probably be too good a deal to pass up. However, it seems very unlikely that my neighborhood — which [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://fiber.google.com/cities/austin/">Google Fiber is coming to Austin</a> next year, with crazy-fast 1 Gbps speeds. It was all over the local news in Austin yesterday.</p>
+<p>Although I’ve been trying to slowly move off of Google services, this would probably be too good a deal to pass up. However, it seems very unlikely that my neighborhood — which is in the city limits, but pretty far away from central Austin — will get fiber anytime soon. Definitely not in the first year. From the <a href="http://www.statesman.com/news/technology/got-questions-about-google-fiber-here-are-some-ans/nXHMk/">Statesman’s FAQ</a>:</p>
+<blockquote><p>
+  “The coverage is limited to the city of Austin, although Google did not get specific about geographic boundaries. Representatives said they don’t have plans to add Round Rock, Kyle or San Antonio as part of this roll-out. In addition to homes, Google will also provide Gigabit to about 100 public organizations that the city of Austin has helped choose.”
+</p></blockquote>
+<p>We don’t even yet have Verizon FiOS in our neighborhood, and that has been rolling out in the Austin area for a while now. Time Warner Cable is still the dominant provider.</p>
+<p>Another interesting angle to the announcement: each Google Fiber customer also gets 1 <em>terabyte</em> of Google Drive storage. This sounded like a fantastic deal until I checked the normal Google Drive plans. They already have a 1 TB plan at $50/month, with more expensive options all the way up to 16 TB. (Dropbox stops at 500 GB unless you jump to their business-level “teams” plan.)</p>
+<p>Maybe that is the first killer app for fiber. Not syncing files, as Dropbox pioneered, but cloud storage that is fast enough to be more like an extension of your local hard drive than a mirror of it. Something like <a href="http://www.macworld.com/article/2012884/apple-unveils-fusion-drive-for-new-imac-and-mac-mini.html">Apple’s Fusion Drive</a>, but where the slow hard drive is the cloud, and the SSD is just a local cache.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/04/google_fiber_in.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>360iDev Austin (in tweets)</title>
+		<link>http://www.manton.org/2010/12/360idev_austin_in.html</link>
+		<comments>http://www.manton.org/2010/12/360idev_austin_in.html#comments</comments>
+		<pubDate>Wed, 15 Dec 2010 17:08:04 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[360idev]]></category>
+		<category><![CDATA[austin]]></category>
+		<category><![CDATA[conferences]]></category>
+		<category><![CDATA[ios]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2010/12/360idev_austin_in.html</guid>
+		<description><![CDATA[On &#8220;episode 35 of Core Intuition&#8221;:http://www.coreint.org/2010/11/episode-35-wrap-it-up-in-cocoa/ I mentioned attending the 360iDev conference, and we brought it up again on the next show while plugging 360MacDev. I had a great time at the conference and hope to attend another one in the future. The best part was meeting all the iPhone developers who I&#8217;ve never crossed [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>On &#8220;episode 35 of Core Intuition&#8221;:http://www.coreint.org/2010/11/episode-35-wrap-it-up-in-cocoa/ I mentioned attending the 360iDev conference, and we brought it up again on the next show while plugging 360MacDev. I had a great time at the conference and hope to attend another one in the future.</p>
+<p>The best part was meeting all the iPhone developers who I&#8217;ve never crossed paths with, and catching up with others I&#8217;d only met briefly before. iPhone developers come from a mix of places, from old Mac developers to web developers to traditional mobile or game developers. While there&#8217;s a risk that having so many small regional conferences will fragment the community, this concentrated group of mostly iPhone-only developers made for a great few days of sessions and discussion.</p>
+<p>And my main concern leading into the conference &mdash; that the hotel location would make it difficult for people to head downtown or see other parts of Austin &mdash; turned out to be mostly a non-issue. I had a great time hanging out with everyone in the evening, and hope some of you will be back for SXSW.</p>
+<p>I used Tweet Library to &#8220;collect about 120 tweets from attendees&#8221;:http://www.tweetlibrary.com/manton/360idevaustin at the conference: reaction to sessions, quotes, speaker slide URLs, dinner out, and more. Capturing an event like this is why I built the app. What you had for dinner isn&#8217;t interesting by itself, but <em>in context</em> it is powerful because it tells a story.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2010/12/360idev_austin_in.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>MacHeist, roofing, and making it up on volume</title>
+		<link>http://www.manton.org/2009/04/macheist_roofing_and.html</link>
+		<comments>http://www.manton.org/2009/04/macheist_roofing_and.html#comments</comments>
+		<pubDate>Wed, 15 Apr 2009 01:44:58 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[austin]]></category>
+		<category><![CDATA[hail]]></category>
+		<category><![CDATA[macheist]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2009/04/macheist_roofing_and.html</guid>
+		<description><![CDATA[I wasn&#8217;t going to write about MacHeist this year, but after a hail storm damaged nearly every roof in our neighborhood, I noticed something kind of obvious: there are a lot of business that make it up on volume. This is the new MacHeist promise, right? Not just exposure, although that&#8217;s part of it, but [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I wasn&#8217;t going to write about MacHeist this year, but after a hail storm damaged nearly every roof in our neighborhood, I noticed something kind of obvious: there are a lot of business that <em>make it up on volume</em>.</p>
+<p>This is the new MacHeist promise, right? Not just exposure, although that&#8217;s part of it, but selling so many tens of thousands of copies that the developers do very well regardless of their tiny underpriced cut of the profits per sale.</p>
+<p>We don&#8217;t get hail in Austin very often. I took the Flip out and &#8220;filmed a little bit of it&#8221;:http://www.flickr.com/photos/manton/3443213704, as golf-ball sized balls of ice blanketed the yard. Afterwards every roofing company in Texas descended on Austin offering steep discounts, in some cases even covering an insurance deductable of $2000 or more. Depending on who you ask, such practices may or may not be considered insurance fraud, but like MacHeist it does come with ethical considerations. The roofing companies knew that they could do so much business in the next 2 weeks that they will easily make up for reduced profits by the sheer volume of work.</p>
+<p>There&#8217;s another kind of discount shared between roofing companies and MacHeist. Users promote the package they just purchased in exchange for further discounts. For MacHeist it&#8217;s spamming your Twitter followers (I get a free Delicious Library!). For roofers it&#8217;s spamming your neighbors with a yard sign (I get $250 off!).</p>
+<p>I&#8217;ve learned a few things from all of this that I think will help me make &#8220;my own indie business&#8221;:http://www.riverfold.com/ stronger, or at least more consistent. I gladly give free licenses to reviewers, bloggers, and small Mac user groups. I also routinely do 10-20% off discounts that anyone who knows how to search Twitter or &#8220;RetailMeNot.com&#8221;:http://www.retailmenot.com/ can use.</p>
+<p>But I&#8217;m just going to have a default &#8220;no thanks&#8221; answer for big promotions and mass giveaways. It&#8217;s consistent with what I believe about keeping prices fair to sustain a Mac business, and it takes the guess work out of which promotions harm the Mac ecosystem and which are a great deal for everyone.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2009/04/macheist_roofing_and.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>STAPLE! in Austin today (year 4)</title>
+		<link>http://www.manton.org/2008/03/staple_in_austin.html</link>
+		<comments>http://www.manton.org/2008/03/staple_in_austin.html#comments</comments>
+		<pubDate>Sat, 01 Mar 2008 15:30:41 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Comics]]></category>
+		<category><![CDATA[Events]]></category>
+		<category><![CDATA[art]]></category>
+		<category><![CDATA[austin]]></category>
+		<category><![CDATA[comics]]></category>
+		<category><![CDATA[indie]]></category>
+		<category><![CDATA[staple]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2008/03/staple_in_austin.html</guid>
+		<description><![CDATA[Like independent comics and art? &#8220;STAPLE! is in Austin today&#8221;:http://www.staple-austin.org/ at the Monarch Event Center, off I-35 and 2222. I&#8217;ve been on the STAPLE! planning committee for four years now and have enjoyed watching our little show grow from its humble beginnings, but it&#8217;s still a completely non-profit, volunteer-led endeavor and we need your support [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Like independent comics and art? &#8220;STAPLE! is in Austin today&#8221;:http://www.staple-austin.org/ at the Monarch Event Center, off I-35 and 2222. I&#8217;ve been on the STAPLE! planning committee for four years now and have enjoyed watching our little show grow from its humble beginnings, but it&#8217;s still a completely non-profit, volunteer-led endeavor and we need your support to make it a success. Come join us anytime between 11am and 7pm (or &#8220;check the schedule&#8221;:http://www.staple-austin.org/guests/ for our featured session times), and then come back downtown later tonight for the after-party and live-art show at Red&#8217;s Scoot Inn (&#8220;flyer&#8221;:http://www.staple-austin.org/promote/staple2008_afterparty.jpg).</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2008/03/staple_in_austin.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>TwitterConf 2007</title>
+		<link>http://www.manton.org/2007/03/twitterconf_2007.html</link>
+		<comments>http://www.manton.org/2007/03/twitterconf_2007.html#comments</comments>
+		<pubDate>Thu, 22 Mar 2007 05:55:56 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[austin]]></category>
+		<category><![CDATA[friends]]></category>
+		<category><![CDATA[sxsw]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/03/twitterconf_2007.html</guid>
+		<description><![CDATA[It&#8217;s been over a week since SXSW Interactive wrapped up, and I can&#8217;t bring myself to post anything interesting about it. Don&#8217;t get me wrong, I had a great time. But I missed more sessions than usual this year (I&#8217;m trying to ship software here!), skipped half the parties (Traci was sick all weekend), and [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>It&#8217;s been over a week since SXSW Interactive wrapped up, and I can&#8217;t bring myself to post anything interesting about it. Don&#8217;t get me wrong, I had a great time. But I missed more sessions than usual this year (I&#8217;m trying to ship software here!), skipped half the parties (Traci was sick all weekend), and I didn&#8217;t notice any big themes that unified the conference.</p>
+<p>Except Twitter. Which just underscores that it is about the people, and what they are doing, and being inspired.</p>
+<p>I had a great time meeting new folks and catching up with old acquaintances: talking independent Mac development with Buzz Andersen and Justin Miller; software pricing with John Gruber; Rails and cities with Jamie Stephens and Sergio Rabiela; bumping into old school Mac web guys Carl de Cordova, Raines Cohen, Bill Christensen, and Wes Felter; co-workers and former co-workers Damon Clinkscales and Ryan Irelan respectively; lunch in a pub as a storm came down with Austinites Ben and Sara Brumfield; seeing my old friend John Brauer from high school who needs to email me (hint!); and finally meeting Shaun Inman and a bunch of other people whose names I can&#8217;t recall at the moment and whose business cards are buried somewhere, but no one is quite sure where.</p>
+<p>My only regret is that there were a few people I wanted to say hi to that I literally saw from a distance on the first day of the conference and then <em>never saw again</em>. Maybe they took the wrong escalator and are still trapped in the void of that 3rd floor.</p>
+<p>Of all the kajillion SXSW posts that have come through my fresh not-even-a-beta copy of NetNewsWire, I liked &#8220;Peter Merholtz&#8217;s write-up&#8221;:http://www.peterme.com/?p=533 the best:</p>
+<blockquote><p>&#8220;What I realized, and what I need to do if I return to SXSW, is that in order to enjoy what SXSW Interactive has become (and boy, has it changed since 1999) I have to take a more Zen-like approach, ignoring all the Things I Could Be Doing, and focus on simply getting the most out of whatever I Am Doing.&#8221;</p></blockquote>
+<p>Seeya next year.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2007/03/twitterconf_2007.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Austin on Rails</title>
+		<link>http://www.manton.org/2006/02/austin_on_rails.html</link>
+		<comments>http://www.manton.org/2006/02/austin_on_rails.html#comments</comments>
+		<pubDate>Thu, 23 Feb 2006 03:45:32 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[austin]]></category>
+		<category><![CDATA[frogdesign]]></category>
+		<category><![CDATA[rails]]></category>
+		<category><![CDATA[sxsw]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2006/02/austin_on_rails.html</guid>
+		<description><![CDATA[About 20 people met at the Frog Design building downtown a few months ago for the first Austin Ruby on Rails user group meeting, and by the third meeting that number had doubled. Founders Damon, Robert Rasmussen, and Rob Jones have done a great job getting the group off the ground and lining up interesting [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img src="http://www.manton.org/images/2006/rails_backroom.jpg" border="0" height="154" width="200" alt="Rails meeting photo" align="right" style="border: solid 1px gray;" hspace="10" vspace="10" title="More chairs for the back of the room" /> About 20 people met at the Frog Design building downtown a few months ago for the first <a href="http://www.austinonrails.org/">Austin Ruby on Rails</a> user group meeting, and by the third meeting that number had doubled. Founders <a href="http://www.damonclinkscales.com/">Damon</a>, Robert Rasmussen, and <a href="http://www.nonewmessages.com/">Rob Jones</a> have done a great job getting the group off the ground and lining up interesting topics.</p>
+<p>Last night was our fourth meeting. <a href="http://weblogs.java.net/blog/batate/">Bruce Tate</a> gave a talk on his experience ramping up a Rails team and comparisons to the Java world. As a new experiment on the agenda, afterwards some of us stuck around to hack together a member directory for the web site. I didn&#8217;t actively participate in the coding efforts, but I had a good time meeting new people. As usual, it was all followed by drinks at Hickory Street Bar &amp; Grill, where topics of discussion ranged from refactoring to Perl to C++ windowing toolkits to AppleGuide. You know there&#8217;s some real substance to Rails when it brings together such a diverse group.</p>
+<p>Also just announced: the <a href="http://www.austinonrails.org/articles/2006/02/21/austin-on-rails-happy-hour-at-sxsw">Rails Happy Hour at SXSW</a>. Should be fun.</p>
+<p><center><img src="http://www.manton.org/images/2006/bruce_tate.jpg" border="0" height="158" width="400" alt="Bruce Tate photo" style="border: solid 1px gray;" title="Bruce Tate answers questions after his presentation" /><br /><i>Bruce Tate answers questions after his presentation</i></center></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2006/02/austin_on_rails.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Alison Krauss</title>
+		<link>http://www.manton.org/2005/06/alison_krauss.html</link>
+		<comments>http://www.manton.org/2005/06/alison_krauss.html#comments</comments>
+		<pubDate>Mon, 27 Jun 2005 01:20:45 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Music]]></category>
+		<category><![CDATA[austin]]></category>
+		<category><![CDATA[backyard]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2005/06/alison_krauss.html</guid>
+		<description><![CDATA[Friday night we saw Alison Krauss &#38; Union Station at The Backyard. At one time far outside Austin, suburbia has now claimed most of the land around this uniquely Austin venue. We parked outside what will shortly be a Bed Bath &#38; Beyond, or maybe a Barnes &#38; Noble, or another of the too familiar [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Friday night we saw Alison Krauss &amp; Union Station at <a href="http://www.thebackyard.net/">The Backyard</a>. At one time far outside Austin, suburbia has now claimed most of the land around this uniquely Austin venue. We parked outside what will shortly be a Bed Bath &amp; Beyond, or maybe a Barnes &amp; Noble, or another of the too familiar cookie cutter retail shops that spring up around new neighborhoods. Walking over the dust, wire, and new concrete of the construction site, we were thankful for a chance to see a show at The Backyard before the landscape changes entirely, invaded by 24-hour parking lot lights and noisy cars.</p>
+<p>Inside none of that could be seen or mattered, though, and the stars came out midway through the set on a clear sky above the open-air venue. Alison&#8217;s voice was beautiful and effortless. Songs from the O Brother Where Art Thou soundtrack, other great tracks like The Lucky One and Restless, and a bunch of incredible songs that were new to me. For the encore, her voice soared as if she hasn&#8217;t even really been trying before. The audience was moved and in the span of an hour I went from being a little familiar with a few songs, to a life-long fan.</p>
+<p>Need some music? The <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewMix?id=40809933&#038;wm=1">Alison Krauss iTunes Essentials</a> is a good place to start.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2005/06/alison_krauss.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.282 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:17:38 -->

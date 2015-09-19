@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; css</title>
+	<atom:link href="http://www.manton.org/tag/css/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Searchpath tweaks</title>
+		<link>http://www.manton.org/2013/04/searchpath_tweaks.html</link>
+		<comments>http://www.manton.org/2013/04/searchpath_tweaks.html#comments</comments>
+		<pubDate>Thu, 25 Apr 2013 13:31:19 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[css]]></category>
+		<category><![CDATA[search]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/04/searchpath_tweaks.html</guid>
+		<description><![CDATA[I rolled out a few improvements to Searchpath last week. The popover now “fades in” when first shown, using a CSS animation. Scrolling in the background page content is also now disabled while the popover is shown, for WebKit browsers. This prevents the page from bouncing around as you scroll to the end of the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I rolled out a few improvements to Searchpath last week. The popover now “fades in” when first shown, using a CSS animation. Scrolling in the background page content is also now disabled while the popover is shown, for WebKit browsers. This prevents the page from bouncing around as you scroll to the end of the search results. And the mobile interface is better, finally including a close link for when you want to get back to the web site.</p>
+<p>I’ve also fixed an issue with how often Searchpath looks for new posts. It should be much faster to pick up on changes now, especially for blogs that update every day.</p>
+<p>You can <a href="http://searchpath.io/">try Searchpath for free</a> or subscribe for just $8/month.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/04/searchpath_tweaks.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Bootstrap CSS</title>
+		<link>http://www.manton.org/2012/05/bootstrap_css.html</link>
+		<comments>http://www.manton.org/2012/05/bootstrap_css.html#comments</comments>
+		<pubDate>Mon, 07 May 2012 14:07:58 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[css]]></category>
+		<category><![CDATA[dates]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[tweetmarker]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2012/05/bootstrap_css.html</guid>
+		<description><![CDATA[I&#8217;ve been using Twitter&#8217;s Bootstrap in an internal project at VitalSource for a few months, and over the weekend I finally switched to using the CSS framework in Tweet Marker too. The layout now works in more browsers and provides a much better foundation for design changes. It also allowed me to integrate this excellent [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;ve been using <a href="http://twitter.github.com/bootstrap/">Twitter&#8217;s Bootstrap</a> in an internal project at VitalSource for a few months, and over the weekend I finally switched to using the CSS framework in Tweet Marker too. The layout now works in more browsers and provides a much better foundation for design changes. It also allowed me to integrate <a href="http://www.eyecon.ro/bootstrap-datepicker/">this excellent date picker</a>.</p>
+<p><a href="http://www.riverfold.com/software/tweetmarker/dates.html">Here&#8217;s a short screencast video</a> showing the date picker in a new browsing feature in Tweet Marker Plus. I&#8217;m very happy with how this turned out — both the look and functionality. On the server the date ranges are implemented with a Sphinx query, so they can be combined with search terms to help find old tweets.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2012/05/bootstrap_css.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Animation panel and web site for STAPLE! 2007</title>
+		<link>http://www.manton.org/2007/02/animation_panel_and.html</link>
+		<comments>http://www.manton.org/2007/02/animation_panel_and.html#comments</comments>
+		<pubDate>Mon, 26 Feb 2007 05:30:37 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Animation]]></category>
+		<category><![CDATA[animation]]></category>
+		<category><![CDATA[comics]]></category>
+		<category><![CDATA[css]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[staple]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/02/animation_panel_and.html</guid>
+		<description><![CDATA[&#8220;Chris&#8221;:http://ycrtft.rethunkmedia.com/ and I headed over to Northcross Mall yesterday to take a final look at the conference center rooms before next week&#8217;s STAPLE! Expo. Although I&#8217;ve been on the planning committee since the very beginning of the conference over 3 years ago and actively involved for each of the previous 2 shows, this year is [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>&#8220;Chris&#8221;:http://ycrtft.rethunkmedia.com/ and I headed over to Northcross Mall yesterday to take a final look at the conference center rooms before next week&#8217;s STAPLE! Expo. Although I&#8217;ve been on the planning committee since the very beginning of the conference over 3 years ago and actively involved for each of the previous 2 shows, this year is a little special because I&#8217;ve been organizing a panel on animation to complement the mostly comic book focused show. We have three great local animators this year: Aaron Romo, Evan Cagle, and Lance Myers. See the &#8220;STAPLE! guests page&#8221;:http://www.staple-austin.org/guests/ for more information on their work and our other featured speakers.</p>
+<p>I also redesigned the web site last week, late Thursday night. In order to accommodate some CSS improvements and images from our new program, I had to abandon a few things from last year&#8217;s excellent design by &#8220;John Rubio&#8221;:http://www.johnrubio.com/ (who also did the logo). I hope to bring back elements of the old design for next year, though. There&#8217;s just not enough time in the day, and March is days away. I hate you February, for being so short.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2007/02/animation_panel_and.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Weblog design update</title>
+		<link>http://www.manton.org/2006/07/weblog_design_update.html</link>
+		<comments>http://www.manton.org/2006/07/weblog_design_update.html#comments</comments>
+		<pubDate>Sat, 29 Jul 2006 06:20:43 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[css]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[wwdc]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2006/07/weblog_design_update.html</guid>
+		<description><![CDATA[I just rolled out some design tweaks and &#8220;realignment&#8221;:http://alistapart.com/articles/redesignrealign/ to this site. The original design (if you could call it that) was whipped together several years ago and hasn&#8217;t really changed much since then. It even used HTML tables, a fact I was oddly proud of. The new site uses hack-free CSS, although there is [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I just rolled out some design tweaks and &#8220;realignment&#8221;:http://alistapart.com/articles/redesignrealign/ to this site. The original design (if you could call it that) was whipped together several years ago and hasn&#8217;t really changed much since then. It even used HTML tables, a fact I was oddly proud of. The new site uses hack-free CSS, although there is a layout bug for some content sizes.</p>
+<p>I also added a podcast feed link to all pages, links to my Flickr, 43 Things, and Del.icio.us accounts, and each individual post archive page also now includes excerpts from other posts in that category. You can see this in action by visiting &#8220;this post from 2 years ago&#8221;:http://www.manton.org/2004/07/california_adventure.html. I&#8217;ve been clicking through my old archives tonight, and that one stood out because WWDC is fast approaching again.</p>
+<p>Here are two before and after thumbnails of the same post. Not too exciting, but it&#8217;s nice to make even these small improvements. Next up are some planned design-y things for the header.</p>
+<p><center><img src="http://www.manton.org/images/2006/site_before.gif" alt="Before" style="border: solid 1px gray"/> <img src="http://www.manton.org/images/2006/site_after.gif" alt="After" style="border: solid 1px gray"/></center></p>
+<p>Enjoy!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2006/07/weblog_design_update.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 3.078 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:28:32 -->

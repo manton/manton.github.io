@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; trees</title>
+	<atom:link href="http://www.manton.org/tag/trees/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>If a tree falls</title>
+		<link>http://www.manton.org/2015/04/if-a-tree-falls.html</link>
+		<comments>http://www.manton.org/2015/04/if-a-tree-falls.html#comments</comments>
+		<pubDate>Mon, 06 Apr 2015 19:40:48 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[coralreef]]></category>
+		<category><![CDATA[microblogs]]></category>
+		<category><![CDATA[rss]]></category>
+		<category><![CDATA[snippets]]></category>
+		<category><![CDATA[trees]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2544</guid>
+		<description><![CDATA[There’s no denying the fact that my writing would have a greater reach today if I was still active on Twitter and tweeting links there. Posting to my own microblog feed and cross-posting to the dwindling user base that is App.net has an obvious “if a tree falls in a forest and no one is [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>There’s no denying the fact that my writing would have a greater reach today if I was still active on Twitter and tweeting links there. Posting to <a href="http://www.manton.org/category/micro">my own microblog feed</a> and cross-posting to the dwindling user base that is App.net has an obvious “if a tree falls in a forest and no one is around to hear it, does it make a sound?” aspect to it. If the post is read by so few people, some might argue that it can’t be as relevant to a larger conversation.</p>
+<p>This doesn’t bum me out, though. It <em>inspires</em> me. It reminds me that I believe in something ambitious that has to be built in layers, starting small — a more open microblog platform that other apps can hang on to, encouraging new writing that will last.</p>
+<p>Dave Winer calls this process of building successful platforms <a href="http://scripting.com/stories/2007/04/28/twitterAsCoralReef.html">a coral reef</a>. I think it’s a forest. Only the most passionate users of the open web can hear the tree falling today, but tomorrow there will be new growth. We plant a seed with each tool we build and with every RSS feed that’s wired up. There will eventually be many forests, crowded with plenty of people listening, interconnected regions that can’t be bound in the way a closed system inherently is.</p>
+<p>If you <a href="http://www.manton.org/2015/04/how-to-start-a-microblog.html">join in and post</a>, maybe your posts won’t be heard as clearly today. But in the future they will become the oldest, strongest pillars around which everything else grows.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/04/if-a-tree-falls.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Slow-growing trees</title>
+		<link>http://www.manton.org/2008/10/slowgrowing_trees.html</link>
+		<comments>http://www.manton.org/2008/10/slowgrowing_trees.html#comments</comments>
+		<pubDate>Mon, 20 Oct 2008 19:48:01 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[growth]]></category>
+		<category><![CDATA[projects]]></category>
+		<category><![CDATA[trees]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2008/10/slowgrowing_trees.html</guid>
+		<description><![CDATA[We planted some trees in our front yard recently. They take decades to grow, and we are under no illusion that they&#8217;ll provide meaningful shade before our children have families of their own. It&#8217;s easy to say: &#8220;Why should I bother? It will take too long before we can see results.&#8221; But it&#8217;s like anything [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We planted some trees in our front yard recently. They take decades to grow, and we are under no illusion that they&#8217;ll provide meaningful shade before our children have families of their own. It&#8217;s easy to say: &#8220;Why should I bother? It will take too long before we can see results.&#8221;</p>
+<p>But it&#8217;s like anything &mdash; the sooner you start, the less time you have to wait until that thing is mature.</p>
+<p>If you procrastinate forever, just because you won&#8217;t see results anytime soon, you&#8217;ll find yourself looking back 10 years later and wishing <em>if only I had just planted that tree / started that new software project, it would have been done by now</em>.</p>
+<p>In other words, don&#8217;t let the weight of potential work stop you from doing the right thing.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2008/10/slowgrowing_trees.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.198 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:36:41 -->

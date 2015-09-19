@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; 37signals</title>
+	<atom:link href="http://www.manton.org/tag/37signals/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>37signals rebrands to Basecamp</title>
+		<link>http://www.manton.org/2014/02/37signals_rebrands_to.html</link>
+		<comments>http://www.manton.org/2014/02/37signals_rebrands_to.html#comments</comments>
+		<pubDate>Mon, 10 Feb 2014 14:26:45 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[37signals]]></category>
+		<category><![CDATA[basecamp]]></category>
+		<category><![CDATA[coreint]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/02/37signals_rebrands_to.html</guid>
+		<description><![CDATA[I first blogged about 37signals a couple times back in 2002, and I’ve been a fan ever since. They had a huge influence on the way I approach design and the way I like to build products, not to mention a big impact on a whole new class of “software as a service” web apps. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I first blogged about 37signals a couple times <a href="http://manton.org/2002/03/ernest_kim_and_jason.html">back in 2002</a>, and I’ve been a fan ever since. They had a huge influence on the way I approach design and the way I like to build products, not to mention a big impact on a whole new class of “software as a service” web apps.</p>
+<p><a href="http://37signals.com/">The decision last week</a> to go all-in on Basecamp left me puzzled. Daniel and I discussed this at length on Core Intuition. It’s one thing to focus all your efforts on a single product, but seems quite another to rename the whole company around it. I still feel that once you make that choice, your hands are tied from ever thinking big again, from ever wanting to grow beyond the scope of a single product. It’s like saying “our best product ideas are behind us”, and I know that’s not true for 37signals.</p>
+<p>On the other hand, I’m sure 37signals understands their business better than I do. And maybe even big <a href="http://gettingreal.37signals.com/ch06_Done.php">decisions are temporary</a> anyway. I’m excited to see how it plays out in another year or two.</p>
+<p>You can <a href="http://www.coreint.org/2014/02/episode-123-focus-on-just-one-thing/">listen to Core Intuition episode 123</a> and let us know if we’re off base or not. Last week’s show also has more about choosing a product lineup, managing time, and thoughts on App.net’s Backer. <a href="http://smilesoftware.com/coreint">Thanks to Smile’s PDFpen</a> for sponsoring the podcast.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/02/37signals_rebrands_to.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Making time for marketing</title>
+		<link>http://www.manton.org/2012/11/making_time_for.html</link>
+		<comments>http://www.manton.org/2012/11/making_time_for.html#comments</comments>
+		<pubDate>Fri, 09 Nov 2012 17:27:09 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[37signals]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[marketing]]></category>
+		<category><![CDATA[watermark]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2012/11/making_time_for.html</guid>
+		<description><![CDATA[Like many programmers, I’m often fooled into thinking that it’s enough to build a good product — that people will find it on their own, instantly recognize its value, and pay for it. It’s easy to forget that even great products need marketing to succeed. For a one-man shop it’s important to take a break from [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Like many programmers, I’m often fooled into thinking that it’s enough to build a good product — that people will find it on their own, instantly recognize its value, and pay for it. It’s easy to forget that even great products need marketing to succeed. For a one-man shop it’s important to take a break from writing code and work on how the app is sold.</p>
+<p>Building a business is hard. I started Riverfold Software <em>6 years ago</em> and in many ways it has fallen short. And for some of the past year, I’ve squandered the success of Tweet Marker, failing to practice and experiment with how to make money from it.</p>
+<p><a href="http://www.inc.com/magazine/20110301/making-money-small-business-advice-from-jason-fried.html">Jason Fried of 37signals wrote for Inc Magazine</a> last year about how making money takes practice:</p>
+<blockquote><p>
+  “One thing I do know is that making money is not the same as starting a business. For entrepreneurs, this is an important thing to understand. Most of us identify with the products we create or services we provide. I make software. He is a headhunter. She builds computer networks. But the fact is, all of us must master one skill that supersedes the others: making money. You can be the most creative software designer in the world. But if you don’t know how to make money, you’re never going to have much of a business or a whole lot of autonomy.”
+</p></blockquote>
+<p>In the last week I’ve taken a couple steps in the right direction. I’ve finally redesigned the <a href="http://watermark.io/">Watermark home page</a> around a simpler marketing statement of what the app is about. And as discussed on <a href="http://coreint.org/64">the recent Core Intuition</a>, I switched from PayPal to Stripe in an effort to make payment smoother and subscriptions easier to track. There’s still a lot to do, but I hope to make even more time for marketing before the year is up.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2012/11/making_time_for.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The neverending feature backlog</title>
+		<link>http://www.manton.org/2012/07/the_neverending_feature.html</link>
+		<comments>http://www.manton.org/2012/07/the_neverending_feature.html#comments</comments>
+		<pubDate>Tue, 10 Jul 2012 16:12:01 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[37signals]]></category>
+		<category><![CDATA[bugdatabase]]></category>
+		<category><![CDATA[gettingreal]]></category>
+		<category><![CDATA[spolsky]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2012/07/the_neverending_feature.html</guid>
+		<description><![CDATA[Excellent piece from Joel Spolsky yesterday on software inventory and bug databases: “The trouble is that 90% of the things in the feature backlog will never get implemented, ever. So every minute you spent writing down, designing, thinking about, or discussing features that are never going to get implemented is just time wasted. When I [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Excellent piece from Joel Spolsky yesterday on <a href="http://www.joelonsoftware.com/items/2012/07/09.html">software inventory and bug databases</a>:</p>
+<blockquote><p>
+  “The trouble is that 90% of the things in the feature backlog will never get implemented, ever. So every minute you spent writing down, designing, thinking about, or discussing features that are never going to get implemented is just time wasted. When I hear about product teams that regularly have ‘backlog grooming’ sessions, in which they carefully waste a tiny amount of time and mental energy every day or every week thinking about every single feature which will never be implemented, I want to poke my eyes out.”
+</p></blockquote>
+<p>Reminds me of the original Getting Real from 37signals. <a href="http://gettingreal.37signals.com/ch05_Forget_Feature_Requests.php">Back in 2006</a>:</p>
+<blockquote><p>
+  “So what do you do with all these requests that pour in? Where do you store them? <strong>How do you manage them? You don’t. Just read them and then throw them away.</strong>”
+</p></blockquote>
+<p>And:</p>
+<blockquote><p>
+  “It sounds blasphemous but the ones that are important will keep bubbling up anyway. Those are the only ones you need to remember. Those are the truly essential ones. Don’t worry about tracking and saving each request that comes in. Let your customers be your memory. If it’s really worth remembering, they’ll remind you until you can’t forget.”
+</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2012/07/the_neverending_feature.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>10 years and 37signals</title>
+		<link>http://www.manton.org/2012/03/10_years_and.html</link>
+		<comments>http://www.manton.org/2012/03/10_years_and.html#comments</comments>
+		<pubDate>Fri, 09 Mar 2012 23:28:08 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[37signals]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[sxsw]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2012/03/10_years_and.html</guid>
+		<description><![CDATA[Every year on March 9th, as SXSW is getting started, I like to mark the anniversary of this blog. This time it&#8217;s the 10th year. &#8220;My second post back in 2002&#8243;:http://www.manton.org/2002/03/ernest_kim_and_jason.html was about a panel run by 37signals. I wrote: &#8220;Ernest and Jason really get it &#8212; I hope they inspire some designers to think [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Every year on March 9th, as SXSW is getting started, I like to mark the anniversary of this blog. This time it&#8217;s the 10th year.</p>
+<p>&#8220;My second post back in 2002&#8243;:http://www.manton.org/2002/03/ernest_kim_and_jason.html was about a panel run by 37signals. I wrote:</p>
+<blockquote><p>&#8220;Ernest and Jason really get it &#8212; I hope they inspire some designers to think about web sites in a new way, and finally start focusing on usability and page load time and cut the fancy graphics, roll-overs, and animations.&#8221;</p></blockquote>
+<p>This was a couple years before they reinvented themselves as a software company with Basecamp. As the &#8220;new Basecamp launches this week&#8221;:http://37signals.com/svn/posts/3129-launch-the-all-new-basecamp, it&#8217;s fascinating to think back on how far 37signals has come. The web is bigger now and more complex. Subscription web apps are everywhere. But I think the focus on performance that drove Jason Fried and his original co-founders to promote simple design in that SXSW panel a decade ago is still very much at the heart of what 37signals does.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2012/03/10_years_and.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Focusing on the wrong things</title>
+		<link>http://www.manton.org/2011/06/focusing_on_the.html</link>
+		<comments>http://www.manton.org/2011/06/focusing_on_the.html#comments</comments>
+		<pubDate>Wed, 22 Jun 2011 19:43:14 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[37signals]]></category>
+		<category><![CDATA[decisions]]></category>
+		<category><![CDATA[sifter]]></category>
+		<category><![CDATA[tweetmarks]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2011/06/focusing_on_the.html</guid>
+		<description><![CDATA[&#8220;Great post from Garrett Dimon&#8221;:http://garrettdimon.com/post/6724266888/my-biggest-mistake, on his biggest mistake building the bug-tracker Sifter: &#8220;I got bogged down watching our bottom-line even though we&#8217;ve always been comfortably profitable. I worried about preventing fraud even though the only instance we ever encountered only cost us $200. I constantly worried that Sifter could go down at any moment [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>&#8220;Great post from Garrett Dimon&#8221;:http://garrettdimon.com/post/6724266888/my-biggest-mistake, on his biggest mistake building the bug-tracker Sifter:</p>
+<blockquote><p>&#8220;I got bogged down watching our bottom-line even though we&#8217;ve always been comfortably profitable. I worried about preventing fraud even though the only instance we ever encountered only cost us $200. I constantly worried that Sifter could go down at any moment even though we&#8217;ve had 99.96% uptime since launch. [&#8230;] All of these little things were distracting me from the work that really mattered.&#8221;</p></blockquote>
+<p>For a small company, focusing on the wrong things will make or break a product. I&#8217;m guilty of the same thing. I sat on &#8220;Tweetmarks&#8221;:http://tweetmarks.net/ for 6 months without launching it because I was worried about how to pay for hosting and how to get developers involved.</p>
+<p>Sometimes there&#8217;s no obvious solution <em>until you ship</em>. Eventually it becomes easier to know when to be patient &mdash; to solve a problem right the first time &mdash; and when it&#8217;s needless worrying over something that may or may not even happen. And as 37signals says: &#8220;decisions are temporary&#8221;:http://gettingreal.37signals.com/ch06_Done.php anyway.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2011/06/focusing_on_the.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Interruption and collaboration</title>
+		<link>http://www.manton.org/2010/08/interruption_and_collaboration.html</link>
+		<comments>http://www.manton.org/2010/08/interruption_and_collaboration.html#comments</comments>
+		<pubDate>Mon, 30 Aug 2010 10:47:43 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[37signals]]></category>
+		<category><![CDATA[interruption]]></category>
+		<category><![CDATA[office]]></category>
+		<category><![CDATA[rework]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2010/08/interruption_and_collaboration.html</guid>
+		<description><![CDATA[Jason Fried, &#8220;from a recent interview&#8221;:http://37signals.com/svn/posts/2494-the-big-think-interview-take-two: &#8220;Interruption and collaboration are different things.&#8221; If you haven&#8217;t listened to a Jason Fried talk recently, this one covers a lot of good stuff. I also like &#8220;episode 19 of their podcast&#8221;:http://37signals.com/podcast/#episode19, which is edited from a live recording of a planning session for Rework. My first impression of [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Jason Fried, &#8220;from a recent interview&#8221;:http://37signals.com/svn/posts/2494-the-big-think-interview-take-two: &#8220;Interruption and collaboration are different things.&#8221; If you haven&#8217;t listened to a Jason Fried talk recently, this one covers a lot of good stuff.</p>
+<p>I also like &#8220;episode 19 of their podcast&#8221;:http://37signals.com/podcast/#episode19, which is edited from a live recording of a planning session for Rework. My first impression of Rework was that it was <em>too</em> finely edited &mdash; that to get to the essence they threw away too much material. I wanted to hear more case studies from their business, approaches that worked or didn&#8217;t, and lessons learned.</p>
+<p>But I&#8217;ve flipped through the book again, a few months later, and it holds up. I don&#8217;t know if it was intentional or not, but the lack of filler text gives it a certain timelessness. Each chapter is one core argument, and whether that topic resonates with the reader or not depends entirely on what you and I bring to it from our own job experiences.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2010/08/interruption_and_collaboration.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Campfire Beep</title>
+		<link>http://www.manton.org/2006/02/campfire_beep.html</link>
+		<comments>http://www.manton.org/2006/02/campfire_beep.html#comments</comments>
+		<pubDate>Sat, 18 Feb 2006 18:35:04 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[37signals]]></category>
+		<category><![CDATA[campfire]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2006/02/campfire_beep.html</guid>
+		<description><![CDATA[I&#8217;ve been living in Campfire quite a bit over the last few days. It&#8217;s a great app, well designed and very fast. But it suffers from a problem that iChat and other AIM clients do not have: it&#8217;s easy to forget about a chat room while working on something else because there&#8217;s no audio or [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&rsquo;ve been living in <a href="http://www.campfirenow.com/">Campfire</a> quite a bit over the last few days. It&rsquo;s a great app, well designed and very fast. But it suffers from a problem that iChat and other AIM clients do not have: it&rsquo;s easy to forget about a chat room while working on something else because there&rsquo;s no audio or visual notification that you missed a message.</p>
+<p>I whipped up a tiny AppleScript that monitors the chat and beeps if there have been any changes. It&rsquo;s simple but it works fine for me, and should make do until someone writes a full WebKit-based Campfire client app with more options, or until 37signals releases a supported public web services API.</p>
+<p>Requirements and how it works:</p>
+<ul>
+<li>Requires Safari. Does not work with Firefox or Camino.</li>
+<li>Campfire must be in its own web browser window, or the front tab in any window.</li>
+<li>Every 2 seconds, it grabs the HTML from the &lt;div&gt; that Campfire uses for the chat messages. If it has changed since the last time, it beeps.</li>
+<li>Only beeps if Safari is not the frontmost application.</li>
+<li>If you are in multiple chat rooms, only works if they are in their own window and visible on screen.</ul>
+<p>Download: <a href="http://www.manton.org/software/scripts/Campfire_Beep.dmg">Campfire_Beep.dmg</a> (90K)</p>
+<p>Just open the application in Script Editor to edit it. Or view the <a href="http://www.manton.org/software/scripts/Campfire_Beep.html">full source</a>.</p>
+<p>Comments? Email <a href="mailto:manton@manton.org">manton@manton.org</a>. Enjoy!</p>
+<p><b>Update:</b> I updated the script so that it doesn&#8217;t display errors, more correctly identifies URLs, and supports multiple open Campfire chat windows.</p>
+<p><b>This just in:</b> 37signals added sound notification to Campfire today! So this little AppleScript is officially obsolete. I&#8217;d like to take credit for convincing them that such a feature was needed, but we all know how they love to build features that won&#8217;t roll-out until the 2nd week after launch. :-)</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2006/02/campfire_beep.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.330 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:21:48 -->

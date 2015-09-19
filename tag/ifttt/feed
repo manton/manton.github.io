@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; ifttt</title>
+	<atom:link href="http://www.manton.org/tag/ifttt/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Microblogging with WordPress</title>
+		<link>http://www.manton.org/2015/06/microblogging-with-wordpress.html</link>
+		<comments>http://www.manton.org/2015/06/microblogging-with-wordpress.html#comments</comments>
+		<pubDate>Thu, 18 Jun 2015 16:32:00 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[ifttt]]></category>
+		<category><![CDATA[microblogs]]></category>
+		<category><![CDATA[snippets]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2739</guid>
+		<description><![CDATA[I wrote at a high level how I improved my microblogging workflow before WWDC, but I’d like to use this post to show the surrounding details. I hope it’s useful to other folks who want to control their own content. Post formats. Newer versions of WordPress have the concept of post formats. Normal blog posts [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.manton.org/2015/06/wordpress-microblog-posting-from-do-note.html">I wrote at a high level</a> how I improved my microblogging workflow before WWDC, but I’d like to use this post to show the surrounding details. I hope it’s useful to other folks who want to control their own content.</p>
+<p><strong>Post formats</strong>. Newer versions of WordPress have the concept of post formats. Normal blog posts have a “standard” format, but there are also these types: aside, image, link, quote, and status. For microblogs, I recommend “status”.</p>
+<p><strong>No titles</strong>. As I proposed <a href="http://www.manton.org/2014/09/defining-a-microblog-post.html">in a previous blog post</a>, for small posts we should revisit an original feature of RSS: the title of a post is optional. In fact, early blogging systems like Radio Userland didn’t even have a title field. When you’re writing a microblog post in WordPress, just leave the title blank, and if necessary update the post template to not include the title in HTML or the RSS feed.</p>
+<p><strong>RSS feeds</strong>. If you create a brand new WordPress blog for microblog posts, you won’t need to do anything special about RSS feeds. But if you share a single blog for both standard and status formats, you may want to have 2 feeds: one that excludes microblog posts and one that contains <em>only</em> microblog posts. Just use a special category for microblog posts in addition to the post format. <a href="https://gist.github.com/manton/f8b6f8b391a2f3d9b419">Here’s a section of my .htaccess file</a> where I use the “cat” parameter to include or exclude this category for my blog’s feeds.</p>
+<p><strong>iPhone posting</strong>. One of the lessons from Twitter is that posting should be effortless. Using WordPress on iOS is fine, but I’ve found that wiring up a simple posting recipe in IFTTT’s <a href="https://ifttt.com/products/do/note">Do Note app</a> makes it trivial to post from your phone. Use the WordPress action in IFTTT but also get <a href="https://wordpress.org/plugins/ifttt-post-formats/">this WordPress plug-in</a>. Since the WordPress action can’t yet specify a post format, the plug-in can simulate it by using a special ifttt-status category. <a href="http://www.manton.org/images/2015/microblog_screenshot_status.png">Here’s a screenshot</a> of what my IFTTT recipe looks like.</p>
+<p><strong>Tweeting</strong>. Now that you have a blog that contains all your microblog posts, you can wire it up to Twitter to automatically cross-post them as tweets. You’re writing <em>on your own site first</em>, but the posts still go out to your Twitter followers. Again, use an IFTTT recipe that pulls from your microblog RSS feed and sends the post content to Twitter. Since I don’t post to Twitter, <a href="http://www.manton.org/images/2015/microblog_screenshot_rss.png">I’ve set mine to post to App.net</a> instead. You can continue to reply and favorite directly on Twitter.</p>
+<p>I’m very excited about the potential for microblogging. For the last year I’ve been working on a new platform around this stuff. By adopting some of these tips for WordPress, your microblog will be ready for my platform, but more importantly your blog will be open and extensible. Let’s get back to our roots with RSS and see what tools and web sites we can build.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/06/microblogging-with-wordpress.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>WordPress microblog posting from Do Note</title>
+		<link>http://www.manton.org/2015/06/wordpress-microblog-posting-from-do-note.html</link>
+		<comments>http://www.manton.org/2015/06/wordpress-microblog-posting-from-do-note.html#comments</comments>
+		<pubDate>Tue, 02 Jun 2015 11:53:06 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[ifttt]]></category>
+		<category><![CDATA[microblogs]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2633</guid>
+		<description><![CDATA[I finally have a great use for IFTTT’s Do Note app. I’ve wired it up to my WordPress blog so that I can quickly publish microblog posts there. Previously, if I was on the go I could use the official WordPress iOS app, but that requires a bunch of extra taps: setting the post format [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I finally have a great use for IFTTT’s <a href="https://ifttt.com/products/do/note">Do Note</a> app. I’ve wired it up to my WordPress blog so that I can quickly publish microblog posts there. Previously, if I was on the go I could use the official WordPress iOS app, but that requires a bunch of extra taps: setting the post format to “status”, setting the category to “Snippets”, and going back and forth between screens. Now all of those defaults are baked into the IFTTT recipe. (Grab <a href="https://wordpress.org/plugins/ifttt-post-formats/">this WordPress plug-in</a> to set the custom post formats automatically.)</p>
+<p>I also wanted to streamline my cross-posting to App.net, which before now had been a manual copy and paste. I use a pair of RSS triggers in IFTTT for this as well, to go from my main RSS feed and my microblog RSS feed. And at the same time, I’ve updated the CSS for <a href="http://www.manton.org/category/micro">my microblog posts</a> so they look a little better over the web.</p>
+<p>Effortless tweeting is a big part of what Twitter got right on user experience. With WWDC around the corner, I should be posting to my own microblog more frequently now that I have a good workflow.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/06/wordpress-microblog-posting-from-do-note.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.685 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:24:49 -->

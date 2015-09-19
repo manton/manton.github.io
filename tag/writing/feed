@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; writing</title>
+	<atom:link href="http://www.manton.org/tag/writing/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>John Siracusa’s unbreakable record</title>
+		<link>http://www.manton.org/2015/04/john-siracusas-unbreakable-record.html</link>
+		<comments>http://www.manton.org/2015/04/john-siracusas-unbreakable-record.html#comments</comments>
+		<pubDate>Fri, 17 Apr 2015 17:22:12 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[mac]]></category>
+		<category><![CDATA[siracusa]]></category>
+		<category><![CDATA[spurs]]></category>
+		<category><![CDATA[writing]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2577</guid>
+		<description><![CDATA[I’ve been watching a lot of NBA games this season. I’ve caught well over half of the Spurs’s 82 games so far alone, on TV and SiriusXM in the car (and a few in person in San Antonio). I’m not sure how far they’ll make it, but you can’t argue with the greatness of this [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I’ve been watching a lot of NBA games this season. I’ve caught well over half of the Spurs’s 82 games so far alone, on TV and SiriusXM in the car (and a few in person in San Antonio). <a href="http://www.manton.org/2015/04/2575.html">I’m not sure</a> how far they’ll make it, but you can’t argue with the greatness of this team over so many years.</p>
+<p>The NBA has some records that just seem unbreakable. Either because the rules or style of play have evolved in the modern era, or because the records were insane at the time, these are feats we may not see again. <a href="http://www.foxsports.com/nba/lists/10-unbreakable-NBA-records">Here are 10 such records</a>, from Wilt Chamberlain’s 100-point game to the Laker’s 33-game winning streak to Bill Russell’s 11 championships. The Spurs’s 16-year streak of 50-win seasons is approaching this category of success as well.</p>
+<p>That’s kind of how I view John Siracusa’s <a href="http://arstechnica.com/apple/2015/04/after-fifteen-years-ars-says-goodbye-to-john-siracusas-os-x-reviews/">series of Mac OS X reviews on Ars Technica</a>. There have been other excellent reviews about Mac OS X over the years, but the depth and consistency of John’s reviews may always stand apart. If you’re starting today and want to top it, you will have to work for the next 15 years just to be competitive at all.</p>
+<p><a href="http://hypercritical.co/2015/04/15/os-x-reviewed">Congratulations John</a> on a great run. Nothing seems to last forever on the internet — web sites fade away, and some obscure technology isn’t well-covered to begin with — so it’s nice to know that these Mac OS X reviews are at a stable site where we’ll be able to reference them for years to come.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/04/john-siracusas-unbreakable-record.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The new Day One</title>
+		<link>http://www.manton.org/2012/08/the_new_day.html</link>
+		<comments>http://www.manton.org/2012/08/the_new_day.html#comments</comments>
+		<pubDate>Sat, 04 Aug 2012 06:41:06 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[dayone]]></category>
+		<category><![CDATA[journals]]></category>
+		<category><![CDATA[photos]]></category>
+		<category><![CDATA[writing]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2012/08/the_new_day.html</guid>
+		<description><![CDATA[Shawn Blanc reviews the latest version of Day One, which now supports photos: “Over the years, most of the major, monumental milestones of life were documented in my Moleskine. But not all. And that’s why I’m glad to have an app that let’s me easily and joyfully add a snapshot or a quick note about [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://shawnblanc.net/2012/08/day-one-review/">Shawn Blanc reviews the latest version of Day One</a>, which now supports photos:</p>
+<blockquote><p>
+  “Over the years, most of the major, monumental milestones of life were documented in my Moleskine. But not all. And that’s why I’m glad to have an app that let’s me easily and joyfully add a snapshot or a quick note about an important or memorable event. These are the things my family and I will look back on 20 and 30 years from now with great fondness.”
+</p></blockquote>
+<p>While <a href="http://www.manton.org/2012/07/journals.html">I keep the important stuff in my journals</a>, I also use a protected Twitter account for the everyday notes and photos while away from the house. It has no followers; it&#8217;s just to have a date-stamped entry with a photo that&#8217;s easy to sync. Now that I&#8217;ve read how people are using Day One for this, I&#8217;m going to switch away from my private Twitter account to use Day One on the iPhone instead.</p>
+<p>I like having one place for this kind of stuff. If the same type of content is scattered across multiple services, it makes it less likely that everything will be together in the future when I finally want it.</p>
+<p>Especially interesting to me from Shawn&#8217;s review is that he also keeps a hand-written journal, even after using Day One for a similar purpose. I&#8217;ll keep using real-world pen and paper too, and everything I write there I will also transcribe into Day One. But I&#8217;ll write new things in Day One that will stay exclusively digital.</p>
+<p>Federico Viticci <a href="http://www.macstories.net/reviews/review-the-new-day-one/">also has a great review</a>. He starts with the big picture, the why of writing it all down:</p>
+<blockquote><p>
+  “I don’t even know if I’ll be around in twenty years. But I do know that I want to do everything I can to make sure I can get there with my own memories. We are what we know. And I want to remember.”
+</p></blockquote>
+<p>I think the best writers know that it matters what their work looks like in a decade, or two decades, whether the writing is private or public. You can see it in everything from permanent URLs to blog topics to what software they use — a conscious effort to create content that lasts.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2012/08/the_new_day.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>First drafts on iPad</title>
+		<link>http://www.manton.org/2011/04/first_drafts_on.html</link>
+		<comments>http://www.manton.org/2011/04/first_drafts_on.html#comments</comments>
+		<pubDate>Wed, 06 Apr 2011 02:08:24 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[blogs]]></category>
+		<category><![CDATA[ipad]]></category>
+		<category><![CDATA[writing]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2011/04/first_drafts_on.html</guid>
+		<description><![CDATA[&#8220;Iain Broome&#8221;:http://writeforyourlife.net/writing-ipad-review on iPad writing, via &#8220;John Chandler&#8221;:http://byjohnchandler.com/: &#8220;I can, and do, write regularly with my iPad. But, to be perfectly honest, I rarely use it to edit, because I find it kind of clumsy to move the cursor around the screen with my finger. However, the iPad is a marvellous first draft machine.&#8221; Most [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>&#8220;Iain Broome&#8221;:http://writeforyourlife.net/writing-ipad-review on iPad writing, via &#8220;John Chandler&#8221;:http://byjohnchandler.com/:</p>
+<blockquote><p>&#8220;I can, and do, write regularly with my iPad. But, to be perfectly honest, I rarely use it to edit, because I find it kind of clumsy to move the cursor around the screen with my finger. However, the iPad is a marvellous first draft machine.&#8221;</p></blockquote>
+<p>Most of my blog posts start life on the iPad too. I write them in Simplenote, sync with the Mac to finish the post if it needs editing, then copy to MarsEdit to publish. It&#8217;s not completely smooth, but it&#8217;s a workflow that wasn&#8217;t even possible a year ago.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2011/04/first_drafts_on.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Five days, one paragraph</title>
+		<link>http://www.manton.org/2007/11/five_days_one.html</link>
+		<comments>http://www.manton.org/2007/11/five_days_one.html#comments</comments>
+		<pubDate>Tue, 06 Nov 2007 19:34:07 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[story140]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[writing]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/11/five_days_one.html</guid>
+		<description><![CDATA[So I am 5 days or 700 characters in to my Story 140 experiment. Even though separation between each tweet is only implied, this is the end of the first paragraph, and on the web site I will be formatting it that way. If you were to put the ideas you have in life into [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>So I am 5 days or 700 characters in to my <a href="http://www.story140.com/">Story 140 experiment</a>. Even though separation between each tweet is only implied, this is the end of the first paragraph, and on the web site I will be formatting it that way.</p>
+<p>If you were to put the ideas you have in life into two buckets &#8212; and I don&#8217;t meant the little one-off ideas, I mean the big ones you care about and could passionately defend &#8212; you might divide them into ideas which are truly great, and ideas which sound great. The key here is to avoid the ideas which are neither great nor which sound particularly good at all. It&#8217;s too early to know which one of these idea types Story 140 is, but at this point I&#8217;m leaning toward the &#8220;sounds great&#8221; side.</p>
+<p>Put simply, writing something 140 characters at a time is <em>exactly opposite</em> to the way I normally write. It is much more challenging than I thought, and after 2 days I immediately wanted to start cheating and writing a bunch ahead, so that the story flowed properly.</p>
+<p>I&#8217;ll keep at it, but I did realize that I have to at least partially plan what the story is about. I have only a vague idea in my head, but as I give it some more thought I will probably jot down notes so that when it comes time to write the tweet each day I know a little bit about where it is going. Even so, please don&#8217;t expect greatness from this work of fiction. You will be disappointed.</p>
+<p>On the plus side, I have received feedback (see &#8220;Ryan Irelan&#8217;s post&#8221;:http://www.ryanirelan.com/past/2007/11/03/story-140/) that it would be great for multiple people to contribute. As I said about NaNoWriMo, what makes some of these projects work is the community. I&#8217;d love to open up this concept, and I can turn the web site into more of an aggregator of sorts. If anyone has suggestions, please email me.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2007/11/five_days_one.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 3.811 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:13:25 -->

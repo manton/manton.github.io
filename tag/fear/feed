@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; fear</title>
+	<atom:link href="http://www.manton.org/tag/fear/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Two weeks notice: the first weekend</title>
+		<link>http://www.manton.org/2015/07/two-weeks-notice-the-first-weekend.html</link>
+		<comments>http://www.manton.org/2015/07/two-weeks-notice-the-first-weekend.html#comments</comments>
+		<pubDate>Mon, 20 Jul 2015 16:00:53 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[2weeks]]></category>
+		<category><![CDATA[fear]]></category>
+		<category><![CDATA[indie]]></category>
+		<category><![CDATA[riverfold]]></category>
+		<category><![CDATA[vital source]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2866</guid>
+		<description><![CDATA[I have some big news to share, so obviously I’m going to write a bunch of blog posts about it. This is the first one. For a while now I’ve been juggling working on my own projects, with my indie company Riverfold Software, and having a regular job at the education e-book software company VitalSource, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I have some big news to share, so obviously I’m going to write a bunch of blog posts about it. This is the first one.</p>
+<p>For a while now I’ve been juggling working on my own projects, with my indie company <a href="http://www.riverfold.com/">Riverfold Software</a>, and having a regular job at the education e-book software company VitalSource, where I’ve been <a href="http://www.manton.org/2014/02/13_years.html">for over 14 years</a>. As much as I felt like this balance mostly worked, lately it has become clear that the “nights and weekends” approach to Riverfold just isn’t going to be enough time going forward. Last week I resigned from my job at VitalSource to focus on growing Riverfold and shipping new apps this year, some of the most ambitious products I’ve ever tackled.</p>
+<p>I thought it would be fun to do a series of blog posts about the early part of this transition. For the next couple weeks, as I wind down one set of projects and ramp up new ones, I’m going to post here with the slightly-catchy title prefix “Two weeks notice”. It will be me thinking out loud about the transition, kind of in the informal spirit of <a href="http://inessential.com/vespersyncdiary">Brent’s syncing diary</a>, or like a more serialized version of the <a href="http://www.gusmueller.com/blog/archives/2005/12/25.html">classic indie posts from Gus Mueller</a> and <a href="http://weblog.rogueamoeba.com/2006/09/13/">Paul Kafasis</a>.</p>
+<p>But unlike the authors of those posts, I can’t claim to have found success yet. If you take <a href="http://ideveloper.co/podcast081/">Scotty’s definition from the iDeveloper podcast</a>, in fact, I’m not “indie” at all; I expect some percentage of my time will have to be reserved for client projects to help pay the bills. While I used to find that idea distasteful — why give up a consistent salary if you’re not even going to call the shots? — I’ve come to realize that client work can be pretty interesting. The cycle of starting new projects and shipping them is a good way to learn new APIs and iterate on how to build an app from scratch.</p>
+<p>While reading all these 2005-era indie blog posts, I was surprised to rediscover that <a href="https://www.red-sweater.com/blog/184/the-road-less-traveled">Daniel Jalkut also mentioned</a> mixing in consulting work:</p>
+<blockquote><p>
+  &#8220;Consulting makes an excellent back-up plan. You’ve always got a job if you need it, and your destiny is very much in your own hands.&#8221;
+</p></blockquote>
+<p>Of course he wanted more than that: to build a great company based around his own apps. I&#8217;m sure Daniel and I will be talking about this on <a href="http://coreint.org">Core Intuition</a> later this week.</p>
+<p>So it is a little in the vein of <a href="http://jonathanhays.me/2014/04/16/silverpine-software/">“leap and the net will appear”</a> that I’m moving on from a stable job, where I worked with great developers and friends, to something new that is a lot less certain. I thought that would make for a stressful week, but so far, everything seems okay.</p>
+<p>There’s paperwork to do and code to write. There’s health insurance to figure out. But there are also some things that have already been wrapped up. My projects at work are in a good place, hopefully not needing constant maintenance. We just refinanced our house, so that’s a monthly savings, and something that I’m told is difficult without a “real” job.</p>
+<p>Friday night I started catching up on some late business taxes (whoops). Saturday I finished editing <a href="http://www.coreint.org/2015/07/episode-190-they-become-lifelong-fans/">the podcast</a> (which we recorded over a week ago). The rest of the weekend I tried to relax with family (but I worked anyway). It’s Monday now and there’s a busy week ahead. Let’s see how this goes.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/07/two-weeks-notice-the-first-weekend.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Gruber on The Fear</title>
+		<link>http://www.manton.org/2008/10/gruber_on_the.html</link>
+		<comments>http://www.manton.org/2008/10/gruber_on_the.html#comments</comments>
+		<pubDate>Fri, 03 Oct 2008 04:17:21 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[fear]]></category>
+		<category><![CDATA[gruber]]></category>
+		<category><![CDATA[iphone]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2008/10/gruber_on_the.html</guid>
+		<description><![CDATA[I don&#8217;t link to Daring Fireball much anymore. Everyone who cares about the Mac and reads my blog, also likely reads his. I will link or write about obviously redundant topics that everyone else is also writing about only when I feel like I can add some kind of value. I felt that way with [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I don&#8217;t link to Daring Fireball much anymore. Everyone who cares about the Mac and reads my blog, also likely reads his. I will link or write about obviously redundant topics that everyone else is also writing about only when I feel like I can add some kind of value. I felt that way with &#8220;my short NDA post&#8221;:http://www.manton.org/2008/10/nda_and.html, putting it in the context of customers.</p>
+<p>But John Gruber&#8217;s latest, &#8220;The Fear&#8221;:http://daringfireball.net/2008/10/the_fear, is just too good not to link to. Many developers and professional bloggers can write passionately about rejected iPhone apps, but no one connected that to the default dock and its significance in the original device introduction by Steve Jobs. Whether the theory is true, we may never know, but man is it a good read.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2008/10/gruber_on_the.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.522 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:16:53 -->

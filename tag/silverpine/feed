@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; silverpine</title>
+	<atom:link href="http://www.manton.org/tag/silverpine/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Omni gets Brent, and a SilverPine update</title>
+		<link>http://www.manton.org/2014/09/omni-gets-brent-and-a-silverpine-update.html</link>
+		<comments>http://www.manton.org/2014/09/omni-gets-brent-and-a-silverpine-update.html#comments</comments>
+		<pubDate>Mon, 29 Sep 2014 19:39:57 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[indie]]></category>
+		<category><![CDATA[jobs]]></category>
+		<category><![CDATA[omni]]></category>
+		<category><![CDATA[silverpine]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2291.html</guid>
+		<description><![CDATA[We are so lucky in the Mac and iOS developer community that there are a number of ways to be successful. The most common: Work for someone else at their company. Work for yourself as an indie developer. Work for clients as a contractor or consultant. Any mix of the above or all 3. There&#8217;s [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We are so lucky in the Mac and iOS developer community that there are a number of ways to be successful. The most common:</p>
+<ul>
+<li>Work for someone else at their company.</li>
+<li>Work for yourself as an indie developer.</li>
+<li>Work for clients as a contractor or consultant.</li>
+<li>Any mix of the above or all 3.</li>
+</ul>
+<p>There&#8217;s no right answer. What works for one developer might be a poor choice for someone else. And throughout our careers, we may move between any of these different paths depending on what life and family require.</p>
+<p>Today, Brent Simmons announced that he&#8217;s making one of those moves. <a href="http://inessential.com/2014/09/29/omni">He&#8217;s starting at Omni</a>, and he&#8217;ll continue to work on Vesper as well:</p>
+<blockquote><p>
+  &#8220;I love that I get to work on both Vesper and on Omni apps. Omni is one of the great Cocoa development companies, and they’ve grown slowly and steadily over many years. They write lovable productivity apps — not just great iOS apps but also great <em>Mac</em> apps.&#8221;
+</p></blockquote>
+<p>Also today, Jon Hays announced that <a href="http://jonathanhays.me/2014/09/29/state-of-the-pines-6-months/">his 6-month-old company SilverPine is doing great</a>, and they&#8217;ve finished a bunch of client projects:</p>
+<blockquote><p>
+  &#8220;To say that some days my hair feels like it’s on fire is an understatement. That being said, I wouldn’t trade it for the world. The work we do is creative, challenging, cutting edge and very rewarding.&#8221;
+</p></blockquote>
+<p>Congrats to both! Change is exciting. It&#8217;s great to see friends happy doing what they love.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/09/omni-gets-brent-and-a-silverpine-update.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Photos+ and focus</title>
+		<link>http://www.manton.org/2014/04/photos_and_focus.html</link>
+		<comments>http://www.manton.org/2014/04/photos_and_focus.html#comments</comments>
+		<pubDate>Fri, 18 Apr 2014 21:39:41 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Photography]]></category>
+		<category><![CDATA[dropbox]]></category>
+		<category><![CDATA[glassboard]]></category>
+		<category><![CDATA[photosplus]]></category>
+		<category><![CDATA[silverpine]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/04/photos_and_focus.html</guid>
+		<description><![CDATA[You may have heard by now that Photos+ has a new home at SilverPine software. My friend Jonathan Hays — now co-founder of SilverPine — is of course also half of Sunlit, so it was a great fit for him to take on another photo app as well. He writes: “In addition to consulting, we [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>You may have heard by now that <a href="http://jonathanhays.me/2014/04/16/silverpine-software/">Photos+ has a new home at SilverPine software</a>. My friend Jonathan Hays — now co-founder of SilverPine — is of course also half of <a href="http://sunlit.io/">Sunlit</a>, so it was a great fit for him to take on another photo app as well. He writes:</p>
+<blockquote><p>
+  “In addition to consulting, we intend to slowly grow a portfolio of software. To that end, we are announcing today that we have purchased Photos+ from Second Gear Software. We have quite a bit of expertise with photo Apps (see Sunlit, among others) and when Justin Williams approached me about purchasing it from him, it felt like a great fit. We have big plans for Photos+ and have already put into motion the first phase of those plans: native Dropbox integration!”
+</p></blockquote>
+<p>I tested the Dropbox support during the 1.1 beta and think it’s a great direction to take the app. Dropbox the company is going all in on photos: just in the last week shipping Carousel and now acquiring Loom. The more people start using Dropbox to store all their photos, the more useful companion photo apps like Photos+ and Sunlit will be.</p>
+<p>And now <a href="http://carpeaqua.com/2014/04/17/moonshots/">Justin Williams is free to focus all his time on Glassboard</a>. While I’ve been building web services and subscription apps for a while now, the truth is I’m still figuring out how to do this as a business too. I’ve learned a lot from Justin’s recent blog posts on the subject.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/04/photos_and_focus.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.640 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:17:07 -->

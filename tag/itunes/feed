@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; itunes</title>
+	<atom:link href="http://www.manton.org/tag/itunes/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Apple needs Beats Music</title>
+		<link>http://www.manton.org/2014/05/apple_needs_beats.html</link>
+		<comments>http://www.manton.org/2014/05/apple_needs_beats.html#comments</comments>
+		<pubDate>Fri, 09 May 2014 12:57:12 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Music]]></category>
+		<category><![CDATA[App]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[beats]]></category>
+		<category><![CDATA[itunes]]></category>
+		<category><![CDATA[Store]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/05/apple_needs_beats.html</guid>
+		<description><![CDATA[John Gruber asks, on the rumor that Apple will acquire Beats: “The Beats streaming service is interesting, but can’t Apple do that on its own, as an expansion of the iTunes Music Store and iTunes Radio?” Unfortunately I think the answer is no, Apple can’t easily do anything like what Beats Music has done. Not [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://daringfireball.net/linked/2014/05/08/beats">John Gruber asks</a>, on the rumor that Apple will acquire Beats:</p>
+<blockquote><p>
+  “The Beats streaming service is interesting, but can’t Apple do that on its own, as an expansion of the iTunes Music Store and iTunes Radio?”
+</p></blockquote>
+<p>Unfortunately I think the answer is no, Apple can’t easily do anything like what Beats Music has done. Not because they lack the skill, but because they lack the desire to actually do the work and hire the staff to make it happen. Compare iTunes Radio side by side with Beats Music. Beats Music isn’t just a streaming service; it’s more like a platform for curating playlists and discovering music.</p>
+<p>I like Beats Music so much that I wrote two posts recently about it. Here’s a snippet from each, first on <a href="http://manton.org/2014/02/we_love_music.html">building something you love</a>:</p>
+<blockquote><p>
+  “iTunes Radio looks like something they felt they had to build, not something they wanted to build. Beats Music is in a completely different league, with a deep set of features and content. It looks like an app that’s had years to mature, not a 1.0.”
+</p></blockquote>
+<p>And then on <a href="http://manton.org/2014/02/ending_the_app_store.html">ending the top 200</a> by doubling down on featured apps, just as Beats Music has done for music curation:</p>
+<blockquote><p>
+  “How would this fix the junk problem in the App Store? Simple. No one in their right mind would ever feature one of these ad-filled, ‘re-skinned’ cheap apps. Great recommendations mean less reliance on search, making scam apps more difficult to find by accident.”
+</p></blockquote>
+<p>However, I agree with Gruber that on the surface this potential acquisition doesn’t really seem Apple-like. It would be unusual for them to acquire a high-profile brand. As much as I’d love to see the Beats Music team join Apple to improve iTunes and the App Store, I’ll be a little surprised if it actually happens. Maybe they have something else in mind that we can’t see yet.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/05/apple_needs_beats.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>iTunes password caching</title>
+		<link>http://www.manton.org/2010/07/itunes_password_caching.html</link>
+		<comments>http://www.manton.org/2010/07/itunes_password_caching.html#comments</comments>
+		<pubDate>Sat, 10 Jul 2010 18:21:31 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[fishies]]></category>
+		<category><![CDATA[itunes]]></category>
+		<category><![CDATA[playmesh]]></category>
+		<category><![CDATA[refunds]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2010/07/itunes_password_caching.html</guid>
+		<description><![CDATA[&#8220;Mike Rohde racked up $190 in iTunes in-app purchases&#8221;:http://www.rohdesign.com/weblog/archives/003193.html without knowing it, blaming an app called &#8220;Fishies&#8221;:http://itunes.apple.com/us/app/fishies-by-playmesh/id360868737?mt=8 by PlayMesh for tricking his son into purchasing virtual items without a password prompt. He was obviously pretty upset &#8212; I would be too! &#8212; but calling it a &#8220;scam&#8221; probably goes too far. So what really happened? [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>&#8220;Mike Rohde racked up $190 in iTunes in-app purchases&#8221;:http://www.rohdesign.com/weblog/archives/003193.html without knowing it, blaming an app called &#8220;Fishies&#8221;:http://itunes.apple.com/us/app/fishies-by-playmesh/id360868737?mt=8 by PlayMesh for tricking his son into purchasing virtual items without a password prompt. He was obviously pretty upset &mdash; I would be too! &mdash; but calling it a &#8220;scam&#8221; probably goes too far. So what really happened?</p>
+<p>It is fairly well known that after the App Store prompts for your iTunes password, you can download more apps for a certain length of time (at least a few minutes) before it requires a password again. What seemed less clear is that this applies to in-app purchases as well.</p>
+<p>To be sure, I ran a test to confirm the behavior:</p>
+<ul>
+<li>Download a new free app from the App Store (I downloaded the current number 1 iPhone app, Farm Story Summer).</p>
+</li>
+<li>
+<p>Enter your password to confirm the download.</p>
+</li>
+<li>
+<p>As soon as it finishes, go to another completely different app (in my case it was Iconfactory&#8217;s Ramp Champ, which I had downloaded months ago).</p>
+</li>
+<li>
+<p>Purchase an in-app virtual item.</p>
+</li>
+<li>
+<p>It prompts for whether you want to buy the item (the standard Apple prompt), but <em>without requiring a password</em>.</p>
+</li>
+</ul>
+<p>What must have happened to Mike is that he bought something, entered his password, and then handed the iPad over to his son. His son played the fish game and clicked a bunch of random stuff (likely got the Buy prompt), but because the whole concept of virtual currency is kind of confusing, and because it didn&#8217;t ask for a password, the app happily let him make all the purchases.</p>
+<p>I doubt the developer of this app did anything wrong. A reasonable argument could be made that iTunes should either not cache passwords at all, or keep a separate cache for app downloads vs. in-app purchases, or maybe always prompt for a password on in-app purchases. My kids and other kids I know have also used this backdoor trick to sneak a couple app downloads, but usually it&#8217;s a few bucks, not $190. Consumable virtual items (that you can keep buying over and over) make this problem much worse.</p>
+<p>On &#8220;episode 60 of This Week In Startups&#8221;:http://thisweekin.com/thisweekin-startups/this-week-in-startups-60-with-neil-young/, Jason Calacanis interviewed ngmoco founder Neil Young about the mobile game business, focusing on the hit iPhone/iPad game &#8220;We Rule&#8221;:http://werule.ngmoco.com/. I was stunned to learn from the show that some individuals spend not only hundreds of dollars but up to $10,000 on in-app purchases in We Rule. Neil Young was happy to take their money, but something feels wrong here, like a gambling addiction gotten way out of hand. Or maybe just kids running up their dad&#8217;s credit card bill.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2010/07/itunes_password_caching.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>It&#8217;s like iTunes for&#8230;</title>
+		<link>http://www.manton.org/2009/07/its_like_itunes.html</link>
+		<comments>http://www.manton.org/2009/07/its_like_itunes.html#comments</comments>
+		<pubDate>Thu, 23 Jul 2009 19:26:55 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[clipstart]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[itunes]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2009/07/its_like_itunes.html</guid>
+		<description><![CDATA[Sometimes it seems like every app is trying to be &#8220;the iTunes for &#60;insert subject here&#62;&#8221;. I&#8217;ve worked on &#8220;an app that fits into this category&#8221;:http://www.vitalsource.com/software/bookshelf/, and there are countless more. iTunes 1.0 represents one of the biggest shifts in Mac user interface design we&#8217;ve seen &#8212; single window, source list, and smart groups. While [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Sometimes it seems like every app is trying to be &#8220;the iTunes for &lt;insert subject here&gt;&#8221;. I&#8217;ve worked on &#8220;an app that fits into this category&#8221;:http://www.vitalsource.com/software/bookshelf/, and there are countless more. iTunes 1.0 represents one of the biggest shifts in Mac user interface design we&#8217;ve seen &mdash; single window, source list, and smart groups.</p>
+<p>While the iTunes UI is great for music, I&#8217;m not convinced it&#8217;s automatically great for all workflows.</p>
+<p>&#8220;Clipstart&#8221;:http://www.riverfold.com/software/clipstart/ goes out of its way to do something different, by twisting the traditional source list a little to promote tags as the most important part of the UI. At first I feared that some customers would find it worse, that the UI would fail and I would be forced to become more iTunes-ish for the next version. But I think only by trying something different can you hope to be better. I&#8217;ve been using Clipstart to manage my movies all year and the tag-focused UI really works, especially when you start building up your library and can search and find related tags across all your videos.</p>
+<p>I released Clipstart 1.1.1 a few days ago with a bunch of bug fixes, and an &#8220;iPhone 3GS giveaway&#8221;:http://www.riverfold.com/software/clipstart/press/3gs.html too.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2009/07/its_like_itunes.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Apple announcements and Flash video</title>
+		<link>http://www.manton.org/2007/05/apple_announcements_and.html</link>
+		<comments>http://www.manton.org/2007/05/apple_announcements_and.html#comments</comments>
+		<pubDate>Thu, 31 May 2007 04:09:33 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[appletv]]></category>
+		<category><![CDATA[drm]]></category>
+		<category><![CDATA[itunes]]></category>
+		<category><![CDATA[quicktime]]></category>
+		<category><![CDATA[surface]]></category>
+		<category><![CDATA[wiitransfer]]></category>
+		<category><![CDATA[youtube]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/05/apple_announcements_and.html</guid>
+		<description><![CDATA[If you are wondering why I haven&#8217;t posted here in over a month, it&#8217;s because I&#8217;ve been getting my writing fix &#8220;over on Twitter&#8221;:http://twitter.com/manton, in 140 characters or less a couple times a day. Still trying to figure out the best way to integrate that experience into this site. I also have the usual queue [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>If you are wondering why I haven&#8217;t posted here in over a month, it&#8217;s because I&#8217;ve been getting my writing fix &#8220;over on Twitter&#8221;:http://twitter.com/manton, in 140 characters or less a couple times a day. Still trying to figure out the best way to integrate that experience into this site. I also have the usual queue of blog post drafts that will roll out here when I have time.</p>
+<p>Meanwhile&#8230;</p>
+<p>A bunch of really interesting things hit today. Microsoft Surface (can&#8217;t wait for the multi-touch iPhone); iTunes Plus (already upgraded my songs); and YouTube on the Apple TV (welcome if unexpected).</p>
+<p>I have actually been dreading the iTunes Plus announcement because I am behind in &#8220;Wii Transfer&#8221;:http://www.riverfold.com/software/wiitransfer/ development, and I had hoped to coincide version 2.3 with the DRM-free AAC files on iTunes. It should be ready for a private beta in a few days. (Want in on the beta? Just email <a href="mailto:support@riverfold.com">support@riverfold.com</a>.)</p>
+<p>But it&#8217;s the YouTube feature that is really fascinating to me. I&#8217;ve long thought that Apple has all but given up on web video, somehow content to let Flash dominate. The Apple movie trailers site as the last pocket of QuickTime content isn&#8217;t quite good enough. Apple could have created something on the scale of YouTube but hooked into the iApps, .Mac, and built on QuickTime. Maybe even as an extension of the iTunes Store around video podcasts.</p>
+<p>(The great thing about podcasts is that they are decentralized, but it makes it a little more difficult when you are trying to build a community. The iTunes Store also does a great job for discovery but nothing to help content creators. There is no one-step upload.)</p>
+<p>The Apple TV announcement is weird because while on the surface it looks like a confirmation that Flash video wins, it might just be the first sign of Apple fighting back. Every video on YouTube will get the H.264 treatment. The web video revolution (of sorts) has been great, but the pieces are coming together for truly useful broadband video. Perhaps YouTube sees that they could be a major player not just for silly webcam videos but as an infrastructure for high quality distribution, with content in some categories that will rival the networks.</p>
+<p>That future is especially believable the first time you sync up near-HD video podcasts to the Apple TV. It&#8217;s a great experience and definitely exceeded my expectations.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2007/05/apple_announcements_and.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Reflecting on a beta release and server testing</title>
+		<link>http://www.manton.org/2007/02/reflecting_on_a.html</link>
+		<comments>http://www.manton.org/2007/02/reflecting_on_a.html#comments</comments>
+		<pubDate>Sat, 10 Feb 2007 05:23:23 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[cocoa]]></category>
+		<category><![CDATA[covers]]></category>
+		<category><![CDATA[itunes]]></category>
+		<category><![CDATA[reflections]]></category>
+		<category><![CDATA[transfer]]></category>
+		<category><![CDATA[wii]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/02/reflecting_on_a.html</guid>
+		<description><![CDATA[Wii Transfer 2.2 is taking longer to get ready than I had planned, so I&#8217;ve decided to post a public beta while the last pieces are polished up. You can &#8220;grab it from the news section&#8221;:http://www.riverfold.com/software/wiitransfer/ of the Riverfold site (lower right). It is very close to being done, but giant chunks of code have [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Wii Transfer 2.2 is taking longer to get ready than I had planned, so I&#8217;ve decided to post a public beta while the last pieces are polished up. You can &#8220;grab it from the news section&#8221;:http://www.riverfold.com/software/wiitransfer/ of the Riverfold site (lower right). It is very close to being done, but giant chunks of code have been completely rewritten. I hope the extra testing will help make 2.2 an extremely solid release, and get some of the new features in the hands of users as soon as possible.</p>
+<p>So what&#8217;s new in 2.2? iTunes playlists and several new preferences to control picture sharing top the list, but there are at least a dozen changes underneath the hood.</p>
+<p>The web server built into Wii Transfer has seen some work in particular. Music browsing now uses the iTunes Music Library.xml file for everything rather than look at directory contents, and you can change the port number on the fly without restarting Wii Transfer if there is a conflict with any other applications.</p>
+<p>I&#8217;ve also added reflections to the album cover art! You can see a &#8220;screenshot here&#8221;:http://www.manton.org/images/2007/wii_transfer_cover.jpg and another one of &#8220;the collage for playlists here&#8221;:http://www.manton.org/images/2007/wii_transfer_collage.jpg (these are from Safari, but it looks mostly the same on the Wii). This was really fun to do, but unfortunately it somehow introduced a subtle double-release bug that I spent hours fixing. It would only happen if the album art could not be found in iTunes and while multiple connections were hitting the server (i.e. it was ultimately a threading issue), and maybe only every dozen requests.</p>
+<p>I tracked it down by using ab (Apache Bench), pointed at Wii Transfer. I had a shell script with a bunch of lines that looked like:</p>
+<p><code>ab -n 200 -c 4 "http://localhost:9000/m/Beatles.cover</code></p>
+<p>This URL asks Wii Transfer to grab any album art from iTunes for The Beatles, apply the reflection and return the JPEG data. It is flexible because you can send it any search strings. Other examples might be: <code>Evanescence%20Door.cover</code> or <code>Zoo%20Station.cover</code>. I was a little surprised that my little server was actually pumping out pages fairly quickly considering all the AppleScript and Quartz stuff going on. 10-20 requests per second isn&#8217;t much for a real web application, but for an app that is by definition single-user, it&#8217;s perfect.</p>
+<p>The reflection code was made even easier by &#8220;BHReflectedImage&#8221;:http://bithaus.com/2006/11/05/nsimage-reflection/, which I modified to work with black backgrounds and then wrapped up in other helper methods to composite the cover and reflection together. When I first ran across this code I didn&#8217;t even notice it was written by Jeff Ganyard, who I&#8217;ve known for years and still run into at WWDC. Thanks Jeff! This goes in the about box credits with a bunch of other mentions. There is a really active Mac developer community that contributes source pretty freely, and I hope to add a few things to that collection one of these day as well.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2007/02/reflecting_on_a.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Spoiled by iTunes, and the future of music</title>
+		<link>http://www.manton.org/2007/02/spoiled_by_itunes.html</link>
+		<comments>http://www.manton.org/2007/02/spoiled_by_itunes.html#comments</comments>
+		<pubDate>Thu, 08 Feb 2007 05:37:22 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Music]]></category>
+		<category><![CDATA[cds]]></category>
+		<category><![CDATA[itunes]]></category>
+		<category><![CDATA[jobs]]></category>
+		<category><![CDATA[music]]></category>
+		<category><![CDATA[steve]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/02/spoiled_by_itunes.html</guid>
+		<description><![CDATA[I have been &#8220;iTunes-free for four weeks now&#8221;:http://www.manton.org/2007/01/goodbye_itms.html, and I hate it. It must be like quitting smoking, except without the fear of dying always at your back. I stopped by a Best Buy the other day and couldn&#8217;t find any CDs to buy. How do you shop for music without listening to it first? [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I have been &#8220;iTunes-free for four weeks now&#8221;:http://www.manton.org/2007/01/goodbye_itms.html, and I hate it. It must be like quitting smoking, except without the fear of dying always at your back. I stopped by a Best Buy the other day and <em>couldn&#8217;t find any CDs to buy</em>. How do you shop for music without listening to it first? How do you find new artists without &#8220;customers also bought&#8230;&#8221; sidebars? Years ago I might listen to the radio to discover new music, but that was before the dial was permanently stuck on NPR.</p>
+<p>&#8220;Steve Jobs dropped the bomb&#8221;:http://www.apple.com/hotnews/thoughtsonmusic/ while I was at lunch yesterday, and I furiously read and re-read it and watched the fallout. Blog entries in NetNewsWire lit up like clockwork. As &#8220;I posted to Twitter&#8221;:http://twitter.com/manton, when the balance tips again to user control we&#8217;ll look back at this as a real shift in thinking. And the reason you know it&#8217;s true is because it sounds redundant to say the words.</p>
+<p>But today&#8230; I browsed for music on iTunes and then ordered CDs from Amazon.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2007/02/spoiled_by_itunes.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Goodbye iTMS</title>
+		<link>http://www.manton.org/2007/01/goodbye_itms.html</link>
+		<comments>http://www.manton.org/2007/01/goodbye_itms.html#comments</comments>
+		<pubDate>Thu, 04 Jan 2007 05:36:45 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Music]]></category>
+		<category><![CDATA[drm]]></category>
+		<category><![CDATA[itunes]]></category>
+		<category><![CDATA[mp3]]></category>
+		<category><![CDATA[wiitransfer]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/01/goodbye_itms.html</guid>
+		<description><![CDATA[When I started on the &#8220;music sharing feature&#8221;:http://www.manton.org/2007/01/holiday_hacking.html in the upcoming 2.0 release of Wii Transfer, I knew it couldn&#8217;t support protected songs from the iTunes Music Store. Still, it was disappointing when I started using it and such a big chunk of my favorite music was inaccessible. The only DRM problem I&#8217;ve ever run [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>When I started on the &#8220;music sharing feature&#8221;:http://www.manton.org/2007/01/holiday_hacking.html in the upcoming 2.0 release of Wii Transfer, I knew it couldn&#8217;t support protected songs from the iTunes Music Store. Still, it was disappointing when I started using it and such a big chunk of my favorite music was inaccessible. The only DRM problem I&#8217;ve ever run into before now is forgetting to deactivate old machines and hitting the 5-machine limit, but that&#8217;s easily solved, and I have been quick to defend iTMS and promote its convenience to others.</p>
+<p>No longer. Overnight my music library has become much less valuable, just because I chose to use it in a different way. Almost all the music I&#8217;ve bought in the last couple of years is from iTunes. I created two smart playlists, one to show protected and one not. Apparently of the 5000 songs on this computer, 500 of them are from iTunes. <em>10%.</em></p>
+<p>I&#8217;m not sure what is going to replace my use of iTunes yet, but for now I think I&#8217;ll lean on Amazon Prime&#8217;s free 2-day shipping and just order and rip CDs to good old fashioned high-bitrate MP3s. Too bad, because I do love the iTunes experience. Just gotta keep repeating to myself: text files, JPEGs, and MP3s are forever. Everything else is suspect.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2007/01/goodbye_itms.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 7.264 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:18:55 -->

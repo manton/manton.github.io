@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; wii</title>
+	<atom:link href="http://www.manton.org/tag/wii/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Wii Transfer 2.7.2</title>
+		<link>http://www.manton.org/2011/08/wii_transfer_272.html</link>
+		<comments>http://www.manton.org/2011/08/wii_transfer_272.html#comments</comments>
+		<pubDate>Sun, 14 Aug 2011 22:29:50 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[mii]]></category>
+		<category><![CDATA[wii]]></category>
+		<category><![CDATA[wiitransfer]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2011/08/wii_transfer_272.html</guid>
+		<description><![CDATA[And now for something completely different. I released a bug fix update to &#8220;Wii Transfer&#8221;:http://www.riverfold.com/software/wiitransfer/ last night, the first in over a year. It doesn&#8217;t have some of the bigger things I&#8217;d like to finish for the app, but it does have an important bug fix to Mii rendering. At some point in a recent [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>And now for something completely different. I released a bug fix update to &#8220;Wii Transfer&#8221;:http://www.riverfold.com/software/wiitransfer/ last night, the first in over a year. It doesn&#8217;t have some of the bigger things I&#8217;d like to finish for the app, but it does have an important bug fix to Mii rendering.</p>
+<p>At some point in a recent update to Safari or Mac OS X, Miis started appearing blank in Wii Transfer. These are rendered in an offscreen window using Flash, then saved as thumbnails in Wii Transfer with the option to export a JPEG. The fix &mdash; for reasons I&#8217;m still not clear on &mdash; was to switch to using NSBitmapImageRep&#8217;s cacheDisplayInRect instead of initWithFocusedViewRect. Needless to say, customers were frustrated that this was no longer working, and I&#8217;m sorry I didn&#8217;t take care of the problem more quickly.</p>
+<p>I&#8217;ve been thinking a lot lately about the future of Wii Transfer and its companion &#8220;@wii&#8221;:http://twitter.com/wii Twitter account. This little Mac app is overdue for a rename and refocused feature set.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2011/08/wii_transfer_272.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Twitter @wii</title>
+		<link>http://www.manton.org/2009/03/twitter_wii.html</link>
+		<comments>http://www.manton.org/2009/03/twitter_wii.html#comments</comments>
+		<pubDate>Tue, 31 Mar 2009 02:46:04 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[nintendo]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[wii]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2009/03/twitter_wii.html</guid>
+		<description><![CDATA[Last week my &#8220;@wii&#8221;:http://twitter.com/wii account on Twitter passed 3000 followers and seems to finally be growing strong after a year of neglect. I now try to post once every couple days with Nintendo news, and I&#8217;ll eventually throw in a tweet on new Wii Transfer updates. That was my evil plan from the beginning: have [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Last week my &#8220;@wii&#8221;:http://twitter.com/wii account on Twitter passed 3000 followers and seems to finally be growing strong after a year of neglect. I now try to post once every couple days with Nintendo news, and I&#8217;ll eventually throw in a tweet on new Wii Transfer updates. That was my evil plan from the beginning: have some fun with the account but also use it to build an audience and promote my own projects.</p>
+<p>I view @wii as a gift. I don&#8217;t know how long it will be under my control. As Twitter continues to go mainstream, eventually I expect Nintendo will want my little 3-character Twitter name for themselves, and I might just be glad to hand it off. Twitter works best with a personal voice, and I&#8217;ve already all but closed some of my secondary accounts.</p>
+<p>I&#8217;m more conflicted about what to do with the &#8220;Wii Friend Codes site&#8221;:http://wiitransfer.com/codes/. At one time I imagined it as a full Riverfold product, with integrated Mac and iPhone apps, but now I find that I lack the passion to really take it to new places. And to be honest, it works as is.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2009/03/twitter_wii.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Wii fad, 2 years later</title>
+		<link>http://www.manton.org/2008/12/the_wii_fad.html</link>
+		<comments>http://www.manton.org/2008/12/the_wii_fad.html#comments</comments>
+		<pubDate>Sun, 14 Dec 2008 19:03:53 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Video Games]]></category>
+		<category><![CDATA[nintendo]]></category>
+		<category><![CDATA[ps3]]></category>
+		<category><![CDATA[wii]]></category>
+		<category><![CDATA[xbox]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2008/12/the_wii_fad.html</guid>
+		<description><![CDATA[Video game console sales numbers for November are in. Two years after the Nintendo Wii was introduced &#8212; you know, the console that was derided as a gimmick, a fad, just a faster GameCube &#8212; the little white console still outsells the Xbox 360 over 2 to 1. It outsells the PS3 over 4 to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Video game console sales numbers for November are in. Two years after the Nintendo Wii was introduced &mdash; you know, the console that was derided as a gimmick, a fad, just a faster GameCube &mdash; the little white console still outsells the Xbox 360 over 2 to 1. It outsells the PS3 over 4 to 1. (&#8220;Here&#8217;s a 4cr post&#8221;:http://www.4colorrebellion.com/archives/2008/12/12/wii-buries-the-competition-in-november/ with official numbers.)</p>
+<p>The doubters were so wrong about this one. The fans and industry experts who were quick to sell Nintendo short kept waiting for a fail that never happened. If you go into a Best Buy right now the video game section is completely owned by the Wii and DS.</p>
+<p>Not everyone can take a risk and have it pay off so well, but it&#8217;s at least important to acknowledge that conventional wisdom and focus groups (what &#8220;everyone&#8221; knows) would have doomed Nintendo. The trick is being able to tell when you&#8217;ve got an idea that is truly special, and not just something you are clinging on to out of a stubbornness to be different.</p>
+<p>In related news, I imported a &#8220;Nintendo DSi&#8221;:http://www.nintendo.co.jp/ds/series/dsi/index.html from Japan last month and it&#8217;s a great rev to the portable system. It would be even better if I could read Japanese.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2008/12/the_wii_fad.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Wii friend codes from Twitter</title>
+		<link>http://www.manton.org/2008/05/wii_friend_codes.html</link>
+		<comments>http://www.manton.org/2008/05/wii_friend_codes.html#comments</comments>
+		<pubDate>Mon, 05 May 2008 03:32:52 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[codes]]></category>
+		<category><![CDATA[friend]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[wii]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2008/05/wii_friend_codes.html</guid>
+		<description><![CDATA[As most Nintendo Wii owners know by now, Mario Kart for Wii shipped last week. I put together yet another friend code database to track and share codes, but this one is unique because it builds on Twitter. Just follow &#8220;@wii&#8221;:http://twitter.com/wii and send your friend code in a reply. No registration, no data entry. All [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>As most Nintendo Wii owners know by now, Mario Kart for Wii shipped last week. I put together yet another friend code database to track and share codes, but this one is unique because it builds on Twitter. Just follow &#8220;@wii&#8221;:http://twitter.com/wii and send your friend code in a reply. No registration, no data entry. All your friends on Twitter who also use the system will automatically be linked, so you can quickly get a view of which friend codes to add. It&#8217;s also a great way to discover new Twitter users.</p>
+<p>I&#8217;m pretty happy with how the implementation has worked out. It&#8217;s build on essentially three background scripts:</p>
+<ul>
+<li>Parsing replies every minute looking for the friend code pattern (1234-1234-1234 for game codes, with dashes or spaces).</p>
+</li>
+<li>
+<p>Taking queued users and pulling everyone they are following into the database.</p>
+</li>
+<li>
+<p>Generating and caching the RSS feed for recently tweeted friend codes.</p>
+</li>
+</ul>
+<p>The system currently only pulls the first 300 followers, but it&#8217;s running smoothly enough that I will bump that up to 500 this week. Over 150 people are currently using it, and the database has about 10,000 records to keep track of friends. I feel like it&#8217;s architected well enough to grow significantly from here, so I may do some casual promotion of the service this week.</p>
+<p>If you own a Wii and use Twitter, &#8220;give it a try&#8221;:http://wiitransfer.com/codes/. If you have any questions or feature requests, please send me an email or reply on Twitter. Enjoy!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2008/05/wii_friend_codes.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Wii Transfer serial numbers</title>
+		<link>http://www.manton.org/2008/04/wii_transfer_serial.html</link>
+		<comments>http://www.manton.org/2008/04/wii_transfer_serial.html#comments</comments>
+		<pubDate>Wed, 23 Apr 2008 13:57:34 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[transfer]]></category>
+		<category><![CDATA[wii]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2008/04/wii_transfer_serial.html</guid>
+		<description><![CDATA[The search phrase &#8220;wii transfer serial numbers&#8221; (or &#8220;wii transfer serials&#8221;) is consistently one of the top referrers from Google to this blog, usually pointing to &#8220;my post about the first 75 days&#8221;:http://www.manton.org/2007/02/first_75_days.html. I figure I get enough traffic that I should dedicate a page to this. (I&#8217;m the developer, by the way.) Here are [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The search phrase &#8220;wii transfer serial numbers&#8221; (or &#8220;wii transfer serials&#8221;) is consistently one of the top referrers from Google to this blog, usually pointing to &#8220;my post about the first 75 days&#8221;:http://www.manton.org/2007/02/first_75_days.html. I figure I get enough traffic that I should dedicate a page to this. (I&#8217;m the developer, by the way.)</p>
+<p>Here are the best ways to get Wii Transfer:</p>
+<ul>
+<li>&#8220;Buy a copy&#8221;:http://www.riverfold.com/software/wiitransfer/! Just $19. Simple checkout with PayPal and you&#8217;ll get an automatic email within minutes.</p>
+</li>
+<li>
+<p>Write a review for a blog or magazine. &#8220;Email me&#8221;:mailto:support@riverfold.com first and I&#8217;ll give you a full license, even if it&#8217;s just your personal blog.</p>
+</li>
+<li>
+<p>Become a &#8220;beta tester&#8221;:http://www.riverfold.com/software/wiitransfer/beta/. From time to time, I need people to test the latest in-progress features. Free copy if you send any useful feedback on a beta.</p>
+</li>
+</ul>
+<p>Thanks for your support! I hope one of these options appeals to you.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2008/04/wii_transfer_serial.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>MacLife write-up and Wii Transfer beta</title>
+		<link>http://www.manton.org/2008/04/maclife_writeup_and.html</link>
+		<comments>http://www.manton.org/2008/04/maclife_writeup_and.html#comments</comments>
+		<pubDate>Sun, 20 Apr 2008 05:29:00 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[beta]]></category>
+		<category><![CDATA[maclife]]></category>
+		<category><![CDATA[magazine]]></category>
+		<category><![CDATA[transfer]]></category>
+		<category><![CDATA[wii]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2008/04/maclife_writeup_and.html</guid>
+		<description><![CDATA[Wii Transfer has a full-page mini-tutorial in the May edition of &#8220;MacLife magazine&#8221;:http://www.maclife.com/, as part of a section on connecting your Mac to video game consoles. I finally &#8220;picked up a copy&#8221;:http://twitter.com/manton/statuses/792260641 last night. It was certainly a nice surprise and seems to have brought a small increase in sales. I&#8217;ve also been wrapping up [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img src="http://www.manton.org/images/2008/maclife.png" alt="MacLife" border="0" width="200" height="256" hspace="10" align="left" style="border: solid 1px lightgray;" /> Wii Transfer has a full-page mini-tutorial in the May edition of &#8220;MacLife magazine&#8221;:http://www.maclife.com/, as part of a section on connecting your Mac to video game consoles. I finally &#8220;picked up a copy&#8221;:http://twitter.com/manton/statuses/792260641 last night. It was certainly a nice surprise and seems to have brought a small increase in sales.</p>
+<p>I&#8217;ve also been wrapping up the next version of Wii Transfer, which hopefully smoothes over most of the rough spots in the current release. After sending beta copies to a few customers, I&#8217;m opening up a &#8220;new forums section&#8221;:http://www.riverfold.com/forums/ as an experiment in getting early builds out without a more formal public beta. (It&#8217;s not linked from the main site yet, but will be soon.) Every developer handles betas in a different way, but I like the balance Jesse at &#8220;Hog Bay Software&#8221;:http://www.hogbaysoftware.com/ has achieved between his released software page and the early builds and developer notes in the forums section, for those customers willing to dig a little bit below the surface.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2008/04/maclife_writeup_and.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Wrapping up the Wii Giveaway</title>
+		<link>http://www.manton.org/2007/12/wrapping_up_the.html</link>
+		<comments>http://www.manton.org/2007/12/wrapping_up_the.html#comments</comments>
+		<pubDate>Wed, 19 Dec 2007 05:41:52 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[business]]></category>
+		<category><![CDATA[giveaway]]></category>
+		<category><![CDATA[shipping]]></category>
+		<category><![CDATA[wii]]></category>
+		<category><![CDATA[wiitransfer]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/12/wrapping_up_the.html</guid>
+		<description><![CDATA[After sitting on a shelf in my office for 2 months, unopened and unloved, I finally shipped off the Nintendo Wii today to the lucky winner. I was initially worried because he didn&#8217;t respond until well into the second day after I notified him, but he was pretty excited (&#8220;You&#8217;ve made my holiday&#8221;) and I&#8217;m [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.flickr.com/photos/75816553@N00/2122143656" title="View 'Sending away second Wii' on Flickr.com"><img src="http://farm3.static.flickr.com/2106/2122143656_43fcf52440_s.jpg" alt="Sending away second Wii" border="0" width="75" height="75" align="right" vspace="5" hspace="5" style="border: 1px solid lightgray;" /></a> After sitting on a shelf in my office for 2 months, unopened and unloved, I finally shipped off the Nintendo Wii today to the lucky winner. I was initially worried because he didn&#8217;t respond until well into the second day after I notified him, but he was pretty excited (&#8220;You&#8217;ve made my holiday&#8221;) and I&#8217;m glad it could ship out before Christmas. The picture here is in the car before I went into the UPS store to fill the box with peanuts.</p>
+<p>The promotion took a surprising amount of effort, but it was fun and definitely worthwhile. There were a total of 2447 unique submissions (1925 for the email form, and 522 from Twitter). Of those, over 1/3 agreed to sign up for my annual Riverfold Software newsletter. I consider that alone a success, although until I look at the stats more closely it&#8217;s not clear what percentage of potential-customers are actually using Macs. My &#8220;Wii Twitter account&#8221;:http://twitter.com/wii also doubled to about 300 followers.</p>
+<p>Although sales were initially flat, both &#8220;TUAW&#8221;:http://www.tuaw.com/2007/12/05/wii-transfer-maker-giving-away-a-wii/ and &#8220;Ars Technica&#8221;:http://arstechnica.com/journals/apple.ars/2007/12/06/win-a-wii-to-go-with-your-wii-transfer-for-mac ran nice stories on the promotion. I also &#8220;wrote a press release&#8221;:http://riverfold.com/software/wiitransfer/press/giveaway.html, with the idea of hitting some of the bigger gaming sites for the second week of the contest. In the end I decided not to, because I wanted to focus on Mac users, and because frankly there were plenty of submissions and I was burned out on the process.</p>
+<p>The contest easily paid for itself, but the extra sales really weren&#8217;t that significant. I have a database that tracks referrers through to the actual purchase, so I noticed an increase of only about 10-20 copies out of the 100 sales for the month so far. Part of that is no doubt the catch-22 of giving away hardware that is required for your software product, but I know that long-term there will be a benefit to the wider exposure.</p>
+<p>Mistakes? I should have made the whole promotion last just a day or two, and hyped it before launching instead. I also should have required that Twitter users follow Wii before entering, which would have boosted those followers and also greatly simplified tracking submissions (replies were spread over 3 RSS feeds and 33 iChat log transcripts). Relatively minor complaints, though, overall.</p>
+<p>To everyone who provided feedback on the idea, thanks. Maybe next year I&#8217;ll implement some of the more interesting promotion ideas I heard.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2007/12/wrapping_up_the.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Holiday Wii Giveaway and Twitter</title>
+		<link>http://www.manton.org/2007/12/holiday_wii_giveaway.html</link>
+		<comments>http://www.manton.org/2007/12/holiday_wii_giveaway.html#comments</comments>
+		<pubDate>Wed, 05 Dec 2007 05:18:04 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[Video Games]]></category>
+		<category><![CDATA[business]]></category>
+		<category><![CDATA[games]]></category>
+		<category><![CDATA[giveaway]]></category>
+		<category><![CDATA[wii]]></category>
+		<category><![CDATA[wiitransfer]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/12/holiday_wii_giveaway.html</guid>
+		<description><![CDATA[A few months ago I was in Target and they had some Wiis in stock, so on an impulse I bought one. I&#8217;ve owned a Wii since launch day, but I had this idea to give one away for Christmas as an experiment to help promote Wii Transfer. I sat on the idea for a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>A few months ago I was in Target and they had some Wiis in stock, so on an impulse I bought one. I&#8217;ve owned a Wii since launch day, but I had this idea to give one away for Christmas as an experiment to help promote Wii Transfer. I sat on the idea for a while, listened to feedback from others, and finally &#8220;rolled it out this morning&#8221;:http://www.riverfold.com/software/wiitransfer/giveaway/ with two methods to enter: web form (with field to notify a friend about the giveaway) and via Twitter (by sending a reply to @wii).</p>
+<p>Unfortunately there was a major snag with the Twitter idea. It turns out that @wii replies won&#8217;t show up in my Replies tab (or RSS feed) in Twitter unless the user posting the tweet is already following &#8220;twitter.com/wii&#8221;:http://twitter.com/wii. I now regret not making that a requirement, but I also know that it would have hurt the simplicity of entering via Twitter.</p>
+<p>So what&#8217;s the solution? For now, a combination of things. I am now tracking every tweet that contains &#8220;wii&#8221; (try it, there are some fun ones), which I will aggregate with the standard replies as well as results from a search on &#8220;Terraminds&#8221;:http://terraminds.com/twitter/ to fill in any of the tweets I missed. It&#8217;s all a bit cumbersome because the tracking results come through IM (luckily iChat transcripts are XML now).</p>
+<p>It feels very fragile, but hopefully I won&#8217;t miss any entries. There&#8217;s no cost to submitting multiple times, so consider sending another @wii tweet next week or entering with the web form to guarantee you&#8217;re in the drawing. If in doubt, re-read the &#8220;last line on the fine print&#8221;:http://www.riverfold.com/software/wiitransfer/giveaway/.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2007/12/holiday_wii_giveaway.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Wii Transfer 2.5.2 and Leopard</title>
+		<link>http://www.manton.org/2007/10/wii_transfer_252.html</link>
+		<comments>http://www.manton.org/2007/10/wii_transfer_252.html#comments</comments>
+		<pubDate>Thu, 01 Nov 2007 03:54:11 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[leopard]]></category>
+		<category><![CDATA[streaming]]></category>
+		<category><![CDATA[wii]]></category>
+		<category><![CDATA[wiitransfer]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/10/wii_transfer_252.html</guid>
+		<description><![CDATA[Happy Halloween! &#8220;Wii Transfer 2.5.2&#8243;:http://www.riverfold.com/software/wiitransfer/ is now available. This is probably one of the most difficult bug fix releases I&#8217;ve done. Full changes are in &#8220;the release notes&#8221;:http://www.riverfold.com/software/wiitransfer/releasenotes/, but the biggest stuff includes fixed Leopard UI glitches and a new 2-pass encoding that should result in much more consistent movie streaming quality. Along the way [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Happy Halloween! &#8220;Wii Transfer 2.5.2&#8243;:http://www.riverfold.com/software/wiitransfer/ is now available. This is probably one of the most difficult bug fix releases I&#8217;ve done. Full changes are in &#8220;the release notes&#8221;:http://www.riverfold.com/software/wiitransfer/releasenotes/, but the biggest stuff includes fixed Leopard UI glitches and a new 2-pass encoding that should result in much more consistent movie streaming quality. Along the way I touched most of the corners of the product, including many hours of trial-and-error debugging the Flash FLV player component.</p>
+<p>While testing Wii Transfer on my TV the other day I had a moment to reflect on how this product has evolved. What started as a one-weekend hack has grown into something quite a bit more complex. It has a few rough edges, sure, but I&#8217;m proud of this little app and how I&#8217;ve been able to put a simple UI on all these different technologies (embedded web server, HTML/JavaScript/Flash UI, MP3 and FLV conversion, iLife integration, etc). I have a few new features planned and in various stages of development, but I think the just-released 2.5.2 is going to start a trend of refinement; there&#8217;s a lot I could do to improve the movie conversion and streaming experience before introducing anything radically new.</p>
+<p>So, Leopard. I had originally planned to just wipe my old Leopard seed partition on the MacBook and test the GM, but at the last minute I dove full in and did an upgrade install on my primary machine, the Mac Pro. I have nightly SuperDuper clones just in case, but the upgrade was completely smooth. It&#8217;s a great OS foundation and I can&#8217;t wait to see what other developers have been working on.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2007/10/wii_transfer_252.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Wii Transfer 2.5</title>
+		<link>http://www.manton.org/2007/09/wii_transfer_25.html</link>
+		<comments>http://www.manton.org/2007/09/wii_transfer_25.html#comments</comments>
+		<pubDate>Fri, 21 Sep 2007 04:41:09 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[bookmarks]]></category>
+		<category><![CDATA[movies]]></category>
+		<category><![CDATA[pricing]]></category>
+		<category><![CDATA[streaming]]></category>
+		<category><![CDATA[transfer]]></category>
+		<category><![CDATA[wii]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/09/wii_transfer_25.html</guid>
+		<description><![CDATA[This morning I finally rolled out &#8220;version 2.5 of Wii Transfer&#8221;:http://www.riverfold.com/software/wiitransfer/, the most significant release of the product yet. It probably deserved a 3.0 label slapped on it, but I like how all the 2.x releases revolve around the sharing features (sending movies, music, and pictures to the Wii via the Opera browser). Besides, I [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>This morning I finally rolled out &#8220;version 2.5 of Wii Transfer&#8221;:http://www.riverfold.com/software/wiitransfer/, the most significant release of the product yet. It probably deserved a 3.0 label slapped on it, but I like how all the 2.x releases revolve around the sharing features (sending movies, music, and pictures to the Wii via the Opera browser). Besides, I have a special set of entirely new stuff planned for 3.0.</p>
+<p>So what&#8217;s new? Movie streaming is the big one. You can now drag and drop movie files to convert to Flash Video format, which Wii Transfer&#8217;s web server will happily stream up to your Wii. It works surprisingly well considering the Wii has such limited memory and no hard drive. Last night I even tested with feature-length movies.</p>
+<p>Other new features include background music for picture slideshows (both MP3 and AAC) and bookmark sharing, so that you can browse your Safari or Firefox bookmarks on your Wii to easily visit those sites. The &#8220;release notes&#8221;:http://www.riverfold.com/software/wiitransfer/releasenotes/ page has more of the details.</p>
+<p>I&#8217;ve also bumped the price up to $19, where I expect it to stay for some time. One way I like to think about the price of Wii Transfer is in relation to another common purchase from Wii owners: games. It&#8217;s still less than half the price of a new Wii game.</p>
+<p>Special thanks to the beta testers who provided feedback. There are still a number of things about movie sharing that I&#8217;d like to polish up, so additional minor updates are likely. I often use the &#8220;Wii account on Twitter&#8221;:http://twitter.com/wii to post these and other announcements.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2007/09/wii_transfer_25.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.158 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:31:00 -->

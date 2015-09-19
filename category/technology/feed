@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; Technology</title>
+	<atom:link href="http://www.manton.org/category/technology/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Peace, indies, and the App Store</title>
+		<link>http://www.manton.org/2015/09/peace-indies-and-the-app-store.html</link>
+		<comments>http://www.manton.org/2015/09/peace-indies-and-the-app-store.html#comments</comments>
+		<pubDate>Sat, 19 Sep 2015 15:53:31 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[indie]]></category>
+		<category><![CDATA[ios9]]></category>
+		<category><![CDATA[marco]]></category>
+		<category><![CDATA[peace]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3056</guid>
+		<description><![CDATA[You&#8217;ve probably heard that Marco Arment has pulled his content-blocking app Peace from the App Store. The app was extremely successful: &#8220;As I write this, Peace has been the number one paid app in the U.S. App Store for about 36 hours. It’s a massive achievement that should be the highlight of my professional career. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>You&#8217;ve probably heard that Marco Arment has pulled his content-blocking app Peace from the App Store. The app was <a href="http://www.marco.org/2015/09/18/just-doesnt-feel-good">extremely successful</a>:</p>
+<blockquote><p>
+  &#8220;As I write this, Peace has been the number one paid app in the U.S. App Store for about 36 hours. It’s a massive achievement that should be the highlight of my professional career. If <a href="https://overcast.fm/">Overcast</a> even broke the top 100, I’d be over the moon.&#8221;
+</p></blockquote>
+<p>I&#8217;ve seen some comments asking why he didn&#8217;t think to do this sooner, before he even shipped the app. But we are just now starting to understand the impact of ad blockers in iOS 9. I don&#8217;t think it&#8217;s an exaggeration to say that the web is different than it was a few days ago, and so our choices — and Marco&#8217;s — are different too. As I mentioned <a href="http://www.manton.org/2015/09/wrap-up-thoughts-on-the-tv-web.html">yesterday</a>, content blockers are one facet of an overall shake-up for the web.</p>
+<p><a href="http://inessential.com/2015/09/18/why_we_love_indies">Brent Simmons writes</a> that only indies can do what Marco did. Marco must have left a lot of money on the table with this decision. It will always look like the right call to me when someone goes with their gut feeling and not with profit.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/09/peace-indies-and-the-app-store.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Core Intuition and ATP this week</title>
+		<link>http://www.manton.org/2015/09/core-intuition-and-atp-this-week.html</link>
+		<comments>http://www.manton.org/2015/09/core-intuition-and-atp-this-week.html#comments</comments>
+		<pubDate>Fri, 18 Sep 2015 20:25:57 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[appletv]]></category>
+		<category><![CDATA[atp]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[web]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3051</guid>
+		<description><![CDATA[On this week&#8217;s Core Intuition, Daniel and I spend the whole show talking about the Apple TV. The first half is about the Apple TV dev kit lottery, and the second half is about whether we need the web on our TVs. There&#8217;s also a good discussion on the Accidental Tech Podcast about this. Here&#8217;s [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>On <a href="http://coreint.org/198">this week&#8217;s Core Intuition</a>, Daniel and I spend the whole show talking about the Apple TV. The first half is about the Apple TV dev kit lottery, and the second half is about whether we need the web on our TVs.</p>
+<p>There&#8217;s also a good discussion on the Accidental Tech Podcast about this. Here&#8217;s <a href="https://overcast.fm/+CdR7CP78/1:15:38">an Overcast link about halfway into the episode</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/09/core-intuition-and-atp-this-week.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Peace for the web</title>
+		<link>http://www.manton.org/2015/09/peace-for-the-web.html</link>
+		<comments>http://www.manton.org/2015/09/peace-for-the-web.html#comments</comments>
+		<pubDate>Thu, 17 Sep 2015 14:59:36 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[adblocking]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[ios9]]></category>
+		<category><![CDATA[openweb]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3037</guid>
+		<description><![CDATA[I haven&#8217;t paid too much attention to ad blocking until this week, even though I had been running the iOS 9 beta since WWDC. Several content blockers were released yesterday, like Marco Arment&#8217;s new app Peace. Marco writes: &#8220;You won’t believe how fast browsing the web can be without the bloated, privacy-invading junk that too [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I haven&#8217;t paid too much attention to ad blocking until this week, even though I had been running the iOS 9 beta since WWDC. Several content blockers were released yesterday, like Marco Arment&#8217;s new app <a href="https://peace.land">Peace</a>. Marco writes:</p>
+<blockquote><p>
+  &#8220;You won’t believe how fast browsing the web can be without the bloated, privacy-invading junk that too many publishers force on you <a href="http://www.marco.org/2015/08/11/ad-blocking-ethics">without your knowledge or consent</a>.&#8221;
+</p></blockquote>
+<p>Today, <a href="http://www.theverge.com/2015/9/17/9338963/welcome-to-hell-apple-vs-google-vs-facebook-and-the-slow-death-of-the-web">Nilay Patel has an essay</a> framing the issue as a fight between Apple, Google, and Facebook, with the web as a casualty:</p>
+<blockquote><p>
+  &#8220;And with iOS 9 and content blockers, what you&#8217;re seeing is Apple&#8217;s attempt to fully drive the knife into Google&#8217;s revenue platform. iOS 9 includes a refined search that auto-suggests content and that can search inside apps, pulling content away from Google and users away from the web, it allows users to block ads, and it offers publishers salvation in the form of Apple News, inside of which Apple will happily display (unblockable!) ads, and even sell them on publishers&#8217; behalf for just a 30 percent cut.&#8221;
+</p></blockquote>
+<p>I&#8217;m conflicted on this. I hate ads, and I think good publishers can adapt, but I&#8217;m also concerned that some progress we&#8217;ve made in native apps and user experience could be offset by steps <em>back</em> in open platforms. The health of the open web is more important than any one company, including Apple.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/09/peace-for-the-web.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Every device needs the web</title>
+		<link>http://www.manton.org/2015/09/every-device-needs-the-web.html</link>
+		<comments>http://www.manton.org/2015/09/every-device-needs-the-web.html#comments</comments>
+		<pubDate>Tue, 15 Sep 2015 17:22:50 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[appletv]]></category>
+		<category><![CDATA[applewatch]]></category>
+		<category><![CDATA[openweb]]></category>
+		<category><![CDATA[tvos]]></category>
+		<category><![CDATA[webview]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3027</guid>
+		<description><![CDATA[In a widely-linked post to Medium, Daniel Pasco writes about the problem of not having WebKit available on tvOS: &#8220;Webviews are the duct tape of the mobile world. I’d estimate that 50% to 80% of the major apps out there use webviews somewhere within their apps. Apple’s Mail app uses webviews for your email messages, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>In a widely-linked <a href="https://medium.com/@dlpasco/apple-tv-a-world-without-webkit-5c428a64a6dd">post to Medium</a>, Daniel Pasco writes about the problem of not having WebKit available on tvOS:</p>
+<blockquote><p>
+  &#8220;Webviews are the duct tape of the mobile world. I’d estimate that 50% to 80% of the major apps out there use webviews somewhere within their apps. Apple’s Mail app uses webviews for your email messages, because webviews can style and render the content very efficiently. NetNewsWire uses them prolifically, particularly in a few features we haven’t enabled in the shipping version yet.&#8221;
+</p></blockquote>
+<p>I&#8217;ve argued on <a href="http://www.coreint.org/">Core Intuition</a> that even with the Apple Watch — as silly as it might seem to want to browse the web on your wrist — there should still be some basic access to the web. If not a full browser, at least a webview so that developers can style short content.</p>
+<p><a href="http://bitsplitting.org/2015/09/12/everything-but-the-web/">Daniel Jalkut suggests</a> a related compromise for the Apple TV:</p>
+<blockquote><p>
+  &#8220;I propose that Apple could strike a compromise that would serve those ambitions while also <em>supporting the tasteful handling of web content</em> in apps. How? By forbidding network access to web content. Apps themselves could still access the network, but not from within their web views.&#8221;
+</p></blockquote>
+<p>This is much better, but I think we should aim higher, since giving up on the web seems to admit early defeat to what Daniel acknowledges is probably WebKit&#8217;s politically-motivated omission. The web might not be the most usable medium on all devices, but it is arguably the most important one. Just because we all love native apps doesn&#8217;t mean we should trade in the significant value that the web provides, especially for independent writing and a permanence that can outlive silos and platforms.</p>
+<p>Apple has 4 major platforms now: iOS, tvOS, watchOS, and the Mac. It&#8217;s a dangerous precedent for 2 out of those 4 to not have access to the open web. Web services are only part of the story; HTML and the hyperlink are also both fundamental components of web access. A platform is too shut off from the rest of the world without them.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/09/every-device-needs-the-web.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Web history and IPFS</title>
+		<link>http://www.manton.org/2015/09/web-history-and-ipfs.html</link>
+		<comments>http://www.manton.org/2015/09/web-history-and-ipfs.html#comments</comments>
+		<pubDate>Fri, 11 Sep 2015 16:51:32 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[archiving]]></category>
+		<category><![CDATA[ipfs]]></category>
+		<category><![CDATA[neocities]]></category>
+		<category><![CDATA[permanence]]></category>
+		<category><![CDATA[web]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3023</guid>
+		<description><![CDATA[Dave Winer on the continued disappearance of old web sites: &#8220;I&#8217;ve tried to sound the alarms. Every day we lose more of the history of the web. Every day is an opportunity to act to make sure we don&#8217;t lose more of it. And we should be putting systems into place to be more sure [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://scripting.com/2015/09/11/aGoodDayToThinkAboutWebHistory.html">Dave Winer</a> on the continued disappearance of old web sites:</p>
+<blockquote><p>
+  &#8220;I&#8217;ve tried to sound the alarms. Every day we lose more of the history of the web. Every day is an opportunity to act to make sure we don&#8217;t lose more of it. And we should be putting systems into place to be more sure we don&#8217;t lose future history.&#8221;
+</p></blockquote>
+<p>Earlier this week, <a href="http://stevenf.com/2015/09/09/http-is-obsolete-its-time-for-the-distributed-permanent-web/">Steven Frank pointed to</a> a new format and protocol called IPFS, which <a href="https://blog.neocities.org/its-time-for-the-permanent-web.html">Neocities is embracing</a>. Copies of your content would live in multiple nodes across the web instead of in a single, centralized location. From their blog post:</p>
+<blockquote><p>
+  &#8220;Distributing the web would make it less malleable by a small handful of powerful organizations, and that improves both our freedom and our independence. It also reduces the risk of the &#8216;one giant shutdown&#8217; that takes a massive amount of data with it.&#8221;
+</p></blockquote>
+<p>I took some time to read through what it can do, and I&#8217;d like to support it for the publishing platform that&#8217;s in my new microblogging project. I don&#8217;t know if it&#8217;s technically feasible yet, but I love that someone is trying to solve this. We just have to start somewhere.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/09/web-history-and-ipfs.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Acorn 5</title>
+		<link>http://www.manton.org/2015/08/acorn-5.html</link>
+		<comments>http://www.manton.org/2015/08/acorn-5.html#comments</comments>
+		<pubDate>Thu, 20 Aug 2015 17:09:06 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[acorn]]></category>
+		<category><![CDATA[flyingmeat]]></category>
+		<category><![CDATA[graphics]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2962</guid>
+		<description><![CDATA[Flying Meat&#8217;s Acorn 5 is out. I&#8217;ve been using the beta for a while and it&#8217;s a great release. Read Gus Mueller&#8217;s blog post for some of the features, including neat tricks you can do with the new Shape Processor. I also love this section about focusing on bug fixes: &#8220;So we fixed pretty much [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Flying Meat&#8217;s Acorn 5 is out. I&#8217;ve been using the beta for a while and it&#8217;s a great release. Read <a href="http://shapeof.com/archives/2015/8/so_awesome_its_nuts.html">Gus Mueller&#8217;s blog post</a> for some of the features, including neat tricks you can do with the new Shape Processor.</p>
+<p>I also love this section about focusing on bug fixes:</p>
+<blockquote><p>
+  &#8220;So we fixed pretty much all of those. It took months and months of work, it was super boring and mind numbing and it was really hard to justify, and it made Acorn 5 super late. But we did it anyway, because something in us felt that software quality has been going downhill in general, and we sure as heck weren&#8217;t going to let that happen to Acorn.&#8221;
+</p></blockquote>
+<p>Congrats to Gus on another big release. You should <a href="http://flyingmeat.com/acorn/">check it out here</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/08/acorn-5.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Riposte push server crowdfunding</title>
+		<link>http://www.manton.org/2015/08/riposte-push-server-crowdfunding.html</link>
+		<comments>http://www.manton.org/2015/08/riposte-push-server-crowdfunding.html#comments</comments>
+		<pubDate>Tue, 04 Aug 2015 16:54:15 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[adn]]></category>
+		<category><![CDATA[riposte]]></category>
+		<category><![CDATA[servers]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2938</guid>
+		<description><![CDATA[Back in April, the App.net app Riposte was removed from sale. Riposte wasn&#8217;t just the best client for App.net; I think it held its own against even the best Twitter apps, too. The push notification server for Riposte (and its messaging app complement, Whisper) was to keep running for some months and then shut down [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://blog.jaredsinclair.com/post/116294584510/riposte-the-appnet-app-permanently-removed-from">Back in April</a>, the App.net app Riposte was removed from sale. Riposte wasn&#8217;t just the best client for App.net; I think it held its own against even the best Twitter apps, too. The push notification server for Riposte (and its messaging app complement, Whisper) was to keep running for some months and then shut down this summer.</p>
+<p>Even if App.net is slowly fading away, like many users I still have Riposte on my home screen. I cross-post all <a href="http://www.manton.org/category/micro">my microblog posts</a> from this blog to App.net. When I get replies and mentions on App.net, I like to see them as push notifications in Riposte. I can reply in the app easily, or skim through the timeline to see what else is going on.</p>
+<p>Now the developers have launched a <a href="https://app.moonclerk.com/pay/q2j4zmciz4e">crowdfunding campaign</a> to keep the Riposte server running. Their goal is a modest $500 per year to cover AWS hosting and time to keep everything running smoothly. Even if you&#8217;re not very active on App.net anymore, consider donating as a thank-you for everything Riposte did for App.net, and for what it did to advance the state of UI design in social networking apps.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/08/riposte-push-server-crowdfunding.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Two weeks notice: it just works out</title>
+		<link>http://www.manton.org/2015/07/two-weeks-notice-it-just-works-out.html</link>
+		<comments>http://www.manton.org/2015/07/two-weeks-notice-it-just-works-out.html#comments</comments>
+		<pubDate>Fri, 24 Jul 2015 01:47:59 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[2weeks]]></category>
+		<category><![CDATA[codemirror]]></category>
+		<category><![CDATA[indie]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[luck]]></category>
+		<category><![CDATA[markdown]]></category>
+		<category><![CDATA[snippets]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2883</guid>
+		<description><![CDATA[John Saddington, who develops the Mac blog editor Desk, pointed to one of my recent posts and wrote: “It does make me ponder, once again, what I’m doing with my so-called ‘career’ and if it’s the ‘right’ one. Although, every single time I think about that I know that I won’t like the answer… yet [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>John Saddington, who develops the Mac blog editor Desk, pointed to one of my recent posts <a href="http://blog.desk.pm/pt-indie/">and wrote</a>:</p>
+<blockquote><p>
+  “It does make me ponder, once again, what I’m doing with my so-called ‘career’ and if it’s the ‘right’ one. Although, every single time I think about that I know that I won’t like the answer… yet it always just works. I can’t tell you why or how I found or discovered this cadence, but, to each his own.”
+</p></blockquote>
+<p>Which in turn makes me reflect on my own career. I’ve been extremely lucky. The right jobs just seemed to have presented themselves to me when I needed them. I hope that luck hasn’t led to overconfidence as I take these next steps to become more independent. It would be a glorious failure if my luck runs out just when I need it most.</p>
+<p>So I’ll have to work harder. I’ll have to better manage my finances, better plan and execute on new products, and better support each app so they’ll form a sustainable business. As I type this, I’m actually a little nervous for the first time since I put in my notice. Lots to do.</p>
+<p>Tonight’s challenge: finish integrating <a href="http://codemirror.net/">CodeMirror</a> into my new app, to provide Markdown syntax highlighting. I had never heard of this JavaScript library before this week. It seems very capable — a big jump forward on a feature I didn’t even think I could provide for 1.0.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/07/two-weeks-notice-it-just-works-out.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Matt Bonner and the iPhone 6</title>
+		<link>http://www.manton.org/2015/07/matt-bonner-and-the-iphone-6.html</link>
+		<comments>http://www.manton.org/2015/07/matt-bonner-and-the-iphone-6.html#comments</comments>
+		<pubDate>Tue, 07 Jul 2015 19:18:21 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[basketball]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[spurs]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2826</guid>
+		<description><![CDATA[I’ve always said the iPhone 6 and 6 Plus are ginormous. In an interview with the Concord Monitor, San Antonio Spurs player Matt Bonner speculates that reaching his fingers across that screen contributed to an elbow injury: “‘Everybody is going to find this hilarious, but here’s my theory on how I got it,’ he said. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I’ve always said the iPhone 6 and 6 Plus are ginormous. <a href="http://www.concordmonitor.com/community/town-by-town/concord/17589745-95/rapping-and-rocking-with-matt-bonner">In an interview with the Concord Monitor</a>, San Antonio Spurs player Matt Bonner speculates that reaching his fingers across that screen contributed to an elbow injury:</p>
+<blockquote><p>
+  “‘Everybody is going to find this hilarious, but here’s my theory on how I got it,’ he said. ‘When the new iPhone came out it was way bigger than the last one, and I think because I got that new phone it was a strain to use it, you have to stretch further to hit the buttons, and I honestly think that’s how I ended up developing it.’”
+</p></blockquote>
+<p>Bring on the iPhone 6C in a 4-inch plastic design. The current phones are dangerously too big.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/07/matt-bonner-and-the-iphone-6.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Amazon Echo</title>
+		<link>http://www.manton.org/2015/06/amazon-echo.html</link>
+		<comments>http://www.manton.org/2015/06/amazon-echo.html#comments</comments>
+		<pubDate>Wed, 17 Jun 2015 00:07:07 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[amazon]]></category>
+		<category><![CDATA[cloud]]></category>
+		<category><![CDATA[drm]]></category>
+		<category><![CDATA[echo]]></category>
+		<category><![CDATA[music]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2721</guid>
+		<description><![CDATA[Dan Moren wrote on Six Colors last month about the Amazon Echo. On the voice recognition working so well: “The Echo’s hardware deserves a full share of that credit. The microphones on this device are impressive; even when I’m several rooms away, Alexa rarely mishears me. I’ve triggered it from my kitchen and from my [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://sixcolors.com/post/2015/05/is-there-an-echo-in-here/">Dan Moren wrote on Six Colors</a> last month about the Amazon Echo. On the voice recognition working so well:</p>
+<blockquote><p>
+  “The Echo’s hardware deserves a full share of that credit. The microphones on this device are impressive; even when I’m several rooms away, Alexa rarely mishears me. I’ve triggered it from my kitchen and from my hallway, the latter of which doesn’t even have line of sight to the Echo.”
+</p></blockquote>
+<p>I have one too. I pre-ordered it on a whim and then promptly forgot about it for 2 months. Then seemingly the next thing I knew it had showed up at my house. If I had remembered about the order, I might have cancelled it, but now I’m glad I didn’t. The Amazon Echo is great.</p>
+<p>I remarked <a href="http://www.coreint.org/2015/05/episode-184-some-weeks-are-crazy/">on Core Intuition</a> that it&#8217;s like a task-specific Siri, with better accuracy because there are limited things you want to ask it. Play some music, set a timer, measurement conversions. It can&#8217;t do everything, but what it can do is particularly useful in the kitchen or living room. Plus it&#8217;s probably the best wireless speaker we&#8217;ve ever owned.</p>
+<p>Because it&#8217;s so effortless to play music now, I&#8217;ve uploaded some tracks from iTunes to the Amazon cloud via their music uploader. (Remember when we wanted DRM-free music? This is a concrete reason why.) And since we have an Amazon Prime membership, I&#8217;ve discovered that we have a significant amount of good music in the cloud already.</p>
+<p>I&#8217;m looking forward to Apple Music and will probably subscribe, but I&#8217;ve realized after having the Echo for a while that Amazon is quietly sitting on something pretty special. They should do more with music — I didn’t realize until now that they even had a dedicated iOS music app — and more to build and promote their service. Music is in their &#8220;DNA&#8221; just as much as it&#8217;s in Apple&#8217;s. After all, Amazon&#8217;s 2nd offering after books was music CDs.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/06/amazon-echo.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 8.724 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 12:33:58 -->

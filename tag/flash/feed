@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; flash</title>
+	<atom:link href="http://www.manton.org/tag/flash/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Kevin Lynch at Apple</title>
+		<link>http://www.manton.org/2013/03/kevin_lynch_at.html</link>
+		<comments>http://www.manton.org/2013/03/kevin_lynch_at.html#comments</comments>
+		<pubDate>Wed, 20 Mar 2013 08:38:25 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[adobe]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[flash]]></category>
+		<category><![CDATA[macromedia]]></category>
+		<category><![CDATA[sxsw]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/03/kevin_lynch_at.html</guid>
+		<description><![CDATA[John Gruber has a series of posts questioning Apple’s judgement in hiring Kevin Lynch. This one best sums it up: “I get that the guy worked for Adobe and had to play for the home team, but as CTO he backed a dying technology for years too long. In 2007 when the iPhone shipped Flash-free, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>John Gruber has a series of posts questioning Apple’s judgement in hiring Kevin Lynch. <a href="http://daringfireball.net/linked/2013/03/19/exhibit-b">This one best sums it up</a>:</p>
+<blockquote><p>
+  “I get that the guy worked for Adobe and had to play for the home team, but as CTO he backed a dying technology for years too long. In 2007 when the iPhone shipped Flash-free, that was one thing. But for Adobe to still be backing the Flash horse in 2010 when the iPad came out — they just looked silly.”
+</p></blockquote>
+<p>All of that is true. But instead of reflecting poor judgement, I think Kevin Lynch joining Apple could be good news in what it says about Apple. They didn’t hire him blindly. Apple knows what Kevin has been working on, knows what he’s said in public, and at this moment probably knows much better than we do what it was like to be at Adobe those last few years. For all we know Apple cares more about his work on Creative Cloud than Flash.</p>
+<p><a href="http://klynch.com/">Kevin also has a rich history</a> that is closely tied with the Mac. He worked as a developer on FrameMaker. He worked at General Magic alongside old-school Apple engineers. He worked at Macromedia when they started building web tools.</p>
+<p>I heard him speak much later at SXSW in 2002, for a joint presentation he gave with Jeffrey Veen. At the time I disagreed with Kevin’s vision for Flash and the web, but the SXSW talk was interesting enough that I <a href="http://manton.org/2003/03/flash_vs_web_apps.html">referenced it afterwards</a> and again <a href="http://manton.org/2004/03/sxsw_day_1_web.html">later</a>. Kevin was so good that he somehow demonstrated he got the web even as he pitched a product that was increasingly at odds with it.</p>
+<p>Was he wrong about Flash? Yes. But I choose to view his move to Apple as an indication that he was at the wrong company more than that he was completely wrong-headed. Maybe it was time for something new, a course correction back to the earlier part of his career. Skepticism about this hire is fine, but to treat him as an outsider is to forget the other great things he’s worked on. Once you’ve built Mac software, no matter how long ago, you’ll always be one of us.</p>
+<p>I hope Apple sees it that way too. Because if Apple is confident of anything, it’s that they can’t get stuck in one old way of thinking, can’t discount good people because of one unforgivable bad idea. That Apple is able to brush aside the Flash debate as yesterday’s news — even accept as a VP someone who was at the heart of that debate, and on the wrong side — shows to me that they’re only looking forward.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/03/kevin_lynch_at.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Wii Transfer 2.7</title>
+		<link>http://www.manton.org/2010/01/wii_transfer_27.html</link>
+		<comments>http://www.manton.org/2010/01/wii_transfer_27.html#comments</comments>
+		<pubDate>Wed, 20 Jan 2010 03:43:56 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[flash]]></category>
+		<category><![CDATA[indierelief]]></category>
+		<category><![CDATA[wiitransfer]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2010/01/wii_transfer_27.html</guid>
+		<description><![CDATA[I finally took the time to give &#8220;Wii Transfer&#8221;:http://www.riverfold.com/software/wiitransfer/ some much-needed attention, releasing version 2.7 of the application tonight. It&#8217;s got the usual bug fixes and some small visual improvements, but the most important change is better video streaming. The biggest mistake I ever made with Wii Transfer was to buy an Apple TV instead [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I finally took the time to give &#8220;Wii Transfer&#8221;:http://www.riverfold.com/software/wiitransfer/ some much-needed attention, releasing version 2.7 of the application tonight. It&#8217;s got the usual bug fixes and some small visual improvements, but the most important change is better video streaming. The biggest mistake I ever made with Wii Transfer was to buy an Apple TV instead of forcing myself to use my own application.</p>
+<p>For this release, I sat down with Wii Transfer and a ripped copy of Star Trek, and I just watched it over and over, experimenting with different Flash Video conversion settings and tweaking networking code. I wasn&#8217;t going to release this until I could watch a 2-hour movie without any rebuffering. The quality is never going to be as good as a console or set-top box with dedicated video streaming features &mdash; this is Flash on the Wii we are talking about &mdash; but I&#8217;m happy with what I came up with.</p>
+<p>Wii Transfer is still only $19, and version 2.7 is a free upgrade for any customer who ever bought the application going back to 1.0 over three years ago. Also an important reminder: <em>all sales go to charity starting tomorrow, January 20th</em>, as part of &#8220;Indie Relief&#8221;:http://www.indierelief.com/.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2010/01/wii_transfer_27.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>FLV metadata performance</title>
+		<link>http://www.manton.org/2008/08/flv_metadata_performance.html</link>
+		<comments>http://www.manton.org/2008/08/flv_metadata_performance.html#comments</comments>
+		<pubDate>Mon, 11 Aug 2008 05:57:25 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[flash]]></category>
+		<category><![CDATA[video]]></category>
+		<category><![CDATA[wiitransfer]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2008/08/flv_metadata_performance.html</guid>
+		<description><![CDATA[One of worst-kept secrets of &#8220;Wii Transfer&#8221;:http://www.riverfold.com/software/wiitransfer/ is that the movie playback is not as good as what you might see on an Apple TV, Xbox 360, or PS3. I do my best to improve the quality with every release, but let&#8217;s face it: while the Wii is perfectly capable of playing fullscreen video, it [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>One of worst-kept secrets of &#8220;Wii Transfer&#8221;:http://www.riverfold.com/software/wiitransfer/ is that the movie playback is not as good as what you might see on an Apple TV, Xbox 360, or PS3. I do my best to improve the quality with every release, but let&#8217;s face it: while the Wii is perfectly capable of playing fullscreen video, it stumbles when put to that task inside the Opera web browser through Flash.</p>
+<p>In the upcoming version 2.6, I&#8217;ve added the ability to skip directly to any part of a playing movie by clicking on the timeline with the Wii remote. It was frustrating not to be able to do that in previous versions and made it difficult to watch or fast-forward through long movies.</p>
+<p>The way many Flash movie players handle skipping is by inserting metadata into the FLV file that contains a map between seconds in the timeline and file positions for the keyframes, and that&#8217;s the way Wii Transfer works as well. Unfortunately this requires rewriting the entire FLV file when post-processing movies. (&#8220;Ian Baird&#8221;:http://blog.skorpiostech.com/ suggested a future optimization would be to store the metadata separately and redo the player to send seconds instead of file offsets to the server.) I was initially using the open source flvtool2.rb to achieve this, but it was extremely slow, so I rewrote it in Objective-C. (Not a port. The Objective-C version was written from scratch and is significantly shorter than the Ruby version in terms of lines of code. It does a little bit less, but it&#8217;s optimized for exactly what Wii Transfer needs.)</p>
+<p>This chart shows the performance improvements when processing a couple large movie files. Measured in seconds, so shorter bars are better.</p>
+<p><img src="http://www.manton.org/images/2008/flv_chart.png" alt="FLV chart" border="0" width="506" height="143" /></p>
+<p>The other good thing that came out of all this work is that I can now look at a FLV file in a hex editor and not be totally confused. &#8220;Hex Fiend&#8221;:http://ridiculousfish.com/hexfiend/ was one of the best ways to debug what my code was doing when it failed.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2008/08/flv_metadata_performance.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Holiday hacking on Wii Transfer 2.0</title>
+		<link>http://www.manton.org/2007/01/holiday_hacking_on.html</link>
+		<comments>http://www.manton.org/2007/01/holiday_hacking_on.html#comments</comments>
+		<pubDate>Wed, 03 Jan 2007 06:02:43 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[flash]]></category>
+		<category><![CDATA[music]]></category>
+		<category><![CDATA[pictures]]></category>
+		<category><![CDATA[riverfold]]></category>
+		<category><![CDATA[vitalsource]]></category>
+		<category><![CDATA[wii]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/01/holiday_hacking_on.html</guid>
+		<description><![CDATA[I got sick (the flu?) shortly after Christmas, but nevertheless managed to sneak in some coding on Wii Transfer 2.0, which I hope to release this weekend. The big new feature for 2.0 is music and picture sharing. Essentially, there is a web server built into Wii Transfer. You can use the Wii&#8217;s Opera web [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I got sick (the flu?) shortly after Christmas, but nevertheless managed to sneak in some coding on Wii Transfer 2.0, which I hope to release this weekend. The big new feature for 2.0 is music and picture sharing. Essentially, there is a web server built into Wii Transfer. You can use the Wii&#8217;s Opera web browser to connect directly to your Mac running Wii Transfer and pull up MP3s or iPhoto albums. I&#8217;ve licensed &#8220;Jeroen Wijering&#8217;s Flash-based tools&#8221;:http://www.jeroenwijering.com/ for listening to MP3s and browsing photos. The interface isn&#8217;t perfect yet (the buttons should be bigger for easy TV viewing), but I think it&#8217;s pretty good for a first shot at this. The web server portion is based off of &#8220;J&#252;rgen Schweizer&#8217;s Cocoa example code&#8221;:http://culturedcode.com/cocoa/.</p>
+<p>&#8220;Check out this screencast&#8221;:http://www.riverfold.com/software/wiitransfer/screencasts/sharing.mov to see what most of it looks like. The first part shows the new Wii Transfer main window UI with a source list for switching features, and the second part shows what it looks like from the actual Wii. I just setup a tripod and filmed off the new HDTV with my digital camera.</p>
+<p>I also started back on &#8220;real work&#8221;:http://www.vitalsource.com/ today. We have some neat stuff shipping later this month that I&#8217;ll be blogging about more once it&#8217;s ready to show. I knew I could easily get lost in inconsequential stuff on the Tuesday after a long break, so I spent a bit of time yesterday reviewing to-do lists and getting my head on straight. Got some real coding and design done today, so no complaints there either.</p>
+<p>All in all, 2007 is starting off great. (Except that I still seem to be sick, but I&#8217;m going to try to ignore that for a bit longer.)</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2007/01/holiday_hacking_on.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Mediocrity is the new application platform</title>
+		<link>http://www.manton.org/2006/03/mediocrity_is_the.html</link>
+		<comments>http://www.manton.org/2006/03/mediocrity_is_the.html#comments</comments>
+		<pubDate>Fri, 10 Mar 2006 03:41:13 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[ajax]]></category>
+		<category><![CDATA[browsers]]></category>
+		<category><![CDATA[flash]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[rails]]></category>
+		<category><![CDATA[ui]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2006/03/mediocrity_is_the.html</guid>
+		<description><![CDATA[Today marks the 4-year anniversary of this weblog. What better way to celebrate than with a discussion of web applications. Willie Abrams said in a recent Campfire chat: &#8220;Web applications automatically have sync.&#8221; He hits on the fundamental principle of web applications popularity, and of course that has always been true. But the difference now [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Today marks the 4-year anniversary of this weblog. What better way to celebrate than with a discussion of web applications.</p>
+<p><a href="http://www.angrylearner.com/">Willie Abrams</a> said in a recent Campfire chat: &#8220;Web applications automatically have sync.&#8221; He hits on the fundamental principle of web applications popularity, and of course that has always been true. But the difference now is that some web apps are actually <i>fast and usable too</i>. (Gasp!)</p>
+<p>The rise of rich web applications that seamlessly mix Flash or Ajax while still staying true to the roots of web architecture (REST design, open standards) has upset the traditional desktop market. I first wrote about this in <a href="http://www.manton.org/2005/12/todo_lists_and.html">&#8220;To-do lists and embracing the network&#8221;</a>, which was in a sense a subtle wake-up call to Mac developers: adapt to the always-on internet or any college drop-out with a shared server will obsolete your app after a few late nights of Rails hacking.</p>
+<p>But it frustrates me to see such praise given to web applications that, were they traditional, native apps, they&#8217;d be laughed away to obscurity or ignored. Ajax is a huge advancement, but that doesn&#8217;t mean that every application works well for the web. I&#8217;m sure Google engineers spent an incredible amount of work on <a href="http://www.techcrunch.com/2006/02/22/google-pages-released/">Google Pages</a>, but compare it to Apple&#8217;s iWeb and it becomes obvious how weak web application interfaces still are.</p>
+<p>Luckily some people are working through the really tough problems. <a href="http://spaces.msn.com/rayozzie/blog/cns!FB3017FBB9B2E142!285.entry">Ray Ozzie&#8217;s Live Clipboard</a> may be the start of a whole new shift in web app functionality, allowing data to move between web sites and even out of the browser. But true drag-and-drop of structured data between a native app and a web site is still a long way off.</p>
+<p>Let&#8217;s make some lists, starting with the good.</p>
+<ul>
+<li>Good web applications are data-driven, multiuser, and use URLs everywhere.</li>
+<li>There is some key component that is about the <i>browsing experience</i>. That might be sifting through large amounts of data, viewing old logs, finding people.</li>
+<li>The kind of data requires an adaptable user interface, not something with a strict set of traditional widgets. HTML is perfect for this.</li>
+</ul>
+<p>On the other side are web applications that might be built by a team of smart people and with a great technology backend, but the application concepts are confused. They don&#8217;t know if they belong in a web browser or on the desktop.</p>
+<ul>
+<li>Mediocre web applications think that a single web browser window is an entire windowing system with movable child windows.</li>
+<li>No features that actually have anything to do with the web. The result is that it <i>adds no value</i> to the web as a whole.</li>
+<li>Trying to replace the whole Microsoft Office suite.</li>
+</ul>
+<p>Something else is changing in the HTML/CSS/JavaScript platform. In 2004, <a href="http://www.joelonsoftware.com/articles/APIWar.html">Joel Spolsky wrote</a> about how instead of picking Mac, Windows, or Linux APIs, developers are building for the web platform and can deploy to any user&#8217;s desktop. Cutting-edge web applications push that claim to its breaking point, as differences between Safari, Mozilla, and Internet Explorer often cause headaches for developers. It&#8217;s no surprise when Microsoft&#8217;s set of Office Live applications require Internet Explorer, but it <i>is</i> note-worthy when Google&#8217;s chat interface does not work in Safari. There is now a whole set of web applications that require the latest version of Mozilla and won&#8217;t work in anything less.</p>
+<p>Five years ago we accepted that web applications were going to be useful but ultimately unfulfilling, joyless experiences. Now most web apps have risen from bad to simply mediocre. The truly great ones have a foundation and design that would still be unrivaled in a desktop app. These amazing apps are not content to reimplement an old application as a web app just to allow use from any machine, but they take it to the next step: rethink the problem, stay agile, and redesign so that it&#8217;s not just web-based, but it&#8217;s <i>actually better</i>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2006/03/mediocrity_is_the.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.092 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:27:21 -->

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; gestures</title>
+	<atom:link href="http://www.manton.org/tag/gestures/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>iOS text cursor swipe</title>
+		<link>http://www.manton.org/2013/03/ios_text_cursor.html</link>
+		<comments>http://www.manton.org/2013/03/ios_text_cursor.html#comments</comments>
+		<pubDate>Wed, 27 Mar 2013 16:38:13 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[adn]]></category>
+		<category><![CDATA[gestures]]></category>
+		<category><![CDATA[text]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/03/ios_text_cursor.html</guid>
+		<description><![CDATA[While I was writing my review of ADN clients, I wondered aloud if Riposte or Felix or some other app entirely was the first to support swiping to move the text cursor. It seems a nice enough trick that someone should get credit for trying it first. Here’s my brief description of how this gesture [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>While I was writing my review of ADN clients, <a href="https://alpha.app.net/manton/post/4169527">I wondered aloud</a> if Riposte or Felix or some other app entirely was the first to support swiping to move the text cursor. It seems a nice enough trick that someone should get credit for trying it first.</p>
+<p>Here’s my brief description of how this gesture works <a href="http://www.manton.org/2013/03/three_adn.html">from the Felix part of the blog post</a>:</p>
+<blockquote><p>
+  “Felix also added a clever trick in its post composition window. You can swipe the text view to move the selection cursor one character over, or use two fingers to swipe across an entire word at a time. This saves a lot of time tapping-and-holding and fiddling with the magnifying glass.”
+</p></blockquote>
+<p>It turns out that many apps support it: Diet Coda, Pages, Just Type, and TextCrafter are some that people mentioned. There are also <a href="http://www.youtube.com/watch?v=-hCB1EKE4Hw">hacks from the jailbreak community</a> to make it work system wide.</p>
+<p>And farther back, there’s the fantastic <a href="http://www.youtube.com/watch?v=RGQTaHGQ04Q">YouTube concept video</a> of what text selection using drags on the keyboard might look like. I’d still love to see that implemented by Apple.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/03/ios_text_cursor.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>After ignoring Mozilla for</title>
+		<link>http://www.manton.org/2002/08/after_ignoring_mozilla.html</link>
+		<comments>http://www.manton.org/2002/08/after_ignoring_mozilla.html#comments</comments>
+		<pubDate>Wed, 28 Aug 2002 14:55:18 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[gestures]]></category>
+		<category><![CDATA[mozilla]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2002/08/after_ignoring_mozilla.html</guid>
+		<description><![CDATA[After ignoring Mozilla for 6 months, I took the latest version out for a spin a few nights ago to try Pie Menus. Although Mouse Gestures worked okay for me, I couldn&#8217;t get Pie Menus to work (maybe it doesn&#8217;t work on the Mac?). I can&#8217;t decide whether I like Mouse Gestures yet. Back and [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img src="/images/misc/mouse_gestures.jpg" width="32" height="32" alt="gesture" align="left"> After ignoring Mozilla for 6 months, I took the latest version out for a spin a few nights ago to try <a href="http://optimoz.mozdev.org/piemenus/">Pie Menus</a>. Although Mouse Gestures worked okay for me, I couldn&#8217;t get Pie Menus to work (maybe it doesn&#8217;t work on the Mac?). I can&#8217;t decide whether I like Mouse Gestures yet. Back and forward can be useful, but the gesture displayed on the left (go to home page) is just silly.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2002/08/after_ignoring_mozilla.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.713 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:43:49 -->

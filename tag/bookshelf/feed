@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; bookshelf</title>
+	<atom:link href="http://www.manton.org/tag/bookshelf/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>13 years</title>
+		<link>http://www.manton.org/2014/02/13_years.html</link>
+		<comments>http://www.manton.org/2014/02/13_years.html#comments</comments>
+		<pubDate>Sun, 02 Feb 2014 22:15:33 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[bookshelf]]></category>
+		<category><![CDATA[vitalsource]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/02/13_years.html</guid>
+		<description><![CDATA[If you’ve been reading my blog for a very long time, or listening to my podcast, you probably know that in addition to my business Riverfold Software, I also have a “regular” job at VitalSource. As that company has grown, I feel less comfortable blogging about my work there, since I can’t speak for the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>If you’ve been reading my blog for a very long time, or listening to <a href="http://coreint.org/">my podcast</a>, you probably know that in addition to my business <a href="http://www.riverfold.com/">Riverfold Software</a>, I also have a “regular” job at <a href="http://www.vitalsource.com/">VitalSource</a>. As that company has grown, I feel less comfortable blogging about my work there, since I can’t speak for the company or even the smaller group I directly work with.</p>
+<p>But this month is my 13th anniversary (!) with VitalSource, so I thought it would be interesting to look back on the times I’ve blogged about my work there, and highlight some of things I’ve helped build.</p>
+<p>One of the earlier posts, back in 2005, was <a href="http://manton.org/2005/08/vitalsource.html">about our new store</a>, where I linked to blog posts from James Duncan Davidson, Mike Clark, and Ryan Irelan about the project. But nearly a decade of migrating between blog systems has taken its toll; my post is still there, but the other links are all 404 not found.</p>
+<p>Then from 2007, I wrote about <a href="http://manton.org/2007/01/bookshelf_note_sharing.html">syncing highlights and notes in e-books</a>:</p>
+<blockquote><p>
+  “The architecture is based on the Simple Sharing Extensions (SSE) for RSS and OPML. On top of that we have added a VitalSource namespace and a few extra XML elements and attributes to keep track of Bookshelf-specific data, such as highlighter color and selected text within a book. The goal is to keep it as open as possible, so that in the future we can both consume other sources of user notes, and allow third-parties to also hook into the data in interesting ways.”
+</p></blockquote>
+<p>We recently updated the API to use a new, faster sync architecture, but the web app is still in use today. I’ve been updating it for Rails 4, a tedious process because of the Rails community’s fascination with deprecation.</p>
+<p>Again in 2007, I mentioned updates to two of my favorite apps, MarsEdit 1.2 and NetNewsWire 3.0, along with <a href="http://manton.org/2007/06/new_software_releases.html">VitalSource Bookshelf 4.6</a>:</p>
+<blockquote><p>
+  “At VitalSource we also just released Bookshelf 4.6 today, which lays the foundation for media-rich textbooks and adds a highlighter rating UI for any subscribed highlighters you have. This data will bubble up in a few places in the future to allow you to discover people and books, although for now it’s one-way.”
+</p></blockquote>
+<p>It’s neat looking back on this post because it includes a <a href="http://www.manton.org/screencasts/2007/bookshelf_rating.mov">short screencast of the app</a> from 2007, presumably running on Mac OS X 10.4 Tiger. The promise of this highlighter ratings feature never really materialized, though.</p>
+<p>In 2010, <a href="http://manton.org/2010/03/ipad_ships_next.html">I thought about the iPad</a> right before its release:</p>
+<blockquote><p>
+  “I’m working on 2 apps for the iPad. The first is just a minor iPad refresh of an existing iPhone app at VitalSource called Bookshelf Noteview (iTunes link). It’s for reading notes and highlights synced from our e-book platform.”
+</p></blockquote>
+<p>Noteview was eventually removed from sale. The other app I hinted at would become <a href="http://www.riverfold.com/software/tweetlibrary/">Tweet Library</a>.</p>
+<p>Around the same time, <a href="http://manton.org/2010/03/mac_os_x_server.html">I blogged about Mac OS X</a> as a server platform:</p>
+<blockquote><p>
+  “At VitalSource we now have a dozen Xserves running Ruby on Rails and a couple others running MySQL. While it’s mostly stable now, over the years there have been several mystery show-stopper problems that no one seems to have on other platforms.”
+</p></blockquote>
+<p>Obviously Apple no longer sells the Xserve. At VitalSource all our best new servers run Linux.</p>
+<p>Also in 2010, <a href="http://manton.org/2010/08/congratulations.html">I reflected on how a team grows</a>:</p>
+<blockquote><p>
+  “If you’re working by yourself and add another person to the project, a funny thing happens: you become a manager. Before, you could spend 100% of your time on the work. Now you can allocate 50-75%, because you’re getting the new programmer up to speed, answering questions, and setting priorities. If you’re lucky (and I usually am), the person you added is contributing so much that it easily makes up for your loss in productivity, and then some.”
+</p></blockquote>
+<p>Later in 2010, I described how we <a href="http://manton.org/2010/09/bookshelf_touch.html">shipped Bookshelf for iPhone</a>:</p>
+<blockquote><p>
+  “At its core the app is 3 parts: a large C++ codebase, brand new Objective-C UI code, and a bunch of clever WebKit and JavaScript work. In many ways it’s a more difficult project than my other iPad app (still in development), but some great coders contributed to different parts of the architecture, before and after I joined the project.”
+</p></blockquote>
+<p>There are other posts, but I think these hit some of the more interesting milestones in the last 13 years. I also have an archive of earlier, company-internal blog posts, starting in 2001, that I hope to look into and publish pieces from one day.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/02/13_years.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Push-based sync</title>
+		<link>http://www.manton.org/2011/07/pushbased_sync.html</link>
+		<comments>http://www.manton.org/2011/07/pushbased_sync.html#comments</comments>
+		<pubDate>Fri, 01 Jul 2011 16:13:37 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[bookshelf]]></category>
+		<category><![CDATA[icloud]]></category>
+		<category><![CDATA[notes]]></category>
+		<category><![CDATA[push]]></category>
+		<category><![CDATA[sync]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2011/07/pushbased_sync.html</guid>
+		<description><![CDATA[&#8220;Guy English writes about iCloud&#8221;:http://kickingbear.com/blog/archives/202 and the magic glue (Push Notifications&#8217; persistent connection) that makes it work: &#8220;Each of these new features tickle the persistent &#8216;push&#8217; connection and trigger some action on the device. The short-form state may be transmitted immediately and set on any connected device within moments. Document syncing is likely to trigger [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>&#8220;Guy English writes about iCloud&#8221;:http://kickingbear.com/blog/archives/202 and the magic glue (Push Notifications&#8217; persistent connection) that makes it work:</p>
+<blockquote><p>&#8220;Each of these new features tickle the persistent &#8216;push&#8217; connection and trigger some action on the device. The short-form state may be transmitted immediately and set on any connected device within moments. Document syncing is likely to trigger a negotiation process to compare the state on any one device with The Truth stored on Apple servers and replace the document on the device with the latest revision &mdash; this has the advantage of limiting the window between syncing where conflicts are most likely to occur.&#8221;</p></blockquote>
+<p>Sync speed matters. The first note sharing server I built for VitalSource years ago assumed a lot of offline time, and despite &#8220;my blogging in 2007 that it was&#8221;:http://www.manton.org/2007/01/bookshelf_note_sharing.html &#8220;magic&#8221;, in practice it could take 5-10 minutes before all your computers got their act together to get a set of highlights completely synced. With that kind of lag, note edits might happen on a client in the meantime, so we remembered conflicts everywhere and had a UI for resolving them.</p>
+<p>Too complicated. The new system, recently rolled out in Bookshelf for iPhone and iPad, syncs so much more efficiently and quickly that conflicts don&#8217;t need the same emphasis. We can throw away a bunch of code and simplify the user interface.</p>
+<p>I&#8217;ve yet to do anything with iCloud except read the release notes and sit through a couple WWDC sessions, but we&#8217;re going to have a fantastic platform if it can deliver the same speed and reliability of Push Notifications. Guy&#8217;s post is the first I&#8217;ve seen to connect the dots, capturing how well-positioned Apple is to use this plumbing for all sorts of stuff.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2011/07/pushbased_sync.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Bookshelf Touch</title>
+		<link>http://www.manton.org/2010/09/bookshelf_touch.html</link>
+		<comments>http://www.manton.org/2010/09/bookshelf_touch.html#comments</comments>
+		<pubDate>Wed, 22 Sep 2010 04:38:09 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[bookshelf]]></category>
+		<category><![CDATA[ebooks]]></category>
+		<category><![CDATA[textbooks]]></category>
+		<category><![CDATA[vitalsource]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2010/09/bookshelf_touch.html</guid>
+		<description><![CDATA[Although I had worked a little on iOS apps before, updating an existing app for the iPad and tinkering with unfinished apps, the first 1.0 for iOS that I played a significant role in just shipped last week: a &#8220;mobile version of Bookshelf&#8221;:http://itunes.apple.com/us/app/vitalsource-bookshelf/id389359495?mt=8 for VitalSource. The iPhone version has been in development off and on [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img src="http://www.manton.org/images/2010/bookshelf_touch.png" alt="Bookshelf screenshot" title="bookshelf_touch.png" border="0" width="200" height="300" style="float:right;" hspace="10" /> Although I had worked a little on iOS apps before, updating an existing app for the iPad and tinkering with unfinished apps, the first 1.0 for iOS that I played a significant role in just shipped last week: a &#8220;mobile version of Bookshelf&#8221;:http://itunes.apple.com/us/app/vitalsource-bookshelf/id389359495?mt=8 for VitalSource. The iPhone version has been in development off and on for a while, but I took over the project fairly late in development, with a coding frenzy through the summer as we switched file formats and scrambled to finish in time for fall students.</p>
+<p>Today the app broke into the App Store&#8217;s top 25 for free Education apps.</p>
+<p>It&#8217;s designed for existing VitalSource customers, supporting both our file formats (for XML-based reflowable content or PDF-like fixed layout), with synced highlights, figure search, and offline access. At its core the app is 3 parts: a large C++ codebase, brand new Objective-C UI code, and a bunch of clever WebKit and JavaScript work. In many ways it&#8217;s a more difficult project than my other iPad app (still in development), but some great coders contributed to different parts of the architecture, before and after I joined the project.</p>
+<p>Nearly 10 years ago, when I was hired at VitalSource to build the Mac version of our e-book reader, we delivered textbooks on DVD-ROMs and our technology was years ahead of everyone else. Today, and especially post-iPad, the market is a lot different, with some beautiful competition like &#8220;Inkling&#8221;:http://itunes.apple.com/us/app/inkling/id379351586?mt=8. Bookshelf for iPhone wasn&#8217;t first to the App Store, but it inherits an existing user base, strong platform, and large book inventory. I like VitalSource&#8217;s chances.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2010/09/bookshelf_touch.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>New software releases (plus screencast)</title>
+		<link>http://www.manton.org/2007/06/new_software_releases.html</link>
+		<comments>http://www.manton.org/2007/06/new_software_releases.html#comments</comments>
+		<pubDate>Wed, 06 Jun 2007 01:20:25 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[bookshelf]]></category>
+		<category><![CDATA[cocoa]]></category>
+		<category><![CDATA[highlighters]]></category>
+		<category><![CDATA[marsedit]]></category>
+		<category><![CDATA[netnewswire]]></category>
+		<category><![CDATA[quicktime]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/06/new_software_releases.html</guid>
+		<description><![CDATA[Today is a good day to release software. &#8220;MarsEdit gets a nice update&#8221;:http://www.red-sweater.com/blog/346/marsedit-12-growl-picasa-and-vox and &#8220;NetNewsWire 3.0&#8243;:http://ranchero.com/?comments=1&#38;postid=1646 ships. At VitalSource we also just released &#8220;Bookshelf 4.6&#8243;:http://www.vitalsource.com/index/bookshelf today, which lays the foundation for media-rich textbooks and adds a highlighter rating UI for any subscribed highlighters you have. This data will bubble up in a few places in [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Today is a good day to release software. &#8220;MarsEdit gets a nice update&#8221;:http://www.red-sweater.com/blog/346/marsedit-12-growl-picasa-and-vox and &#8220;NetNewsWire 3.0&#8243;:http://ranchero.com/?comments=1&amp;postid=1646 ships. At VitalSource we also just released &#8220;Bookshelf 4.6&#8243;:http://www.vitalsource.com/index/bookshelf today, which lays the foundation for media-rich textbooks and adds a highlighter rating UI for any subscribed highlighters you have. This data will bubble up in a few places in the future to allow you to discover people and books, although for now it&#8217;s one-way.</p>
+<p>Here&#8217;s a &#8220;short screencast of the rating interface&#8221;:http://www.manton.org/screencasts/2007/bookshelf_rating.mov (12 seconds, 700k). The star widget is a simple Cocoa control that hits a web service in the background. It was fun to write and surprisingly not very much code.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2007/06/new_software_releases.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Bookshelf note sharing</title>
+		<link>http://www.manton.org/2007/01/bookshelf_note_sharing.html</link>
+		<comments>http://www.manton.org/2007/01/bookshelf_note_sharing.html#comments</comments>
+		<pubDate>Mon, 29 Jan 2007 04:25:18 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[bookshelf]]></category>
+		<category><![CDATA[opml]]></category>
+		<category><![CDATA[rss]]></category>
+		<category><![CDATA[sse]]></category>
+		<category><![CDATA[vitalsource]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/01/bookshelf_note_sharing.html</guid>
+		<description><![CDATA[I&#8217;ve blogged a lot about my side project &#8220;Riverfold&#8221;:http://www.riverfold.com/ lately, but it&#8217;s time to show my &#8220;real&#8221; job some love as well. Internally at &#8220;VitalSource&#8221;:http://www.vitalsource.com/ last week we rolled over to beta status for the upcoming Bookshelf 4.5, and I&#8217;m really excited about what is coming. I&#8217;ve been working on the note sharing and syncing [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;ve blogged a lot about my side project &#8220;Riverfold&#8221;:http://www.riverfold.com/ lately, but it&#8217;s time to show my &#8220;real&#8221; job some love as well. Internally at &#8220;VitalSource&#8221;:http://www.vitalsource.com/ last week we rolled over to beta status for the upcoming Bookshelf 4.5, and I&#8217;m really excited about what is coming. I&#8217;ve been working on the note sharing and syncing feature off and on for over a year now.</p>
+<p>What&#8217;s it all mean? In a nutshell, create highlights and notes in your digital textbooks and have them flow to other users or to any of your computers. As Steve Jobs said with a totally straight face at the iPhone introduction: <em>It works like magic.</em></p>
+<p>(That was one of my personal favorites from Macworld. Rewatch the keynote and see the expression on his face. This magic is serious stuff.)</p>
+<p>At least, magic is the goal. If it was that easy we would have shipped by now. Behind the scenes it gets a little tricky, and the cross-platform C++ code that powers the client (the server piece is written in Ruby on Rails) is in its third major rewrite. Which like all good refactoring, is simpler and probably uses fewer lines of code than the previous two attempts.</p>
+<p>But first, some screenshots: &#8220;Subscribed highlights&#8221;:http://www.manton.org/images/2007/bookshelf_subscribed.png and &#8220;Sharing&#8221;:http://www.manton.org/images/2007/bookshelf_sharing.png.</p>
+<p>The architecture is based on the &#8220;Simple Sharing Extensions&#8221;:http://msdn.microsoft.com/xml/rss/sse/ (SSE) for RSS and OPML. On top of that we have added a VitalSource namespace and a few extra XML elements and attributes to keep track of Bookshelf-specific data, such as highlighter color and selected text within a book. The goal is to keep it as open as possible, so that in the future we can both consume other sources of user notes, and allow third-parties to also hook into the data in interesting ways.</p>
+<p>We (computer users in general) are all writing bits of notes and data in various applications and for the most part, it&#8217;s a mess. We switch applications frequently, databases and file formats change, and there&#8217;s no good way to move data between applications. Imagine instead that you could have bookmarks and short snippets of text easily sync between apps like Del.icio.us, NetNewsWire, Yojimbo, Flickr, and Bookshelf. Ultimately the only requirement is that each item is RSS-like (it has a URI, some text, and maybe another piece of specialized data just for that app). Anyone who has been programming for the web for a few years knows that after a while, <em>everything starts to look like RSS</em>.</p>
+<p>The key is simple, flexible standards. &#8220;Less Software&#8221;:http://gettingreal.37signals.com/ch10_Less_Software.php, if you will. Mac OS X&#8217;s Sync Services by comparison is too complicated, too closed, and too narrowly tied to specific applications.</p>
+<p>What I like best about SSE is that it provides a roadmap of sorts. It makes some assumptions about how you want to sync data and that frees you to work on more important things. Wondering how to deal with GUIDs, versioning, and deletions? Don&#8217;t reinvent the wheel, that&#8217;s in the spec.</p>
+<p>I&#8217;ll post again when we actually ship the software, of course. Anyone else using SSE yet? If so, drop me an email. I&#8217;d love to hear how people are using this stuff.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2007/01/bookshelf_note_sharing.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 3.073 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:32:37 -->

@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; sales</title>
+	<atom:link href="http://www.manton.org/tag/sales/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Feedback about lost sales</title>
+		<link>http://www.manton.org/2009/09/feedback_about_lost.html</link>
+		<comments>http://www.manton.org/2009/09/feedback_about_lost.html#comments</comments>
+		<pubDate>Mon, 21 Sep 2009 22:05:07 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[clipstart]]></category>
+		<category><![CDATA[sales]]></category>
+		<category><![CDATA[smartbear]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2009/09/feedback_about_lost.html</guid>
+		<description><![CDATA[&#8220;Great post by Jason Cohen&#8221;:http://blog.asmartbear.com/blog/put-down-the-compiler-until-you-learn-why-theyre-not-buying.html on why you need feedback about the real reason people aren&#8217;t buying your product: &#8220;You need to talk with the people who were interested enough to find your website, read your marketing copy, download your product, and then _give up without even an email_. That&#8217;s the low-hanging fruit; those are [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>&#8220;Great post by Jason Cohen&#8221;:http://blog.asmartbear.com/blog/put-down-the-compiler-until-you-learn-why-theyre-not-buying.html on why you need feedback about the real reason people aren&#8217;t buying your product:</p>
+<blockquote><p>&#8220;You need to talk with the people who were interested enough to find your website, read your marketing copy, download your product, and then _give up without even an email_. That&#8217;s the low-hanging fruit; those are the people who are _in your grasp_, who should be buying _today_, but aren&#8217;t.&#8221;</p></blockquote>
+<p>I fall into this trap quite often, of pretending I know what the product needs for sales to finally take off. So I&#8217;ll add all the features I hope customers want, or I&#8217;ll make a small change and see if sales improve. But the truth is that there are so many variables in this system that it&#8217;s difficult to know which change made the difference.</p>
+<p>As an example, I decided recently that I was being too generous with the demo limits in &#8220;Clipstart&#8221;:http://www.riverfold.com/software/clipstart/, so in the 1.2.1 release I turned them down a little. Instead of letting you tag 30 videos and upload 3 for free, it&#8217;s down to 20 videos and 2 uploads. The idea is to just do a little bit more to encourage users to buy the software when they are first trying it out and like it, rather than waiting a month until they decide to use it again.</p>
+<p>Sales have been up the last week, so this worked, right? Maybe not. Clipstart has a review in this month&#8217;s print edition of Macworld, so it&#8217;s possible the sales are up because of that. Or because a couple of my blog posts have been linked more heavily recently. Or for any number of other reasons.</p>
+<p>Unless you measure why the product doesn&#8217;t sell, success will be based on luck and intuition, which only go so far. I&#8217;m looking forward to reading Jason&#8217;s next post.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2009/09/feedback_about_lost.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Better is the best marketing</title>
+		<link>http://www.manton.org/2009/09/better_is_the.html</link>
+		<comments>http://www.manton.org/2009/09/better_is_the.html#comments</comments>
+		<pubDate>Thu, 03 Sep 2009 13:29:47 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[clipstart]]></category>
+		<category><![CDATA[finance]]></category>
+		<category><![CDATA[mueller]]></category>
+		<category><![CDATA[sales]]></category>
+		<category><![CDATA[spolsky]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2009/09/better_is_the.html</guid>
+		<description><![CDATA[&#8220;Gus Mueller&#8221;:http://gusmueller.com/blog/archives/2009/08/setting_the_right_priorities.html, in response to a post from Joel Spolsky: &#8220;If no one is buying your app then you&#8217;ve either got a dud and you need to focus on something else, or you need to improve your app so it&#8217;s worth paying for.&#8221; I hinted at this in &#8220;my last post about new Clipstart features&#8221;:http://www.manton.org/2009/08/clipstart_12_ships.html. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>&#8220;Gus Mueller&#8221;:http://gusmueller.com/blog/archives/2009/08/setting_the_right_priorities.html, in response to a post from Joel Spolsky:</p>
+<blockquote><p>&#8220;If no one is buying your app then you&#8217;ve either got a dud and you need to focus on something else, or you need to improve your app so it&#8217;s worth paying for.&#8221;</p></blockquote>
+<p>I hinted at this in &#8220;my last post about new Clipstart features&#8221;:http://www.manton.org/2009/08/clipstart_12_ships.html. When Clipstart 1.0 launched and sales were lower than I had secretly hoped, the feedback was still so encouraging that it was obvious I had to keep rolling out new versions. Release 1.1, a month later. Release 1.2, which is &#8220;shipping today&#8221;:http://www.riverfold.com/software/clipstart/.</p>
+<p>Some products are just easier to sell than others. For Wii Transfer, people enter &#8220;music wii mac&#8221; in Google and then a few minutes later they are clicking the Buy button on my web site. But with Clipstart, even though I believe it to be a superior product, it&#8217;s going to take work and marketing and word-of-mouth and demo coaxing and making it so good that you&#8217;d be nuts to shoot video and not have it installed.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2009/09/better_is_the.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>FastScripts 2.4</title>
+		<link>http://www.manton.org/2009/06/fastscripts_24.html</link>
+		<comments>http://www.manton.org/2009/06/fastscripts_24.html#comments</comments>
+		<pubDate>Sun, 28 Jun 2009 14:10:19 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[fastscripts]]></category>
+		<category><![CDATA[jalkut]]></category>
+		<category><![CDATA[sales]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2009/06/fastscripts_24.html</guid>
+		<description><![CDATA[What I like most about the &#8220;FastScripts 2.4 release&#8221;:http://www.red-sweater.com/blog/823/fastscripts-2-4 is that Daniel was willing to completely change the product evaluation terms to give new life to the product and get it out to more users. &#8220;I have been thinking for some time of eliminating FastScripts Lite. Customers found it confusing to differentiate between the versions, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>What I like most about the &#8220;FastScripts 2.4 release&#8221;:http://www.red-sweater.com/blog/823/fastscripts-2-4 is that Daniel was willing to completely change the product evaluation terms to give new life to the product and get it out to more users.</p>
+<blockquote><p>&#8220;I have been thinking for some time of eliminating FastScripts Lite. Customers found it confusing to differentiate between the versions, and I found it tedious to artificially maintain two versions. With the new, liberal evaluation terms in FastScripts 2.4, all of the old Lite functionality and much more is now included for free in the full version.</p></blockquote>
+<p>It&#8217;s always a risk to make a pricing or demo limit change. Whether accurate or not, I imagine the financial side of product development as a delicate tower of blocks, where the slightest change could cause your whole sales structure to come crashing down. For that reason I tend to not touch anything if it is working, but I recognize that I am probably holding my business back at the same time by not being more flexible.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2009/06/fastscripts_24.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Tracking sales referrers</title>
+		<link>http://www.manton.org/2008/09/tracking_sales_referrers.html</link>
+		<comments>http://www.manton.org/2008/09/tracking_sales_referrers.html#comments</comments>
+		<pubDate>Tue, 16 Sep 2008 00:12:30 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[referrers]]></category>
+		<category><![CDATA[riverfold]]></category>
+		<category><![CDATA[sales]]></category>
+		<category><![CDATA[wiitransfer]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2008/09/tracking_sales_referrers.html</guid>
+		<description><![CDATA[The primary way to track marketing and word-of-mouth about your product is to look at web site referrers. Easy. Just install &#8220;Mint&#8221;:http://www.haveamint.com/ and you&#8217;re done. But not all referrers are created equal. A prominent link on Digg might lead to sales or it might lead to dozens of &#8220;wish it was free&#8221; comments on your [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The primary way to track marketing and word-of-mouth about your product is to look at web site referrers. Easy. Just install &#8220;Mint&#8221;:http://www.haveamint.com/ and you&#8217;re done.</p>
+<p>But not all referrers are created equal. A prominent link on Digg might lead to sales or it might lead to dozens of &#8220;wish it was free&#8221; comments on your blog. To really judge the effectiveness of referrers (and in turn give a better idea about where resources should be placed in the future) take it one step further to track the initial referrer link all the way through to purchase. You want to know where the customer first learned about your product.</p>
+<p>This isn&#8217;t a new idea and I&#8217;m certainly not the first to do it. Wil Shipley spoke at length about this technique during &#8220;his C4 talk&#8221;:http://www.viddler.com/explore/rentzsch/videos/4/ in 2007, in the context of online advertising. In talking with other developers it became clear to me that most people don&#8217;t do this, even though it can be achieved in about a dozen lines of code.</p>
+<p>The basics are pretty simple:</p>
+<ul>
+<li>When a link comes in to your site, see if a special cookie is set. I called mine &#8220;WiiTransferRef&#8221;.</p>
+</li>
+<li>
+<p>If the cookie is set, you have a repeat visitor. Nothing to do at this point.</p>
+</li>
+<li>
+<p>If the cookie is missing, this user is likely visiting your site for the first time. Put the referrer value in the cookie.</p>
+</li>
+<li>
+<p>After a purchase is complete, check for this cookie and add an entry to the database with the referrer value and timestamp for the order.</p>
+</li>
+</ul>
+<p>You can add more intelligence as suits your requirements and available time, but the basics don&#8217;t need to be any more complex than this. For bonus points and slightly improved security, you could add a database entry that tracks the referrer value and use the cookie as a session that simply points to that row, updating the database to show completed orders, but I chose not to do that to keep the database uncluttered.</p>
+<p>Here&#8217;s the PHP source for my main product page:</p>
+<pre><code><?php
+
+$val = $_COOKIE['WiiTransferRef'];
+
+$ref = $_SERVER['HTTP_REFERER'];
+
+if (empty ($val) &#038;&#038; (!empty ($ref))) {
+
+setcookie ("WiiTransferRef", $ref, time() + (3600 * 24 * 30));
+
+}
+
+?></code></pre>
+<p>And then the source for the final &#8220;thanks!&#8221; page after a purchase is complete:</p>
+<pre><code><?php
+
+$val = $_COOKIE['WiiTransferRef'];
+
+if (!empty ($val)) {
+
+mysql_connect ("db.hostname.com", "user", "pass");
+
+mysql_select_db ("dbname");
+
+$sql = sprintf("INSERT INTO referrers (url, created_at) VALUES ('%s', now())",
+
+mysql_real_escape_string ($val));
+
+mysql_query ($sql);
+
+}
+
+?></code></pre>
+<p>Note that because I am using simple PayPal buttons, not all customers actually reach the last page, because they can ignore the &#8220;return to seller&#8221; link after a completed transaction and instead go wherever they chose. This limitation goes away if you have rolled your own store or used something like &#8220;PotionStore&#8221;:http://www.potionfactory.com/potionstore.</p>
+<p>I&#8217;ve been tracking these for over a year now. I&#8217;ll share some stats about what I&#8217;ve learned in a future blog post.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2008/09/tracking_sales_referrers.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>MacSanta 2007 in time for Christmas</title>
+		<link>http://www.manton.org/2007/12/macsanta_2007_in.html</link>
+		<comments>http://www.manton.org/2007/12/macsanta_2007_in.html#comments</comments>
+		<pubDate>Wed, 19 Dec 2007 23:23:31 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[business]]></category>
+		<category><![CDATA[christmas]]></category>
+		<category><![CDATA[macsanta]]></category>
+		<category><![CDATA[sales]]></category>
+		<category><![CDATA[wiitransfer]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/12/macsanta_2007_in.html</guid>
+		<description><![CDATA[Wii Transfer&#8217;s featured day for &#8220;MacSanta&#8221;:http://www.macsantadeals.com/ starts at midnight tonight, but I&#8217;ve already rolled out the coupon code. Because I&#8217;m still using simple PayPal &#8220;Buy Now&#8221; buttons, I hacked together a little custom coupon field just for MacSanta (based on a simple JavaScript trick posted to the MacSB list). I tried to come up with [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Wii Transfer&#8217;s featured day for &#8220;MacSanta&#8221;:http://www.macsantadeals.com/ starts at midnight tonight, but I&#8217;ve already rolled out the coupon code. Because I&#8217;m still using simple PayPal &#8220;Buy Now&#8221; buttons, I hacked together a little custom coupon field just for MacSanta (based on a simple JavaScript trick posted to the MacSB list). I tried to come up with a clear interface even though there isn&#8217;t a traditional online store, because it just doesn&#8217;t make sense to spend time on a full store for only one product. (Plus, look at that cute MacSanta logo! Aww.)</p>
+<p>Here&#8217;s a screenshot &#8220;from the web site&#8221;:http://www.riverfold.com/software/wiitransfer/ after you&#8217;ve redeemed a code:</p>
+<p><img src="http://www.manton.org/images/2007/macsanta_coupon.png" alt="MacSanta coupon" border="0" width="270" height="145" style="border: 1px solid lightgray;" /></p>
+<p>On Friday the discount drops to a respectable 10% off for the rest of the month. Happy holidays!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2007/12/macsanta_2007_in.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Foreign sales market</title>
+		<link>http://www.manton.org/2007/08/foreign_sales_market.html</link>
+		<comments>http://www.manton.org/2007/08/foreign_sales_market.html#comments</comments>
+		<pubDate>Fri, 03 Aug 2007 14:28:03 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[europe]]></category>
+		<category><![CDATA[sales]]></category>
+		<category><![CDATA[stats]]></category>
+		<category><![CDATA[wiitransfer]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/08/foreign_sales_market.html</guid>
+		<description><![CDATA[From time to time on the &#8220;MacSB list&#8221;:http://tech.groups.yahoo.com/group/macsb people ask about the value of localization and what percentage of sales come from foreign customers. Since day 1 of &#8220;Wii Transfer&#8221;:http://www.riverfold.com/ I&#8217;ve always been surprised at how many sales are from Europe. At times it felt as if over half of sales were outside the United [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>From time to time on the &#8220;MacSB list&#8221;:http://tech.groups.yahoo.com/group/macsb people ask about the value of localization and what percentage of sales come from foreign customers. Since day 1 of &#8220;Wii Transfer&#8221;:http://www.riverfold.com/ I&#8217;ve always been surprised at how many sales are from Europe. At times it felt as if over half of sales were outside the United States, so I finally ran the numbers to know for sure.</p>
+<p>My homegrown customer database doesn&#8217;t actually include the physical address, so I grabbed the last 500 sales from PayPal and wrote a quick script to group the countries. Here&#8217;s the chart:</p>
+<p><img src="http://www.manton.org/images/2007/sales_chart_countries.gif" border="0" height="265" width="341" alt="Wii Transfer countries chart" /></p>
+<p>The United States represents just over half. If you add up the other English-speaking countries, it hits 70%. Still, this is a purely English-only piece of software. I&#8217;ve resisted the push to localize until I feel the codebase is better prepared for it, and the UI more stable.</p>
+<p>At &#8220;VitalSource&#8221;:http://www.vitalsource.com/ last year I wrote a custom Rails web app to manage localization resources for both the Mac and Windows products and deal with the outsource translators, and the takeaway from that experience was definitely to go slowly. It&#8217;s easy to end up with a foreign language version that makes compromises and is potentially less useful to customers than the English version. Depending on the size of the product, localization could take weeks or months, time that might be better spent adding features.</p>
+<p>Back to the real stats. Why are the foreign numbers so high? I think the weak dollar combined with an already relatively inexpensive price makes Wii Transfer even more of an impulse buy in Europe.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2007/08/foreign_sales_market.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>First 75 days of Wii Transfer</title>
+		<link>http://www.manton.org/2007/02/first_75_days.html</link>
+		<comments>http://www.manton.org/2007/02/first_75_days.html#comments</comments>
+		<pubDate>Wed, 28 Feb 2007 03:40:18 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[business]]></category>
+		<category><![CDATA[sales]]></category>
+		<category><![CDATA[transfer]]></category>
+		<category><![CDATA[wii]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/02/first_75_days.html</guid>
+		<description><![CDATA[In the tradition of other independent Mac developers such as &#8220;Mike Zornek&#8221;:http://clickablebliss.com/blog/2007/01/08/billable_the_first_100_days/, &#8220;Daniel Jalkut&#8221;:http://www.red-sweater.com/blog/191/lawful-prey, and &#8220;Gus Mueller&#8221;:http://www.gusmueller.com/blog/archives/2005/12/25.html, I&#8217;m going to share some sales information from the first 75 days of Wii Transfer. The following chart shows daily sales (in units sold) for each day. I&#8217;ve also highlighted important milestones so you can see what affect [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>In the tradition of other independent Mac developers such as &#8220;Mike Zornek&#8221;:http://clickablebliss.com/blog/2007/01/08/billable_the_first_100_days/, &#8220;Daniel Jalkut&#8221;:http://www.red-sweater.com/blog/191/lawful-prey, and &#8220;Gus Mueller&#8221;:http://www.gusmueller.com/blog/archives/2005/12/25.html, I&#8217;m going to share some sales information from the first 75 days of Wii Transfer.</p>
+<p>The following chart shows daily sales (in units sold) for each day. I&#8217;ve also highlighted important milestones so you can see what affect they had on sales, such as shipping 2.0 (which brought many links) and increasing the price (from $9 to $14, which brought my first 2.0 day of no sales at all). Finally, there are a few spots where I show the average number of visitors.</p>
+<p><img src="http://www.manton.org/images/2007/sales_75_days.png" width="600" height="220" alt="Sales chart" /></p>
+<p>(As an aside, I created this chart in Keynote. I love software that is simple and flexible enough to be used for purposes outside its original developer&#8217;s intentions. I wrote &#8220;more on this subject back in early 2006&#8243;:http://www.manton.org/2006/01/limitations_in_toys.html.)</p>
+<p>It&#8217;s difficult to tell, but the numbers on the right side are on average a little bit higher than the left. Not by much though. Sales just trickle in again right now (a few a day).</p>
+<p>So what does it all mean? Here is the basic take-away: Sales are much better than I thought they would be, but not nearly enough to live off of. That&#8217;s okay, because I happen to love &#8220;my day job&#8221;:http://www.vitalsource.com/ (also writing Mac software). However, I can definitely see how it would be possible to do this full time, with some real marketing and a collection of several additional applications. I have done zero marketing for Wii Transfer except listing it on MacUpdate, VersionTracker, and Apple&#8217;s download site (where it was featured in the video section).</p>
+<p>As you can see, there was a big spike in sales when 2.0 was released. This is a direct result of links from Mac sites like The Unofficial Apple Weblog and Daring Fireball, and gaming sites like Jostiq and others. When traffic goes up, sales go up. This opened my eyes because it really is all about getting your app in front of other users. &#8220;As I blogged about previously&#8221;:http://www.manton.org/2007/01/wii_transfer_takes.html, I think I also missed some sales opportunities during this period because 2.0 was not very stable.</p>
+<p>Other interesting stats: The conversion rate is between 2% and 5%. For every 100 downloads, a few people decide to purchase it. I think many active users probably end up paying for it. Instead of a trial demo period, some features are just crippled, and it isn&#8217;t very usable day-to-day without unlocking the full feature set (for example, with music sharing to the Wii, you can only play one song at a time &#8212; no iTunes playlists or shuffle).</p>
+<p>There are at least a few pirates too. I&#8217;m not too worried about them because &#8220;you can&#8217;t stop pirating&#8221;:http://wilshipley.com/blog/2007/02/piracy-reduction-can-be-source-of.html, and most people are honest. One customer was even nice enough to tell me about a pirated serial number he found.</p>
+<p>To everyone who purchased Wii Transfer, thanks! When I built 1.0, I wasn&#8217;t sure if I would work on it again. Now, several versions later at 2.2, I have a clear roadmap of features (and bugs!) to keep me busy.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2007/02/first_75_days.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>News.com: &#8220;More than 100,000 copies</title>
+		<link>http://www.manton.org/2002/08/newscom_more_than.html</link>
+		<comments>http://www.manton.org/2002/08/newscom_more_than.html#comments</comments>
+		<pubDate>Tue, 27 Aug 2002 16:06:41 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[jaguar]]></category>
+		<category><![CDATA[sales]]></category>
+		<category><![CDATA[windowsxp]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2002/08/newscom_more_than.html</guid>
+		<description><![CDATA[News.com: &#8220;More than 100,000 copies of Apple Computer&#8217;s OS X 10.2 operating system were sold worldwide during its first weekend, the company said.&#8221; Back in 2001: Microsoft Windows XP sold 300,000 copies over its weekend launch.]]></description>
+				<content:encoded><![CDATA[<p><a href="http://rss.com.com/2100-1040-955498.html?type=pt&#038;part=rss&#038;tag=feed&#038;subj=news">News.com</a>: &#8220;More than 100,000 copies of Apple Computer&#8217;s OS X 10.2 operating system were sold worldwide during its first weekend, the company said.&#8221;</p>
+<p>Back in 2001: Microsoft Windows XP sold 300,000 copies over <a href="http://www.internetnews.com/ent-news/article.php/7_918881">its weekend launch</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2002/08/newscom_more_than.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.392 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:31:20 -->

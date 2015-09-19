@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; art</title>
+	<atom:link href="http://www.manton.org/tag/art-2/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Criticizing Apple</title>
+		<link>http://www.manton.org/2015/03/criticizing-apple.html</link>
+		<comments>http://www.manton.org/2015/03/criticizing-apple.html#comments</comments>
+		<pubDate>Fri, 27 Mar 2015 16:19:53 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[animation]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[art]]></category>
+		<category><![CDATA[haters]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2504</guid>
+		<description><![CDATA[Marco Arment reacts to the idea that he’s withholding criticism: “As anyone who’s read my site and listened to our podcast for a while would know, I criticize Apple all the time. A developer’s view of their computing platform and software distribution partner is like any developer’s view of their programming language of choice: if [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.marco.org/2015/03/25/censoring-myself-for-apple">Marco Arment reacts</a> to the idea that he’s withholding criticism:</p>
+<blockquote><p>
+  “As anyone who’s read my site and listened to our podcast for a while would know, I criticize Apple <em>all the time</em>. A developer’s view of their computing platform and software distribution partner is like any developer’s view of their programming language of choice: if you don’t think there are any major shortcomings, you just don’t know it well enough yet.”
+</p></blockquote>
+<p>This is all true, but I also think there’s something unique about Apple: we expect greatness in everything they do. It wouldn’t be the same Apple we love if we brushed complaints aside when the company falls short. And as Marco points out, Apple employees aren’t scared of negative feedback, because they want to build great products too.</p>
+<p>A number of years ago I was <a href="http://www.manton.org/2008/04/ollie_johnston.html">sick of programming</a> and went back to school to study art and <a href="http://www.manton.org/2003/10/old_life_drawings.html">life drawing</a>. Maybe more than anything else, I came away with a new appreciation for self-criticism, and accepting the critiques of others. Because that’s how you get better. Until you can <em>see</em> what’s wrong — your drawing sucks and your iOS app is slow and buggy — you have no hope to improve.</p>
+<p>The key in both art and technology is to understand the difference between constructive criticism and just complaining. <a href="http://www.marco.org/2015/01/04/apple-lost-functional-high-ground">Marco’s original post</a> was about calling out Apple on lower quality standards in the hope that they could focus and get better. Many of the “me too” posts that followed were from Apple haters who were looking for page views and couldn’t care less if Apple quality improved.</p>
+<p><a href="http://bitsplitting.org/2015/03/25/the-risks-and-rewards-of-criticism/">Daniel Jalkut writes</a> that it&#8217;s about how we react to criticism that matters:</p>
+<blockquote><p>
+  &#8220;This is what happens when well-formed criticism meets the ears of a confident, competent individual: the facts are taken to heart and studied, perhaps grudgingly. But upon reflection and determination that there was merit in the complaint, respect for the source of the provocation goes through the roof.&#8221;
+</p></blockquote>
+<p>I’ve been working on an essay about the Apple Watch Edition and why I think it’s wrong for Apple. I do worry a little about putting out a controversial, half-baked opinion. And yet, I’ve seen no one else make my argument against the Edition in the meantime. If I want Apple to live up to the very high standard I hold them to, I can’t withhold my opinion on the direction of the company, regardless of whether that opinion will be warmly received.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/03/criticizing-apple.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The legacy of software as art</title>
+		<link>http://www.manton.org/2013/04/the_legacy_of.html</link>
+		<comments>http://www.manton.org/2013/04/the_legacy_of.html#comments</comments>
+		<pubDate>Fri, 12 Apr 2013 13:19:42 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[apps]]></category>
+		<category><![CDATA[art]]></category>
+		<category><![CDATA[permanence]]></category>
+		<category><![CDATA[software]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/04/the_legacy_of.html</guid>
+		<description><![CDATA[This post from Andy Brice, via Simon Wolf on ADN, makes a nice complement to my recent post on software as an art form: “My grandfather worked most of his life as a stonemason. Much of that time was spent restoring the ruin of a Bishop’s palace in Sherborne. His work is still visible long [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://successfulsoftware.net/2013/03/24/ephemeral/">This post from Andy Brice</a>, via <a href="https://alpha.app.net/sw/post/4161167">Simon Wolf</a> on ADN, makes a nice complement to <a href="http://www.manton.org/2013/03/app_store_old_app.html">my recent post on software as an art form</a>:</p>
+<blockquote><p>
+  “My grandfather worked most of his life as a stonemason. Much of that time was spent restoring the ruin of a Bishop’s palace in Sherborne. His work is still visible long after his death. The work of the stonemasons who built the palace is still visible after more than 8 centuries. How long after you stop programming is any of your work going to last?”
+</p></blockquote>
+<p>Not long, of course, and I’m not sure this is solvable. The best we can do is make sure our software runs on systems as long as possible, and to preserve the rest in screenshots and videos.</p>
+<p>There are echoes of this theme in <a href="http://www.manton.org/2012/07/permanence.html">my post on permanence last year</a> too, but for writing:</p>
+<blockquote><p>
+  “Nothing lasts on the internet. I could write on my weblog for years and the next day get hit by a bus. The domain expires, the posts are lost, and it doesn’t matter if I had 10 readers or 10,000; it’s as if it never happened.”
+</p></blockquote>
+<p>As much as I dwell on preservation, my actual code and apps and the work I do in the software world might not be that significant. Instead, software can be the tool to make and preserve the important stuff: the writing, art, and discussions online that will matter later. Although I’d love to preserve the software as well, there is so much work to do just to keep the blogs and tweets. I’m content with making that easier.</p>
+<p>Dave Winer also gives a nod to what software as art means, in an otherwise unrelated <a href="http://threads2.scripting.com/2013/march/anOpenNoteToTechPressbloggers">post on the press for Little Outliner</a>, again framing it as what we’re building for other people to use:</p>
+<blockquote><p>
+  “I think software is like other creative arts — music, architecture, cooking, even design of everyday things like bikes and clothes. It takes a relentless focus on the act of using, and what kind of effect you want to create.”
+</p></blockquote>
+<p><a href="https://alpha.app.net/joefiorini/post/4165373">Joe Fiorini takes it even further</a>:</p>
+<blockquote><p>
+  “Perhaps our legacy is not in the software we build but the lives we touch, even in small ways, through the problems our programs solve.”
+</p></blockquote>
+<p>Like Andy Brice’s use of the word ephemeral above, Joe’s statement is difficult to measure. There’s no one thing we can point to years later. We just have to create something worthwhile and trust that it’s making someone’s life better, and that maybe that one customer will leave a mark on the world that survives long after our apps no longer run.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/04/the_legacy_of.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>App Store old app maintenance</title>
+		<link>http://www.manton.org/2013/03/app_store_old.html</link>
+		<comments>http://www.manton.org/2013/03/app_store_old.html#comments</comments>
+		<pubDate>Fri, 22 Mar 2013 15:57:27 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[apps]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[art]]></category>
+		<category><![CDATA[downloads]]></category>
+		<category><![CDATA[newdisruptors]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/03/app_store_old.html</guid>
+		<description><![CDATA[David Smith on cleaning up the App Store: “The App Store currently has around 800k active apps listed. I suspect a significant number of these haven’t been updated in more than 12 months. An app that is listed for sale but is no longer under active development creates the possibility for bad user experience. It [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>David Smith on <a href="http://david-smith.org/blog/2013/03/21/purging-the-back-catalog/">cleaning up the App Store</a>:</p>
+<blockquote><p>
+  “The App Store currently has around <a href="http://148apps.biz/app-store-metrics/?mpage=appcount">800k</a> active apps listed. I suspect a significant number of these haven’t been updated in more than 12 months. An app that is listed for sale but is no longer under active development creates the possibility for bad user experience. It is like a grocery store that leaves expired produce on its shelves.”
+</p></blockquote>
+<p>He makes a good argument for removing old apps from the store, but I’d probably hesitate going all the way to actively take them out. There is certainly too much clutter in the App Store — too many apps that aren’t providing much value, some with little chance of an update. But I also dislike the already fragile state of App Store inventory. iOS apps require much more active maintenance than traditional, direct download Mac apps, which can be hosted anywhere and stay available without constant attention from the developer.</p>
+<p>At one point <a href="http://www.muleradio.net/newdisruptors/14/">on episode 14 of The New Disruptors podcast</a>, Glenn Fleishman talked with John Gruber about apps as a unique art form unlike paintings or novels or even film because apps are never done. John Gruber from that show, talking about software:</p>
+<blockquote><p>
+  “To me it is an art form. But it is the one thing that is continuously diddled with. You write a novel and it’s done, it’s out there. Once it’s published, it’s published. You make a movie, it’s done. George Lucas gets a lot of flak because he keeps revisiting his old Star Wars movies and making a change here and there, but it’s not like every year he comes out with a new version of Star Wars. […] But software — an app that has a vibrant and still-growing user base — it’s the same thing, constantly being iterated. It’s the only art form that is like that.”
+</p></blockquote>
+<p>There are always bugs, always missing features, and always (as is David’s point above) new hardware to adapt to. It’s an art form that won’t stay still, so maybe there is an inherent impermanence to it.</p>
+<p>But if apps are an art form, an important part of our culture, then it shouldn’t require so much work to make sure they don’t disappear forever, so quickly. This happened to me just this week, actually. I forgot to renew my iOS developer program account and my apps were automatically removed from sale for a few hours while I scrambled to pay my $99 again.</p>
+<p>Maybe there’s a compromise solution in here somewhere. Instead of being removed from sale, abandoned apps could switch to an archived state. They would no longer show up in top lists or even search, but could still be found with a direct link. With the right kind of fallback like that, Apple could be even more aggressive about gearing the App Store user experience around new apps and modern devices, without sacrificing what is good about the long tail of old apps.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/03/app_store_old.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>STAPLE! in Austin today (year 4)</title>
+		<link>http://www.manton.org/2008/03/staple_in_austin.html</link>
+		<comments>http://www.manton.org/2008/03/staple_in_austin.html#comments</comments>
+		<pubDate>Sat, 01 Mar 2008 15:30:41 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Comics]]></category>
+		<category><![CDATA[Events]]></category>
+		<category><![CDATA[art]]></category>
+		<category><![CDATA[austin]]></category>
+		<category><![CDATA[comics]]></category>
+		<category><![CDATA[indie]]></category>
+		<category><![CDATA[staple]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2008/03/staple_in_austin.html</guid>
+		<description><![CDATA[Like independent comics and art? &#8220;STAPLE! is in Austin today&#8221;:http://www.staple-austin.org/ at the Monarch Event Center, off I-35 and 2222. I&#8217;ve been on the STAPLE! planning committee for four years now and have enjoyed watching our little show grow from its humble beginnings, but it&#8217;s still a completely non-profit, volunteer-led endeavor and we need your support [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Like independent comics and art? &#8220;STAPLE! is in Austin today&#8221;:http://www.staple-austin.org/ at the Monarch Event Center, off I-35 and 2222. I&#8217;ve been on the STAPLE! planning committee for four years now and have enjoyed watching our little show grow from its humble beginnings, but it&#8217;s still a completely non-profit, volunteer-led endeavor and we need your support to make it a success. Come join us anytime between 11am and 7pm (or &#8220;check the schedule&#8221;:http://www.staple-austin.org/guests/ for our featured session times), and then come back downtown later tonight for the after-party and live-art show at Red&#8217;s Scoot Inn (&#8220;flyer&#8221;:http://www.staple-austin.org/promote/staple2008_afterparty.jpg).</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2008/03/staple_in_austin.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Lowbrow Monster Mash</title>
+		<link>http://www.manton.org/2007/10/lowbrow_monster_mash.html</link>
+		<comments>http://www.manton.org/2007/10/lowbrow_monster_mash.html#comments</comments>
+		<pubDate>Sat, 13 Oct 2007 14:08:51 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Animation]]></category>
+		<category><![CDATA[art]]></category>
+		<category><![CDATA[drawings]]></category>
+		<category><![CDATA[krabba]]></category>
+		<category><![CDATA[monster]]></category>
+		<category><![CDATA[show]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/10/lowbrow_monster_mash.html</guid>
+		<description><![CDATA[Late notice, but I&#8217;ll have a watercolor piece in tonight&#8217;s Monster Mash art show at the Lowbrow Emporium on South Lamar. If you&#8217;re in Austin, drop by between 7 and 11pm and say hi. (Address and other details on &#8220;the poster by Jason Chalker&#8221;:http://austinsketchsquad.blogspot.com/2007/09/they-did-mashit-was-monster-mash.html.) The art is from participants and friends of the Austin Sketch [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Late notice, but I&#8217;ll have a watercolor piece in tonight&#8217;s Monster Mash art show at the Lowbrow Emporium on South Lamar. If you&#8217;re in Austin, drop by between 7 and 11pm and say hi. (Address and other details on &#8220;the poster by Jason Chalker&#8221;:http://austinsketchsquad.blogspot.com/2007/09/they-did-mashit-was-monster-mash.html.) The art is from participants and friends of the Austin Sketch Squad, some of whom will be doing live art at the show. There will also be free beer and candy!</p>
+<p>I snapped a &#8220;photo of my desk with art stuff&#8221;:http://www.flickr.com/photos/manton/1558857105/ while I was preparing for the show. I forgot to scan the final art, which sadly didn&#8217;t come out nearly as nice as my first sketch, but I&#8217;ll get a picture of that tonight. It was fun to work on and a nice break from late-night programming this week.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2007/10/lowbrow_monster_mash.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Weblog 5th Year</title>
+		<link>http://www.manton.org/2007/03/weblog_5th_year.html</link>
+		<comments>http://www.manton.org/2007/03/weblog_5th_year.html#comments</comments>
+		<pubDate>Sat, 10 Mar 2007 05:58:44 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[anniversary]]></category>
+		<category><![CDATA[art]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[chalker]]></category>
+		<category><![CDATA[jason]]></category>
+		<category><![CDATA[sxsw]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/03/weblog_5th_year.html</guid>
+		<description><![CDATA[Ten minutes until midnight as I type this. I started this blog 5 years ago. There have been just 329 posts in those 5 years, but there are some good ones in there. One thing I&#8217;ve noticed is that over the years I&#8217;ve switched from collecting links and providing short commentary, to more thoughtful longer [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Ten minutes until midnight as I type this. I started this blog 5 years ago. There have been just 329 posts in those 5 years, but there are some good ones in there. One thing I&#8217;ve noticed is that over the years I&#8217;ve switched from collecting links and providing short commentary, to more thoughtful longer posts. I&#8217;m hoping in this next year to go back to more of the earlier style.</p>
+<p>My weblog anniversary also means that &#8220;SXSW&#8221;:http://www.sxsw.com/ is starting. I don&#8217;t plan to blog this weekend, but will instead be updating through &#8220;my Twitter account&#8221;:http://twitter.com/manton. To be honest I&#8217;m not sure what to expect from this year&#8217;s conference. I&#8217;m looking forward to a few sessions, but with RailsConf and WWDC and another work trip all lined up for the coming few months, I&#8217;m feeling a little conferenced-out before I&#8217;ve even begun.</p>
+<p>Here are the previous anniversary posts: &#8220;2006&#8221;:http://www.manton.org/2006/03/mediocrity_is_the.html, &#8220;2005&#8221;:http://www.manton.org/2005/03/year_three.html, &#8220;2004&#8221;:http://www.manton.org/2004/03/two_years.html, &#8220;2003&#8221;:http://www.manton.org/2003/03/at_sxsw.html, and &#8220;2002&#8221;:http://www.manton.org/2002/03/sxsw.html.</p>
+<p>Also checked out the new Apple Store at The Domain today, which is a couple miles from my house. Was 250th in line without really trying, and the weather was nice enough to work under the oak trees outside Starbucks. Took pictures with my camera phone which I don&#8217;t have the energy to post right now. Tonight I headed back downtown for the opening of &#8220;Jason Chalker&#8217;s&#8221;:http://manlyart.blogspot.com/ art show.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2007/03/weblog_5th_year.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>STAPLE! 2006</title>
+		<link>http://www.manton.org/2006/03/staple_2006.html</link>
+		<comments>http://www.manton.org/2006/03/staple_2006.html#comments</comments>
+		<pubDate>Sat, 04 Mar 2006 14:34:18 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Comics]]></category>
+		<category><![CDATA[art]]></category>
+		<category><![CDATA[comics]]></category>
+		<category><![CDATA[staple]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2006/03/staple_2006.html</guid>
+		<description><![CDATA[It&#8217;s not often that I get out of the house early on a Saturday, but STAPLE! The Independent Media Expo is today. If you are anywhere in the central Texas area, check out the web site for the schedule and location info. This week&#8217;s Austin Chronicle also ran a story on the show. Last night&#8217;s [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>It&#8217;s not often that I get out of the house early on a Saturday, but STAPLE! The Independent Media Expo is today. If you are anywhere in the central Texas area, <a href="http://www.staple-austin.org/">check out the web site</a> for the schedule and location info. This week&#8217;s <a href="http://www.austinchronicle.com/issues/dispatch/2006-03-03/books_feature.html">Austin Chronicle also ran a story</a> on the show. Last night&#8217;s pre-party at Austin Books was great, but it&#8217;s still difficult to tell how many people will show up today. It&#8217;s one day only, so if you love comics or just want to support independent artists, please stop by.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2006/03/staple_2006.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.768 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:15:53 -->

@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; twitter</title>
+	<atom:link href="http://www.manton.org/tag/twitter/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>I will return to Twitter when&#8230;</title>
+		<link>http://www.manton.org/2015/08/i-will-return-to-twitter-when.html</link>
+		<comments>http://www.manton.org/2015/08/i-will-return-to-twitter-when.html#comments</comments>
+		<pubDate>Fri, 14 Aug 2015 19:24:38 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[api]]></category>
+		<category><![CDATA[openweb]]></category>
+		<category><![CDATA[rss]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2944</guid>
+		<description><![CDATA[As I&#8217;m catching up on some news, two posts today about Twitter caught me eye. First, very big news via Federico Viticci, that full tweet search is available even to third-party apps. Twitter&#8217;s limited search was the main reason I originally built Tweet Library. It&#8217;s fantastic that this data is now more easily available. But [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>As I&#8217;m catching up on some news, two posts today about Twitter caught me eye. First, very big news via Federico Viticci, that full tweet search <a href="https://blog.twitter.com/2015/full-archive-search-api">is available even to third-party apps</a>. Twitter&#8217;s limited search was the main reason I originally built <a href="http://appstore.com/tweetlibrary">Tweet Library</a>. It&#8217;s fantastic that this data is now more easily available.</p>
+<p>But it was this opening paragraph from <a href="http://www.macworld.com/article/2970341/web-social/twitter-on-the-mac-do-your-job-or-get-out-of-the-way.html">Jason Snell&#8217;s article on Macworld</a> about Twitter neglecting the Mac version that got me thinking:</p>
+<blockquote><p>
+  &#8220;Three years ago this month Twitter <a href="http://www.macworld.com/article/1168183/twitter_hands_down_new_strict_rules_for_third_party_developers.html">broke its covenant with the third-party developers</a> who helped fuel its initial growth and create some of its most innovative features. The message was clear: Twitter was in charge of its own platform, and while other Twitter apps would be tolerated, it would only be in limited fashion and for a limited time.&#8221;
+</p></blockquote>
+<p>It was around this time, nearly 3 years ago, that I posted my last tweet. My bet with <a href="http://bitsplitting.org/">Daniel</a> is over whether I will return to Twitter within 5 years. People ask if I&#8217;ll come back sooner, and if I did, what it would take. I&#8217;ve often struggled to articulate those conditions, because I think we are seeing <a href="http://www.manton.org/2015/07/ev-on-twitter-third-party-devs.html">slow but consistent progress</a> to unwind the developer-hostile decisions made a few years ago. It may be that in a couple years the environment will be much improved, but there won&#8217;t be any single decision that &#8220;fixed&#8221; it, or it may be that Twitter is doomed to have changing leadership and there will never be any guarantees.</p>
+<p>There is one thing, though. There is one change that was made while rolling out the version 1.1 Twitter API: they removed support for unauthenticated RSS feeds of user tweets or timelines. If they reversed that one decision, the next day I would be back on Twitter.</p>
+<p>I can pick out a single feature like this, among every other improvement that third-party developers would love to see, because the combination of removing RSS and at the same time locking down the API — those changes together best represent the move away from the open web. Any other incremental improvement short of unauthenticated RSS, no matter how welcome, isn&#8217;t enough.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/08/i-will-return-to-twitter-when.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Riposte push server crowdfunding</title>
+		<link>http://www.manton.org/2015/08/riposte-push-server-crowdfunding.html</link>
+		<comments>http://www.manton.org/2015/08/riposte-push-server-crowdfunding.html#comments</comments>
+		<pubDate>Tue, 04 Aug 2015 16:54:15 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[adn]]></category>
+		<category><![CDATA[riposte]]></category>
+		<category><![CDATA[servers]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2938</guid>
+		<description><![CDATA[Back in April, the App.net app Riposte was removed from sale. Riposte wasn&#8217;t just the best client for App.net; I think it held its own against even the best Twitter apps, too. The push notification server for Riposte (and its messaging app complement, Whisper) was to keep running for some months and then shut down [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://blog.jaredsinclair.com/post/116294584510/riposte-the-appnet-app-permanently-removed-from">Back in April</a>, the App.net app Riposte was removed from sale. Riposte wasn&#8217;t just the best client for App.net; I think it held its own against even the best Twitter apps, too. The push notification server for Riposte (and its messaging app complement, Whisper) was to keep running for some months and then shut down this summer.</p>
+<p>Even if App.net is slowly fading away, like many users I still have Riposte on my home screen. I cross-post all <a href="http://www.manton.org/category/micro">my microblog posts</a> from this blog to App.net. When I get replies and mentions on App.net, I like to see them as push notifications in Riposte. I can reply in the app easily, or skim through the timeline to see what else is going on.</p>
+<p>Now the developers have launched a <a href="https://app.moonclerk.com/pay/q2j4zmciz4e">crowdfunding campaign</a> to keep the Riposte server running. Their goal is a modest $500 per year to cover AWS hosting and time to keep everything running smoothly. Even if you&#8217;re not very active on App.net anymore, consider donating as a thank-you for everything Riposte did for App.net, and for what it did to advance the state of UI design in social networking apps.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/08/riposte-push-server-crowdfunding.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Two weeks notice: Core Int 192</title>
+		<link>http://www.manton.org/2015/07/two-weeks-notice-core-int-192.html</link>
+		<comments>http://www.manton.org/2015/07/two-weeks-notice-core-int-192.html#comments</comments>
+		<pubDate>Fri, 31 Jul 2015 17:02:02 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[2weeks]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[vitalsource]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2928</guid>
+		<description><![CDATA[Continuing from last week’s Core Intuition, today Daniel and I talk more about how things are going with the final days of my job winding down. We then take the second half of the show to catch up on recent news around Twitter’s leadership. From the show notes: “Daniel and Manton acknowledge celebration as a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Continuing from last week’s Core Intuition, today Daniel and I talk more about how things are going with the final days of my job winding down. We then take the second half of the show to catch up on recent news around Twitter’s leadership.</p>
+<p>From the show notes:</p>
+<blockquote><p>
+  “Daniel and Manton acknowledge celebration as a survival tactic, discuss the urgency of making ends meet as an indie, and examine changes underway at Twitter with interim CEO Jack Dorsey.”
+</p></blockquote>
+<p>You can listen or subscribe at the <a href="http://coreint.org/192">Core Intuition web site</a>. Special thanks to returning sponsor <a href="http://cocoaconf.com/">CocoaConf</a>. They’ve got conferences coming up in Boston and San Jose, and then Yosemite National Park next year.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/07/two-weeks-notice-core-int-192.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Embrace cross-posting</title>
+		<link>http://www.manton.org/2015/07/embrace-cross-posting.html</link>
+		<comments>http://www.manton.org/2015/07/embrace-cross-posting.html#comments</comments>
+		<pubDate>Fri, 17 Jul 2015 18:00:26 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[crosspost]]></category>
+		<category><![CDATA[rss]]></category>
+		<category><![CDATA[snippets]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2857</guid>
+		<description><![CDATA[When App.net was first taking off, many microbloggers struggled with how to decide where to post their short-form writing. Should they post some topics to Twitter and others to App.net? Should they cross-post everything to both services? At the time, there was an informal consensus that cross-posting was a cheat. It couldn’t take advantage of [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>When App.net was first taking off, many microbloggers struggled with how to decide where to post their short-form writing. Should they post some topics to Twitter and others to App.net? Should they cross-post everything to both services? At the time, there was an informal consensus that cross-posting was a cheat. It couldn’t take advantage of each platform’s strengths, and followers might often see the same post twice.</p>
+<p>I now believe that cross-posting is a good thing. Photos, as one example, are frequently cross-posted to both Instagram and Facebook. Tweets can be sent to Twitter <a href="http://www.manton.org/2015/06/more-quick-blogging-workflows.html">as well as our own blogs</a>. Many apps like Instagram or Foursquare support and even encourage cross-posting. It’s good for developers because it helps spread knowledge of the publishing app, and it’s good for writers because it means there are multiple copies of our content.</p>
+<p><a href="http://www.manton.org/2015/07/sneak-peek-screenshot.html">It’s no secret</a> that I’m building a microblog aggregation and publishing service. The goal is for us to get back to our roots with blogging — to write on our own web sites first, not as an afterthought to Twitter. Cross-posting is an important bootstrap for that.</p>
+<p>If you don’t have a blog, <em>start one today</em>. It takes minutes to set up, and hardly any more time to wire up automatic tweeting <a href="http://www.manton.org/2015/06/microblogging-with-wordpress.html">via IFTTT from your RSS feed</a>. Start with cross-posting and see if something interesting evolves from there.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/07/embrace-cross-posting.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Ev on Twitter third-party devs</title>
+		<link>http://www.manton.org/2015/07/ev-on-twitter-third-party-devs.html</link>
+		<comments>http://www.manton.org/2015/07/ev-on-twitter-third-party-devs.html#comments</comments>
+		<pubDate>Fri, 17 Jul 2015 15:25:39 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[api]]></category>
+		<category><![CDATA[ev]]></category>
+		<category><![CDATA[platforms]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2855</guid>
+		<description><![CDATA[Business Insider quotes Evan Williams on the developer-hostile attitude of previous Twitter management: “The API denial was, ‘One of our strategic errors we had to wind down over time,’ Evans explained. ‘It wasn’t a win/win for developers, users, and the company.’” Just acknowledging this publicly is progress. It’s now been almost 3 years since my [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.businessinsider.com/evan-williams-on-twitter-and-developers-2015-7">Business Insider quotes Evan Williams</a> on the developer-hostile attitude of previous Twitter management:</p>
+<blockquote><p>
+  “The API denial was, ‘One of our strategic errors we had to wind down over time,’ Evans explained. ‘It wasn’t a win/win for developers, users, and the company.’”
+</p></blockquote>
+<p>Just acknowledging this publicly is progress. It’s now been almost 3 years since my last tweet. I don’t expect to return to Twitter, but I’m still very interested in whether there&#8217;ll be a noticeable change in direction from the new CEO.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/07/ev-on-twitter-third-party-devs.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Microblog timelines, Project Lightning, and River.js</title>
+		<link>http://www.manton.org/2015/06/microblog-timelines-project-lightning-and-river-js.html</link>
+		<comments>http://www.manton.org/2015/06/microblog-timelines-project-lightning-and-river-js.html#comments</comments>
+		<pubDate>Mon, 22 Jun 2015 13:42:23 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[riverjs]]></category>
+		<category><![CDATA[rss]]></category>
+		<category><![CDATA[snippets]]></category>
+		<category><![CDATA[timelines]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2765</guid>
+		<description><![CDATA[I said that one important facet to microblogging is the timeline experience. This is a basic foundation to Twitter’s success, although they continue to de-emphasize or twist it. Their upcoming Project Lightning will attempt to curate and deliver tweets to you that are important regardless of who you’re following. From Mat Honan’s scoop on the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.manton.org/2015/06/more-quick-blogging-workflows.html">I said</a> that one important facet to microblogging is the timeline experience. This is a basic foundation to Twitter’s success, although they continue to de-emphasize or twist it. Their upcoming Project Lightning will attempt to curate and deliver tweets to you that are important regardless of who you’re following. <a href="http://www.buzzfeed.com/mathonan/twitters-top-secret-project-lightning-revealed">From Mat Honan’s scoop</a> on the project for Buzz Feed:</p>
+<blockquote><p>
+  “Launch one of these events and you’ll see a visually driven, curated collection of tweets. A team of editors, working under Katie Jacobs Stanton, who runs Twitter’s global media operations, will select what it thinks are the best and most relevant tweets and package them into a collection.”
+</p></blockquote>
+<p><a href="http://www.wired.com/2015/06/twitter-project-lightning-timeline/">David Pierce wrote for Wired</a> with further speculation on what it could mean for Twitter. David starts with the premise that Twitter is basically full of junk:</p>
+<blockquote><p>
+  “Sure, yes, everyone’s Twitter is different—that’s one of the service’s best aspects, that you can follow anyone you want and see whatever you want. Unfortunately, this only works if everyone on Twitter isn’t terrible most of the time. They are.”
+</p></blockquote>
+<p>The essay continues, describing Project Lightning as the death of the Twitter timeline as we know it:</p>
+<blockquote><p>
+  “With this change, Twitter doesn’t have to look like an endlessly flowing, context-free stream of tweets; instead, you can see a hand-curated set of tweets, links, images, and videos related to what’s happening right now. You see one at a time, swiping through them until you get to the end. And there’s an end!”
+</p></blockquote>
+<p>Since I haven’t seen this new feature, I can’t tell whether it’s a major shift in how Twitter is used. <a href="http://www.macstories.net/linked/twitters-project-lightning/">Federico Viticci is optimistic</a> about it:</p>
+<blockquote><p>
+  “This is another example of Twitter moving beyond Legacy Twitter and the belief that Twitter is still only a timeline of tweets in chronological order. The company has been enhancing the service with media improvements and design changes aimed at making Twitter less static – the opposite of a traditional timeline. If anything, they&#8217;ve been moving <em>too slowly</em> in this area.”
+</p></blockquote>
+<p>I agree with Federico on the value of curation and surfacing great content. But also the timeline must remain at the heart of Twitter, just as a reverse-chronological list of posts has been on every blog home page since the term weblog was coined 18 years ago.</p>
+<p>Dave Winer calls these timelines “rivers”, and last week <a href="http://scripting.com/2015/06/19/riverbrowserOpenSourceRelease.html">he open-sourced a browser</a> for the River.js timeline files. Formatted as JSONP, you can think of River.js as conceptually the same as an RSS feed, except that it’s easy to display with HTML using only JavaScript.</p>
+<p>I plan to fully support outputting River.js in the project I’m working on. For the last few years, Twitter has had a monopoly on the timeline. We need to break that up. The first step is <a href="http://www.manton.org/2015/06/microblogging-with-wordpress.html">encouraging microblogs everywhere</a>, and the next step is to build tools that embrace the timeline experience. If you’d like to see my take on this, please <a href="http://eepurl.com/6vVvj">sign up on the project announce list</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/06/microblog-timelines-project-lightning-and-river-js.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Why Ello isn’t enough</title>
+		<link>http://www.manton.org/2015/06/why-ello-isnt-enough.html</link>
+		<comments>http://www.manton.org/2015/06/why-ello-isnt-enough.html#comments</comments>
+		<pubDate>Sun, 21 Jun 2015 21:33:07 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[blogs]]></category>
+		<category><![CDATA[ello]]></category>
+		<category><![CDATA[fonts]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[social]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2758</guid>
+		<description><![CDATA[Last week, to not much fanfare at all because nearly everyone had already lost interest, Ello shipped their iPhone app. Credit to them for attempting to build a new social network, because this is extremely difficult. But it seems to me that Ello is a bust. They needed a more compelling pitch than simply “no [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Last week, to not much fanfare at all because nearly everyone had already lost interest, <a href="http://ello.co/">Ello</a> shipped their iPhone app. Credit to them for attempting to build a new social network, because this is extremely difficult. But it seems to me that Ello is a bust. They needed a more compelling pitch than simply “no ads”.</p>
+<p>(I’ve heard some people joke about Ello’s monospaced font, but I kind of love that about Ello. If you want to differentiate yourself, design isn’t a bad place to start.)</p>
+<p>App.net was — and likely will be for many more years — the most successful attempt to compete with Twitter and Facebook. If they fell short, despite how many things they got right, how can another clone of existing social networks hope to do any better?</p>
+<p>I wish I could cheer Ello on. Spend enough time clicking around on Ello and you discover a niche but fascinating community, full of beautiful art and photos. It’s just that after so many months, there’s still not even a mention of an official API on the <a href="https://ello.co/wtf/resources/feature-list/">planned features page</a>.</p>
+<p>The next great social platform can’t be yet another centralized system. It has to be more distributed and more open even than App.net. It has to focus on writing and bloggers and embrace what is good about the web. Ello doesn’t do any of these things.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/06/why-ello-isnt-enough.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>More quick blogging workflows</title>
+		<link>http://www.manton.org/2015/06/more-quick-blogging-workflows.html</link>
+		<comments>http://www.manton.org/2015/06/more-quick-blogging-workflows.html#comments</comments>
+		<pubDate>Sat, 20 Jun 2015 15:07:10 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[drafts]]></category>
+		<category><![CDATA[microblogs]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[wordpress]]></category>
+		<category><![CDATA[wwdc]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2747</guid>
+		<description><![CDATA[I had a great conversion with Seth Clifford one night at WWDC, about writing and blogging. We all want to get better at writing and posting more frequently. As I mentioned in yesterday’s post, the best way to improve anything is to do more of it, more often. I believe there are two important facets [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I had a great conversion with Seth Clifford one night at WWDC, about writing and blogging. We all want to get better at writing and posting more frequently. As I mentioned <a href="http://www.manton.org/2015/06/we-need-more-bad-ideas.html">in yesterday’s post</a>, the best way to improve anything is to do more of it, more often.</p>
+<p>I believe there are two important facets to microblogging. The first is the timeline experience: a reverse-chronological list of posts from your friends, like you see on Twitter. The second is that posting should be effortless: if there’s less friction between your idea and publishing it, you’ll write more often. So a big part of posting regularly is just having a system that makes it easy.</p>
+<p><a href="http://sethclifford.me/2015/06/auto-posting-to-wordpress-and-archiving-in-dropbox-with-drafts/">Seth updated his iOS blogging workflow</a> by using Drafts and WordPress’s email-to-blog feature. As a nice bonus, he gets Markdown files of each post saved to Dropbox:</p>
+<blockquote><p>
+  “Drafts allows you to send email as an action. WordPress allows you to post into the system via email. Using a combination of the action and the <a href="http://jetpack.me/support/post-by-email/">Jetpack plugin’s email functionality</a>, I can go from idea to published in seconds, without touching the WP iOS app (which continues to get better, but still isn’t <em>fast</em>) and get my local copy stored away.”
+</p></blockquote>
+<p>Also this week, Ben Brooks has switched his core Twitter posting to go through WordPress. He has a <a href="http://benb.me/">standalone microblog at benb.me</a> where the posts live. They go out to Twitter automatically via IFTTT. Posting to a blog first and then Twitter second seems like a simple idea, but it is extremely powerful. Years from now you end up with an archive of all your short-form writing at your own domain. Not as an afterthought, but as the <em>default</em>.</p>
+<p>The great thing about blogging is there’s no one correct way to do this stuff. I’m really happy to see these solutions from Seth and Ben, and I know other folks are working on similar workflows.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/06/more-quick-blogging-workflows.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Microblogging with WordPress</title>
+		<link>http://www.manton.org/2015/06/microblogging-with-wordpress.html</link>
+		<comments>http://www.manton.org/2015/06/microblogging-with-wordpress.html#comments</comments>
+		<pubDate>Thu, 18 Jun 2015 16:32:00 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[ifttt]]></category>
+		<category><![CDATA[microblogs]]></category>
+		<category><![CDATA[snippets]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2739</guid>
+		<description><![CDATA[I wrote at a high level how I improved my microblogging workflow before WWDC, but I’d like to use this post to show the surrounding details. I hope it’s useful to other folks who want to control their own content. Post formats. Newer versions of WordPress have the concept of post formats. Normal blog posts [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.manton.org/2015/06/wordpress-microblog-posting-from-do-note.html">I wrote at a high level</a> how I improved my microblogging workflow before WWDC, but I’d like to use this post to show the surrounding details. I hope it’s useful to other folks who want to control their own content.</p>
+<p><strong>Post formats</strong>. Newer versions of WordPress have the concept of post formats. Normal blog posts have a “standard” format, but there are also these types: aside, image, link, quote, and status. For microblogs, I recommend “status”.</p>
+<p><strong>No titles</strong>. As I proposed <a href="http://www.manton.org/2014/09/defining-a-microblog-post.html">in a previous blog post</a>, for small posts we should revisit an original feature of RSS: the title of a post is optional. In fact, early blogging systems like Radio Userland didn’t even have a title field. When you’re writing a microblog post in WordPress, just leave the title blank, and if necessary update the post template to not include the title in HTML or the RSS feed.</p>
+<p><strong>RSS feeds</strong>. If you create a brand new WordPress blog for microblog posts, you won’t need to do anything special about RSS feeds. But if you share a single blog for both standard and status formats, you may want to have 2 feeds: one that excludes microblog posts and one that contains <em>only</em> microblog posts. Just use a special category for microblog posts in addition to the post format. <a href="https://gist.github.com/manton/f8b6f8b391a2f3d9b419">Here’s a section of my .htaccess file</a> where I use the “cat” parameter to include or exclude this category for my blog’s feeds.</p>
+<p><strong>iPhone posting</strong>. One of the lessons from Twitter is that posting should be effortless. Using WordPress on iOS is fine, but I’ve found that wiring up a simple posting recipe in IFTTT’s <a href="https://ifttt.com/products/do/note">Do Note app</a> makes it trivial to post from your phone. Use the WordPress action in IFTTT but also get <a href="https://wordpress.org/plugins/ifttt-post-formats/">this WordPress plug-in</a>. Since the WordPress action can’t yet specify a post format, the plug-in can simulate it by using a special ifttt-status category. <a href="http://www.manton.org/images/2015/microblog_screenshot_status.png">Here’s a screenshot</a> of what my IFTTT recipe looks like.</p>
+<p><strong>Tweeting</strong>. Now that you have a blog that contains all your microblog posts, you can wire it up to Twitter to automatically cross-post them as tweets. You’re writing <em>on your own site first</em>, but the posts still go out to your Twitter followers. Again, use an IFTTT recipe that pulls from your microblog RSS feed and sends the post content to Twitter. Since I don’t post to Twitter, <a href="http://www.manton.org/images/2015/microblog_screenshot_rss.png">I’ve set mine to post to App.net</a> instead. You can continue to reply and favorite directly on Twitter.</p>
+<p>I’m very excited about the potential for microblogging. For the last year I’ve been working on a new platform around this stuff. By adopting some of these tips for WordPress, your microblog will be ready for my platform, but more importantly your blog will be open and extensible. Let’s get back to our roots with RSS and see what tools and web sites we can build.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/06/microblogging-with-wordpress.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Twitter Island</title>
+		<link>http://www.manton.org/2015/05/twitter-island.html</link>
+		<comments>http://www.manton.org/2015/05/twitter-island.html#comments</comments>
+		<pubDate>Mon, 04 May 2015 22:11:07 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[island]]></category>
+		<category><![CDATA[snippets]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2595</guid>
+		<description><![CDATA[To cope with his dislike for how Twitter treats the microblog part of their platform, Brent Simmons has adopted a strategy of deleting old tweets: “So I haven’t deleted my account or made it private. I will respond to some messages. It’s just that I’ll delete my response after a day or a week or [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>To cope with his dislike for how Twitter treats the microblog part of their platform, <a href="http://inessential.com/2015/05/03/the_man_who_deleted_all_his_tweets">Brent Simmons has adopted a strategy</a> of deleting old tweets:</p>
+<blockquote><p>
+  “So I haven’t deleted my account or made it private. I will respond to some messages. It’s just that I’ll delete my response after a day or a week or whatever so that Twitter is a chat-only service for me.”
+</p></blockquote>
+<p><a href="http://twitter.com/justin">Justin Williams joked</a> that Brent and I are now the sole inhabitants of “Manton Island”. That’s funny but it’s actually backwards; it’s <em>Twitter</em> that is the island. Everyone is there, though, in an overpopulated mess, so they don’t realize they’re cut off from the rest of the world — the open web, designed 25 years ago as an interconnected system of countless islands.</p>
+<p>The risk on Twitter Island is that the monarchy can change the rules. Cars that once were great now can’t run on the road. Windows that once had a beautiful view now only look inward. Eventually maybe the whole thing sinks, with waterlogged tweets (which you thought you controlled) floating above the surface like lost bubbles over Atlantis.</p>
+<p>The rule of the open web is much simpler: you own your content if it’s on your domain name. That’s why I have <a href="http://www.manton.org/category/micro">my microblog posts here on manton.org</a> and with <a href="http://www.manton.org/snippets.xml">their own RSS feed</a>.</p>
+<p>I’ve been working on a new project that I think is the next step for microblogging. It still has elements of being an island, as most web apps inherently do. But mine isn’t just an island; it’s an <em>island builder</em>, with massive bridges to the mainland, to other nearby islands, to places we haven’t even dreamed up yet.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/05/twitter-island.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.467 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:12:09 -->

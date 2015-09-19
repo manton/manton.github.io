@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; essays</title>
+	<atom:link href="http://www.manton.org/tag/essays/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Startup life and Medium</title>
+		<link>http://www.manton.org/2015/08/startup-life-and-medium.html</link>
+		<comments>http://www.manton.org/2015/08/startup-life-and-medium.html#comments</comments>
+		<pubDate>Thu, 27 Aug 2015 14:06:21 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[blogs]]></category>
+		<category><![CDATA[essays]]></category>
+		<category><![CDATA[medium]]></category>
+		<category><![CDATA[sanfrancisco]]></category>
+		<category><![CDATA[startups]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2976</guid>
+		<description><![CDATA[Pretty hilarious guide to San Francisco startup life from Padlet on Medium. Here&#8217;s just one small part: &#8220;Markets are chockablock with these desk+gym hybrids — standing desks, treadmill desks, cycling desks. This is why I feel bullish about my swimming desk idea — a big water tank with an infinity pool and a computer bolted on one side. Noise [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Pretty hilarious <a href="https://medium.com/@padlet/an-honest-guide-to-the-san-francisco-startup-life-6df13d23689">guide to San Francisco startup life</a> from Padlet on Medium. Here&#8217;s just one small part:</p>
+<blockquote><p>
+  &#8220;Markets are chockablock with these desk+gym hybrids — standing desks, treadmill desks, cycling desks. This is why I feel bullish about my swimming desk idea — a big water tank with an infinity pool and a computer bolted on one side. Noise cancelling scuba masks, snorkels, and fins come as standard equipment.&#8221;
+</p></blockquote>
+<p>I&#8217;ve been fascinated with Medium lately, and have cross-posted a couple recent posts <a href="http://medium.com/@manton">over there</a> to better understand it. Is it a blogging tool? Sort of. Is it a social network? Not exactly.</p>
+<p>While you can follow other users there, I find that even with the 100+ people I&#8217;m following, the posts I see on Medium are almost exclusively popular essays written by people I don&#8217;t know. They&#8217;re recommended enough that they show up in Medium&#8217;s daily emails, or on the home page, or linked from other blogs I read. But it&#8217;s like if you signed in to Twitter and only saw retweets.</p>
+<p>This may explain Medium&#8217;s design changes to encourage quick, microblog-like posts, in addition to full essays. Longer blog posts just aren&#8217;t written often enough to make for a meaningful social network.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/08/startup-life-and-medium.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Favorite essays</title>
+		<link>http://www.manton.org/2008/10/favorite_essays.html</link>
+		<comments>http://www.manton.org/2008/10/favorite_essays.html#comments</comments>
+		<pubDate>Wed, 08 Oct 2008 20:09:43 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[essays]]></category>
+		<category><![CDATA[favorites]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2008/10/favorite_essays.html</guid>
+		<description><![CDATA[The best essays are the ones that contain some truth or insight that doesn&#8217;t go out of style months or years later. As I return to regular blogging (12 posts in September compared to about the same number of posts between all of May through August), I sometimes stumble upon older posts that have held [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The best essays are the ones that contain some truth or insight that doesn&#8217;t go out of style months or years later. As I return to regular blogging (12 posts in September compared to about the same number of posts between all of May through August), I sometimes stumble upon older posts that have held up pretty well.</p>
+<p>Here are 10 of my favorites over the last 6 years with brief comments on why I like them. If you&#8217;ve only recently started reading my blog, maybe you&#8217;ll find one of these interesting.</p>
+<p>&#8220;Understanding Comics&#8221;:http://www.manton.org/2003/01/understanding_comics.html, <em>January 2003</em>. Probably the first of several essays where I write about art and software. Since I wrote it, Scott McCloud has finished his third book on comics.</p>
+<p>&#8220;Perfection&#8221;:http://www.manton.org/2005/08/perfection.html, <em>August 2005</em>. Doing our best work, inspired by Tufte and the golden age at Disney.</p>
+<p>&#8220;Set unreasonable deadlines&#8221;:http://www.manton.org/2005/12/set.html, <em>December 2005</em>. Code more in less time, three years ago, but still very much inspired by 37signals. I like how this post mentions my favorite animation autobiography.</p>
+<p>&#8220;Limitations in toys and software&#8221;:http://www.manton.org/2006/01/limitations_in_toys.html, <em>January 2006</em>. I connected LEGOs and toy utility with user interface design in this one.</p>
+<p>&#8220;Smart software bloat&#8221;:http://www.manton.org/2006/02/smart_software_bloat.html, <em>February 2006</em>. In a general sense, how to add features without burdening the user interface. Discoverability in context.</p>
+<p>&#8220;Mediocrity is the new application platform&#8221;:http://www.manton.org/2006/03/mediocrity_is_the.html, <em>March 2006</em>. About web, native, and hybrid applications, and when to choose one or the other.</p>
+<p>&#8220;Customer support&#8221;:http://www.manton.org/2007/02/customer.html, <em>February 2007</em>. Sparked by a post from Ryan Carson, I write about my own experience with Wii Transfer support.</p>
+<p>&#8220;Bush veto&#8221;:http://www.manton.org/2007/11/bush_veto.html, <em>November 2007</em>. I&#8217;m pretty sick of partisan politics right now, a month before the election. This post reminds me of the passion I had just a year ago.</p>
+<p>&#8220;Fancy-pants productivity&#8221;:http://www.manton.org/2008/03/fancypants_productivity.html, <em>March 2008</em>. A little bit of a rant, reacting to the opinion that code must always be beautiful.</p>
+<p>&#8220;Ollie Johnston&#8221;:http://www.manton.org/2008/04/ollie_johnston.html, <em>April 2008</em>. Where I comment on the death of a master animator. I should re-read this one every year.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2008/10/favorite_essays.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.215 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:23:13 -->

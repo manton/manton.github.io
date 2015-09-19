@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; iwerks</title>
+	<atom:link href="http://www.manton.org/tag/iwerks/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Multiplane</title>
+		<link>http://www.manton.org/2013/06/multiplane.html</link>
+		<comments>http://www.manton.org/2013/06/multiplane.html#comments</comments>
+		<pubDate>Mon, 17 Jun 2013 21:22:59 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Animation]]></category>
+		<category><![CDATA[animation]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[disney]]></category>
+		<category><![CDATA[ios7]]></category>
+		<category><![CDATA[iwerks]]></category>
+		<category><![CDATA[ui]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/06/multiplane.html</guid>
+		<description><![CDATA[“We spend a lot of time on a few great things.” — Designed by Apple in California In 1940, Ub Iwerks, the animator behind Walt Disney’s first Mickey Mouse shorts, came back to the Disney studios after a 10-year absence. Ub had famously produced hundreds of drawings alone each day for one of those first [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><em>“We spend a lot of time on a few great things.” — <a href="http://www.apple.com/designed-by-apple/">Designed by Apple in California</a></em></p>
+<p>In 1940, Ub Iwerks, the animator behind Walt Disney’s first Mickey Mouse shorts, came back to the Disney studios after a 10-year absence. Ub had famously produced hundreds of drawings alone each day for one of those first Mickey Mouse shorts, but Ub’s return to Disney would also be remembered for his contribution to the technical side of film production, with advances in cameras and special effects. In an industry with extreme specialization — you either did backgrounds, or animation, or ink-and-paint — Ub’s talents bridged both the artistic and technical.</p>
+<p>One of Ub’s inventions while away from Disney was called the multiplane camera. Perfected by others leading up to Snow White, in a massive camera stand over 10 feet tall, the multiplane’s innovation was to allow a background to be split into levels. Foreground trees might be painted on the glass of the first level, then the characters sat underneath that, and then farther back layers for a building, with others behind that for hills and sky.</p>
+<p>To provide a sense of depth, camera operators could vary the distance between each plane. And movement for each level could be synchronized at different speeds, giving it a beautiful parallax effect. Distant background levels moved more slowly and were naturally blurred and out of focus.</p>
+<p>80 years after Ub’s invention, the multiplane is alive in iOS 7. Previous versions of iOS were built on a single plane with raised and textured areas on that surface, like a topographical map except with buttons instead of mountains. iOS 7 is instead designed with multiple flat layers. Each level is strikingly flat, but by layering two or three, spaced apart, Apple has achieved an overall sense of depth.</p>
+<p>It’s a return to basics. Simple things can remain simple, readable. When clarity is needed, everything goes flat. But it’s a framework that allows for subtle motion and depth without changing what works about the new, content-first flat design. iOS 7’s control center blurs the layer below. The home screen background sits deeper too, as if only the app icons are touching the screen. Photos scroll under the navigation bar.</p>
+<p>Each plane is painted flat as if on glass. There can be no text drop shadows, no textures, without ruining the effect. And the result of this strict metaphor is equally valuable: there are no drop shadows to distract or obscure an app’s real content.</p>
+<p>Disney’s multiplane camera, first in a dedicated rig and then recreated in software, lasted for decades, until the era of 3D computer animation. iOS 7’s new look won’t last that long, but the core concepts should carry Apple for years. I really like where they’re headed.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/06/multiplane.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 2.973 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:26:04 -->

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; sketch</title>
+	<atom:link href="http://www.manton.org/tag/sketch/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>RailsConf 2006</title>
+		<link>http://www.manton.org/2006/07/railsconf_2006.html</link>
+		<comments>http://www.manton.org/2006/07/railsconf_2006.html#comments</comments>
+		<pubDate>Thu, 20 Jul 2006 14:31:38 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[airport]]></category>
+		<category><![CDATA[conference]]></category>
+		<category><![CDATA[crud]]></category>
+		<category><![CDATA[rails]]></category>
+		<category><![CDATA[railsconf]]></category>
+		<category><![CDATA[rest]]></category>
+		<category><![CDATA[sketch]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2006/07/railsconf_2006.html</guid>
+		<description><![CDATA[I attended &#8220;RailsConf&#8221;:http://www.railsconf.org/ in Chicago last month. There&#8217;s a lot of excitement in the Rails community right now, and it was nice to be there for the first year before it explodes to the even bigger event that the conference will be next year when O&#8217;Reilly takes over. The talks were a mix of great [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img src="http://www.manton.org/images/2006/airport_man.jpg" width="143" height="296" alt="Airport sketch" hspace="10" vspace="10" align="right" /> I attended &#8220;RailsConf&#8221;:http://www.railsconf.org/ in Chicago last month. There&#8217;s a lot of excitement in the Rails community right now, and it was nice to be there for the first year before it explodes to the even bigger event that the conference will be next year when O&#8217;Reilly takes over.</p>
+<p>The talks were a mix of great to just okay. &#8220;Damon Clinkscales&#8221;:http://www.damonclinkscales.com/ provided a solid introduction to migrations, and even though he had previewed the talk for me the night before I still picked up some useful tips. I was finally able to hear first hand what a fantastic speaker &#8220;Mike Clark&#8221;:http://www.clarkware.com/cgi/blosxom is. James Duncan Davidson rounded out the weekend with a high-level &#8220;vision for deployments&#8221;:http://duncandavidson.com/essay/2006/06/webaspipe/. I also enjoyed presentations by &#8220;Paul Graham&#8221;:http://www.paulgraham.com/marginal.html, the music and brilliance of &#8220;Why&#8221;:http://redhanded.hobix.com/, the closing Rails core team panel, and of course &#8220;DHH on REST and embracing CRUD&#8221;:http://www.loudthinking.com/arc/000593.html. One of the nice things about open source is that soon after announcing the new ActiveResource framework, David checked in his code so you can immediately see &#8220;what he has been working on&#8221;:http://dev.rubyonrails.org/svn/rails/trunk/activeresource/ and play along.</p>
+<p>As I look back on the schedule, there were many talks I missed completely, so I&#8217;m looking forward to catching the audio or video of some of those. Still, you could get a lot out of the conference just by talking to people between or during sessions.</p>
+<p>While at the Austin airport, I filled a sketchbook page with random people waiting for the delayed flight. This man on the right was leaning against an abandoned ticket counter.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2006/07/railsconf_2006.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Red crayon</title>
+		<link>http://www.manton.org/2006/05/red_crayon.html</link>
+		<comments>http://www.manton.org/2006/05/red_crayon.html#comments</comments>
+		<pubDate>Mon, 08 May 2006 02:08:41 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[crayon]]></category>
+		<category><![CDATA[drawing]]></category>
+		<category><![CDATA[red]]></category>
+		<category><![CDATA[sketch]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2006/05/red_crayon.html</guid>
+		<description><![CDATA[I was wired when I got back at midnight last Thursday from the late Mission Impossible 3 show with &#8220;Damon&#8221;:http://www.damonclinkscales.com/. A storm had passed over while we were in the theater. Tree branches were down in the neighborhood, and rain continued. I sat at the dining room table with a sheet of typing paper and [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I was wired when I got back at midnight last Thursday from the late Mission Impossible 3 show with &#8220;Damon&#8221;:http://www.damonclinkscales.com/. A storm had passed over while we were in the theater. Tree branches were down in the neighborhood, and rain continued.</p>
+<p>I sat at the dining room table with a sheet of typing paper and a fat red kids crayon and did some characters. It&#8217;s hard to draw small with something so big. These were at least twice the diameter of your standard crayon. I shrunk the result slightly and included a few below because I liked some of the line, despite the otherwise clunkiness.</p>
+<p><img src="http://www.manton.org/images/2006/redcrayon.jpg" width="350" height="193" alt="Fun with a fat red crayon" /></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2006/05/red_crayon.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.677 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:28:45 -->

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; ads</title>
+	<atom:link href="http://www.manton.org/tag/ads/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Twitter ads</title>
+		<link>http://www.manton.org/2014/04/twitter_ads.html</link>
+		<comments>http://www.manton.org/2014/04/twitter_ads.html#comments</comments>
+		<pubDate>Fri, 25 Apr 2014 14:39:17 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[ads]]></category>
+		<category><![CDATA[promoted]]></category>
+		<category><![CDATA[tweetlibrary]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/04/twitter_ads.html</guid>
+		<description><![CDATA[I was talking to friends this week about app advertising, and it inspired me to try Twitter ads. Otherwise known as “promoted tweets”, these ads are actual tweets that show up in search results and timelines, even if the user isn’t following your account. Tweet Library 2.5 seemed like the perfect time to try this. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I was talking to friends this week about app advertising, and it inspired me to try Twitter ads. Otherwise known as “promoted tweets”, these ads are actual tweets that show up in search results and timelines, even if the user isn’t following your account. <a href="http://www.manton.org/2014/04/tweet_library_25.html">Tweet Library 2.5</a> seemed like the perfect time to try this.</p>
+<p>I set a max of $5 a day and included several related Twitter accounts to help the ads find a more narrow audience of people who might want to buy Tweet Library. Here are the results after 24 hours:</p>
+<p><img src="http://www.manton.org/images/2014/promoted_tweets_dashboard.png" width="600" height="367" alt="Promoted tweets dashboard" border="0" /></p>
+<p>Unfortunately I don’t have an easy way to track this all the way to actual App Store sales. Assuming a 5% conversion on App Store visits, I likely lost a little money. The extra 1800 impressions is nice though, to raise awareness about the app. I’m going to let it run for a week.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/04/twitter_ads.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Apple’s misunderstood ad</title>
+		<link>http://www.manton.org/2013/12/apples_misunderstood_ad.html</link>
+		<comments>http://www.manton.org/2013/12/apples_misunderstood_ad.html#comments</comments>
+		<pubDate>Tue, 17 Dec 2013 05:32:59 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[ads]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[tv]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/12/apples_misunderstood_ad.html</guid>
+		<description><![CDATA[Apple has produced some amazing ads over the years. 1984, introducing the original Mac; the Think Different campaign; and one of my favorite this year, about photos. Their new ad “Misunderstood” is also great. Federico Viticci has a rundown of the details and how brilliantly it unfolds. I first noticed the video via Neven Mrgan, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Apple has produced some amazing ads over the years. 1984, introducing the original Mac; the Think Different campaign; and one of my favorite this year, <a href="http://www.youtube.com/watch?v=NoVW62mwSQQ">about photos</a>.</p>
+<p>Their new ad “Misunderstood” is also great. <a href="http://www.macstories.net/news/apple-airs-iphone-5s-holiday-commercial-featuring-airplay/">Federico Viticci has a rundown</a> of the details and how brilliantly it unfolds. I first noticed the video via Neven Mrgan, who had <a href="https://alpha.app.net/mrgan/post/17528712">this to say on App.net</a>:</p>
+<blockquote><p>
+  “Apple’s new ad (‘Misunderstood’) is technically perfect: <a href="https://www.youtube.com/watch?v=ImlmVqH_5HM">https://www.youtube.com/watch?v=ImlmVqH_5HM</a> …but I have to say it doesn’t quite ring true to me. Kids use iPhones to shut out the family and hang out within their own social circle (and that’s ok).”
+</p></blockquote>
+<p>He’s right. My daughters will likely escape to Instagram and various chat apps to connect with their friends through the holidays. But also I think ads like this work so well not because they represent reality, not because they’re true, but because we want them to be.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/12/apples_misunderstood_ad.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>iPad commercial</title>
+		<link>http://www.manton.org/2010/03/ipad_commercial.html</link>
+		<comments>http://www.manton.org/2010/03/ipad_commercial.html#comments</comments>
+		<pubDate>Mon, 08 Mar 2010 16:28:31 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[ads]]></category>
+		<category><![CDATA[cabel]]></category>
+		<category><![CDATA[dslite]]></category>
+		<category><![CDATA[ipad]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2010/03/ipad_commercial.html</guid>
+		<description><![CDATA[When &#8220;the iPad commercial&#8221;:http://www.apple.com/ipad/gallery/#hardware06 popped up during the Oscars, I thought it captured the power and elegance of the device extremely well. But as I commented on Twitter, after repeat viewings you can see that it&#8217;s probably faked. The iPad must have been filmed on a stand or table and then composited into the shot [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>When &#8220;the iPad commercial&#8221;:http://www.apple.com/ipad/gallery/#hardware06 popped up during the Oscars, I thought it captured the power and elegance of the device extremely well. But as I commented on Twitter, after repeat viewings you can see that it&#8217;s probably faked. The iPad must have been filmed on a stand or table and then composited into the shot later.</p>
+<p>Contrast this to &#8220;Cabel Sasser&#8217;s&#8221;:http://www.cabel.name/2006/03/nintendo-ds-lite-first-look.html video of the Nintendo DS Lite, which was a faithful presentation of how the game system feels to use and yet still &#8220;sold people on the device&#8221;:http://twitter.com/shauninman/status/10175596516.</p>
+<p>Apple stretches the truth with all the iPod and iPhone ads and it never bothered me before, but this one seems wrong. How it feels to hold an iPad will be the difference between a good product and a great one. Can you hold it still with one hand? How easy is it to rotate it? What is the angle like when propping it on your legs?</p>
+<p>This is a pretty minor complaint &mdash; I&#8217;ll be pre-ordering my iPad this Friday regardless and couldn&#8217;t be more excited &mdash; but I wish Apple didn&#8217;t feel the need to lie about such an important part of the product.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2010/03/ipad_commercial.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.145 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:24:59 -->

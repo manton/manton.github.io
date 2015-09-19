@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; global</title>
+	<atom:link href="http://www.manton.org/tag/global/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>What makes App.net special</title>
+		<link>http://www.manton.org/2013/01/what_makes_appnet.html</link>
+		<comments>http://www.manton.org/2013/01/what_makes_appnet.html#comments</comments>
+		<pubDate>Mon, 21 Jan 2013 19:22:48 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[adn]]></category>
+		<category><![CDATA[global]]></category>
+		<category><![CDATA[posts]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/01/what_makes_appnet.html</guid>
+		<description><![CDATA[Phillip Gruneich has an interesting post about what’s different about ADN, with thoughts on the global feed and link posting: “App.net is a different environment and it must be preserved that way. If you get into it and decide to behave like it is a Twitter alternative, then the differences will fade away and we’ll [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://rightapp.tumblr.com/post/40671466986/the-etiquette-of-app-net">Phillip Gruneich has an interesting post</a> about what’s different about ADN, with thoughts on the global feed and link posting:</p>
+<blockquote><p>
+  “App.net is a different environment and it must be preserved that way. If you get into it and decide to behave like it is a Twitter alternative, then the differences will fade away and we’ll lose a precious experience.”
+</p></blockquote>
+<p>There are some ideas in here that surprised me. For example, I’m not sure I agree that everyone reads the global feed, nor that people should be discouraged from linking to anything but their own work. I love to post links to products from friends and companies that are doing interesting things.</p>
+<p>Even if it isn’t as busy as on Twitter — Twitter disabled their global feed years ago when it started moving too fast to be read — it would still be difficult to do anything more than occasionally skim the global feed on ADN.</p>
+<p>He does hit on something important, though. Because it’s a paid service, and there’s a cost to additional accounts, most of the users are actual people. There are fewer companies and parody accounts. (But I did end up getting <a href="https://alpha.app.net/riverfold">@riverfold on ADN</a>, which I felt was a nice compromise when compared against my 4-5 app accounts on Twitter.)</p>
+<p>So I might not use ADN in exactly the same way that Phillip does, but the hope that ADN remains unique is the same because it’s something nearly everyone on ADN probably hopes for. And that’s the really good news: if what makes ADN special is the people, then it’s because all of the people have something in common. They didn’t chose ADN by accident, or because it was the default choice. They chose it because <em>they wanted something better</em>.</p>
+<p>In the short 5 months since <a href="http://www.manton.org/2012/08/appnets_great.html">I wrote about ADN’s start</a>, I’ve become a big fan of the founders, the quality of the API and developer program, and the general tone of ADN users. There might not be a single best way to use ADN, and that will become even more true over time as the scope of the API grows. But there’s no question that it is a special service that deserves to be a peer with Twitter and Facebook in terms of new apps and conversations, even as it exists in a different world where huge “1 billion user” scale doesn’t matter.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/01/what_makes_appnet.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>An Inconvenient Truth</title>
+		<link>http://www.manton.org/2006/07/an_inconvenient_truth.html</link>
+		<comments>http://www.manton.org/2006/07/an_inconvenient_truth.html#comments</comments>
+		<pubDate>Mon, 17 Jul 2006 19:03:22 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Movies]]></category>
+		<category><![CDATA[bush]]></category>
+		<category><![CDATA[film]]></category>
+		<category><![CDATA[futurama]]></category>
+		<category><![CDATA[global]]></category>
+		<category><![CDATA[gore]]></category>
+		<category><![CDATA[inconvenient]]></category>
+		<category><![CDATA[keynote]]></category>
+		<category><![CDATA[lovelock]]></category>
+		<category><![CDATA[warming]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2006/07/an_inconvenient_truth.html</guid>
+		<description><![CDATA[I saw the Al Gore documentary &#8220;An Inconvenient Truth&#8221;:http://www.climatecrisis.net/ last month. It&#8217;s a very important movie, and I hope everyone has a chance to see it. They handed out copies of Seed Magazine at SXSW this year. There were a few articles on global warming, including &#8220;this depressing quote from James Lovelock&#8221;:http://www.seedmagazine.com/news/2006/05/doomsday_scenarios.php, the environmental scientist [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I saw the Al Gore documentary &#8220;An Inconvenient Truth&#8221;:http://www.climatecrisis.net/ last month. It&#8217;s a very important movie, and I hope everyone has a chance to see it.</p>
+<p>They handed out copies of Seed Magazine at SXSW this year. There were a few articles on global warming, including &#8220;this depressing quote from James Lovelock&#8221;:http://www.seedmagazine.com/news/2006/05/doomsday_scenarios.php, the environmental scientist responsible for the Gaia hypothesis:</p>
+<p>bq. &#8220;The prospects for the coming century are pretty grim: If these predictions are correct, it means that all of the efforts that have been made, like the Kyoto and Montreal agreements, are almost certainly a waste of time. They should have been done 50 or 100 years ago. It&#8217;s too late now to turn back the clock, so to speak.&#8221;</p>
+<p>What are we supposed to do with that? If we are scared and powerless, nothing will change.</p>
+<p>The Bush administration agenda too is based on fear. Fear led us to IRAQ, to no-warrant wiretapping. Instead, with An Inconvenient Truth you leave the movie theater inspired, with a new sense of urgency. This is beautifully woven together &#8212; personal highlights from Gore&#8217;s life with his talk with facts with videos.</p>
+<p>And as a Mac user, it&#8217;s nice to see &#8220;Keynote played such an important part&#8221;:http://www.apple.com/hotnews/articles/2006/05/inconvenienttruth/ in the production of his talks (via &#8220;James Duncan Davidson&#8221;:http://www.duncandavidson.com/).</p>
+<p>Also, this on YouTube: &#8220;A Terrifying Message from Al Gore&#8221;:http://youtube.com/watch?v=5BjrOi4vF24 (Futurama!)</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2006/07/an_inconvenient_truth.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.868 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:35:27 -->

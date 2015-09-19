@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; bugs</title>
+	<atom:link href="http://www.manton.org/tag/bugs/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Two weeks notice: unfinished work</title>
+		<link>http://www.manton.org/2015/07/two-weeks-notice-unfinished-work.html</link>
+		<comments>http://www.manton.org/2015/07/two-weeks-notice-unfinished-work.html#comments</comments>
+		<pubDate>Fri, 31 Jul 2015 17:42:03 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[2weeks]]></category>
+		<category><![CDATA[bugs]]></category>
+		<category><![CDATA[flickr]]></category>
+		<category><![CDATA[products]]></category>
+		<category><![CDATA[vitalsource]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2930</guid>
+		<description><![CDATA[Three weeks ago I had about a dozen open Jira tickets. Today, my last day with the company, most of those are still open. I was able to update some documentation and do minor maintenance work, but a bigger change I had hoped to deploy turned out to be impossible because of a missing internal [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Three weeks ago I had about a dozen open Jira tickets. Today, my last day with the company, most of those are still open. I was able to update some documentation and do minor maintenance work, but a bigger change I had hoped to deploy turned out to be impossible because of a missing internal API.</p>
+<p>It’s unsatisfying to leave unfinished work. There’s only so much that can be done in a limited time, though, and as we all know software (especially a web app) is rarely ever completely finished.</p>
+<p>Bittersweet, moving on after so many years. The folks I’ve worked with have been really great. I’m going to enjoy keeping an eye on what they ship long after my GitHub access has been revoked.</p>
+<p>This morning, my (now) former boss and good friend <a href="https://twitter.com/willie">Willie Abrams</a> linked in the company chat room to some of the photos that he had taken over the last 14 years. Brought back a lot of good memories, from brainstorming app features in a conference room to wandering around San Francisco before WWDC.</p>
+<p>I think I’m going to let this be the final post to wrap up the “two weeks notice” series. I’ve accomplished a lot but there is still plenty left, especially <a href="http://www.manton.org/2015/07/two-weeks-notice-new-products.html">shipping new products</a>. It’s been good to force myself to write every day, so I’ll keep that going with the usual full posts and <a href="http://www.manton.org/category/micro">microblog posts</a>.</p>
+<p>You can find all 14 posts under <a href="http://www.manton.org/tag/2weeks">the tag “2weeks”</a>. Thanks for reading.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/07/two-weeks-notice-unfinished-work.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Two weeks notice: your business model is wrong</title>
+		<link>http://www.manton.org/2015/07/two-weeks-notice-your-business-model-is-wrong.html</link>
+		<comments>http://www.manton.org/2015/07/two-weeks-notice-your-business-model-is-wrong.html#comments</comments>
+		<pubDate>Fri, 24 Jul 2015 22:31:32 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[2weeks]]></category>
+		<category><![CDATA[bugs]]></category>
+		<category><![CDATA[snippets]]></category>
+		<category><![CDATA[vitalsource]]></category>
+		<category><![CDATA[zoom]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2885</guid>
+		<description><![CDATA[How is it Friday already? I have just one week left at my regular job. In addition to looking at documentation, I talked on a video call with the lead engineer who will take over a couple of my projects. We went over my current bug list (exactly 13 lucky tickets in Jira) and reviewed a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>How is it Friday already? I have just one week left at my regular job. In addition to <a href="http://www.manton.org/2015/07/two-weeks-notice-writing-documentation.html">looking at documentation</a>, I talked on a video call with the lead engineer who will take over a couple of my projects. We went over my current bug list (exactly 13 lucky tickets in Jira) and reviewed a few of the trickier outstanding issues.</p>
+<p>Nothing like walking through old code, even at a high level, to discover so much outdated cruft that could be redesigned or cleared out. There’s always a little bit of regret: if only I had fixed this one last problem before leaving, or smoothed over this one confusing part of the web UI. But that’s a slippery slope that could go on indefinitely. Web software in particular is evolving and never fully complete.</p>
+<p>Meanwhile, I continue to get great feedback on my new <a href="http://www.riverfold.com/">Riverfold</a> project from the very early beta testers. Bug reports, new ideas, and sometimes a series of questions that basically ends up as: you’re charging the wrong users, what if you tried <em>this completely different way to make money</em> instead?</p>
+<p>While I don’t think there’s any direct competition for what I’m building, there are a lot of related services. I’d count even parts of Tumblr and WordPress among the services that are both complementary and in a similar theme to what I want to do. Tumblr makes money primarily through ads. WordPress has ads but (I expect) makes more money through their upgrades: paid custom domains, VaultPress backup, and premium themes.</p>
+<p>When choosing a business model for my app, I’ve also been inspired by GitHub’s simplicity. Free for open source projects, which allows you to get a feel for how the entire system works as long as you don’t need private repositories. Paid for organizations, scaling up based on how many projects you have. The success of my project will hang on whether I can mix some of all these models without confusing potential new customers.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/07/two-weeks-notice-your-business-model-is-wrong.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Wil Shipley on bugs</title>
+		<link>http://www.manton.org/2008/09/wil_shipley_on.html</link>
+		<comments>http://www.manton.org/2008/09/wil_shipley_on.html#comments</comments>
+		<pubDate>Mon, 22 Sep 2008 18:59:47 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[bugs]]></category>
+		<category><![CDATA[shipley]]></category>
+		<category><![CDATA[sifter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2008/09/wil_shipley_on.html</guid>
+		<description><![CDATA[From a &#8220;Wil Shipley post&#8221;:http://wilshipley.com/blog/2008/07/pimp-my-code-part-15-greatest-bug-of.html a few months ago: &#8220;Software is written by humans. Humans get tired. Humans become discouraged. They aren&#8217;t perfect beings. As developers, we want to pretend this isn&#8217;t so, that our software springs from our head whole and immaculate like the goddess Athena. Customers don&#8217;t want to hear us admit that [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>From a &#8220;Wil Shipley post&#8221;:http://wilshipley.com/blog/2008/07/pimp-my-code-part-15-greatest-bug-of.html a few months ago:</p>
+<blockquote><p>&#8220;Software is written by humans. Humans get tired. Humans become discouraged. They aren&#8217;t perfect beings. As developers, we want to pretend this isn&#8217;t so, that our software springs from our head whole and immaculate like the goddess Athena. Customers don&#8217;t want to hear us admit that we fail.</p></blockquote>
+<blockquote><p>&#8220;The measure of a man cannot be whether he ever makes mistakes, because he will make mistakes. It&#8217;s what he does in response to his mistakes. The same is true of companies.&#8221;</p></blockquote>
+<p>I&#8217;ve been thinking about mistakes and bugs as I beta test &#8220;Sifter&#8221;:http://www.sifterapp.com/. Since it&#8217;s not ready for launch yet I won&#8217;t comment on it specifically, except to say that despite many bug systems becoming very mature (in some cases, too mature) every developer still has a different set of needs. There will always be a new bug system promising to fix all your problems, and for many of us we have to keep reminding ourselves not to code our own. Been there done that.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2008/09/wil_shipley_on.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Core Intuition 6</title>
+		<link>http://www.manton.org/2008/08/core_intuition_6.html</link>
+		<comments>http://www.manton.org/2008/08/core_intuition_6.html#comments</comments>
+		<pubDate>Thu, 07 Aug 2008 05:15:06 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[bugs]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[thetalkshow]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2008/08/core_intuition_6.html</guid>
+		<description><![CDATA[I&#8217;ve really been neglecting this blog. I&#8217;m not sure what it is &#8212; I have plenty of posts in draft form and it&#8217;s not particularly hard to hit the &#8220;Send to Weblog&#8221; button. Speaking of people who wrote MarsEdit, our sixth episode of &#8220;Core Intuition&#8221;:http://www.coreint.org/ is out. Daniel and I spend a good chunk of [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;ve really been neglecting this blog. I&#8217;m not sure what it is &mdash; I have plenty of posts in draft form and it&#8217;s not particularly hard to hit the &#8220;Send to Weblog&#8221; button.</p>
+<p>Speaking of people who wrote MarsEdit, our sixth episode of &#8220;Core Intuition&#8221;:http://www.coreint.org/ is out. Daniel and I spend a good chunk of the show on bug tracking, thoughts on running a software business while preparing for a new baby, staying inspired and getting distracted, and a bunch more. Plus we put out a call for good artists to contact us.</p>
+<p>We had a lot of fun with the show and I hope you enjoy listening to it. If you have feedback, send an email or &#8220;post a comment on Daniel&#8217;s blog&#8221;:http://www.red-sweater.com/blog/544/core_intuition_6.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2008/08/core_intuition_6.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Wii Transfer takes over internet</title>
+		<link>http://www.manton.org/2007/01/wii_transfer_takes.html</link>
+		<comments>http://www.manton.org/2007/01/wii_transfer_takes.html#comments</comments>
+		<pubDate>Sun, 28 Jan 2007 06:40:35 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[bugs]]></category>
+		<category><![CDATA[links]]></category>
+		<category><![CDATA[transfer]]></category>
+		<category><![CDATA[wii]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/01/wii_transfer_takes.html</guid>
+		<description><![CDATA[Okay, not really. But this has been a crazy and surprising week for my &#8220;little&#8221; application, Wii Transfer. Putting 8 hours each day into &#8220;VitalSource&#8221;:http://www.vitalsource.com/ (I have a post coming about that tomorrow, by the way) and then juggling home responsibilities, putting out various other fires, and sitting down to work on Wii Transfer until [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Okay, not really. But this has been a crazy and surprising week for my &#8220;little&#8221; application, Wii Transfer. Putting 8 hours each day into &#8220;VitalSource&#8221;:http://www.vitalsource.com/ (I have a post coming about that tomorrow, by the way) and then juggling home responsibilities, putting out various other fires, and sitting down to work on Wii Transfer until 3am is just not healthy.</p>
+<p>Luckily I slept great last night and took a 3-hour nap today. So time to blog again. :-)</p>
+<p>Over a week ago I released Wii Transfer 2.0 and made a big mistake, and since I&#8217;ve been programming for the Mac for over a dozen years now, I really should know better. It was buggy. And not just a few minor cosmetic problems, but at least two serious crashers. I simply had not tested enough. It&#8217;s difficult (sometimes impossible) to regain a user&#8217;s trust after their first experience with an application is a bad one, so I got to work that weekend fixing problems and releasing beta builds to customers to get a few extra eyes on the software.</p>
+<p>Then Monday came, and <em>all hell broke loose</em>.</p>
+<p>Links from &#8220;Daring Fireball&#8221;:http://daringfireball.net/linked/2007/january#mon-22-wii_transfer, &#8220;Ranchero&#8221;:http://www.ranchero.com/?comments=1&amp;postid=1523, and &#8220;The Unofficial Apple Weblog&#8221;:http://www.tuaw.com/2007/01/22/wii-transfer-2-0/ were followed by &#8220;Jostiq&#8221;:http://joystiq.com/2007/01/25/wii-transfer-for-mac-os-turns-your-wii-into-a-media-center-but/, &#8220;Infendo&#8221;:http://infendo.com/2007/01/wii-media-center-software.html, &#8220;4 Color Rebellion&#8221;:http://4colorrebellion.com/archives/2007/01/22/wii-transfer-for-mac-reaches-20/, and a bunch of others. Ironically one of the only gaming sites I read that never linked to Wii Transfer was the only one I had actually sent an announcement to (&#8220;GoNintendo&#8221;:http://www.gonintendo.com/). Traffic and sales were way up (&#8220;here&#8217;s a Mint screenshot&#8221;:http://www.manton.org/images/2007/riverfold_mint.png from one day last week).</p>
+<p>But meanwhile, the application was just not that stable. I started rewriting most of the web server inside Wii Transfer and fixing lots of issues with iTunes and iPhoto libraries stored on external drives. Then I made my second mistake: I added a feature (album cover artwork!). Obviously, adding a feature in the middle of bug fixes just delays the original fixes and introduces new problems.</p>
+<p>I also quickly realized how many things could go wrong with how music and picture sharing works. It relies on the Nintendo Wii and your Mac being on the same local network. Because Wii Transfer pings a bookmark server to register your IP address, you also have to make sure the app picks the right IP if your Mac is on both ethernet and wireless networks. Worse, many people have the Mac OS X built-in firewall enabled, so users are required to manually open up port 9000.</p>
+<p>At one point on Tuesday when sales were coming in, every time I received a PayPal notification email I literally groaned. &#8220;Stop buying this software until I can make it work reliably,&#8221; I would say to the computer. The thing that got me through was that all customers who sent in support email were extremely helpful and patient. The other good news is that with version 2.1.1, it&#8217;s looking pretty solid, and the next update should wrap up any remaining fringe issues.</p>
+<p>To everyone who gave Wii Transfer a try, thanks! I think you&#8217;ll like what comes next.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2007/01/wii_transfer_takes.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.916 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:34:11 -->

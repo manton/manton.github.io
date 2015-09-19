@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; photos</title>
+	<atom:link href="http://www.manton.org/tag/photos/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Google Photos</title>
+		<link>http://www.manton.org/2015/06/google-photos.html</link>
+		<comments>http://www.manton.org/2015/06/google-photos.html#comments</comments>
+		<pubDate>Thu, 04 Jun 2015 16:20:39 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Photography]]></category>
+		<category><![CDATA[dropbox]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[photos]]></category>
+		<category><![CDATA[search]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2654</guid>
+		<description><![CDATA[Tim Cook spoke recently about privacy and cloud services: “You might like these so-called free services, but we don&#8217;t think they&#8217;re worth having your email or your search history or now even your family photos data-mined and sold off for God knows what advertising purpose.” I’m going to give you a very cynical translation, which [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Tim Cook spoke recently about privacy and cloud services:</p>
+<blockquote><p>
+  “You might like these so-called free services, but we don&#8217;t think they&#8217;re worth having your email or your search history or now even your family photos data-mined and sold off for God knows what advertising purpose.”
+</p></blockquote>
+<p>I’m going to give you a very cynical translation, which I don’t often do: <em>We are in denial about how much better Google Photos is than what we’re doing at Apple. It is so advanced in terms of search that we won’t be able to match it anytime soon. In fact, we don’t even have anyone working on similar technology at all.</em></p>
+<p>It&#8217;s not about being free. I pay Dropbox $20/month to be grandfathered into 2 TB of storage so that I can put all of my photos and documents there. Dropbox is rock solid and worth it.</p>
+<p><a href="http://www.marco.org/2015/05/29/why-not-google">Like Marco</a> and others, I have tried to avoid Google services. I don’t use Gmail. I hate advertising. But the idea of being able to quickly search my photos by content without even tagging or organizing them was too compelling to not try. So I’ve uploaded over 10,000 photos so far to Google Photos. It is really good. (I’m going to finish uploading all my photos and give it a few months before making a final judgement on the search vs. privacy trade-off.)</p>
+<p>Some of the random searches that work out of the box to filter my photos: “beach”, “trains”, “New York City”, “Oregon and 2013”, “road trip”, “party”, “basketball”, “Christmas tree”. I never saw a demo or tutorial for how to use Google Photos; I just type stuff in and it mostly works, discovering photos and events. And on top of that, there’s also the automatic stories and collages, which is something we always wanted to build for <a href="http://sunlit.io/">Sunlit</a>.</p>
+<p>My family photos are the most important files I have on my computer, and I very rarely share any photos of my kids publicly. But ironically I’m willing to overlook some of the privacy concerns around this exactly <em>because</em> the photos are so valuable to me. I want multiple copies in the cloud, and I want the power of search that Google has built.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/06/google-photos.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Write locally, mirror globally</title>
+		<link>http://www.manton.org/2014/04/write_locally_mirror.html</link>
+		<comments>http://www.manton.org/2014/04/write_locally_mirror.html#comments</comments>
+		<pubDate>Wed, 30 Apr 2014 19:22:01 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[archiving]]></category>
+		<category><![CDATA[photos]]></category>
+		<category><![CDATA[riverfold]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/04/write_locally_mirror.html</guid>
+		<description><![CDATA[The Atlantic has an interesting essay on whether Twitter is on a slow decline, less useful and meaningful than it once was: “Twitter is the platform that led us into the mobile Internet age. It broke our habit of visiting individual news homepages first thing in the morning, and established behaviors built around real-time news [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.theatlantic.com/technology/archive/2014/04/a-eulogy-for-twitter/361339/">The Atlantic has an interesting essay</a> on whether Twitter is on a slow decline, less useful and meaningful than it once was:</p>
+<blockquote><p>
+  “Twitter is the platform that led us into the mobile Internet age. It broke our habit of visiting individual news homepages first thing in the morning, and established behaviors built around real-time news consumption and production. It normalized mobile publishing power. It changed our expectations about how we congregate around shared events. Twitter has done for social publishing what AOL did for email. But nobody has AOL accounts anymore.”
+</p></blockquote>
+<p>It reminds me of something I brought up on Core Intuition a few months back, wondering if Twitter is a core part of the web, something that would be with us forever, or if it is “just another web site”. When we get into the groove of using a new service for a few years, it’s easy to forget that web sites don’t have a very good track record. Giant sites like Facebook and Tumblr seem to have been with us forever, but my personal blog is older than both.</p>
+<p>Think about this: if it’s even <em>possible</em> for Twitter to fail — not likely, just possible — then why are we putting so much of our content there first, where there are <a href="https://dev.twitter.com/terms/api-terms">rules for how tweet text can be used</a>? Storage for all tweets is so massive that there’s no guarantee that other companies will be able to take over the archive if the service has to fold. It’s why I built <a href="http://www.riverfold.com/software/tweetlibrary/">Tweet Library</a> and <a href="http://watermark.io/">Watermark</a> to archive and publish tweets.</p>
+<p>Decentralization is the internet’s greatest strength and weakness. There shouldn’t be <a href="https://medium.com">one service</a> to hold all of blogging; each writer should have his or her own domain and web site. But web sites also die all the time from neglect. We need centralized services to index and syndicate content so that it’s <a href="http://www.manton.org/2012/07/permanence.html">preserved</a> and accessible to more people.</p>
+<p>Longevity is the next great challenge for the web. All of my work on Riverfold apps is leading this way, from archiving tweets, to <a href="http://sunlit.io/">curating and publishing your best photos</a>, to <a href="http://searchpath.io/">indexing a copy of the text and HTML from your blog</a>. But I’m just one guy with a limited server budget.</p>
+<p>It’s time for a new web standard — a metadata format and API that describes how to mirror published content. Maybe it’s part of <a href="http://indiewebcamp.com/POSSE">IndieWebCamp</a>? When I write on my blog, I want the content to flow to GitHub Pages, to the Internet Archive, to Medium. When I post photos, I want the content to flow to Dropbox, to S3, to Flickr. It’s not enough to backup or copy data blindly; the source must point to each mirror, and each mirror service must understand who the creator is and how to find the original data if it still exists.</p>
+<p>Unlike a distributed platform that works at the level of raw data, like BitTorrent, this new system should work natively with well-understood common files: text, photos, video, and the glue (usually HTML, Markdown, or JSON) that makes a collection meaningful. Instead of yet another generic sync system, it’s a platform that understands publishing, with adapters to flow content into each mirror’s native storage.</p>
+<p>If you accept that this is something worth doing, then every place we put our content must be classified as either an original source or a mirror. And this brings us back to Twitter. Because while I think the next 5 years for Twitter will be strong, I’m not convinced that it will last 50 years. Therefore, Twitter cannot be an original source of data; it must be just one of several mirrors for micro-blogging.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/04/write_locally_mirror.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>We love music</title>
+		<link>http://www.manton.org/2014/02/we_love_music.html</link>
+		<comments>http://www.manton.org/2014/02/we_love_music.html#comments</comments>
+		<pubDate>Thu, 06 Feb 2014 17:32:42 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Music]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[beats]]></category>
+		<category><![CDATA[music]]></category>
+		<category><![CDATA[photos]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/02/we_love_music.html</guid>
+		<description><![CDATA[In my short post about why we chose Mapbox for Sunlit, I said I wanted to use it because the folks working at Mapbox clearly love maps. We are so used to mega-companies like Apple, Google, and Microsoft trying to provide every possible service, it’s nice sometimes to just buy directly from a specialist. I [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.manton.org/2014/01/sunlit_maps.html">In my short post</a> about why we chose Mapbox for <a href="http://sunlit.io/">Sunlit</a>, I said I wanted to use it because the folks working at Mapbox clearly love maps. We are so used to mega-companies like Apple, Google, and Microsoft trying to provide every possible service, it’s nice sometimes to just buy directly from a specialist.</p>
+<p>I think that’s why Beats Music is going to be successful. Music is all they’re doing, they’ve hired a staff of specialists — curators who are passionate about not just music but specific genres — and even their sister company makes music products: headphones and speakers. For more background on Beats Music, I recommend this <a href="http://www.macstories.net/stories/why-beats-music-matters/">write-up from MacStories</a> and this (http://www.theverge.com/2014/1/21/5325766/interview-with-beats-music-ceo-ian-rogers-video).</p>
+<p>Remember when Steve Jobs introduced the iPod? He said: “We love music. And it’s always good to do something you love.” As he continued to play some of his favorite songs, we believed him. The driving force behind the iPod and iTunes was to make it <em>significantly</em> easier to listen to music. They hit it out of the park and changed the music industry.</p>
+<p>Today, Apple is either spread too thin or content to do the bare minimum only. iTunes Radio looks like something they felt they had to build, not something they wanted to build. Beats Music is in a completely different league, with a deep set of features and content. It looks like an app that’s had years to mature, not a 1.0.</p>
+<p>I’d like to see Apple get back to doing fewer things and doing them well. That means no TV or smartwatch. They need more product categories like photography, which they excel at. The iPhone camera is the best, the built-in Photos and Camera apps are great, and there’s a rich layer of third-party apps to fill in additional features. <a href="http://www.youtube.com/watch?v=NoVW62mwSQQ">Apple’s photos ad</a> perfectly captures this.</p>
+<p>Apple, fall in love with the next product category and lead us there. We’re ready for the next thing you <em>love</em>, not the next thing that Wall Street assumes everyone wants.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/02/we_love_music.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>No coincidence</title>
+		<link>http://www.manton.org/2014/01/no_coincidence.html</link>
+		<comments>http://www.manton.org/2014/01/no_coincidence.html#comments</comments>
+		<pubDate>Fri, 17 Jan 2014 15:13:21 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[adn]]></category>
+		<category><![CDATA[photos]]></category>
+		<category><![CDATA[publishing]]></category>
+		<category><![CDATA[storehouse]]></category>
+		<category><![CDATA[sunlit]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/01/no_coincidence.html</guid>
+		<description><![CDATA[We released Sunlit yesterday and the response has been really great. It’s so amazing to see all the replies on App.net, emails of encouragement, and tweets telling people about the app. I think 1.0 is off to an excellent start. We’ll keep making it better. I was a little anxious about the release, though. It [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We released <a href="http://sunlit.io/">Sunlit</a> yesterday and the response has been really great. It’s so amazing to see all the replies on App.net, emails of encouragement, and tweets telling people about the app. I think 1.0 is off to an excellent start. We’ll keep making it better.</p>
+<p>I was a little anxious about the release, though. It was a challenging app to build, and it’s different enough from other apps that it’s hard to predict how the market will react. I was also surprised that the same morning we shipped our app, <a href="https://www.storehouse.co/">Storehouse</a> was released. This is a beautiful iPad app from Mark Kawano and his new team. The interactions are extremely polished and it’s getting justifiably good praise and <a href="http://techcrunch.com/2014/01/16/storehouse-an-apple-vet-tries-to-move-the-needle-on-long-form-visual-communication/">lengthy write-ups from Techcrunch</a> and elsewhere.</p>
+<p>(Of course, we think Sunlit is pretty awesome too. I’ll be writing more about what makes it special in future blog posts, especially highlighting how it leverages the App.net API, the <a href="https://github.com/manton/sunlit/blob/master/urls.md">URL schemes support</a>, and why we use <a href="https://www.mapbox.com/">Mapbox</a>.)</p>
+<p>At first I was stunned by Storehouse. How could it be that we were both working on a similar idea for the last year, and both apps were finished at the same time? The apps have different UIs, and a different approach, maybe even different goals, but they both create stories, revolve around photos, and publish to the web. I’ve seen a lot of people compare the apps, and I think that’s fair.</p>
+<p>To be honest, for a few minutes I was a little bummed out. If I had seen <a href="https://twitter.com/jacksonh/status/423906581516808192">this tweet from Jackson Harper</a> at the time, and not later in the day, I might have been nodding in agreement:</p>
+<blockquote><p>
+  “Having a somewhat similar free app from a funded developer launch the same day as you must be a little disappointing.”
+</p></blockquote>
+<p>That doesn’t really capture it, though, because I’m also really happy for the Storehouse team. I’ve known Mark for years. I’m confident that his app is going to be one of the most impressive apps on so many people’s iPads.</p>
+<p>And they have a full-time team. Jon and I are just two guys, working in our spare time to build something — something <a href="http://www.manton.org/2014/01/why_we_built_sunlit.html">we think is new</a>, something <a href="http://jonathanhays.me/2014/01/16/sunlit-is-for-me/">for us to use</a>, but also something ambitious in how big it could be.</p>
+<p>It seems like a big coincidence that both apps shipped with a similar set of features, but now I realize why it happened. Sure, it’s funny that the release days were identical, and not a few days or weeks apart. But the general timing shouldn’t be at all surprising, because <em>this is an idea whose time has come</em>. There are photo “album”-type apps popping up all over the App Store, such as Cluster, Albumatic, and Heyday, all of which Apple has featured. Plus there are web-based apps like Exposure and Medium, which was recently updated with great photo support as well.</p>
+<p>It’s no coincidence; it’s just a good idea. And it’s a huge market: everyone who loves writing and taking photos. That understanding gives me a lot of confidence to double down on our plans for Sunlit 1.1, 1.2, and after. 2014 is going to be an awesome year for sharing stories.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/01/no_coincidence.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Why we built Sunlit</title>
+		<link>http://www.manton.org/2014/01/why_we_built.html</link>
+		<comments>http://www.manton.org/2014/01/why_we_built.html#comments</comments>
+		<pubDate>Wed, 15 Jan 2014 23:24:49 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[adn]]></category>
+		<category><![CDATA[cingleton]]></category>
+		<category><![CDATA[montreal]]></category>
+		<category><![CDATA[photos]]></category>
+		<category><![CDATA[sunlit]]></category>
+		<category><![CDATA[wwdc]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/01/why_we_built.html</guid>
+		<description><![CDATA[You have that feeling when hanging out with friends — everyone snapping pictures of their surroundings, of people, events, food, anything — that photo sharing should be better. That years later, you should be able to go back to that time, to see the best photos collected together from several people. And not just photos, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img src="http://www.manton.org/images/2014/montreal_panorama.jpg" width="600" height="100" alt="Montreal" border="0" /></p>
+<p>You have that feeling when hanging out with friends — everyone snapping pictures of their surroundings, of people, events, food, anything — that <em>photo sharing should be better</em>. That years later, you should be able to go back to that time, to see the best photos collected together from several people. And not just photos, but maps of where you were, and text to describe its significance.</p>
+<p>One afternoon before Çingleton in 2012, this subject came up as Jonathan Hays and I were taking photos around Montreal. It seemed remarkable and disappointing to us that there was no easy way to put those photos together. And I liked the idea of buildling a new app around photos, with the same themes of curation and preserving past events that are so important to my other Riverfold products.</p>
+<p>So we let the idea sit in the back of our minds, and later we wrote a little code as time allowed. At <a href="http://blog.app.net/2013/06/11/app-net-hackathon-recap-2/">the App.net hackathon before WWDC 2013</a> we dove into the project in earnest, figuring out how it would sync, then over the summer took some more time to think through the user experience.</p>
+<p>Sharing a single photo has been done a hundred times on iOS. Instagram was an important app to nail the timeline UI, and <a href="http://favd.net/">Favd</a> is currently my favorite way to post and browse new photos (it’s really great). But hardly anyone has even attempted to tackle photo curation, group sharing, and publishing, let alone gotten it right. Sunlit 1.0 is our first pass at this and we couldn’t be more excited about trying to solve a new problem with photos.</p>
+<p>They say you should spend money on experiences — on memories, not things. Sunlit helps you put those memories together, share them as a group, and rediscover them when it matters. The first version <a href="http://sunlit.io/">will ship tomorrow</a>. I hope you like it.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/01/why_we_built.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Quality photos</title>
+		<link>http://www.manton.org/2014/01/quality_photos.html</link>
+		<comments>http://www.manton.org/2014/01/quality_photos.html#comments</comments>
+		<pubDate>Thu, 02 Jan 2014 15:03:57 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[cameras]]></category>
+		<category><![CDATA[dropbox]]></category>
+		<category><![CDATA[dslr]]></category>
+		<category><![CDATA[photos]]></category>
+		<category><![CDATA[sunlit]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/01/quality_photos.html</guid>
+		<description><![CDATA[I’ve been slowly moving photos to Dropbox over the last year, using the Dropbox camera import feature so that all new photos from my phone get synced up automatically. It’s worked out so well that last week I decided to go all in. I moved about 13 years of photos there and upgraded to Dropbox’s [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I’ve been slowly moving photos to Dropbox over the last year, using the Dropbox camera import feature so that all new photos from my phone get synced up automatically. It’s worked out so well that last week I decided to go all in. I moved about 13 years of photos there and upgraded to Dropbox’s 200 GB of storage.</p>
+<p>In the process I’ve been poking around at old photos, photos of my kids from 6-7 years ago when we had a basic point-and-shoot camera. There are some great photos in there, but also so many that are blurry or out of focus. We were too cheap to buy a good camera at the time. Now I would pay any amount of money to go back in time and reshoot the photos with a better camera.</p>
+<p><a href="http://shapeof.com/archives/2013/12/so_i_got_my_first_dslr.html">Gus Mueller learned this lesson</a> more quickly than I did:</p>
+<blockquote><p>
+  “It’s quite amazing what a difference a nice lens and a nice camera can do. Kirstin was shocked at the quality. The cameras on iPhones are getting better, but they don’t hold a candle to camera tech today.”
+</p></blockquote>
+<p>We don’t use our DSLR every day. It’s for big events, birthdays, school performances, and the iPhone suffices for the rest of the time. But it’s worth every penny and more, to look back on these photos years later and know we have captured them at their best.</p>
+<p>Photos are also at the heart of my new app, <a href="http://sunlit.io/">Sunlit</a>. We’ll be shipping soon. Enter your email address on the site to be notified when it hits the App Store.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/01/quality_photos.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Photo filters</title>
+		<link>http://www.manton.org/2013/07/photo_filters.html</link>
+		<comments>http://www.manton.org/2013/07/photo_filters.html#comments</comments>
+		<pubDate>Sat, 06 Jul 2013 19:14:55 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[imore]]></category>
+		<category><![CDATA[instagram]]></category>
+		<category><![CDATA[photos]]></category>
+		<category><![CDATA[rands]]></category>
+		<category><![CDATA[sunlit]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/07/photo_filters.html</guid>
+		<description><![CDATA[Rene Ritchie has a nice comparison of black and white filters in iOS 7 and third-party apps: “To create the comparison, I took the screenshots posted on Apple.com, isolated the unfiltered image, loaded it into the other apps, applied their filters, and then took screenshots of the resulting images.” I&#8217;ve been working on an iOS [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.imore.com/ios-7-vs-instagram-vs-google-vs-twitter-black-white-photo-filter-comparison">Rene Ritchie has a nice comparison of black and white filters</a> in iOS 7 and third-party apps:</p>
+<blockquote><p>
+  “To create the comparison, I took the screenshots posted on Apple.com, isolated the unfiltered image, loaded it into the other apps, applied their filters, and then took screenshots of the resulting images.”
+</p></blockquote>
+<p>I&#8217;ve been working on an iOS 7 app that&#8217;s partly <em>about</em> photos, though not actually a camera app, and I always thought it&#8217;d benefit from a single great black and white filter. Not as one of a dozen filters, but as the only filter in the app — something strikingly different that would be noticed. iOS 7&#8217;s built-in filters and apps like <a href="http://www.pacifichelm.com/cameranoir/">Camera Noir</a> have made me reconsider. Why reinvent the wheel when so much good work is being done on filters by other developers?</p>
+<p>Related, the <a href="http://www.randsinrepose.com/archives/2012/12/09/how_i_instagram.html">excellent mobile photo workflow by Rands</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/07/photo_filters.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The new Day One</title>
+		<link>http://www.manton.org/2012/08/the_new_day.html</link>
+		<comments>http://www.manton.org/2012/08/the_new_day.html#comments</comments>
+		<pubDate>Sat, 04 Aug 2012 06:41:06 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[dayone]]></category>
+		<category><![CDATA[journals]]></category>
+		<category><![CDATA[photos]]></category>
+		<category><![CDATA[writing]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2012/08/the_new_day.html</guid>
+		<description><![CDATA[Shawn Blanc reviews the latest version of Day One, which now supports photos: “Over the years, most of the major, monumental milestones of life were documented in my Moleskine. But not all. And that’s why I’m glad to have an app that let’s me easily and joyfully add a snapshot or a quick note about [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://shawnblanc.net/2012/08/day-one-review/">Shawn Blanc reviews the latest version of Day One</a>, which now supports photos:</p>
+<blockquote><p>
+  “Over the years, most of the major, monumental milestones of life were documented in my Moleskine. But not all. And that’s why I’m glad to have an app that let’s me easily and joyfully add a snapshot or a quick note about an important or memorable event. These are the things my family and I will look back on 20 and 30 years from now with great fondness.”
+</p></blockquote>
+<p>While <a href="http://www.manton.org/2012/07/journals.html">I keep the important stuff in my journals</a>, I also use a protected Twitter account for the everyday notes and photos while away from the house. It has no followers; it&#8217;s just to have a date-stamped entry with a photo that&#8217;s easy to sync. Now that I&#8217;ve read how people are using Day One for this, I&#8217;m going to switch away from my private Twitter account to use Day One on the iPhone instead.</p>
+<p>I like having one place for this kind of stuff. If the same type of content is scattered across multiple services, it makes it less likely that everything will be together in the future when I finally want it.</p>
+<p>Especially interesting to me from Shawn&#8217;s review is that he also keeps a hand-written journal, even after using Day One for a similar purpose. I&#8217;ll keep using real-world pen and paper too, and everything I write there I will also transcribe into Day One. But I&#8217;ll write new things in Day One that will stay exclusively digital.</p>
+<p>Federico Viticci <a href="http://www.macstories.net/reviews/review-the-new-day-one/">also has a great review</a>. He starts with the big picture, the why of writing it all down:</p>
+<blockquote><p>
+  “I don’t even know if I’ll be around in twenty years. But I do know that I want to do everything I can to make sure I can get there with my own memories. We are what we know. And I want to remember.”
+</p></blockquote>
+<p>I think the best writers know that it matters what their work looks like in a decade, or two decades, whether the writing is private or public. You can see it in everything from permanent URLs to blog topics to what software they use — a conscious effort to create content that lasts.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2012/08/the_new_day.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.740 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:26:01 -->

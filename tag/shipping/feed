@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; shipping</title>
+	<atom:link href="http://www.manton.org/tag/shipping/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Never ship, never fail</title>
+		<link>http://www.manton.org/2014/01/never_ship_never.html</link>
+		<comments>http://www.manton.org/2014/01/never_ship_never.html#comments</comments>
+		<pubDate>Tue, 14 Jan 2014 02:21:55 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[shipping]]></category>
+		<category><![CDATA[sunlit]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/01/never_ship_never.html</guid>
+		<description><![CDATA[Andy Brice had a good post recently about shipping: “Continually abandoning work in progress for a new idea is also a form of cowardice. If I never ship, then I can’t fail. But I can’t succeed either. And I won’t learn anything useful from a string of half-finished products that never shipped.” I’ve been reminding [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://successfulsoftware.net/2014/01/10/new-shiny-thing/">Andy Brice had a good post recently</a> about shipping:</p>
+<blockquote><p>
+  “Continually abandoning work in progress for a new idea is also a form of cowardice. If I never ship, then I can’t fail. But I can’t succeed either. And I won’t learn anything useful from a string of half-finished products that never shipped.”
+</p></blockquote>
+<p>I’ve been reminding myself of this to combat any self-doubt as <a href="https://alpha.app.net/cheesemaker">Jon</a> and I prepare <a href="http://sunlit.io/">Sunlit</a> 1.0 for release. There is plenty to worry about: bugs we might have missed, potential confusion about how sync works, whether free with in-app purchase was the right call. But I’m proud that we took an idea from well over a year ago, prototyped it, rewrote it, and refined it, finally building it into an app that will ship.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/01/never_ship_never.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Wrapping up the Wii Giveaway</title>
+		<link>http://www.manton.org/2007/12/wrapping_up_the.html</link>
+		<comments>http://www.manton.org/2007/12/wrapping_up_the.html#comments</comments>
+		<pubDate>Wed, 19 Dec 2007 05:41:52 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[business]]></category>
+		<category><![CDATA[giveaway]]></category>
+		<category><![CDATA[shipping]]></category>
+		<category><![CDATA[wii]]></category>
+		<category><![CDATA[wiitransfer]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/12/wrapping_up_the.html</guid>
+		<description><![CDATA[After sitting on a shelf in my office for 2 months, unopened and unloved, I finally shipped off the Nintendo Wii today to the lucky winner. I was initially worried because he didn&#8217;t respond until well into the second day after I notified him, but he was pretty excited (&#8220;You&#8217;ve made my holiday&#8221;) and I&#8217;m [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.flickr.com/photos/75816553@N00/2122143656" title="View 'Sending away second Wii' on Flickr.com"><img src="http://farm3.static.flickr.com/2106/2122143656_43fcf52440_s.jpg" alt="Sending away second Wii" border="0" width="75" height="75" align="right" vspace="5" hspace="5" style="border: 1px solid lightgray;" /></a> After sitting on a shelf in my office for 2 months, unopened and unloved, I finally shipped off the Nintendo Wii today to the lucky winner. I was initially worried because he didn&#8217;t respond until well into the second day after I notified him, but he was pretty excited (&#8220;You&#8217;ve made my holiday&#8221;) and I&#8217;m glad it could ship out before Christmas. The picture here is in the car before I went into the UPS store to fill the box with peanuts.</p>
+<p>The promotion took a surprising amount of effort, but it was fun and definitely worthwhile. There were a total of 2447 unique submissions (1925 for the email form, and 522 from Twitter). Of those, over 1/3 agreed to sign up for my annual Riverfold Software newsletter. I consider that alone a success, although until I look at the stats more closely it&#8217;s not clear what percentage of potential-customers are actually using Macs. My &#8220;Wii Twitter account&#8221;:http://twitter.com/wii also doubled to about 300 followers.</p>
+<p>Although sales were initially flat, both &#8220;TUAW&#8221;:http://www.tuaw.com/2007/12/05/wii-transfer-maker-giving-away-a-wii/ and &#8220;Ars Technica&#8221;:http://arstechnica.com/journals/apple.ars/2007/12/06/win-a-wii-to-go-with-your-wii-transfer-for-mac ran nice stories on the promotion. I also &#8220;wrote a press release&#8221;:http://riverfold.com/software/wiitransfer/press/giveaway.html, with the idea of hitting some of the bigger gaming sites for the second week of the contest. In the end I decided not to, because I wanted to focus on Mac users, and because frankly there were plenty of submissions and I was burned out on the process.</p>
+<p>The contest easily paid for itself, but the extra sales really weren&#8217;t that significant. I have a database that tracks referrers through to the actual purchase, so I noticed an increase of only about 10-20 copies out of the 100 sales for the month so far. Part of that is no doubt the catch-22 of giving away hardware that is required for your software product, but I know that long-term there will be a benefit to the wider exposure.</p>
+<p>Mistakes? I should have made the whole promotion last just a day or two, and hyped it before launching instead. I also should have required that Twitter users follow Wii before entering, which would have boosted those followers and also greatly simplified tracking submissions (replies were spread over 3 RSS feeds and 33 iChat log transcripts). Relatively minor complaints, though, overall.</p>
+<p>To everyone who provided feedback on the idea, thanks. Maybe next year I&#8217;ll implement some of the more interesting promotion ideas I heard.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2007/12/wrapping_up_the.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.855 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:31:36 -->

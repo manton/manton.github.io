@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; instagram</title>
+	<atom:link href="http://www.manton.org/tag/instagram/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Sunlit 1.1</title>
+		<link>http://www.manton.org/2014/02/sunlit_11.html</link>
+		<comments>http://www.manton.org/2014/02/sunlit_11.html#comments</comments>
+		<pubDate>Fri, 14 Feb 2014 21:00:09 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[dropbox]]></category>
+		<category><![CDATA[flickr]]></category>
+		<category><![CDATA[instagram]]></category>
+		<category><![CDATA[sunlit]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/02/sunlit_11.html</guid>
+		<description><![CDATA[Today we shipped version 1.1 of Sunlit, our app for collecting photos and text together to make and publish stories. Some of the bigger changes include: Instagram and Flickr import. You can now add any of your own Instagram or Flickr photos into a story. With Flickr, you can even browse from your Flickr sets. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Today we shipped version 1.1 of <a href="http://sunlit.io/">Sunlit</a>, our app for collecting photos and text together to make and publish stories. Some of the bigger changes include:</p>
+<ul>
+<li><strong>Instagram and Flickr import.</strong> You can now add any of your own Instagram or Flickr photos into a story. With Flickr, you can even browse from your Flickr sets.</p>
+</li>
+<li>
+<p><strong>Improved Dropbox support.</strong> The first version of Sunlit assumed most of your photos on Dropbox were in the Camera Uploads or Photos folder. For 1.1, we’ve added a full Dropbox browser so you can pick any folder you want.</p>
+</li>
+<li>
+<p><strong>Multi-user text syncing.</strong> Now anyone subscribed to a story can add both photos and text descriptions, and the text will sync to all users. This is a really powerful feature for collaborating on stories. We think it puts Sunlit in a class above any other app like this.</p>
+</li>
+<li>
+<p><strong>Confirm deleted photos.</strong> What happens if you let other people add photos to your story, but they accidentally delete one of your photos? Sunlit now tracks this and shows a special confirmation alert so that you can either allow the photo to be deleted or keep it.</p>
+</li>
+</ul>
+<p>There are other fixes and improvements too, which you can <a href="http://sunlit.io/releasenotes">see in the release notes</a>. Here are a few screenshots of the new Dropbox and Flickr screens:</p>
+<p><img src="http://www.manton.org/images/2014/sunlit_dropbox_flickr.png" width="600" height="336" alt="Sunlit v1.1" /></p>
+<p><a href="https://itunes.apple.com/app/sunlit/id690924901?mt=8">Sunlit is available in the App store</a> as a free download. If you like it, pay just $4.99 to unlock the full app, and leave a review in the App Store to help others discover the app. Thanks!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/02/sunlit_11.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Photo filters</title>
+		<link>http://www.manton.org/2013/07/photo_filters.html</link>
+		<comments>http://www.manton.org/2013/07/photo_filters.html#comments</comments>
+		<pubDate>Sat, 06 Jul 2013 19:14:55 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[imore]]></category>
+		<category><![CDATA[instagram]]></category>
+		<category><![CDATA[photos]]></category>
+		<category><![CDATA[rands]]></category>
+		<category><![CDATA[sunlit]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/07/photo_filters.html</guid>
+		<description><![CDATA[Rene Ritchie has a nice comparison of black and white filters in iOS 7 and third-party apps: “To create the comparison, I took the screenshots posted on Apple.com, isolated the unfiltered image, loaded it into the other apps, applied their filters, and then took screenshots of the resulting images.” I&#8217;ve been working on an iOS [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.imore.com/ios-7-vs-instagram-vs-google-vs-twitter-black-white-photo-filter-comparison">Rene Ritchie has a nice comparison of black and white filters</a> in iOS 7 and third-party apps:</p>
+<blockquote><p>
+  “To create the comparison, I took the screenshots posted on Apple.com, isolated the unfiltered image, loaded it into the other apps, applied their filters, and then took screenshots of the resulting images.”
+</p></blockquote>
+<p>I&#8217;ve been working on an iOS 7 app that&#8217;s partly <em>about</em> photos, though not actually a camera app, and I always thought it&#8217;d benefit from a single great black and white filter. Not as one of a dozen filters, but as the only filter in the app — something strikingly different that would be noticed. iOS 7&#8217;s built-in filters and apps like <a href="http://www.pacifichelm.com/cameranoir/">Camera Noir</a> have made me reconsider. Why reinvent the wheel when so much good work is being done on filters by other developers?</p>
+<p>Related, the <a href="http://www.randsinrepose.com/archives/2012/12/09/how_i_instagram.html">excellent mobile photo workflow by Rands</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/07/photo_filters.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Indexing the hidden web</title>
+		<link>http://www.manton.org/2012/04/indexing_the_hidden.html</link>
+		<comments>http://www.manton.org/2012/04/indexing_the_hidden.html#comments</comments>
+		<pubDate>Tue, 17 Apr 2012 20:27:11 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[brin]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[instagram]]></category>
+		<category><![CDATA[search]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2012/04/indexing_the_hidden.html</guid>
+		<description><![CDATA[There has been some good commentary on &#8220;Sergey Brin&#8217;s interview&#8221;:http://www.guardian.co.uk/technology/2012/apr/15/web-freedom-threat-google-brin with the Guardian. It&#8217;s probably best summarized in &#8220;John Gruber&#8217;s comment&#8221;:http://daringfireball.net/linked/2012/04/15/google-open-web: &#8220;The assumption here is that the only way to search is through Google, and that the &#8216;open Internet&#8217; is only what Google can index and sell ads against.&#8221; This resonates with me because I [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>There has been some good commentary on &#8220;Sergey Brin&#8217;s interview&#8221;:http://www.guardian.co.uk/technology/2012/apr/15/web-freedom-threat-google-brin with the Guardian. It&#8217;s probably best summarized in &#8220;John Gruber&#8217;s comment&#8221;:http://daringfireball.net/linked/2012/04/15/google-open-web:</p>
+<blockquote><p>&#8220;The assumption here is that the only way to search is through Google, and that the &#8216;open Internet&#8217; is only what Google can index and sell ads against.&#8221;</p></blockquote>
+<p>This resonates with me because I think Google has put enough ads on the internet. It&#8217;s impossible to take anything Google says at face value if they talk of &#8220;open&#8221; but their intentions say &#8220;ads&#8221;. But here&#8217;s the thing: Brin is actually right. There <em>is</em> great data hidden behind apps that should be indexable.</p>
+<p>In the race to win the App Store, we forgot about the web. Think about Instagram. Millions of photos are being shared that are inaccessible via a search engine. These photos can&#8217;t be found again and aren&#8217;t discoverable. When you search the web, how does it make sense that public photos on Flickr show up, but public photos on Instagram do not?</p>
+<p>We shouldn&#8217;t have to choose between Apple&#8217;s closed systems and Google&#8217;s ad-driven business. I want to talk about improving the web without automatically being pro-Google. &#8220;This tweet from John Marstall&#8221;:https://twitter.com/iconmaster/status/191901693527605248 made me realize it:</p>
+<blockquote><p>&#8220;I&#8217;d prefer to separate &#8216;indexable&#8217; from &#8216;indexable by Google.&#8217; Yes, they&#8217;re mostly the same for now. Might not always be.&#8221;.</p></blockquote>
+<p>We need competition in web search. More than Bing. A new search engine is the number 1 item from &#8220;Paul Graham&#8217;s frighteningly ambitious ideas&#8221;:http://www.paulgraham.com/ambitious.html:</p>
+<blockquote><p>&#8220;The best ideas are just on the right side of impossible. I don&#8217;t know if this one is possible, but there are signs it might be. Making a new search engine means competing with Google, and recently I&#8217;ve noticed some cracks in their fortress.&#8221;</p></blockquote>
+<p>Of course it&#8217;s crazy, but so was the 1st search breakthrough, lightning-fast AltaVista, and so was the 2nd major innovation, Google itself. It&#8217;s time for a search engine that isn&#8217;t all about ads. It&#8217;s time for search that understands apps and embraces data from web services as much as it does from web sites. It&#8217;s time for the 3rd act in search.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2012/04/indexing_the_hidden.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Instagram and hosting</title>
+		<link>http://www.manton.org/2012/04/instagram_and_hosting.html</link>
+		<comments>http://www.manton.org/2012/04/instagram_and_hosting.html#comments</comments>
+		<pubDate>Fri, 06 Apr 2012 19:24:50 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[ec2]]></category>
+		<category><![CDATA[hosting]]></category>
+		<category><![CDATA[instagram]]></category>
+		<category><![CDATA[servers]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2012/04/instagram_and_hosting.html</guid>
+		<description><![CDATA[I love reading about how big sites use Amazon EC2. If &#8220;this post from Instagram&#8221;:http://instagram-engineering.tumblr.com/post/13649370142/what-powers-instagram-hundreds-of-instances-dozens-of is still accurate, they must be at something like $50k/month in hosting costs. Their user base has doubled in the 4 months since they posted that. My setup for Tweet Marker is trivial by comparison, but to me &#8212; without [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I love reading about how big sites use Amazon EC2. If &#8220;this post from Instagram&#8221;:http://instagram-engineering.tumblr.com/post/13649370142/what-powers-instagram-hundreds-of-instances-dozens-of is still accurate, they must be at something like $50k/month in hosting costs. Their user base has doubled in the 4 months since they posted that.</p>
+<p>My setup for Tweet Marker is trivial by comparison, but to me &mdash; without Instagram&#8217;s $7 million in funding &mdash; it&#8217;s a very big deal. What I wrote &#8220;back in October&#8221;:http://www.manton.org/2011/10/redisonly_migration.html about moving to Redis is still mostly true, although I&#8217;ve added MySQL and Sphinx to the mix. I now run with 3 Amazon EC2 &#8220;medium&#8221; instances and have 5 web dynos (with 3 Unicorn processes each) at Heroku.</p>
+<p>I put everything from donations back into the servers. For Tweet Marker to work, it had to be rock solid. It had to scale. It&#8217;s only the first week for &#8220;Tweet Marker Plus&#8221;:http://tweetmarker.net/plus subscriptions, but already I have a good feeling that it&#8217;ll all pay off.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2012/04/instagram_and_hosting.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.875 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:27:17 -->

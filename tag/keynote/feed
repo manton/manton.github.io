@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; keynote</title>
+	<atom:link href="http://www.manton.org/tag/keynote/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>WWDC 2011 keynote: diversify</title>
+		<link>http://www.manton.org/2011/06/wwdc_2011_keynote.html</link>
+		<comments>http://www.manton.org/2011/06/wwdc_2011_keynote.html#comments</comments>
+		<pubDate>Tue, 14 Jun 2011 18:02:25 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[instapaper]]></category>
+		<category><![CDATA[keynote]]></category>
+		<category><![CDATA[wwdc]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2011/06/wwdc_2011_keynote.html</guid>
+		<description><![CDATA[This year&#8217;s WWDC keynote was one of the most significant of the last few years. Twitter integration and iCloud were the highlights for me, although at the end of the week I&#8217;m still not sure when or how I&#8217;ll be able to use either. But I love that it was a software-only event &#8212; that&#8217;s [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>This year&#8217;s WWDC keynote was one of the most significant of the last few years. Twitter integration and iCloud were the highlights for me, although at the end of the week I&#8217;m still not sure when or how I&#8217;ll be able to use either. But I love that it was a software-only event &mdash; that&#8217;s how WWDC should be &mdash; and I love that there were major new features on both of Apple&#8217;s platforms.</p>
+<p>A few of the announcements seemed to have significant overlap (if not direct competition) with third-party developers, in particular Instapaper, Camera+, and the dozens of to-do list apps in the store. You can see some of that live reaction in a &#8220;collection of tweets&#8221;:http://tweetlibrary.com/manton/wwdc2011 I put together at the conference.</p>
+<p>My first thought for Marco Arment was that he should come out with a new product. Not because I&#8217;m worried about Instapaper, but just because I&#8217;d love to see what he&#8217;d build next. &#8220;Marco is still upbeat on Instapaper&#8217;s chances&#8221;:http://www.marco.org/2011/06/06/safari-reader-and-instapaper for continued success:</p>
+<blockquote><p>&#8220;If Reading List gets widely adopted and millions of people start saving pages for later reading, a portion of those people will be interested in upgrading to a dedicated, deluxe app and service to serve their needs better. And they&#8217;ll quickly find Instapaper in the App Store.&#8221;</p></blockquote>
+<p>Yet here&#8217;s Dave Winer, &#8220;reflecting on when Apple competed with his product&#8221;:http://scripting.com/stories/2011/06/06/anotherGreatSboringsLovely.html:</p>
+<blockquote><p>&#8220;I think the answer is to find meaning in your work independent of what happens with the fickleness of the platform vendor and its developers. I went on to take the same software that Apple crushed and turned it into blogging, RSS, podcasting, web APIs, all kinds of cool stuff. And yes it did eventually make me a bunch of money. But not the way everyone thought it would.&#8221;</p></blockquote>
+<p>As Dave used to say, zig where they zag. Find the unique value in the apps you build and spin those out as separate products or use as inspiration for new features. Daniel and I have talked about this on Core Intuition: pull your app&#8217;s strength into a competition advantage by reusing code and adding more depth than anyone starting from scratch.</p>
+<p>By playing to your strengths, you can do more, faster. Every indie Mac and iOS developer should be thinking about a suite of products.</p>
+<p>&#8220;Justin Williams hits this&#8221;:http://carpeaqua.com/2011/06/07/the-agony-and-the-ecstasy-of-wwdc/ in the context of WWDC:</p>
+<blockquote><p>&#8220;Some people grow frustrated by Apple continually making inroads in existing developer&#8217;s territory, but it comes with being a part of the platform. The key is to ensure your product lineup is diverse enough that you can survive taking the blow Apple may offer at the next keynote.&#8221;</p></blockquote>
+<p>You should make the choice to diversify before you&#8217;re forced to make it, because WWDC is already a full year of choices rolled up into one week. Dropbox/Simplenote and iCloud, OAuth and Twitter.framework, iOS 4 and 5, Retain/Release and ARC. Like the &#8220;Persians deliberating while both drunk and sober&#8221;:http://skepticalphilosopher.blogspot.com/2009/09/persian-strategy-deliberating-while.html (&#8220;via Buzz Andersen&#8221;:http://twitter.com/buzz/status/76502320514465793), if you make any real decisions during WWDC&#8217;s info intoxication, make them again a week later.</p>
+<p>Marco has a clear advantage over his new competition, though, regardless of whether he creates new products or sticks with Instapaper. &#8220;Send to Instapaper&#8221; is built into every great Twitter app and newsreader. It took years to build such widespread integration, and it won&#8217;t be easy (even for Apple) to be on equal footing with such a well-loved and established brand.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2011/06/wwdc_2011_keynote.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Macworld 2009</title>
+		<link>http://www.manton.org/2009/01/macworld_2009.html</link>
+		<comments>http://www.manton.org/2009/01/macworld_2009.html#comments</comments>
+		<pubDate>Tue, 06 Jan 2009 19:55:00 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[ilife]]></category>
+		<category><![CDATA[keynote]]></category>
+		<category><![CDATA[schiller]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2009/01/macworld_2009.html</guid>
+		<description><![CDATA[I liked today&#8217;s Macworld keynote. In many ways it was a return to pre-iPhone keynotes, with a few good announcements but nothing crazy earth-shatteringly amazing how-can-we-ever-top-this-again. Solid upgrade to iLife. Good news on iTunes. Impressive battery life on the refreshed 17-inch MacBook Pro. At first I was worried that new versions of iPhoto and iMovie [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I liked today&#8217;s Macworld keynote. In many ways it was a return to pre-iPhone keynotes, with a few good announcements but nothing crazy earth-shatteringly amazing how-can-we-ever-top-this-again. Solid upgrade to iLife. Good news on iTunes. Impressive battery life on the refreshed 17-inch MacBook Pro.</p>
+<p>At first I was worried that new versions of iPhoto and iMovie would obsolete my new app before its 1.0 even ships, but I think I&#8217;ve narrowly escaped the knife.</p>
+<p>&#8220;Ryan at 37signals had this to say&#8221;:http://www.37signals.com/svn/posts/1507-iphoto-09-and-domain-language about iPhoto &#8217;09:</p>
+<blockquote><p>&#8220;Now iPhoto &#8217;09 has kicked their language up a notch further. In addition to Events there are also Faces and Places. Apple has made a few new slices into the photo organization cake, and they&#8217;ve opened up a new field of possibilities for people to find and enjoy their photos.&#8221;</p></blockquote>
+<p>The new iPhoto does look amazing, but I&#8217;m not convinced that adding these new concepts improves the usability of the app significantly. Even in iPhoto &#8217;08, it&#8217;s not often clear when to use an Event vs. an Album. Tagging in Flickr and other popular web apps has proven that a fast, generic one-size-fits-all approach to categorizing can not only work, but is more flexible and requires less mental overhead to churn through images, movies, or what have you.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2009/01/macworld_2009.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>An Inconvenient Truth</title>
+		<link>http://www.manton.org/2006/07/an_inconvenient_truth.html</link>
+		<comments>http://www.manton.org/2006/07/an_inconvenient_truth.html#comments</comments>
+		<pubDate>Mon, 17 Jul 2006 19:03:22 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Movies]]></category>
+		<category><![CDATA[bush]]></category>
+		<category><![CDATA[film]]></category>
+		<category><![CDATA[futurama]]></category>
+		<category><![CDATA[global]]></category>
+		<category><![CDATA[gore]]></category>
+		<category><![CDATA[inconvenient]]></category>
+		<category><![CDATA[keynote]]></category>
+		<category><![CDATA[lovelock]]></category>
+		<category><![CDATA[warming]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2006/07/an_inconvenient_truth.html</guid>
+		<description><![CDATA[I saw the Al Gore documentary &#8220;An Inconvenient Truth&#8221;:http://www.climatecrisis.net/ last month. It&#8217;s a very important movie, and I hope everyone has a chance to see it. They handed out copies of Seed Magazine at SXSW this year. There were a few articles on global warming, including &#8220;this depressing quote from James Lovelock&#8221;:http://www.seedmagazine.com/news/2006/05/doomsday_scenarios.php, the environmental scientist [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I saw the Al Gore documentary &#8220;An Inconvenient Truth&#8221;:http://www.climatecrisis.net/ last month. It&#8217;s a very important movie, and I hope everyone has a chance to see it.</p>
+<p>They handed out copies of Seed Magazine at SXSW this year. There were a few articles on global warming, including &#8220;this depressing quote from James Lovelock&#8221;:http://www.seedmagazine.com/news/2006/05/doomsday_scenarios.php, the environmental scientist responsible for the Gaia hypothesis:</p>
+<p>bq. &#8220;The prospects for the coming century are pretty grim: If these predictions are correct, it means that all of the efforts that have been made, like the Kyoto and Montreal agreements, are almost certainly a waste of time. They should have been done 50 or 100 years ago. It&#8217;s too late now to turn back the clock, so to speak.&#8221;</p>
+<p>What are we supposed to do with that? If we are scared and powerless, nothing will change.</p>
+<p>The Bush administration agenda too is based on fear. Fear led us to IRAQ, to no-warrant wiretapping. Instead, with An Inconvenient Truth you leave the movie theater inspired, with a new sense of urgency. This is beautifully woven together &#8212; personal highlights from Gore&#8217;s life with his talk with facts with videos.</p>
+<p>And as a Mac user, it&#8217;s nice to see &#8220;Keynote played such an important part&#8221;:http://www.apple.com/hotnews/articles/2006/05/inconvenienttruth/ in the production of his talks (via &#8220;James Duncan Davidson&#8221;:http://www.duncandavidson.com/).</p>
+<p>Also, this on YouTube: &#8220;A Terrifying Message from Al Gore&#8221;:http://youtube.com/watch?v=5BjrOi4vF24 (Futurama!)</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2006/07/an_inconvenient_truth.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Smart software bloat</title>
+		<link>http://www.manton.org/2006/02/smart_software_bloat.html</link>
+		<comments>http://www.manton.org/2006/02/smart_software_bloat.html#comments</comments>
+		<pubDate>Tue, 21 Feb 2006 22:09:56 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[bloat]]></category>
+		<category><![CDATA[keynote]]></category>
+		<category><![CDATA[ui]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2006/02/smart_software_bloat.html</guid>
+		<description><![CDATA[Everyone complains about software bloat. And it&#8217;s easy to see why &#8212; applications are bigger and slower than they&#8217;ve ever been, and users think the dozen features they will never use are to blame. On the Mac we are lucky to have a large number of great, small, focused tools that solve a few problems [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Everyone complains about software bloat. And it&rsquo;s easy to see why &mdash; applications are bigger and slower than they&rsquo;ve ever been, and users think the dozen features they will never use are to blame.</p>
+<p>On the Mac we are lucky to have a large number of great, small, focused tools that solve a few problems well. The best of these become successful, but what then? You have to keep adding features. How do you control the software so that it becomes even more useful without feeling too packed?</p>
+<p>One way is to differenciate between visible and hidden bloat. For example, Microsoft products used to have a tendency to take every major bullet point on the side of the box and make a toolbar icon for it. Even if the user only uses 5% of those features, they have easy access to far too many of them, and they needlessly have access to them all at once.</p>
+<p><img src="http://www.manton.org/images/2006/keynote_sides.gif" border="0" height="147" width="215" alt="Keynote slider" align="right" /> Instead, adding features <i>in context</i> allows the application to grow without feeling too busy, and without distracting the user from the core set of features they are familiar with. The new user interface is discovered by using a new feature, and otherwise remains out of sight.</p>
+<p>This point was really emphasized for me while using Keynote 3 the other day. I love the contextual floating slider when editing a shape (see image). They could have put this slider in the inspector window, but it is so infrequently used it would have remained disabled most of the time, and cluttered those panes with little benefit.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2006/02/smart_software_bloat.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.938 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:34:57 -->

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; marketing</title>
+	<atom:link href="http://www.manton.org/tag/marketing/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Marketing, mission, movement</title>
+		<link>http://www.manton.org/2015/08/marketing-mission-movement.html</link>
+		<comments>http://www.manton.org/2015/08/marketing-mission-movement.html#comments</comments>
+		<pubDate>Fri, 21 Aug 2015 14:10:33 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[community]]></category>
+		<category><![CDATA[marketing]]></category>
+		<category><![CDATA[snippets]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2966</guid>
+		<description><![CDATA[As I was writing some documentation this week, I kept thinking about what makes great marketing copy. 37signals used to say that copywriting is a form of user interface design. That&#8217;s true but I think there&#8217;s more to it. The best products don&#8217;t just have marketing copy; they have a mission statement. They don&#8217;t just [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>As I was writing <a href="http://www.manton.org/2015/08/2959.html">some documentation</a> this week, I kept thinking about what makes great marketing copy. 37signals used to say that <a href="https://gettingreal.37signals.com/ch09_Copywriting_is_Interface_Design.php">copywriting is a form of user interface design</a>. That&#8217;s true but I think there&#8217;s more to it.</p>
+<p>The best products don&#8217;t just have marketing copy; they have a mission statement. They don&#8217;t just sell a tool; they sell a movement.</p>
+<p>When I stare at my product wondering if it&#8217;s too confusing — if it&#8217;s too different, and tries to do too many things, to be immediately understood by new users — I try to remind myself that it&#8217;s an opportunity. Instead of simply explaining what I&#8217;m doing, how can I pitch it in a way that strengthens a community around the idea. Because dozens of bloggers can spread the idea more quickly and in a more meaningful way than I can by myself.</p>
+<p>And unlike a one-way press release, a community is inherently two-way. Every mention of the idea is both marketing <em>and</em> feedback. Someone blogs about how they&#8217;re excited for the product, but also how they wish it had a certain missing feature. Someone in the press writes a review, but also with a pros and cons list.</p>
+<p>This cycle means the product gets better. And if we&#8217;re thoughtful in that first approach to marketing copy, then every blog post, review, and tweet that follows is laced with a little part of our mission statement.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/08/marketing-mission-movement.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Building Slack</title>
+		<link>http://www.manton.org/2014/03/building_slack.html</link>
+		<comments>http://www.manton.org/2014/03/building_slack.html#comments</comments>
+		<pubDate>Mon, 03 Mar 2014 18:05:46 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[flickr]]></category>
+		<category><![CDATA[marketing]]></category>
+		<category><![CDATA[slack]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/03/building_slack.html</guid>
+		<description><![CDATA[Stewart Butterfield, co-founder of Flickr and his latest company Tiny Speck, published an internal email from around the middle of development on their collaboration app Slack: “There’s no point doing this to be small. We should go big, if only because there are a lot of people in the world who deserve Slack. Going big [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Stewart Butterfield, co-founder of Flickr and his latest company Tiny Speck, <a href="https://medium.com/medium-long/4c59524d650d">published an internal email</a> from around the middle of development on their collaboration app Slack:</p>
+<blockquote><p>
+  “There’s no point doing this to be small. We should go big, if only because there are a lot of people in the world who deserve Slack. Going big also means that it will have to be really, really good. But that’s convenient, since there’s also no point doing it if it is not really, really good.”
+</p></blockquote>
+<p>It’s long but there’s a lot of good stuff in it on marketing and building a product people need.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/03/building_slack.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Inside product hype</title>
+		<link>http://www.manton.org/2013/04/inside_product_hype.html</link>
+		<comments>http://www.manton.org/2013/04/inside_product_hype.html#comments</comments>
+		<pubDate>Wed, 24 Apr 2013 16:01:30 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[hype]]></category>
+		<category><![CDATA[madmen]]></category>
+		<category><![CDATA[marketing]]></category>
+		<category><![CDATA[products]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/04/inside_product_hype.html</guid>
+		<description><![CDATA[Sometimes the usefulness of a product speaks for itself. Other times the difference between success and failure comes down to marketing. Most of us can get better at crafting a story around why our apps are important. And then, there are the folks who just exude hype. I love this quote from Jason Calacanis, talking [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Sometimes the usefulness of a product speaks for itself. Other times the difference between success and failure comes down to marketing. Most of us can get better at <a href="http://manton.org/2011/06/carousel.html">crafting a story</a> around why our apps are important.</p>
+<p>And then, there are the folks who just exude hype. I love <a href="https://plus.google.com/u/0/109906261250470044944/posts/AqAg1WkHAw4">this quote from Jason Calacanis</a>, talking up his new company Inside.com:</p>
+<blockquote><p>
+  “It’s going to be somewhere between a hit and groundbreaking.”
+</p></blockquote>
+<p>Sure, it’s over the top. This style wouldn’t work if I said it. But the certainty — that the product’s success is guaranteed, and now we’re just haggling over how big a success it will be — does make me want to know more about what they’re building.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/04/inside_product_hype.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Making time for marketing</title>
+		<link>http://www.manton.org/2012/11/making_time_for.html</link>
+		<comments>http://www.manton.org/2012/11/making_time_for.html#comments</comments>
+		<pubDate>Fri, 09 Nov 2012 17:27:09 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[37signals]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[marketing]]></category>
+		<category><![CDATA[watermark]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2012/11/making_time_for.html</guid>
+		<description><![CDATA[Like many programmers, I’m often fooled into thinking that it’s enough to build a good product — that people will find it on their own, instantly recognize its value, and pay for it. It’s easy to forget that even great products need marketing to succeed. For a one-man shop it’s important to take a break from [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Like many programmers, I’m often fooled into thinking that it’s enough to build a good product — that people will find it on their own, instantly recognize its value, and pay for it. It’s easy to forget that even great products need marketing to succeed. For a one-man shop it’s important to take a break from writing code and work on how the app is sold.</p>
+<p>Building a business is hard. I started Riverfold Software <em>6 years ago</em> and in many ways it has fallen short. And for some of the past year, I’ve squandered the success of Tweet Marker, failing to practice and experiment with how to make money from it.</p>
+<p><a href="http://www.inc.com/magazine/20110301/making-money-small-business-advice-from-jason-fried.html">Jason Fried of 37signals wrote for Inc Magazine</a> last year about how making money takes practice:</p>
+<blockquote><p>
+  “One thing I do know is that making money is not the same as starting a business. For entrepreneurs, this is an important thing to understand. Most of us identify with the products we create or services we provide. I make software. He is a headhunter. She builds computer networks. But the fact is, all of us must master one skill that supersedes the others: making money. You can be the most creative software designer in the world. But if you don’t know how to make money, you’re never going to have much of a business or a whole lot of autonomy.”
+</p></blockquote>
+<p>In the last week I’ve taken a couple steps in the right direction. I’ve finally redesigned the <a href="http://watermark.io/">Watermark home page</a> around a simpler marketing statement of what the app is about. And as discussed on <a href="http://coreint.org/64">the recent Core Intuition</a>, I switched from PayPal to Stripe in an effort to make payment smoother and subscriptions easier to track. There’s still a lot to do, but I hope to make even more time for marketing before the year is up.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2012/11/making_time_for.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Carousel</title>
+		<link>http://www.manton.org/2011/06/carousel.html</link>
+		<comments>http://www.manton.org/2011/06/carousel.html#comments</comments>
+		<pubDate>Wed, 15 Jun 2011 20:37:44 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[madmen]]></category>
+		<category><![CDATA[marketing]]></category>
+		<category><![CDATA[stevejobs]]></category>
+		<category><![CDATA[tweetlibrary]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2011/06/carousel.html</guid>
+		<description><![CDATA[Don Draper, from the &#8220;season 1 finale of Mad Men&#8221;:http://www.youtube.com/watch?v=suRDUFpsHus (YouTube, skip if you plan to watch the whole series): &#8220;This device isn&#8217;t a spaceship; it&#8217;s a time machine. It goes backwards, forwards. It takes us to a place where we ache to go again. It&#8217;s not called the wheel; it&#8217;s called the carousel. It [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Don Draper, from the &#8220;season 1 finale of Mad Men&#8221;:http://www.youtube.com/watch?v=suRDUFpsHus (YouTube, skip if you plan to watch the whole series):</p>
+<p><a href="http://www.youtube.com/watch?v=suRDUFpsHus"><img src="http://www.manton.org/images/2011/don_draper.jpg" width="400" height="227" alt="Don Draper" style="border: 1px solid gray; display:block; margin-left:auto; margin-right:auto;" border="0" /></a></p>
+<blockquote><p>&#8220;This device isn&#8217;t a spaceship; it&#8217;s a time machine. It goes backwards, forwards. It takes us to a place where we ache to go again. It&#8217;s not called the wheel; it&#8217;s called the carousel. It lets us travel the way a child travels &mdash; around and around, and back home again, to a place where we know we were loved.&#8221;</p></blockquote>
+<p>When I first saw this a couple years ago I thought of Steve Jobs, the master pitchman in our industry. The delivery is different, more personal here, but it was stunning as part of the full episode. Who doesn&#8217;t want to build products that resonate so well, that go from nice utilities or productivity apps to something our customers fall in love with?</p>
+<p>First you build a product that changes things, that is truly useful. Something ambitious. Then find a way to sell it that connects, and underscore why it matters.</p>
+<p>I don&#8217;t really know how to do this yet. But I do know that part of it is telling stories. Why did I create &#8220;Tweet Library&#8221;:http://www.riverfold.com/software/tweetlibrary/? To tell stories, to remember events that matter before they&#8217;re lost in the fleeting stream of old tweets. It&#8217;s the kind of nostalgia at the heart of the Mad Men clip.</p>
+<p>&#8220;I like this post from Kyle Neath of GitHub&#8221;:http://warpspire.com/posts/idea-businesses/, that it&#8217;s about ideas, not products (via &#8220;Duncan Davidson&#8221;:http://duncandavidson.com/):</p>
+<blockquote><p>&#8220;People want to be part of ideas. Being part of a company who builds a successful product is cool&#8230; but being part of an idea is a lot more attractive. If you can build a business where both your employees and your customers think they&#8217;re part of an idea, you&#8217;ve created something special.&#8221;</p></blockquote>
+<p>If you can extract the core idea from a great product, everything that comes next can be matched to the idea, so the product has a clear path for new features. Building a story around it &mdash; something that sticks, and having the resources to tell that story properly &mdash; takes a lot of work. I&#8217;m inspired when I see others do it well, and it&#8217;s an art I hope to make time for.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2011/06/carousel.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.110 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:32:12 -->

@@ -1,0 +1,10 @@
+<?xml version='1.0'?><rss version='2.0'>
+<channel>
+	<title>Podcast Shuffle</title>
+	<link>http://www.manton.org/podcast-shuffle/</link>
+	<description>Delivers a random podcast every day.</description>
+	<language>en-us</language>
+	<item>
+	<title>Karins themed songs podcasts</title><description>Every week Karin uses a different theme for the kts-podcast and picks songs according to the theme. This makes for a wide variety of music for you to enjoy! Please check www.ktsp.net/playlists for the playlists.</description><link>http://www.ktsp.net</link><enclosure type='audio/mpeg' url='http://serverchange.mp3' length='701127'/></item>
+</channel>
+</rss>

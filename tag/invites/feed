@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; invites</title>
+	<atom:link href="http://www.manton.org/tag/invites/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Approaching a year with App.net</title>
+		<link>http://www.manton.org/2013/05/approaching_a_year.html</link>
+		<comments>http://www.manton.org/2013/05/approaching_a_year.html#comments</comments>
+		<pubDate>Fri, 10 May 2013 13:55:06 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[adn]]></category>
+		<category><![CDATA[blogs]]></category>
+		<category><![CDATA[invites]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/05/approaching_a_year.html</guid>
+		<description><![CDATA[App.net started 10 months ago as a blog post. I thought it would be interesting to look back on a few things I’ve written on my blog about the service as it has grown. August 12, 2012, on the potential: “In less than a month, they went from a mission statement video that seemed just a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>App.net started 10 months ago as <a href="http://daltoncaldwell.com/an-audacious-proposal">a blog post</a>. I thought it would be interesting to look back on a few things I’ve written on my blog about the service as it has grown.</p>
+<p><a href="http://manton.org/2012/08/appnets_great.html">August 12, 2012</a>, on the potential:</p>
+<blockquote><p>
+  “In less than a month, they went from a mission statement video that seemed just a step away from vaporware, to following through on an API spec and then alpha version web site. They delivered.”
+</p></blockquote>
+<p><a href="http://manton.org/2012/08/announcing_watermark.html">August 28, 2012</a>, when I launched Watermark with App.net support:</p>
+<blockquote><p>
+  “You can now add an App.net account and it will download any posts from your friends, making them available for search. Watermark is already storing tens of millions of tweets, and I’m excited to start adding App.net posts to that archive as well.”
+</p></blockquote>
+<p><a href="http://manton.org/2013/01/three_months_without.html">January 11, 2013</a>, with how and why I stopped posting to Twitter:</p>
+<blockquote><p>
+  “Over three months ago I stopped using Twitter. I wanted to make a statement — perhaps in an overly-dramatic way — that the developer-hostile environment that Twitter had evolved into wasn’t something I could support anymore.”
+</p></blockquote>
+<p><a href="http://manton.org/2013/01/what_makes.html">January 21, 2013</a>, reacting to one use of the global feed:</p>
+<blockquote><p>
+  “And that’s the really good news: if what makes ADN special is the people, then it’s because all of the people have something in common. They didn’t chose ADN by accident, or because it was the default choice. They chose it because <em>they wanted something better</em>.”
+</p></blockquote>
+<p><a href="http://manton.org/2013/03/three_adn.html">March 25, 2013</a>, where I review 3 iPhone apps:</p>
+<blockquote><p>
+  “In this post I’m going to briefly review 3 of the most popular iPhone clients: Netbot, Felix, and Riposte. You can’t really go wrong with any of these three apps.”
+</p></blockquote>
+<p><a href="http://manton.org/2013/03/climber_for_adn.html">March 28, 2013</a>, about adopting the file storage API:</p>
+<blockquote><p>
+  “There’s a lot of activity around App.net file storage right now. I think we’re going to see some great things built with this.”
+</p></blockquote>
+<p>And of course I’ve said much more about this on the Core Intuition podcast. Episodes <a href="http://www.coreint.org/2012/07/episode-50-dont-get-too-attached/">50</a>, <a href="http://www.coreint.org/2012/11/episode-65-sensitive-to-security/">65</a> and <a href="http://www.coreint.org/2013/03/episode-82-did-you-get-this-at-poundland/">82</a> are probably good places to start.</p>
+<p>If you’ve been thinking about giving App.net a try, you can <a href="https://join.app.net/from/dsyxykqtzx">use this invite link</a> to sign up for free. There’s also a great <a href="http://blog.app.net/2013/05/08/app-net-passport-for-ios-is-now-available/">new iOS app</a> that lets discover apps and sign up directly on the iPhone.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/05/approaching_a_year.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.993 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:43:19 -->

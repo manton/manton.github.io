@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; expo</title>
+	<atom:link href="http://www.manton.org/tag/expo/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Was Macworld worth it?</title>
+		<link>http://www.manton.org/2010/03/was_macworld_worth.html</link>
+		<comments>http://www.manton.org/2010/03/was_macworld_worth.html#comments</comments>
+		<pubDate>Thu, 11 Mar 2010 20:02:30 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[expo]]></category>
+		<category><![CDATA[macworld]]></category>
+		<category><![CDATA[riverfold]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2010/03/was_macworld_worth.html</guid>
+		<description><![CDATA[As I &#8220;wrote in January&#8221;:http://www.manton.org/2010/01/macworld_expo_2010.html, I decided to go to Macworld to show off Clipstart and Wii Transfer, and to experience the conference again and hang out with friends. I ended up doing less of the latter, because I lost my voice and was feeling terrible for a couple days, but nevertheless the trip was [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>As I &#8220;wrote in January&#8221;:http://www.manton.org/2010/01/macworld_expo_2010.html, I decided to go to Macworld to show off Clipstart and Wii Transfer, and to experience the conference again and hang out with friends. I ended up doing less of the latter, because I lost my voice and was feeling terrible for a couple days, but nevertheless the trip was great and I&#8217;m very glad I went. Worth it.</p>
+<p>Here&#8217;s my summary of the show, what it took for me to be there and what I got out of it for &#8220;Riverfold&#8221;:http://www.riverfold.com/. This is supposed to be in the spirit of &#8220;Rogue Amoeba&#8217;s excellent series on Macworld&#8221;:http://www.rogueamoeba.com/utm/2007/01/16/should-i-exhibit-at-macworld-part-1-costs/, but more from a super-tiny company perspective, and just where my experience differs.</p>
+<p>I do want to quickly mention costs, since that&#8217;s the primary consideration when planning these things. I took advantage of the Indie Developer Spotlight shared kiosk to keep investment low. In fact, I wouldn&#8217;t have gone otherwise. I kept the whole trip to about $2700, with a rough breakdown like:</p>
+<p>$1250 &#8211; space on the show floor</p>
+<p>$900 &#8211; hotel for 4 nights</p>
+<p>$250 &#8211; flights to and from San Francisco</p>
+<p>$100 &#8211; printed &#8220;2000 flyers&#8221;:http://www.flickr.com/photos/manton/4326331440/</p>
+<p>$200 &#8211; other misc costs, cabs, and food</p>
+<p>I could have saved some money in there on the hotel, but in general I think I did pretty well. For a lot indies it&#8217;s probably not that much different than a WWDC trip.</p>
+<p><a href="http://www.flickr.com/photos/manton/4425406126/in/set-72157623476367967/"><img src="http://www.manton.org/images/2010/flyers_ollie.png" alt="flyers_ollie.png" title="flyers_ollie.png" border="0" width="200" height="138" align="right" hspace="10" vspace="5" style="border: 1px solid gray;" /></a> I worked 8 hours each day on my feet at Moscone North, in my little booth space in the very corner of the expo. I was lucky for two things: Guy English was awesome and covered for me a couple times so I could take a real break; and the restrooms and water fountain were so close I could slip away when traffic was slow and be back without missing much.</p>
+<p>The less expensive booth option was supposed to be for a table shared between 3 developers, with presumably a dozen or more small companies filling the area. But unlike the iPhone pavilion in the center of the tradeshow, which was packed with exhibitors, hardly any Mac developers took advantage of this offer. It was just me and one other company.</p>
+<p>This was disappointing at first, since a less dense area doesn&#8217;t convey the same excitement and means less foot traffic. But there were other aspects of the deal that turned out better than expected, such as included wired internet even though none was originally promised. Compared to a traditional booth, it was a bargain.</p>
+<p>Before leaving Austin for San Francisco I jotted down a few notes on how I could measure success, since I didn&#8217;t want to pin whether it was worth it just to direct sales.</p>
+<p><em>See friends and meet new people.</em> Check, but there were a lot of people that I ran into very briefly and didn&#8217;t get to really talk to. See aforementioned lost voice.</p>
+<p><em>Get ideas from customers.</em> Check, got plenty of great ideas. I loved talking to random Mac people, not limited to just the ones who bother to send email.</p>
+<p><em>Figure out how to sell the product.</em> There&#8217;s nothing like explaining your application over and over again all day to refine your pitch. I feel like I have a much better handle on this, but there&#8217;s still work to do, and web sites to update.</p>
+<p><em>Actually sell some copies.</em> I used a coupon code to track sales. During the conference my sales were flat, but in the weeks since I&#8217;ve had the best sales days of Clipstart ever.</p>
+<p><em>Get exposure in the press.</em> Check, was interviewed by Ryan Ritchey for &#8220;The Digital Lifestyle&#8221;:http://thedigitallifestyle.tv/home/2010/2/12/wii-transfer-at-macworld-2010.html, Merlin Mann for &#8220;MacBreak Video&#8221;:http://www.pixelcorps.tv/macbreak301, and talked with other members of the press on the show floor. I should have done more but lacked the energy.</p>
+<p><em>Win best of show award.</em> Nope, but wasn&#8217;t expecting it. I think it&#8217;s a shame that only one Mac application won, but on the flip side it&#8217;s great that it was &#8220;Inklet&#8221;:http://tenonedesign.com/inklet.php. Really cool app.</p>
+<p>Everyone&#8217;s expectations coming into the event were low &mdash; the previous exhibitors who backed out, the attendees who wrote Macworld off, and the press who questioned the show&#8217;s relevance. But clearly Macworld 2010 was a success. The second day of the expo I was late to the show floor, arriving just a few minutes before they opened the hall. There was a huge mass of people waiting to get in.</p>
+<p>There will be a Macworld 2011. I&#8217;m really excited to see how it works to move the whole expo and conference to Moscone West. I&#8217;m not sure if I&#8217;ll be there yet, since as demonstrated this year I can&#8217;t plan nearly that far in advance. Throwing all of this together 2 weeks before the show only worked because of everyone who made things a little easier during the week.</p>
+<p>Thanks to Jason Snell, Merlin Mann, Adam Lisagor, and everyone else who stopped by and waited patiently through my demos; also Guy English, Paul Kafasis, David Barnard, John Fox, John Chaffee, the RogueSheep guys, my booth buddies from &#8220;Hello Chair&#8221;:http://hellochair.com/appsaurus/, and the other indie developers I&#8217;m forgetting; and especially Albert McMurry, Dan Moren, and John Gruber for telling people about Clipstart. It succeeds only because of word of mouth.</p>
+<p>In closing&#8230; Maybe it&#8217;s because James Cameron is still in the news, but I&#8217;ve always loved this line from the character Rose in Titanic: &#8220;It doesn&#8217;t make any sense. That&#8217;s why I trust it.&#8221;</p>
+<p>That&#8217;s mostly how I felt about exhibiting at Macworld. Even though it was &#8220;cheap&#8221; by tradeshow standards, for me it was real money and a risk. I booked my flight the day I realized that the only reason not to go was because I could fail.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2010/03/was_macworld_worth.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Macworld Expo 2010</title>
+		<link>http://www.manton.org/2010/01/macworld_expo_2010.html</link>
+		<comments>http://www.manton.org/2010/01/macworld_expo_2010.html#comments</comments>
+		<pubDate>Fri, 22 Jan 2010 20:49:29 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[expo]]></category>
+		<category><![CDATA[macworld]]></category>
+		<category><![CDATA[riverfold]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2010/01/macworld_expo_2010.html</guid>
+		<description><![CDATA[I haven&#8217;t been to a Macworld since the late 90s. I&#8217;ve had it in my head for a couple years that I&#8217;d like to go back, but with so many developer-focused conferences it&#8217;s been hard to justify an extra trip for Macworld. At the same time, my &#8220;indie apps&#8221;:http://www.riverfold.com/ need a nice marketing refresh. So [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I haven&#8217;t been to a Macworld since the late 90s. I&#8217;ve had it in my head for a couple years that I&#8217;d like to go back, but with so many developer-focused conferences it&#8217;s been hard to justify an extra trip for Macworld. At the same time, my &#8220;indie apps&#8221;:http://www.riverfold.com/ need a nice marketing refresh. So why not exhibit at Macworld and get to see the show again while reaching a new audience of potential customers?</p>
+<p>I knew I&#8217;d regret it this year if I didn&#8217;t take advantage of the &#8220;small indie pavilion kiosk&#8221;:http://macworldexpo.com/indiespotlight. So with frighteningly little planning so far, I&#8217;ve booked the expo, flights, and hotel. I&#8217;ll be at the show and I&#8217;ll be demoing the just-released Wii Transfer 2.7 and the unannounced Clipstart 1.3. The rest of the details&#8230; not so clear.</p>
+<p>But I&#8217;m pretty excited about the conference and hope to see many of you there. The expo runs February 11th &#8211; 13th, and you can &#8220;get a free expo pass here&#8221;:http://rcsreg.com/macworld/AMU29713.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2010/01/macworld_expo_2010.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Rogue Amoeba at Macworld</title>
+		<link>http://www.manton.org/2009/06/rogue_amoeba_at.html</link>
+		<comments>http://www.manton.org/2009/06/rogue_amoeba_at.html#comments</comments>
+		<pubDate>Fri, 05 Jun 2009 17:43:28 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[expo]]></category>
+		<category><![CDATA[macworld]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2009/06/rogue_amoeba_at.html</guid>
+		<description><![CDATA[&#8220;Paul Kafasis of Rogue Amoeba&#8221;:http://www.rogueamoeba.com/utm/2009/06/04/the-future-of-macworld/ on exhibiting at Macworld 2010: &#8220;I&#8217;m delighted to be able to plant a flag and say that in 2010, Rogue Amoeba will again be exhibiting at Macworld. We still believe in Macworld and all that it provides. We believe it&#8217;s relevant, useful, and worth having. We believe that meeting new [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>&#8220;Paul Kafasis of Rogue Amoeba&#8221;:http://www.rogueamoeba.com/utm/2009/06/04/the-future-of-macworld/ on exhibiting at Macworld 2010:</p>
+<blockquote><p>&#8220;I&#8217;m delighted to be able to plant a flag and say that in 2010, Rogue Amoeba will again be exhibiting at Macworld. We still believe in Macworld and all that it provides. We believe it&#8217;s relevant, useful, and worth having. We believe that meeting new customers, talking to existing ones, and sharing a great time with all manner of Mac friends, is still worth doing.&#8221;</p></blockquote>
+<p>I like companies that make decisions based not just on spreadsheet numbers, but on belief and instinct too. It&#8217;s a shame Apple didn&#8217;t show more of that when weighing whether to continue exhibiting at Macworld. Because Rogue Amoeba doesn&#8217;t sell on the show floor, the conference has to be less about directly recouping costs and more about connecting with customers and building goodwill and name recognition. See also &#8220;Should I Exhibit At Macworld&#8221;:http://www.rogueamoeba.com/utm/2007/01/16/should-i-exhibit-at-macworld-part-1-costs/, from Paul Kafasis in 2007.</p>
+<p>I haven&#8217;t attended or exhibited at a Macworld since the late 90s, and every year I miss it.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2009/06/rogue_amoeba_at.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.208 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:35:02 -->

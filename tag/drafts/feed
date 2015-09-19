@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; drafts</title>
+	<atom:link href="http://www.manton.org/tag/drafts/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>More with Typed.com</title>
+		<link>http://www.manton.org/2015/07/more-with-typed-com.html</link>
+		<comments>http://www.manton.org/2015/07/more-with-typed-com.html#comments</comments>
+		<pubDate>Sat, 11 Jul 2015 15:57:17 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[drafts]]></category>
+		<category><![CDATA[editorial]]></category>
+		<category><![CDATA[microblogging]]></category>
+		<category><![CDATA[typed]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2837</guid>
+		<description><![CDATA[Last week I mentioned Typed.com and Elliot Jackson’s tips in the Realmac forums for posting via Drafts and Editorial. Now Elliot has expanded his solution into a full blog post: “The gist of it is that your post, written in Drafts, gets sent to Editorial which will take care of the publishing part thanks to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.manton.org/2015/07/microblogging-with-typed-com.html">Last week I mentioned</a> Typed.com and Elliot Jackson’s tips in the Realmac forums for posting via Drafts and Editorial. Now Elliot has expanded his solution <a href="http://casualnotebook.com/posts/microblogging-with-typedcom">into a full blog post</a>:</p>
+<blockquote><p>
+  “The gist of it is that your post, written in <a href="https://itunes.apple.com/us/app/id905337691?at=1l3vn5T">Drafts</a>, gets sent to <a href="https://itunes.apple.com/us/app/editorial/id673907758?mt=8&amp;at=1l3vn5T">Editorial</a> which will take care of the publishing part thanks to it’s ability to run Python and Javascript scripts in it’s built in browser. The post could be both written and published from Editorial, but as nearly everything I do on my phone runs through Drafts anyway, it made sense for this to too.”
+</p></blockquote>
+<p>I’ve been using Editorial as my default iOS text editor for a while. I have a “Notes” folder on Dropbox that I use like Simplenote, but driven from <a href="http://www.selfcoded.com/justnotes/">Justnotes</a> on the Mac and accessible via Editorial or any iOS editor. But I’ve just barely scratched the surface of what is possible with Editorial. It’s one of those rare apps that is fine for new users, but which also contains a great depth of features when you’re ready to explore underneath the initial layer of its UI.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/07/more-with-typed-com.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Microblogging with Typed.com</title>
+		<link>http://www.manton.org/2015/07/microblogging-with-typed-com.html</link>
+		<comments>http://www.manton.org/2015/07/microblogging-with-typed-com.html#comments</comments>
+		<pubDate>Thu, 02 Jul 2015 21:05:03 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[drafts]]></category>
+		<category><![CDATA[editorial]]></category>
+		<category><![CDATA[ios]]></category>
+		<category><![CDATA[microblogging]]></category>
+		<category><![CDATA[realmac]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2808</guid>
+		<description><![CDATA[Dan Counsell wrote a long post this week about the planning and executing of Realmac’s crowdfunding campaign for Typed.com. It’s worth a read for the careful thought he put into it: “I spent two weeks planning and building the entire campaign. I started out with the video as I knew this would be a huge [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://dancounsell.com/articles/how-i-raised-120000-dollars-with-crowdfunding">Dan Counsell wrote a long post</a> this week about the planning and executing of Realmac’s crowdfunding campaign for Typed.com. It’s worth a read for the careful thought he put into it:</p>
+<blockquote><p>
+  “I spent two weeks planning and building the entire campaign. I started out with the video as I knew this would be a huge amount of work and to be honest, it was also something I wasn&#8217;t entirely comfortable with doing. Every popular campaign I looked at had a half-decent and engaging video. I did a lot of research and it turns out the flow of the video should be something like this: Introduce yourself, talk about the problem, move onto the solution that you&#8217;re building, and finally finishing up with a direct plea asking for pledges.”
+</p></blockquote>
+<p>The beta for Typed.com is well underway, and linked in Dan’s post is a support forum for users. <a href="http://community.realmacsoftware.com/t/first-impressions/13/21">This post by Realmac designer Elliot Jackson</a> especially caught my eye:</p>
+<blockquote><p>
+  “We don’t have an API yet but this is something I’ve been enjoying playing with for shorter posts. My workaround is to send the content over a URL then decode it and use JS in the browser to fill in the form elements (tags etc).”
+</p></blockquote>
+<p>He details a way to send short microblog posts to Typed.com by using Drafts and Editorial. Check out the full post for his JavaScript and Python scripts linking these apps together on iOS. I’m really looking forward to Typed.com’s official launch.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/07/microblogging-with-typed-com.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>More quick blogging workflows</title>
+		<link>http://www.manton.org/2015/06/more-quick-blogging-workflows.html</link>
+		<comments>http://www.manton.org/2015/06/more-quick-blogging-workflows.html#comments</comments>
+		<pubDate>Sat, 20 Jun 2015 15:07:10 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[drafts]]></category>
+		<category><![CDATA[microblogs]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[wordpress]]></category>
+		<category><![CDATA[wwdc]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2747</guid>
+		<description><![CDATA[I had a great conversion with Seth Clifford one night at WWDC, about writing and blogging. We all want to get better at writing and posting more frequently. As I mentioned in yesterday’s post, the best way to improve anything is to do more of it, more often. I believe there are two important facets [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I had a great conversion with Seth Clifford one night at WWDC, about writing and blogging. We all want to get better at writing and posting more frequently. As I mentioned <a href="http://www.manton.org/2015/06/we-need-more-bad-ideas.html">in yesterday’s post</a>, the best way to improve anything is to do more of it, more often.</p>
+<p>I believe there are two important facets to microblogging. The first is the timeline experience: a reverse-chronological list of posts from your friends, like you see on Twitter. The second is that posting should be effortless: if there’s less friction between your idea and publishing it, you’ll write more often. So a big part of posting regularly is just having a system that makes it easy.</p>
+<p><a href="http://sethclifford.me/2015/06/auto-posting-to-wordpress-and-archiving-in-dropbox-with-drafts/">Seth updated his iOS blogging workflow</a> by using Drafts and WordPress’s email-to-blog feature. As a nice bonus, he gets Markdown files of each post saved to Dropbox:</p>
+<blockquote><p>
+  “Drafts allows you to send email as an action. WordPress allows you to post into the system via email. Using a combination of the action and the <a href="http://jetpack.me/support/post-by-email/">Jetpack plugin’s email functionality</a>, I can go from idea to published in seconds, without touching the WP iOS app (which continues to get better, but still isn’t <em>fast</em>) and get my local copy stored away.”
+</p></blockquote>
+<p>Also this week, Ben Brooks has switched his core Twitter posting to go through WordPress. He has a <a href="http://benb.me/">standalone microblog at benb.me</a> where the posts live. They go out to Twitter automatically via IFTTT. Posting to a blog first and then Twitter second seems like a simple idea, but it is extremely powerful. Years from now you end up with an archive of all your short-form writing at your own domain. Not as an afterthought, but as the <em>default</em>.</p>
+<p>The great thing about blogging is there’s no one correct way to do this stuff. I’m really happy to see these solutions from Seth and Ben, and I know other folks are working on similar workflows.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/06/more-quick-blogging-workflows.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 7.836 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:23:55 -->

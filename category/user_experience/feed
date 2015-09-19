@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; User Experience</title>
+	<atom:link href="http://www.manton.org/category/user_experience/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Watch form over function</title>
+		<link>http://www.manton.org/2015/09/watch-form-over-function.html</link>
+		<comments>http://www.manton.org/2015/09/watch-form-over-function.html#comments</comments>
+		<pubDate>Fri, 04 Sep 2015 14:08:36 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[applewatch]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[samsung]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3004</guid>
+		<description><![CDATA[Everyone&#8217;s thinking the same thing: Samsung&#8217;s new smartwatch looks significantly better than the Apple Watch. Even the rounded scrolling control looks as usable or more usable than Apple&#8217;s digital crown. If Apple tried multiple designs internally, including a round watch — and I&#8217;m sure they did — why did they opt for a nerdy square [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Everyone&#8217;s thinking the same thing: <a href="http://www.theverge.com/2015/9/3/9252787/samsung-gear-s-2-watch-video-hands-on">Samsung&#8217;s new smartwatch</a> looks significantly better than the Apple Watch. Even the rounded scrolling control looks as usable or more usable than Apple&#8217;s digital crown. If Apple tried multiple designs internally, including a round watch — and I&#8217;m sure they did — why did they opt for a nerdy square shape that looks more like a computer than a watch? Especially in a product with such a focus on fashion that they felt the need to charge $10,000 for the high-end models.</p>
+<p>Surprisingly, this might be Apple showing they can still choose a functional user experience over purely beautiful form and design. Square looks worse but it&#8217;s just more practical for reading text. The digital crown is a better fit for scrolling vertically.</p>
+<p>It&#8217;s rare in the modern era of Apple (post-2000 or so) for the company to sacrifice beauty for usability. The iPhone is always thin at the expense of battery life. Mac scroll bars are hidden in the name of cleanliness. The new MacBook has a single new cable type which no one owns peripherals for. But with the Apple Watch, I think they built something with a foundation that could last for years, despite its initial awkwardness, and square was the right call.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/09/watch-form-over-function.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Two weeks notice: writing documentation</title>
+		<link>http://www.manton.org/2015/07/two-weeks-notice-writing-documentation.html</link>
+		<comments>http://www.manton.org/2015/07/two-weeks-notice-writing-documentation.html#comments</comments>
+		<pubDate>Wed, 22 Jul 2015 22:25:25 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[2weeks]]></category>
+		<category><![CDATA[confluence]]></category>
+		<category><![CDATA[documentation]]></category>
+		<category><![CDATA[github]]></category>
+		<category><![CDATA[hipchat]]></category>
+		<category><![CDATA[markdown]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2879</guid>
+		<description><![CDATA[Boy Scouts have a saying: leave no trace. One of its basic principles is that when you pack up your camp site, make sure you clean up all the trash. The place should look even better than when you found it. It’s not a bad principle to keep in mind when leaving a job, either. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Boy Scouts have a saying: <a href="http://www.scouting.org/scoutsource/OutdoorProgram/LeaveNoTrace.aspx">leave no trace</a>. One of its basic principles is that when you pack up your camp site, make sure you clean up all the trash. The place should look even better than when you found it.</p>
+<p>It’s not a bad principle to keep in mind when leaving a job, either. Projects should be in a good state. I’ve fallen short in one key aspect of this — a conspicuous lack of unit tests in my web apps — but I&#8217;ve been more successful in other areas, like up to date versions of Rails and pretty comprehensive documentation.</p>
+<p>Documentation is also an easy thing to improve at the last minute. Today I’m reviewing some API docs from top to bottom again, making sure that the confusing edge cases for how an app works are well covered. For my job at VitalSource, this means editing in <a href="https://www.atlassian.com/software/confluence">Confluence</a>.</p>
+<p>The apps in Atlassian’s main suite that I’m familiar with — Confluence, Jira, and HipChat — have improved in small increments over the years. I makes sense that they would move fairly slowly; the apps are heavily used in larger companies, so a major redesign or feature change would not be well-received by many of their customers. Of those 3 apps, HipChat seems easily the best designed, and I expect having Slack as a competitor will keep them focused and driven to improve the app.</p>
+<p>This post isn’t meant as a rant against Confluence, but as I use it’s default markup language or WYSIWYG editor I’m reminded of just how much I enjoy writing in Markdown instead. For my own apps, I’ve experimented with writing documentation in Markdown hosted on GitHub, which gives me easy publishing and version history. Tweet Marker, for example, pulls <a href="https://github.com/manton/tweetmarker/blob/master/documentation/v2.md">a Markdown file</a> from GitHub directly and formats it inside its own web interface for Twitter app developers.</p>
+<p>As usual, open formats like simple text files are a great choice for any writing that you want to last. For <a href="http://www.manton.org/2015/07/sneak-peek-screenshot.html">my new microblogging project</a>, I need to repurpose a lot of writing I’ve done on this blog and move it into more formal documentation. I’ll probably use Markdown and GitHub for that as well.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/07/two-weeks-notice-writing-documentation.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>No perfect iPhone size</title>
+		<link>http://www.manton.org/2015/04/no-perfect-iphone-size.html</link>
+		<comments>http://www.manton.org/2015/04/no-perfect-iphone-size.html#comments</comments>
+		<pubDate>Tue, 07 Apr 2015 15:59:05 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[6plus]]></category>
+		<category><![CDATA[color]]></category>
+		<category><![CDATA[iphone]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2546</guid>
+		<description><![CDATA[Some people bought the iPhone 6 and then went back to the 5S. Some people bought the iPhone 6 Plus and then tried the 6. Some worked their way up to the 6 Plus after adapting to the 6. Some never upgraded to the 6 or 6 Plus because both are too big. Marco’s post [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Some people bought the iPhone 6 and then went back to the 5S. Some people bought the iPhone 6 Plus and then tried the 6. Some worked their way up to the 6 Plus after adapting to the 6. Some never upgraded to the 6 or 6 Plus because both are too big.</p>
+<p><a href="http://www.marco.org/2015/04/06/life-with-the-iphone-6-plus">Marco’s post</a> is a good formal summary of a few write-ups I’ve read this week:</p>
+<blockquote><p>
+  “Having used an iPhone 6 full-time from its launch until these 6 Plus experiments over the last few weeks, I can confidently say that neither phone is extremely well-designed. Both have nontrivial and completely avoidable flaws. But the 6 Plus has bigger advantages over the other phones, while the 6 seems to sit in a mediocre middle ground.”
+</p></blockquote>
+<p>The lesson from all these switches couldn&#8217;t be more clear: there&#8217;s no longer one perfect iPhone for everyone. What works great for one person might be terrible for someone else. I personally love the 5C design — the size of the screen, the way the plastic feels in my hand, flipping or spinning it on my fingers without worry that it’ll slip, using it without a case, adding <a href="http://mattgemmell.com/colours/">a little color</a> to my life — but many people never even tried it because it contains underpowered hardware compared to the latest models.</p>
+<p>Apple would be crazy to discontinue any size. I&#8217;m more convinced than ever that we&#8217;ll see a 4-inch 6C alongside a new 6S and 6S Plus later this year. They won&#8217;t have identical specs, and that&#8217;s okay. I&#8217;ll happily pick the 4-inch model even if its camera is a year behind the cutting edge. The iPhone market is so ginormous now that I know there are millions of people who feel the same way.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/04/no-perfect-iphone-size.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Footnotes follow-up (and the Newton)</title>
+		<link>http://www.manton.org/2015/04/footnotes-follow-up-and-the-newton.html</link>
+		<comments>http://www.manton.org/2015/04/footnotes-follow-up-and-the-newton.html#comments</comments>
+		<pubDate>Thu, 02 Apr 2015 17:01:34 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[footnotes]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[newton]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2526</guid>
+		<description><![CDATA[I expected to get a little more negative feedback on my footnotes blog post than I did. Most feedback was pretty good. Thomas Brand agreed but also wrote: “That being said, footnotes can be fun when used sparingly. They lend themselves to the kind of personal anecdote common to the tech blogs I read. If [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I expected to get a little more negative feedback on <a href="http://www.manton.org/2015/03/footnotes.html">my footnotes blog post</a> than I did. Most feedback was <a href="https://twitter.com/siracusa/status/583316200383492096">pretty good</a>. <a href="http://eggfreckles.net/">Thomas Brand</a> agreed but also wrote:</p>
+<blockquote><p>
+  “That being said, footnotes can be fun when used sparingly. They lend themselves to the kind of personal anecdote common to the tech blogs I read. If you are going to use footnotes to break up your articles, <a href="http://www.512pixels.net/blog/2015/2/how-to-add-bigfootjs-to-your-squarespace-site">Bigfoot.js</a> is not a bad way to do it.”
+</p></blockquote>
+<p>Definitely. If you’re going to do footnotes, might as well do them with the best user experience possible.</p>
+<p>Thomas has had some really good posts lately. Before it expires off his home page, don’t miss the recent one on the <a href="http://eggfreckles.net/index.html#unique-entry-id-84">Newton MessagePad 2000</a>:</p>
+<blockquote><p>
+  “I doubt a 25-MHz ARM710 would have been very effective as a laptop replacement, and it the Newton engineering team knew it. That is why the MessagePad 2000 was simultaneously designed with two different CPU architectures and its own form of Universal binary.”
+</p></blockquote>
+<p>I couldn’t afford a MessagePad 2000 at the time, but I still have my MessagePad 130. Along with my original iPhone, I’ll never part with the Newton — a wonderful device to use and develop for that was way ahead of its time.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/04/footnotes-follow-up-and-the-newton.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>iOS 7 and UI debt</title>
+		<link>http://www.manton.org/2014/04/ios_7_and.html</link>
+		<comments>http://www.manton.org/2014/04/ios_7_and.html#comments</comments>
+		<pubDate>Tue, 29 Apr 2014 22:09:03 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[features]]></category>
+		<category><![CDATA[ios7]]></category>
+		<category><![CDATA[thirdparty]]></category>
+		<category><![CDATA[uikit]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/04/ios_7_and.html</guid>
+		<description><![CDATA[Jared Sinclair writes about iOS 7 as a squandered year for third-party developers: “Fast-forwarding a year, the effect that iOS 7 has had on third party development is disheartening — which sounds like a fatuous thing to say, since there have been so many well-liked redesigns over the past year. But that’s the rub: the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://blog.jaredsinclair.com/post/84237156390/ios-7-squandered-a-year-of-third-party-development-on">Jared Sinclair writes about iOS 7 as a squandered year</a> for third-party developers:</p>
+<blockquote><p>
+  “Fast-forwarding a year, the effect that iOS 7 has had on third party development is disheartening — which sounds like a fatuous thing to say, since there have been so many well-liked redesigns over the past year. But that’s the rub: the vast majority of third-party developers’ time has been spent redesigning and reimplementing apps to dress the part for iOS 7.”
+</p></blockquote>
+<p>I agree with Jared that it was a sort of lost year for app features, but <a href="http://inessential.com/2014/04/29/the_cost_of_ios_7">Brent also has a point</a>:</p>
+<blockquote><p>
+  “Jared argues that iOS 7 wasn’t urgent, that evolution rather than revolution would have been fine, since customer satisfaction was extremely high with iOS 6. In retrospect I agree, but were I at Apple I would have argued that the situation is like tech debt — UI debt — and it’s best to deal with it quickly, completely, and early.”
+</p></blockquote>
+<p>They had to deal with it all at once because UIKit’s look and feel didn’t really evolve the same way Mac OS X usually does, a little each year. Even Aqua, the most dramatic change ever to the Mac’s UI, was fairly straightforward for developers to adopt; if you stuck with consistent Mac controls, you got a lot for free. There was very little of that kind of consistency on iOS because developers frequently built their own custom UIs which had to be thrown out when iOS 7 happened.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/04/ios_7_and.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Tint color misuse</title>
+		<link>http://www.manton.org/2014/04/tint_color.html</link>
+		<comments>http://www.manton.org/2014/04/tint_color.html#comments</comments>
+		<pubDate>Thu, 17 Apr 2014 20:52:49 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[color]]></category>
+		<category><![CDATA[ios7]]></category>
+		<category><![CDATA[tint]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/04/tint_color_misuse.html</guid>
+		<description><![CDATA[It has been nearly a year since the first iOS 7 beta, and something about tint color still bugs me. In fact it bothered me enough at the time of the early betas that a filed a bug on it with Apple, something I very rarely do. The problem isn’t so much in the concept [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>It has been nearly a year since the first iOS 7 beta, and something about tint color still bugs me. In fact it bothered me enough at the time of the early betas that a filed a bug on it with Apple, something I very rarely do. The problem isn’t so much in the concept of tint color, which I like; having a consistent color for buttons and links, especially now that buttons are so understated, makes a lot of sense. The problem is the implementation in apps that use tint color anytime they want to highlight something, whether it is tappable or not.</p>
+<p>Here’s an example in Apple’s calendar app. It uses a red tint color for buttons, but it also highlights the current day with a round circle using the tint color. It looks tappable, but it’s not.</p>
+<p><img src="http://www.manton.org/images/2014/tint_calendar.png" width="600" height="200" alt="Calendar" style="padding-top: 10px; padding-bottom: 10px;" /></p>
+<p>And here’s an even worse example, from the App Store app. “Categories” in this screenshot is a button, but “Paid” directly underneath it — same blue, same font and style — is just highlighted to show that you are viewing paid apps. It’s actually “Top Grossing” that is the button.</p>
+<p><img src="http://www.manton.org/images/2014/tint_appstore.png" width="600" height="200" alt="App Store" style="padding-top: 10px; padding-bottom: 10px;" /></p>
+<p>These kind of usability mistakes turn the great potential of tint color into a disadvantage. It’s like underlined text on the web that can’t be clicked. Apps should use tint color to improve usability, not to become even more difficult to use than if everyone rolled their own button styles.</p>
+<p>Here’s what Apple’s <a href="https://developer.apple.com/library/ios/documentation/userexperience/conceptual/transitionguide/AppearanceCustomization.html">iOS 7 UI Transition Guide</a> says:</p>
+<blockquote><p>
+  “In iOS 7, tint color is a property of UIView. iOS 7 apps often use a tint to define a key color that indicates interactivity and selection state for UI elements throughout the app.”
+</p></blockquote>
+<p>But that’s not specific enough. The app screenshots above are following this rule, and it still looks wrong. Bold text or a gray background for highlights are much more effective to show selection state than tint color. I would completely avoid tint color for selection state except for controls that have 3 or more segments, such as a tab bar, and even then sparingly. Highlighting a 1- or 2-segment control with tint color is always going to be confusing, because the selected segment looks like it can be tapped.</p>
+<p>With this in mind, fixing the App Store app is a simple change:</p>
+<p><img src="http://www.manton.org/images/2014/tint_appstore2.png" width="600" height="200" alt="App Store" style="padding-top: 10px; padding-bottom: 10px;" /></p>
+<p>(You could make the “Top Grossing” button blue or not. I don’t think it’s necessary in this case.)</p>
+<p>The best iOS 7 apps I’ve seen follow the spirit of Apple’s guidelines, but they know when to push beyond Apple’s built-in apps and when to pull back and do less. Tint color seems like an obvious case of where we should be more consistent and strict than Apple intended.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/04/tint_color.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Layered glass</title>
+		<link>http://www.manton.org/2013/07/layered_glass.html</link>
+		<comments>http://www.manton.org/2013/07/layered_glass.html#comments</comments>
+		<pubDate>Fri, 12 Jul 2013 16:28:37 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[2d]]></category>
+		<category><![CDATA[glass]]></category>
+		<category><![CDATA[ios7]]></category>
+		<category><![CDATA[macworld]]></category>
+		<category><![CDATA[tweetbot]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/07/layered_glass.html</guid>
+		<description><![CDATA[Nate Barham describes iOS 7 as layered glass: “The best developers will see iOS as an operational model, not a visual one. Imagine a Tapbots app that, instead of removing the cute ‘I’m a twitter robot in your phone!’ aesthetic, doubles down on it. Zooming metal plates, ratcheting gears not shadowed from without but appearing [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://natebarham.com/post/53767446736/layered-glass-the-nothing-ui">Nate Barham describes iOS 7</a> as layered glass:</p>
+<blockquote><p>
+  “The best developers will see iOS as an operational model, not a visual one. Imagine a Tapbots app that, instead of removing the cute ‘I’m a twitter robot in your phone!’ aesthetic, doubles down on it. Zooming metal plates, ratcheting gears not shadowed from without but appearing from within the device, only now it isn’t a robot-esque layer over the stock controls, the UI becomes the character that the developer envisions—even more so than it has ever done before.”
+</p></blockquote>
+<p>I really like this post, but I’m not totally sold on the paragraph quoted above. Done right, it could be brilliant. But this is a very difficult thing to pull off, keeping the playful spirit of Tweetbot with a lighter, minimalist iOS 7 UI.</p>
+<p>And related, if you missed <a href="http://www.macworld.com/article/2043265/why-ios-7s-design-is-bold-but-flawed.html">Christa Mrgan’s recent Macworld essay</a>, she also covers how iOS 7 will use depth and motion to switch from “faux 3D to real 2.5D”, with an example from Adobe’s After Effects. Makes me wonder if designers will need new prototyping tools.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/07/layered_glass.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The $229, camera-less iPod Touch</title>
+		<link>http://www.manton.org/2013/05/the_229_cameraless.html</link>
+		<comments>http://www.manton.org/2013/05/the_229_cameraless.html#comments</comments>
+		<pubDate>Thu, 30 May 2013 14:09:11 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[camera]]></category>
+		<category><![CDATA[ipodtouch]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/05/the_229_cameraless.html</guid>
+		<description><![CDATA[Ahead of WWDC, Apple dropped the 4th-generation iPod Touch from their lineup and replaced it with a slimmed down $229 iPod Touch. To achieve this lower price, they made a big sacrifice: no rear-facing camera. Most surprising to me is that this change comes just weeks after the iPhone’s Photos Every Day commercial, one of [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Ahead of WWDC, Apple dropped the 4th-generation iPod Touch from their lineup and replaced it with <a href="http://www.macworld.com/article/2040300/apple-reveals-16gb-ipod-touch-with-no-rear-facing-camera.html">a slimmed down $229 iPod Touch</a>. To achieve this lower price, they made a big sacrifice: no rear-facing camera.</p>
+<p>Most surprising to me is that this change comes just weeks after the iPhone’s <a href="http://www.macstories.net/news/apple-airs-new-iphone-5-commercial-photos-every-day/">Photos Every Day</a> commercial, one of the most beautiful ad campaigns Apple has ever run. Removing the camera from the iPod Touch transforms it from a peer of the iPhone, capable of the same kind of photos and videos, to nothing more than a game and internet device. It is the only shipping iOS device that can’t be used as a traditional camera.</p>
+<p>As we know, people frequently use even the <em>iPad</em> as a camera, holding it up to take pictures at concerts, their kid’s basketball game, and at any family gathering. When all you have is a cheap phone, you absolutely want to use the iPad as a camera, because it means you can sync and share the photos.</p>
+<p>My daughters have the older, smaller-screen iPod Touch and frequently use the camera with friends. Instagram, in fact, has become very popular with teens and pre-teens. Can you imagine how great it would be to have grown up in the 1980s, for example, with the ability to take essentially unlimited photos? Angry Birds may have taken the mobile spotlight when iOS went mainstream, but in a dozen years when these games are just a fun memory, we’ll still have some of the JPEGs, first-hand accounts of life in middle school.</p>
+<p>I’m sure dropping the rear camera was a very tough decision for Apple, especially thinking about wanting more memory and speed to run iOS 7. But I’d rather have no FaceTime, slower CPU, less memory, and only 8 GB of storage any day of the week if it meant I could take photos. The rear camera is priceless.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/05/the_229_cameraless.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Design in grayscale</title>
+		<link>http://www.manton.org/2013/04/design_in_grayscale.html</link>
+		<comments>http://www.manton.org/2013/04/design_in_grayscale.html#comments</comments>
+		<pubDate>Tue, 09 Apr 2013 13:16:22 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[bootstrap]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[grayscale]]></category>
+		<category><![CDATA[web]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/04/design_in_grayscale.html</guid>
+		<description><![CDATA[Adam Keys has several tips for programmers, to make our web sites look better by keeping things simple. I often just use grayscale, too: “Most important: design in greyscale. Color is hard and can lead to tinkering. My goal is to get in and out of the front-end bits quickly, so tinkering is the enemy. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://therealadam.com/2013/04/08/web-design-for-busy-programmers/">Adam Keys has several tips for programmers</a>, to make our web sites look better by keeping things simple. I often just use grayscale, too:</p>
+<blockquote><p>
+  “Most important: design in greyscale. Color is hard and can lead to tinkering. My goal is to get in and out of the front-end bits quickly, so tinkering is the enemy. Greyscale is one dimensional, greatly simplifying matters. Give important information higher contrast and less important information or ‘chrome’ less contrast. Now you’re done thinking about color.”
+</p></blockquote>
+<p>These days I also start everything with <a href="http://twitter.github.io/bootstrap/">Bootstrap</a>, which adds great defaults for layout, buttons, and text. It makes everything looks better, right away. It’s not a replacement for a designer, but it does save hours (or days) of getting the basics up and running.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/04/design_in_grayscale.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Little Outliner</title>
+		<link>http://www.manton.org/2013/03/little_outliner.html</link>
+		<comments>http://www.manton.org/2013/03/little_outliner.html#comments</comments>
+		<pubDate>Tue, 26 Mar 2013 13:27:42 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[davewiner]]></category>
+		<category><![CDATA[frontier]]></category>
+		<category><![CDATA[outliners]]></category>
+		<category><![CDATA[s3]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/03/little_outliner.html</guid>
+		<description><![CDATA[Yesterday Dave Winer and Kyle Shank launched Little Outliner, an impressive JavaScript outliner that uses HTML5 local storage. It’s also completely hosted on S3: “Thanks to the W3C and to Werner Vogels (for persisting in getting the ability to access the root of a domain from an S3 bucket). As a result, we get unlimited [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Yesterday Dave Winer and Kyle Shank launched <a href="http://littleoutliner.com">Little Outliner</a>, an impressive JavaScript outliner that uses HTML5 local storage. It’s also <a href="http://threads2.scripting.com/2013/march/somethingTechiesWillAppreciate">completely hosted on S3</a>:</p>
+<blockquote><p>
+  “Thanks to the W3C and to Werner Vogels (for persisting in getting the ability to access the root of a domain from an S3 bucket). As a result, we get unlimited scaling with zero investment. Consider this an endorsement for both innovations.”
+</p></blockquote>
+<p>I used Frontier a lot back in the earlier days of the web, so I’m always looking out for what Dave does next. It’ll be fun to see what they build on top of this.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/03/little_outliner.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.280 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 13:37:04 -->

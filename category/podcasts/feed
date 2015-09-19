@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; Podcasts</title>
+	<atom:link href="http://www.manton.org/category/podcasts/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Marco&#8217;s mic review and the quality trade-off</title>
+		<link>http://www.manton.org/2015/09/marcos-mic-review-and-the-quality-trade-off.html</link>
+		<comments>http://www.manton.org/2015/09/marcos-mic-review-and-the-quality-trade-off.html#comments</comments>
+		<pubDate>Tue, 08 Sep 2015 20:48:44 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[macs]]></category>
+		<category><![CDATA[microphones]]></category>
+		<category><![CDATA[podcast]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3014</guid>
+		<description><![CDATA[Marco&#8217;s review of his favorite microphones is comprehensive. You can&#8217;t go wrong by following his advice. I recorded my first podcast 10 years ago, and Daniel and I are about to hit 200 episodes of Core Intuition, yet I still learned a few new things from reading Marco&#8217;s review. As with most things, though, it&#8217;s [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.marco.org/podcasting-microphones">Marco&#8217;s review of his favorite microphones</a> is comprehensive. You can&#8217;t go wrong by following his advice. I recorded my first podcast <a href="http://www.manton.org/2005/08/trains_podcast.html">10 years ago</a>, and Daniel and I are about to hit 200 episodes of <a href="http://coreint.org/">Core Intuition</a>, yet I still learned a few new things from reading Marco&#8217;s review.</p>
+<p>As with most things, though, it&#8217;s a personal choice too. Take this part:</p>
+<blockquote><p>
+  &#8220;If you’re just getting started with podcasting, a USB mic is good enough. If you’re established and looking to upgrade your production quality, or if you just love gear like me, you’ll likely find the jump to XLR worthwhile.&#8221;
+</p></blockquote>
+<p>I did the opposite of this. For years I used an XLR mic along with a chain of two additional audio devices: the M-Audio FireWire Solo for getting the audio into the Mac, and the PreSonus TubePRE preamp for boosting the signal. This produced a nice sound and gave me knobs to fiddle with, but the extra complexity was just not worth it. I now use a simple USB mic and prefer it. (It&#8217;s the Rode Podcaster, which gets a mediocre endorsement in Marco&#8217;s review.)</p>
+<p>This kind of &#8220;downgrading&#8221; is a common pattern with me and computers. I used to run a Mac Pro with 2 external Cinema Displays. Now I exclusively use a 13-inch retina MacBook Pro without a monitor.</p>
+<p>In both cases — Macs and microphones — I find the trade-off worth it. If I want to work from a coffee shop, it&#8217;s the same resolution display, so I don&#8217;t need to change how I use Xcode. If I travel and need to record a podcast, it&#8217;s the same as if I was home, so I don&#8217;t need to risk messing up my audio settings. You give up some performance and flexibility, but in exchange you get the simplicity of having the same setup no matter where you are. And best of all: no more cables all over my desk.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/09/marcos-mic-review-and-the-quality-trade-off.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Podcast interviews and the new Riverfold</title>
+		<link>http://www.manton.org/2015/09/podcast-interviews-and-the-new-riverfold.html</link>
+		<comments>http://www.manton.org/2015/09/podcast-interviews-and-the-new-riverfold.html#comments</comments>
+		<pubDate>Tue, 08 Sep 2015 18:49:29 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[cocoaconf]]></category>
+		<category><![CDATA[consulting]]></category>
+		<category><![CDATA[podcasts]]></category>
+		<category><![CDATA[wiitransfer]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3011</guid>
+		<description><![CDATA[I was interviewed for two podcasts recently. The first is the CocoaConf Podcast. Daniel Steinberg does a fantastic job of editing his show with a tight format, mixing together interviews and community news. We talked a lot about my new microblogging project and working on things that matter. I told the story of shutting down [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I was interviewed for two podcasts recently. The first is <a href="http://cocoaconf.com/podcast/14">the CocoaConf Podcast</a>. Daniel Steinberg does a fantastic job of editing his show with a tight format, mixing together interviews and community news.</p>
+<p>We talked a lot about my new microblogging project and working on things that matter. I told the story of shutting down my Mac app Wii Transfer to focus on other projects:</p>
+<blockquote><p>
+  &#8220;It was really popular. I remember when I shipped 2.0 it was one of my best sales days ever, probably <em>the</em> best sales day ever. But what I came to is that as neat as it was, as useful as it was for some people, in the big scheme of things — if you take 5 years out, 10 years out — that app just wasn&#8217;t that important. It was neat, but it&#8217;s time had come and gone.&#8221;
+</p></blockquote>
+<p>The other podcast I was on is a new one called <a href="http://consultpodcast.com/post/128140298572/episode-3-manton-reece-david-interviews-manton">Consult</a>. It&#8217;s an interview show all about consulting and client work. I had a good time chatting with host David Kopec about evolving Riverfold Software to <a href="http://www.riverfold.com/consulting/">include consulting</a> while at the same time expanding into a full-time indie business.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/09/podcast-interviews-and-the-new-riverfold.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Relay FM&#8217;s first year</title>
+		<link>http://www.manton.org/2015/08/relay-fms-first-year.html</link>
+		<comments>http://www.manton.org/2015/08/relay-fms-first-year.html#comments</comments>
+		<pubDate>Tue, 18 Aug 2015 15:21:34 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[5by5]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[podcasting]]></category>
+		<category><![CDATA[relay]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2957</guid>
+		<description><![CDATA[Casey Liss summarizes the excellent first year of new podcast network Relay FM: &#8220;Last year, I was deeply honored to be invited to be part of the launch shows on Relay. This year, I’m deeply honored to be a part of a network that not only airs some of the best spoken word programming on [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.caseyliss.com/2015/8/17/a-year-of-relay-fm">Casey Liss summarizes</a> the excellent first year of new podcast network Relay FM:</p>
+<blockquote><p>
+  &#8220;Last year, I was deeply honored to be invited to be part of the launch shows on Relay. This year, I’m deeply honored to be a part of a network that not only airs some of the best spoken word programming on the internet, but also cares so deeply about being more inclusive.&#8221;
+</p></blockquote>
+<p>Congratulations to all the podcast hosts, and of course to Relay founders Myke Hurley and Stephen Hackett. <a href="http://www.512pixels.net/blog/2015/8/how-im-spending-my-indie-time">Stephen posted</a> about how his time as an indie is going:</p>
+<blockquote><p>
+  &#8220;The hours break down about how I felt they would break down, with Relay FM taking up about half my time and everything else going down from there. I suspect that consulting number will shrink as I wrap up some stuff for my former employer, but for now, I think this balance works. It&#8217;s a decent reflection of where my income is, which is encouraging.&#8221;
+</p></blockquote>
+<p>Rewinding a few weeks, <a href="http://www.512pixels.net/blog/2015/8/whole-ass-one-thing">this is what he had to say</a> about the shift to indie work:</p>
+<blockquote><p>
+  &#8220;It’s profoundly surreal, but incredibly freeing, to be focused on my writing and podcasting full-time. There’s still lots to work out with budgets and time management and extra things I could take on, but it’s all under the category of <em>my</em> work. That’s what makes it so much fun, despite the unknowns.&#8221;
+</p></blockquote>
+<p>It&#8217;s fun to watch the rise of podcast networks. It has now been a little over 5 years since I <a href="http://www.manton.org/2010/02/5_by_5.html">first wrote about the 5by5 launch</a>. Daniel and I will probably keep <a href="http://coreint.org/">Core Intuition</a> independent forever, but I hope that the continued success of larger networks means that the overall podcast market is still growing.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/08/relay-fms-first-year.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Two weeks notice: Core Int 192</title>
+		<link>http://www.manton.org/2015/07/two-weeks-notice-core-int-192.html</link>
+		<comments>http://www.manton.org/2015/07/two-weeks-notice-core-int-192.html#comments</comments>
+		<pubDate>Fri, 31 Jul 2015 17:02:02 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[2weeks]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[vitalsource]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2928</guid>
+		<description><![CDATA[Continuing from last week’s Core Intuition, today Daniel and I talk more about how things are going with the final days of my job winding down. We then take the second half of the show to catch up on recent news around Twitter’s leadership. From the show notes: “Daniel and Manton acknowledge celebration as a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Continuing from last week’s Core Intuition, today Daniel and I talk more about how things are going with the final days of my job winding down. We then take the second half of the show to catch up on recent news around Twitter’s leadership.</p>
+<p>From the show notes:</p>
+<blockquote><p>
+  “Daniel and Manton acknowledge celebration as a survival tactic, discuss the urgency of making ends meet as an indie, and examine changes underway at Twitter with interim CEO Jack Dorsey.”
+</p></blockquote>
+<p>You can listen or subscribe at the <a href="http://coreint.org/192">Core Intuition web site</a>. Special thanks to returning sponsor <a href="http://cocoaconf.com/">CocoaConf</a>. They’ve got conferences coming up in Boston and San Jose, and then Yosemite National Park next year.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/07/two-weeks-notice-core-int-192.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Two weeks notice: Core Int 191</title>
+		<link>http://www.manton.org/2015/07/two-weeks-notice-core-int-191.html</link>
+		<comments>http://www.manton.org/2015/07/two-weeks-notice-core-int-191.html#comments</comments>
+		<pubDate>Sat, 25 Jul 2015 04:11:46 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[2weeks]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[fabric]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2887</guid>
+		<description><![CDATA[We just published Core Intuition 191, the first episode recorded since I resigned from my regular job. In a way, it feels like this episode was 7 years in the making. Although I clearly wasn’t about to go indie that long ago, the topics that we’ve chosen to discuss on the podcast over the years [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We just published <a href="http://coreint.org/191">Core Intuition 191</a>, the first episode recorded since I resigned from my regular job. In a way, it feels like this episode was 7 years in the making. Although I clearly wasn’t about to go indie that long ago, the topics that we’ve chosen to discuss on the podcast over the years have always followed that basic narrative: what can we do to improve our apps and business.</p>
+<p>And as I hinted about <a href="http://www.manton.org/2015/07/two-weeks-notice-podcast-revenue.html">earlier this week</a>, this episode also features the return of our sponsor Twitter to promote their Fabric suite of tools for developers, including Crashlytics and Answers. Great to have them back.</p>
+<p>From the show notes:</p>
+<blockquote><p>
+  “Manton and Daniel discuss Manton&#8217;s big decision to quit his job and go full-time indie. They also discuss the challenges of freeing up one&#8217;s mind to focus on work, the freedom of indie development, and the psychological benefits of a dedicated workplace.”
+</p></blockquote>
+<p>This is a milestone episode for me. I hope you enjoy it.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/07/two-weeks-notice-core-int-191.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Two weeks notice: podcast revenue</title>
+		<link>http://www.manton.org/2015/07/two-weeks-notice-podcast-revenue.html</link>
+		<comments>http://www.manton.org/2015/07/two-weeks-notice-podcast-revenue.html#comments</comments>
+		<pubDate>Tue, 21 Jul 2015 23:34:29 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[2weeks]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[slack]]></category>
+		<category><![CDATA[sponsors]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2873</guid>
+		<description><![CDATA[In my first post I framed the situation as pinning my indie hopes on two things: my own apps and client work. But as Daniel points out, I’ve actually lucked into several distinct revenue sources. And one of the most promising continues to be our Core Intuition podcast sponsorships and the companion jobs site. The [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.manton.org/2015/07/two-weeks-notice-the-first-weekend.html">In my first post</a> I framed the situation as pinning my indie hopes on two things: my own apps and client work. But <a href="http://bitsplitting.org/2015/07/20/full-time-indie/">as Daniel points out</a>, I’ve actually lucked into several distinct revenue sources. And one of the most promising continues to be our <a href="http://www.coreint.org/sponsorship/">Core Intuition podcast sponsorships</a> and the companion <a href="http://jobs.coreint.org/">jobs site</a>.</p>
+<p>The podcast got some good news over the weekend as we’re adding another long-term sponsor. We’ve had this company as sponsors in the past, and I’m looking forward to having them back and talking about how I use their products.</p>
+<p>Like software, revenue from Core Intuition comes in waves. Sometimes we’ll be booked up for months, other times there will be a drought of sponsors, so we’ll focus on pitching the jobs site instead. Sometimes we’ll get new job listings every day, other times a week will go by with nothing. Since we’re not actively marketing it as if it was a full-time business, we can’t count on any kind of consistency from it.</p>
+<p>It’s funny how the podcast worked out, though. We started it just because we thought it would be neat — because we thought we had something to share with the community, back in 2008 when there were very few developer podcasts. We added sponsorships to help justify the time and keep us to a weekly schedule. And now, ironically, the podcast that was <em>about</em> running an indie business will actually help me do just that.</p>
+<p>I’m so grateful to listeners new and old who have supported us. I received a bunch of nice “congrats!” emails and mentions on <a href="http://chat.coreint.org/">our Slack channels</a> yesterday. We’re approaching 200 episodes now, over 7 years, and I hope we can continue to keep the podcast interesting for some time to come.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/07/two-weeks-notice-podcast-revenue.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Core Int 180 and Slack</title>
+		<link>http://www.manton.org/2015/04/core-int-180-and-slack.html</link>
+		<comments>http://www.manton.org/2015/04/core-int-180-and-slack.html#comments</comments>
+		<pubDate>Sun, 19 Apr 2015 03:04:11 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[slack]]></category>
+		<category><![CDATA[swift]]></category>
+		<category><![CDATA[wwdc]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2579</guid>
+		<description><![CDATA[We posted this week&#8217;s Core Intuition late last night. This episode is all about WWDC tickets, our plan for San Francisco, and when we&#8217;re going to adopt Swift. We&#8217;re also trying something new for listeners, or anyone who wants to talk about programming, WWDC, and other Mac and iOS topics. You can get an automatic [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We posted <a href="http://coreint.org/180">this week&#8217;s Core Intuition</a> late last night. This episode is all about WWDC tickets, our plan for San Francisco, and when we&#8217;re going to adopt Swift.</p>
+<p>We&#8217;re also trying something new for listeners, or anyone who wants to talk about programming, WWDC, and other Mac and iOS topics. You can get an automatic invite to our Slack channels for the show by visiting <a href="http://chat.coreint.org/">chat.coreint.org</a>. Feel free to join in! I&#8217;ve been impressed with how well Slack works for this, and the great discussion that&#8217;s already happening there.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/04/core-int-180-and-slack.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Core Intuition 171</title>
+		<link>http://www.manton.org/2015/02/core-intuition-171.html</link>
+		<comments>http://www.manton.org/2015/02/core-intuition-171.html#comments</comments>
+		<pubDate>Fri, 06 Feb 2015 14:09:19 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2454</guid>
+		<description><![CDATA[On this week&#8217;s Core Intuition: &#8220;Daniel and Manton touch again on the subject of killing off apps, assess the effectiveness of protest movements against the App Store, catch up on the state of the art for appealing App Store rejections, and acknowledge the coming end of NSConference.&#8221; In this episode we talked about how I [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>On <a href="http://www.coreint.org/2015/02/episode-171-not-quite-the-right-protest/">this week&#8217;s Core Intuition</a>:</p>
+<blockquote><p>
+  &#8220;Daniel and Manton touch again on the subject of killing off apps, assess the effectiveness of protest movements against the App Store, catch up on the state of the art for appealing App Store rejections, and acknowledge the coming end of NSConference.&#8221;
+</p></blockquote>
+<p>In this episode we talked about how I was going to need to more formally appeal the <a href="http://sunlit.io/">Sunlit</a> 1.3 rejection, not just comment in the Resolution Center. But shortly after we recorded, the app magically went live in the store anyway. I was very happy to avoid making further coding changes, though I expect I&#8217;ll have to revisit this if the app is ever rejected again.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/02/core-intuition-171.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Core Intuition 169</title>
+		<link>http://www.manton.org/2015/01/core-intuition-169.html</link>
+		<comments>http://www.manton.org/2015/01/core-intuition-169.html#comments</comments>
+		<pubDate>Fri, 23 Jan 2015 14:00:19 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[clarion]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[sunlit]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2433.html</guid>
+		<description><![CDATA[Last night we published episode 169 of Core Intuition. As we&#8217;ve done on a couple recent episodes, we let this one run for an hour with a discussion of App Store revenue, sales charts, and progress on our own projects. Sunlit 1.3, the update I mention in the podcast, is complete now and submitted to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Last night we published <a href="http://www.coreint.org/2015/01/episode-169-shame-driven-development/">episode 169 of Core Intuition</a>. As we&#8217;ve done on a couple recent episodes, we let this one run for an hour with a discussion of App Store revenue, sales charts, and progress on our own projects. <a href="http://sunlit.io/">Sunlit</a> 1.3, the update I mention in the podcast, is complete now and submitted to Apple for review.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/01/core-intuition-169.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Core Intuition with Brent Simmons</title>
+		<link>http://www.manton.org/2014/10/core-intuition-with-brent-simmons.html</link>
+		<comments>http://www.manton.org/2014/10/core-intuition-with-brent-simmons.html#comments</comments>
+		<pubDate>Fri, 24 Oct 2014 13:03:34 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[brent]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[seattle]]></category>
+		<category><![CDATA[web]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2351.html</guid>
+		<description><![CDATA[Daniel and I welcomed Brent Simmons on the Core Intuition podcast this week. Here&#8217;s Brent on writing and the web as a guarantee of free speech: &#8220;The old web where I feel like more people saw the web as what I was talking about: as a unique and amazing invention in human history, a thing [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Daniel and I welcomed <a href="http://inessential.com/">Brent Simmons</a> on the <a href="http://coreint.org/160">Core Intuition podcast this week</a>. Here&#8217;s Brent on writing and the web as a guarantee of free speech:</p>
+<blockquote><p>
+  &#8220;The old web where I feel like more people saw the web as what I was talking about: as a unique and amazing invention in human history, a thing that can bring the 6 billion voices out into the open, to tell their stories and say what they&#8217;re going to say. That this thing is really something special, and it shouldn&#8217;t just be treated as a way for monetizing eyeballs and figuring out great new advances in interstitial ads. [&#8230;] We can&#8217;t lose sight of the opportunity this is. And if the story really is that the web exploded in the mid 90s and became a wonderful thing, and then stopped being that wonderful thing a little more than 20 years later&#8230; Then I couldn&#8217;t even bear that heartbreak.&#8221;
+</p></blockquote>
+<p>Hope you all enjoy the episode. It was great to have Brent on the show.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/10/core-intuition-with-brent-simmons.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 4.599 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 12:54:23 -->

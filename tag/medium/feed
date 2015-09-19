@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; medium</title>
+	<atom:link href="http://www.manton.org/tag/medium/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Evan Williams on indie web sites</title>
+		<link>http://www.manton.org/2015/09/evan-williams-on-indie-web-sites.html</link>
+		<comments>http://www.manton.org/2015/09/evan-williams-on-indie-web-sites.html#comments</comments>
+		<pubDate>Wed, 16 Sep 2015 17:09:38 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[evan]]></category>
+		<category><![CDATA[medium]]></category>
+		<category><![CDATA[openweb]]></category>
+		<category><![CDATA[permanence]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3030</guid>
+		<description><![CDATA[From a rough transcript of an interview with Evan Williams: &#8220;The idea won’t be to start a website. That will be dead. The individual website won’t matter. The Internet is not going to be about billions of people going to millions of websites. It will be about getting it from centralized websites.&#8221; I&#8217;m concerned about [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.forbes.com/sites/roberthof/2015/09/09/mediums-evan-williams-to-publishers-your-website-is-toast/">From a rough transcript</a> of an interview with Evan Williams:</p>
+<blockquote><p>
+  &#8220;The idea won’t be to start a website. That will be dead. The individual website won’t matter. The Internet is not going to be about billions of people going to millions of websites. It will be about getting it from centralized websites.&#8221;
+</p></blockquote>
+<p>I&#8217;m concerned about this. Evan is reading into the current rise of centralized services and thinking it&#8217;s more than a short-term trend. But I believe strongly that the open web will bounce back.</p>
+<p>Putting all of our writing in one place like Medium goes against our hope of <a href="http://www.manton.org/2012/07/permanence.html">permanence</a>, because there&#8217;s no guarantee Medium will be around in 20 years, and so all of that content will disappear from the internet if it fails. At least with independent sites and custom domain names we have a chance. We have control, so it&#8217;s in our hands to succeed or fail, not left to the whims of Silicon Valley startups.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/09/evan-williams-on-indie-web-sites.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Startup life and Medium</title>
+		<link>http://www.manton.org/2015/08/startup-life-and-medium.html</link>
+		<comments>http://www.manton.org/2015/08/startup-life-and-medium.html#comments</comments>
+		<pubDate>Thu, 27 Aug 2015 14:06:21 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[blogs]]></category>
+		<category><![CDATA[essays]]></category>
+		<category><![CDATA[medium]]></category>
+		<category><![CDATA[sanfrancisco]]></category>
+		<category><![CDATA[startups]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2976</guid>
+		<description><![CDATA[Pretty hilarious guide to San Francisco startup life from Padlet on Medium. Here&#8217;s just one small part: &#8220;Markets are chockablock with these desk+gym hybrids — standing desks, treadmill desks, cycling desks. This is why I feel bullish about my swimming desk idea — a big water tank with an infinity pool and a computer bolted on one side. Noise [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Pretty hilarious <a href="https://medium.com/@padlet/an-honest-guide-to-the-san-francisco-startup-life-6df13d23689">guide to San Francisco startup life</a> from Padlet on Medium. Here&#8217;s just one small part:</p>
+<blockquote><p>
+  &#8220;Markets are chockablock with these desk+gym hybrids — standing desks, treadmill desks, cycling desks. This is why I feel bullish about my swimming desk idea — a big water tank with an infinity pool and a computer bolted on one side. Noise cancelling scuba masks, snorkels, and fins come as standard equipment.&#8221;
+</p></blockquote>
+<p>I&#8217;ve been fascinated with Medium lately, and have cross-posted a couple recent posts <a href="http://medium.com/@manton">over there</a> to better understand it. Is it a blogging tool? Sort of. Is it a social network? Not exactly.</p>
+<p>While you can follow other users there, I find that even with the 100+ people I&#8217;m following, the posts I see on Medium are almost exclusively popular essays written by people I don&#8217;t know. They&#8217;re recommended enough that they show up in Medium&#8217;s daily emails, or on the home page, or linked from other blogs I read. But it&#8217;s like if you signed in to Twitter and only saw retweets.</p>
+<p>This may explain Medium&#8217;s design changes to encourage quick, microblog-like posts, in addition to full essays. Longer blog posts just aren&#8217;t written often enough to make for a meaningful social network.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/08/startup-life-and-medium.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Future-safe weblogs</title>
+		<link>http://www.manton.org/2015/08/future-safe-weblogs.html</link>
+		<comments>http://www.manton.org/2015/08/future-safe-weblogs.html#comments</comments>
+		<pubDate>Mon, 17 Aug 2015 18:24:00 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[github]]></category>
+		<category><![CDATA[medium]]></category>
+		<category><![CDATA[microblogs]]></category>
+		<category><![CDATA[scriptingnews]]></category>
+		<category><![CDATA[snippets]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2950</guid>
+		<description><![CDATA[It&#8217;s a common theme for Dave Winer to write about preserving our writing on the web. Today he outlines some criteria for judging whether a web host will last: &#8220;The concern is that the record we&#8217;re creating is fragile and ephemeral, so that to historians of the future, the period of innovation where we moved [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>It&#8217;s a common theme for Dave Winer to write about preserving our writing on the web. <a href="http://scripting.com/2015/08/17/criteriaForFuturesafety.html">Today he outlines some criteria</a> for judging whether a web host will last:</p>
+<blockquote><p>
+  &#8220;The concern is that the record we&#8217;re creating is fragile and ephemeral, so that to historians of the future, the period of innovation where we moved our intellectual presence from physical to electronic media will be a blank spot, with almost none of it persisting.&#8221;
+</p></blockquote>
+<p>I think about this in 2 parts. The first is publishing your weblog to your own domain name. This ensures that your writing doesn&#8217;t go away and links don&#8217;t break when your web host goes out of business, because you can copy your content somewhere else and map your domain to that new location.</p>
+<p>The second is some kind of host that will last forever. This is an unsolved problem. Hosting fees need to be paid, domain name registrations need to be renewed. It may be too big a leap to ever get there, but we could settle instead for better mirroring of content. I&#8217;d like to have my content mirrored automatically to GitHub Pages, for example, and maybe even Medium.</p>
+<p>Imagine the life of a printed book from the early 20th century that has now survived generations. How was this possible? Many copies must have been printed, because some will inevitably be lost or destroyed. And when a library or bookstore is closed, copies of the book must be transferred to a new location.</p>
+<p>This all follows naturally with a printed book, but to adopt the same pattern for digital works, we must go out of our way to create a system of mirroring and long-term storage that tries to match what happens in the real world automatically. It&#8217;s a great challenge.</p>
+<p>Unfortunately very little has changed on this topic since <a href="http://www.manton.org/2012/07/permanence.html">I wrote about permanence 3 years ago</a>. But we can change that. Open formats and auto-mirroring will be a key part of <a href="http://www.manton.org/2015/07/sneak-peek-screenshot.html">my new microblogging platform</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/08/future-safe-weblogs.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Medium as the new Twitter</title>
+		<link>http://www.manton.org/2015/03/medium-as-the-new-twitter.html</link>
+		<comments>http://www.manton.org/2015/03/medium-as-the-new-twitter.html#comments</comments>
+		<pubDate>Thu, 12 Mar 2015 13:00:59 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[blogs]]></category>
+		<category><![CDATA[medium]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2490</guid>
+		<description><![CDATA[Daniel Jalkut had some fun recently, exploring whether Medium’s improvements to posting are turning it into a next-generation Twitter: “Medium is now the most Twitter-like service on the web, was founded and is run by one of Twitter’s creators, and answers most of the gripes that people have had about Twitter over the years.” My [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://medium.com/@danielpunkass/seriously-medium-is-now-the-most-twitter-like-service-on-the-web-was-founded-and-is-run-by-one-of-93b0f0c09d05">Daniel Jalkut had some fun recently</a>, exploring whether Medium’s <a href="https://medium.com/the-story/a-less-long-more-connected-medium-c345db2d6a56">improvements to posting</a> are turning it into a next-generation Twitter:</p>
+<blockquote><p>
+  “Medium is now the most Twitter-like service on the web, was founded and is run by one of Twitter’s creators, and answers most of the gripes that people have had about Twitter over the years.”
+</p></blockquote>
+<p>My gut reaction to this was that Medium creates more problems than it solves. <a href="https://medium.com/@manton/not-progress-over-twitter-e2615d929ed3">In a reply</a> on Medium:</p>
+<blockquote><p>
+  “Medium is really interesting, and beautifully designed, but it’s not progress over Twitter unless you’re annoyed about the 140 character limit. It’s still totally centralized, has no API, and works against wanting to host and control our own content. Basically a step back for the open web. (Although I think there’s real value in mirroring content here.)”
+</p></blockquote>
+<p>Medium also feels like it wants to be a desktop experience right now. It’s not optimized for mobile in the way that Twitter has been from the beginning. There’s good stuff happening there, but I want to see more tools that encourage blogging instead.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/03/medium-as-the-new-twitter.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Typed.com and the state of blogging</title>
+		<link>http://www.manton.org/2015/02/typed-com-and-the-state-of-blogging.html</link>
+		<comments>http://www.manton.org/2015/02/typed-com-and-the-state-of-blogging.html#comments</comments>
+		<pubDate>Mon, 09 Feb 2015 11:22:01 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[blogs]]></category>
+		<category><![CDATA[medium]]></category>
+		<category><![CDATA[snippets]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[typed]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2468</guid>
+		<description><![CDATA[Typed.com from Realmac Software looks great. Set to launch later this year, crowdfunding for the project has already passed $67k. Ben Thompson wrote recently about how blogging has changed: “Twitter has replaced link-posts and comments, Instagram has replaced pictures, and Facebook has replaced albums and blogrolls; now Medium is seeking to replace the essay. None [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://realmacsoftware.com/blog/typed-indiegogo">Typed.com</a> from Realmac Software looks great. Set to launch later this year, crowdfunding for the project has already passed $67k.</p>
+<p>Ben Thompson wrote recently about <a href="http://stratechery.com/2015/bloggings-bright-future/">how blogging has changed</a>:</p>
+<blockquote><p>
+  “Twitter has replaced link-posts and comments, Instagram has replaced pictures, and Facebook has replaced albums and blogrolls; now Medium is seeking to replace the essay. None of this is a bad thing: literally <em>billions</em> more people now have a much simpler way to express themselves online thanks to the ease-of-use that is characteristic of any service that seeks to focus on one particularly aspect of communication, a big contrast to a blog’s ability to do anything and everything relatively poorly.”
+</p></blockquote>
+<p>It’s a good post, although I’d say that even if those changes aren’t “a bad thing”, they can have bad <em>consequences</em>. Medium is a beautifully designed site and there is some great writing published there. But if it discourages people from owning their own content and writing at their own domain name, then it is a step back for the web. The best use of Medium is to cross-post there, to expand your audience, but not as the primary location for your writing.</p>
+<p>If you’ve read between the lines on my posts <a href="http://www.manton.org/2014/09/defining-a-microblog-post.html">about microblogging</a> and <a href="http://www.manton.org/2014/10/return-to-open-apis.html">open APIs</a>, you may have guessed that I’ve also been working on a blog platform, although (I think) of a much different kind than Realmac’s Typed.com. I believe we need more blog platforms, not fewer. Accepting that Twitter and Facebook are the only way to publish online is like collapsing all the publishing systems down to a couple centralized tools. That approach is convenient in the short term but ultimately bad for the web.</p>
+<p>The best and most diverse writing on the web still happens on individually-owned blogs. It’s linked to from Twitter, but it originates on blogs. If you’re not blogging than your writing doesn’t have the reach, doesn’t have the permanence, doesn’t have the impact that it could have.</p>
+<p>And 2015 is going to be great for blogging. I’m looking forward to trying Typed.com and also sharing some of what I’ve been working on. If you want an early heads-up, <a href="http://eepurl.com/6vVvj">sign up on the announcement mailing list</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/02/typed-com-and-the-state-of-blogging.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 6.035 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 12:51:22 -->

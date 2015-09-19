@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; sync</title>
+	<atom:link href="http://www.manton.org/tag/sync/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Tweet Library 2.7 and promising features</title>
+		<link>http://www.manton.org/2015/01/tweet-library-2-7-and-promising-features.html</link>
+		<comments>http://www.manton.org/2015/01/tweet-library-2-7-and-promising-features.html#comments</comments>
+		<pubDate>Wed, 21 Jan 2015 17:55:45 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[releasenotes]]></category>
+		<category><![CDATA[sync]]></category>
+		<category><![CDATA[tweetlibrary]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2424.html</guid>
+		<description><![CDATA[Last year I wrote that I would be removing Tweet Library from the App Store at the end of December, and later said on Core Int and in a tweet that there would be one last update before the app is gone. It&#8217;s well into January and the old version is still for sale. I&#8217;m [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Last year I wrote that <a href="http://www.manton.org/2014/11/winding-down-my-twitter-apps.html">I would be removing Tweet Library from the App Store</a> at the end of December, and later said on <a href="http://www.coreint.org/2015/01/episode-168-motorola-68k-forever/">Core Int</a> and in <a href="https://twitter.com/tweetlibrary/status/536910542288338945">a tweet</a> that there would be one last update before the app is gone. It&#8217;s well into January and the old version is still for sale. I&#8217;m over a month behind schedule but still plan to release the updated version and stop selling the app.</p>
+<p>On the <a href="http://releasenotes.tv/88-theyre-still-your-babies/">latest Release Notes podcast</a> there was a great discussion about when to give up on an app that isn&#8217;t making money, including a mention of my plan with Tweet Library. Joe and Charles talked about why it&#8217;s usually such a bad idea to promise features before you ship, and whether there&#8217;s an obligation to give customers any updates at all.</p>
+<p>I pretty much agree with everything they said, but the upcoming Tweet Library 2.7 &#8220;features&#8221; are different. My goal with this release is for the app to be functional and stable for as long possible. I think the app needs better syncing of tweet collections to help future-proof it, to make it easier for customers to move between iOS devices when they upgrade their iPhone or iPad a year from now. For an app that is going away, I should do everything I can to make sure that a customer&#8217;s data is accessible and that import and export are as robust as possible.</p>
+<p>It&#8217;s a reasonable question to ask why I would spend so much time working on something that will essentially bring in no additional revenue. But while it won&#8217;t directly make any money, it probably helped convince some new customers to buy the app over the last month, and it will very likely reduce the support burden for the app over the following year.</p>
+<p>I also view it as a sort of parting &#8220;thank you&#8221; to my customers. It&#8217;s just the right thing to do to wrap up the app. <a href="http://www.panic.com/blog/the-future-of-unison/">Panic did the same thing</a> when they stopped selling Unison, releasing a major free update at the same time.</p>
+<p>If you&#8217;re interested in picking up a copy of Tweet Library before it&#8217;s too late, you can <a href="http://appstore.com/tweetlibrary">buy it on the App Store for $4.99</a>. The new version should ship in early February.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/01/tweet-library-2-7-and-promising-features.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>iCloud sync narrative</title>
+		<link>http://www.manton.org/2013/03/icloud_sync_narrative.html</link>
+		<comments>http://www.manton.org/2013/03/icloud_sync_narrative.html#comments</comments>
+		<pubDate>Thu, 28 Mar 2013 14:41:43 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[icloud]]></category>
+		<category><![CDATA[sync]]></category>
+		<category><![CDATA[yojimbo]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/03/icloud_sync_narrative.html</guid>
+		<description><![CDATA[Rich Siegel joins the discussion of iCloud syncing problems, adding the most technically comprehensive essay I’ve seen yet: “Corrupted baselines are another common obstacle. While attempting to deploy iCloud sync on Mac OS X 10.7, we ran into a situation in which the baseline (a reference copy of the synchronization data) would become corrupted in [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Rich Siegel joins the discussion of iCloud syncing problems, adding <a href="http://rms2.tumblr.com/post/46505165521/the-gathering-storm-our-travails-with-icloud-sync">the most technically comprehensive essay</a> I’ve seen yet:</p>
+<blockquote><p>
+  “Corrupted baselines are another common obstacle. While attempting to deploy iCloud sync on Mac OS X 10.7, we ran into a situation in which the <em>baseline</em> (a reference copy of the synchronization data) would become corrupted in various easily encountered situations. There is no recovery from a corrupted baseline, short of digging in to the innards of your local iCloud storage and scraping everything out, and there is no visible indication that corruption has occurred — syncing simply stops.”
+</p></blockquote>
+<p>I learned a lot by reading this. Also <a href="http://inessential.com/2013/03/27/why_developers_shouldnt_use_icloud_sy">check out the post from Brent Simmons</a> on why controlling your own web services is so important.</p>
+<p>Pretty sure we hit a tipping point in the <em>iCloud just doesn’t work</em> narrative this week. Whether that judgement is fair or not, Apple should drop everything to focus on making iCloud totally robust in time for WWDC. (And I say that even though I use neither Core Data nor iCloud, and probably never will.)</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/03/icloud_sync_narrative.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Replacements for Google Reader</title>
+		<link>http://www.manton.org/2013/03/replacements_for_google.html</link>
+		<comments>http://www.manton.org/2013/03/replacements_for_google.html#comments</comments>
+		<pubDate>Sat, 16 Mar 2013 16:30:07 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[rss]]></category>
+		<category><![CDATA[sync]]></category>
+		<category><![CDATA[tweetmarker]]></category>
+		<category><![CDATA[watermark]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/03/replacements_for_google.html</guid>
+		<description><![CDATA[With the success of Tweet Marker, several people suggested I should build a sync server for RSS. This was last year and earlier this year, before Google Reader officially shut down, but after it was clear that we needed something better. I jotted down some notes for a couple ideas but ultimately decided not to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>With the success of Tweet Marker, several people suggested I should build a sync server for RSS. This was last year and earlier this year, before Google Reader officially shut down, but after <a href="http://inessential.com/2013/02/11/rss_sync_apocalypse_preview">it was clear that we needed something better</a>. I jotted down some notes for a couple ideas but ultimately decided not to do it. I’ve already got my hands full with my current shipping products!</p>
+<p>Luckily many great developers are now on this. <a href="http://feedwrangler.net/">Feed Wrangler</a> from David Smith, hopes for a <a href="http://bitsplitting.org/2013/03/13/netnewswire-cloud/">possible NetNewsWire Cloud</a>, more <a href="https://twitter.com/shauninman/statuses/312187680832229377">interest in Fever</a>, and other established web apps like <a href="http://www.newsblur.com/">NewsBlur</a> and <a href="http://www.feedly.com/">Feedly</a>.  As Marco Arment said, this <a href="http://www.marco.org/2013/03/13/google-reader-sunset">could end up being a great thing</a> for innovation in blogs and RSS again.</p>
+<p>But just because I’m going to watch on the sidelines for the server sync part of RSS, doesn’t mean I’m going to completely skip building better RSS support into my own products. There’s a lot I’d like to do with client-side RSS support in Watermark.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/03/replacements_for_google.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Push-based sync</title>
+		<link>http://www.manton.org/2011/07/pushbased_sync.html</link>
+		<comments>http://www.manton.org/2011/07/pushbased_sync.html#comments</comments>
+		<pubDate>Fri, 01 Jul 2011 16:13:37 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[bookshelf]]></category>
+		<category><![CDATA[icloud]]></category>
+		<category><![CDATA[notes]]></category>
+		<category><![CDATA[push]]></category>
+		<category><![CDATA[sync]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2011/07/pushbased_sync.html</guid>
+		<description><![CDATA[&#8220;Guy English writes about iCloud&#8221;:http://kickingbear.com/blog/archives/202 and the magic glue (Push Notifications&#8217; persistent connection) that makes it work: &#8220;Each of these new features tickle the persistent &#8216;push&#8217; connection and trigger some action on the device. The short-form state may be transmitted immediately and set on any connected device within moments. Document syncing is likely to trigger [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>&#8220;Guy English writes about iCloud&#8221;:http://kickingbear.com/blog/archives/202 and the magic glue (Push Notifications&#8217; persistent connection) that makes it work:</p>
+<blockquote><p>&#8220;Each of these new features tickle the persistent &#8216;push&#8217; connection and trigger some action on the device. The short-form state may be transmitted immediately and set on any connected device within moments. Document syncing is likely to trigger a negotiation process to compare the state on any one device with The Truth stored on Apple servers and replace the document on the device with the latest revision &mdash; this has the advantage of limiting the window between syncing where conflicts are most likely to occur.&#8221;</p></blockquote>
+<p>Sync speed matters. The first note sharing server I built for VitalSource years ago assumed a lot of offline time, and despite &#8220;my blogging in 2007 that it was&#8221;:http://www.manton.org/2007/01/bookshelf_note_sharing.html &#8220;magic&#8221;, in practice it could take 5-10 minutes before all your computers got their act together to get a set of highlights completely synced. With that kind of lag, note edits might happen on a client in the meantime, so we remembered conflicts everywhere and had a UI for resolving them.</p>
+<p>Too complicated. The new system, recently rolled out in Bookshelf for iPhone and iPad, syncs so much more efficiently and quickly that conflicts don&#8217;t need the same emphasis. We can throw away a bunch of code and simplify the user interface.</p>
+<p>I&#8217;ve yet to do anything with iCloud except read the release notes and sit through a couple WWDC sessions, but we&#8217;re going to have a fantastic platform if it can deliver the same speed and reliability of Push Notifications. Guy&#8217;s post is the first I&#8217;ve seen to connect the dots, capturing how well-positioned Apple is to use this plumbing for all sorts of stuff.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2011/07/pushbased_sync.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Tweet Marker</title>
+		<link>http://www.manton.org/2011/06/tweet_marker.html</link>
+		<comments>http://www.manton.org/2011/06/tweet_marker.html#comments</comments>
+		<pubDate>Fri, 03 Jun 2011 13:53:04 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[heroku]]></category>
+		<category><![CDATA[sync]]></category>
+		<category><![CDATA[tweetlibrary]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[wwdc]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2011/06/tweet_marker.html</guid>
+		<description><![CDATA[So you want to sync the last-read tweet with all your different Twitter apps on iPhone, iPad, and Mac? Yeah, me too. While I hope to build a version of Tweet Library for other platforms, what I&#8217;d also love is to be able to switch between clients and know that each one will pick up [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>So you want to sync the last-read tweet with all your different Twitter apps on iPhone, iPad, and Mac? Yeah, me too. While I hope to build a version of Tweet Library for other platforms, what I&#8217;d also love is to be able to switch between clients and know that each one will pick up where I was last reading in the timeline.</p>
+<p>That&#8217;s why I&#8217;m introducing a new service for Twitter developers: &#8220;Tweet Marker&#8221;:http://tweetmarks.net/.</p>
+<p>I&#8217;ve already showed it off to a few developers, and if you&#8217;re writing a Twitter app I&#8217;d love for you to support it too. It will be baked into the next version of Tweet Library.</p>
+<p>There are still some unknowns (especially around whether I will need to ask for help to cover hosting costs), but I wanted to launch it now before WWDC so that other Twitter app developers meeting at the conference can give me feedback on the service. Tweet Marker has actually been running for months, and when an opportunity came along this week for a new logo (&#8220;thanks Alex!&#8221;:http://dribbble.com/solonsky), I knew it was past time to finish documenting the service and get it out.</p>
+<p>To be successful it needs at least 2 apps to support it (I&#8217;ll supply one of those). I&#8217;ve tried to solve all the other basic problems. It&#8217;s simple, fast, scalable on Heroku, and protected so that mischief-makers can&#8217;t tamper with tweet IDs.</p>
+<p>Send me an email or find me in person next week if you have any feedback.</p>
+<p><em>Update:</em> This post has been updated to reflect the service name change from Tweetmarks to Tweet Marker.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2011/06/tweet_marker.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.789 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:27:11 -->

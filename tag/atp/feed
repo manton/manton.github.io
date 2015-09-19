@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; atp</title>
+	<atom:link href="http://www.manton.org/tag/atp/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Core Intuition and ATP this week</title>
+		<link>http://www.manton.org/2015/09/core-intuition-and-atp-this-week.html</link>
+		<comments>http://www.manton.org/2015/09/core-intuition-and-atp-this-week.html#comments</comments>
+		<pubDate>Fri, 18 Sep 2015 20:25:57 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[appletv]]></category>
+		<category><![CDATA[atp]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[web]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3051</guid>
+		<description><![CDATA[On this week&#8217;s Core Intuition, Daniel and I spend the whole show talking about the Apple TV. The first half is about the Apple TV dev kit lottery, and the second half is about whether we need the web on our TVs. There&#8217;s also a good discussion on the Accidental Tech Podcast about this. Here&#8217;s [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>On <a href="http://coreint.org/198">this week&#8217;s Core Intuition</a>, Daniel and I spend the whole show talking about the Apple TV. The first half is about the Apple TV dev kit lottery, and the second half is about whether we need the web on our TVs.</p>
+<p>There&#8217;s also a good discussion on the Accidental Tech Podcast about this. Here&#8217;s <a href="https://overcast.fm/+CdR7CP78/1:15:38">an Overcast link about halfway into the episode</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/09/core-intuition-and-atp-this-week.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Twitter Flight follow-up</title>
+		<link>http://www.manton.org/2014/10/twitter-flight-follow-up.html</link>
+		<comments>http://www.manton.org/2014/10/twitter-flight-follow-up.html#comments</comments>
+		<pubDate>Sat, 25 Oct 2014 16:42:55 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[atp]]></category>
+		<category><![CDATA[crashlytics]]></category>
+		<category><![CDATA[fabric]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2353.html</guid>
+		<description><![CDATA[Mat Honan has a long article covering the Twitter Flight announcements. On understanding why Twitter acquired Crashlytics and MoPub: &#8220;Now, those acquisitions suddenly seem crucial. They form the backbone of Fabric—along with a new sign-on system called Digits (launching in 218 countries and 28 languages today). While tweets will remain Twitter’s foundation, this is a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.wired.com/2014/10/twitter-fabric-sdk/">Mat Honan has a long article</a> covering the Twitter Flight announcements. On understanding why Twitter acquired Crashlytics and MoPub:</p>
+<blockquote><p>
+  &#8220;Now, those acquisitions suddenly seem crucial. They form the backbone of Fabric—along with a new sign-on system called Digits (launching in 218 countries and 28 languages today). While tweets will remain Twitter’s foundation, this is a real strategy shift that’s in many ways similar to Google’s growth out of search.&#8221;
+</p></blockquote>
+<p>It&#8217;s interesting that one half of Twitter has so famously stepped on developers, but a new part of Twitter is emerging around Fabric with the opposite goal: make our life as developers easier so that we bundle the suite of Twitter frameworks into every app we build. This split in the company has allowed me to accept Crashlytics as a long-term sponsor of Core Intuition even as I criticize the &#8220;tweets&#8221; platform side of Twitter. They&#8217;ve done great work with Crashlytics and I happily use it in both <a href="http://www.riverfold.com/software/tweetlibrary/">Tweet Library</a> and <a href="http://sunlit.io/">Sunlit</a>.</p>
+<p>Also this week, Twitter replaced their &#8220;Rules of the Road&#8221; with a simplified <a href="https://dev.twitter.com/overview/terms/policy">Developer Policy</a>. I can&#8217;t tell if this is an improvement or not yet. It still has the 100,000 user token limit, among other restrictions. (As I write this I&#8217;m listening to <a href="http://atp.fm/episodes/88">ATP episode 88</a>, which includes more great discussion about this topic.)</p>
+<p>Digits is the surprise of the conference to me. It was impossible for a small company to do SMS verification on this scale before. I think it&#8217;s a new class of service with only CloudKit&#8217;s user accounts as possible direct competition, and even that only on iOS. Digits is going to be big.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/10/twitter-flight-follow-up.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 9.725 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 12:41:08 -->

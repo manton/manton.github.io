@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; rails</title>
+	<atom:link href="http://www.manton.org/tag/rails/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Doug Engelbart and the pace of change</title>
+		<link>http://www.manton.org/2013/07/doug_engelbart_and.html</link>
+		<comments>http://www.manton.org/2013/07/doug_engelbart_and.html#comments</comments>
+		<pubDate>Mon, 08 Jul 2013 18:05:13 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[deprecation]]></category>
+		<category><![CDATA[engelbart]]></category>
+		<category><![CDATA[ios7]]></category>
+		<category><![CDATA[marco]]></category>
+		<category><![CDATA[rails]]></category>
+		<category><![CDATA[winer]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/07/doug_engelbart_and.html</guid>
+		<description><![CDATA[Dave Winer writes about Doug Engelbart and the pace of changing computing systems: “If you want to get the most out of great developers like Engelbart, who are productive well into their 80s, you have to stop digging up the streets, moving the goalposts, bombing the cities, starting over just for the sake of starting [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://threads2.scripting.com/2013/july/engelbartWasSidelined">Dave Winer writes about Doug Engelbart</a> and the pace of changing computing systems:</p>
+<blockquote><p>
+  “If you want to get the most out of great developers like Engelbart, who are productive well into their 80s, you have to stop digging up the streets, moving the goalposts, bombing the cities, starting over just for the sake of starting over.”
+</p></blockquote>
+<p>While there’s certainly a time to <a href="http://www.marco.org/2013/06/11/fertile-ground">burn the forest for new growth and opportunity</a>, I have little patience for those developers who spend more time <a href="http://edgeguides.rubyonrails.org/4_0_release_notes.html">breaking old code than creating new value</a>. Maybe it’s a sign I’m getting old — that I’ve lost my taste for innovation at a technical low level — but I don’t look forward to rewriting all my working code again and again.</p>
+<p>Very little has changed in this regard since I wrote <a href="http://www.manton.org/2010/08/deprecation_mentality.html">a blog post about deprecation</a> in 2010, which (fittingly) also linked to Dave Winer.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/07/doug_engelbart_and.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Will paginate for food</title>
+		<link>http://www.manton.org/2009/01/will_paginate_for.html</link>
+		<comments>http://www.manton.org/2009/01/will_paginate_for.html#comments</comments>
+		<pubDate>Fri, 09 Jan 2009 20:19:57 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[plugins]]></category>
+		<category><![CDATA[rails]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2009/01/will_paginate_for.html</guid>
+		<description><![CDATA[As I mentioned in my &#8220;Rails rant last week&#8221;:http://www.manton.org/2009/01/rails_4_years_later.html, I have an unhealthy distrust for Rails plug-ins and monkey-patching gems. In addition to often breaking when you upgrade Rails, too many high-level abstractions can make it difficult to understand and debug the code later when things go wrong. For those reasons I will sometimes roll [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>As I mentioned in my &#8220;Rails rant last week&#8221;:http://www.manton.org/2009/01/rails_4_years_later.html, I have an unhealthy distrust for Rails plug-ins and monkey-patching gems. In addition to often breaking when you upgrade Rails, too many high-level abstractions can make it difficult to understand and debug the code later when things go wrong. For those reasons I will sometimes roll my own solution instead of using someone else&#8217;s. (As an aside, I rarely do this with Mac development, perhaps because I understand the internals of Mac frameworks much better than I do for the Rails core.)</p>
+<p>But I&#8217;ve just been so impressed with the &#8220;will_paginate&#8221;:http://wiki.github.com/mislav/will_paginate plug-in. It&#8217;s fast and there are no obvious compromises &mdash; good out-of-the-box defaults and enough hooks that it can be customized.</p>
+<p>If you are doing any Ruby on Rails work and haven&#8217;t checked it out yet, I think you&#8217;ll find that will_paginate is a very elegant solution to something every web app is going to need.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2009/01/will_paginate_for.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Rails 4 years later</title>
+		<link>http://www.manton.org/2009/01/rails_4_years.html</link>
+		<comments>http://www.manton.org/2009/01/rails_4_years.html#comments</comments>
+		<pubDate>Fri, 02 Jan 2009 23:45:00 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[hansson]]></category>
+		<category><![CDATA[php]]></category>
+		<category><![CDATA[rails]]></category>
+		<category><![CDATA[ruby]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2009/01/rails_4_years.html</guid>
+		<description><![CDATA[Blog archives don&#8217;t lie. It&#8217;s been nearly 4 years since I first &#8220;blogged about Ruby on Rails&#8221;:http://manton.org/2005/02/the_ruby.html. (Three years and 10 months, but I&#8217;m not patient enough to wait until February to post this.) Here&#8217;s a portion of what I said back then: &#8220;But the PHP people will switch, easily, and with the apparent momentum [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Blog archives don&#8217;t lie. It&#8217;s been nearly 4 years since I first &#8220;blogged about Ruby on Rails&#8221;:http://manton.org/2005/02/the_ruby.html. (Three years and 10 months, but I&#8217;m not patient enough to wait until February to post this.) Here&#8217;s a portion of what I said back then:</p>
+<blockquote><p>&#8220;But the PHP people will switch, easily, and with the apparent momentum of Ruby right now, maybe it&#8217;s already happening. Forget the enterprise for now. Rails is a perfect fit for anyone who develops for the web on its own terms, and the people behind apps like Basecamp, 43things, and the upcoming Odeo match that profile.&#8221;</p></blockquote>
+<p>In that time I&#8217;ve increase my use of Rails. At &#8220;VitalSource&#8221;:http://www.vitalsource.com/ we have a bunch of Xserves running Rails applications. Mac developers have embraced Rails in the form of &#8220;PotionStore&#8221;:http://www.potionfactory.com/potionstore. Cheap shared hosts have been replaced with virtual servers, &#8220;many&#8221;:http://www.railsmachine.com/ with an emphasis on Rails hosting.</p>
+<p>The community is huge now. What&#8217;s not to like?</p>
+<p>Plenty! Here are my top gripes about Ruby on Rails.</p>
+<p><em>Deployment</em>. Ask anyone &mdash; even its biggest fans &mdash; and they will complain about deploying Rails applications. This stems from two points: the overhead to initializing a Rails application, meaning multiple instances have to be fired up and ready, unlike PHP which can process a script at a moment&#8217;s notice; and the path of ever-changing deployment strategies littered with the corpses of FCGI, Mongrel, Passenger, Thin, and more.</p>
+<p><em>Upgrades</em>. Rails matured quickly and is constantly improving. That&#8217;s great for features, great for best practices, and great for a clean API. The downside is that methods and entire chunks of the framework are deprecated <em>and removed</em> every major release. Forget about backwards compatibility. If you aren&#8217;t reading the blogs and keeping up with the latest changes, you&#8217;ll pay a price when it comes time to upgrade your application.</p>
+<p><em>Attitude</em>. David Heinemeier Hansson and the Rails core team have been outspoken in their lack of concern for end users. It&#8217;s because Rails is not actually a product. It was released and is open source to benefit the community and to grow the framework, but average developers should have no misconception that anyone with Git commit access is looking out for their application. I have great respect for Hansson, as well as the other high-profile developers of Rails, but it helps set expectations to underscore that Rails is not a supported product.</p>
+<p><em>Java</em>. Developers new to Rails generally come from the two other most popular web development languages: PHP and Java. Many leaders in the community come from that latter group, some of whom I count among my friends. Chad Fowler, in his &#8220;interview with Pragmatic&#8221;:http://www.pragprog.com/podcasts/show/19, spoke to the baggage that developers bring to a new platform. I think some of this baggage from a more &#8220;serious&#8221; architecture is leading to new complex abstractions, such as Capistrano. Whether fair or not, I also largely blame the Java developers for using tabs-as-spaces, which is evil. ;-)</p>
+<p><em>Extensibility</em>. The Rails team wisely made a conscious effort to limit the number of features in the core of Rails, instead preferring new optional features to be implemented as gems or plug-ins. The problem is that there are limited hooks to extend the framework. Ruby is great at dynamically extending classes that weren&#8217;t designed with extensibility in mind, but there is no gaurantee that one plug-in&#8217;s monkey-patch will continue to work in future versions. Ironically, &#8220;merging Merb&#8221;:http://weblog.rubyonrails.org/2008/12/23/merb-gets-merged-into-rails-3 into Rails 3 will bring better supported APIs for plug-in authors while no doubt breaking a bunch of old stuff.</p>
+<p><em>Speed</em>. I put this one last because I don&#8217;t actually think it&#8217;s as big of a show-stopper as many people think. Still, it&#8217;s true that Ruby is one of the slowest languages out there, falling behind Python, Perl, PHP, Java, and enormously behind compiled languages. ActiveRecord is great, but it also makes developers lazy and requires tweaking the defaults to achieve the same performance as hand-rolled SQL. Projects like &#8220;Rails Metal&#8221;:http://weblog.rubyonrails.org/2008/12/20/performance-of-rails-metal look very cool, though, so that&#8217;s a good sign for the platform.</p>
+<p>Even with all these critiques, there is something special about Rails and I will continue to use it for many applications. But at the same time, any shame I used to have at using PHP is gone. <em>If I need to do something simple, I will use a simple solution.</em> As a sort of backlash against my frustrations with Rails, I built everything that powers Riverfold (order processing, admin interfaces, the &#8220;Wii Codes application&#8221;:http://wiitransfer.com/codes/ and Twitter services) off of PHP.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2009/01/rails_4_years.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Fancy-pants productivity</title>
+		<link>http://www.manton.org/2008/03/fancypants_productivity.html</link>
+		<comments>http://www.manton.org/2008/03/fancypants_productivity.html#comments</comments>
+		<pubDate>Fri, 14 Mar 2008 17:38:09 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[fancy]]></category>
+		<category><![CDATA[norbauer]]></category>
+		<category><![CDATA[pants]]></category>
+		<category><![CDATA[performance]]></category>
+		<category><![CDATA[productivity]]></category>
+		<category><![CDATA[rails]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2008/03/fancypants_productivity.html</guid>
+		<description><![CDATA[There are a few things in this post by &#8220;Ryan Norbauer&#8221;:http://notrocketsurgery.com/articles/2008/02/26/mention-in-wired-piece-on-37signals (via 37signals) that bother me. One is this idea that &#8220;code is meant to be read by humans first and computers only secondarily&#8221;. I understand what he is getting at, but even though I respect new advances in productivity, we have to be very [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>There are a few things in this post by &#8220;Ryan Norbauer&#8221;:http://notrocketsurgery.com/articles/2008/02/26/mention-in-wired-piece-on-37signals (via 37signals) that bother me. One is this idea that &#8220;code is meant to be read by humans first and computers only secondarily&#8221;. I understand what he is getting at, but even though I respect new advances in productivity, we have to be very careful to keep our core priorities. There&#8217;s a word for when the balance shifts away from the user and more to us as programmers: selfishness.</p>
+<p>Imagine two programs: one is ugly and hard to read, but it compiles and is bug-free; the other is beautiful and readable, and it also compiles and is bug-free. To the user they are identical. They both succeed.</p>
+<p>Now take those two and give them both identical beauty and readability, but accidentally break one so that it either does not compile or runs so horribly buggy and slow that it is useless to everyone. Writing code for other programmers to read isn&#8217;t enough. You have to start with code that works before you get all fancy-pants.</p>
+<p>This growing trend to raise beautiful code and programmer productivity above the performance or functionality of the final product is dangerous. The final product is what counts. Not how you build it, but what you&#8217;ve built: how it scales, how it performs, how it solves a particular problem.</p>
+<p>And sure, there are many times when I write slow, lazy code that doesn&#8217;t work well. But that&#8217;s a compromise you make when you have to meet a deadline, or because you aren&#8217;t sure how to optimize yet, not because you start out by deprecating user experience. If you believe Ryan, it sounds like there is a whole &#8220;movement&#8221; of programmers who toss any potential performance achievements out the window before they even get started.</p>
+<p>You can say that great products are complex, and so you need to focus attention on how the software is built and maintained. That is true. When I ported a large application from Carbon to Cocoa a few years ago I made the decision to do so because of future productivity.</p>
+<p>You can say that happy programmers create high-quality products. That is also true. When I am feeling most productive I am usually enjoying myself because the work environment I&#8217;m in is encouraging.</p>
+<p>But don&#8217;t put the <em>practice</em> of software development above the actual result, because to do so means you care more about writing code than solving problems.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2008/03/fancypants_productivity.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Rails on shared hosts</title>
+		<link>http://www.manton.org/2008/01/rails_on_shared.html</link>
+		<comments>http://www.manton.org/2008/01/rails_on_shared.html#comments</comments>
+		<pubDate>Thu, 10 Jan 2008 14:52:11 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[dhh]]></category>
+		<category><![CDATA[dreamhost]]></category>
+		<category><![CDATA[potionstore]]></category>
+		<category><![CDATA[rails]]></category>
+		<category><![CDATA[riverfold]]></category>
+		<category><![CDATA[ruby]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2008/01/rails_on_shared.html</guid>
+		<description><![CDATA[&#8220;David Heinemeier Hansson writes in detail&#8221;:http://www.loudthinking.com/posts/21-the-deal-with-shared-hosts on the problems with Rails in shared hosts: &#8220;Most Rails contributors are not big users of shared hosting and they tend to work on problems or enhancements that&#8217;ll benefit their own usage of the framework. You don&#8217;t have to have a degree in formal logic to deduce that work [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>&#8220;David Heinemeier Hansson writes in detail&#8221;:http://www.loudthinking.com/posts/21-the-deal-with-shared-hosts on the problems with Rails in shared hosts:</p>
+<blockquote><p>&#8220;Most Rails contributors are not big users of shared hosting and they tend to work on problems or enhancements that&#8217;ll benefit their own usage of the framework. You don&#8217;t have to have a degree in formal logic to deduce that work to improve life on shared hosting is not exactly a top priority for these people, myself included.&#8221;</p></blockquote>
+<p>Although I&#8217;ve been building Rails apps for a couple years, and will continue to do so, I made the choice with &#8220;Riverfold&#8221;:http://www.riverfold.com/ to go PHP-only so that I could deploy on inexpensive shared hosts and easily move my sites. Fact is, you need to dedicate a significant portion of your time to being a system administrator if you run a Rails site.</p>
+<p>I find the general &#8220;we don&#8217;t owe you anything&#8221; attitude in the Rails community off-putting. What it means is quite simple: Rails is not a product, despite what it might look like when you &#8220;visit the web site&#8221;:http://www.rubyonrails.com/. This is fine and consistent with the opinionated nature of Rails (which from a design perspective is what makes Rails excellent), but it also means that features like backwards compatibility are not just ignored but actively discouraged. The message this sends is that the core team values their own personal productivity over the productivity of the general Rails userbase.</p>
+<p>Also, make no mistake, the performance questions surrounding Rails are directly related to the web shared host issue. Rails can&#8217;t be hosted in the same way that PHP is hosted because it takes so long for a Rails application to be initialized, requiring dedicated long-running app instances and an ever-changing array of &#8220;best practice&#8221; solutions starting with mod_ruby to FCGI to Mongrel to &#8220;Thin&#8221;:http://code.macournoyer.com/thin/.</p>
+<p>My friends and &#8220;co-workers&#8221;:http://www.vitalsource.com/ are no doubt sick of me bashing Rails (see &#8220;this post on the priorities of the community&#8221;:http://www.manton.org/2007/09/rails_and_mac_dev.html), but I still admire Rails and do want to see these problems solved. I would love to use &#8220;PotionStore&#8221;:http://www.potionfactory.com/potionstore to power the Riverfold site, or to base my registration database and sales tracking in Rails.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2008/01/rails_on_shared.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Rails and Mac dev communities</title>
+		<link>http://www.manton.org/2007/09/rails_and_mac.html</link>
+		<comments>http://www.manton.org/2007/09/rails_and_mac.html#comments</comments>
+		<pubDate>Mon, 17 Sep 2007 18:11:11 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[c4]]></category>
+		<category><![CDATA[delicious]]></category>
+		<category><![CDATA[mac]]></category>
+		<category><![CDATA[rails]]></category>
+		<category><![CDATA[ruby]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/09/rails_and_mac.html</guid>
+		<description><![CDATA[&#8220;Damon Clinkscales has a write-up&#8221;:http://damonclinkscales.com/past/lone-star-charity-workshop-wrap-up/ of the Charity Workshop that took place before the Lone Star Ruby Conference in Austin a couple weekends ago. I skipped the conference and attended these tutorials instead, enjoying some great talks by Marcel Molina, Bruce Williams, and 6 other speakers all packed into 4 hours. I definitely picked up [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>&#8220;Damon Clinkscales has a write-up&#8221;:http://damonclinkscales.com/past/lone-star-charity-workshop-wrap-up/ of the Charity Workshop that took place before the Lone Star Ruby Conference in Austin a couple weekends ago. I skipped the conference and attended these tutorials instead, enjoying some great talks by Marcel Molina, Bruce Williams, and 6 other speakers all packed into 4 hours. I definitely picked up a few good tips on Ruby blocks and ActiveRecord, but I was not-so-secretly relieved that I didn&#8217;t attend the full conference.</p>
+<p>&#8220;Since brunch on Sunday&#8221;:http://www.flickr.com/photos/digitalnomad/1352583178/ after the conference, where I got to hear another wrap-up from co-workers, I&#8217;ve been thinking about why. Why did I sell my RailsConf ticket and book a flight to Chicago for C4 instead? Why skip a cheap Ruby conference practically in my own backyard? Why have I whittled my Ruby-themed blog subscriptions down to just a few from dozens?</p>
+<p>Now I know: it&#8217;s about the difference in the communities. The Mac developer community is all about building  unique apps, crafting an excellent user experience, and the &#8220;indie culture&#8221;:http://www.al3x.net/2007/08/c41-friday.html of building something small and useful. The Rails community by contrast seems focused on how few lines of code a controller method is. I&#8217;m lucky to work with people who care about that stuff, because it often does yield better applications, but I just don&#8217;t wake up in the morning excited about rewriting code, so why would I leave my family for a few days to hear someone talk about it?</p>
+<p>There are many kinds of programmers. People who have hacked their whole life, dropping out of school to sell software; traditional developers with a CS degree and big company background; and even fine arts majors who fell into programming by accident as a way to build web sites. Based on that background, or what direction their passion takes them, I believe there is a balance between joy for the <em>act of writing code</em> vs. the pride in <em>seeing the final product</em>, and each programmer leans to one way or the other.</p>
+<p>For Rails developers, at least many of the leaders in the industry who came from or were inspired by the extreme programming methodology and test-driven development, it&#8217;s the former: the art is found in the lines of code &#8212; how efficient can the logic be, how DRY, how RESTful.</p>
+<p>For Mac developers, not just the &#8220;Delicious Generation&#8221;:http://www.rogueamoeba.com/utm/posts/Article/DeliciousGeneration-2006-11-06-10-00 but old school Mac developers as well, it&#8217;s the latter: the art is how the final product looks and behaves &#8212; being inspired to build something simply because you used another application that was great.</p>
+<p>Cutting it this way allows me to see two things very clearly that were confusing before. It puts specifics to why I&#8217;ve drifted further away from the Rails cutting edge, and it explains why I get so annoyed with some of the newer crop of Mac developers who proclaim &#8220;bindings&#8221;:http://cocoadevcentral.com/articles/000080.php and garbage collection as beautiful gifts for programmer productivity even though they have no added value for the user experience.</p>
+<p>Rails is a great framework, and I will continue to enjoy switching gears to write web apps in between my Mac projects. But I&#8217;m not going to tune back into that community until there is an equal focus on the bigger picture as it impacts the user (more scaling, more UI best practices), or whatever the next big thing to hit web apps ends up being.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2007/09/rails_and_mac.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>RailsConf 2006</title>
+		<link>http://www.manton.org/2006/07/railsconf_2006.html</link>
+		<comments>http://www.manton.org/2006/07/railsconf_2006.html#comments</comments>
+		<pubDate>Thu, 20 Jul 2006 14:31:38 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[airport]]></category>
+		<category><![CDATA[conference]]></category>
+		<category><![CDATA[crud]]></category>
+		<category><![CDATA[rails]]></category>
+		<category><![CDATA[railsconf]]></category>
+		<category><![CDATA[rest]]></category>
+		<category><![CDATA[sketch]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2006/07/railsconf_2006.html</guid>
+		<description><![CDATA[I attended &#8220;RailsConf&#8221;:http://www.railsconf.org/ in Chicago last month. There&#8217;s a lot of excitement in the Rails community right now, and it was nice to be there for the first year before it explodes to the even bigger event that the conference will be next year when O&#8217;Reilly takes over. The talks were a mix of great [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img src="http://www.manton.org/images/2006/airport_man.jpg" width="143" height="296" alt="Airport sketch" hspace="10" vspace="10" align="right" /> I attended &#8220;RailsConf&#8221;:http://www.railsconf.org/ in Chicago last month. There&#8217;s a lot of excitement in the Rails community right now, and it was nice to be there for the first year before it explodes to the even bigger event that the conference will be next year when O&#8217;Reilly takes over.</p>
+<p>The talks were a mix of great to just okay. &#8220;Damon Clinkscales&#8221;:http://www.damonclinkscales.com/ provided a solid introduction to migrations, and even though he had previewed the talk for me the night before I still picked up some useful tips. I was finally able to hear first hand what a fantastic speaker &#8220;Mike Clark&#8221;:http://www.clarkware.com/cgi/blosxom is. James Duncan Davidson rounded out the weekend with a high-level &#8220;vision for deployments&#8221;:http://duncandavidson.com/essay/2006/06/webaspipe/. I also enjoyed presentations by &#8220;Paul Graham&#8221;:http://www.paulgraham.com/marginal.html, the music and brilliance of &#8220;Why&#8221;:http://redhanded.hobix.com/, the closing Rails core team panel, and of course &#8220;DHH on REST and embracing CRUD&#8221;:http://www.loudthinking.com/arc/000593.html. One of the nice things about open source is that soon after announcing the new ActiveResource framework, David checked in his code so you can immediately see &#8220;what he has been working on&#8221;:http://dev.rubyonrails.org/svn/rails/trunk/activeresource/ and play along.</p>
+<p>As I look back on the schedule, there were many talks I missed completely, so I&#8217;m looking forward to catching the audio or video of some of those. Still, you could get a lot out of the conference just by talking to people between or during sessions.</p>
+<p>While at the Austin airport, I filled a sketchbook page with random people waiting for the delayed flight. This man on the right was leaning against an abandoned ticket counter.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2006/07/railsconf_2006.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Mediocrity is the new application platform</title>
+		<link>http://www.manton.org/2006/03/mediocrity_is_the.html</link>
+		<comments>http://www.manton.org/2006/03/mediocrity_is_the.html#comments</comments>
+		<pubDate>Fri, 10 Mar 2006 03:41:13 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[ajax]]></category>
+		<category><![CDATA[browsers]]></category>
+		<category><![CDATA[flash]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[rails]]></category>
+		<category><![CDATA[ui]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2006/03/mediocrity_is_the.html</guid>
+		<description><![CDATA[Today marks the 4-year anniversary of this weblog. What better way to celebrate than with a discussion of web applications. Willie Abrams said in a recent Campfire chat: &#8220;Web applications automatically have sync.&#8221; He hits on the fundamental principle of web applications popularity, and of course that has always been true. But the difference now [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Today marks the 4-year anniversary of this weblog. What better way to celebrate than with a discussion of web applications.</p>
+<p><a href="http://www.angrylearner.com/">Willie Abrams</a> said in a recent Campfire chat: &#8220;Web applications automatically have sync.&#8221; He hits on the fundamental principle of web applications popularity, and of course that has always been true. But the difference now is that some web apps are actually <i>fast and usable too</i>. (Gasp!)</p>
+<p>The rise of rich web applications that seamlessly mix Flash or Ajax while still staying true to the roots of web architecture (REST design, open standards) has upset the traditional desktop market. I first wrote about this in <a href="http://www.manton.org/2005/12/todo_lists_and.html">&#8220;To-do lists and embracing the network&#8221;</a>, which was in a sense a subtle wake-up call to Mac developers: adapt to the always-on internet or any college drop-out with a shared server will obsolete your app after a few late nights of Rails hacking.</p>
+<p>But it frustrates me to see such praise given to web applications that, were they traditional, native apps, they&#8217;d be laughed away to obscurity or ignored. Ajax is a huge advancement, but that doesn&#8217;t mean that every application works well for the web. I&#8217;m sure Google engineers spent an incredible amount of work on <a href="http://www.techcrunch.com/2006/02/22/google-pages-released/">Google Pages</a>, but compare it to Apple&#8217;s iWeb and it becomes obvious how weak web application interfaces still are.</p>
+<p>Luckily some people are working through the really tough problems. <a href="http://spaces.msn.com/rayozzie/blog/cns!FB3017FBB9B2E142!285.entry">Ray Ozzie&#8217;s Live Clipboard</a> may be the start of a whole new shift in web app functionality, allowing data to move between web sites and even out of the browser. But true drag-and-drop of structured data between a native app and a web site is still a long way off.</p>
+<p>Let&#8217;s make some lists, starting with the good.</p>
+<ul>
+<li>Good web applications are data-driven, multiuser, and use URLs everywhere.</li>
+<li>There is some key component that is about the <i>browsing experience</i>. That might be sifting through large amounts of data, viewing old logs, finding people.</li>
+<li>The kind of data requires an adaptable user interface, not something with a strict set of traditional widgets. HTML is perfect for this.</li>
+</ul>
+<p>On the other side are web applications that might be built by a team of smart people and with a great technology backend, but the application concepts are confused. They don&#8217;t know if they belong in a web browser or on the desktop.</p>
+<ul>
+<li>Mediocre web applications think that a single web browser window is an entire windowing system with movable child windows.</li>
+<li>No features that actually have anything to do with the web. The result is that it <i>adds no value</i> to the web as a whole.</li>
+<li>Trying to replace the whole Microsoft Office suite.</li>
+</ul>
+<p>Something else is changing in the HTML/CSS/JavaScript platform. In 2004, <a href="http://www.joelonsoftware.com/articles/APIWar.html">Joel Spolsky wrote</a> about how instead of picking Mac, Windows, or Linux APIs, developers are building for the web platform and can deploy to any user&#8217;s desktop. Cutting-edge web applications push that claim to its breaking point, as differences between Safari, Mozilla, and Internet Explorer often cause headaches for developers. It&#8217;s no surprise when Microsoft&#8217;s set of Office Live applications require Internet Explorer, but it <i>is</i> note-worthy when Google&#8217;s chat interface does not work in Safari. There is now a whole set of web applications that require the latest version of Mozilla and won&#8217;t work in anything less.</p>
+<p>Five years ago we accepted that web applications were going to be useful but ultimately unfulfilling, joyless experiences. Now most web apps have risen from bad to simply mediocre. The truly great ones have a foundation and design that would still be unrivaled in a desktop app. These amazing apps are not content to reimplement an old application as a web app just to allow use from any machine, but they take it to the next step: rethink the problem, stay agile, and redesign so that it&#8217;s not just web-based, but it&#8217;s <i>actually better</i>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2006/03/mediocrity_is_the.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Austin on Rails</title>
+		<link>http://www.manton.org/2006/02/austin_on_rails.html</link>
+		<comments>http://www.manton.org/2006/02/austin_on_rails.html#comments</comments>
+		<pubDate>Thu, 23 Feb 2006 03:45:32 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[austin]]></category>
+		<category><![CDATA[frogdesign]]></category>
+		<category><![CDATA[rails]]></category>
+		<category><![CDATA[sxsw]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2006/02/austin_on_rails.html</guid>
+		<description><![CDATA[About 20 people met at the Frog Design building downtown a few months ago for the first Austin Ruby on Rails user group meeting, and by the third meeting that number had doubled. Founders Damon, Robert Rasmussen, and Rob Jones have done a great job getting the group off the ground and lining up interesting [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img src="http://www.manton.org/images/2006/rails_backroom.jpg" border="0" height="154" width="200" alt="Rails meeting photo" align="right" style="border: solid 1px gray;" hspace="10" vspace="10" title="More chairs for the back of the room" /> About 20 people met at the Frog Design building downtown a few months ago for the first <a href="http://www.austinonrails.org/">Austin Ruby on Rails</a> user group meeting, and by the third meeting that number had doubled. Founders <a href="http://www.damonclinkscales.com/">Damon</a>, Robert Rasmussen, and <a href="http://www.nonewmessages.com/">Rob Jones</a> have done a great job getting the group off the ground and lining up interesting topics.</p>
+<p>Last night was our fourth meeting. <a href="http://weblogs.java.net/blog/batate/">Bruce Tate</a> gave a talk on his experience ramping up a Rails team and comparisons to the Java world. As a new experiment on the agenda, afterwards some of us stuck around to hack together a member directory for the web site. I didn&#8217;t actively participate in the coding efforts, but I had a good time meeting new people. As usual, it was all followed by drinks at Hickory Street Bar &amp; Grill, where topics of discussion ranged from refactoring to Perl to C++ windowing toolkits to AppleGuide. You know there&#8217;s some real substance to Rails when it brings together such a diverse group.</p>
+<p>Also just announced: the <a href="http://www.austinonrails.org/articles/2006/02/21/austin-on-rails-happy-hour-at-sxsw">Rails Happy Hour at SXSW</a>. Should be fun.</p>
+<p><center><img src="http://www.manton.org/images/2006/bruce_tate.jpg" border="0" height="158" width="400" alt="Bruce Tate photo" style="border: solid 1px gray;" title="Bruce Tate answers questions after his presentation" /><br /><i>Bruce Tate answers questions after his presentation</i></center></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2006/02/austin_on_rails.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 7.738 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:18:29 -->

@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; books</title>
+	<atom:link href="http://www.manton.org/tag/books-2/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Footnotes</title>
+		<link>http://www.manton.org/2015/03/footnotes.html</link>
+		<comments>http://www.manton.org/2015/03/footnotes.html#comments</comments>
+		<pubDate>Tue, 31 Mar 2015 15:28:15 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[books]]></category>
+		<category><![CDATA[footnotes]]></category>
+		<category><![CDATA[javascript]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2516</guid>
+		<description><![CDATA[Stephen Hackett recently linked to the footnote JavaScript library Bigfoot.js: “It works great on devices of all sizes and makes reading a long article much easier, as you don’t get bumped to the bottom of the article and back up to the top just to read a witty comment.&#8221; You know what else makes a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.512pixels.net/blog/2015/2/how-to-add-bigfootjs-to-your-squarespace-site">Stephen Hackett recently linked to</a> the footnote JavaScript library Bigfoot.js:</p>
+<blockquote><p>
+  “It works great on devices of all sizes and makes reading a long article much easier, as you don’t get bumped to the bottom of the article and back up to the top just to read a witty comment.&#8221;
+</p></blockquote>
+<p>You know what else makes a long article easier to read? <em>Fewer footnotes.</em></p>
+<p>This trend of footnotes in blog posts is out of control. Maybe a couple footnotes work well in a very long <a href="http://daringfireball.net/">Daring Fireball</a> essay, but in recent years bloggers are using footnotes everywhere in places where they&#8217;re just not necessary. They’re distracting and take you out of the story.</p>
+<p>(Also remember, no amount of JavaScript footnote wizardly will help when I read your article in most web-based RSS readers. If I want to read the footnote right away, I’ll have to scroll down and then scroll back.)</p>
+<p>I avoid footnotes in my writing. Often the same effect can be achieved with simple parenthesis. If parenthesis don’t fit well, entire extra paragraphs are also much more readable. And if it can’t be conveyed without footnotes, maybe the text should be cut out completely, if it is of so little importance to be relegated to the bottom of the article.</p>
+<p>Footnotes are appropriate in two cases: either as true side notes, with facts or sources that can be looked at later, independently of the main writing; or for a particular style of writing, such as Bill Simmons’ <a href="http://www.amazon.com/gp/product/0345520106?tag=mantonorg">Book of Basketball</a>, which often goes off on long tangents and has footnotes on every page. (No small feat because the book is over 700 pages.)</p>
+<p>In this rant I’m not trying to criticize anyone in particular. I read several authors who use footnotes frequently and I love their writing. But that doesn’t mean everyone should adopt that style without making sure it actually fits the context. Consider whether footnotes in blogs might be a fad, and if so, that it’s a writing challenge to find another way.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/03/footnotes.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Future Library</title>
+		<link>http://www.manton.org/2014/09/the-future-library.html</link>
+		<comments>http://www.manton.org/2014/09/the-future-library.html#comments</comments>
+		<pubDate>Sat, 06 Sep 2014 14:37:24 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[books]]></category>
+		<category><![CDATA[forest]]></category>
+		<category><![CDATA[hosting]]></category>
+		<category><![CDATA[library]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2237.html</guid>
+		<description><![CDATA[The Future Library project will collect writing to be locked away and published for the first time in 100 years: &#8220;Each year, the Future Library trust, made up of literary experts – and Paterson, while she&#8217;s alive – will name another &#8216;outstanding&#8217; writer who will be contributing to the artwork. The trust is also responsible [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.theguardian.com/books/2014/sep/05/margaret-atwood-new-work-unseen-century-future-library">The Future Library project</a> will collect writing to be locked away and published for the first time in 100 years:</p>
+<blockquote><p>
+  &#8220;Each year, the Future Library trust, made up of literary experts – and Paterson, while she&#8217;s alive – will name another &#8216;outstanding&#8217; writer who will be contributing to the artwork. The trust is also responsible for the maintenance of the forest, and for ensuring the books are printed in a century&#8217;s time. A printing press will be placed in the library to make sure those in charge in 2114 have the capability of printing books on paper.&#8221;
+</p></blockquote>
+<p>Love this idea. Although for a different goal, I think we need a similar set of trusts to maintain electronic publishing. Domain names and hosting are much more fragile than the paper Margaret Atwood will print her story on for this project.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/09/the-future-library.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Journals</title>
+		<link>http://www.manton.org/2012/07/journals.html</link>
+		<comments>http://www.manton.org/2012/07/journals.html#comments</comments>
+		<pubDate>Fri, 27 Jul 2012 17:58:48 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[books]]></category>
+		<category><![CDATA[journals]]></category>
+		<category><![CDATA[kids]]></category>
+		<category><![CDATA[life]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2012/07/journals.html</guid>
+		<description><![CDATA[Steve Corona on keeping a journal: “And for the past 1091 days, I’ve been journaling every single day — that’s about 3 years or 12% of my entire life. My only regret? I wish I started sooner.” When I was younger, I had tried off and on to keep a sketchbook or journal, but it [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Steve Corona <a href="http://stevecorona.com/on-keeping-a-journal">on keeping a journal</a>:</p>
+<blockquote><p>
+  “And for the past 1091 days, I’ve been journaling every single day — that’s about 3 years or 12% of my entire life. My only regret? I wish I started sooner.”
+</p></blockquote>
+<p>When I was younger, I had tried off and on to keep a sketchbook or journal, but it never quite stuck. Like blogging, or writing, or drawing, or anything you aren&#8217;t paid to do, it takes setting a routine. There&#8217;s always something more important to do.</p>
+<p><a href="http://instagr.am/p/Kf0zpaCbwH/"><img src="http://distilleryimage7.s3.amazonaws.com/5931b2b29b9b11e1abb012313813106f_7.jpg" width="150" height="150" align="right" style="border: 1px solid darkgray; margin: 8px;" alt="journals" /></a> Then in 1998, I started a journal again with a renewed commitment. I filled a book from that day up until I got married. Then another book through when my daughters were born. Another for the first 10 years of their life, and my son&#8217;s. The travel, the big life moments, the election, the work. It&#8217;s not everything — sometimes the entries are every day and sometimes months go by with nothing — but it&#8217;s the stuff that matters, and the snapshots in time of little everyday things too.</p>
+<p>I would be devastated to lose these books. Open the pages and it rolls back the years like a time machine, to a previous life full of small details that are priceless today. I&#8217;m writing the books half for my terrible fading memory, and half for my children, who will only care what these years have been like when it&#8217;s too late to ask me.</p>
+<p>So I&#8217;ve recently started transcribing the handwritten entries into digital form. One page at a time, into <a href="http://dayoneapp.com/">Day One</a>, then exported as plain text. It&#8217;s a long and tedious process, but multiple copies are the only sure way to make something last.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2012/07/journals.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Permanence</title>
+		<link>http://www.manton.org/2012/07/permanence.html</link>
+		<comments>http://www.manton.org/2012/07/permanence.html#comments</comments>
+		<pubDate>Fri, 20 Jul 2012 19:31:02 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[books]]></category>
+		<category><![CDATA[europe]]></category>
+		<category><![CDATA[internet]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2012/07/permanence.html</guid>
+		<description><![CDATA[Nothing lasts on the internet. I could write on my weblog for years and the next day get hit by a bus. The domain expires, the posts are lost, and it doesn&#8217;t matter if I had 10 readers or 10,000; it&#8217;s as if it never happened. I love real books. I keep flirting with attempts [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Nothing lasts on the internet. I could write on my weblog for years and the next day get hit by a bus. The domain expires, the posts are lost, and it doesn&#8217;t matter if I had 10 readers or 10,000; it&#8217;s as if it never happened.</p>
+<p>I love real books. I keep flirting with attempts to catalog our bookshelves over the years. My daughter offered to help once, excited through the first hundred books before she realized the rest would take all day and lost interest.</p>
+<p>Some people say “good riddance” to the cheap printed book, but I don&#8217;t agree. Recently in our house I found a paperback of an old favorite, <a href="http://www.amazon.com/Tigana-Guy-Gavriel-Kay/dp/0451457765">Tigana</a>, which I had bought while traveling in Europe. Inside the cover I had written “Oxford, 1999”. I flipped through the pages and out fell a wine label that I hadn&#8217;t seen in 13 years. It was from a bottle of wine my wife and I had in Greece, sitting on the sand of an island beach the night I proposed.</p>
+<p>I had kept it back then because I knew years later it would matter — a memory fused into a piece of paper, waiting. That trip was a story told in events like that one, in personal journals, and through email to family. The digital parts of the story didn&#8217;t last; <a href="http://www.manton.org/2002/07/yahoo_mail.html">the email is gone</a>.</p>
+<p>Write on Twitter and it vanishes from the internet after 3200 more such posts, unlinked and unfindable. But write the same on a scrap of paper tucked into a book and it will be rediscovered again years later.</p>
+<p>A self-published novel in PDF on your web site is a ticking time bomb, waiting for your hosting bill to go unpaid. But print 10 copies and give it to 10 friends and it lasts forever.</p>
+<p>The only way to preserve something is to make multiple copies and distribute them. The problem with digital is that it makes it just as easy to accidentally delete or lose copies as it is to create them. Evolving file formats and storage devices require constant supervision and maintenance, pushing files up each technology bump from floppies to CDs to Zip disks to DVDs to hard drives. It never ends.</p>
+<p>We need to solve this. It&#8217;s something <a href="http://scripting.com/stories/2011/01/10/nytOnFuturesafeArchives.html">Dave Winer has written about</a>. It&#8217;s something anyone with a large collection of writing online probably thinks about. How do we preserve the culture and art and stories of our time when the preferred media is so fragile?</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2012/07/permanence.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Linchpin</title>
+		<link>http://www.manton.org/2010/09/linchpin.html</link>
+		<comments>http://www.manton.org/2010/09/linchpin.html#comments</comments>
+		<pubDate>Tue, 14 Sep 2010 17:18:24 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[books]]></category>
+		<category><![CDATA[sethgodin]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2010/09/linchpin.html</guid>
+		<description><![CDATA[I like &#8220;Seth Godin&#8221;:http://sethgodin.typepad.com/. I haven&#8217;t read all his books, but I really enjoyed &#8220;The Dip&#8221;:http://www.amazon.com/gp/product/1591841666?ie=UTF8&#38;tag=mantonorg&#38;linkCode=as2&#38;camp=1789&#38;creative=390957&#38;creativeASIN=1591841666 and &#8220;Tribes&#8221;:http://www.amazon.com/gp/product/1591842336?ie=UTF8&#38;tag=mantonorg&#38;linkCode=as2&#38;camp=1789&#38;creative=390957&#38;creativeASIN=1591842336. They were quick reads (I got the first on audio, the other in print). He seemed to crack the problem of getting a business book down to its core idea and not using any more pages than [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I like &#8220;Seth Godin&#8221;:http://sethgodin.typepad.com/. I haven&#8217;t read all his books, but I really enjoyed &#8220;The Dip&#8221;:http://www.amazon.com/gp/product/1591841666?ie=UTF8&amp;tag=mantonorg&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1591841666 and &#8220;Tribes&#8221;:http://www.amazon.com/gp/product/1591842336?ie=UTF8&amp;tag=mantonorg&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1591842336. They were quick reads (I got the first on audio, the other in print). He seemed to crack the problem of getting a business book down to its core idea and not using any more pages than needed.</p>
+<p>So it surprised me when I picked up his latest, &#8220;Linchpin&#8221;:http://www.amazon.com/gp/product/1591843162?ie=UTF8&amp;tag=mantonorg&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1591843162, and months later I&#8217;m still not even halfway through. There&#8217;s nothing wrong with the content; I like what I&#8217;ve read so far. But it doesn&#8217;t flow the same way his other writing does, and at twice as long it doesn&#8217;t have the same structure.</p>
+<p>Finally I realized I was doing it wrong. The best way to approach Linchpin is non-sequentially. Now I just jump to any random page, read a few profiles for the people and companies he uses as examples, and then 5 minutes later put it down again. I get just as much out of the book, but without the guilt of staring at the remainder of unfinished pages.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2010/09/linchpin.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Kindle</title>
+		<link>http://www.manton.org/2007/11/kindle.html</link>
+		<comments>http://www.manton.org/2007/11/kindle.html#comments</comments>
+		<pubDate>Mon, 26 Nov 2007 15:10:41 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[amazon]]></category>
+		<category><![CDATA[books]]></category>
+		<category><![CDATA[kindle]]></category>
+		<category><![CDATA[vitalsource]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/11/kindle.html</guid>
+		<description><![CDATA[All we do at &#8220;VitalSource&#8221;:http://www.vitalsource.com/ is e-books, from working with publishers on converting their content to our format, to managing the delivery of digital files and building the web-based infrastructure to support it, and finally to designing and coding the Mac and Windows applications for reading and annotating books. My &#8220;Kindle&#8221;:http://www.amazon.com/Kindle-Amazons-Wireless-Reading-Device/dp/B000FI73MA arrived on Tuesday, the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>All we do at &#8220;VitalSource&#8221;:http://www.vitalsource.com/ is e-books, from working with publishers on converting their content to our format, to managing the delivery of digital files and building the web-based infrastructure to support it, and finally to designing and coding the Mac and Windows applications for reading and annotating books. My &#8220;Kindle&#8221;:http://www.amazon.com/Kindle-Amazons-Wireless-Reading-Device/dp/B000FI73MA arrived on Tuesday, the day after it was released, and here are my initial thoughts after using it over the Thanksgiving weekend.</p>
+<p><em>Out-of-box experience.</em> Amazon really nailed the first-use experience. The Kindle came in a nice box and was pre-configured with my Amazon account. No syncing or setup necessary; you can start reading books immediately.</p>
+<p><em>Screen.</em> If you haven&#8217;t seen an e-ink device &mdash; actually held one in your hands, like the Sony Reader &mdash; don&#8217;t bother &#8220;reviewing&#8221; it. The iPhone screen is beautiful and I would love to have a small Mac tablet, something even a little bigger than the Kindle, but for reading books, nothing beats e-ink. It&#8217;s in a whole different class, and this is one of the areas where the Kindle shines. (It says a lot that the first FAQ item in the Kindle manual is about how the screen &#8220;flicker&#8221; when flipping pages is normal, though. It&#8217;s a little distracting but not a show-stopper.)</p>
+<p><em>Connectivity.</em> Amazon has been innovating with free shipping for years, so in a way it&#8217;s perfectly consistent to also offer free wireless connectivity. As a long-time Apple fan, I&#8217;m a little disappointed that Amazon is the one innovating with service plans, while Apple is stuck in the past with service contracts and high monthly fees with silly text message caps. I pay about $80/month for the privilege of using my iPhone; with the Kindle, I pay only for purchased content.</p>
+<p><em>Purchasing.</em> You can buy books from Amazon on your computer or from the Kindle itself, and I&#8217;ve tried both. My first purchase was using Safari on my Mac, and less than a minute later the book &#8220;magically&#8221; appeared on my Kindle. Again, no cables or sync necessary; the Kindle notices a book purchase and downloads it wirelessly.</p>
+<p><em>Hardware.</em> It couldn&#8217;t all be good news, could it? The button design is where the Kindle just falls on its face, and it&#8217;s bad news for both major areas of the device: the keyboard and the page navigation buttons. I just don&#8217;t see how they justified taking up so much room for the keyboard, because in truth you almost never need to use it. For the page buttons, try handing someone a Kindle for the first time and the first thing they do is accidentally hit next or previous page. It takes a while to train yourself on the best way to hold the Kindle.</p>
+<p>There are other things I could say &mdash; about DRM (unavoidable) or emailing documents to the device (clever) or the book cover (clunky) &mdash; but I want to keep this short. Despite it&#8217;s flaws, the Kindle is a good device, and it goes beyond being the first usable e-book reader to offer seamless purchasing and book delivery from Amazon&#8217;s large selection. It&#8217;s not as polished a 1.0 as the iPhone release was, but it&#8217;s a solid offering and more innovative in some ways. I&#8217;m looking forward to both reading books on it as a user and experimenting with ways to get other content on the device as a developer.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2007/11/kindle.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Lost season 3</title>
+		<link>http://www.manton.org/2006/10/lost_season_3.html</link>
+		<comments>http://www.manton.org/2006/10/lost_season_3.html#comments</comments>
+		<pubDate>Fri, 06 Oct 2006 16:03:05 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[books]]></category>
+		<category><![CDATA[lost]]></category>
+		<category><![CDATA[television]]></category>
+		<category><![CDATA[tolkien]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2006/10/lost_season_3.html</guid>
+		<description><![CDATA[The 2-hour season finale for Lost last year was some of the best television you&#8217;ll ever see. I re-watched it a few days ago and it was great stuff. And yet, I had a feeling that season 3, which premiered this week, would reset the clock again. Introduce a few more characters, change all the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The 2-hour season finale for Lost last year was some of the best television you&#8217;ll ever see. I re-watched it a few days ago and it was great stuff. And yet, I had a feeling that season 3, which premiered this week, would reset the clock again. Introduce a few more characters, change all the usual assumptions, but leave more questions instead of answering the existing ones.</p>
+<p>Turns out it was even worse than that. Frankly, the start of season 3 was junk. Clearly the writers are making stuff up as they go along, and that drives me nuts.</p>
+<p>When I think of epic story, perfectively woven together from beginning to end, I think of JRR Tolkien. After reading the collection of original manuscripts and commentary by his son Christopher Tolkien, I was surprised that for the first half of Fellowship of the Ring, Tolkien really didn&#8217;t know where he was going with it. It was chapter by chapter, and characters changed or story points were rewritten as he went along. But there came a point where I think the vision must have clicked for him, and at that point everything came together and the result was a work of fiction that will hold up for centuries.</p>
+<p>The suspension of disbelief works on me better than many people. If I feel like the creator of a novel or film has a real vision I&#8217;ll overlook the small problems and fall in love with the story and characters. For Lost, the dialog and pacing of each episode is technically brilliant, but the overall vision is missing, and I don&#8217;t think it will resolve in any meaningful way. Instead, the ratings will slowly decline until the show disappears in the same pattern of X-Files or Alias before it.</p>
+<p>So I may have to sign-off of Lost for a while. I did the same thing in the middle of season 2 when it got slow. Perhaps I&#8217;ll just read the synopsis and then join back in for the season finale every year. I&#8217;m afraid every time I watch it I&#8217;ll compare it to what it could have been, and only think of executives trying to milk the show for as many seasons as possible. I don&#8217;t want to be dragged along with them. Thanks anyway.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2006/10/lost_season_3.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Muybridge panoramas</title>
+		<link>http://www.manton.org/2006/07/muybridge_panoramas.html</link>
+		<comments>http://www.manton.org/2006/07/muybridge_panoramas.html#comments</comments>
+		<pubDate>Sun, 30 Jul 2006 02:14:02 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[books]]></category>
+		<category><![CDATA[muybridge]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[sanfrancisco]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2006/07/muybridge_panoramas.html</guid>
+		<description><![CDATA[In 1997 I walked into Half Priced Books to browse and left with a copy of &#8220;Eadweard Muybridge and the Photographic Panorama of San Francisco, 1850-1880&#8243;:http://www.amazon.com/exec/obidos/redirect?link_code=as2&#38;path=ASIN/0262581213&#38;tag=mantonorg&#38;camp=1789&#38;creative=9325 for $5. I had been familiar with Muybridge through his series of photographs of humans and animals in motion, which have been a classic reference for animators for nearly [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>In 1997 I walked into Half Priced Books to browse and left with a copy of &#8220;Eadweard Muybridge and the Photographic Panorama of San Francisco, 1850-1880&#8243;:http://www.amazon.com/exec/obidos/redirect?link_code=as2&amp;path=ASIN/0262581213&amp;tag=mantonorg&amp;camp=1789&amp;creative=9325 for $5. I had been familiar with Muybridge through his series of photographs of humans and animals in motion, which have been a classic reference for animators for nearly a century.</p>
+<p>Now, I&#8217;m coming back to his San Francisco photos as I prepare a podcast about that city. I am very excited about this one, and hope to have it finished soon after I return from WWDC. The &#8220;video games podcast&#8221;:http://www.manton.org/2006/07/video_games_podcast.html was a lot of fun, but it had some problems that I hope to correct this time around.</p>
+<p>I&#8217;ve tweaked this weblog design again, adding one of Muybridge&#8217;s panoramas to the header and experimenting with some different fonts and colors. I&#8217;ll switch the image out from time to time.</p>
+<p><center><a href="http://www.amazon.com/exec/obidos/redirect?link_code=as2&#038;path=ASIN/0262581213&#038;tag=mantonorg&#038;camp=1789&#038;creative=9325"><img src="http://www.manton.org/images/2006/muybridge_book.jpg" alt="Book cover" width="250" height="186" border="0" /></a></center></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2006/07/muybridge_panoramas.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Ingram</title>
+		<link>http://www.manton.org/2006/07/ingram.html</link>
+		<comments>http://www.manton.org/2006/07/ingram.html#comments</comments>
+		<pubDate>Tue, 18 Jul 2006 15:23:22 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[books]]></category>
+		<category><![CDATA[boxes]]></category>
+		<category><![CDATA[farmers]]></category>
+		<category><![CDATA[ingram]]></category>
+		<category><![CDATA[library]]></category>
+		<category><![CDATA[market]]></category>
+		<category><![CDATA[vitalsource]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2006/07/ingram.html</guid>
+		<description><![CDATA[I don&#8217;t blog much about &#8220;VitalSource&#8221;:http://www.vitalsource.com/ in this space, but I should. When I joined the company, it was to return to designing and building Mac software, with the potential for working on something meaningful (education tools) as a refreshing bonus. Over 5 years later, we have built up a great team and a mature [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I don&#8217;t blog much about &#8220;VitalSource&#8221;:http://www.vitalsource.com/ in this space, but I should. When I joined the company, it was to return to designing and building Mac software, with the potential for working on something meaningful (education tools) as a refreshing bonus.</p>
+<p>Over 5 years later, we have built up a great team and a mature set of products. Yesterday VitalSource announced it is being &#8220;acquired by Ingram Digital Ventures&#8221;:http://www.vitalsource.com/index/news-app/story.35, which should be a good complement to the work we are doing. Ingram is the largest book wholesaler in the country, but I don&#8217;t think that fact really hit me until three days ago.</p>
+<p>We were downtown with some time to kill before a performance. We stopped at the Farmers Market for some fresh peaches, flowers, and breakfast tacos. When we detoured to see if the library was open, I noticed these boxes outside and snapped a mobile phone picture.</p>
+<p><center><img src="http://www.manton.org/images/2006/ingram_boxes.jpg" width="400" height="300" alt="Ingram boxes" style="border: solid 1px gray" /></center></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2006/07/ingram.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.880 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:27:24 -->

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; cingleton</title>
+	<atom:link href="http://www.manton.org/tag/cingleton/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Core Intuition 159</title>
+		<link>http://www.manton.org/2014/10/core-intuition-159.html</link>
+		<comments>http://www.manton.org/2014/10/core-intuition-159.html#comments</comments>
+		<pubDate>Thu, 16 Oct 2014 15:50:59 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[cingleton]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[glassboard]]></category>
+		<category><![CDATA[macworld]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2341.html</guid>
+		<description><![CDATA[Daniel and I just published Core Intuition 159. It&#8217;s an episode of endings: the last Çingleton, no more Macworld Expo, and shutting down Glassboard. Along the way we discuss indie development, making a decision in public, and the reward and challenge of taking on something truly big.]]></description>
+				<content:encoded><![CDATA[<p>Daniel and I just published <a href="http://coreint.org/159">Core Intuition 159</a>. It&#8217;s an episode of endings: the last Çingleton, no more Macworld Expo, and shutting down Glassboard. Along the way we discuss indie development, making a decision in public, and the reward and challenge of taking on something truly big.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/10/core-intuition-159.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>iPhone 6 Plus and iPod</title>
+		<link>http://www.manton.org/2014/10/iphone-6-plus-and-ipod.html</link>
+		<comments>http://www.manton.org/2014/10/iphone-6-plus-and-ipod.html#comments</comments>
+		<pubDate>Mon, 13 Oct 2014 20:26:06 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[cingleton]]></category>
+		<category><![CDATA[iphone6]]></category>
+		<category><![CDATA[ipod]]></category>
+		<category><![CDATA[plus]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2336.html</guid>
+		<description><![CDATA[Kirby Turner wrote about needing an iPhone 6 Plus as a developer but not really wanting one as a user: &#8220;As a developer what I really want is an iPod touch Plus. If Apple were selling an iPod touch Plus that is the same as the iPhone 6 Plus minus the phone, then I would [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.thecave.com/2014/10/13/iphone-6-plus-is-too-big-for-me-but-i-bought-it-anyways/">Kirby Turner wrote</a> about <em>needing</em> an iPhone 6 Plus as a developer but not really <em>wanting</em> one as a user:</p>
+<blockquote><p>
+  &#8220;As a developer what I really want is an iPod touch Plus. If Apple were selling an iPod touch Plus that is the same as the iPhone 6 Plus minus the phone, then I would buy it in an instant. That way I could continue using my iPhone 5 as my primary phone device and the iPod touch Plus as a test device.&#8221;
+</p></blockquote>
+<p>I&#8217;ve talked about skipping this phone generation on <a href="http://coreint.org/">the podcast</a> a few times. I already got out of the yearly updates when I kept the 4S forever and then got the 5C instead of the 5S. After seeing the 6 Plus in person at the Apple Store and with everyone who had one at Çingleton, I&#8217;m pretty comfortable with my decision. But I&#8217;d strongly consider replacing my iPad Mini with a 5.5-inch iPod Touch.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/10/iphone-6-plus-and-ipod.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Why we built Sunlit</title>
+		<link>http://www.manton.org/2014/01/why_we_built.html</link>
+		<comments>http://www.manton.org/2014/01/why_we_built.html#comments</comments>
+		<pubDate>Wed, 15 Jan 2014 23:24:49 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[adn]]></category>
+		<category><![CDATA[cingleton]]></category>
+		<category><![CDATA[montreal]]></category>
+		<category><![CDATA[photos]]></category>
+		<category><![CDATA[sunlit]]></category>
+		<category><![CDATA[wwdc]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/01/why_we_built.html</guid>
+		<description><![CDATA[You have that feeling when hanging out with friends — everyone snapping pictures of their surroundings, of people, events, food, anything — that photo sharing should be better. That years later, you should be able to go back to that time, to see the best photos collected together from several people. And not just photos, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img src="http://www.manton.org/images/2014/montreal_panorama.jpg" width="600" height="100" alt="Montreal" border="0" /></p>
+<p>You have that feeling when hanging out with friends — everyone snapping pictures of their surroundings, of people, events, food, anything — that <em>photo sharing should be better</em>. That years later, you should be able to go back to that time, to see the best photos collected together from several people. And not just photos, but maps of where you were, and text to describe its significance.</p>
+<p>One afternoon before Çingleton in 2012, this subject came up as Jonathan Hays and I were taking photos around Montreal. It seemed remarkable and disappointing to us that there was no easy way to put those photos together. And I liked the idea of buildling a new app around photos, with the same themes of curation and preserving past events that are so important to my other Riverfold products.</p>
+<p>So we let the idea sit in the back of our minds, and later we wrote a little code as time allowed. At <a href="http://blog.app.net/2013/06/11/app-net-hackathon-recap-2/">the App.net hackathon before WWDC 2013</a> we dove into the project in earnest, figuring out how it would sync, then over the summer took some more time to think through the user experience.</p>
+<p>Sharing a single photo has been done a hundred times on iOS. Instagram was an important app to nail the timeline UI, and <a href="http://favd.net/">Favd</a> is currently my favorite way to post and browse new photos (it’s really great). But hardly anyone has even attempted to tackle photo curation, group sharing, and publishing, let alone gotten it right. Sunlit 1.0 is our first pass at this and we couldn’t be more excited about trying to solve a new problem with photos.</p>
+<p>They say you should spend money on experiences — on memories, not things. Sunlit helps you put those memories together, share them as a group, and rediscover them when it matters. The first version <a href="http://sunlit.io/">will ship tomorrow</a>. I hope you like it.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2014/01/why_we_built.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Your name</title>
+		<link>http://www.manton.org/2013/12/your_name.html</link>
+		<comments>http://www.manton.org/2013/12/your_name.html#comments</comments>
+		<pubDate>Sun, 15 Dec 2013 19:56:16 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[cingleton]]></category>
+		<category><![CDATA[coreint]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/12/your_name.html</guid>
+		<description><![CDATA[Found via Shawn Blanc, CJ Chilvers writes about the reputation of photographers: “I look at their blogs and the consideration given to advertisers over readers. I look at their Twitter feeds that have become broadcasts, rather than conversations. I look at their Instagram feeds and see a stream of consciousness, instead of considered examples of [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Found via <a href="http://shawnblanc.net/">Shawn Blanc</a>, CJ Chilvers <a href="http://alesserphotographer.com/blog/2013/11/6/you-have-a-reputation">writes about the reputation of photographers</a>:</p>
+<blockquote><p>
+  “I look at their blogs and the consideration given to advertisers over readers. I look at their Twitter feeds that have become broadcasts, rather than conversations. I look at their Instagram feeds and see a stream of consciousness, instead of considered examples of the work that makes them proud.”
+</p></blockquote>
+<p>It reminds me of one of my favorite parts of <a href="http://vimeo.com/m/80601533">Christina Warren’s talk at this year’s Çingleton</a>, where she told the story of turning down work she wouldn’t be proud of, even though she was still struggling as a professional writer. That your reputation will outlast your current job or project:</p>
+<blockquote><p>
+  “If I give up my name — which I’m starting to build and people are starting to respect — by doing stuff like this, what does that mean? I can’t ever live this down. All I have is my name.”
+</p></blockquote>
+<p><img src="http://www.manton.org/images/2013/cingleton_christina_warren.jpg" width="600" height="123" alt="Christina Warren at Cingleton 3" align="center" /></p>
+<p>Daniel Jalkut and I talked more about the general themes of Çingleton a couple months ago, on <a href="http://www.coreint.org/2013/10/episode-110-always-go-for-the-cheap-one/">Core Intuition episode 110</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/12/your_name.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Tweet Library price cut</title>
+		<link>http://www.manton.org/2012/10/tweet_library_price.html</link>
+		<comments>http://www.manton.org/2012/10/tweet_library_price.html#comments</comments>
+		<pubDate>Thu, 18 Oct 2012 19:14:58 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[cingleton]]></category>
+		<category><![CDATA[pricing]]></category>
+		<category><![CDATA[tapbots]]></category>
+		<category><![CDATA[tweetlibrary]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2012/10/tweet_library_price.html</guid>
+		<description><![CDATA[At Çingleton last week, Michael Jurewitz talked about app pricing and the arguments for raising your price. He made a convincing case, and it echoed some of the themes that I wrote about before I released Tweet Library 1.0 back in 2010. In the two years since, I never once changed the price. No intro [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>At Çingleton last week, Michael Jurewitz talked about app pricing and the arguments for raising your price. He made a convincing case, and it echoed some of the themes that <a href="http://www.manton.org/2010/06/10_ipad_apps.html">I wrote about before I released Tweet Library 1.0</a> back in 2010.</p>
+<p>In the two years since, I never once changed the price. No intro discount, no gimmicks, never on sale; $10 was essentially set stone. Even as it moved to the iPhone as a universal app, I stuck to my original philosophy about pricing, perhaps stubbornly. There’s value in consistent pricing, so that the user knows what to expect from one month to the next, and to indicate that the developer attaches a specific value to the app.</p>
+<p>Last week, before Çingleton and right as version 2.1 of Tweet Library was about to be released, I decided to try an experiment: I cut the price in half to $4.99. Even though it’s a niche app that only doubles as a full Twitter client, this puts it more in line with other Twitter apps on iOS. (And even cheaper than buying both the iPhone and iPad versions of some apps, like Netbot for ADN.)</p>
+<p>Meanwhile, Tweetbot for Mac is now out at $20. <a href="http://bitsplitting.org/2012/10/18/fairly-priced/">Daniel Jalkut covers this</a> on his new blog, Bitsplitting:</p>
+<blockquote><p>
+  “Is $20 a reasonable amount to pay for Tweetbot? I think so. But if Tapbots would have preferred to charge even less, has it been fairly priced? Many folks are seizing on the coincidence of Tapbots <em>needing to charge more</em> as an opportunity to exalt ‘fair pricing,’ when this was a result of coercion in two directions.”
+</p></blockquote>
+<p>Pricing is something I am still very fascinated by, especially this constant pull between how we value our own software and how pragmatic we want to be as a business. I’m going to let Tweet Library sit at $4.99 for a month, and if revenue is not obviously greater than what it would have been, I’ll bump it back to $10 or a middle-ground $7.99.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2012/10/tweet_library_price.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 7.814 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:14:23 -->

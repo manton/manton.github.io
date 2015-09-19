@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; work</title>
+	<atom:link href="http://www.manton.org/tag/work/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Very busy (and the watch)</title>
+		<link>http://www.manton.org/2015/03/very-busy-and-the-watch.html</link>
+		<comments>http://www.manton.org/2015/03/very-busy-and-the-watch.html#comments</comments>
+		<pubDate>Tue, 10 Mar 2015 17:25:54 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[staple]]></category>
+		<category><![CDATA[watch]]></category>
+		<category><![CDATA[work]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2483</guid>
+		<description><![CDATA[Yesterday this weblog turned 13 years old. I don’t usually miss the anniversary; it’s a nice time to reflect on what I’m writing about here. But I’ve been incredibly busy this year, working on a range of things from real work to side projects to family stuff. Over the weekend I also helped out at [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Yesterday this weblog turned 13 years old. I don’t usually miss the anniversary; it’s a nice time to reflect on what I’m writing about here. But I’ve been incredibly busy this year, working on a range of things from real work to side projects to family stuff.</p>
+<p>Over the weekend I also helped out at the annual <a href="http://www.staple-austin.org/">STAPLE!</a> comics show in Austin. This is always a great time to check out what independent artists are up to, and as usual I came away inspired to get back into drawing.</p>
+<p>I’ll have a longer write-up about yesterday’s Apple event soon. I have a very negative opinion about the $10k Apple Watch Edition — not because it’s expensive, but because of what focusing on the super rich says about Apple’s priorities. Daniel and I talked about this at length on <a href="http://coreint.org/174">Core Intuition episode 174</a> a couple weeks ago.</p>
+<p>Overall the event was great, though. I’m looking forward to pre-ordering a watch and getting into development. Leaning toward the 42mm Sport, with blue band and an extra classic buckle.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/03/very-busy-and-the-watch.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Working from coffee shops</title>
+		<link>http://www.manton.org/2013/07/working_from_coffee.html</link>
+		<comments>http://www.manton.org/2013/07/working_from_coffee.html#comments</comments>
+		<pubDate>Wed, 10 Jul 2013 17:39:47 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[coffee]]></category>
+		<category><![CDATA[oregon]]></category>
+		<category><![CDATA[starbucks]]></category>
+		<category><![CDATA[work]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/07/working_from_coffee.html</guid>
+		<description><![CDATA[Ben Brooks makes several good arguments for working from coffee shops: “Coffee Shops started sprouting up everywhere in the U.S. because of massive demand for the coffee shop — not massive demand for coffee, mind you, but for the seats in the shops. This is evident with the way most shops are setup, but no [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://brooksreview.net/2013/07/coffee-shops-look-to-oust-laptop-hobos/">Ben Brooks makes several good arguments</a> for working from coffee shops:</p>
+<blockquote><p>
+  “Coffee Shops started sprouting up <em>everywhere</em> in the U.S. because of massive demand for the coffee shop — not massive demand for coffee, mind you, but for the seats <em>in</em> the shops. This is evident with the way most shops are setup, but no more evidence needed than to look at the move of Starbucks providing free WiFi, instead of paid WiFi they started with.”
+</p></blockquote>
+<p>I agree. There’s no sense in fighting this trend, and the coffee shops that do will largely fail. But also, as customers, we should be careful not to abuse the privilege. I try to follow these simple rules when working from a coffee shop:</p>
+<ul>
+<li>I don’t take up more space than I need.</p>
+</li>
+<li>
+<p>If there’s a line, I usually wait until after I place my order before claiming a chair.</p>
+</li>
+<li>
+<p>For local small businesses especially, I leave a tip.</p>
+</li>
+<li>
+<p>After a few hours, I order another coffee or wrap up and leave.</p>
+</li>
+</ul>
+<p>Ben also points to <a href="https://alpha.app.net/cjchilvers/post/7541978">a post from CJ Chilvers</a> about libraries. I worked from my neighborhood library earlier this week — it’s a really nice, quiet environment — but the Austin libraries don’t allow you to bring any drinks inside yet, let alone have an on-site espresso machine. While traveling in Oregon a couple years ago, I remember the <a href="http://www.eugene-or.gov/index.aspx?NID=130">Eugene public library</a> having a really nice cafe and I was immediately jealous.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2013/07/working_from_coffee.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Spoiled by gatekeepers</title>
+		<link>http://www.manton.org/2012/08/spoiled_by_gatekeepers.html</link>
+		<comments>http://www.manton.org/2012/08/spoiled_by_gatekeepers.html#comments</comments>
+		<pubDate>Thu, 16 Aug 2012 21:16:05 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[craftsmen]]></category>
+		<category><![CDATA[customers]]></category>
+		<category><![CDATA[work]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2012/08/spoiled_by_gatekeepers.html</guid>
+		<description><![CDATA[Amy Hoy writes about master craftsmen and being accountable to your real customers: “When you live and work in an insulated life — divorced from the end result of your work — you are spoiled. You’re graded more on your ability to please and manage gatekeepers than your work product. Gatekeepers are human; humans can [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Amy Hoy writes about master craftsmen and <a href="http://unicornfree.com/2012/why-blacksmiths-are-better-at-startups-than-you/">being accountable to your real customers</a>:</p>
+<blockquote><p>
+  “When you live and work in an insulated life — divorced from the end result of your work — <strong>you are spoiled</strong>. You’re graded more on your ability to please and manage gatekeepers than your work product. Gatekeepers are human; humans can be persuaded to accept excuses.”
+</p></blockquote>
+<p>Just enough separation from customers is healthy — email and tweets, instead of phone calls. But put up too many walls, too much bureaucracy, and you might no longer care who you’re building the software for. You might forget why it has to be great.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2012/08/spoiled_by_gatekeepers.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.665 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:25:50 -->

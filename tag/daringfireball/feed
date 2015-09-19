@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; daringfireball</title>
+	<atom:link href="http://www.manton.org/tag/daringfireball/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>iPad Mini</title>
+		<link>http://www.manton.org/2012/11/ipad_mini.html</link>
+		<comments>http://www.manton.org/2012/11/ipad_mini.html#comments</comments>
+		<pubDate>Fri, 09 Nov 2012 16:43:37 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[daringfireball]]></category>
+		<category><![CDATA[ipad]]></category>
+		<category><![CDATA[mini]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2012/11/ipad_mini.html</guid>
+		<description><![CDATA[From John Gruber’s iPad Mini review: “If the Mini had a retina display, I’d switch from the iPad 3 in a heartbeat. As it stands, I’m going to switch anyway. Going non-retina is a particularly bitter pill for me, but I like the iPad Mini’s size and weight so much that I’m going to swallow [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>From <a href="http://daringfireball.net/2012/10/ipad_mini">John Gruber’s iPad Mini review</a>:</p>
+<blockquote><p>
+  “If the Mini had a retina display, I’d switch from the iPad 3 in a heartbeat. As it stands, I’m going to switch anyway. Going non-retina is a particularly bitter pill for me, but I like the iPad Mini’s size and weight so much that I’m going to swallow it.”
+</p></blockquote>
+<p>As I said on <a href="http://coreint.org/64">the last Core Intuition</a>, it’s even more of an easy switch for me since I never upgraded to the iPad 3. The iPad Mini has essentially been my only iPad for the last week. I’m using it more, and taking it places that I would’ve have bothered with before. My new favorite Apple device.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2012/11/ipad_mini.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>10 years of Daring Fireball</title>
+		<link>http://www.manton.org/2012/08/10_years_of.html</link>
+		<comments>http://www.manton.org/2012/08/10_years_of.html#comments</comments>
+		<pubDate>Mon, 13 Aug 2012 22:28:09 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[blogs]]></category>
+		<category><![CDATA[daringfireball]]></category>
+		<category><![CDATA[gruber]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2012/08/10_years_of.html</guid>
+		<description><![CDATA[Daring Fireball turns 10 years old today. I love this visualization of the posts from those years. You can view by article length and highlight posts for certain topics. There’s a rich history of posts in the archive. Like the best blogs, there’s consistency in design, tone, and format. None of the URLs have ever [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://daringfireball.net/">Daring Fireball</a> turns 10 years old today. I love <a href="http://distantshape.com/df10/">this visualization of the posts</a> from those years. You can view by article length and highlight posts for certain topics.</p>
+<p>There’s a rich history of posts in the archive. Like the best blogs, there’s consistency in design, tone, and format. None of the URLs have ever changed.</p>
+<p>Here are some of my favorite essays.</p>
+<p>June 4, 2004, <a href="http://daringfireball.net/2004/06/broken_windows">Broken Windows</a>:</p>
+<blockquote><p>
+  “Arguing that it’s technically possible that the Mac could suffer just as many security exploits as Windows is like arguing that a good neighborhood could suddenly find itself strewn with garbage and plagued by vandalism and serious crime. Possible, yes, but not likely.”
+</p></blockquote>
+<p>April 20, 2006, <a href="http://daringfireball.net/2006/04/initiative">Initiative</a>:</p>
+<blockquote><p>
+  “What I’ve concluded, though, is that if I want to make a full-time income from Daring Fireball, I need to just do it full-time. I.e. that it’s not going to work the other way around — to wait for the revenue to burgeon and <em>then</em> start putting full-time effort into it.”
+</p></blockquote>
+<p>August 4, 2006, <a href="http://daringfireball.net/2006/08/highly_selective">Highly Selective</a>:</p>
+<blockquote><p>
+  “I’m sure there are other examples of Mac apps that offer anchored list selection, but the point remains that the vast majority of software now follows Apple’s lead and uses the unanchored model for list item selection. If ‘Mac-like’ means ‘what most other Mac software does’, then in this case the Mac-like behavior is wrong, or at the very least, worse.”
+</p></blockquote>
+<p>October 2, 2008, <a href="http://daringfireball.net/2008/10/the_fear">The Fear</a>:</p>
+<blockquote><p>
+  “But this pitch also worked because it was true. All three of those products sound good on their own. All three in one device sounds insanely great. Jobs was introducing the iPhone simply by describing precisely what it was.”
+</p></blockquote>
+<p>April 24, 2009, <a href="http://daringfireball.net/2009/04/twitter_clients_playground">Twitter Clients Are a UI Design Playground</a>:</p>
+<blockquote><p>
+  “I read web sites and email and RSS feeds on my iPhone, but Twitter is the one service where reading on my iPhone doesn’t feel constrained compared to reading on my Mac.”
+</p></blockquote>
+<p>June 26, 2009, <a href="http://daringfireball.net/2009/06/copy_and_paste">Copy and Paste</a>:</p>
+<blockquote><p>
+  “That we had to wait two years for the iPhone’s text selection and pasteboard is a good example of one aspect of the Apple way: better nothing at all than something less than great.”
+</p></blockquote>
+<p>January 27, 2010, <a href="http://daringfireball.net/2010/01/ipad_big_picture">The iPad Big Picture</a>:</p>
+<blockquote><p>
+  “Software aside (which is a huge thing to put aside), it may well be that no other company could make a device today matching the price, size, and performance of the iPad. They’re not getting into the CPU business for kicks, they’re getting into it to kick ass.”
+</p></blockquote>
+<p>August 24, 2011, <a href="http://daringfireball.net/2011/08/resigned">Resigned</a>:</p>
+<blockquote><p>
+  “The same thought, care, and painstaking attention to detail that Steve Jobs brought to questions like ‘How should a computer work?’, ‘How should a phone work?’, ‘How should we buy music and apps in the digital age?’ he also brought to the most important question: ‘How should a company that creates such things function?’”
+</p></blockquote>
+<p>December 25, 2011, <a href="http://daringfireball.net/2011/12/merry">Merry</a>:</p>
+<blockquote><p>
+  “— how much will I be willing to pay then to be able to go back in time, for one day, to now, when he’s eight years old, he wants to go to movies and play games and build Lego kits with me, and he believes in magic?”
+</p></blockquote>
+<p>February 16, 2012, <a href="http://daringfireball.net/2012/02/mountain_lion">Mountain Lion</a>:</p>
+<blockquote><p>
+  “This is an awful lot of effort and attention in order to brief what I’m guessing is a list of a dozen or two writers and journalists. It’s Phil Schiller, spending an entire week on the East Coast, repeating this presentation over and over to a series of audiences of one.”
+</p></blockquote>
+<p>Congrats John. Here’s to the next 10 years.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2012/08/10_years_of.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Brent on baked blogs</title>
+		<link>http://www.manton.org/2011/03/brent_on_baked.html</link>
+		<comments>http://www.manton.org/2011/03/brent_on_baked.html#comments</comments>
+		<pubDate>Mon, 21 Mar 2011 14:51:04 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[daringfireball]]></category>
+		<category><![CDATA[dreamhost]]></category>
+		<category><![CDATA[static]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2011/03/brent_on_baked.html</guid>
+		<description><![CDATA[My post on free apps &#8220;was linked from Daring Fireball&#8221;:http://daringfireball.net/linked/2011/03/18/manton-app-store a few days ago. Tons of new traffic, but my site didn&#8217;t go down. Why? An ancient but reliable version of Movable Type spitting out static files, with just a tiny bit of PHP for &#8220;Mint stats&#8221;:http://haveamint.com/. &#8220;Brent Simmons talks about this lost art&#8221;:http://inessential.com/2011/03/16/a_plea_for_baked_weblogs of [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>My post on free apps &#8220;was linked from Daring Fireball&#8221;:http://daringfireball.net/linked/2011/03/18/manton-app-store a few days ago. Tons of new traffic, but my site didn&#8217;t go down. Why? An ancient but reliable version of Movable Type spitting out static files, with just a tiny bit of PHP for &#8220;Mint stats&#8221;:http://haveamint.com/.</p>
+<p>&#8220;Brent Simmons talks about this lost art&#8221;:http://inessential.com/2011/03/16/a_plea_for_baked_weblogs of publishing to static files instead of serving from a database:</p>
+<blockquote><p>&#8220;It&#8217;s an old technique, actually, but too rarely practiced. (Lots of weblogs in the &#8217;90s were rendered as files-on-disk. They were built from a database plus templates and scripts and uploaded to a server. We did a bunch of this when I worked with Dave Winer at UserLand Software.)&#8221;</p></blockquote>
+<p>I couldn&#8217;t agree more with Brent&#8217;s advice, and in fact I ran this blog on Radio Userland for its first couple of years. In addition to performance, static files are portable. I can pick up this site and move it anywhere. The old web is fragile, and as web sites age, being able to permanently host them somewhere cheap and stable is going to become a big deal.</p>
+<p>I hope a modern equivalent to Movable Type emerges eventually. For now, I&#8217;m thankful that the only time I have to worry about a web site outage is when a Dreamhost sysadmin trips over a power cord.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2011/03/brent_on_baked.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.190 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:44:21 -->

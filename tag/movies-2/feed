@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; movies</title>
+	<atom:link href="http://www.manton.org/tag/movies-2/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>Introducing Clipstart</title>
+		<link>http://www.manton.org/2009/05/introducing_clipstart.html</link>
+		<comments>http://www.manton.org/2009/05/introducing_clipstart.html#comments</comments>
+		<pubDate>Tue, 05 May 2009 02:58:59 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[clipstart]]></category>
+		<category><![CDATA[flickr]]></category>
+		<category><![CDATA[movies]]></category>
+		<category><![CDATA[vimeo]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2009/05/introducing_clipstart.html</guid>
+		<description><![CDATA[Last week I looked at the SVN log for my application in development and realized that I had started it exactly 1 year ago. While I wasn&#8217;t actively working on it every day or week during that time, that&#8217;s still a very long time for me to work on an application before shipping it. I [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Last week I looked at the SVN log for my application in development and realized that I had started it exactly 1 year ago. While I wasn&#8217;t actively working on it every day or week during that time, that&#8217;s still a very long time for me to work on an application before shipping it. I knew I had to call the 1.0 done and push it out.</p>
+<p>I was falling into that infinite 1.0 cycle where I could continue to improve the application forever without releasing it. The sooner I noticed that trap, the sooner I was able to correct course and get the app into the hands of real users.</p>
+<p>The app is called &#8220;Clipstart&#8221;:http://www.riverfold.com/software/clipstart/. It&#8217;s for importing, tagging, and uploading home movies. I have high hopes for the app and a lot of fun stuff planned for the future.</p>
+<p>As usual, a lot of people talked about the product even before I did. My thanks to Dan Moren of Macworld for &#8220;covering the launch&#8221;:http://www.macworld.com/article/140376/2009/05/clipstart.html before I even had a chance to spam him with a press release; to John Gruber for &#8220;posting about how he uses it&#8221;:http://daringfireball.net/linked/2009/05/04/clipstart; and to &#8220;Duncan Davidson&#8221;:http://journal.duncandavidson.com/post/102477678/clipstart and &#8220;Mike Zornek&#8221;:http://blog.clickablebliss.com/2009/05/04/clipstart-10/ for their write-ups. I also very much appreciate &#8220;all the retweets&#8221;:http://search.twitter.com/search?q=clipstart and goodwill from my friends on Twitter. Those meant a lot.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2009/05/introducing_clipstart.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Wii Transfer 2.5</title>
+		<link>http://www.manton.org/2007/09/wii_transfer_25.html</link>
+		<comments>http://www.manton.org/2007/09/wii_transfer_25.html#comments</comments>
+		<pubDate>Fri, 21 Sep 2007 04:41:09 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[bookmarks]]></category>
+		<category><![CDATA[movies]]></category>
+		<category><![CDATA[pricing]]></category>
+		<category><![CDATA[streaming]]></category>
+		<category><![CDATA[transfer]]></category>
+		<category><![CDATA[wii]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/09/wii_transfer_25.html</guid>
+		<description><![CDATA[This morning I finally rolled out &#8220;version 2.5 of Wii Transfer&#8221;:http://www.riverfold.com/software/wiitransfer/, the most significant release of the product yet. It probably deserved a 3.0 label slapped on it, but I like how all the 2.x releases revolve around the sharing features (sending movies, music, and pictures to the Wii via the Opera browser). Besides, I [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>This morning I finally rolled out &#8220;version 2.5 of Wii Transfer&#8221;:http://www.riverfold.com/software/wiitransfer/, the most significant release of the product yet. It probably deserved a 3.0 label slapped on it, but I like how all the 2.x releases revolve around the sharing features (sending movies, music, and pictures to the Wii via the Opera browser). Besides, I have a special set of entirely new stuff planned for 3.0.</p>
+<p>So what&#8217;s new? Movie streaming is the big one. You can now drag and drop movie files to convert to Flash Video format, which Wii Transfer&#8217;s web server will happily stream up to your Wii. It works surprisingly well considering the Wii has such limited memory and no hard drive. Last night I even tested with feature-length movies.</p>
+<p>Other new features include background music for picture slideshows (both MP3 and AAC) and bookmark sharing, so that you can browse your Safari or Firefox bookmarks on your Wii to easily visit those sites. The &#8220;release notes&#8221;:http://www.riverfold.com/software/wiitransfer/releasenotes/ page has more of the details.</p>
+<p>I&#8217;ve also bumped the price up to $19, where I expect it to stay for some time. One way I like to think about the price of Wii Transfer is in relation to another common purchase from Wii owners: games. It&#8217;s still less than half the price of a new Wii game.</p>
+<p>Special thanks to the beta testers who provided feedback. There are still a number of things about movie sharing that I&#8217;d like to polish up, so additional minor updates are likely. I often use the &#8220;Wii account on Twitter&#8221;:http://twitter.com/wii to post these and other announcements.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2007/09/wii_transfer_25.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>United 93</title>
+		<link>http://www.manton.org/2006/04/united_93.html</link>
+		<comments>http://www.manton.org/2006/04/united_93.html#comments</comments>
+		<pubDate>Mon, 01 May 2006 02:42:33 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Movies]]></category>
+		<category><![CDATA[animation]]></category>
+		<category><![CDATA[movies]]></category>
+		<category><![CDATA[september11]]></category>
+		<category><![CDATA[television]]></category>
+		<category><![CDATA[terrorism]]></category>
+		<category><![CDATA[united93]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2006/04/united_93.html</guid>
+		<description><![CDATA[When I first heard about the &#8220;United 93 movie&#8221;:http://www.united93movie.com/ I had just about the &#8220;same reaction as Matthew Haughey&#8221;:http://a.wholelottanothing.org/2006/04/buzzplant_none.html. Hollywood only wants to make some quick cash off of other people&#8217;s tragedy. The movie is going to be painful to watch, it won&#8217;t be accurate anyway, and it will be full of sappy, exaggerated nonsense [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>When I first heard about the &#8220;United 93 movie&#8221;:http://www.united93movie.com/ I had just about the &#8220;same reaction as Matthew Haughey&#8221;:http://a.wholelottanothing.org/2006/04/buzzplant_none.html. Hollywood only wants to make some quick cash off of other people&#8217;s tragedy. The movie is going to be painful to watch, it won&#8217;t be accurate anyway, and it will be full of sappy, exaggerated nonsense meant to pull at our emotions and our wallets.</p>
+<p>I probably said about as much to my television. I only watch a couple hours of TV a week, and a significant portion of that is yelling at advertisements or the local news crew.</p>
+<p>But then a few things changed:</p>
+<ul>
+<li>I heard that the desire to make this movie was more driven by the director than executives.</p>
+</li>
+<li>
+<p>Reviews coming in seemed &#8220;very positive&#8221;:http://www.rottentomatoes.com/m/united_93/.</p>
+</li>
+<li>
+<p>I realized that I couldn&#8217;t ignore this movie just because of my overwhelming fear of flying.</p>
+</li>
+<li>
+<p>I remembered that after September 11th, <em>I wanted to make a film about it too</em>. (My story was not a &#8220;docu-drama&#8221;, but a short animated film with a fantasy spin on real events in New York City.)</p>
+</li>
+</ul>
+<p>Anyway, I saw the movie Friday night. As surprising as it may seem, it is very good. I don&#8217;t think I&#8217;ll say anymore than that.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2006/04/united_93.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.712 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:35:34 -->

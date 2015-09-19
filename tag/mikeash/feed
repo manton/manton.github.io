@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; mikeash</title>
+	<atom:link href="http://www.manton.org/tag/mikeash/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<item>
+		<title>It&#8217;s okay to ignore the iPhone</title>
+		<link>http://www.manton.org/2009/09/its_okay_to.html</link>
+		<comments>http://www.manton.org/2009/09/its_okay_to.html#comments</comments>
+		<pubDate>Fri, 18 Sep 2009 13:02:04 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[business]]></category>
+		<category><![CDATA[development]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[mikeash]]></category>
+		<category><![CDATA[yellowbox]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2009/09/its_okay_to.html</guid>
+		<description><![CDATA[I talked in &#8220;Core Intuition episode 22&#8243;:http://www.coreint.org/2009/08/episode-22-not-just-a-hobby/ about how I&#8217;ve stopped working on my indie iPhone apps. Mike Ash is also done with it. &#8220;He writes&#8221;:http://www.mikeash.com/?page=pyblog/the-iphone-development-story-one-year-later.html: &#8220;I have abandoned the platform. Apple&#8217;s nonsense is just too much for me. There&#8217;s no joy in iPhone development, and an enormous amount of frustration.&#8221; Reading through the comments [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I talked in &#8220;Core Intuition episode 22&#8243;:http://www.coreint.org/2009/08/episode-22-not-just-a-hobby/ about how I&#8217;ve stopped working on my indie iPhone apps. Mike Ash is also done with it. &#8220;He writes&#8221;:http://www.mikeash.com/?page=pyblog/the-iphone-development-story-one-year-later.html:</p>
+<blockquote><p>&#8220;I have abandoned the platform. Apple&#8217;s nonsense is just too much for me. There&#8217;s no joy in iPhone development, and an enormous amount of frustration.&#8221;</p></blockquote>
+<p>Reading through the comments got me thinking. I&#8217;m not abandoning the iPhone just because the App Store is such a frustrating environment to run a business in, or that I have a bunch of real work I could be doing instead of playing games with Apple. It&#8217;s also because most of the apps I would write have already been done, and in some cases done very well.</p>
+<p>I love having a small computer in my pocket and mine is full of third-party apps. I&#8217;m thankful for the developers who are coming from other platforms and focusing all of their attention on the phone. And they are thrilled to be an a platform that is such a step up from traditional mobile development. The financial success stories of developers hitting on a great idea and it just taking off in the App Store are real and inspiring.</p>
+<p>But the iPhone doesn&#8217;t need me.</p>
+<p>As a user there&#8217;s no way I&#8217;ll give up the phone, but as a developer I can focus my time on &#8220;things that I have control over&#8221;:http://www.riverfold.com/, and add value to places where no one else has a good solution. Perceived gold rush or not, stretching myself too thin with both iPhone and Mac development is a great way to fail at both.</p>
+<p>Imagine for a moment that &#8220;Yellow Box for Windows&#8221;:http://www.cocoadev.com/index.pl?YellowBox wasn&#8217;t killed off &mdash; that we could build Windows apps using Cocoa. Should I make my apps cross-platform just because it&#8217;s Objective-C? No. Writing software for a platform I don&#8217;t use would be like still supporting Mac OS X 10.2; there&#8217;s no way I&#8217;m going to boot into that thing to test and fix my app.</p>
+<p>If you&#8217;re a Mac developer, my message to you is the same: just because the iPhone is awesome and runs on Objective-C <em>does not mean you are required to build software for it</em>. Maybe your time would be better spent refining old apps or building new ones on the Mac. Maybe&#8230; the iPhone doesn&#8217;t need you, either.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2009/09/its_okay_to.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Mike Ash on private APIs</title>
+		<link>http://www.manton.org/2009/01/mike_ash_on.html</link>
+		<comments>http://www.manton.org/2009/01/mike_ash_on.html#comments</comments>
+		<pubDate>Sat, 03 Jan 2009 15:01:36 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[apis]]></category>
+		<category><![CDATA[mikeash]]></category>
+		<category><![CDATA[private]]></category>
+		<category><![CDATA[quicklook]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2009/01/mike_ash_on.html</guid>
+		<description><![CDATA[Mike Ash has been rocking with his weekly Friday Q&#38;As. From the &#8220;latest about using private APIs&#8221;:http://www.mikeash.com/?page=pyblog/friday-qa-2009-01-02.html: &#8220;Remember that the cost is not just to you, but to your users. If you&#8217;re really unlucky the break will be so bad that it&#8217;s not even obvious that it&#8217;s your fault, and they&#8217;ll figure it out only [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Mike Ash has been rocking with his weekly Friday Q&amp;As. From the &#8220;latest about using private APIs&#8221;:http://www.mikeash.com/?page=pyblog/friday-qa-2009-01-02.html:</p>
+<blockquote><p>&#8220;Remember that the cost is not just to you, but to your users. If you&#8217;re really unlucky the break will be so bad that it&#8217;s not even obvious that it&#8217;s your fault, and they&#8217;ll figure it out only after much head-scratching. Once they do figure it out, they will hate you if your fix doesn&#8217;t come really fast.&#8221;</p></blockquote>
+<p>My new app (not officially announced yet &mdash; more later) currently uses Quick Look as a significant part of the user interface. Quick Look is a private API on 10.5, but my hope was that surely it would be made public by 10.6. If I coded correctly for both cases (I have a 10.6 seed running here I can test against), then I could safely release the product and be reasonably certain that nothing would be break.</p>
+<p>I&#8217;m now rethinking that, both because it looks increasingly like Quick Look will remain a private API even in Snow Leopard, and because I&#8217;ve gotten feedback that it&#8217;s not a perfect fit for how I&#8217;m using it anyway. At the very least I will turn Quick Look into a secondary option, something that wouldn&#8217;t be missed if it went away, and roll my own preview UI to be the default.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2009/01/mike_ash_on.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 3.022 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:47:32 -->
