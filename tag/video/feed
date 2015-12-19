@@ -12,11 +12,11 @@
 	<atom:link href="http://www.manton.org/tag/video/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 18 Dec 2015 17:56:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
 	<item>
 		<title>FLV metadata performance</title>
 		<link>http://www.manton.org/2008/08/flv_metadata_performance.html</link>
@@ -55,7 +55,7 @@
 				<content:encoded><![CDATA[<p>I first heard of the &#8220;Flip&#8221;:http://www.theflip.com/products_flip_ultra.shtml a few months ago, but it wasn&#8217;t until &#8220;this 37signals post&#8221;:http://www.37signals.com/svn/posts/923-the-flip-takes-13-of-the-camcorder-market-by-doing-less that I started paying attention. I was attracted to the simplicity of the video camera: few buttons, decent quality, and kid-proof design. Here is my mini-review.</p>
 <p><b>Speed</b>. This is where the Flip shines. It is compact enough to take anywhere, and simple enough that you can take it out of your pocket and start shooting video in seconds. I&#8217;ve already shot way more video than I would with my traditional DV camcorder.</p>
 <p><b>Battery</b>. It runs on two AA batteries. I was able to record a ton of video before replacing them, accumulating 3 GB of files over several weeks. This is unheard of compared to any other still camera or video camera I&#8217;ve owned.</p>
-<p><b>Transfer</b>. The Flip saves as the Xvid flavor of MPEG-4, which is not supported natively by QuickTime. Luckily a quick &#8220;Perian install&#8221;:http://www.perian.org/ later and you can view and edit them in QuickTime Player or any app that supports QuickTime. Just mount the camera and copy them over, or convert to H.264 with something like VisualHub. The &#8220;Wii Transfer 2.6&#8243;:http://www.riverfold.com/software/wiitransfer/beta/ beta also supports Xvid to convert and share to your Wii.</p>
+<p><b>Transfer</b>. The Flip saves as the Xvid flavor of MPEG-4, which is not supported natively by QuickTime. Luckily a quick &#8220;Perian install&#8221;:http://www.perian.org/ later and you can view and edit them in QuickTime Player or any app that supports QuickTime. Just mount the camera and copy them over, or convert to H.264 with something like VisualHub. The &#8220;Wii Transfer 2.6&#8221;:http://www.riverfold.com/software/wiitransfer/beta/ beta also supports Xvid to convert and share to your Wii.</p>
 <p><b>Quality</b>. I wanted to do a side-by-side comparison with Motion JPEG used on most digital still cameras, but this isn&#8217;t a video hardware review site so an in-depth analysis is beyond the scope of what I need or have expertise in. To my eyes it looks pretty good though. Make sure to get the Ultra, not the regular Flip Video which has a lower bitrate.</p>
 <p><b>Complaints</b>. You need to give the power slider and record buttons some real pressure, and on a few occasions I&#8217;ve clicked record only to realize 1 minute later that it didn&#8217;t start. I understand that the designers didn&#8217;t want us turning it on or recording unintentionally, but this negates some of the speed advantage mentioned above.</p>
 <p>In a nutshell: The Flip isn&#8217;t for everyone, but at just $140 it&#8217;s hard to argue with its strengths. I take it everywhere now. One pocket for iPhone, one pocket for Flip.</p>
@@ -90,7 +90,7 @@
 <p>Buy at Amazon: &#8220;Lumines&#8221;:http://www.amazon.com/exec/obidos/redirect?link_code=as2&amp;path=ASIN/B0007VDF22&amp;tag=mantonorg&amp;camp=1789&amp;creative=9325, &#8220;Electroplankton&#8221;:http://www.amazon.com/exec/obidos/redirect?link_code=as2&amp;path=ASIN/B000CI8EXA&amp;tag=mantonorg&amp;camp=1789&amp;creative=9325, &#8220;Katamari Damacy&#8221;:http://www.amazon.com/exec/obidos/redirect?link_code=as2&amp;path=ASIN/B0002Y2XXQ&amp;tag=mantonorg&amp;camp=1789&amp;creative=9325</p>
 <p>All games at Gamespot: &#8220;Zelda&#8221;:http://www.gamespot.com/nes/adventure/legendofzelda/, &#8220;Tetris&#8221;:http://www.gamespot.com/gameboy/puzzle/tetris/, &#8220;Super Mario World&#8221;:http://www.gamespot.com/snes/action/supermarioworld/, &#8220;Super Metroid&#8221;:http://www.gamespot.com/snes/action/supermetroid/, &#8220;Ys Book I &amp; II&#8221;:http://www.gamespot.com/turbocd/rpg/ysbookiii/, &#8220;Myst&#8221;:http://www.gamespot.com/pc/adventure/myst/, &#8220;Electroplankton&#8221;:http://www.gamespot.com/ds/puzzle/electroplankton/, &#8220;Ocarina of Time&#8221;:http://www.gamespot.com/n64/adventure/legendofzeldaoot/, &#8220;Lumines&#8221;:http://www.gamespot.com/psp/puzzle/lumines/, &#8220;Myth&#8221;:http://www.gamespot.com/pc/strategy/myththefallenlords/, &#8220;Katamari Damacy&#8221;:http://www.gamespot.com/ps2/action/katamaridamashii/</p>
 <p>Remix credits: &#8220;Super Mario World by Jason Cox&#8221;:http://www.archive.org/audio/audio-details-db.php?collection=opensource_audio&amp;collectionid=xoc_SMW, &#8220;Super Metroid by The Wingless&#8221;:http://www.ocremix.org/remix/OCR01048/</p>
-<p>Game history: &#8220;TurboGrafx-16&#8243;:http://www.classicgaming.com/museum/tg16/, &#8220;Ys I and II (Classic Gaming)&#8221;:http://www.classicgaming.com/ninjagaiden/ys/music/ys12pce.html, &#8220;Ys I and II (PC Engine Bible)&#8221;:http://pcenginebible.roarvgm.com/HTML_Games/Ys_I_II.htm</p>
+<p>Game history: &#8220;TurboGrafx-16&#8221;:http://www.classicgaming.com/museum/tg16/, &#8220;Ys I and II (Classic Gaming)&#8221;:http://www.classicgaming.com/ninjagaiden/ys/music/ys12pce.html, &#8220;Ys I and II (PC Engine Bible)&#8221;:http://pcenginebible.roarvgm.com/HTML_Games/Ys_I_II.htm</p>
 <p>Music archives: &#8220;VGMusic.com&#8221;:http://www.vgmusic.com/, &#8220;Zophar&#8217;s Game Music Archives&#8221;:http://www.zophar.net/music.html</p>
 <p>More links: &#8220;Composing with Electroplankton&#8221;:http://www.milezero.org/index.cgi/gaming/society/art/composing_with_electroplankton_toc.html, &#8220;Video game music emulators&#8221;:http://www.bannister.org/software/vgmusic.htm, &#8220;Bungie&#8217;s Myth&#8221;:http://www.altpop.com/stc/reviews/myth.htm, &#8220;Myth II demo&#8221;:http://projectmagma.net/what/, &#8220;Ocarina instrument&#8221;:http://www.songbirdocarina.com/</p>
 ]]></content:encoded>
@@ -100,5 +100,5 @@
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 2.356 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:30:22 -->
+<!-- Dynamic page generated in 5.752 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-12-18 17:19:14 -->

@@ -12,12 +12,211 @@
 	<atom:link href="http://www.manton.org/tag/rss/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 18 Dec 2015 17:56:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
 	<item>
+		<title>A diverse community through writing</title>
+		<link>http://www.manton.org/2015/11/a-diverse-community-through-writing.html</link>
+		<comments>http://www.manton.org/2015/11/a-diverse-community-through-writing.html#comments</comments>
+		<pubDate>Thu, 19 Nov 2015 16:36:04 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[europe]]></category>
+		<category><![CDATA[rss]]></category>
+		<category><![CDATA[swift]]></category>
+		<category><![CDATA[travel]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3187</guid>
+		<description><![CDATA[I read a lot of weblogs. RSS is a great way to keep up with sites that update infrequently, or that aren&#8217;t popular enough to bubble up on Twitter with dozens of retweets. But the Mac and iOS community has grown so much over the years. I know there are many new writers who haven&#8217;t [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I read a lot of weblogs. RSS is a great way to keep up with sites that update infrequently, or that aren&#8217;t popular enough to bubble up on Twitter with dozens of retweets. But the Mac and iOS community has grown so much over the years. I know there are many new writers who haven&#8217;t been on my radar yet.</p>
+<p>Brent Simmons has posted <a href="http://inessential.com/2015/11/16/blogs_by_women">a great list of tech blogs by women</a> that I&#8217;m going through now. There should be something there for anyone interested in development or design:</p>
+<blockquote><p>
+  &#8220;I made a list of some blogs I already knew about, and then I asked my friends for more, and they totally came through.&#8221;
+</p></blockquote>
+<p>The list grew to include over 50 blogs as suggestions arrived to Brent via Twitter. I&#8217;ve already subscribed to a bunch and look forward to discovering even more.</p>
+<p>One of my favorite new blogs is the travel blog complement to <a href="http://natashatherobot.com/">Natasha The Robot</a>, which made Brent&#8217;s list. Natasha was recently <a href="https://signalvnoise.com/posts/3973-natasha-the-robot-murashev-joins-basecamp">hired at Basecamp</a>, runs the <a href="https://swiftnews.curated.co/">This Week in Swift</a> newsletter, and <a href="http://www.natashathenomad.com/">writes on her new blog</a> about working remotely. From a post about taking her laptop to restaurants in Europe:</p>
+<blockquote><p>
+  &#8220;The nice thing about this is that I get a really cool and inspiring office for a few hours &#8211; each cafe or restaurant has it&#8217;s own vibe, people, music and I don&#8217;t feel rushed internally knowing that I need to go back to my apartment or coworking space to actually work.&#8221;
+</p></blockquote>
+<p>When I quit my day job this year, it was partly so we could travel more without worrying too much about my work schedule, outside of when the kids are in school. In fact, just days after I finished writing my <a href="http://www.manton.org/tag/2weeks">two weeks notice</a> blog posts, we went to Europe and started a private family blog about the trip. So I&#8217;ve been inspired by Natasha&#8217;s blog as she shares her experience working in different cities.</p>
+<p>And that&#8217;s a theme you&#8217;ll find in many of the developer-oriented blogs on Brent&#8217;s list. Wanting to get better, learning something new, and then sharing it with everyone else. Take this advice from Becky Hansmeyer, who wrote a daily series of posts about what she learned building her iPhone app, one post each day while she waited for her app to be approved by Apple. <a href="http://beckyhansmeyer.com/2015/06/05/waiting-for-review-day-4-visual-style/">From day 4</a>, on design and color:</p>
+<blockquote><p>
+  &#8220;I think the biggest thing I learned in choosing colors and fonts for my app is not to get too hung up in making comparisons to other apps. I spent a lot of time looking at my favorite apps like Overcast and Tweetbot and thinking about the decisions the developers made, and as a result I wound up feeling like I had to make those same decisions. But that was stupid because my app is my own and is also designed for a much smaller market.&#8221;
+</p></blockquote>
+<p>Or this quote from Kristina Thai, who wrote <a href="http://www.kristinathai.com/how-to-be-a-speaker-if-you-dont-have-any-experience/">a post about preparing to give a talk</a> for the first time:</p>
+<blockquote><p>
+  &#8220;My presentation didn’t flow, it was jagged and very rough around the edges, but I kept at it, made some changes and it got better. And better. And even better. And then I practiced it in front of a couple of friends who gave me even more feedback until I was ready.&#8221;
+</p></blockquote>
+<p>Kristina also gave a talk called <a href="http://www.kristinathai.com/writing/">Become a Better Engineer Through Writing</a>. You can get a sense of the talk by downloading the slides. It covers the value to programmers in keeping a private journal, why you might write tutorials for your site, and makes a strong case for blogging.</p>
+<p>Blogging isn&#8217;t difficult, but it&#8217;s still not yet as easy as tweeting. By creating a blog, you&#8217;re making a statement that you <em>care</em> about something. As I go through <a href="http://inessential.com/2015/11/16/blogs_by_women">Brent&#8217;s list of bloggers</a>, that&#8217;s what I&#8217;m looking for: what does the author care about, and what can I learn from or be inspired by in their writing? Because the more diverse our RSS subscriptions are — the more varied the opinions in what we read and share with others — the closer it gets us to a strong, healthy community.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/11/a-diverse-community-through-writing.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Blips microblog</title>
+		<link>http://www.manton.org/2015/11/blips-microblog.html</link>
+		<comments>http://www.manton.org/2015/11/blips-microblog.html#comments</comments>
+		<pubDate>Tue, 17 Nov 2015 20:45:30 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[blips]]></category>
+		<category><![CDATA[microblog]]></category>
+		<category><![CDATA[microrss]]></category>
+		<category><![CDATA[rss]]></category>
+		<category><![CDATA[snippets]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3181</guid>
+		<description><![CDATA[Jussi Pekonen has relaunched his weblog, with a new focus on microblogging: &#8220;I want to own all content I produce. That way I can ensure that everything I write does not go the way of the dodo when the latest and coolest microblogging platform goes belly up.&#8221; He calls the short posts &#8220;blips&#8221;. I call [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Jussi Pekonen has <a href="http://pekonen.cc/blog/2015/11/09/Relaunching-old-launching-new-and-reactivating-a-dormant-account.html">relaunched his weblog</a>, with a new focus on microblogging:</p>
+<blockquote><p>
+  &#8220;I want to own <em>all content</em> I produce. That way I can ensure that everything I write does not go the way of the dodo when the latest and coolest microblogging platform goes belly up.&#8221;
+</p></blockquote>
+<p>He calls the short posts &#8220;blips&#8221;. I call mine <a href="http://www.manton.org/category/micro">snippets</a>, which I borrowed from <a href="http://noahread.net/snippets">Noah Read</a>. I like both names, but even more importantly, I like Jussi&#8217;s approach to owning his own content and providing a simple RSS feed of microblog posts. (I wrote more about <a href="http://www.manton.org/2015/11/rss-for-microblogs.html">RSS and microblogs</a> a couple weeks ago.)</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/11/blips-microblog.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>RSS for microblogs</title>
+		<link>http://www.manton.org/2015/11/rss-for-microblogs.html</link>
+		<comments>http://www.manton.org/2015/11/rss-for-microblogs.html#comments</comments>
+		<pubDate>Tue, 03 Nov 2015 16:30:47 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[json]]></category>
+		<category><![CDATA[microblogs]]></category>
+		<category><![CDATA[microrss]]></category>
+		<category><![CDATA[rss]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3140</guid>
+		<description><![CDATA[RSS is solid. It&#8217;s lasted a long time with very few changes, and forms the foundation for subscribing to weblogs and delivering podcasts. It&#8217;s huge and the open web is a much better place because RSS exists. But even if RSS doesn&#8217;t need to change, some types of apps would be better off if we [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>RSS is solid. It&#8217;s lasted a long time with very few changes, and forms the foundation for subscribing to weblogs and delivering podcasts. It&#8217;s huge and the open web is a much better place because RSS exists.</p>
+<p>But even if RSS doesn&#8217;t need to change, some types of apps would be better off if we took a fresh look at the elements in an RSS feed. What is really needed, and when faced with multiple &#8220;correct&#8221; options, which should we choose? As more writers embrace microblogging, it&#8217;s an opportunity to simplify our feeds and tools.</p>
+<p>This is my proposal for a bit of housekeeping around microblogging. It&#8217;s not a new format. It&#8217;s just a guide for producing the best RSS. I&#8217;d divided this proposal into 5 sections below.</p>
+<p><strong>Minimum viable elements</strong></p>
+<p>Look at the average RSS feed and there&#8217;s a lot of junk in it that most RSS readers ignore. While there&#8217;s nothing wrong with including extra XML elements, we should strive for a feed that is simple enough to be easily read. The fewer redundant and unused elements, the more consistently that different RSS readers will interpret it.</p>
+<p>Here&#8217;s an example of an RSS feed whittled down to its essential elements. Most feeds should look like this by default, and only add additional elements from the RSS spec or RSS extensions when it&#8217;s absolutely required (such as the enclosure element for podcasting).</p>
+<pre><code>&lt;rss version="2.0"&gt;
+    &lt;channel&gt;
+        &lt;title&gt;Manton Reece&lt;/title&gt;
+        &lt;description&gt;Manton's weblog.&lt;/description&gt;
+        &lt;link&gt;http://www.manton.org/&lt;/title&gt;
+        &lt;item&gt;
+            &lt;title&gt;&lt;/title&gt;
+            &lt;description&gt;&lt;![CDATA[
+                &lt;p&gt;Hello world.&lt;/p&gt;
+            ]]&lt;/description&gt;
+            &lt;pubDate&gt;Fri, 04 Sep 2015 15:32:32 +0000&lt;/pubDate&gt;
+            &lt;guid isPermalink="true"&gt;http://www.manton.org/2015/09/3007.html&lt;/guid&gt;
+            &lt;link&gt;http://www.manton.org/2015/09/3007.html&lt;/link&gt;
+            &lt;author&gt;@manton&lt;/author&gt;
+        &lt;/item&gt;
+        &lt;item&gt;
+            ...
+        &lt;/item&gt;
+    &lt;/channel&gt;
+&lt;/rss&gt;
+</code></pre>
+<p><strong>Title is optional</strong></p>
+<p>The existing RSS spec says that title is optional. In fact, in the early days of blogging, tools such as Radio Userland and Blogger didn&#8217;t even have titles. We got away from that with the popularity of Movable Type and WordPress, even though some modern apps like Tumblr still look at a title as unnecessary for certain post types.</p>
+<p>With microblogging, the title will frequently be empty or missing. Do tweets have titles? No, and neither should short microblog posts published through a traditional blog platform. Skipping the title removes some friction in the writing process, making it easier to write a quick post and send it out.</p>
+<p>RSS readers must be prepared for a title-less RSS item. Instead of inserting &#8220;Untitled&#8221; as the placeholder title, think about how your reading UI can accommodate microblog posts gracefully. Blank titles (where the title exists but is an empty string) are equivalent to a completely missing title element.</p>
+<p><strong>HTML post text</strong></p>
+<p>The description XML element in RSS wasn&#8217;t originally intended to support HTML. It was often a text summary or opening paragraph of an article, rather than full text. With microblogging, you always want the full text inside the RSS feed, including any styled text or inline HTML links.</p>
+<p>Some feeds will include the plain text version of a post in the description element, and the HTML version in a content:encoded element, as specified by <a href="http://purl.org/rss/1.0/modules/content/">this RSS namespace extension</a>. This should be avoided in favor of a single description element with the full HTML, using CDATA syntax to avoid escaping characters.</p>
+<p>In modern apps, rendering simple HTML is common. If an RSS reader can&#8217;t show HTML, it should strip out the HTML tags itself. It&#8217;s not up to the feed to provide multiple versions. If both description and content:encoded are present in a feed while parsing, for compatibility it&#8217;s acceptable to prefer whichever includes HTML.</p>
+<p><strong>JSON</strong></p>
+<p>I said this isn&#8217;t a new format, but we should have the option of expressing RSS in JSON instead of XML format. Back in 2012, <a href="http://scripting.com/stories/2012/09/10/rssInJsonForReal.html">Dave Winer wrote about</a> producing a JSON-based RSS feed, with a very literal mapping of elements. If our goal is to cleanup some of the edge cases of RSS, though, we can further simplify it. I&#8217;d suggest collapsing a few of the elements, so that it isn&#8217;t overly nested like XML, and to JSON-ify the item elements into a simple items array:</p>
+<pre><code>{
+    "channel": {
+        "title": "Manton Reece",
+        "description": "Manton's weblog."
+        "link": "http://www.manton.org/"
+    },
+    "items": [
+        {
+            "title": "",
+            "description": "&lt;p&gt;Hello world.&lt;/p&gt;",
+            "pubDate": "Fri, 04 Sep 2015 15:32:32 +0000",
+            "guid": "http://www.manton.org/2015/09/3007.html",
+            "link": "http://www.manton.org/2015/09/3007.html",
+            "author": "@manton"
+        }
+    ]
+}
+</code></pre>
+<p>This preserves the element names and overall feel of RSS, while being cleaner and more JSON-like. Note that it&#8217;s easy to embed HTML directly in the JSON description field. Because there&#8217;s no room for an isPermalink attribute, if the guid is a URL, it is always the permalink.</p>
+<p><strong>Authors</strong></p>
+<p>A feed for a microblog platform, or a group weblog, might include multiple items each from different authors. The RSS spec says that the XML &#8220;author&#8221; element is an email address, but that is very rarely used in real feeds.</p>
+<p>Instead, the author element value should vary slightly from the original specification to include either a simple full name, or a username prefixed with the @-sign: <code>&lt;author&gt;Manton Reece&lt;/author&gt;</code> or <code>&lt;author&gt;@manton&lt;/author&gt;</code>.</p>
+<p><em>What do you think? I&#8217;d love to hear any feedback <a href="mailto:manton@manton.org">via email</a>. If you write on your own blog about this, send me the link.</em></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/11/rss-for-microblogs.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Medium.com updates</title>
+		<link>http://www.manton.org/2015/10/medium-com-updates.html</link>
+		<comments>http://www.manton.org/2015/10/medium-com-updates.html#comments</comments>
+		<pubDate>Thu, 29 Oct 2015 16:05:35 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[davewiner]]></category>
+		<category><![CDATA[ev]]></category>
+		<category><![CDATA[medium]]></category>
+		<category><![CDATA[rss]]></category>
+		<category><![CDATA[titles]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3117</guid>
+		<description><![CDATA[Ev Williams announced a batch of new Medium features recently: &#8220;There’s always another level. Another level of polish and power in our product. Another level of breadth to our content. Another level of dialogue and discussion. And another level of progress. Today, we are announcing a slew of updates to bring Medium to the next [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://medium.com/the-story/taking-medium-to-the-next-level-cb7f223fad86">Ev Williams announced</a> a batch of new Medium features recently:</p>
+<blockquote><p>
+  &#8220;There’s always another level. Another level of polish and power in our product. Another level of breadth to our content. Another level of dialogue and discussion. And another level of progress. Today, we are announcing a slew of updates to bring Medium to the next level and in the process make it more powerful, more fun, more democratic, and more essential.&#8221;
+</p></blockquote>
+<p>Those updates include new mobile apps, @-mention support, a publishing API, and editor improvements. There&#8217;s also a new logo. (I know they put a lot of thought into this, and it&#8217;s a strong idea, but to me the logo&#8217;s design is so clever it&#8217;s actually kind of distracting. A little more subtlety in how they&#8217;re using depth could improve future iterations.)</p>
+<p><a href="https://red-sweater.com/blog/3079/mediums-new-api">Daniel Jalkut blogs about</a> what&#8217;s included (and what&#8217;s left out) in Medium&#8217;s new API:</p>
+<blockquote><p>
+  &#8220;One of the most unique aspects to Medium’s API is the provision for specifying a <em>canonical URL</em> and <em>license</em> on a post being submitted to the service. The canonical URL refers to another web location that should be considered <em>the original</em>, or most authoritative version of a post, while the license designates whether the post’s copyright terms stipulate a post is sharable as public domain or under a particular Creative Commons license. These attributes together indicate that Medium expects and encourages users of the API to contribute content that is not intended to be exclusive to Medium.&#8221;
+</p></blockquote>
+<p>While <a href="http://www.manton.org/2015/09/evan-williams-on-indie-web-sites.html">I generally think</a> the trend to centralized writing platforms is bad for the web, I&#8217;m happy to see these changes from Medium, especially the API and expanding custom domain support. Medium has grown very slowly and carefully. I expect we&#8217;ll see quicker iteration on these new features now that they&#8217;re officially out.</p>
+<p>In the process of experimenting with Medium posting, <a href="http://scripting.com/2015/10/13/gettingInSyncWithMedium.html">Dave Winer shared his take on post title support</a>:</p>
+<blockquote><p>
+  &#8220;It seems they have arrived at what I think is the correct answer: posts can have titles or not, and the content system has to be prepared for either case. That&#8217;s where this blog was <a href="http://scripting.com/2015/10/07/iNeedABetterBloggingSystem.html">in 1999</a>, before other blogging tools and Google Reader pushed the world toward requiring titles. And then Twitter came along not having titles at all, and the intersection between all the kinds of blog-consuming environments became almost empty.&#8221;
+</p></blockquote>
+<p>I&#8217;m very interested in this because <a href="http://www.manton.org/2014/09/defining-a-microblog-post.html">microblogging shouldn&#8217;t include titles</a>. While Medium is mostly traditional essays, clearly comments don&#8217;t need titles, and Medium&#8217;s quick-posting UI encourages short posts. I hope this approach will get more RSS readers to gracefully handle title-less posts.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/10/medium-com-updates.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Lightbox</title>
+		<link>http://www.manton.org/2015/09/the-lightbox.html</link>
+		<comments>http://www.manton.org/2015/09/the-lightbox.html#comments</comments>
+		<pubDate>Mon, 28 Sep 2015 20:42:05 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Animation]]></category>
+		<category><![CDATA[animation]]></category>
+		<category><![CDATA[archive]]></category>
+		<category><![CDATA[lightbox]]></category>
+		<category><![CDATA[rss]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3080</guid>
+		<description><![CDATA[In 1999, I started a link weblog to collect news about animated films. I updated it for a few years, until there were plenty of other good news sources from industry writers more qualified than I was to run such a site. I was just a fan. The site was a homegrown MySQL database and [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>In 1999, I started a link weblog to collect news about animated films. I updated it for a few years, until there were plenty of other good news sources from industry writers more qualified than I was to run such a site. I was just a fan.</p>
+<p>The site was a homegrown MySQL database and set of PHP scripts. Somewhere along the way, I lost the archive, and never noticed that the site had broken until today. To make matters more difficult, I had blocked it in my robots.txt, so the Internet Archive copy (which existed, at least in parts) wouldn&#8217;t load cleanly.</p>
+<p>I took some time today to piece it back together as a new static HTML file and (partial) RSS feed. I&#8217;ve preserved the original design and HTML tags. Fun rediscoveries in the HTML include spacer GIFs, &lt;blockquote&gt; to indent the entire page, and RSS 0.91.</p>
+<p>I called it <a href="http://www.manton.org/lightbox/">The Lightbox</a>. It was just a linkblog. But now 16 years later, I&#8217;ve enjoyed skimming through the old posts.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/09/the-lightbox.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>I will return to Twitter when&#8230;</title>
 		<link>http://www.manton.org/2015/08/i-will-return-to-twitter-when.html</link>
 		<comments>http://www.manton.org/2015/08/i-will-return-to-twitter-when.html#comments</comments>
@@ -143,120 +342,8 @@
 			<wfw:commentRss>http://www.manton.org/2015/06/microblog-timelines-project-lightning-and-river-js.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
-		<item>
-		<title>Apple News and RSS</title>
-		<link>http://www.manton.org/2015/06/apple-news-and-rss.html</link>
-		<comments>http://www.manton.org/2015/06/apple-news-and-rss.html#comments</comments>
-		<pubDate>Mon, 15 Jun 2015 19:25:24 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Weblogs]]></category>
-		<category><![CDATA[adn]]></category>
-		<category><![CDATA[news]]></category>
-		<category><![CDATA[rss]]></category>
-		<category><![CDATA[wwdc]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=2713</guid>
-		<description><![CDATA[Daniel Jalkut has an optimistic take on Apple News. He doesn’t think it is comparable to centralized publishing systems like Twitter or Medium for one important reason: “Because the content doesn’t live on Apple’s servers. This is a key distinction in my mind. Apple’s News App serves primarily not as a source of information, but [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="http://bitsplitting.org/2015/06/15/apple-news-and-the-open-web/">Daniel Jalkut has an optimistic take</a> on Apple News. He doesn’t think it is comparable to centralized publishing systems like Twitter or Medium for one important reason:</p>
-<blockquote><p>
-  “Because <em>the content doesn’t live on Apple’s servers</em>. This is a key distinction in my mind. Apple’s News App serves primarily not as a <em>source</em> of information, but as an amplifier of it.”
-</p></blockquote>
-<p>Any technology that invokes “amplifier” in a review is something I want to pay attention to. I used the same word in the closing paragraph of <a href="http://manton.org/2013/08/waiting_for_appnets.html">my pitch for App.net</a>. That service is fading away now, of course, but it’s just another reminder that even the most well-intentioned platforms are dangerous if they distract us from controlling our own content and hosting it at a custom domain.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/06/apple-news-and-rss.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>If a tree falls</title>
-		<link>http://www.manton.org/2015/04/if-a-tree-falls.html</link>
-		<comments>http://www.manton.org/2015/04/if-a-tree-falls.html#comments</comments>
-		<pubDate>Mon, 06 Apr 2015 19:40:48 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Weblogs]]></category>
-		<category><![CDATA[coralreef]]></category>
-		<category><![CDATA[microblogs]]></category>
-		<category><![CDATA[rss]]></category>
-		<category><![CDATA[snippets]]></category>
-		<category><![CDATA[trees]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=2544</guid>
-		<description><![CDATA[There’s no denying the fact that my writing would have a greater reach today if I was still active on Twitter and tweeting links there. Posting to my own microblog feed and cross-posting to the dwindling user base that is App.net has an obvious “if a tree falls in a forest and no one is [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>There’s no denying the fact that my writing would have a greater reach today if I was still active on Twitter and tweeting links there. Posting to <a href="http://www.manton.org/category/micro">my own microblog feed</a> and cross-posting to the dwindling user base that is App.net has an obvious “if a tree falls in a forest and no one is around to hear it, does it make a sound?” aspect to it. If the post is read by so few people, some might argue that it can’t be as relevant to a larger conversation.</p>
-<p>This doesn’t bum me out, though. It <em>inspires</em> me. It reminds me that I believe in something ambitious that has to be built in layers, starting small — a more open microblog platform that other apps can hang on to, encouraging new writing that will last.</p>
-<p>Dave Winer calls this process of building successful platforms <a href="http://scripting.com/stories/2007/04/28/twitterAsCoralReef.html">a coral reef</a>. I think it’s a forest. Only the most passionate users of the open web can hear the tree falling today, but tomorrow there will be new growth. We plant a seed with each tool we build and with every RSS feed that’s wired up. There will eventually be many forests, crowded with plenty of people listening, interconnected regions that can’t be bound in the way a closed system inherently is.</p>
-<p>If you <a href="http://www.manton.org/2015/04/how-to-start-a-microblog.html">join in and post</a>, maybe your posts won’t be heard as clearly today. But in the future they will become the oldest, strongest pillars around which everything else grows.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/04/if-a-tree-falls.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>How to start a microblog</title>
-		<link>http://www.manton.org/2015/04/how-to-start-a-microblog.html</link>
-		<comments>http://www.manton.org/2015/04/how-to-start-a-microblog.html#comments</comments>
-		<pubDate>Mon, 06 Apr 2015 14:51:54 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Weblogs]]></category>
-		<category><![CDATA[microblog]]></category>
-		<category><![CDATA[rss]]></category>
-		<category><![CDATA[snippets]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=2539</guid>
-		<description><![CDATA[All my short, microblog-style posts go to my own weblog first, and also get cross-posted manually to App.net. You can view them in a special category and RSS feed. I think owning your own posts on the internet — even if they seem unimportant and fleeting — is a valuable contribution to the health of [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>All my short, microblog-style posts go to my own weblog first, and also get cross-posted manually to App.net. You can view them in <a href="http://www.manton.org/category/micro">a special category</a> and RSS feed.</p>
-<p>I think owning your own posts on the internet — even if they seem unimportant and fleeting — is a valuable contribution to the health of the open web. By loosely following <a href="http://www.manton.org/2014/09/defining-a-microblog-post.html">some simple conventions</a>, we can build stuff that goes beyond what purely centralized web apps like Twitter are capable of.</p>
-<p>Getting started is easy. I recommend one of 3 approaches right now if you want to play in this emerging ecosystem:</p>
-<ul>
-<li><a href="http://tumblr.com/">Tumblr</a>. Microblog posts don’t need titles, and Tumblr has never cared much for titles itself. Some of Tumblr’s post types fit the style of a microblog very well. They also provide custom domain mapping, so that if you want to move your site later you can do it without breaking links.</li>
-<li><a href="http://radio3.io/">Radio3</a>. The latest version of Dave Winer’s tool can cross-post to Twitter. The setup couldn’t be easier, and because it has it’s own RSS feed, it will be easy to plug into future apps or get your data out.</li>
-<li><a href="http://wordpress.com/">WordPress</a>. I use the self-hosted version of this. Just give microblog posts the “status” post type, which many WordPress themes can render with a tweet-like style. If you also put these posts in a special category, you can provide RSS feeds just for certain post types, or filter them out of your main feed.</li>
-</ul>
-<p>Since last year I’ve been working on something new that is all about microblogging. I hope that it will encourage many more microblogs, but there’s no reason to wait until then. You can start a microblog today with one of the above apps (or dozens of other blogging solutions), and more fully control your own presence on the web.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/04/how-to-start-a-microblog.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Snippets category paging</title>
-		<link>http://www.manton.org/2015/01/snippets-category-paging.html</link>
-		<comments>http://www.manton.org/2015/01/snippets-category-paging.html#comments</comments>
-		<pubDate>Fri, 23 Jan 2015 17:19:22 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Weblogs]]></category>
-		<category><![CDATA[rss]]></category>
-		<category><![CDATA[snippets]]></category>
-		<category><![CDATA[wordpress]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=2435</guid>
-		<description><![CDATA[Today I fixed some URL-related issues with this blog since moving to WordPress. Clicking through multiple pages of posts in a category now works again. I tweaked the category links slightly, dropping the .html extension, but all the old URLs are preserved through redirects. Also a reminder if you&#8217;re subscribed to the RSS feed: my [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Today I fixed some URL-related issues with this blog since moving to WordPress. Clicking through multiple pages of posts in a category now works again. I tweaked the category links slightly, dropping the .html extension, but all the old URLs are preserved through redirects.</p>
-<p>Also a reminder if you&#8217;re subscribed to the RSS feed: my shorter, microblog-style posts go into the <a href="http://www.manton.org/category/micro/">Snippets category</a>, which  is not included in the main feed. If you&#8217;d like to subscribe to those as well, just add the <a href="http://www.manton.org/snippets.xml">Snippets RSS feed</a> to your news reader. I also still cross-post them to App.net.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/01/snippets-category-paging.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Making RSS real-time</title>
-		<link>http://www.manton.org/2014/10/making-rss-real-time.html</link>
-		<comments>http://www.manton.org/2014/10/making-rss-real-time.html#comments</comments>
-		<pubDate>Wed, 15 Oct 2014 14:52:08 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Weblogs]]></category>
-		<category><![CDATA[ping]]></category>
-		<category><![CDATA[rss]]></category>
-		<category><![CDATA[xmlrpc]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=2338.html</guid>
-		<description><![CDATA[One of the critiques of RSS feeds in a world dominated by Facebook and Twitter is that RSS just isn&#8217;t fast enough. You can&#8217;t hope to achieve what Twitter calls &#8220;in-the-moment updates&#8221; and &#8220;watch events unfold&#8221; if your client is polling each web site&#8217;s RSS feed once an hour for new microblog posts. Luckily this [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>One of the critiques of RSS feeds in a world dominated by Facebook and Twitter is that RSS just isn&#8217;t fast enough. You can&#8217;t hope  to achieve what Twitter calls &#8220;in-the-moment updates&#8221; and &#8220;watch events unfold&#8221; if your client is polling each web site&#8217;s RSS feed once an hour for new microblog posts.</p>
-<p>Luckily this was solved years ago. Many blogging apps (including WordPress) have a setting to &#8220;ping&#8221; another server when a post has been published. When it receives this notification, the other server can request the RSS feed and make note of the new post right away.</p>
-<p>There are a few flavors of this, such as just passing the URL of the updated feed, or sending an XML-RPC request, or passing the actual post content along with the ping as JSON. It may not be the most efficient or elegant solution, but it works well, and it&#8217;s significantly better than frequent polling. You could build something on this.</p>
-<p>Some distributed Twitter clones try to come up with something more clever instead. And there are attempts like <a href="https://code.google.com/p/pubsubhubbub/">PubSubHubbub</a> with significant traction. But adopting any new technology is hard, and this ping system is surprisingly well deployed already. <a href="http://en.wikipedia.org/wiki/Worse_is_better">Worse is better</a> wins again.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/10/making-rss-real-time.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 1.650 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:21:42 -->
+<!-- Dynamic page generated in 1.337 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-12-18 17:16:02 -->

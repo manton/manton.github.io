@@ -12,12 +12,39 @@
 	<atom:link href="http://www.manton.org/tag/tweetlibrary/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 18 Dec 2015 17:56:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
 	<item>
+		<title>Developing for the iPad Pro</title>
+		<link>http://www.manton.org/2015/11/developing-for-the-ipad-pro.html</link>
+		<comments>http://www.manton.org/2015/11/developing-for-the-ipad-pro.html#comments</comments>
+		<pubDate>Fri, 13 Nov 2015 19:19:01 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[ipadpro]]></category>
+		<category><![CDATA[layout]]></category>
+		<category><![CDATA[macstories]]></category>
+		<category><![CDATA[tweetlibrary]]></category>
+		<category><![CDATA[uikit]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3171</guid>
+		<description><![CDATA[Let&#8217;s start with a quote from the MacStories review by Federico Viticci: &#8220;For developers, it&#8217;s time to be bold with their iOS apps and understand that they can be more than single-purpose utilities. There are millions of people who aren&#8217;t buying PCs anymore because mobile devices are their only computers.&#8221; I&#8217;ve been using the iPad [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Let&#8217;s start with a quote <a href="https://www.macstories.net/stories/ipad-pro-review/">from the MacStories review</a> by Federico Viticci:</p>
+<blockquote><p>
+  &#8220;For developers, it&#8217;s time to be bold with their iOS apps and understand that they can be more than single-purpose utilities. There are millions of people who aren&#8217;t buying PCs anymore because mobile devices are their only computers.&#8221;
+</p></blockquote>
+<p>I&#8217;ve been using the iPad Pro a lot in just the last two days. Apps that have taken advantage of the larger screen — and that support iPad multitasking well — are just much more useful. It&#8217;s great to have Slack or Tweetbot in the sidebar and a writing app in the main part of the screen. (Until Editorial is updated, <a href="http://sethclifford.me/2015/11/things-i-like-this-week-volume-15/">like Seth Clifford</a> I&#8217;ve switched to Byword.)</p>
+<p>As a developer, going from an iPad Mini to an iPad Pro has opened my eyes to what Federico says above. You simply can&#8217;t have a great iPad app today if it doesn&#8217;t attempt to fit well on the iPad Pro. So although <a href="http://www.manton.org/2014/11/winding-down-my-twitter-apps.html">I said</a> I would discontinue my app <a href="http://www.riverfold.com/software/tweetlibrary/">Tweet Library</a>, I&#8217;ve actually been spending some time this week to <em>update it</em> to support iPad multitasking.</p>
+<p>The key to iPad Pro support is actually less about auto layout (although that&#8217;s helpful too), and more about split views and size classes. For a modern app, this is an easy transition. But Tweet Library was written for iOS 4. Back then, UISplitViewController was extremely underpowered. I had used MGSplitViewController instead, which I&#8217;ve modified over the years to adapt to multiple screen sizes from the iPhone to the iPad. So the first step to real iPad multitasking was to rip out most of the split view code and start over with a clean foundation based on iOS 8/9 and UISplitViewController. Not exactly trivial work that I could knock out in a day, although I tried.</p>
+<p>I remain very optimistic about the iPad Pro, especially <a href="http://www.manton.org/2015/11/the-incomplete-ipad-pro.html">when the Apple Pencil is actually available</a>. From a business standpoint, it also seems like a better investment in time than either the Apple Watch or Apple TV. There are so many platforms and distractions now. If I can&#8217;t focus on a single platform, I want to at least be proactive in saving some attention for the iPad.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/11/developing-for-the-ipad-pro.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Watermark transition plan</title>
 		<link>http://www.manton.org/2015/05/watermark-transition-plan.html</link>
 		<comments>http://www.manton.org/2015/05/watermark-transition-plan.html#comments</comments>
@@ -221,27 +248,8 @@
 			<wfw:commentRss>http://www.manton.org/2013/10/tweet_library_24.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
-		<item>
-		<title>Tweet Library 2.3</title>
-		<link>http://www.manton.org/2013/05/tweet_library_23.html</link>
-		<comments>http://www.manton.org/2013/05/tweet_library_23.html#comments</comments>
-		<pubDate>Thu, 09 May 2013 13:19:04 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Programming]]></category>
-		<category><![CDATA[ipad]]></category>
-		<category><![CDATA[tweetlibrary]]></category>
-		<category><![CDATA[twitter]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2013/05/tweet_library_23.html</guid>
-		<description><![CDATA[Tweet Library 2.3 shipped last week, and I just submitted an update last night to fix a few crashing bugs and other minor problems with the release. I’m pretty happy with this version. In addition to finally switching to Twitter’s v1.1 API — easier said than done; I used several API calls that were changed or [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="http://www.riverfold.com/software/tweetlibrary/">Tweet Library</a> 2.3 shipped last week, and I just submitted an update last night to fix a few crashing bugs and other minor problems with the release. I’m pretty happy with this version. In addition to finally switching to Twitter’s v1.1 API — easier said than done; I used several API calls that were changed or completely went away — this release added better gestures, a month filter to the iPhone version, and an updated UI with a lighter, clearer design.</p>
-<p>You can see the <a href="http://www.riverfold.com/software/tweetlibrary/releasenotes/">full changes in the release notes</a>, or listen to <a href="http://www.coreint.org/2013/05/episode-88-bundling-a-thousand-features-into-it/">episode 88 of Core Intuition</a>. Daniel and I discussed the expedited review process and new versions. Tweet Library 2.3 is available <a href="http://itunes.apple.com/app/tweet-library/id365768793?mt=8">in the App Store for $7.99</a> as a universal app for both iPhone and iPad.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/05/tweet_library_23.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 1.582 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:14:46 -->
+<!-- Dynamic page generated in 1.121 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-12-18 17:15:56 -->

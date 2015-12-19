@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; json</title>
+	<atom:link href="http://www.manton.org/tag/json/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Fri, 18 Dec 2015 17:56:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>RSS for microblogs</title>
+		<link>http://www.manton.org/2015/11/rss-for-microblogs.html</link>
+		<comments>http://www.manton.org/2015/11/rss-for-microblogs.html#comments</comments>
+		<pubDate>Tue, 03 Nov 2015 16:30:47 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[json]]></category>
+		<category><![CDATA[microblogs]]></category>
+		<category><![CDATA[microrss]]></category>
+		<category><![CDATA[rss]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3140</guid>
+		<description><![CDATA[RSS is solid. It&#8217;s lasted a long time with very few changes, and forms the foundation for subscribing to weblogs and delivering podcasts. It&#8217;s huge and the open web is a much better place because RSS exists. But even if RSS doesn&#8217;t need to change, some types of apps would be better off if we [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>RSS is solid. It&#8217;s lasted a long time with very few changes, and forms the foundation for subscribing to weblogs and delivering podcasts. It&#8217;s huge and the open web is a much better place because RSS exists.</p>
+<p>But even if RSS doesn&#8217;t need to change, some types of apps would be better off if we took a fresh look at the elements in an RSS feed. What is really needed, and when faced with multiple &#8220;correct&#8221; options, which should we choose? As more writers embrace microblogging, it&#8217;s an opportunity to simplify our feeds and tools.</p>
+<p>This is my proposal for a bit of housekeeping around microblogging. It&#8217;s not a new format. It&#8217;s just a guide for producing the best RSS. I&#8217;d divided this proposal into 5 sections below.</p>
+<p><strong>Minimum viable elements</strong></p>
+<p>Look at the average RSS feed and there&#8217;s a lot of junk in it that most RSS readers ignore. While there&#8217;s nothing wrong with including extra XML elements, we should strive for a feed that is simple enough to be easily read. The fewer redundant and unused elements, the more consistently that different RSS readers will interpret it.</p>
+<p>Here&#8217;s an example of an RSS feed whittled down to its essential elements. Most feeds should look like this by default, and only add additional elements from the RSS spec or RSS extensions when it&#8217;s absolutely required (such as the enclosure element for podcasting).</p>
+<pre><code>&lt;rss version="2.0"&gt;
+    &lt;channel&gt;
+        &lt;title&gt;Manton Reece&lt;/title&gt;
+        &lt;description&gt;Manton's weblog.&lt;/description&gt;
+        &lt;link&gt;http://www.manton.org/&lt;/title&gt;
+        &lt;item&gt;
+            &lt;title&gt;&lt;/title&gt;
+            &lt;description&gt;&lt;![CDATA[
+                &lt;p&gt;Hello world.&lt;/p&gt;
+            ]]&lt;/description&gt;
+            &lt;pubDate&gt;Fri, 04 Sep 2015 15:32:32 +0000&lt;/pubDate&gt;
+            &lt;guid isPermalink="true"&gt;http://www.manton.org/2015/09/3007.html&lt;/guid&gt;
+            &lt;link&gt;http://www.manton.org/2015/09/3007.html&lt;/link&gt;
+            &lt;author&gt;@manton&lt;/author&gt;
+        &lt;/item&gt;
+        &lt;item&gt;
+            ...
+        &lt;/item&gt;
+    &lt;/channel&gt;
+&lt;/rss&gt;
+</code></pre>
+<p><strong>Title is optional</strong></p>
+<p>The existing RSS spec says that title is optional. In fact, in the early days of blogging, tools such as Radio Userland and Blogger didn&#8217;t even have titles. We got away from that with the popularity of Movable Type and WordPress, even though some modern apps like Tumblr still look at a title as unnecessary for certain post types.</p>
+<p>With microblogging, the title will frequently be empty or missing. Do tweets have titles? No, and neither should short microblog posts published through a traditional blog platform. Skipping the title removes some friction in the writing process, making it easier to write a quick post and send it out.</p>
+<p>RSS readers must be prepared for a title-less RSS item. Instead of inserting &#8220;Untitled&#8221; as the placeholder title, think about how your reading UI can accommodate microblog posts gracefully. Blank titles (where the title exists but is an empty string) are equivalent to a completely missing title element.</p>
+<p><strong>HTML post text</strong></p>
+<p>The description XML element in RSS wasn&#8217;t originally intended to support HTML. It was often a text summary or opening paragraph of an article, rather than full text. With microblogging, you always want the full text inside the RSS feed, including any styled text or inline HTML links.</p>
+<p>Some feeds will include the plain text version of a post in the description element, and the HTML version in a content:encoded element, as specified by <a href="http://purl.org/rss/1.0/modules/content/">this RSS namespace extension</a>. This should be avoided in favor of a single description element with the full HTML, using CDATA syntax to avoid escaping characters.</p>
+<p>In modern apps, rendering simple HTML is common. If an RSS reader can&#8217;t show HTML, it should strip out the HTML tags itself. It&#8217;s not up to the feed to provide multiple versions. If both description and content:encoded are present in a feed while parsing, for compatibility it&#8217;s acceptable to prefer whichever includes HTML.</p>
+<p><strong>JSON</strong></p>
+<p>I said this isn&#8217;t a new format, but we should have the option of expressing RSS in JSON instead of XML format. Back in 2012, <a href="http://scripting.com/stories/2012/09/10/rssInJsonForReal.html">Dave Winer wrote about</a> producing a JSON-based RSS feed, with a very literal mapping of elements. If our goal is to cleanup some of the edge cases of RSS, though, we can further simplify it. I&#8217;d suggest collapsing a few of the elements, so that it isn&#8217;t overly nested like XML, and to JSON-ify the item elements into a simple items array:</p>
+<pre><code>{
+    "channel": {
+        "title": "Manton Reece",
+        "description": "Manton's weblog."
+        "link": "http://www.manton.org/"
+    },
+    "items": [
+        {
+            "title": "",
+            "description": "&lt;p&gt;Hello world.&lt;/p&gt;",
+            "pubDate": "Fri, 04 Sep 2015 15:32:32 +0000",
+            "guid": "http://www.manton.org/2015/09/3007.html",
+            "link": "http://www.manton.org/2015/09/3007.html",
+            "author": "@manton"
+        }
+    ]
+}
+</code></pre>
+<p>This preserves the element names and overall feel of RSS, while being cleaner and more JSON-like. Note that it&#8217;s easy to embed HTML directly in the JSON description field. Because there&#8217;s no room for an isPermalink attribute, if the guid is a URL, it is always the permalink.</p>
+<p><strong>Authors</strong></p>
+<p>A feed for a microblog platform, or a group weblog, might include multiple items each from different authors. The RSS spec says that the XML &#8220;author&#8221; element is an email address, but that is very rarely used in real feeds.</p>
+<p>Instead, the author element value should vary slightly from the original specification to include either a simple full name, or a username prefixed with the @-sign: <code>&lt;author&gt;Manton Reece&lt;/author&gt;</code> or <code>&lt;author&gt;@manton&lt;/author&gt;</code>.</p>
+<p><em>What do you think? I&#8217;d love to hear any feedback <a href="mailto:manton@manton.org">via email</a>. If you write on your own blog about this, send me the link.</em></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/11/rss-for-microblogs.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.027 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-12-18 17:29:18 -->

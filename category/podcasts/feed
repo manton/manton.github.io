@@ -12,12 +12,153 @@
 	<atom:link href="http://www.manton.org/category/podcasts/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 18 Dec 2015 17:56:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
 	<item>
+		<title>Core Intuition 211 and fallback plans</title>
+		<link>http://www.manton.org/2015/12/core-intuition-211-and-fallback-plans.html</link>
+		<comments>http://www.manton.org/2015/12/core-intuition-211-and-fallback-plans.html#comments</comments>
+		<pubDate>Fri, 18 Dec 2015 16:52:28 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[kazu]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[techtalk]]></category>
+		<category><![CDATA[tvos]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3268</guid>
+		<description><![CDATA[Today on Core Intuition, Daniel and I talk about my time at the tvOS Tech Talk and the recent executive changes at Apple. From the show notes: &#8220;Manton and Daniel discuss Apple TV development challenges, Apple’s executive team shakeup and its impact on the App Stores, and keeping a good attitude about successes and shortcomings [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://coreint.org/211">Today on Core Intuition</a>, Daniel and I talk about my time at the tvOS Tech Talk and the recent executive changes at Apple. From the show notes:</p>
+<blockquote><p>
+  &#8220;Manton and Daniel discuss Apple TV development challenges, Apple’s executive team shakeup and its impact on the App Stores, and keeping a good attitude about successes and shortcomings as an ambitious indie developer.&#8221;
+</p></blockquote>
+<p>We wrap up the show with a conversation about taking risks and setting the right priorities for an indie business. Along the way I mention <a href="http://twitter.com/boltcity/status/6672228351">this tweet from Kazu Kibuishi</a>, which I misquoted slightly. Here&#8217;s the actual text:</p>
+<blockquote><p>
+  &#8220;A professor once told me that &#8216;if you have a fallback, you will fall back.&#8217; I have found this to be true.&#8221;
+</p></blockquote>
+<p>If you enjoy the show, consider letting a friend know about it, or leaving a mini review on Twitter or iTunes. Thanks!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/12/core-intuition-211-and-fallback-plans.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Core Intuition 210</title>
+		<link>http://www.manton.org/2015/12/core-intuition-210.html</link>
+		<comments>http://www.manton.org/2015/12/core-intuition-210.html#comments</comments>
+		<pubDate>Sat, 12 Dec 2015 21:32:56 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[swift]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3253</guid>
+		<description><![CDATA[On the latest Core Intuition, we talk about open source Swift, it&#8217;s potential for web server frameworks, and more about blogging tools. From the show notes: &#8220;Daniel and Manton react to Swift’s open-sourcing, and the extent to which it adds momentum to the language and increases its appeal. They also discuss the open-sourcing of Microsoft’s [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>On the <a href="http://www.coreint.org/2015/12/episode-210-they-pushed-it-to-github/">latest Core Intuition</a>, we talk about open source Swift, it&#8217;s potential for web server frameworks, and more about blogging tools. From the show notes:</p>
+<blockquote><p>
+  &#8220;Daniel and Manton react to Swift’s open-sourcing, and the extent to which it adds momentum to the language and increases its appeal. They also discuss the open-sourcing of Microsoft’s MarsEdit-esque blog editor, Windows Live Writer.&#8221;
+</p></blockquote>
+<p>There were also a few new jobs posted to <a href="http://jobs.coreint.org/">jobs.coreint.org</a> yesterday. Check them out if you&#8217;re considering a change for 2016, or just curious what is out there for Objective-C and Swift jobs.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/12/core-intuition-210.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Core Intuition 206</title>
+		<link>http://www.manton.org/2015/11/core-intuition-206.html</link>
+		<comments>http://www.manton.org/2015/11/core-intuition-206.html#comments</comments>
+		<pubDate>Sat, 14 Nov 2015 15:03:25 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[ipadpro]]></category>
+		<category><![CDATA[macappstore]]></category>
+		<category><![CDATA[podcast]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3173</guid>
+		<description><![CDATA[Yesterday we published episode 206 of Core Intuition. From the show notes: &#8220;Daniel returns from Amsterdam to find Mac App Store issues abound. Manton buys an iPad Pro but has to wait for the Pencil. The two discuss the Mac App Store’s 6-year failure to evolve substantially, and dig into the emotional highs and lows [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Yesterday we published <a href="http://coreint.org/206">episode 206 of Core Intuition</a>. From the show notes:</p>
+<blockquote><p>
+  &#8220;Daniel returns from Amsterdam to find Mac App Store issues abound. Manton buys an iPad Pro but has to wait for the Pencil. The two discuss the Mac App Store’s 6-year failure to evolve substantially, and dig into the emotional highs and lows of enjoying and surviving Apple’s platform constraints.&#8221;
+</p></blockquote>
+<p>I really love how this episode turned out. It hits on several themes that have run through our show since the very first episode: a little tech news, some high-level coding talk, a bit of business analysis, and wrapped up with just how we <em>feel</em> right now about being indie developers. I hope you enjoy it.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/11/core-intuition-206.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Core Intuition 202 and Thoroughly Considered (and stickers!)</title>
+		<link>http://www.manton.org/2015/10/core-intuition-202-and-thoroughly-considered-and-stickers.html</link>
+		<comments>http://www.manton.org/2015/10/core-intuition-202-and-thoroughly-considered-and-stickers.html#comments</comments>
+		<pubDate>Fri, 16 Oct 2015 15:36:31 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[kickstarter]]></category>
+		<category><![CDATA[relayfm]]></category>
+		<category><![CDATA[stickers]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3105</guid>
+		<description><![CDATA[We posted episode 202 of Core Intuition yesterday. This was a fun episode because we didn&#8217;t plan for it; we just started talking. From the show notes: &#8220;Manton and Daniel discuss the paralysis of choosing what to work on as an indie, Manton’s mysterious Kickstarter campaign, and the allure of company stickers and other marketing [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We posted <a href="http://www.coreint.org/2015/10/episode-202-juggling-more-than-ever/">episode 202 of Core Intuition</a> yesterday. This was a fun episode because we didn&#8217;t plan for it; we just started talking. From the show notes:</p>
+<blockquote><p>
+  &#8220;Manton and Daniel discuss the paralysis of choosing what to work on as an indie, Manton’s mysterious Kickstarter campaign, and the allure of company stickers and other marketing stuff.&#8221;
+</p></blockquote>
+<p>Make sure to listen through the end for why I ordered <a href="https://twitter.com/riverfold/status/651509114284044288">stickers for my new app</a>. If you want one, you can <a href="mailto:manton@manton.org">email me</a> or send us <a href="mailto:feedback@coreint.org">podcast feedback</a>.</p>
+<p>As I said on the show, I highly recommend checking out <a href="http://www.relay.fm/tc">Thoroughly Considered</a>, the companion podcast for <a href="https://www.kickstarter.com/projects/danprovost/obi-a-smart-laser-toy-for-pets">Studio Neat&#8217;s Kickstarter project</a>. While you&#8217;re there, also consider backing the project, at the podcast level or the full Obi product if you have a pet that would love it. Even if it doesn&#8217;t successfully fund, I really enjoyed the first couple episodes of their podcast and hope it continues.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/10/core-intuition-202-and-thoroughly-considered-and-stickers.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Core Intuition 201</title>
+		<link>http://www.manton.org/2015/10/core-intuition-201.html</link>
+		<comments>http://www.manton.org/2015/10/core-intuition-201.html#comments</comments>
+		<pubDate>Fri, 09 Oct 2015 19:35:34 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[indie]]></category>
+		<category><![CDATA[overcast]]></category>
+		<category><![CDATA[ssl]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3097</guid>
+		<description><![CDATA[Today we published episode 201 of Core Intuition. From the show notes: &#8220;Daniel and Manton discuss Manton’s search for indie development contracts, the market in general for iOS and Mac contracts, and the range of options for obtaining free and low-cost SSL certificates.&#8221; And speaking of podcasts, congrats to Marco Arment on shipping Overcast 2.0. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Today we published <a href="http://www.coreint.org/2015/10/episode-201-you-need-a-certificate/">episode 201 of Core Intuition</a>. From the show notes:</p>
+<blockquote><p>
+  &#8220;Daniel and Manton discuss Manton’s search for indie development contracts, the market in general for iOS and Mac contracts, and the range of options for obtaining free and low-cost SSL certificates.&#8221;
+</p></blockquote>
+<p>And speaking of podcasts, <a href="http://www.marco.org/2015/10/09/overcast2">congrats to Marco Arment</a> on shipping Overcast 2.0. It&#8217;s a great update.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/10/core-intuition-201.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Core Int 200 with Marco</title>
+		<link>http://www.manton.org/2015/10/core-int-200-with-marco.html</link>
+		<comments>http://www.manton.org/2015/10/core-int-200-with-marco.html#comments</comments>
+		<pubDate>Fri, 02 Oct 2015 13:08:32 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[iphone6s]]></category>
+		<category><![CDATA[marco]]></category>
+		<category><![CDATA[overcast]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3084</guid>
+		<description><![CDATA[Last night we published our 200th episode of Core Intuition. To mark the milestone, Daniel and I welcomed special guest Marco Arment. We talked about the goals behind Overcast, his thoughts leading up to version 2.0, the podcast industry, and supporting our products, with a closing discussion about the new iPhones and proper use of [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Last night we published our <a href="http://coreint.org/">200th episode of Core Intuition</a>. To mark the milestone, Daniel and I welcomed special guest <a href="http://www.marco.org/">Marco Arment</a>. We talked about the goals behind <a href="https://overcast.fm/">Overcast</a>, his thoughts leading up to version 2.0, the podcast industry, and supporting our products, with a closing discussion about the new iPhones and proper use of 3D Touch.</p>
+<p>Thanks everyone for your support of the show. I hope you enjoy this one.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/10/core-int-200-with-marco.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Marco&#8217;s mic review and the quality trade-off</title>
 		<link>http://www.manton.org/2015/09/marcos-mic-review-and-the-quality-trade-off.html</link>
 		<comments>http://www.manton.org/2015/09/marcos-mic-review-and-the-quality-trade-off.html#comments</comments>
@@ -123,135 +264,8 @@
 			<wfw:commentRss>http://www.manton.org/2015/07/two-weeks-notice-core-int-192.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
-		<item>
-		<title>Two weeks notice: Core Int 191</title>
-		<link>http://www.manton.org/2015/07/two-weeks-notice-core-int-191.html</link>
-		<comments>http://www.manton.org/2015/07/two-weeks-notice-core-int-191.html#comments</comments>
-		<pubDate>Sat, 25 Jul 2015 04:11:46 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Podcasts]]></category>
-		<category><![CDATA[2weeks]]></category>
-		<category><![CDATA[coreint]]></category>
-		<category><![CDATA[fabric]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=2887</guid>
-		<description><![CDATA[We just published Core Intuition 191, the first episode recorded since I resigned from my regular job. In a way, it feels like this episode was 7 years in the making. Although I clearly wasn’t about to go indie that long ago, the topics that we’ve chosen to discuss on the podcast over the years [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>We just published <a href="http://coreint.org/191">Core Intuition 191</a>, the first episode recorded since I resigned from my regular job. In a way, it feels like this episode was 7 years in the making. Although I clearly wasn’t about to go indie that long ago, the topics that we’ve chosen to discuss on the podcast over the years have always followed that basic narrative: what can we do to improve our apps and business.</p>
-<p>And as I hinted about <a href="http://www.manton.org/2015/07/two-weeks-notice-podcast-revenue.html">earlier this week</a>, this episode also features the return of our sponsor Twitter to promote their Fabric suite of tools for developers, including Crashlytics and Answers. Great to have them back.</p>
-<p>From the show notes:</p>
-<blockquote><p>
-  “Manton and Daniel discuss Manton&#8217;s big decision to quit his job and go full-time indie. They also discuss the challenges of freeing up one&#8217;s mind to focus on work, the freedom of indie development, and the psychological benefits of a dedicated workplace.”
-</p></blockquote>
-<p>This is a milestone episode for me. I hope you enjoy it.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/07/two-weeks-notice-core-int-191.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Two weeks notice: podcast revenue</title>
-		<link>http://www.manton.org/2015/07/two-weeks-notice-podcast-revenue.html</link>
-		<comments>http://www.manton.org/2015/07/two-weeks-notice-podcast-revenue.html#comments</comments>
-		<pubDate>Tue, 21 Jul 2015 23:34:29 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Podcasts]]></category>
-		<category><![CDATA[2weeks]]></category>
-		<category><![CDATA[coreint]]></category>
-		<category><![CDATA[slack]]></category>
-		<category><![CDATA[sponsors]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=2873</guid>
-		<description><![CDATA[In my first post I framed the situation as pinning my indie hopes on two things: my own apps and client work. But as Daniel points out, I’ve actually lucked into several distinct revenue sources. And one of the most promising continues to be our Core Intuition podcast sponsorships and the companion jobs site. The [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="http://www.manton.org/2015/07/two-weeks-notice-the-first-weekend.html">In my first post</a> I framed the situation as pinning my indie hopes on two things: my own apps and client work. But <a href="http://bitsplitting.org/2015/07/20/full-time-indie/">as Daniel points out</a>, I’ve actually lucked into several distinct revenue sources. And one of the most promising continues to be our <a href="http://www.coreint.org/sponsorship/">Core Intuition podcast sponsorships</a> and the companion <a href="http://jobs.coreint.org/">jobs site</a>.</p>
-<p>The podcast got some good news over the weekend as we’re adding another long-term sponsor. We’ve had this company as sponsors in the past, and I’m looking forward to having them back and talking about how I use their products.</p>
-<p>Like software, revenue from Core Intuition comes in waves. Sometimes we’ll be booked up for months, other times there will be a drought of sponsors, so we’ll focus on pitching the jobs site instead. Sometimes we’ll get new job listings every day, other times a week will go by with nothing. Since we’re not actively marketing it as if it was a full-time business, we can’t count on any kind of consistency from it.</p>
-<p>It’s funny how the podcast worked out, though. We started it just because we thought it would be neat — because we thought we had something to share with the community, back in 2008 when there were very few developer podcasts. We added sponsorships to help justify the time and keep us to a weekly schedule. And now, ironically, the podcast that was <em>about</em> running an indie business will actually help me do just that.</p>
-<p>I’m so grateful to listeners new and old who have supported us. I received a bunch of nice “congrats!” emails and mentions on <a href="http://chat.coreint.org/">our Slack channels</a> yesterday. We’re approaching 200 episodes now, over 7 years, and I hope we can continue to keep the podcast interesting for some time to come.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/07/two-weeks-notice-podcast-revenue.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Core Int 180 and Slack</title>
-		<link>http://www.manton.org/2015/04/core-int-180-and-slack.html</link>
-		<comments>http://www.manton.org/2015/04/core-int-180-and-slack.html#comments</comments>
-		<pubDate>Sun, 19 Apr 2015 03:04:11 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Podcasts]]></category>
-		<category><![CDATA[slack]]></category>
-		<category><![CDATA[swift]]></category>
-		<category><![CDATA[wwdc]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=2579</guid>
-		<description><![CDATA[We posted this week&#8217;s Core Intuition late last night. This episode is all about WWDC tickets, our plan for San Francisco, and when we&#8217;re going to adopt Swift. We&#8217;re also trying something new for listeners, or anyone who wants to talk about programming, WWDC, and other Mac and iOS topics. You can get an automatic [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>We posted <a href="http://coreint.org/180">this week&#8217;s Core Intuition</a> late last night. This episode is all about WWDC tickets, our plan for San Francisco, and when we&#8217;re going to adopt Swift.</p>
-<p>We&#8217;re also trying something new for listeners, or anyone who wants to talk about programming, WWDC, and other Mac and iOS topics. You can get an automatic invite to our Slack channels for the show by visiting <a href="http://chat.coreint.org/">chat.coreint.org</a>. Feel free to join in! I&#8217;ve been impressed with how well Slack works for this, and the great discussion that&#8217;s already happening there.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/04/core-int-180-and-slack.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Core Intuition 171</title>
-		<link>http://www.manton.org/2015/02/core-intuition-171.html</link>
-		<comments>http://www.manton.org/2015/02/core-intuition-171.html#comments</comments>
-		<pubDate>Fri, 06 Feb 2015 14:09:19 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Podcasts]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=2454</guid>
-		<description><![CDATA[On this week&#8217;s Core Intuition: &#8220;Daniel and Manton touch again on the subject of killing off apps, assess the effectiveness of protest movements against the App Store, catch up on the state of the art for appealing App Store rejections, and acknowledge the coming end of NSConference.&#8221; In this episode we talked about how I [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>On <a href="http://www.coreint.org/2015/02/episode-171-not-quite-the-right-protest/">this week&#8217;s Core Intuition</a>:</p>
-<blockquote><p>
-  &#8220;Daniel and Manton touch again on the subject of killing off apps, assess the effectiveness of protest movements against the App Store, catch up on the state of the art for appealing App Store rejections, and acknowledge the coming end of NSConference.&#8221;
-</p></blockquote>
-<p>In this episode we talked about how I was going to need to more formally appeal the <a href="http://sunlit.io/">Sunlit</a> 1.3 rejection, not just comment in the Resolution Center. But shortly after we recorded, the app magically went live in the store anyway. I was very happy to avoid making further coding changes, though I expect I&#8217;ll have to revisit this if the app is ever rejected again.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/02/core-intuition-171.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Core Intuition 169</title>
-		<link>http://www.manton.org/2015/01/core-intuition-169.html</link>
-		<comments>http://www.manton.org/2015/01/core-intuition-169.html#comments</comments>
-		<pubDate>Fri, 23 Jan 2015 14:00:19 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Podcasts]]></category>
-		<category><![CDATA[clarion]]></category>
-		<category><![CDATA[coreint]]></category>
-		<category><![CDATA[sunlit]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=2433.html</guid>
-		<description><![CDATA[Last night we published episode 169 of Core Intuition. As we&#8217;ve done on a couple recent episodes, we let this one run for an hour with a discussion of App Store revenue, sales charts, and progress on our own projects. Sunlit 1.3, the update I mention in the podcast, is complete now and submitted to [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Last night we published <a href="http://www.coreint.org/2015/01/episode-169-shame-driven-development/">episode 169 of Core Intuition</a>. As we&#8217;ve done on a couple recent episodes, we let this one run for an hour with a discussion of App Store revenue, sales charts, and progress on our own projects. <a href="http://sunlit.io/">Sunlit</a> 1.3, the update I mention in the podcast, is complete now and submitted to Apple for review.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/01/core-intuition-169.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Core Intuition with Brent Simmons</title>
-		<link>http://www.manton.org/2014/10/core-intuition-with-brent-simmons.html</link>
-		<comments>http://www.manton.org/2014/10/core-intuition-with-brent-simmons.html#comments</comments>
-		<pubDate>Fri, 24 Oct 2014 13:03:34 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Podcasts]]></category>
-		<category><![CDATA[blogging]]></category>
-		<category><![CDATA[brent]]></category>
-		<category><![CDATA[coreint]]></category>
-		<category><![CDATA[seattle]]></category>
-		<category><![CDATA[web]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=2351.html</guid>
-		<description><![CDATA[Daniel and I welcomed Brent Simmons on the Core Intuition podcast this week. Here&#8217;s Brent on writing and the web as a guarantee of free speech: &#8220;The old web where I feel like more people saw the web as what I was talking about: as a unique and amazing invention in human history, a thing [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Daniel and I welcomed <a href="http://inessential.com/">Brent Simmons</a> on the <a href="http://coreint.org/160">Core Intuition podcast this week</a>. Here&#8217;s Brent on writing and the web as a guarantee of free speech:</p>
-<blockquote><p>
-  &#8220;The old web where I feel like more people saw the web as what I was talking about: as a unique and amazing invention in human history, a thing that can bring the 6 billion voices out into the open, to tell their stories and say what they&#8217;re going to say. That this thing is really something special, and it shouldn&#8217;t just be treated as a way for monetizing eyeballs and figuring out great new advances in interstitial ads. [&#8230;] We can&#8217;t lose sight of the opportunity this is. And if the story really is that the web exploded in the mid 90s and became a wonderful thing, and then stopped being that wonderful thing a little more than 20 years later&#8230; Then I couldn&#8217;t even bear that heartbreak.&#8221;
-</p></blockquote>
-<p>Hope you all enjoy the episode. It was great to have Brent on the show.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/10/core-intuition-with-brent-simmons.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 4.599 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2015-09-19 12:54:23 -->
+<!-- Dynamic page generated in 1.366 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-12-18 15:15:27 -->

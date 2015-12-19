@@ -12,12 +12,108 @@
 	<atom:link href="http://www.manton.org/tag/blogging/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 18 Dec 2015 17:56:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
 	<item>
+		<title>A diverse community through writing</title>
+		<link>http://www.manton.org/2015/11/a-diverse-community-through-writing.html</link>
+		<comments>http://www.manton.org/2015/11/a-diverse-community-through-writing.html#comments</comments>
+		<pubDate>Thu, 19 Nov 2015 16:36:04 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[europe]]></category>
+		<category><![CDATA[rss]]></category>
+		<category><![CDATA[swift]]></category>
+		<category><![CDATA[travel]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3187</guid>
+		<description><![CDATA[I read a lot of weblogs. RSS is a great way to keep up with sites that update infrequently, or that aren&#8217;t popular enough to bubble up on Twitter with dozens of retweets. But the Mac and iOS community has grown so much over the years. I know there are many new writers who haven&#8217;t [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I read a lot of weblogs. RSS is a great way to keep up with sites that update infrequently, or that aren&#8217;t popular enough to bubble up on Twitter with dozens of retweets. But the Mac and iOS community has grown so much over the years. I know there are many new writers who haven&#8217;t been on my radar yet.</p>
+<p>Brent Simmons has posted <a href="http://inessential.com/2015/11/16/blogs_by_women">a great list of tech blogs by women</a> that I&#8217;m going through now. There should be something there for anyone interested in development or design:</p>
+<blockquote><p>
+  &#8220;I made a list of some blogs I already knew about, and then I asked my friends for more, and they totally came through.&#8221;
+</p></blockquote>
+<p>The list grew to include over 50 blogs as suggestions arrived to Brent via Twitter. I&#8217;ve already subscribed to a bunch and look forward to discovering even more.</p>
+<p>One of my favorite new blogs is the travel blog complement to <a href="http://natashatherobot.com/">Natasha The Robot</a>, which made Brent&#8217;s list. Natasha was recently <a href="https://signalvnoise.com/posts/3973-natasha-the-robot-murashev-joins-basecamp">hired at Basecamp</a>, runs the <a href="https://swiftnews.curated.co/">This Week in Swift</a> newsletter, and <a href="http://www.natashathenomad.com/">writes on her new blog</a> about working remotely. From a post about taking her laptop to restaurants in Europe:</p>
+<blockquote><p>
+  &#8220;The nice thing about this is that I get a really cool and inspiring office for a few hours &#8211; each cafe or restaurant has it&#8217;s own vibe, people, music and I don&#8217;t feel rushed internally knowing that I need to go back to my apartment or coworking space to actually work.&#8221;
+</p></blockquote>
+<p>When I quit my day job this year, it was partly so we could travel more without worrying too much about my work schedule, outside of when the kids are in school. In fact, just days after I finished writing my <a href="http://www.manton.org/tag/2weeks">two weeks notice</a> blog posts, we went to Europe and started a private family blog about the trip. So I&#8217;ve been inspired by Natasha&#8217;s blog as she shares her experience working in different cities.</p>
+<p>And that&#8217;s a theme you&#8217;ll find in many of the developer-oriented blogs on Brent&#8217;s list. Wanting to get better, learning something new, and then sharing it with everyone else. Take this advice from Becky Hansmeyer, who wrote a daily series of posts about what she learned building her iPhone app, one post each day while she waited for her app to be approved by Apple. <a href="http://beckyhansmeyer.com/2015/06/05/waiting-for-review-day-4-visual-style/">From day 4</a>, on design and color:</p>
+<blockquote><p>
+  &#8220;I think the biggest thing I learned in choosing colors and fonts for my app is not to get too hung up in making comparisons to other apps. I spent a lot of time looking at my favorite apps like Overcast and Tweetbot and thinking about the decisions the developers made, and as a result I wound up feeling like I had to make those same decisions. But that was stupid because my app is my own and is also designed for a much smaller market.&#8221;
+</p></blockquote>
+<p>Or this quote from Kristina Thai, who wrote <a href="http://www.kristinathai.com/how-to-be-a-speaker-if-you-dont-have-any-experience/">a post about preparing to give a talk</a> for the first time:</p>
+<blockquote><p>
+  &#8220;My presentation didn’t flow, it was jagged and very rough around the edges, but I kept at it, made some changes and it got better. And better. And even better. And then I practiced it in front of a couple of friends who gave me even more feedback until I was ready.&#8221;
+</p></blockquote>
+<p>Kristina also gave a talk called <a href="http://www.kristinathai.com/writing/">Become a Better Engineer Through Writing</a>. You can get a sense of the talk by downloading the slides. It covers the value to programmers in keeping a private journal, why you might write tutorials for your site, and makes a strong case for blogging.</p>
+<p>Blogging isn&#8217;t difficult, but it&#8217;s still not yet as easy as tweeting. By creating a blog, you&#8217;re making a statement that you <em>care</em> about something. As I go through <a href="http://inessential.com/2015/11/16/blogs_by_women">Brent&#8217;s list of bloggers</a>, that&#8217;s what I&#8217;m looking for: what does the author care about, and what can I learn from or be inspired by in their writing? Because the more diverse our RSS subscriptions are — the more varied the opinions in what we read and share with others — the closer it gets us to a strong, healthy community.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/11/a-diverse-community-through-writing.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The now page</title>
+		<link>http://www.manton.org/2015/10/the-now-page.html</link>
+		<comments>http://www.manton.org/2015/10/the-now-page.html#comments</comments>
+		<pubDate>Fri, 30 Oct 2015 15:46:26 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[divers]]></category>
+		<category><![CDATA[microblog]]></category>
+		<category><![CDATA[now]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3129</guid>
+		<description><![CDATA[Last week, Derek Sivers had a great idea. We&#8217;re constantly writing about the things we care about and whatever we&#8217;re working on, but the nature of blogs is that posts are always falling off the home page. There&#8217;s rarely a single place to get the tl;dr summary of what someone is working on. This idea [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Last week, Derek Sivers <a href="https://sivers.org/nowff">had a great idea</a>. We&#8217;re constantly writing about the things we care about and whatever we&#8217;re working on, but the nature of blogs is that posts are always falling off the home page. There&#8217;s rarely a single place to get the tl;dr summary of what someone is working on.</p>
+<p>This idea hit home for me last week at Release Notes when several people asked how to sign up on <a href="http://eepurl.com/6vVvj">my microblog project announcement list</a>. I&#8217;ve linked to it several times in blog posts, but I didn&#8217;t have an easy place to point people to without asking them to dig through the archives. A /now page is the perfect place for that kind of thing.</p>
+<p>Shawn Blanc <a href="https://shawnblanc.net/now">linked to his page</a> too, which reminded me to put my own /now page together. You can read mine here: <a href="http://www.manton.org/now">manton.org/now</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/10/the-now-page.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Medium.com updates</title>
+		<link>http://www.manton.org/2015/10/medium-com-updates.html</link>
+		<comments>http://www.manton.org/2015/10/medium-com-updates.html#comments</comments>
+		<pubDate>Thu, 29 Oct 2015 16:05:35 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[davewiner]]></category>
+		<category><![CDATA[ev]]></category>
+		<category><![CDATA[medium]]></category>
+		<category><![CDATA[rss]]></category>
+		<category><![CDATA[titles]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3117</guid>
+		<description><![CDATA[Ev Williams announced a batch of new Medium features recently: &#8220;There’s always another level. Another level of polish and power in our product. Another level of breadth to our content. Another level of dialogue and discussion. And another level of progress. Today, we are announcing a slew of updates to bring Medium to the next [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://medium.com/the-story/taking-medium-to-the-next-level-cb7f223fad86">Ev Williams announced</a> a batch of new Medium features recently:</p>
+<blockquote><p>
+  &#8220;There’s always another level. Another level of polish and power in our product. Another level of breadth to our content. Another level of dialogue and discussion. And another level of progress. Today, we are announcing a slew of updates to bring Medium to the next level and in the process make it more powerful, more fun, more democratic, and more essential.&#8221;
+</p></blockquote>
+<p>Those updates include new mobile apps, @-mention support, a publishing API, and editor improvements. There&#8217;s also a new logo. (I know they put a lot of thought into this, and it&#8217;s a strong idea, but to me the logo&#8217;s design is so clever it&#8217;s actually kind of distracting. A little more subtlety in how they&#8217;re using depth could improve future iterations.)</p>
+<p><a href="https://red-sweater.com/blog/3079/mediums-new-api">Daniel Jalkut blogs about</a> what&#8217;s included (and what&#8217;s left out) in Medium&#8217;s new API:</p>
+<blockquote><p>
+  &#8220;One of the most unique aspects to Medium’s API is the provision for specifying a <em>canonical URL</em> and <em>license</em> on a post being submitted to the service. The canonical URL refers to another web location that should be considered <em>the original</em>, or most authoritative version of a post, while the license designates whether the post’s copyright terms stipulate a post is sharable as public domain or under a particular Creative Commons license. These attributes together indicate that Medium expects and encourages users of the API to contribute content that is not intended to be exclusive to Medium.&#8221;
+</p></blockquote>
+<p>While <a href="http://www.manton.org/2015/09/evan-williams-on-indie-web-sites.html">I generally think</a> the trend to centralized writing platforms is bad for the web, I&#8217;m happy to see these changes from Medium, especially the API and expanding custom domain support. Medium has grown very slowly and carefully. I expect we&#8217;ll see quicker iteration on these new features now that they&#8217;re officially out.</p>
+<p>In the process of experimenting with Medium posting, <a href="http://scripting.com/2015/10/13/gettingInSyncWithMedium.html">Dave Winer shared his take on post title support</a>:</p>
+<blockquote><p>
+  &#8220;It seems they have arrived at what I think is the correct answer: posts can have titles or not, and the content system has to be prepared for either case. That&#8217;s where this blog was <a href="http://scripting.com/2015/10/07/iNeedABetterBloggingSystem.html">in 1999</a>, before other blogging tools and Google Reader pushed the world toward requiring titles. And then Twitter came along not having titles at all, and the intersection between all the kinds of blog-consuming environments became almost empty.&#8221;
+</p></blockquote>
+<p>I&#8217;m very interested in this because <a href="http://www.manton.org/2014/09/defining-a-microblog-post.html">microblogging shouldn&#8217;t include titles</a>. While Medium is mostly traditional essays, clearly comments don&#8217;t need titles, and Medium&#8217;s quick-posting UI encourages short posts. I hope this approach will get more RSS readers to gracefully handle title-less posts.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/10/medium-com-updates.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Marketing, mission, movement</title>
 		<link>http://www.manton.org/2015/08/marketing-mission-movement.html</link>
 		<comments>http://www.manton.org/2015/08/marketing-mission-movement.html#comments</comments>
@@ -198,80 +294,8 @@
 			<wfw:commentRss>http://www.manton.org/2012/07/journals.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
-		<item>
-		<title>Writing for fun and profit</title>
-		<link>http://www.manton.org/2012/07/writing_for_fun.html</link>
-		<comments>http://www.manton.org/2012/07/writing_for_fun.html#comments</comments>
-		<pubDate>Wed, 18 Jul 2012 21:26:28 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Podcasts]]></category>
-		<category><![CDATA[blogging]]></category>
-		<category><![CDATA[coreint]]></category>
-		<category><![CDATA[sponsors]]></category>
-		<category><![CDATA[twitter]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2012/07/writing_for_fun.html</guid>
-		<description><![CDATA[Marco Arment has a strong post on how sponsorships won&#8217;t change his writing: “If a sponsor ever has a problem with something I write, and that affects pending or future sponsorship buys, that’s fine with me. I can find other sponsors. And if I can’t, I’ll write for free, like I did for years.” This [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="http://www.marco.org/2012/07/18/adobe-sponsorship-and-credibility">Marco Arment has a strong post</a> on how sponsorships won&#8217;t change his writing:</p>
-<blockquote><p>
-  “If a sponsor ever has a problem with something I write, and that affects pending or future sponsorship buys, <em>that’s fine with me</em>. I can find other sponsors. And if I can’t, I’ll write for free, like I did for years.”
-</p></blockquote>
-<p>This was part of a theme on <a href="http://coreint.org/49">today&#8217;s Core Intuition episode</a> as well, not just sponsorships but also whether having an audience changes how we write tweets and blog posts. Daniel Jalkut and I have been very lucky with Core Intuition so far to have great sponsors: apps and events we already love like Marco&#8217;s own Instapaper, Smile&#8217;s TextExpander, CocoaConf, iDeveloper TV, NSConference, and Glassboard. Eventually we&#8217;ll be approached by more apps and services that we don&#8217;t have as much experience with, but as long as we keep our voice and honesty, I&#8217;m not too worried.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2012/07/writing_for_fun.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Dan Benjamin turns it up</title>
-		<link>http://www.manton.org/2009/01/dan_benjamin_turns.html</link>
-		<comments>http://www.manton.org/2009/01/dan_benjamin_turns.html#comments</comments>
-		<pubDate>Sun, 04 Jan 2009 23:00:03 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Weblogs]]></category>
-		<category><![CDATA[blogging]]></category>
-		<category><![CDATA[hivelogic]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2009/01/dan_benjamin_turns.html</guid>
-		<description><![CDATA[Dan Benjamin did something interesting several weeks ago: he took his popular blog Hivelogic, where he&#8217;s been posting since 2001, and rebranded the content under a new domain, &#8220;danbenjamin.com&#8221;:http://danbenjamin.com/. Apparently that was just the kick he needed to &#8220;get even more serious&#8221;:http://twitter.com/danbenjamin/status/1095227235 about blogging, because he&#8217;s been on a roll lately. A couple of my [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Dan Benjamin did something interesting several weeks ago: he took his popular blog Hivelogic, where he&#8217;s been posting since 2001, and rebranded the content under a new domain, &#8220;danbenjamin.com&#8221;:http://danbenjamin.com/. Apparently that was just the kick he needed to &#8220;get even more serious&#8221;:http://twitter.com/danbenjamin/status/1095227235 about blogging, because he&#8217;s been on a roll lately.</p>
-<p>A couple of my favorite recent posts over there include &#8220;Apologize&#8221;:http://danbenjamin.com/articles/2008/12/apologize and &#8220;Fake Amazon&#8221;:http://danbenjamin.com/articles/2008/12/fake-amazon. The latter is a must-read that finally puts a name to what may be the beginning of the end of the Amazon we all know and love:</p>
-<blockquote><p>&#8220;By offering these services, Amazon has created a gigantic marketplace, while simultaneously making even the most obscure or hard-to-find items available to anybody. Just type some text into Amazon search, and you&#8217;ll get results. Lots of results. Too many results, it seems, even for Amazon.&#8221;</p></blockquote>
-<p>I&#8217;ve also been enjoying the &#8220;Tack Sharp podcast&#8221;:http://tacksharp.tv/, even though I hope to never pay more than $300 for a camera.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2009/01/dan_benjamin_turns.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Favorite essays</title>
-		<link>http://www.manton.org/2008/10/favorite_essays.html</link>
-		<comments>http://www.manton.org/2008/10/favorite_essays.html#comments</comments>
-		<pubDate>Wed, 08 Oct 2008 20:09:43 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Weblogs]]></category>
-		<category><![CDATA[blogging]]></category>
-		<category><![CDATA[essays]]></category>
-		<category><![CDATA[favorites]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2008/10/favorite_essays.html</guid>
-		<description><![CDATA[The best essays are the ones that contain some truth or insight that doesn&#8217;t go out of style months or years later. As I return to regular blogging (12 posts in September compared to about the same number of posts between all of May through August), I sometimes stumble upon older posts that have held [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>The best essays are the ones that contain some truth or insight that doesn&#8217;t go out of style months or years later. As I return to regular blogging (12 posts in September compared to about the same number of posts between all of May through August), I sometimes stumble upon older posts that have held up pretty well.</p>
-<p>Here are 10 of my favorites over the last 6 years with brief comments on why I like them. If you&#8217;ve only recently started reading my blog, maybe you&#8217;ll find one of these interesting.</p>
-<p>&#8220;Understanding Comics&#8221;:http://www.manton.org/2003/01/understanding_comics.html, <em>January 2003</em>. Probably the first of several essays where I write about art and software. Since I wrote it, Scott McCloud has finished his third book on comics.</p>
-<p>&#8220;Perfection&#8221;:http://www.manton.org/2005/08/perfection.html, <em>August 2005</em>. Doing our best work, inspired by Tufte and the golden age at Disney.</p>
-<p>&#8220;Set unreasonable deadlines&#8221;:http://www.manton.org/2005/12/set.html, <em>December 2005</em>. Code more in less time, three years ago, but still very much inspired by 37signals. I like how this post mentions my favorite animation autobiography.</p>
-<p>&#8220;Limitations in toys and software&#8221;:http://www.manton.org/2006/01/limitations_in_toys.html, <em>January 2006</em>. I connected LEGOs and toy utility with user interface design in this one.</p>
-<p>&#8220;Smart software bloat&#8221;:http://www.manton.org/2006/02/smart_software_bloat.html, <em>February 2006</em>. In a general sense, how to add features without burdening the user interface. Discoverability in context.</p>
-<p>&#8220;Mediocrity is the new application platform&#8221;:http://www.manton.org/2006/03/mediocrity_is_the.html, <em>March 2006</em>. About web, native, and hybrid applications, and when to choose one or the other.</p>
-<p>&#8220;Customer support&#8221;:http://www.manton.org/2007/02/customer.html, <em>February 2007</em>. Sparked by a post from Ryan Carson, I write about my own experience with Wii Transfer support.</p>
-<p>&#8220;Bush veto&#8221;:http://www.manton.org/2007/11/bush_veto.html, <em>November 2007</em>. I&#8217;m pretty sick of partisan politics right now, a month before the election. This post reminds me of the passion I had just a year ago.</p>
-<p>&#8220;Fancy-pants productivity&#8221;:http://www.manton.org/2008/03/fancypants_productivity.html, <em>March 2008</em>. A little bit of a rant, reacting to the opinion that code must always be beautiful.</p>
-<p>&#8220;Ollie Johnston&#8221;:http://www.manton.org/2008/04/ollie_johnston.html, <em>April 2008</em>. Where I comment on the death of a master animator. I should re-read this one every year.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2008/10/favorite_essays.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 1.622 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:19:44 -->
+<!-- Dynamic page generated in 7.933 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-12-18 17:15:09 -->

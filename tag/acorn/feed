@@ -12,11 +12,11 @@
 	<atom:link href="http://www.manton.org/tag/acorn/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 18 Dec 2015 17:56:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
 	<item>
 		<title>Acorn 5</title>
 		<link>http://www.manton.org/2015/08/acorn-5.html</link>
@@ -53,9 +53,9 @@
 		<category><![CDATA[versions]]></category>
 
 		<guid isPermaLink="false">http://www.manton.org/2011/04/acorn_3.html</guid>
-		<description><![CDATA[On a &#8220;recent Core Intuition&#8221;:http://www.coreint.org/2011/03/episode-38-the-impression-of-standing-still/, Daniel and I talked about version numbers and the message you send by going to 2.0 or 3.0. The version is as much about marketing as it is about technically tracking the release. I can think of no better example of this than &#8220;Acorn 3&#8243;:http://flyingmeat.com/acorn/. The app started simply enough [&#8230;]]]></description>
+		<description><![CDATA[On a &#8220;recent Core Intuition&#8221;:http://www.coreint.org/2011/03/episode-38-the-impression-of-standing-still/, Daniel and I talked about version numbers and the message you send by going to 2.0 or 3.0. The version is as much about marketing as it is about technically tracking the release. I can think of no better example of this than &#8220;Acorn 3&#8221;:http://flyingmeat.com/acorn/. The app started simply enough [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>On a &#8220;recent Core Intuition&#8221;:http://www.coreint.org/2011/03/episode-38-the-impression-of-standing-still/, Daniel and I talked about version numbers and the message you send by going to 2.0 or 3.0. The version is as much about marketing as it is about technically tracking the release.</p>
-<p>I can think of no better example of this than &#8220;Acorn 3&#8243;:http://flyingmeat.com/acorn/. The app started simply enough &mdash; first as just a new FlySketch, then as a simple image editor, then becoming more advanced with each iteration &mdash; but it has really hit its stride with 3.0. The landmark feature, layer styles, alone warrants the bump to 3.0.</p>
+<p>I can think of no better example of this than &#8220;Acorn 3&#8221;:http://flyingmeat.com/acorn/. The app started simply enough &mdash; first as just a new FlySketch, then as a simple image editor, then becoming more advanced with each iteration &mdash; but it has really hit its stride with 3.0. The landmark feature, layer styles, alone warrants the bump to 3.0.</p>
 <p>Combine with the overall maturity of the app and you get a blockbuster release. Acorn made the top grossing list and was outselling all other non-Apple software. My Twitter stream lit up with good things about the app.</p>
 <p>The version number is a part of that. This isn&#8217;t a 2.5. The 3.0 is saying: this is big news, and anyone who has maybe heard of Acorn but never tried it needs to give this version a shot.</p>
 <p>I&#8217;m particularly happy for Gus because he&#8217;s earned this success over years. From the archives in 2005, &#8220;Gus&#8217;s post on being an indie&#8221;:http://gusmueller.com/blog/archives/2005/12/25.html:</p>
@@ -77,8 +77,8 @@
 		<category><![CDATA[clipstart]]></category>
 
 		<guid isPermaLink="false">http://www.manton.org/2009/07/clipstart_file_actions.html</guid>
-		<description><![CDATA[&#8220;Clipstart 1.1&#8243;:http://www.riverfold.com/software/clipstart/ is out, with support for the iPhone 3GS, YouTube, and more. I&#8217;m really happy with the response I&#8217;ve received so far. The 3GS is such a convenient device for video that even people who weren&#8217;t taking lots of clips before now find themselves with a bunch of videos. That deserves a dedicated management [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>&#8220;Clipstart 1.1&#8243;:http://www.riverfold.com/software/clipstart/ is out, with support for the iPhone 3GS, YouTube, and more. I&#8217;m really happy with the response I&#8217;ve received so far. The 3GS is such a convenient device for video that even people who weren&#8217;t taking lots of clips before now find themselves with a bunch of videos. That deserves a dedicated management app.</p>
+		<description><![CDATA[&#8220;Clipstart 1.1&#8221;:http://www.riverfold.com/software/clipstart/ is out, with support for the iPhone 3GS, YouTube, and more. I&#8217;m really happy with the response I&#8217;ve received so far. The 3GS is such a convenient device for video that even people who weren&#8217;t taking lots of clips before now find themselves with a bunch of videos. That deserves a dedicated management [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>&#8220;Clipstart 1.1&#8221;:http://www.riverfold.com/software/clipstart/ is out, with support for the iPhone 3GS, YouTube, and more. I&#8217;m really happy with the response I&#8217;ve received so far. The 3GS is such a convenient device for video that even people who weren&#8217;t taking lots of clips before now find themselves with a bunch of videos. That deserves a dedicated management app.</p>
 <p>&#8220;Ryan Irelan&#8221;:http://ryanirelan.com/ asked me the other day if Clipstart would support a simple email option, for quickly sharing a video with family without uploading to a web site. This is a pretty good candidate for using Clipstart&#8217;s file actions, which allow you to process the selected video files with a script.</p>
 <p>I liked how &#8220;Acorn handled this kind of thing&#8221;:http://flyingmeat.com/wikka/AcornExtraScripts, so I essentially lifted its file actions feature directly and put it into Clipstart, even down to the ACShortcutKey shortcut comments. Even though Acorn is for still images and Clipstart for videos, it seemed similar enough that you could conceivably take lightly-modified scripts from one app and use it the other, if they did not deal with the file&#8217;s contents.</p>
 <p>Here&#8217;s the email script that will be included in Clipstart 1.1.1:</p>
@@ -161,5 +161,5 @@
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 2.645 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:11:44 -->
+<!-- Dynamic page generated in 4.010 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-12-18 17:21:38 -->

@@ -12,12 +12,57 @@
 	<atom:link href="http://www.manton.org/tag/microblog/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 18 Dec 2015 17:56:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
 	<item>
+		<title>Blips microblog</title>
+		<link>http://www.manton.org/2015/11/blips-microblog.html</link>
+		<comments>http://www.manton.org/2015/11/blips-microblog.html#comments</comments>
+		<pubDate>Tue, 17 Nov 2015 20:45:30 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[blips]]></category>
+		<category><![CDATA[microblog]]></category>
+		<category><![CDATA[microrss]]></category>
+		<category><![CDATA[rss]]></category>
+		<category><![CDATA[snippets]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3181</guid>
+		<description><![CDATA[Jussi Pekonen has relaunched his weblog, with a new focus on microblogging: &#8220;I want to own all content I produce. That way I can ensure that everything I write does not go the way of the dodo when the latest and coolest microblogging platform goes belly up.&#8221; He calls the short posts &#8220;blips&#8221;. I call [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Jussi Pekonen has <a href="http://pekonen.cc/blog/2015/11/09/Relaunching-old-launching-new-and-reactivating-a-dormant-account.html">relaunched his weblog</a>, with a new focus on microblogging:</p>
+<blockquote><p>
+  &#8220;I want to own <em>all content</em> I produce. That way I can ensure that everything I write does not go the way of the dodo when the latest and coolest microblogging platform goes belly up.&#8221;
+</p></blockquote>
+<p>He calls the short posts &#8220;blips&#8221;. I call mine <a href="http://www.manton.org/category/micro">snippets</a>, which I borrowed from <a href="http://noahread.net/snippets">Noah Read</a>. I like both names, but even more importantly, I like Jussi&#8217;s approach to owning his own content and providing a simple RSS feed of microblog posts. (I wrote more about <a href="http://www.manton.org/2015/11/rss-for-microblogs.html">RSS and microblogs</a> a couple weeks ago.)</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/11/blips-microblog.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The now page</title>
+		<link>http://www.manton.org/2015/10/the-now-page.html</link>
+		<comments>http://www.manton.org/2015/10/the-now-page.html#comments</comments>
+		<pubDate>Fri, 30 Oct 2015 15:46:26 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[divers]]></category>
+		<category><![CDATA[microblog]]></category>
+		<category><![CDATA[now]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3129</guid>
+		<description><![CDATA[Last week, Derek Sivers had a great idea. We&#8217;re constantly writing about the things we care about and whatever we&#8217;re working on, but the nature of blogs is that posts are always falling off the home page. There&#8217;s rarely a single place to get the tl;dr summary of what someone is working on. This idea [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Last week, Derek Sivers <a href="https://sivers.org/nowff">had a great idea</a>. We&#8217;re constantly writing about the things we care about and whatever we&#8217;re working on, but the nature of blogs is that posts are always falling off the home page. There&#8217;s rarely a single place to get the tl;dr summary of what someone is working on.</p>
+<p>This idea hit home for me last week at Release Notes when several people asked how to sign up on <a href="http://eepurl.com/6vVvj">my microblog project announcement list</a>. I&#8217;ve linked to it several times in blog posts, but I didn&#8217;t have an easy place to point people to without asking them to dig through the archives. A /now page is the perfect place for that kind of thing.</p>
+<p>Shawn Blanc <a href="https://shawnblanc.net/now">linked to his page</a> too, which reminded me to put my own /now page together. You can read mine here: <a href="http://www.manton.org/now">manton.org/now</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/10/the-now-page.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Four microblogging community tips</title>
 		<link>http://www.manton.org/2015/06/four-microblogging-community-tips.html</link>
 		<comments>http://www.manton.org/2015/06/four-microblogging-community-tips.html#comments</comments>
@@ -128,5 +173,5 @@
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 1.652 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:24:33 -->
+<!-- Dynamic page generated in 1.605 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-12-18 17:28:37 -->

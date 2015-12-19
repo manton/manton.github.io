@@ -12,12 +12,61 @@
 	<atom:link href="http://www.manton.org/category/user_experience/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 18 Dec 2015 17:56:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
 	<item>
+		<title>The incomplete iPad Pro</title>
+		<link>http://www.manton.org/2015/11/the-incomplete-ipad-pro.html</link>
+		<comments>http://www.manton.org/2015/11/the-incomplete-ipad-pro.html#comments</comments>
+		<pubDate>Wed, 11 Nov 2015 20:36:05 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[applestore]]></category>
+		<category><![CDATA[ipad]]></category>
+		<category><![CDATA[pencil]]></category>
+		<category><![CDATA[stylus]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3161</guid>
+		<description><![CDATA[I ordered my iPad Pro online and picked it up in the store today. My excitement for this device is all about the Pencil, which doesn&#8217;t ship for a few more weeks. The store didn&#8217;t receive any and employees have no idea when they will get it. They didn&#8217;t receive any Apple keyboards either, so [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I ordered my iPad Pro online and picked it up in the store today. My excitement for this device is all about the Pencil, which doesn&#8217;t ship for a few more weeks. The store didn&#8217;t receive any and employees have no idea when they will get it. They didn&#8217;t receive any Apple keyboards either, so I left with the only remaining accessory in stock: the white smart cover.</p>
+<p>I don&#8217;t think I&#8217;ve ever been less excited to walk out of a store with a brand new $800 gadget. The iPad Pro has <em>so much potential</em>. I think it&#8217;s going to be a success and I&#8217;m building apps for it. But without the Pencil and keyboard, a significant part of the appeal is missing. And worse, developers who need a Pencil to start testing their apps — especially those apps like the one I&#8217;m working on that already supports third-party stylus pressure — are put at a month-long disadvantage compared to Adobe and the other early partners.</p>
+<p>I enjoyed reading the iPad Pro reviews this morning, especially from <a href="http://daringfireball.net/2015/11/the_ipad_pro">Daring Fireball</a> and <a href="https://www.macstories.net/stories/ipad-pro-review/#software-keyboard">MacStories</a>. But those reviews describe a product that just doesn&#8217;t exist today. The iPad Pro as advertised on Apple&#8217;s web site and in beautiful marketing videos isn&#8217;t ready, and I wish Apple had delayed the whole launch until they could deliver these important accessories for a complete user experience.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/11/the-incomplete-ipad-pro.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Stars vs. hearts and Twitter&#8217;s decline</title>
+		<link>http://www.manton.org/2015/11/stars-vs-hearts-and-twitters-decline.html</link>
+		<comments>http://www.manton.org/2015/11/stars-vs-hearts-and-twitters-decline.html#comments</comments>
+		<pubDate>Mon, 09 Nov 2015 18:05:01 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[dorsey]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[stars]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3155</guid>
+		<description><![CDATA[In an essay about Twitter written in 2014, Ben Thompson described why he believed in the service: &#8220;I think this actually gets to the problem with Twitter: the initial concept was so good, and so perfectly fit such a large market, that they never needed to go through the process of achieving product market fit. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>In <a href="https://stratechery.com/2014/twitter-market/">an essay about Twitter written in 2014</a>, Ben Thompson described why he believed in the service:</p>
+<blockquote><p>
+  &#8220;I think this actually gets to the problem with Twitter: the initial concept was <em>so good</em>, and so perfectly fit such a large market, that they never needed to go through the process of achieving product market fit. It just happened, and they’ve been riding that match for going on eight years.&#8221;
+</p></blockquote>
+<p>I&#8217;ve always thought the same thing. That Twitter started out so good, with such strong core features, that those basic features have carried it through all the years of missteps and inaction. But it&#8217;s not just that the features are &#8220;good&#8221; (although they are); it&#8217;s that they are <em>unique</em>.</p>
+<p>Listening to the <a href="http://www.relay.fm/connected/64">Connected podcast</a> the other day, Federico Viticci and Myke Hurley made the statement that only nerds care about Twitter changing stars to hearts, favorites to likes. I was nodding in agreement until I talked to my daughter. She also didn&#8217;t understand why they would change away from stars, and she&#8217;s been on Twitter less than a year.</p>
+<p>It&#8217;s not just nerds. Many new Twitter users recognize the subtle difference implied with hearts. But I realized that there&#8217;s something even more important about what this change says. Why is my daughter even on Twitter, in addition to Snapchat, Instagram, Facebook, and Vine? Because — even if most people can&#8217;t pin down exactly what makes it special — everyone knows Twitter is different and interesting.</p>
+<p>All Twitter has going for it is its uniqueness. The timeline user experience, the retweets and favorites, the hashtag, and the short 140 character posts. Changing any of those key strengths to be just like every other social network means they&#8217;re watering down their own potential impact. Eventually that approach will produce a bland product that has no unique qualities.</p>
+<p>We&#8217;ve already seen the timeline experience significantly altered. Promoted tweets, &#8220;while you were away&#8221;, inline conversation threads, and Twitter cards. Twitter in 2015 looks a lot more like Facebook than it did a few years ago, to everyone not using third-party Twitter apps.</p>
+<p>Growing the user base is fine. But making Twitter more accessible to new users won&#8217;t do any good if you lose the much larger base of passionate users who have loved the product for years <em>because it&#8217;s unique</em>. You&#8217;re not going to beat Facebook by becoming even more like Facebook. If that&#8217;s Twitter&#8217;s strategy, then the service is already in decline.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/11/stars-vs-hearts-and-twitters-decline.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Watch form over function</title>
 		<link>http://www.manton.org/2015/09/watch-form-over-function.html</link>
 		<comments>http://www.manton.org/2015/09/watch-form-over-function.html#comments</comments>
@@ -220,54 +269,8 @@
 			<wfw:commentRss>http://www.manton.org/2013/05/the_229_cameraless.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
-		<item>
-		<title>Design in grayscale</title>
-		<link>http://www.manton.org/2013/04/design_in_grayscale.html</link>
-		<comments>http://www.manton.org/2013/04/design_in_grayscale.html#comments</comments>
-		<pubDate>Tue, 09 Apr 2013 13:16:22 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[User Experience]]></category>
-		<category><![CDATA[bootstrap]]></category>
-		<category><![CDATA[design]]></category>
-		<category><![CDATA[grayscale]]></category>
-		<category><![CDATA[web]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2013/04/design_in_grayscale.html</guid>
-		<description><![CDATA[Adam Keys has several tips for programmers, to make our web sites look better by keeping things simple. I often just use grayscale, too: “Most important: design in greyscale. Color is hard and can lead to tinkering. My goal is to get in and out of the front-end bits quickly, so tinkering is the enemy. [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="http://therealadam.com/2013/04/08/web-design-for-busy-programmers/">Adam Keys has several tips for programmers</a>, to make our web sites look better by keeping things simple. I often just use grayscale, too:</p>
-<blockquote><p>
-  “Most important: design in greyscale. Color is hard and can lead to tinkering. My goal is to get in and out of the front-end bits quickly, so tinkering is the enemy. Greyscale is one dimensional, greatly simplifying matters. Give important information higher contrast and less important information or ‘chrome’ less contrast. Now you’re done thinking about color.”
-</p></blockquote>
-<p>These days I also start everything with <a href="http://twitter.github.io/bootstrap/">Bootstrap</a>, which adds great defaults for layout, buttons, and text. It makes everything looks better, right away. It’s not a replacement for a designer, but it does save hours (or days) of getting the basics up and running.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/04/design_in_grayscale.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Little Outliner</title>
-		<link>http://www.manton.org/2013/03/little_outliner.html</link>
-		<comments>http://www.manton.org/2013/03/little_outliner.html#comments</comments>
-		<pubDate>Tue, 26 Mar 2013 13:27:42 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[User Experience]]></category>
-		<category><![CDATA[davewiner]]></category>
-		<category><![CDATA[frontier]]></category>
-		<category><![CDATA[outliners]]></category>
-		<category><![CDATA[s3]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2013/03/little_outliner.html</guid>
-		<description><![CDATA[Yesterday Dave Winer and Kyle Shank launched Little Outliner, an impressive JavaScript outliner that uses HTML5 local storage. It’s also completely hosted on S3: “Thanks to the W3C and to Werner Vogels (for persisting in getting the ability to access the root of a domain from an S3 bucket). As a result, we get unlimited [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Yesterday Dave Winer and Kyle Shank launched <a href="http://littleoutliner.com">Little Outliner</a>, an impressive JavaScript outliner that uses HTML5 local storage. It’s also <a href="http://threads2.scripting.com/2013/march/somethingTechiesWillAppreciate">completely hosted on S3</a>:</p>
-<blockquote><p>
-  “Thanks to the W3C and to Werner Vogels (for persisting in getting the ability to access the root of a domain from an S3 bucket). As a result, we get unlimited scaling with zero investment. Consider this an endorsement for both innovations.”
-</p></blockquote>
-<p>I used Frontier a lot back in the earlier days of the web, so I’m always looking out for what Dave does next. It’ll be fun to see what they build on top of this.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/03/little_outliner.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 1.280 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2015-09-19 13:37:04 -->
+<!-- Dynamic page generated in 5.457 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-12-18 16:03:32 -->

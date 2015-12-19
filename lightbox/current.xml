@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE rss PUBLIC "-//Netscape Communications//DTD RSS 0.91//EN"
+		"http://my.netscape.com/publish/formats/rss-0.91.dtd">
+
+<rss version="0.91">
+	<channel>
+    
+		<title>The Lightbox - Animation News</title>
+		<link>http://www.manton.org/lightbox/</link>
+		<description>Updates on the happenings in the animation industry, including news and personal opinions, with special attention to feature animation.</description>
+		<language>en-us</language>
+
+		
+		<item>
+			<title>Wired News on Oscar Animation category</title>
+			<link>http://www.wired.com/news/digiwood/0,1412,50326,00.html</link>
+			<description>Wired News reports on the new Feature Animation category for the upcoming Oscars.  The nominees will be announced Tomorrow (Feb 12).</description>
+		</item>
+		<item>
+			<title>Lilo and Stitch trailer</title>
+			<link>http://disney.go.com/disneypictures/liloandstitch/</link>
+			<description>Teaser trailer for Disney's upcoming "Lilo and Stitch" is available.  The film opens June 2002, as usual.</description>
+		</item>
+		<item>
+			<title>Jerry Beck reviews "Art of Monsters" book</title>
+			<link>http://mag.awn.com/index.php3?ltype=pageone&amp;article_no=1003</link>
+			<description>A glowing review of the inspirational artwork behind the recent Pixar film.  Worth owning, but I was disappointed by the lack of textual content and passed this one up.  [&lt;a href="http://www.amazon.com/exec/obidos/ASIN/0811833887/mantonorg"&gt;buy&lt;/a&gt;]</description>
+		</item>
+		<item>
+			<title>Happy Birthday, Walt</title>
+			<link>http://www.npr.org/ramfiles/me/20011205.me.08.ram</link>
+			<description>Walt Disney would have been 100 today.  If only he had lived to see what his creations have become... (Above audio link requires RealAudio.)</description>
+		</item>
+      
+		<item>
+			<title>[more...]</title>
+			<link>http://www.manton.org/lightbox/</link>
+		</item>
+
+	</channel>    
+</rss>

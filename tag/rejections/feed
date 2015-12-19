@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; rejections</title>
+	<atom:link href="http://www.manton.org/tag/rejections/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Fri, 18 Dec 2015 17:56:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Phil Schiller and the App Store</title>
+		<link>http://www.manton.org/2015/12/phil-schiller-and-the-app-store.html</link>
+		<comments>http://www.manton.org/2015/12/phil-schiller-and-the-app-store.html#comments</comments>
+		<pubDate>Thu, 17 Dec 2015 15:49:34 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[leadership]]></category>
+		<category><![CDATA[mas]]></category>
+		<category><![CDATA[rejections]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3261</guid>
+		<description><![CDATA[Apple announced some leadership changes today, including that Phil Schiller will now lead the App Store on Apple&#8217;s various platforms: &#8220;With added responsibility for the App Store, Phil Schiller will focus on strategies to extend the ecosystem Apple customers have come to love when using their iPhone, iPad, Mac, Apple Watch and Apple TV. Phil [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.apple.com/pr/library/2015/12/17Apple-Names-Jeff-Williams-Chief-Operating-Officer.html">Apple announced</a> some leadership changes today, including that Phil Schiller will now lead the App Store on Apple&#8217;s various platforms:</p>
+<blockquote><p>
+  &#8220;With added responsibility for the App Store, Phil Schiller will focus on strategies to extend the ecosystem Apple customers have come to love when using their iPhone, iPad, Mac, Apple Watch and Apple TV. Phil now leads nearly all developer-related functions at Apple, in addition to his other marketing responsibilities including Worldwide Product Marketing, international marketing, education and business marketing.&#8221;
+</p></blockquote>
+<p>You may remember that Phil Schiller has gotten involved in controversial App Store rejections in the past, going back to 2009. See <a href="https://daringfireball.net/2009/08/phil_schiller_app_store">this post from Daring Fireball</a> about Ninjawords, and another article <a href="http://techcrunch.com/2009/08/15/phil-schiller-is-a-man-on-a-mission-to-save-the-app-store/">at Techcrunch by MG Siegler</a>.</p>
+<p>On recent episodes of <a href="http://coreint.org/">Core Intuition</a>, and in <a href="http://www.manton.org/2015/12/too-late-to-save-the-mas.html">a blog post</a>, I&#8217;ve argued that Apple can&#8217;t just make small improvements to the Mac App Store anymore. The time for slow iteration is over; now they have to make big changes to get developers back. I&#8217;d like to believe that putting Phil in charge is exactly that kind of first big step.</p>
+<p><strong>Update:</strong> Less optimistically, though, there was <a href="http://weblog.rogueamoeba.com/2012/06/08/in-response-to-mr-schiller/">this post in 2012 from Rogue Amoeba</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/12/phil-schiller-and-the-app-store.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Gravity and the App Store</title>
+		<link>http://www.manton.org/2015/10/gravity-and-the-app-store.html</link>
+		<comments>http://www.manton.org/2015/10/gravity-and-the-app-store.html#comments</comments>
+		<pubDate>Wed, 28 Oct 2015 20:50:25 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[3dtouch]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[rejections]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3115</guid>
+		<description><![CDATA[Dan Moren, writing at Six Colors about the rejected app Gravity: &#8220;Really, what Apple needs is a small group within the App Store review team to flag apps that are pushing the envelope in smart, respectful ways; work with those apps’ developers; and present overall recommendations to App Store leadership—perhaps even reporting directly to Eddy [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Dan Moren, <a href="https://sixcolors.com/link/2015/10/tales-of-an-app-store-rejection-gravity/">writing at Six Colors</a> about the rejected app Gravity:</p>
+<blockquote><p>
+  &#8220;Really, what Apple needs is a small group within the App Store review team to flag apps that are <a href="https://sixcolors.com/post/2014/10/apple-ios-widgets-cant-calculate/">pushing the envelope</a> in smart, respectful ways; work with those apps’ developers; and present overall recommendations to App Store leadership—perhaps even reporting directly to Eddy Cue.&#8221;
+</p></blockquote>
+<p>I love this idea. It would both minimize unfair app rejections <em>and</em> help innovative apps bubble up to the featured sections in the App Store.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/10/gravity-and-the-app-store.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.494 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-12-18 15:27:18 -->

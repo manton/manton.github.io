@@ -12,11 +12,11 @@
 	<atom:link href="http://www.manton.org/tag/transfer/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 18 Dec 2015 17:56:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
 	<item>
 		<title>Wii Transfer serial numbers</title>
 		<link>http://www.manton.org/2008/04/wii_transfer_serial.html</link>
@@ -109,7 +109,7 @@
 				<content:encoded><![CDATA[<p>In the tradition of other independent Mac developers such as &#8220;Mike Zornek&#8221;:http://clickablebliss.com/blog/2007/01/08/billable_the_first_100_days/, &#8220;Daniel Jalkut&#8221;:http://www.red-sweater.com/blog/191/lawful-prey, and &#8220;Gus Mueller&#8221;:http://www.gusmueller.com/blog/archives/2005/12/25.html, I&#8217;m going to share some sales information from the first 75 days of Wii Transfer.</p>
 <p>The following chart shows daily sales (in units sold) for each day. I&#8217;ve also highlighted important milestones so you can see what affect they had on sales, such as shipping 2.0 (which brought many links) and increasing the price (from $9 to $14, which brought my first 2.0 day of no sales at all). Finally, there are a few spots where I show the average number of visitors.</p>
 <p><img src="http://www.manton.org/images/2007/sales_75_days.png" width="600" height="220" alt="Sales chart" /></p>
-<p>(As an aside, I created this chart in Keynote. I love software that is simple and flexible enough to be used for purposes outside its original developer&#8217;s intentions. I wrote &#8220;more on this subject back in early 2006&#8243;:http://www.manton.org/2006/01/limitations_in_toys.html.)</p>
+<p>(As an aside, I created this chart in Keynote. I love software that is simple and flexible enough to be used for purposes outside its original developer&#8217;s intentions. I wrote &#8220;more on this subject back in early 2006&#8221;:http://www.manton.org/2006/01/limitations_in_toys.html.)</p>
 <p>It&#8217;s difficult to tell, but the numbers on the right side are on average a little bit higher than the left. Not by much though. Sales just trickle in again right now (a few a day).</p>
 <p>So what does it all mean? Here is the basic take-away: Sales are much better than I thought they would be, but not nearly enough to live off of. That&#8217;s okay, because I happen to love &#8220;my day job&#8221;:http://www.vitalsource.com/ (also writing Mac software). However, I can definitely see how it would be possible to do this full time, with some real marketing and a collection of several additional applications. I have done zero marketing for Wii Transfer except listing it on MacUpdate, VersionTracker, and Apple&#8217;s download site (where it was featured in the video section).</p>
 <p>As you can see, there was a big spike in sales when 2.0 was released. This is a direct result of links from Mac sites like The Unofficial Apple Weblog and Daring Fireball, and gaming sites like Jostiq and others. When traffic goes up, sales go up. This opened my eyes because it really is all about getting your app in front of other users. &#8220;As I blogged about previously&#8221;:http://www.manton.org/2007/01/wii_transfer_takes.html, I think I also missed some sales opportunities during this period because 2.0 was not very stable.</p>
@@ -262,8 +262,8 @@
 		<category><![CDATA[wii]]></category>
 
 		<guid isPermaLink="false">http://www.manton.org/2007/01/wii_transfer_20.html</guid>
-		<description><![CDATA[I finished &#8220;Wii Transfer 2.0&#8243;:http://www.riverfold.com/software/wiitransfer/ late Thursday night. This version is an interesting milestone for the application because it goes beyond just using the SD card to shuttle data back and forth between your Mac and Wii. There is a small Cocoa web server embedded inside Wii Transfer that can serve up MP3s and JPEGs [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>I finished &#8220;Wii Transfer 2.0&#8243;:http://www.riverfold.com/software/wiitransfer/ late Thursday night. This version is an interesting milestone for the application because it goes beyond just using the SD card to shuttle data back and forth between your Mac and Wii. There is a small Cocoa web server embedded inside Wii Transfer that can serve up MP3s and JPEGs directly to the Wii using the Internet Channel. I think this could be the basis for some really fun stuff in the future.</p>
+		<description><![CDATA[I finished &#8220;Wii Transfer 2.0&#8221;:http://www.riverfold.com/software/wiitransfer/ late Thursday night. This version is an interesting milestone for the application because it goes beyond just using the SD card to shuttle data back and forth between your Mac and Wii. There is a small Cocoa web server embedded inside Wii Transfer that can serve up MP3s and JPEGs [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I finished &#8220;Wii Transfer 2.0&#8221;:http://www.riverfold.com/software/wiitransfer/ late Thursday night. This version is an interesting milestone for the application because it goes beyond just using the SD card to shuttle data back and forth between your Mac and Wii. There is a small Cocoa web server embedded inside Wii Transfer that can serve up MP3s and JPEGs directly to the Wii using the Internet Channel. I think this could be the basis for some really fun stuff in the future.</p>
 <p>One of the things I added at the last minute is to try to simplify how you connect to your Mac from the Wii. IP addresses are difficult to memorize for most people and may change depending on how your home network is setup. To solve this, Wii Transfer will optionally create a permanent URL for you on bookmark.riverfold.com. You can then add that URL as a favorite for your Wii and it will always redirect to your local machine. Wii Transfer will ping the Riverfold server on startup and update the bookmark database with your current IP address. You can think of it as a simplified version of &#8220;Dynamic DNS&#8221;:http://en.wikipedia.org/wiki/Dynamic_DNS.</p>
 <p>I just noticed that Wii Transfer is the featured download and staff pick in the &#8220;video section of Apple&#8217;s download site&#8221;:http://www.apple.com/downloads/macosx/video/. That is a nice surprise. It will be interesting to see what that does to download stats.</p>
 <p>One last thing. Starting next month the price will go up to $14 for version 2.0 (free upgrade for all existing users). I usually work on Wii Transfer at night, so the increase will help offset all the sleep I lost. :-) Even at $14 it may be underpriced. Remember the &#8220;Brent Simmons rule&#8221;:http://www.red-sweater.com/blog/168/the-price-is-wrong: anything less than $20 won&#8217;t be taken seriously. In this case though I think it&#8217;s just about right. I&#8217;m also finding a large percentage of purchases from Europe, despite no localization, probably because the US dollar is so weak now. Enjoy!</p>
@@ -274,5 +274,5 @@
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.990 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:50:20 -->
+<!-- Dynamic page generated in 1.886 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-12-18 18:16:53 -->

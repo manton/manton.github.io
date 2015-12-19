@@ -12,12 +12,92 @@
 	<atom:link href="http://www.manton.org/tag/facebook/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 18 Dec 2015 17:56:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
 	<item>
+		<title>Stars vs. hearts and Twitter&#8217;s decline</title>
+		<link>http://www.manton.org/2015/11/stars-vs-hearts-and-twitters-decline.html</link>
+		<comments>http://www.manton.org/2015/11/stars-vs-hearts-and-twitters-decline.html#comments</comments>
+		<pubDate>Mon, 09 Nov 2015 18:05:01 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[dorsey]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[stars]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3155</guid>
+		<description><![CDATA[In an essay about Twitter written in 2014, Ben Thompson described why he believed in the service: &#8220;I think this actually gets to the problem with Twitter: the initial concept was so good, and so perfectly fit such a large market, that they never needed to go through the process of achieving product market fit. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>In <a href="https://stratechery.com/2014/twitter-market/">an essay about Twitter written in 2014</a>, Ben Thompson described why he believed in the service:</p>
+<blockquote><p>
+  &#8220;I think this actually gets to the problem with Twitter: the initial concept was <em>so good</em>, and so perfectly fit such a large market, that they never needed to go through the process of achieving product market fit. It just happened, and they’ve been riding that match for going on eight years.&#8221;
+</p></blockquote>
+<p>I&#8217;ve always thought the same thing. That Twitter started out so good, with such strong core features, that those basic features have carried it through all the years of missteps and inaction. But it&#8217;s not just that the features are &#8220;good&#8221; (although they are); it&#8217;s that they are <em>unique</em>.</p>
+<p>Listening to the <a href="http://www.relay.fm/connected/64">Connected podcast</a> the other day, Federico Viticci and Myke Hurley made the statement that only nerds care about Twitter changing stars to hearts, favorites to likes. I was nodding in agreement until I talked to my daughter. She also didn&#8217;t understand why they would change away from stars, and she&#8217;s been on Twitter less than a year.</p>
+<p>It&#8217;s not just nerds. Many new Twitter users recognize the subtle difference implied with hearts. But I realized that there&#8217;s something even more important about what this change says. Why is my daughter even on Twitter, in addition to Snapchat, Instagram, Facebook, and Vine? Because — even if most people can&#8217;t pin down exactly what makes it special — everyone knows Twitter is different and interesting.</p>
+<p>All Twitter has going for it is its uniqueness. The timeline user experience, the retweets and favorites, the hashtag, and the short 140 character posts. Changing any of those key strengths to be just like every other social network means they&#8217;re watering down their own potential impact. Eventually that approach will produce a bland product that has no unique qualities.</p>
+<p>We&#8217;ve already seen the timeline experience significantly altered. Promoted tweets, &#8220;while you were away&#8221;, inline conversation threads, and Twitter cards. Twitter in 2015 looks a lot more like Facebook than it did a few years ago, to everyone not using third-party Twitter apps.</p>
+<p>Growing the user base is fine. But making Twitter more accessible to new users won&#8217;t do any good if you lose the much larger base of passionate users who have loved the product for years <em>because it&#8217;s unique</em>. You&#8217;re not going to beat Facebook by becoming even more like Facebook. If that&#8217;s Twitter&#8217;s strategy, then the service is already in decline.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/11/stars-vs-hearts-and-twitters-decline.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Accelerated Mobile Pages from Google</title>
+		<link>http://www.manton.org/2015/11/accelerated-mobile-pages-from-google.html</link>
+		<comments>http://www.manton.org/2015/11/accelerated-mobile-pages-from-google.html#comments</comments>
+		<pubDate>Mon, 02 Nov 2015 16:22:50 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[amp]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3135</guid>
+		<description><![CDATA[The project technical overview for AMP has the goals and basic info. In a nutshell, the new format encourages a return to more bare-bones HTML, with some added functionality for common web patterns. On the balance between bloated ad platforms and user experience: &#8220;Embedding an ad or analytics often implies giving up control of what [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://www.ampproject.org/how-it-works/">The project technical overview for AMP</a> has the goals and basic info. In a nutshell, the new format encourages a return to more bare-bones HTML, with some added functionality for common web patterns. On the balance between bloated ad platforms and user experience:</p>
+<blockquote><p>
+  &#8220;Embedding an ad or analytics often implies giving up control of what eventually happens to a site because they can typically inject any JavaScript they want into pages. AMP HTML does not allow this. We realize that both ads and analytics are an important element of monetization on the web, and so we need to support them: our goal is to realign monetization with great user experience.&#8221;
+</p></blockquote>
+<p>Instead, &#8220;tracking pixels&#8221; are used for analytics. These should be easily skipped by ad blockers, but apps that support AMP will need to use a custom web view anyway, where ad blockers on iOS aren&#8217;t allowed. This may continue to limit the appeal of Safari View Controller.</p>
+<p><a href="http://www.wired.com/2015/10/googles-got-plan-make-mobile-web-less-slow/">Wired covers the announcement</a> and describes how AMP might be integrated into Twitter and other native apps:</p>
+<blockquote><p>
+  &#8220;One surprise beneficiary of AMP may be Twitter. While it’s not a publisher per se, it’s becoming an increasingly important player in news, most recently with the launch of <a href="http://www.wired.com/2015/10/meet-moments-twitters-new-feature/">its Moments feature</a>, which makes news easier to follow on Twitter by organizing Tweets in a chronological, coherent timeline. Now, Twitter will automatically load any articles that are compatible with AMP as AMP files, meaning they will benefit from the same speed inside the Twitter app.&#8221;
+</p></blockquote>
+<p>There&#8217;s <a href="https://github.com/ampproject/amphtml">more on GitHub</a>. On the surface this seems like a more open approach than Facebook Instant Articles or maybe even Apple News Format (which is <a href="https://developer.apple.com/library/ios/documentation/General/Conceptual/Apple_News_Format_Ref/index.html">finally public</a>). That <a href="https://vip.wordpress.com/2015/10/07/mobile-web/">WordPress is supporting AMP</a> is a good sign.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/11/accelerated-mobile-pages-from-google.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Instagram hits 400 million users</title>
+		<link>http://www.manton.org/2015/09/instagram-hits-400-million-users.html</link>
+		<comments>http://www.manton.org/2015/09/instagram-hits-400-million-users.html#comments</comments>
+		<pubDate>Wed, 23 Sep 2015 14:34:12 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[instagram]]></category>
+		<category><![CDATA[photos]]></category>
+		<category><![CDATA[scaling]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3064</guid>
+		<description><![CDATA[From Graham Spencer at MacStories, commenting on the latest Instagram numbers and that the service is only 5 years old: &#8220;But I was really surprised to remember that Facebook acquired Instagram in April 2012, when Instagram had &#8216;only&#8217; 40 million users. If I recall correctly, a lot of people thought Facebook was crazy to buy [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://www.macstories.net/news/instagram-hits-400-million-users/">From Graham Spencer</a> at MacStories, commenting on the latest Instagram numbers and that the service is only 5 years old:</p>
+<blockquote><p>
+  &#8220;But I was really surprised to remember that <a href="http://techcrunch.com/2012/04/09/facebook-to-acquire-instagram-for-1-billion/">Facebook acquired Instagram in April 2012</a>, when Instagram had &#8216;only&#8217; 40 million users. If I recall correctly, a lot of people thought Facebook was crazy to buy Instagram for $1 billion. Well, I think Facebook got the last laugh on that one, and as <a href="http://www.forbes.com/sites/kathleenchaykowski/2015/09/22/instagram-hits-400-million-users-soaring-past-twitter/">Forbes points out</a>, Instagram now has more monthly active users than Twitter (316 million).&#8221;
+</p></blockquote>
+<p>Impressive growth, but it fits. Instagram has crafted a user experience that encourages thoughtful posts and never feels overwhelming in the way a Twitter or Facebook timeline can be. If Instagram was a paid product, I bet Instagram&#8217;s <a href="https://baremetrics.com/academy/saas-churn">churn rate</a> would be the lowest of any of the big social networks. They did it with a small team and weren&#8217;t afraid to grow slowly.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/09/instagram-hits-400-million-users.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Facebook</title>
 		<link>http://www.manton.org/2012/05/facebook.html</link>
 		<comments>http://www.manton.org/2012/05/facebook.html#comments</comments>
@@ -44,5 +124,5 @@
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.744 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:45:20 -->
+<!-- Dynamic page generated in 4.204 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-12-18 17:20:19 -->

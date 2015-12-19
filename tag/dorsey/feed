@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; dorsey</title>
+	<atom:link href="http://www.manton.org/tag/dorsey/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Fri, 18 Dec 2015 17:56:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Stars vs. hearts and Twitter&#8217;s decline</title>
+		<link>http://www.manton.org/2015/11/stars-vs-hearts-and-twitters-decline.html</link>
+		<comments>http://www.manton.org/2015/11/stars-vs-hearts-and-twitters-decline.html#comments</comments>
+		<pubDate>Mon, 09 Nov 2015 18:05:01 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[dorsey]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[stars]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3155</guid>
+		<description><![CDATA[In an essay about Twitter written in 2014, Ben Thompson described why he believed in the service: &#8220;I think this actually gets to the problem with Twitter: the initial concept was so good, and so perfectly fit such a large market, that they never needed to go through the process of achieving product market fit. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>In <a href="https://stratechery.com/2014/twitter-market/">an essay about Twitter written in 2014</a>, Ben Thompson described why he believed in the service:</p>
+<blockquote><p>
+  &#8220;I think this actually gets to the problem with Twitter: the initial concept was <em>so good</em>, and so perfectly fit such a large market, that they never needed to go through the process of achieving product market fit. It just happened, and they’ve been riding that match for going on eight years.&#8221;
+</p></blockquote>
+<p>I&#8217;ve always thought the same thing. That Twitter started out so good, with such strong core features, that those basic features have carried it through all the years of missteps and inaction. But it&#8217;s not just that the features are &#8220;good&#8221; (although they are); it&#8217;s that they are <em>unique</em>.</p>
+<p>Listening to the <a href="http://www.relay.fm/connected/64">Connected podcast</a> the other day, Federico Viticci and Myke Hurley made the statement that only nerds care about Twitter changing stars to hearts, favorites to likes. I was nodding in agreement until I talked to my daughter. She also didn&#8217;t understand why they would change away from stars, and she&#8217;s been on Twitter less than a year.</p>
+<p>It&#8217;s not just nerds. Many new Twitter users recognize the subtle difference implied with hearts. But I realized that there&#8217;s something even more important about what this change says. Why is my daughter even on Twitter, in addition to Snapchat, Instagram, Facebook, and Vine? Because — even if most people can&#8217;t pin down exactly what makes it special — everyone knows Twitter is different and interesting.</p>
+<p>All Twitter has going for it is its uniqueness. The timeline user experience, the retweets and favorites, the hashtag, and the short 140 character posts. Changing any of those key strengths to be just like every other social network means they&#8217;re watering down their own potential impact. Eventually that approach will produce a bland product that has no unique qualities.</p>
+<p>We&#8217;ve already seen the timeline experience significantly altered. Promoted tweets, &#8220;while you were away&#8221;, inline conversation threads, and Twitter cards. Twitter in 2015 looks a lot more like Facebook than it did a few years ago, to everyone not using third-party Twitter apps.</p>
+<p>Growing the user base is fine. But making Twitter more accessible to new users won&#8217;t do any good if you lose the much larger base of passionate users who have loved the product for years <em>because it&#8217;s unique</em>. You&#8217;re not going to beat Facebook by becoming even more like Facebook. If that&#8217;s Twitter&#8217;s strategy, then the service is already in decline.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/11/stars-vs-hearts-and-twitters-decline.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Jack Dorsey to lead Twitter again</title>
+		<link>http://www.manton.org/2015/10/jack-dorsey-to-lead-twitter-again.html</link>
+		<comments>http://www.manton.org/2015/10/jack-dorsey-to-lead-twitter-again.html#comments</comments>
+		<pubDate>Mon, 05 Oct 2015 22:05:16 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[dorsey]]></category>
+		<category><![CDATA[ev]]></category>
+		<category><![CDATA[microblogging]]></category>
+		<category><![CDATA[openweb]]></category>
+		<category><![CDATA[tweetbot]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3091</guid>
+		<description><![CDATA[Three years ago today I posted my last personal tweet. That time and distance away from mainstream social networking has given me a new perspective on the importance of independent microblogging. It has shaped where I write and what tools I build. But Twitter remains as fascinating as ever. Just a few weeks ago, the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://twitter.com/manton/status/254228056657494016">Three years ago today</a> I posted my last personal tweet. That time and distance away from mainstream social networking has given me a new perspective on the importance of independent microblogging. It has shaped <a href="http://www.manton.org/category/micro">where I write</a> and what tools I build.</p>
+<p>But Twitter remains as fascinating as ever. Just a few weeks ago, <a href="http://www.telegraph.co.uk/technology/twitter/11891887/adam-bain-interview-twitter-jack-dorsey.html">the board seemed unsure</a> about letting Jack Dorsey split his time between Twitter and Square:</p>
+<blockquote><p>
+  &#8220;The responsibilities of running Square, which Dorsey reportedly refuses to give up, may now stand in the way of a Steve <a href="http://www.telegraph.co.uk/technology/steve-jobs/">Jobs-esque</a> return as Twitter’s full time chief executive. In June, its board took the unusual step of publicly declaring that it would only consider candidates &#8216;who are in a position to make a full-time commitment to Twitter&#8217;, a <a href="http://www.telegraph.co.uk/technology/twitter/11691834/Jack-Dorsey-will-have-to-quit-as-Square-boss-to-take-charge-of-Twitter.html">thinly-veiled reference to Dorsey’s preoccupations</a>.&#8221;
+</p></blockquote>
+<p>Then they <a href="http://recode.net/2015/09/30/sources-jack-dorsey-to-be-named-permanent-twitter-ceo/">backed away from that</a>:</p>
+<blockquote><p>
+  &#8220;That declaration, as it seems to have turned out, has been a largely empty one. The idea that Dorsey might return gained steam among people both inside and outside the company over the past few months even though he had no intention of leaving Square. He even referred to the companies as his two children when discussing the dilemma, according to a source.&#8221;
+</p></blockquote>
+<p>Today they officially announced that Jack will return to lead Twitter. Of all the recent articles, my favorite <a href="http://recode.net/2015/10/02/why-jack-dorsey-is-ready-to-save-twitter/">is this one from Recode</a>, a long profile on Jack&#8217;s role and changing attitude:</p>
+<blockquote><p>
+  &#8220;He seems to be a completely different man than the one who returned to Twitter in March 2011 as executive chairman and product czar. Former colleagues recall a man looking for payback for his 2008 ouster; loyalty was key, and many who were loyal to Twitter’s other co-founder, Ev Williams, were booted from the company. Back then, Dorsey would routinely sit in on meetings without saying a word. When he did speak, his contributions were so abstract that few understood what he was talking about. In some cases, he’d simply write a single word or two up on the whiteboard.&#8221;
+</p></blockquote>
+<p>And it goes on, showing how Jack has matured as a leader. Everyone will be watching what he does, and how Twitter evolves. Every article written about an upcoming Twitter feature will mention Jack&#8217;s involvement, no matter how insignificant. He&#8217;s a big part of the story now.</p>
+<p><a href="https://medium.com/@ev/why-i-m-glad-jack-is-back-at-twitter-9bbda2ae5dca">Ev also wrote</a> about the official announcement:</p>
+<blockquote><p>
+  &#8220;Twitter is bigger and more important to the world than we ever dreamed when we started. And it still has incredible, unrealized potential. It will not be easy to unlock it. But we have thousands of smart, creative people working every day to make the company great. And Jack has already demonstrated the ability to inspire the team and think boldly about the next phase of Twitter.&#8221;
+</p></blockquote>
+<p>The greatest challenge for Jack will be figuring out how to take whatever those thousands of employees are working on and turn it into actual user-facing features that ship to customers. Federico Viticci, <a href="https://www.macstories.net/reviews/tweetbot-4-review-bigger-bot/">reviewing the new Tweetbot 4 release</a> last week, wrote about how Tapbots has built something more ambitious than the official Twitter for iPad app, even though Twitter has a much bigger team:</p>
+<blockquote><p>
+  &#8220;On the other hand, Twitter for iPad – long ignored by the company – has emerged again <a href="https://www.macstories.net/news/twitter-aims-to-unify-ios-apps-updates-its-ipad-app/">with a stretched-up iPhone layout</a> presented in the name of &#8216;consistency&#8217;. It&#8217;s a grim landscape, devoid of the excitement and curiosity that surrounded Twitter clients five years ago.&#8221;
+</p></blockquote>
+<p>I still run <a href="http://tweetmarker.net/">Tweet Marker</a>, which was created during that period of innovation that Federico refers to, but my focus now is on indie microblogging and the open web. I&#8217;m content to watch Twitter from the sidelines and wish Jack the best of luck.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/10/jack-dorsey-to-lead-twitter-again.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.275 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-12-18 17:20:30 -->

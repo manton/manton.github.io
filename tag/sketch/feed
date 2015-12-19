@@ -12,12 +12,44 @@
 	<atom:link href="http://www.manton.org/tag/sketch/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 18 Dec 2015 17:56:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
 	<item>
+		<title>Too late to save the MAS?</title>
+		<link>http://www.manton.org/2015/12/too-late-to-save-the-mas.html</link>
+		<comments>http://www.manton.org/2015/12/too-late-to-save-the-mas.html#comments</comments>
+		<pubDate>Wed, 02 Dec 2015 16:41:31 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[clipstart]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[macappstore]]></category>
+		<category><![CDATA[sketch]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3217</guid>
+		<description><![CDATA[You&#8217;ve probably heard the news about Sketch. I found this section of their announcement the most interesting, because it highlights that this isn&#8217;t just about technical and strategic problems with the Mac App Store, but also about having a direct relationship with the customer to provide the best experience: &#8220;Over the last year, as we’ve [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>You&#8217;ve probably heard <a href="http://blog.sketchapp.com/post/134322691555/leaving-the-mac-app-store">the news about Sketch</a>. I found this section of their announcement the most interesting, because it highlights that this isn&#8217;t just about technical and strategic problems with the Mac App Store, but also about having a direct relationship with the customer to provide the best experience:</p>
+<blockquote><p>
+  &#8220;Over the last year, as we’ve made great progress with Sketch, the customer experience on the Mac App Store hasn’t evolved like its iOS counterpart. We want to continue to be a responsive, approachable, and easily-reached company, and selling Sketch directly allows us to give <em>you</em> a better experience.&#8221;
+</p></blockquote>
+<p>Of course, Sketch joins <a href="https://dancounsell.com/articles/not-on-the-mac-app-store">a growing list</a> of apps unavailable in the store. From <a href="http://daringfireball.net/linked/2015/12/01/sketch-leaves-mac-app-store">John Gruber</a>:</p>
+<blockquote><p>
+  &#8220;Sketch isn’t the first big name professional app to be pulled from the Mac App Store (Bare Bones Software’s <a href="http://www.barebones.com/store/macappstore.html">BBEdit</a>, Panic’s <a href="https://panic.com/blog/coda-2-5-and-the-mac-app-store/">Coda</a>, <a href="http://mjtsai.com/blog/2015/11/24/quicken-2015-switches-from-mac-app-store-to-direct-updates/">Quicken</a>, just to name a few). But Sketch is the poster child for Mac App Store era professional Mac software. It’s the sort of app Apple might demo in a keynote — and the winner of <a href="https://www.macstories.net/news/the-2012-apple-design-award-winners/">an Apple Design Award</a>.&#8221;
+</p></blockquote>
+<p><a href="https://www.macstories.net/linked/sketch-is-leaving-the-mac-app-store/">Federico Viticci writes</a> that Apple has to do something:</p>
+<blockquote><p>
+  &#8220;The simple reality is that, gradually, developers of the best apps for OS X are finding it increasingly hard to justify doing business on the Mac App Store. I hope Apple also sees this as a problem and starts doing <em>something</em> about it.&#8221;
+</p></blockquote>
+<p>Daniel and I talked about this <a href="http://www.coreint.org/2015/11/episode-207-pretty-please-apple/">on Core Intuition recently</a>. Developers have been complaining about the Mac App Store for years without seeing any progress. It was <a href="http://www.manton.org/2012/02/sandboxing_and_clipstart.html">over 3 years ago</a> that I pulled my app Clipstart from the Mac App Store to sell direct-only instead, because of my concerns about adapting to sandboxing.</p>
+<p>All this time, Apple could have been iterating on the Mac App Store, improving sandboxing entitlements, improving review times, customer interaction, and more. Yet they have not. At this point, Apple can&#8217;t just do &#8220;something&#8221;. They can&#8217;t just improve the Mac App Store a little. They have to <em>significantly</em> improve it, addressing many issues at once. And even then, some of these great apps — Sketch, BBEdit, Coda, RapidWeaver — may not come back.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/12/too-late-to-save-the-mas.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>RailsConf 2006</title>
 		<link>http://www.manton.org/2006/07/railsconf_2006.html</link>
 		<comments>http://www.manton.org/2006/07/railsconf_2006.html#comments</comments>
@@ -66,5 +98,5 @@
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.677 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:28:45 -->
+<!-- Dynamic page generated in 0.995 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-12-18 17:16:20 -->

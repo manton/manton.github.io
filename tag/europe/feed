@@ -12,12 +12,52 @@
 	<atom:link href="http://www.manton.org/tag/europe/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 18 Dec 2015 17:56:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
 	<item>
+		<title>A diverse community through writing</title>
+		<link>http://www.manton.org/2015/11/a-diverse-community-through-writing.html</link>
+		<comments>http://www.manton.org/2015/11/a-diverse-community-through-writing.html#comments</comments>
+		<pubDate>Thu, 19 Nov 2015 16:36:04 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[europe]]></category>
+		<category><![CDATA[rss]]></category>
+		<category><![CDATA[swift]]></category>
+		<category><![CDATA[travel]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3187</guid>
+		<description><![CDATA[I read a lot of weblogs. RSS is a great way to keep up with sites that update infrequently, or that aren&#8217;t popular enough to bubble up on Twitter with dozens of retweets. But the Mac and iOS community has grown so much over the years. I know there are many new writers who haven&#8217;t [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I read a lot of weblogs. RSS is a great way to keep up with sites that update infrequently, or that aren&#8217;t popular enough to bubble up on Twitter with dozens of retweets. But the Mac and iOS community has grown so much over the years. I know there are many new writers who haven&#8217;t been on my radar yet.</p>
+<p>Brent Simmons has posted <a href="http://inessential.com/2015/11/16/blogs_by_women">a great list of tech blogs by women</a> that I&#8217;m going through now. There should be something there for anyone interested in development or design:</p>
+<blockquote><p>
+  &#8220;I made a list of some blogs I already knew about, and then I asked my friends for more, and they totally came through.&#8221;
+</p></blockquote>
+<p>The list grew to include over 50 blogs as suggestions arrived to Brent via Twitter. I&#8217;ve already subscribed to a bunch and look forward to discovering even more.</p>
+<p>One of my favorite new blogs is the travel blog complement to <a href="http://natashatherobot.com/">Natasha The Robot</a>, which made Brent&#8217;s list. Natasha was recently <a href="https://signalvnoise.com/posts/3973-natasha-the-robot-murashev-joins-basecamp">hired at Basecamp</a>, runs the <a href="https://swiftnews.curated.co/">This Week in Swift</a> newsletter, and <a href="http://www.natashathenomad.com/">writes on her new blog</a> about working remotely. From a post about taking her laptop to restaurants in Europe:</p>
+<blockquote><p>
+  &#8220;The nice thing about this is that I get a really cool and inspiring office for a few hours &#8211; each cafe or restaurant has it&#8217;s own vibe, people, music and I don&#8217;t feel rushed internally knowing that I need to go back to my apartment or coworking space to actually work.&#8221;
+</p></blockquote>
+<p>When I quit my day job this year, it was partly so we could travel more without worrying too much about my work schedule, outside of when the kids are in school. In fact, just days after I finished writing my <a href="http://www.manton.org/tag/2weeks">two weeks notice</a> blog posts, we went to Europe and started a private family blog about the trip. So I&#8217;ve been inspired by Natasha&#8217;s blog as she shares her experience working in different cities.</p>
+<p>And that&#8217;s a theme you&#8217;ll find in many of the developer-oriented blogs on Brent&#8217;s list. Wanting to get better, learning something new, and then sharing it with everyone else. Take this advice from Becky Hansmeyer, who wrote a daily series of posts about what she learned building her iPhone app, one post each day while she waited for her app to be approved by Apple. <a href="http://beckyhansmeyer.com/2015/06/05/waiting-for-review-day-4-visual-style/">From day 4</a>, on design and color:</p>
+<blockquote><p>
+  &#8220;I think the biggest thing I learned in choosing colors and fonts for my app is not to get too hung up in making comparisons to other apps. I spent a lot of time looking at my favorite apps like Overcast and Tweetbot and thinking about the decisions the developers made, and as a result I wound up feeling like I had to make those same decisions. But that was stupid because my app is my own and is also designed for a much smaller market.&#8221;
+</p></blockquote>
+<p>Or this quote from Kristina Thai, who wrote <a href="http://www.kristinathai.com/how-to-be-a-speaker-if-you-dont-have-any-experience/">a post about preparing to give a talk</a> for the first time:</p>
+<blockquote><p>
+  &#8220;My presentation didn’t flow, it was jagged and very rough around the edges, but I kept at it, made some changes and it got better. And better. And even better. And then I practiced it in front of a couple of friends who gave me even more feedback until I was ready.&#8221;
+</p></blockquote>
+<p>Kristina also gave a talk called <a href="http://www.kristinathai.com/writing/">Become a Better Engineer Through Writing</a>. You can get a sense of the talk by downloading the slides. It covers the value to programmers in keeping a private journal, why you might write tutorials for your site, and makes a strong case for blogging.</p>
+<p>Blogging isn&#8217;t difficult, but it&#8217;s still not yet as easy as tweeting. By creating a blog, you&#8217;re making a statement that you <em>care</em> about something. As I go through <a href="http://inessential.com/2015/11/16/blogs_by_women">Brent&#8217;s list of bloggers</a>, that&#8217;s what I&#8217;m looking for: what does the author care about, and what can I learn from or be inspired by in their writing? Because the more diverse our RSS subscriptions are — the more varied the opinions in what we read and share with others — the closer it gets us to a strong, healthy community.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/11/a-diverse-community-through-writing.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Permanence</title>
 		<link>http://www.manton.org/2012/07/permanence.html</link>
 		<comments>http://www.manton.org/2012/07/permanence.html#comments</comments>
@@ -159,5 +199,5 @@
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 1.195 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:27:25 -->
+<!-- Dynamic page generated in 10.054 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-12-18 17:27:43 -->

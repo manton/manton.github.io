@@ -12,12 +12,84 @@
 	<atom:link href="http://www.manton.org/category/business/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 18 Dec 2015 17:56:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
 	<item>
+		<title>Too late to save the MAS?</title>
+		<link>http://www.manton.org/2015/12/too-late-to-save-the-mas.html</link>
+		<comments>http://www.manton.org/2015/12/too-late-to-save-the-mas.html#comments</comments>
+		<pubDate>Wed, 02 Dec 2015 16:41:31 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[clipstart]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[macappstore]]></category>
+		<category><![CDATA[sketch]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3217</guid>
+		<description><![CDATA[You&#8217;ve probably heard the news about Sketch. I found this section of their announcement the most interesting, because it highlights that this isn&#8217;t just about technical and strategic problems with the Mac App Store, but also about having a direct relationship with the customer to provide the best experience: &#8220;Over the last year, as we’ve [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>You&#8217;ve probably heard <a href="http://blog.sketchapp.com/post/134322691555/leaving-the-mac-app-store">the news about Sketch</a>. I found this section of their announcement the most interesting, because it highlights that this isn&#8217;t just about technical and strategic problems with the Mac App Store, but also about having a direct relationship with the customer to provide the best experience:</p>
+<blockquote><p>
+  &#8220;Over the last year, as we’ve made great progress with Sketch, the customer experience on the Mac App Store hasn’t evolved like its iOS counterpart. We want to continue to be a responsive, approachable, and easily-reached company, and selling Sketch directly allows us to give <em>you</em> a better experience.&#8221;
+</p></blockquote>
+<p>Of course, Sketch joins <a href="https://dancounsell.com/articles/not-on-the-mac-app-store">a growing list</a> of apps unavailable in the store. From <a href="http://daringfireball.net/linked/2015/12/01/sketch-leaves-mac-app-store">John Gruber</a>:</p>
+<blockquote><p>
+  &#8220;Sketch isn’t the first big name professional app to be pulled from the Mac App Store (Bare Bones Software’s <a href="http://www.barebones.com/store/macappstore.html">BBEdit</a>, Panic’s <a href="https://panic.com/blog/coda-2-5-and-the-mac-app-store/">Coda</a>, <a href="http://mjtsai.com/blog/2015/11/24/quicken-2015-switches-from-mac-app-store-to-direct-updates/">Quicken</a>, just to name a few). But Sketch is the poster child for Mac App Store era professional Mac software. It’s the sort of app Apple might demo in a keynote — and the winner of <a href="https://www.macstories.net/news/the-2012-apple-design-award-winners/">an Apple Design Award</a>.&#8221;
+</p></blockquote>
+<p><a href="https://www.macstories.net/linked/sketch-is-leaving-the-mac-app-store/">Federico Viticci writes</a> that Apple has to do something:</p>
+<blockquote><p>
+  &#8220;The simple reality is that, gradually, developers of the best apps for OS X are finding it increasingly hard to justify doing business on the Mac App Store. I hope Apple also sees this as a problem and starts doing <em>something</em> about it.&#8221;
+</p></blockquote>
+<p>Daniel and I talked about this <a href="http://www.coreint.org/2015/11/episode-207-pretty-please-apple/">on Core Intuition recently</a>. Developers have been complaining about the Mac App Store for years without seeing any progress. It was <a href="http://www.manton.org/2012/02/sandboxing_and_clipstart.html">over 3 years ago</a> that I pulled my app Clipstart from the Mac App Store to sell direct-only instead, because of my concerns about adapting to sandboxing.</p>
+<p>All this time, Apple could have been iterating on the Mac App Store, improving sandboxing entitlements, improving review times, customer interaction, and more. Yet they have not. At this point, Apple can&#8217;t just do &#8220;something&#8221;. They can&#8217;t just improve the Mac App Store a little. They have to <em>significantly</em> improve it, addressing many issues at once. And even then, some of these great apps — Sketch, BBEdit, Coda, RapidWeaver — may not come back.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/12/too-late-to-save-the-mas.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>A great developer can come from anywhere</title>
+		<link>http://www.manton.org/2015/10/a-great-developer-can-come-from-anywhere.html</link>
+		<comments>http://www.manton.org/2015/10/a-great-developer-can-come-from-anywhere.html#comments</comments>
+		<pubDate>Wed, 21 Oct 2015 21:43:27 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[apps]]></category>
+		<category><![CDATA[pricing]]></category>
+		<category><![CDATA[ratatouille]]></category>
+		<category><![CDATA[sxsw]]></category>
+		<category><![CDATA[wwdc]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3107</guid>
+		<description><![CDATA[It&#8217;s March 2009, the height of SXSW in Austin before the conference gets too big for itself. I&#8217;m hanging out downtown with tech folks from a blogging startup, having dinner and beers before we head to the party they&#8217;re putting on. The CTO, one of the first employees at the company, is talking about Memcache [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>It&#8217;s March 2009, the height of SXSW in Austin before the conference gets too big for itself. I&#8217;m hanging out downtown with tech folks from a blogging startup, having dinner and beers before we head to the party they&#8217;re putting on. The CTO, one of the first employees at the company, is talking about Memcache servers and MySQL scaling, and I&#8217;m hanging on every word. I love this stuff.</p>
+<p>I&#8217;m a Mac and iOS developer, but I often take a break from native app development to work on server software. So I&#8217;m asking him about MySQL replication and what it&#8217;s like to run a schema migration without the database falling over. The conversation sometimes shifts back to Apple platforms, and he says he&#8217;s been thinking about going to WWDC. I had been attending WWDC for a while, so I say sure, it&#8217;s expensive but you should consider it. If you&#8217;re doing more web stuff, though, maybe it&#8217;s not as important that you attend.</p>
+<p>We walk over to the party venue. It&#8217;s bigger and more crowded than he thought it would be. Their company has really taken off, growing well beyond the early days when it was just him and the founder trying to build something new. And it&#8217;s at this point that he turns to me and asks a question that brings us back to iOS development:</p>
+<blockquote><p>
+  &#8220;So what do you think of my app, Instapaper?&#8221;
+</p></blockquote>
+<p>In answer to Marco Arment, at that time the CTO of Tumblr, I mutter something about liking it, but I haven&#8217;t really gotten it into my workflow yet. Hopefully whatever I said was encouraging. In subsequent years, of course, Instapaper would be one of my favorite apps.</p>
+<p>Later, replaying these conversations, I realized that I asked the wrong questions and gave the wrong advice. About WWDC, I should have said &#8220;Yes, absolutely!&#8221; with an exclamation point. Buy a ticket. If you can&#8217;t afford it, go anyway because you need to be there.</p>
+<p>But I didn&#8217;t say that because I wasn&#8217;t listening closely enough. I was so busy asking questions about Tumblr, that I wasn&#8217;t listening to the excitement in his voice about Instapaper. I was so busy thinking about server scaling and databases and all this other stuff that I could&#8217;ve learned from a book, that I didn&#8217;t hear what he was really saying.</p>
+<p>I should have asked about iOS pricing, free versions, sales, UI design, who did the icon, what does the private API look like. But I didn&#8217;t ask those things because I missed the big picture, how dominant the App Store would become for distribution, and so I missed what mattered. I&#8217;d like to think that since then I&#8217;ve gotten better at listening.</p>
+<p>Daniel Jalkut and I had Marco as a special guest on <a href="http://coreint.org/200">Core Intuition 200</a> not just because he&#8217;s a friend but also because he so well represents the goal that many of us have and our listeners have — to start our own company, to find success not just one time but again and again, and to have as thoughtful an approach as possible in the craft of software development.</p>
+<p>This week I&#8217;m in Indianapolis for the <a href="http://releasenotes.tv/">Release Notes conference</a>. While I will have <a href="https://twitter.com/riverfold/status/651509114284044288">some stickers</a> for anyone interested in my new microblogging platform, and I&#8217;ll probably ramble about it at some length if asked, I&#8217;ll also be listening. I&#8217;ll be listening because you never know which random developer you just met will end up doing their best work in the years ahead, and you want to be as encouraging as possible, offer the right kind of feedback, and also learn from their perspective.</p>
+<p>There&#8217;s a great line in the Pixar movie Ratatouille:</p>
+<blockquote><p>
+  &#8220;Not everyone can become a great artist. But a great artist can come from anywhere.&#8221;
+</p></blockquote>
+<p>I believe that&#8217;s equally true for developers. We often see someone go from nothing to a top app in the App Store. We often see someone start without an audience and then make friends on Twitter and blogs through the quality of their writing alone. And so we welcome new voices all the time if they&#8217;re respectful.</p>
+<p>There&#8217;s been some debate about <a href="http://www.marco.org/2015/10/13/pragmatic-pricing">Overcast 2.0&#8217;s patronage model</a>. Some of the discussion is healthy — how does a successful business model for one developer apply to other apps? — and some of the discussion is divisive. Instead of asking the right questions, it&#8217;s easy to jump straight to a <em>conclusion</em> with the dismissive statement: &#8220;that&#8217;s fine for Marco, but his approach would never work for other developers&#8221;.</p>
+<p>The &#8220;that&#8217;s fine for Marco&#8221; attitude is poison for our community because it takes the opposite approach as that Ratatouille quote above. It implies that some developers have such an advantage that the rest of us shouldn&#8217;t even bother, because it&#8217;s not a level playing field. It&#8217;s true that some developers today have an advantage, whether through good timing or just a long history of shipping apps, but the lesson isn&#8217;t to give up; it&#8217;s to instead learn from it, and look at our own strengths. What small head start do we have that could grow into a great success tomorrow, too?</p>
+<p>Rewind a handful of years, back to that day at SXSW when I could name plenty of developers who had more attention and success in our community than Marco Arment. You can be damn sure that didn&#8217;t discourage him from taking Instapaper from an &#8220;in my spare time&#8221; niche app to the top of the News section on the App Store.</p>
+<p>I&#8217;ll never accept the implied negativity in the &#8220;that&#8217;s fine for Marco&#8221; argument. I&#8217;ll never accept that we should be <em>jealous</em> of another developer&#8217;s success instead of <em>inspired</em> by it to do our best work.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/10/a-great-developer-can-come-from-anywhere.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Doubt, part 2</title>
 		<link>http://www.manton.org/2015/09/doubt-part-2.html</link>
 		<comments>http://www.manton.org/2015/09/doubt-part-2.html#comments</comments>
@@ -215,62 +287,8 @@
 			<wfw:commentRss>http://www.manton.org/2015/07/two-weeks-notice-new-products.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
-		<item>
-		<title>Two weeks notice: the first weekend</title>
-		<link>http://www.manton.org/2015/07/two-weeks-notice-the-first-weekend.html</link>
-		<comments>http://www.manton.org/2015/07/two-weeks-notice-the-first-weekend.html#comments</comments>
-		<pubDate>Mon, 20 Jul 2015 16:00:53 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Business]]></category>
-		<category><![CDATA[2weeks]]></category>
-		<category><![CDATA[fear]]></category>
-		<category><![CDATA[indie]]></category>
-		<category><![CDATA[riverfold]]></category>
-		<category><![CDATA[vital source]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=2866</guid>
-		<description><![CDATA[I have some big news to share, so obviously I’m going to write a bunch of blog posts about it. This is the first one. For a while now I’ve been juggling working on my own projects, with my indie company Riverfold Software, and having a regular job at the education e-book software company VitalSource, [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>I have some big news to share, so obviously I’m going to write a bunch of blog posts about it. This is the first one.</p>
-<p>For a while now I’ve been juggling working on my own projects, with my indie company <a href="http://www.riverfold.com/">Riverfold Software</a>, and having a regular job at the education e-book software company VitalSource, where I’ve been <a href="http://www.manton.org/2014/02/13_years.html">for over 14 years</a>. As much as I felt like this balance mostly worked, lately it has become clear that the “nights and weekends” approach to Riverfold just isn’t going to be enough time going forward. Last week I resigned from my job at VitalSource to focus on growing Riverfold and shipping new apps this year, some of the most ambitious products I’ve ever tackled.</p>
-<p>I thought it would be fun to do a series of blog posts about the early part of this transition. For the next couple weeks, as I wind down one set of projects and ramp up new ones, I’m going to post here with the slightly-catchy title prefix “Two weeks notice”. It will be me thinking out loud about the transition, kind of in the informal spirit of <a href="http://inessential.com/vespersyncdiary">Brent’s syncing diary</a>, or like a more serialized version of the <a href="http://www.gusmueller.com/blog/archives/2005/12/25.html">classic indie posts from Gus Mueller</a> and <a href="http://weblog.rogueamoeba.com/2006/09/13/">Paul Kafasis</a>.</p>
-<p>But unlike the authors of those posts, I can’t claim to have found success yet. If you take <a href="http://ideveloper.co/podcast081/">Scotty’s definition from the iDeveloper podcast</a>, in fact, I’m not “indie” at all; I expect some percentage of my time will have to be reserved for client projects to help pay the bills. While I used to find that idea distasteful — why give up a consistent salary if you’re not even going to call the shots? — I’ve come to realize that client work can be pretty interesting. The cycle of starting new projects and shipping them is a good way to learn new APIs and iterate on how to build an app from scratch.</p>
-<p>While reading all these 2005-era indie blog posts, I was surprised to rediscover that <a href="https://www.red-sweater.com/blog/184/the-road-less-traveled">Daniel Jalkut also mentioned</a> mixing in consulting work:</p>
-<blockquote><p>
-  &#8220;Consulting makes an excellent back-up plan. You’ve always got a job if you need it, and your destiny is very much in your own hands.&#8221;
-</p></blockquote>
-<p>Of course he wanted more than that: to build a great company based around his own apps. I&#8217;m sure Daniel and I will be talking about this on <a href="http://coreint.org">Core Intuition</a> later this week.</p>
-<p>So it is a little in the vein of <a href="http://jonathanhays.me/2014/04/16/silverpine-software/">“leap and the net will appear”</a> that I’m moving on from a stable job, where I worked with great developers and friends, to something new that is a lot less certain. I thought that would make for a stressful week, but so far, everything seems okay.</p>
-<p>There’s paperwork to do and code to write. There’s health insurance to figure out. But there are also some things that have already been wrapped up. My projects at work are in a good place, hopefully not needing constant maintenance. We just refinanced our house, so that’s a monthly savings, and something that I’m told is difficult without a “real” job.</p>
-<p>Friday night I started catching up on some late business taxes (whoops). Saturday I finished editing <a href="http://www.coreint.org/2015/07/episode-190-they-become-lifelong-fans/">the podcast</a> (which we recorded over a week ago). The rest of the weekend I tried to relax with family (but I worked anyway). It’s Monday now and there’s a busy week ahead. Let’s see how this goes.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/07/two-weeks-notice-the-first-weekend.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Ev on Twitter third-party devs</title>
-		<link>http://www.manton.org/2015/07/ev-on-twitter-third-party-devs.html</link>
-		<comments>http://www.manton.org/2015/07/ev-on-twitter-third-party-devs.html#comments</comments>
-		<pubDate>Fri, 17 Jul 2015 15:25:39 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Business]]></category>
-		<category><![CDATA[api]]></category>
-		<category><![CDATA[ev]]></category>
-		<category><![CDATA[platforms]]></category>
-		<category><![CDATA[twitter]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=2855</guid>
-		<description><![CDATA[Business Insider quotes Evan Williams on the developer-hostile attitude of previous Twitter management: “The API denial was, ‘One of our strategic errors we had to wind down over time,’ Evans explained. ‘It wasn’t a win/win for developers, users, and the company.’” Just acknowledging this publicly is progress. It’s now been almost 3 years since my [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="http://www.businessinsider.com/evan-williams-on-twitter-and-developers-2015-7">Business Insider quotes Evan Williams</a> on the developer-hostile attitude of previous Twitter management:</p>
-<blockquote><p>
-  “The API denial was, ‘One of our strategic errors we had to wind down over time,’ Evans explained. ‘It wasn’t a win/win for developers, users, and the company.’”
-</p></blockquote>
-<p>Just acknowledging this publicly is progress. It’s now been almost 3 years since my last tweet. I don’t expect to return to Twitter, but I’m still very interested in whether there&#8217;ll be a noticeable change in direction from the new CEO.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/07/ev-on-twitter-third-party-devs.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 1.202 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2015-09-19 13:26:57 -->
+<!-- Dynamic page generated in 1.562 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-12-18 15:44:01 -->

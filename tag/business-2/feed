@@ -12,12 +12,41 @@
 	<atom:link href="http://www.manton.org/tag/business-2/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 18 Dec 2015 17:56:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
 	<item>
+		<title>Release Notes 2015</title>
+		<link>http://www.manton.org/2015/10/release-notes-2015.html</link>
+		<comments>http://www.manton.org/2015/10/release-notes-2015.html#comments</comments>
+		<pubDate>Mon, 26 Oct 2015 17:52:51 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[business]]></category>
+		<category><![CDATA[conferences]]></category>
+		<category><![CDATA[releasenotes]]></category>
+		<category><![CDATA[trains]]></category>
+		<category><![CDATA[uber]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3112</guid>
+		<description><![CDATA[The best blog posts we write are as much for ourselves as for our readers. That&#8217;s one of the traits that makes personal blogging so special. I published my essay last week from the hotel at Release Notes, right before heading downstairs as the conference got underway. Almost no one had read it yet, but [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The best blog posts we write are as much for ourselves as for our readers. That&#8217;s one of the traits that makes personal blogging so special.</p>
+<p>I published <a href="http://www.manton.org/2015/10/a-great-developer-can-come-from-anywhere.html">my essay last week</a> from the hotel at <a href="http://releasenotes.tv/conference">Release Notes</a>, right before heading downstairs as the conference got underway. Almost no one had read it yet, but the essay still helped me because it made me even more aware of when I accidentally monopolized a conversation. I did end up talking a lot about my new project while at Release Notes, but I also caught myself many times, making sure to turn the conversation around and <em>listen</em>.</p>
+<p>And there was plenty to hear at Release Notes. I got something out of every talk and from many conversations with developers who I had never met before. Congratulations to Charles and Joe for putting together a great conference.</p>
+<p>Highlights for me included Myke Hurley&#8217;s opening talk on Wednesday night about quitting his job and the first full-time year of <a href="http://www.relay.fm/">Relay FM</a>; Rob Rhyne&#8217;s fantastic whirlwind tour of accounting, which scared me a little because of everything I still don&#8217;t know about being independent; Jean MacDonald&#8217;s talk about podcast sponsorships and the <a href="http://releasenotes.tv/appcamp4girls">fundraiser for App Camp for Girls</a>; Pieter Omvlee&#8217;s advice on aiming to build a bigger business; and David Smith&#8217;s talk, which I&#8217;ll get to later. I could pull out lessons from each of these talks as well as the others from Rachel Andrew, Georgia Dow, John Saddington, Chris Liscio, Daniel Pasco, and Jim Dalrymple.</p>
+<p>Thursday night was the &#8220;dine around&#8221;, a clever idea to split attendees into groups of about a dozen people, each meeting for dinner at an assigned restaurant. It&#8217;s easy to fall into cliques at conferences. This was a great solution to mixing it up, all but guaranteeing that you&#8217;ll meet someone new.</p>
+<p>It&#8217;s worth saying something about the venue. Converted from the Indianapolis Union Station, which was built in 1853, the conference center and hotel served as a beautiful backdrop to the conference. My hotel room was even made from an old train car. As we left the conference center late Friday afternoon, I took another look up at the vaulted ceiling and stained glass windows, making a mental note to read more about <a href="http://www.walkindianapolis.org/union.html">the history of the original train station</a>.</p>
+<p>On Saturday I checked out of the hotel, walked up to <a href="https://foursquare.com/v/bee-coffee-roasters/51ae6176498ee875488bf40d">Bee Coffee Roasters</a> (where I ran into a couple other attendees who were also still processing everything we learned at the conference), and then took an Uber to the airport. My driver was a musician; he had toured the country playing with bands, was working on a soundtrack which he played on CD for me, and had such an optimistic take on the world that it struck me in obvious contrast to the negativity we see online sometimes.</p>
+<p>And he said something that stayed with me even longer while I waited at airport security and for my flight to board. He said that everything he had wanted to do in life, he had done. Sure, he&#8217;d love to tour with another band, he&#8217;d love to find success with his new music. But already he was content. He laughed when he said he could die happy, and he was not old.</p>
+<p>David Smith mentioned in his talk at Release Notes that he used to want to do everything. Have a best selling app, win a design award, be admired by his peers, and other goals that many of us share. It was only when he set out with a more singular focus — judging every decision by whether it moved his business forward so he could continue to support his family — that all the other secondary goals started taking care of themselves as well. It was a great talk and something I needed to hear.</p>
+<p>As a community we&#8217;re ambitious. We want to build something amazing and we want to make a positive impact on the world. But this week was also a reminder to me that it&#8217;s okay to be more focused, to tackle niche vertical apps, or make small boring decisions that will help our business. It&#8217;s okay, even as we want to do more, to slow down and be proud and content with the path that we&#8217;re on.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/10/release-notes-2015.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>The Focus Course</title>
 		<link>http://www.manton.org/2015/06/the-focus-course.html</link>
 		<comments>http://www.manton.org/2015/06/the-focus-course.html#comments</comments>
@@ -107,7 +136,7 @@
 <p>It&#8217;s a standalone app but includes an optional web complement, offered for free, but which will incur &#8220;real hosting costs&#8221;:http://www.heroku.com/.</p>
 </li>
 </ul>
-<p>Daniel Jalkut and I talked about this a bit on &#8220;Core Intuition 28&#8243;:http://www.coreint.org/2010/04/episode-28-the-ipad-super-episode/ &mdash; that it might be okay to overcharge a little for 1.0 rather than raise the price later, and that it should be possible to build a business on the iPad the same way many developers have on the Mac: not by looking for the big overnight hit but by steadily selling some number of copies every day and letting it spread by word of mouth.</p>
+<p>Daniel Jalkut and I talked about this a bit on &#8220;Core Intuition 28&#8221;:http://www.coreint.org/2010/04/episode-28-the-ipad-super-episode/ &mdash; that it might be okay to overcharge a little for 1.0 rather than raise the price later, and that it should be possible to build a business on the iPad the same way many developers have on the Mac: not by looking for the big overnight hit but by steadily selling some number of copies every day and letting it spread by word of mouth.</p>
 <p>Marco Arment wrote about this as &#8220;App Store B&#8221;:http://www.marco.org/208454730 in October last year:</p>
 <blockquote><p>&#8220;More of their customers notice and demand great design and polish. More sales come from people who have heard of your product first and seek it out by name. Many of these apps are priced above $0.99. These are unlikely to have giant bursts of sales, and hardly any will come close to matching the revenue of the high-profile success stories, but they have a much greater chance of building sustained, long-term income.&#8221;</p></blockquote>
 <p>We&#8217;re three months into the iPad, just passed 3 million devices sold, and not every app has dropped to near-free. I think $10 iPad apps in particular are going to remain pretty common.</p>
@@ -129,8 +158,8 @@
 		<category><![CDATA[yellowbox]]></category>
 
 		<guid isPermaLink="false">http://www.manton.org/2009/09/its_okay_to.html</guid>
-		<description><![CDATA[I talked in &#8220;Core Intuition episode 22&#8243;:http://www.coreint.org/2009/08/episode-22-not-just-a-hobby/ about how I&#8217;ve stopped working on my indie iPhone apps. Mike Ash is also done with it. &#8220;He writes&#8221;:http://www.mikeash.com/?page=pyblog/the-iphone-development-story-one-year-later.html: &#8220;I have abandoned the platform. Apple&#8217;s nonsense is just too much for me. There&#8217;s no joy in iPhone development, and an enormous amount of frustration.&#8221; Reading through the comments [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>I talked in &#8220;Core Intuition episode 22&#8243;:http://www.coreint.org/2009/08/episode-22-not-just-a-hobby/ about how I&#8217;ve stopped working on my indie iPhone apps. Mike Ash is also done with it. &#8220;He writes&#8221;:http://www.mikeash.com/?page=pyblog/the-iphone-development-story-one-year-later.html:</p>
+		<description><![CDATA[I talked in &#8220;Core Intuition episode 22&#8221;:http://www.coreint.org/2009/08/episode-22-not-just-a-hobby/ about how I&#8217;ve stopped working on my indie iPhone apps. Mike Ash is also done with it. &#8220;He writes&#8221;:http://www.mikeash.com/?page=pyblog/the-iphone-development-story-one-year-later.html: &#8220;I have abandoned the platform. Apple&#8217;s nonsense is just too much for me. There&#8217;s no joy in iPhone development, and an enormous amount of frustration.&#8221; Reading through the comments [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I talked in &#8220;Core Intuition episode 22&#8221;:http://www.coreint.org/2009/08/episode-22-not-just-a-hobby/ about how I&#8217;ve stopped working on my indie iPhone apps. Mike Ash is also done with it. &#8220;He writes&#8221;:http://www.mikeash.com/?page=pyblog/the-iphone-development-story-one-year-later.html:</p>
 <blockquote><p>&#8220;I have abandoned the platform. Apple&#8217;s nonsense is just too much for me. There&#8217;s no joy in iPhone development, and an enormous amount of frustration.&#8221;</p></blockquote>
 <p>Reading through the comments got me thinking. I&#8217;m not abandoning the iPhone just because the App Store is such a frustrating environment to run a business in, or that I have a bunch of real work I could be doing instead of playing games with Apple. It&#8217;s also because most of the apps I would write have already been done, and in some cases done very well.</p>
 <p>I love having a small computer in my pocket and mine is full of third-party apps. I&#8217;m thankful for the developers who are coming from other platforms and focusing all of their attention on the phone. And they are thrilled to be an a platform that is such a step up from traditional mobile development. The financial success stories of developers hitting on a great idea and it just taking off in the App Store are real and inspiring.</p>
@@ -154,8 +183,8 @@
 		<category><![CDATA[wiitransfer]]></category>
 
 		<guid isPermaLink="false">http://www.manton.org/2008/09/wii_transfer_26.html</guid>
-		<description><![CDATA[As I mention on the next &#8220;Core Intuition&#8221;:http://www.coreint.org/, which I&#8217;m currently finishing editing and should be out tomorrow, &#8220;Wii Transfer 2.6&#8243;:http://www.riverfold.com/software/wiitransfer/ was very well received. I put out a 2.6.1 tonight to address Mii problems for some customers, and with new encoding settings that improve movie streaming quality significantly. The following chart shows the spike [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>As I mention on the next &#8220;Core Intuition&#8221;:http://www.coreint.org/, which I&#8217;m currently finishing editing and should be out tomorrow, &#8220;Wii Transfer 2.6&#8243;:http://www.riverfold.com/software/wiitransfer/ was very well received. I put out a 2.6.1 tonight to address Mii problems for some customers, and with new encoding settings that improve movie streaming quality significantly.</p>
+		<description><![CDATA[As I mention on the next &#8220;Core Intuition&#8221;:http://www.coreint.org/, which I&#8217;m currently finishing editing and should be out tomorrow, &#8220;Wii Transfer 2.6&#8221;:http://www.riverfold.com/software/wiitransfer/ was very well received. I put out a 2.6.1 tonight to address Mii problems for some customers, and with new encoding settings that improve movie streaming quality significantly. The following chart shows the spike [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>As I mention on the next &#8220;Core Intuition&#8221;:http://www.coreint.org/, which I&#8217;m currently finishing editing and should be out tomorrow, &#8220;Wii Transfer 2.6&#8221;:http://www.riverfold.com/software/wiitransfer/ was very well received. I put out a 2.6.1 tonight to address Mii problems for some customers, and with new encoding settings that improve movie streaming quality significantly.</p>
 <p>The following chart shows the spike in sales for August along with every month of 2008 and 2007. This isn&#8217;t revenue but total units sold for the month.</p>
 <p><img src="http://www.manton.org/images/2008/sales_26.png" alt="sales_26.png" border="0" width="620" height="154" /></p>
 <p>While I don&#8217;t expect nearly this level for September, I am nevertheless interested in how far it will drop. Maybe I&#8217;ll post an updated chart at the end of the year.</p>
@@ -257,36 +286,8 @@
 			<wfw:commentRss>http://www.manton.org/2007/10/wii_transfer_on.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
-		<item>
-		<title>First 75 days of Wii Transfer</title>
-		<link>http://www.manton.org/2007/02/first_75_days.html</link>
-		<comments>http://www.manton.org/2007/02/first_75_days.html#comments</comments>
-		<pubDate>Wed, 28 Feb 2007 03:40:18 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Programming]]></category>
-		<category><![CDATA[business]]></category>
-		<category><![CDATA[sales]]></category>
-		<category><![CDATA[transfer]]></category>
-		<category><![CDATA[wii]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2007/02/first_75_days.html</guid>
-		<description><![CDATA[In the tradition of other independent Mac developers such as &#8220;Mike Zornek&#8221;:http://clickablebliss.com/blog/2007/01/08/billable_the_first_100_days/, &#8220;Daniel Jalkut&#8221;:http://www.red-sweater.com/blog/191/lawful-prey, and &#8220;Gus Mueller&#8221;:http://www.gusmueller.com/blog/archives/2005/12/25.html, I&#8217;m going to share some sales information from the first 75 days of Wii Transfer. The following chart shows daily sales (in units sold) for each day. I&#8217;ve also highlighted important milestones so you can see what affect [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>In the tradition of other independent Mac developers such as &#8220;Mike Zornek&#8221;:http://clickablebliss.com/blog/2007/01/08/billable_the_first_100_days/, &#8220;Daniel Jalkut&#8221;:http://www.red-sweater.com/blog/191/lawful-prey, and &#8220;Gus Mueller&#8221;:http://www.gusmueller.com/blog/archives/2005/12/25.html, I&#8217;m going to share some sales information from the first 75 days of Wii Transfer.</p>
-<p>The following chart shows daily sales (in units sold) for each day. I&#8217;ve also highlighted important milestones so you can see what affect they had on sales, such as shipping 2.0 (which brought many links) and increasing the price (from $9 to $14, which brought my first 2.0 day of no sales at all). Finally, there are a few spots where I show the average number of visitors.</p>
-<p><img src="http://www.manton.org/images/2007/sales_75_days.png" width="600" height="220" alt="Sales chart" /></p>
-<p>(As an aside, I created this chart in Keynote. I love software that is simple and flexible enough to be used for purposes outside its original developer&#8217;s intentions. I wrote &#8220;more on this subject back in early 2006&#8243;:http://www.manton.org/2006/01/limitations_in_toys.html.)</p>
-<p>It&#8217;s difficult to tell, but the numbers on the right side are on average a little bit higher than the left. Not by much though. Sales just trickle in again right now (a few a day).</p>
-<p>So what does it all mean? Here is the basic take-away: Sales are much better than I thought they would be, but not nearly enough to live off of. That&#8217;s okay, because I happen to love &#8220;my day job&#8221;:http://www.vitalsource.com/ (also writing Mac software). However, I can definitely see how it would be possible to do this full time, with some real marketing and a collection of several additional applications. I have done zero marketing for Wii Transfer except listing it on MacUpdate, VersionTracker, and Apple&#8217;s download site (where it was featured in the video section).</p>
-<p>As you can see, there was a big spike in sales when 2.0 was released. This is a direct result of links from Mac sites like The Unofficial Apple Weblog and Daring Fireball, and gaming sites like Jostiq and others. When traffic goes up, sales go up. This opened my eyes because it really is all about getting your app in front of other users. &#8220;As I blogged about previously&#8221;:http://www.manton.org/2007/01/wii_transfer_takes.html, I think I also missed some sales opportunities during this period because 2.0 was not very stable.</p>
-<p>Other interesting stats: The conversion rate is between 2% and 5%. For every 100 downloads, a few people decide to purchase it. I think many active users probably end up paying for it. Instead of a trial demo period, some features are just crippled, and it isn&#8217;t very usable day-to-day without unlocking the full feature set (for example, with music sharing to the Wii, you can only play one song at a time &#8212; no iTunes playlists or shuffle).</p>
-<p>There are at least a few pirates too. I&#8217;m not too worried about them because &#8220;you can&#8217;t stop pirating&#8221;:http://wilshipley.com/blog/2007/02/piracy-reduction-can-be-source-of.html, and most people are honest. One customer was even nice enough to tell me about a pirated serial number he found.</p>
-<p>To everyone who purchased Wii Transfer, thanks! When I built 1.0, I wasn&#8217;t sure if I would work on it again. Now, several versions later at 2.2, I have a clear roadmap of features (and bugs!) to keep me busy.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2007/02/first_75_days.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 1.610 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:16:59 -->
+<!-- Dynamic page generated in 1.807 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-12-18 17:37:13 -->

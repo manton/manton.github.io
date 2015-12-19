@@ -12,12 +12,52 @@
 	<atom:link href="http://www.manton.org/tag/pricing/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 18 Dec 2015 17:56:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
 	<item>
+		<title>A great developer can come from anywhere</title>
+		<link>http://www.manton.org/2015/10/a-great-developer-can-come-from-anywhere.html</link>
+		<comments>http://www.manton.org/2015/10/a-great-developer-can-come-from-anywhere.html#comments</comments>
+		<pubDate>Wed, 21 Oct 2015 21:43:27 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[apps]]></category>
+		<category><![CDATA[pricing]]></category>
+		<category><![CDATA[ratatouille]]></category>
+		<category><![CDATA[sxsw]]></category>
+		<category><![CDATA[wwdc]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3107</guid>
+		<description><![CDATA[It&#8217;s March 2009, the height of SXSW in Austin before the conference gets too big for itself. I&#8217;m hanging out downtown with tech folks from a blogging startup, having dinner and beers before we head to the party they&#8217;re putting on. The CTO, one of the first employees at the company, is talking about Memcache [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>It&#8217;s March 2009, the height of SXSW in Austin before the conference gets too big for itself. I&#8217;m hanging out downtown with tech folks from a blogging startup, having dinner and beers before we head to the party they&#8217;re putting on. The CTO, one of the first employees at the company, is talking about Memcache servers and MySQL scaling, and I&#8217;m hanging on every word. I love this stuff.</p>
+<p>I&#8217;m a Mac and iOS developer, but I often take a break from native app development to work on server software. So I&#8217;m asking him about MySQL replication and what it&#8217;s like to run a schema migration without the database falling over. The conversation sometimes shifts back to Apple platforms, and he says he&#8217;s been thinking about going to WWDC. I had been attending WWDC for a while, so I say sure, it&#8217;s expensive but you should consider it. If you&#8217;re doing more web stuff, though, maybe it&#8217;s not as important that you attend.</p>
+<p>We walk over to the party venue. It&#8217;s bigger and more crowded than he thought it would be. Their company has really taken off, growing well beyond the early days when it was just him and the founder trying to build something new. And it&#8217;s at this point that he turns to me and asks a question that brings us back to iOS development:</p>
+<blockquote><p>
+  &#8220;So what do you think of my app, Instapaper?&#8221;
+</p></blockquote>
+<p>In answer to Marco Arment, at that time the CTO of Tumblr, I mutter something about liking it, but I haven&#8217;t really gotten it into my workflow yet. Hopefully whatever I said was encouraging. In subsequent years, of course, Instapaper would be one of my favorite apps.</p>
+<p>Later, replaying these conversations, I realized that I asked the wrong questions and gave the wrong advice. About WWDC, I should have said &#8220;Yes, absolutely!&#8221; with an exclamation point. Buy a ticket. If you can&#8217;t afford it, go anyway because you need to be there.</p>
+<p>But I didn&#8217;t say that because I wasn&#8217;t listening closely enough. I was so busy asking questions about Tumblr, that I wasn&#8217;t listening to the excitement in his voice about Instapaper. I was so busy thinking about server scaling and databases and all this other stuff that I could&#8217;ve learned from a book, that I didn&#8217;t hear what he was really saying.</p>
+<p>I should have asked about iOS pricing, free versions, sales, UI design, who did the icon, what does the private API look like. But I didn&#8217;t ask those things because I missed the big picture, how dominant the App Store would become for distribution, and so I missed what mattered. I&#8217;d like to think that since then I&#8217;ve gotten better at listening.</p>
+<p>Daniel Jalkut and I had Marco as a special guest on <a href="http://coreint.org/200">Core Intuition 200</a> not just because he&#8217;s a friend but also because he so well represents the goal that many of us have and our listeners have — to start our own company, to find success not just one time but again and again, and to have as thoughtful an approach as possible in the craft of software development.</p>
+<p>This week I&#8217;m in Indianapolis for the <a href="http://releasenotes.tv/">Release Notes conference</a>. While I will have <a href="https://twitter.com/riverfold/status/651509114284044288">some stickers</a> for anyone interested in my new microblogging platform, and I&#8217;ll probably ramble about it at some length if asked, I&#8217;ll also be listening. I&#8217;ll be listening because you never know which random developer you just met will end up doing their best work in the years ahead, and you want to be as encouraging as possible, offer the right kind of feedback, and also learn from their perspective.</p>
+<p>There&#8217;s a great line in the Pixar movie Ratatouille:</p>
+<blockquote><p>
+  &#8220;Not everyone can become a great artist. But a great artist can come from anywhere.&#8221;
+</p></blockquote>
+<p>I believe that&#8217;s equally true for developers. We often see someone go from nothing to a top app in the App Store. We often see someone start without an audience and then make friends on Twitter and blogs through the quality of their writing alone. And so we welcome new voices all the time if they&#8217;re respectful.</p>
+<p>There&#8217;s been some debate about <a href="http://www.marco.org/2015/10/13/pragmatic-pricing">Overcast 2.0&#8217;s patronage model</a>. Some of the discussion is healthy — how does a successful business model for one developer apply to other apps? — and some of the discussion is divisive. Instead of asking the right questions, it&#8217;s easy to jump straight to a <em>conclusion</em> with the dismissive statement: &#8220;that&#8217;s fine for Marco, but his approach would never work for other developers&#8221;.</p>
+<p>The &#8220;that&#8217;s fine for Marco&#8221; attitude is poison for our community because it takes the opposite approach as that Ratatouille quote above. It implies that some developers have such an advantage that the rest of us shouldn&#8217;t even bother, because it&#8217;s not a level playing field. It&#8217;s true that some developers today have an advantage, whether through good timing or just a long history of shipping apps, but the lesson isn&#8217;t to give up; it&#8217;s to instead learn from it, and look at our own strengths. What small head start do we have that could grow into a great success tomorrow, too?</p>
+<p>Rewind a handful of years, back to that day at SXSW when I could name plenty of developers who had more attention and success in our community than Marco Arment. You can be damn sure that didn&#8217;t discourage him from taking Instapaper from an &#8220;in my spare time&#8221; niche app to the top of the News section on the App Store.</p>
+<p>I&#8217;ll never accept the implied negativity in the &#8220;that&#8217;s fine for Marco&#8221; argument. I&#8217;ll never accept that we should be <em>jealous</em> of another developer&#8217;s success instead of <em>inspired</em> by it to do our best work.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/10/a-great-developer-can-come-from-anywhere.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Jurewitz on features, pricing</title>
 		<link>http://www.manton.org/2013/04/jurewitz_on_features.html</link>
 		<comments>http://www.manton.org/2013/04/jurewitz_on_features.html#comments</comments>
@@ -192,7 +232,7 @@
 <p>It&#8217;s a standalone app but includes an optional web complement, offered for free, but which will incur &#8220;real hosting costs&#8221;:http://www.heroku.com/.</p>
 </li>
 </ul>
-<p>Daniel Jalkut and I talked about this a bit on &#8220;Core Intuition 28&#8243;:http://www.coreint.org/2010/04/episode-28-the-ipad-super-episode/ &mdash; that it might be okay to overcharge a little for 1.0 rather than raise the price later, and that it should be possible to build a business on the iPad the same way many developers have on the Mac: not by looking for the big overnight hit but by steadily selling some number of copies every day and letting it spread by word of mouth.</p>
+<p>Daniel Jalkut and I talked about this a bit on &#8220;Core Intuition 28&#8221;:http://www.coreint.org/2010/04/episode-28-the-ipad-super-episode/ &mdash; that it might be okay to overcharge a little for 1.0 rather than raise the price later, and that it should be possible to build a business on the iPad the same way many developers have on the Mac: not by looking for the big overnight hit but by steadily selling some number of copies every day and letting it spread by word of mouth.</p>
 <p>Marco Arment wrote about this as &#8220;App Store B&#8221;:http://www.marco.org/208454730 in October last year:</p>
 <blockquote><p>&#8220;More of their customers notice and demand great design and polish. More sales come from people who have heard of your product first and seek it out by name. Many of these apps are priced above $0.99. These are unlikely to have giant bursts of sales, and hardly any will come close to matching the revenue of the high-profile success stories, but they have a much greater chance of building sustained, long-term income.&#8221;</p></blockquote>
 <p>We&#8217;re three months into the iPad, just passed 3 million devices sold, and not every app has dropped to near-free. I think $10 iPad apps in particular are going to remain pretty common.</p>
@@ -265,42 +305,8 @@
 			<wfw:commentRss>http://www.manton.org/2008/12/the_99cent_message.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
-		<item>
-		<title>Family packs</title>
-		<link>http://www.manton.org/2008/10/family_packs.html</link>
-		<comments>http://www.manton.org/2008/10/family_packs.html#comments</comments>
-		<pubDate>Tue, 28 Oct 2008 04:02:40 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Business]]></category>
-		<category><![CDATA[family]]></category>
-		<category><![CDATA[pricing]]></category>
-		<category><![CDATA[wiitransfer]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2008/10/family_packs.html</guid>
-		<description><![CDATA[I rolled out &#8220;family pack&#8221; pricing for &#8220;Wii Transfer&#8221;:http://www.riverfold.com/software/wiitransfer/ over the weekend. I had to make changes to my custom PayPal integration scripts to support it, and I also modified the product page to use a simplified checkout (no standalone store page). Pretty straightforward. I was less sure about pricing. A quick survey of other [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>I rolled out &#8220;family pack&#8221; pricing for &#8220;Wii Transfer&#8221;:http://www.riverfold.com/software/wiitransfer/ over the weekend. I had to make changes to my custom PayPal integration scripts to support it, and I also modified the product page to use a simplified checkout (no standalone store page). Pretty straightforward.</p>
-<p>I was less sure about pricing. A quick survey of other Mac developers yielded results like these (normal price / family price &mdash; all of these are for 5 users):</p>
-<p>&#8220;Radioshift&#8221;:http://www.rogueamoeba.com/: $32 / $59</p>
-<p>&#8220;Yojimbo&#8221;:http://www.barebones.com/: $39 / $69</p>
-<p>&#8220;Hazel&#8221;:http://www.noodlesoft.com/: $21.95 / $39.95</p>
-<p>&#8220;iLife&#8221;:http://www.apple.com/ilife/: $79 / $99</p>
-<p>&#8220;Bento&#8221;:http://www.filemaker.com/products/bento/: $49 / $99</p>
-<p>&#8220;TextExpander&#8221;:http://www.smileonmymac.com/: $29.95 / $44.95</p>
-<p>&#8220;MoneyWell&#8221;:http://nothirst.com/: $39.99 / $69.99</p>
-<p>Additionally, some companies don&#8217;t have a family pack, but offer discounts for multiple copies:</p>
-<p>&#8220;Acorn&#8221;:http://www.flyingmeat.com/: $49.95 / 2+ (20% off)</p>
-<p>&#8220;On The Job&#8221;:http://www.stuntsoftware.com/: $24.95 / 2+ (20% off)</p>
-<p>&#8220;BusySync&#8221;:http://www.busymac.com/: $25 / 5+ (10% off)</p>
-<p>&#8220;Transmit&#8221;:http://www.panic.com/: $29.95 / 10+ (10% off)</p>
-<p>So 5 copies is the standard for family packs. My original idea was 3 copies for $29, so I threw that out. Five copies for only 50% more seemed way too cheap, especially since Wii Transfer is already the least expensive software of any company I found. True, this is &#8220;free&#8221; money &mdash; most customers don&#8217;t buy more than 1 copy anyway &mdash; but on the other hand they are getting 5 separate serial numbers. Unlike Apple&#8217;s iLife (which has no serial numbers), or Radioshift and BusySync (which allow a special serial number to be used on multiple computers), Wii Transfer&#8217;s URL bookmarking feature requires each copy of Wii Transfer to have a unique serial number to identify the computer.</p>
-<p>I think customers buying a family pack are exceptionally honest. They are going out of their way to do the right thing. But at the same time, it needs to be a fair enough price that I&#8217;m not losing anything if a few customers decide to share their &#8220;extra&#8221; serial numbers with a friend.</p>
-<p>In the end I settled on $39 for the 5-copy family pack, essentially double the normal price of $19. The Bento pricing model convinced me that it was doable, even if percentage wise it&#8217;s slightly higher than other products. I&#8217;ll be watching stats over the next month to see how well it works. &#8220;Decisions are temporary&#8221;:https://gettingreal.37signals.com/ch06_Done.php. I&#8217;m not afraid to change the family price or drop it altogether if it doesn&#8217;t meet my expectations.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2008/10/family_packs.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 15.090 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:15:50 -->
+<!-- Dynamic page generated in 1.900 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-12-18 17:26:56 -->

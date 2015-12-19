@@ -12,11 +12,11 @@
 	<atom:link href="http://www.manton.org/tag/c4/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 18 Dec 2015 17:56:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
 	<item>
 		<title>Apple and the impression of being small</title>
 		<link>http://www.manton.org/2013/03/apple_and_the.html</link>
@@ -95,7 +95,7 @@
 
 		<guid isPermaLink="false">http://www.manton.org/2008/09/bbedit_9.html</guid>
 		<description><![CDATA[&#8220;BBEdit 9 is out&#8221;:http://www.barebones.com/products/bbedit/, and it&#8217;s a solid upgrade. A recently came across an old BBEdit 4 CD, which Rich Siegel gave me back in the mid 90s when I was helping run the WebEdge Mac web developer conference. Good times! Bare Bones is one of the only &#8220;old indies&#8221; to make the transition so [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>&#8220;BBEdit 9 is out&#8221;:http://www.barebones.com/products/bbedit/, and it&#8217;s a solid upgrade. A recently came across an old BBEdit 4 CD, which Rich Siegel gave me back in the mid 90s when I was helping run the WebEdge Mac web developer conference. Good times! Bare Bones is one of the only &#8220;old indies&#8221; to make the transition so strongly to Mac OS X. Rich is also &#8220;speaking at C4&#8243;:http://rentzsch.com/c4/twoOpen/ this coming weekend.</p>
+				<content:encoded><![CDATA[<p>&#8220;BBEdit 9 is out&#8221;:http://www.barebones.com/products/bbedit/, and it&#8217;s a solid upgrade. A recently came across an old BBEdit 4 CD, which Rich Siegel gave me back in the mid 90s when I was helping run the WebEdge Mac web developer conference. Good times! Bare Bones is one of the only &#8220;old indies&#8221; to make the transition so strongly to Mac OS X. Rich is also &#8220;speaking at C4&#8221;:http://rentzsch.com/c4/twoOpen/ this coming weekend.</p>
 ]]></content:encoded>
 			<wfw:commentRss>http://www.manton.org/2008/09/bbedit_9.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
@@ -118,7 +118,7 @@
 <blockquote><p>&#8220;This app is all I&#8217;m working on. My entire reputation, my 25 years in the industry, my company is all riding on this release. I&#8217;m not going to just suddenly give up one day for no reason.&#8221;</p></blockquote>
 <p>I&#8217;m one of those people who will upgrade to &#8220;Delicious Library&#8221;:http://www.delicious-monster.com/ 2 on the first day and I know I won&#8217;t be disappointed. Although my indie app has a tiny fraction of the users Delicious has, I&#8217;m currently going through the same kind of delays.</p>
 <p>After months of quick, focused &#8220;Wii Transfer&#8221;:http://www.riverfold.com/software/wiitransfer/ releases, I decided in November to skip a minor bug fix release and roll up all the outstanding issues into a bigger release with several important user interface improvements. You reach a point in this process where there is no turning back, and for every refinement to the product you see just how much more you could do. I think it&#8217;s that kind of constant, iterative polishing that Wil is going through now.</p>
-<p>If you are curious about the business of software development, don&#8217;t miss his &#8220;talk from C4&#8243;:http://www.viddler.com/explore/rentzsch/videos/4/ last year. In many ways I&#8217;m glad it took so long for the videos to go up; I&#8217;ve already forgotten half of the content so it will be fun to review the sessions.</p>
+<p>If you are curious about the business of software development, don&#8217;t miss his &#8220;talk from C4&#8221;:http://www.viddler.com/explore/rentzsch/videos/4/ last year. In many ways I&#8217;m glad it took so long for the videos to go up; I&#8217;ve already forgotten half of the content so it will be fun to review the sessions.</p>
 ]]></content:encoded>
 			<wfw:commentRss>http://www.manton.org/2008/02/dont_give_up.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
@@ -195,7 +195,7 @@
 <p>Sure, I was jealous of everyone running Twitterific while I had to refresh m.twitter.com manually, but overall the experience was great. As &#8220;Matt Haughey has blogged about&#8221;:http://a.wholelottanothing.org/2007/07/01/24-hours-with-the-iphone-my-dream-mini-computer/: the iPhone is a computer, and 3 full days of use proved to me that it&#8217;s extremely competent.</p>
 <p>Fast-forward to two weeks ago and I went on a weekend road-trip to Dallas with only the iPhone, confident I could respond to email if needed. Same thing over the long Labor Day holiday: drove 7 hours both ways for 2 nights in Louisiana, easily able to follow up on bugs from a recent software release without my MacBook.</p>
 <p>Of course there are a few rough edges: I don&#8217;t do significant server-side spam filtering, so deleting spam on the iPhone is getting tedious; paying a premium for SMS is annoying and counter to the unlimited web bandwidth; and my typing is only now to the point of pretty good. But otherwise any limitations with the built-in software are quickly becoming solved with new 3rd-party offerings, which have blossomed faster than most of us expected in no small part thanks to &#8220;Nullriver&#8217;s excellent installer&#8221;:http://iphone.nullriver.com/beta/.</p>
-<p>Now the the only question is: what do I do with my &#8220;free $100&#8243;:http://www.apple.com/hotnews/openiphoneletter/?</p>
+<p>Now the the only question is: what do I do with my &#8220;free $100&#8221;:http://www.apple.com/hotnews/openiphoneletter/?</p>
 ]]></content:encoded>
 			<wfw:commentRss>http://www.manton.org/2007/09/not_a_c4.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
@@ -225,5 +225,5 @@
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 2.424 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:17:09 -->
+<!-- Dynamic page generated in 1.796 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-12-18 18:04:21 -->

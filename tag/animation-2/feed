@@ -12,12 +12,34 @@
 	<atom:link href="http://www.manton.org/tag/animation-2/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 18 Dec 2015 17:56:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
 	<item>
+		<title>The Lightbox</title>
+		<link>http://www.manton.org/2015/09/the-lightbox.html</link>
+		<comments>http://www.manton.org/2015/09/the-lightbox.html#comments</comments>
+		<pubDate>Mon, 28 Sep 2015 20:42:05 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Animation]]></category>
+		<category><![CDATA[animation]]></category>
+		<category><![CDATA[archive]]></category>
+		<category><![CDATA[lightbox]]></category>
+		<category><![CDATA[rss]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3080</guid>
+		<description><![CDATA[In 1999, I started a link weblog to collect news about animated films. I updated it for a few years, until there were plenty of other good news sources from industry writers more qualified than I was to run such a site. I was just a fan. The site was a homegrown MySQL database and [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>In 1999, I started a link weblog to collect news about animated films. I updated it for a few years, until there were plenty of other good news sources from industry writers more qualified than I was to run such a site. I was just a fan.</p>
+<p>The site was a homegrown MySQL database and set of PHP scripts. Somewhere along the way, I lost the archive, and never noticed that the site had broken until today. To make matters more difficult, I had blocked it in my robots.txt, so the Internet Archive copy (which existed, at least in parts) wouldn&#8217;t load cleanly.</p>
+<p>I took some time today to piece it back together as a new static HTML file and (partial) RSS feed. I&#8217;ve preserved the original design and HTML tags. Fun rediscoveries in the HTML include spacer GIFs, &lt;blockquote&gt; to indent the entire page, and RSS 0.91.</p>
+<p>I called it <a href="http://www.manton.org/lightbox/">The Lightbox</a>. It was just a linkblog. But now 16 years later, I&#8217;ve enjoyed skimming through the old posts.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/09/the-lightbox.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>NeXTEVNT and Song of the Sea</title>
 		<link>http://www.manton.org/2015/07/nextevnt-and-song-of-the-sea.html</link>
 		<comments>http://www.manton.org/2015/07/nextevnt-and-song-of-the-sea.html#comments</comments>
@@ -257,32 +279,8 @@
 			<wfw:commentRss>http://www.manton.org/2009/12/the_princess_and.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
-		<item>
-		<title>Sita</title>
-		<link>http://www.manton.org/2009/01/sita.html</link>
-		<comments>http://www.manton.org/2009/01/sita.html#comments</comments>
-		<pubDate>Fri, 02 Jan 2009 23:11:04 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Animation]]></category>
-		<category><![CDATA[animation]]></category>
-		<category><![CDATA[ebert]]></category>
-		<category><![CDATA[films]]></category>
-		<category><![CDATA[paley]]></category>
-		<category><![CDATA[sita]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2009/01/sita.html</guid>
-		<description><![CDATA[As we start 2009, I continue to be inspired by what independent artists and developers are able to create with limited resources. Here&#8217;s one example. Roger Ebert recently &#8220;posted a thoughtful review&#8221;:http://blogs.suntimes.com/ebert/2008/12/having_wonderful_time_wish_you.html of animator Nina Paley&#8217;s independent feature Sita Sings the Blues. Paley is still in a small bit of copyright trouble with the songs [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>As we start 2009, I continue to be inspired by what independent artists and developers are able to create with limited resources. Here&#8217;s one example.</p>
-<p>Roger Ebert recently &#8220;posted a thoughtful review&#8221;:http://blogs.suntimes.com/ebert/2008/12/having_wonderful_time_wish_you.html of animator Nina Paley&#8217;s independent feature Sita Sings the Blues. Paley is still in a small bit of copyright trouble with the songs and is trying to &#8220;creatively find a way out&#8221;:http://blog.ninapaley.com/2008/12/28/sitas-distribution-plan/. The copyright problem was news to me. I subscribe to Paley&#8217;s blog but haven&#8217;t been keeping up with it lately.</p>
-<p>Early in 2008 I invited Paley to screen her films at &#8220;STAPLE!&#8221;:http://www.staple-austin.org/, but she was busy finishing Sita and preparing for its premiere in Europe. She has some great older shorts too, including one of the first Flash to QuickTime animated shorts I remember seeing, Fetch, which was linked years ago off Hotwired&#8217;s defunct animation site.</p>
-<p>(Speaking of STAPLE!, &#8220;Stan Sakai&#8221;:http://www.staple-austin.org/guests/ will be our guest in March. If you are in the Austin area, please stop by.)</p>
-<p>Sita Sings the Blues will find an audience eventually. I gave some money as Paley was soliciting donations to finish the feature, and I know I&#8217;m not the only one inspired by what she&#8217;s created. Making an indie feature film is an amazing accomplishment.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2009/01/sita.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 1.670 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:14:53 -->
+<!-- Dynamic page generated in 4.871 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-12-18 17:18:17 -->

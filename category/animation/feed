@@ -12,12 +12,34 @@
 	<atom:link href="http://www.manton.org/category/animation/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 18 Dec 2015 17:56:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
 	<item>
+		<title>The Lightbox</title>
+		<link>http://www.manton.org/2015/09/the-lightbox.html</link>
+		<comments>http://www.manton.org/2015/09/the-lightbox.html#comments</comments>
+		<pubDate>Mon, 28 Sep 2015 20:42:05 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Animation]]></category>
+		<category><![CDATA[animation]]></category>
+		<category><![CDATA[archive]]></category>
+		<category><![CDATA[lightbox]]></category>
+		<category><![CDATA[rss]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3080</guid>
+		<description><![CDATA[In 1999, I started a link weblog to collect news about animated films. I updated it for a few years, until there were plenty of other good news sources from industry writers more qualified than I was to run such a site. I was just a fan. The site was a homegrown MySQL database and [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>In 1999, I started a link weblog to collect news about animated films. I updated it for a few years, until there were plenty of other good news sources from industry writers more qualified than I was to run such a site. I was just a fan.</p>
+<p>The site was a homegrown MySQL database and set of PHP scripts. Somewhere along the way, I lost the archive, and never noticed that the site had broken until today. To make matters more difficult, I had blocked it in my robots.txt, so the Internet Archive copy (which existed, at least in parts) wouldn&#8217;t load cleanly.</p>
+<p>I took some time today to piece it back together as a new static HTML file and (partial) RSS feed. I&#8217;ve preserved the original design and HTML tags. Fun rediscoveries in the HTML include spacer GIFs, &lt;blockquote&gt; to indent the entire page, and RSS 0.91.</p>
+<p>I called it <a href="http://www.manton.org/lightbox/">The Lightbox</a>. It was just a linkblog. But now 16 years later, I&#8217;ve enjoyed skimming through the old posts.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/09/the-lightbox.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Glen Keane drawing in 3D</title>
 		<link>http://www.manton.org/2015/09/glen-keane-drawing-in-3d.html</link>
 		<comments>http://www.manton.org/2015/09/glen-keane-drawing-in-3d.html#comments</comments>
@@ -249,32 +271,8 @@
 			<wfw:commentRss>http://www.manton.org/2012/06/la_luna_and.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
-		<item>
-		<title>The Princess and the Frog</title>
-		<link>http://www.manton.org/2009/12/the_princess_and.html</link>
-		<comments>http://www.manton.org/2009/12/the_princess_and.html#comments</comments>
-		<pubDate>Fri, 18 Dec 2009 18:20:42 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Animation]]></category>
-		<category><![CDATA[animation]]></category>
-		<category><![CDATA[disney]]></category>
-		<category><![CDATA[frogprincess]]></category>
-		<category><![CDATA[roy]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2009/12/the_princess_and.html</guid>
-		<description><![CDATA[Walt&#8217;s nephew &#8220;Roy Disney died this week&#8221;:http://www.cnn.com/2009/SHOWBIZ/12/16/roy.disney.obit/index.html. In 2003 I blogged about &#8220;Roy leaving the company&#8221;:http://www.manton.org/2003/12/roy_leaves.html. I said: &#8220;It&#8217;s a shame that Roy is the one to leave. It&#8217;s clear that Disney (the company) has lost its way, and Eisner has no vision for what the company could be.&#8221; Luckily for us, since that time [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Walt&#8217;s nephew &#8220;Roy Disney died this week&#8221;:http://www.cnn.com/2009/SHOWBIZ/12/16/roy.disney.obit/index.html. In 2003 I blogged about &#8220;Roy leaving the company&#8221;:http://www.manton.org/2003/12/roy_leaves.html. I said:</p>
-<blockquote><p>&#8220;It&#8217;s a shame that Roy is the one to leave. It&#8217;s clear that Disney (the company) has lost its way, and Eisner has no vision for what the company could be.&#8221;</p></blockquote>
-<p>Luckily for us, since that time a lot has changed, and the animation division does have leadership in John Lasseter. One of the most visible changes just opened in theaters last weekend: The Princess and the Frog. I&#8217;ve seen every theatrical release out of Disney feature animation since I could afford the few bucks to go to a theater, so I wasn&#8217;t likely to miss this return of 2d animation.</p>
-<p>My daughters and I really loved this movie, not just because of my love for hand-drawn animation, but for a story that works and characters that are rooted in something real &mdash; singing Cajun fireflies and voodoo magic aside, of course. There are some really touching scenes here. &#8220;Sandro Cleuzo says&#8221;:http://inspectorcleuzo.blogspot.com/2009/12/milt-kahl-day-12.html the animation was rushed, but I think they did a heck of a job.</p>
-<p>The credits are almost as if nothing has changed &mdash; Eric Goldberg, Andreas Deja, Mark Henn, Nik Ranieri. &#8220;The reality is slightly different&#8221;:http://www.dreamonsillydreamer.com/, but there&#8217;s a mix of new animators among the familiar names. A lot is riding on the success of this film, and it managed a respectable $25 million over the weekend.</p>
-<p>Great job, Disney. I&#8217;m glad Roy got to see the beginning of the next 2d comeback.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2009/12/the_princess_and.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 1.818 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2015-09-19 12:51:39 -->
+<!-- Dynamic page generated in 2.149 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-12-18 15:39:18 -->

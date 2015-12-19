@@ -12,12 +12,76 @@
 	<atom:link href="http://www.manton.org/tag/microblogging/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 18 Dec 2015 17:56:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
 	<item>
+		<title>ESPN sidebar microblog</title>
+		<link>http://www.manton.org/2015/12/espn-sidebar-microblog.html</link>
+		<comments>http://www.manton.org/2015/12/espn-sidebar-microblog.html#comments</comments>
+		<pubDate>Tue, 08 Dec 2015 04:00:56 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[espn]]></category>
+		<category><![CDATA[microblogging]]></category>
+		<category><![CDATA[spurs]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3234</guid>
+		<description><![CDATA[I like what ESPN is doing in the sidebar on their NBA scores page. It&#8217;s a timeline of both tweets and short ESPN posts, integrated together with a clean design that fits the rest of the site. This timeline is a great use of microblogging. The short posts aren&#8217;t limited to tweet-length — they&#8217;re often [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img src="http://www.manton.org/images/2015/espn_sidebar.png" width="219" height="478" border="0" style="border: 0px; padding-left: 20px; padding-bottom: 15px; box-shadow: none;" align="right" /></p>
+<p>I like what ESPN is doing in the sidebar <a href="http://espn.go.com/nba/scoreboard">on their NBA scores page</a>. It&#8217;s a timeline of both tweets and short ESPN posts, integrated together with a clean design that fits the rest of the site.</p>
+<p>This timeline is a great use of microblogging. The short posts aren&#8217;t limited to tweet-length — they&#8217;re often around 200 characters instead — so they can feel complete and informative while still being concise. <a href="http://www.manton.org/2014/09/defining-a-microblog-post.html">I&#8217;ve suggested 280 characters</a> as a guideline for microblogs, and having the extra characters to work with really makes a nice difference.</p>
+<p>I took an example screenshot from ESPN and included it to the right of this post. The first two posts are these special ESPN microblog posts, and the third is a tweet. I don&#8217;t know what CMS-like system is driving this, but you can imagine using WordPress post formats, custom fields, or categories to achieve something similar.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/12/espn-sidebar-microblog.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Jack Dorsey to lead Twitter again</title>
+		<link>http://www.manton.org/2015/10/jack-dorsey-to-lead-twitter-again.html</link>
+		<comments>http://www.manton.org/2015/10/jack-dorsey-to-lead-twitter-again.html#comments</comments>
+		<pubDate>Mon, 05 Oct 2015 22:05:16 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[dorsey]]></category>
+		<category><![CDATA[ev]]></category>
+		<category><![CDATA[microblogging]]></category>
+		<category><![CDATA[openweb]]></category>
+		<category><![CDATA[tweetbot]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3091</guid>
+		<description><![CDATA[Three years ago today I posted my last personal tweet. That time and distance away from mainstream social networking has given me a new perspective on the importance of independent microblogging. It has shaped where I write and what tools I build. But Twitter remains as fascinating as ever. Just a few weeks ago, the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://twitter.com/manton/status/254228056657494016">Three years ago today</a> I posted my last personal tweet. That time and distance away from mainstream social networking has given me a new perspective on the importance of independent microblogging. It has shaped <a href="http://www.manton.org/category/micro">where I write</a> and what tools I build.</p>
+<p>But Twitter remains as fascinating as ever. Just a few weeks ago, <a href="http://www.telegraph.co.uk/technology/twitter/11891887/adam-bain-interview-twitter-jack-dorsey.html">the board seemed unsure</a> about letting Jack Dorsey split his time between Twitter and Square:</p>
+<blockquote><p>
+  &#8220;The responsibilities of running Square, which Dorsey reportedly refuses to give up, may now stand in the way of a Steve <a href="http://www.telegraph.co.uk/technology/steve-jobs/">Jobs-esque</a> return as Twitter’s full time chief executive. In June, its board took the unusual step of publicly declaring that it would only consider candidates &#8216;who are in a position to make a full-time commitment to Twitter&#8217;, a <a href="http://www.telegraph.co.uk/technology/twitter/11691834/Jack-Dorsey-will-have-to-quit-as-Square-boss-to-take-charge-of-Twitter.html">thinly-veiled reference to Dorsey’s preoccupations</a>.&#8221;
+</p></blockquote>
+<p>Then they <a href="http://recode.net/2015/09/30/sources-jack-dorsey-to-be-named-permanent-twitter-ceo/">backed away from that</a>:</p>
+<blockquote><p>
+  &#8220;That declaration, as it seems to have turned out, has been a largely empty one. The idea that Dorsey might return gained steam among people both inside and outside the company over the past few months even though he had no intention of leaving Square. He even referred to the companies as his two children when discussing the dilemma, according to a source.&#8221;
+</p></blockquote>
+<p>Today they officially announced that Jack will return to lead Twitter. Of all the recent articles, my favorite <a href="http://recode.net/2015/10/02/why-jack-dorsey-is-ready-to-save-twitter/">is this one from Recode</a>, a long profile on Jack&#8217;s role and changing attitude:</p>
+<blockquote><p>
+  &#8220;He seems to be a completely different man than the one who returned to Twitter in March 2011 as executive chairman and product czar. Former colleagues recall a man looking for payback for his 2008 ouster; loyalty was key, and many who were loyal to Twitter’s other co-founder, Ev Williams, were booted from the company. Back then, Dorsey would routinely sit in on meetings without saying a word. When he did speak, his contributions were so abstract that few understood what he was talking about. In some cases, he’d simply write a single word or two up on the whiteboard.&#8221;
+</p></blockquote>
+<p>And it goes on, showing how Jack has matured as a leader. Everyone will be watching what he does, and how Twitter evolves. Every article written about an upcoming Twitter feature will mention Jack&#8217;s involvement, no matter how insignificant. He&#8217;s a big part of the story now.</p>
+<p><a href="https://medium.com/@ev/why-i-m-glad-jack-is-back-at-twitter-9bbda2ae5dca">Ev also wrote</a> about the official announcement:</p>
+<blockquote><p>
+  &#8220;Twitter is bigger and more important to the world than we ever dreamed when we started. And it still has incredible, unrealized potential. It will not be easy to unlock it. But we have thousands of smart, creative people working every day to make the company great. And Jack has already demonstrated the ability to inspire the team and think boldly about the next phase of Twitter.&#8221;
+</p></blockquote>
+<p>The greatest challenge for Jack will be figuring out how to take whatever those thousands of employees are working on and turn it into actual user-facing features that ship to customers. Federico Viticci, <a href="https://www.macstories.net/reviews/tweetbot-4-review-bigger-bot/">reviewing the new Tweetbot 4 release</a> last week, wrote about how Tapbots has built something more ambitious than the official Twitter for iPad app, even though Twitter has a much bigger team:</p>
+<blockquote><p>
+  &#8220;On the other hand, Twitter for iPad – long ignored by the company – has emerged again <a href="https://www.macstories.net/news/twitter-aims-to-unify-ios-apps-updates-its-ipad-app/">with a stretched-up iPhone layout</a> presented in the name of &#8216;consistency&#8217;. It&#8217;s a grim landscape, devoid of the excitement and curiosity that surrounded Twitter clients five years ago.&#8221;
+</p></blockquote>
+<p>I still run <a href="http://tweetmarker.net/">Tweet Marker</a>, which was created during that period of innovation that Federico refers to, but my focus now is on indie microblogging and the open web. I&#8217;m content to watch Twitter from the sidelines and wish Jack the best of luck.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/10/jack-dorsey-to-lead-twitter-again.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Doubt, part 2</title>
 		<link>http://www.manton.org/2015/09/doubt-part-2.html</link>
 		<comments>http://www.manton.org/2015/09/doubt-part-2.html#comments</comments>
@@ -217,51 +281,8 @@
 			<wfw:commentRss>http://www.manton.org/2014/10/on-the-eve-of-twitter-flight.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
-		<item>
-		<title>RSS reading and writing</title>
-		<link>http://www.manton.org/2014/10/rss-reading-and-writing.html</link>
-		<comments>http://www.manton.org/2014/10/rss-reading-and-writing.html#comments</comments>
-		<pubDate>Thu, 09 Oct 2014 03:17:35 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Weblogs]]></category>
-		<category><![CDATA[marsedit]]></category>
-		<category><![CDATA[microblogging]]></category>
-		<category><![CDATA[netnewswire]]></category>
-		<category><![CDATA[rss]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=2323.html</guid>
-		<description><![CDATA[I&#8217;ve received so much feedback about microblogging that I haven&#8217;t had a chance to reply or blog about each one yet. This post from Dave Peck is especially interesting: &#8220;For some time now, I’ve wanted a new kind of RSS client: one that reads and writes. Today’s RSS apps artificially separate us from the content [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>I&#8217;ve received so much feedback about microblogging that I haven&#8217;t had a chance to reply or blog about each one yet. <a href="http://davepeck.org/2014/10/10/i-want-an-rss-reader-writer/">This post from Dave Peck</a> is especially interesting:</p>
-<blockquote><p>
-  &#8220;For some time now, I’ve wanted a new kind of RSS client: one that reads <em>and</em> writes. Today’s RSS apps artificially separate us from the content we read. If we want to reply — if we want to <em>participate</em> in the conversation — we’ve got to use an entirely unrelated set of tools.&#8221;
-</p></blockquote>
-<p><a href="http://www.red-sweater.com/marsedit/">MarsEdit</a> of course was famously spun off from NetNewsWire. Early versions of NetNewsWire did three things: reading blogs, organizing ideas in a notepad outliner, and writing new blog posts. I think Brent was on to something with combining all these features, but I also totally understand wanting to simplify so that each component is as good as it can be. MarsEdit wouldn&#8217;t be as full-featured and polished today if it hadn&#8217;t been given that room to grow as its own app.</p>
-<p>Also, don&#8217;t miss the last half of <a href="http://coreint.org/158">today&#8217;s Core Intuition</a>. Daniel and I talk at length about microblogging and owning your own content.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/10/rss-reading-and-writing.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Core Intuition 155 and microblogging</title>
-		<link>http://www.manton.org/2014/09/core-intuition-155-and-microblogging.html</link>
-		<comments>http://www.manton.org/2014/09/core-intuition-155-and-microblogging.html#comments</comments>
-		<pubDate>Fri, 19 Sep 2014 17:22:10 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Podcasts]]></category>
-		<category><![CDATA[apple]]></category>
-		<category><![CDATA[microblogging]]></category>
-		<category><![CDATA[rss]]></category>
-		<category><![CDATA[unread]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=2277.html</guid>
-		<description><![CDATA[This week on Core Intuition we follow up on Apple news, then discuss the sale of Unread and all the new activity around RSS apps and services. It makes a good complement to some of my recent posts on microblogging.]]></description>
-				<content:encoded><![CDATA[<p><a href="http://coreint.org/155">This week on Core Intuition</a> we follow up on Apple news, then discuss <a href="http://blog.jaredsinclair.com/post/97230437825/unread-is-now-a-supertop-app">the sale of Unread</a> and all the new activity around RSS apps and services. It makes a good complement to some of my recent posts on microblogging.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/09/core-intuition-155-and-microblogging.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 2.405 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:19:10 -->
+<!-- Dynamic page generated in 1.549 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-12-18 15:31:50 -->

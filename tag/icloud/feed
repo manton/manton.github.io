@@ -12,11 +12,11 @@
 	<atom:link href="http://www.manton.org/tag/icloud/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 18 Dec 2015 17:56:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
 	<item>
 		<title>Core Intuition 152</title>
 		<link>http://www.manton.org/2014/08/core_intuition_152.html</link>
@@ -116,18 +116,18 @@
 		<guid isPermaLink="false">http://www.manton.org/2012/02/sandboxing_and_clipstart.html</guid>
 		<description><![CDATA[I wrote a draft of this post a few weeks ago, before Mac OS X Mountain Lion was announced. It was pretty critical of Apple&#8217;s aggressive approach to sandboxing, and I&#8217;ve kept most of that, but the new Gatekeeper feature for Mountain Lion at least gives me a way out. I don&#8217;t think Apple would [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>I wrote a draft of this post a few weeks ago, before Mac OS X Mountain Lion was announced. It was pretty critical of Apple&#8217;s aggressive approach to sandboxing, and I&#8217;ve kept most of that, but the new Gatekeeper feature for Mountain Lion at least gives me a way out. I don&#8217;t think Apple would have created Gatekeeper if they planned to abandon apps sold outside of the Mac App Store.</p>
-<p>For the next release of my app &#8220;Clipstart&#8221;:http://www.riverfold.com/software/clipstart/, I will be removing it from the Mac App Store and only selling directly from my web site. With Gatekeeper I hope to have some confidence that my customers will still be able to run the app on future versions of the OS.</p>
-<p>But let&#8217;s take a step back, to a good &#8220;blog post from Craig Hockenberry&#8221;:http://furbo.org/2012/01/23/sandboxing/ on moving xScope to use sandboxing. One of the most important things to keep in mind is that what works for one app may be unsuitable for another. Craig touches on this with an example from Panic&#8217;s Transmit:</p>
+<p>For the next release of my app <a href="http://www.riverfold.com/software/clipstart/">Clipstart</a>, I will be removing it from the Mac App Store and only selling directly from my web site. With Gatekeeper I hope to have some confidence that my customers will still be able to run the app on future versions of the OS.</p>
+<p>But let&#8217;s take a step back, to a good <a href="http://furbo.org/2012/01/23/sandboxing/">blog post from Craig Hockenberry</a> on moving xScope to use sandboxing. One of the most important things to keep in mind is that what works for one app may be unsuitable for another. Craig touches on this with an example from Panic&#8217;s Transmit:</p>
 <blockquote><p>&#8220;Of course there are some applications that have a harder time than others: primarily if those apps require access to all or part of the filesystem (think about syncing data with Transmit, for example.)&#8221;</p></blockquote>
 <p>Clipstart also falls into the same &#8220;needs to access the whole file system&#8221; category as Transmit. It&#8217;s not just one feature; the whole app is based on the fact that it can point to video files anywhere on the system, or manage your video library in a central location on any hard drive. These are things that are difficult to do in the sandbox, but even worse, I don&#8217;t see a clear path forward for existing customers to move into such a restrictive environment.</p>
 <p>Maybe I could file bugs with Apple for exemptions, and reduce the functionality of my app to fit within the limits of the sandbox, but I&#8217;ve made the decision that it is just not worth it. I would much rather spend 100% of the time I have for Clipstart on new features only, not playing catch-up with Apple.</p>
-<p>Atlassian has &#8220;made a similar decision&#8221;:http://blogs.atlassian.com/2012/02/between-a-rock-and-a-hard-place-our-decision-to-abandon-the-mac-app-store/ for their app SourceTree. On the sandboxing restrictions:</p>
+<p>Atlassian has <a href="http://blogs.atlassian.com/2012/02/between-a-rock-and-a-hard-place-our-decision-to-abandon-the-mac-app-store/">made a similar decision</a> for their app SourceTree. On the sandboxing restrictions:</p>
 <blockquote><p>&#8220;The trouble is, the sandboxing implementation currently in place on Mac OS X Lion doesn&#8217;t allow for all the behaviours that real Mac applications do _right now_, behaviours which are not at all contentious, are approved in the Mac App Store already, and indeed are very much appreciated by users.&#8221;</p></blockquote>
-<p>&#8220;Daniel Jalkut continues this argument&#8221;:http://www.red-sweater.com/blog/2324/fix-the-sandbox, saying that sandboxing <em>could</em> be good for developers, if only the current entitlements weren&#8217;t so very incomplete. That&#8217;s true. But we can only make decisions based on what entitlements and APIs are there today, and today it&#8217;s not enough.</p>
+<p><a href="http://www.red-sweater.com/blog/2324/fix-the-sandbox">Daniel Jalkut continues this argument</a>, saying that sandboxing <em>could</em> be good for developers, if only the current entitlements weren&#8217;t so very incomplete. That&#8217;s true. But we can only make decisions based on what entitlements and APIs are there today, and today it&#8217;s not enough.</p>
 <p>I will try to make this casualty of sandboxing as painless as possible for Clipstart customers. I will honor Mac App Store receipt files so that everyone can migrate to new versions of the app. And I&#8217;ll provide extra serial numbers to anyone who asks, for fresh installs on machines that never had the Mac App Store version.</p>
 <p>Clipstart has turned out to not be a very good fit for the Mac App Store anyway. It&#8217;s the kind of app that you need to download and try out before committing your whole video library to it. Sandboxing is just the latest and most significant in a series of frustrations with the MAS.</p>
-<p>For my customers, sandboxing isn&#8217;t actually a feature; it&#8217;s a bottleneck to getting work done. I can&#8217;t justify spending any time on it. I already have a product and platform (&#8220;Tweet Library&#8221;:http://www.riverfold.com/software/tweetlibrary/ for iOS) where I can play the app review game. I want my Mac app to be a break from that, with a total focus on making the app better and a release schedule and feature set that I control.</p>
-<p>So it was a relief to hear about Gatekeeper. I don&#8217;t want pulling Clipstart from the MAS to automatically doom the product, and now I don&#8217;t think it will. Instead of shying away from features that won&#8217;t work in the sandbox, I can even embrace them as a competitive advantage. I&#8217;m more excited than ever to get back to Mac development without this decision and &#8220;chilling effect&#8221;:http://inessential.com/2012/02/17/daniel_on_fixing_the_sandbox hanging over my head.</p>
+<p>For my customers, sandboxing isn&#8217;t actually a feature; it&#8217;s a bottleneck to getting work done. I can&#8217;t justify spending any time on it. I already have a product and platform (<a href="http://www.riverfold.com/software/tweetlibrary/">Tweet Library</a> for iOS) where I can play the app review game. I want my Mac app to be a break from that, with a total focus on making the app better and a release schedule and feature set that I control.</p>
+<p>So it was a relief to hear about Gatekeeper. I don&#8217;t want pulling Clipstart from the MAS to automatically doom the product, and now I don&#8217;t think it will. Instead of shying away from features that won&#8217;t work in the sandbox, I can even embrace them as a competitive advantage. I&#8217;m more excited than ever to get back to Mac development without this decision and <a href="http://inessential.com/2012/02/17/daniel_on_fixing_the_sandbox">chilling effect</a> hanging over my head.</p>
 ]]></content:encoded>
 			<wfw:commentRss>http://www.manton.org/2012/02/sandboxing_and_clipstart.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
@@ -160,5 +160,5 @@
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 1.808 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:21:32 -->
+<!-- Dynamic page generated in 1.056 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-12-18 17:16:16 -->

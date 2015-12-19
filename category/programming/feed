@@ -12,12 +12,86 @@
 	<atom:link href="http://www.manton.org/category/programming/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 18 Dec 2015 17:56:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
 	<item>
+		<title>Swift and Core Intuition 209</title>
+		<link>http://www.manton.org/2015/12/swift-and-core-intuition-209.html</link>
+		<comments>http://www.manton.org/2015/12/swift-and-core-intuition-209.html#comments</comments>
+		<pubDate>Thu, 03 Dec 2015 21:13:51 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[opensource]]></category>
+		<category><![CDATA[servers]]></category>
+		<category><![CDATA[swift]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3225</guid>
+		<description><![CDATA[Like many developers, I&#8217;ve spent the morning looking over the Swift open source release. I continue to be intrigued and look forward to working Swift into more of my routine. On today&#8217;s Core Intuition, Daniel and I talked about Swift for about half of the 50-minute episode. We recorded the episode yesterday afternoon, before the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Like many developers, I&#8217;ve spent the morning looking over the <a href="https://swift.org/">Swift open source release</a>. I continue to be intrigued and look forward to working Swift into more of my routine.</p>
+<p>On <a href="http://www.coreint.org/2015/12/episode-209-we-need-a-grand-gesture/">today&#8217;s Core Intuition</a>, Daniel and I talked about Swift for about half of the 50-minute episode. We recorded the episode yesterday afternoon, before the open source announcement, so we&#8217;ll be following up next week on everything that has changed. I bet there will be some more progress in Swift web server frameworks by then, too.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/12/swift-and-core-intuition-209.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Apple Pencil, for real</title>
+		<link>http://www.manton.org/2015/11/apple-pencil-for-real.html</link>
+		<comments>http://www.manton.org/2015/11/apple-pencil-for-real.html#comments</comments>
+		<pubDate>Mon, 30 Nov 2015 17:42:44 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[ipadpro]]></category>
+		<category><![CDATA[pencil]]></category>
+		<category><![CDATA[stylus]]></category>
+		<category><![CDATA[uitouch]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3206</guid>
+		<description><![CDATA[As we talk about on Core Intuition episode 208, I finally got an Apple Pencil. It&#8217;s great. My experience matches Gus Mueller&#8217;s, about how good the Apple Pencil is after years of using Wacom tablets and third-party iOS styluses: &#8220;I find that when using the HB Pencil in Procreate, I get something that is very, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>As we talk about on <a href="http://www.coreint.org/2015/11/episode-208-crazy-and-doomed-to-failure/">Core Intuition episode 208</a>, I finally got an Apple Pencil. It&#8217;s great. My experience matches <a href="http://shapeof.com/archives/2015/11/the_hype_is_real.html">Gus Mueller&#8217;s</a>, about how good the Apple Pencil is after years of using Wacom tablets and third-party iOS styluses:</p>
+<blockquote><p>
+  &#8220;I find that when using the HB Pencil in Procreate, I get something that is very, very close to what I feel when I&#8217;m drawing in my sketchbooks. But of course now I&#8217;ve got layers and many colors and a perfect eraser to work with. And endless pages. I love it.&#8221;
+</p></blockquote>
+<p>On the question of whether it&#8217;s a &#8220;stylus&#8221;, <a href="https://brooksreview.net/2015/11/pencil-2/">Ben Brooks sums it up</a> this way:</p>
+<blockquote><p>
+  &#8220;That’s the question I get asked a lot from people — my wife especially. Apple will tell you it is not a stylus because it is so much better than any other stylus, it clearly is something else. So, instead, I’ll tell you that it <em>is</em> very much a stylus — it just so happens to be the best stylus I have ever encountered on any device.&#8221;
+</p></blockquote>
+<p>I&#8217;ve also been improving the Apple Pencil support in an iPad app I&#8217;m working on. I haven&#8217;t completely finished reading <a href="http://www.russbishop.net/uitouchtypestylus">Russ Bishop&#8217;s article</a> on supporting the Apple Pencil, but looks like it has a bunch of additional tips in it that I&#8217;d benefit from. It covers not just the API changes to UITouch, but also gestures, coalescing, and predictive touches.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/11/apple-pencil-for-real.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Developing for the iPad Pro</title>
+		<link>http://www.manton.org/2015/11/developing-for-the-ipad-pro.html</link>
+		<comments>http://www.manton.org/2015/11/developing-for-the-ipad-pro.html#comments</comments>
+		<pubDate>Fri, 13 Nov 2015 19:19:01 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[ipadpro]]></category>
+		<category><![CDATA[layout]]></category>
+		<category><![CDATA[macstories]]></category>
+		<category><![CDATA[tweetlibrary]]></category>
+		<category><![CDATA[uikit]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3171</guid>
+		<description><![CDATA[Let&#8217;s start with a quote from the MacStories review by Federico Viticci: &#8220;For developers, it&#8217;s time to be bold with their iOS apps and understand that they can be more than single-purpose utilities. There are millions of people who aren&#8217;t buying PCs anymore because mobile devices are their only computers.&#8221; I&#8217;ve been using the iPad [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Let&#8217;s start with a quote <a href="https://www.macstories.net/stories/ipad-pro-review/">from the MacStories review</a> by Federico Viticci:</p>
+<blockquote><p>
+  &#8220;For developers, it&#8217;s time to be bold with their iOS apps and understand that they can be more than single-purpose utilities. There are millions of people who aren&#8217;t buying PCs anymore because mobile devices are their only computers.&#8221;
+</p></blockquote>
+<p>I&#8217;ve been using the iPad Pro a lot in just the last two days. Apps that have taken advantage of the larger screen — and that support iPad multitasking well — are just much more useful. It&#8217;s great to have Slack or Tweetbot in the sidebar and a writing app in the main part of the screen. (Until Editorial is updated, <a href="http://sethclifford.me/2015/11/things-i-like-this-week-volume-15/">like Seth Clifford</a> I&#8217;ve switched to Byword.)</p>
+<p>As a developer, going from an iPad Mini to an iPad Pro has opened my eyes to what Federico says above. You simply can&#8217;t have a great iPad app today if it doesn&#8217;t attempt to fit well on the iPad Pro. So although <a href="http://www.manton.org/2014/11/winding-down-my-twitter-apps.html">I said</a> I would discontinue my app <a href="http://www.riverfold.com/software/tweetlibrary/">Tweet Library</a>, I&#8217;ve actually been spending some time this week to <em>update it</em> to support iPad multitasking.</p>
+<p>The key to iPad Pro support is actually less about auto layout (although that&#8217;s helpful too), and more about split views and size classes. For a modern app, this is an easy transition. But Tweet Library was written for iOS 4. Back then, UISplitViewController was extremely underpowered. I had used MGSplitViewController instead, which I&#8217;ve modified over the years to adapt to multiple screen sizes from the iPhone to the iPad. So the first step to real iPad multitasking was to rip out most of the split view code and start over with a clean foundation based on iOS 8/9 and UISplitViewController. Not exactly trivial work that I could knock out in a day, although I tried.</p>
+<p>I remain very optimistic about the iPad Pro, especially <a href="http://www.manton.org/2015/11/the-incomplete-ipad-pro.html">when the Apple Pencil is actually available</a>. From a business standpoint, it also seems like a better investment in time than either the Apple Watch or Apple TV. There are so many platforms and distractions now. If I can&#8217;t focus on a single platform, I want to at least be proactive in saving some attention for the iPad.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/11/developing-for-the-ipad-pro.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Two weeks notice: unfinished work</title>
 		<link>http://www.manton.org/2015/07/two-weeks-notice-unfinished-work.html</link>
 		<comments>http://www.manton.org/2015/07/two-weeks-notice-unfinished-work.html#comments</comments>
@@ -181,74 +255,8 @@
 			<wfw:commentRss>http://www.manton.org/2015/06/clever-code-and-wwdc.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
-		<item>
-		<title>Watermark transition plan</title>
-		<link>http://www.manton.org/2015/05/watermark-transition-plan.html</link>
-		<comments>http://www.manton.org/2015/05/watermark-transition-plan.html#comments</comments>
-		<pubDate>Mon, 04 May 2015 14:23:59 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Programming]]></category>
-		<category><![CDATA[email]]></category>
-		<category><![CDATA[tweetlibrary]]></category>
-		<category><![CDATA[tweetmarker]]></category>
-		<category><![CDATA[twitter]]></category>
-		<category><![CDATA[watermark]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=2591</guid>
-		<description><![CDATA[I sent an email to Watermark customers over the weekend, letting them know that the service as it currently exists will be going away on May 15th. As I wrote about last year, Twitter has improved their search enough that a part of what Watermark is good at is no longer as necessary as it [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>I sent <a href="http://eepurl.com/blcsdv">an email to Watermark customers</a> over the weekend, letting them know that the service as it currently exists will be going away on May 15th. As <a href="http://www.manton.org/2014/11/winding-down-my-twitter-apps.html">I wrote about last year</a>, Twitter has improved their search enough that a part of what Watermark is good at is no longer as necessary as it once was. However, I still see interest in Tweet Marker, from developers and users, so I wanted to keep the web-based timeline and sync from Watermark and make it available to all Tweet Marker subscribers.</p>
-<p>You can <a href="http://tweetmarker.net/">learn more about Tweet Marker here</a>. I’ve had to significantly scale out the backend servers this year, including adding a second load balancer, so I’d love your support. The new timeline feature will roll out later in May.</p>
-<p>While I’m happy to keep offering a part of Watermark (now back in Tweet Marker), I have less good news for Tweet Library. I’ve found it very difficult to justify the time to finish the new version. It’s now looking likely that the current version will be the last.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/05/watermark-transition-plan.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Searchpath improvements</title>
-		<link>http://www.manton.org/2015/04/searchpath-improvements.html</link>
-		<comments>http://www.manton.org/2015/04/searchpath-improvements.html#comments</comments>
-		<pubDate>Fri, 24 Apr 2015 13:58:17 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Programming]]></category>
-		<category><![CDATA[backup]]></category>
-		<category><![CDATA[searchpath]]></category>
-		<category><![CDATA[subscriptions]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=2584</guid>
-		<description><![CDATA[As part of a renewed commitment this year to work on my web app Searchpath, I’ve just rolled out a few improvements. A search engine like Searchpath needs frequent maintenance to keep running smoothly — minor bug fixes and behind-the-scenes work on queues and web crawling — but I also hope to catch up on new [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>As part of a renewed commitment this year to work on my web app <a href="http://searchpath.io/">Searchpath</a>, I’ve just rolled out a few improvements. A search engine like Searchpath needs frequent maintenance to keep running smoothly — minor bug fixes and behind-the-scenes work on queues and web crawling — but I also hope to catch up on new features that I’ve long planned for the product.</p>
-<p>One marketing bullet I always had that wasn’t fully realized: “Also serves as a text backup for your site.” Searchpath now exposes links to download both the HTML for any stored page on your site as well as a text-only version of that page after Searchpath has attempted to trim out the navigation and other links. Hopefully this will help out any customers who might need to retrieve lost text from their site if their primary site backup failed (or doesn’t exist).</p>
-<p>Searchpath is free to try and $8/month or $75/year. Setup is as simple as copy/pasting one line of JavaScript where you want a search box. You can <a href="http://searchpath.io/">learn more and get started here</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/04/searchpath-improvements.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>WWDC 2015 dates</title>
-		<link>http://www.manton.org/2015/04/wwdc-2015-dates.html</link>
-		<comments>http://www.manton.org/2015/04/wwdc-2015-dates.html#comments</comments>
-		<pubDate>Tue, 14 Apr 2015 14:08:35 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Programming]]></category>
-		<category><![CDATA[altconf]]></category>
-		<category><![CDATA[tickets]]></category>
-		<category><![CDATA[watch kit]]></category>
-		<category><![CDATA[wwdc]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=2571</guid>
-		<description><![CDATA[WWDC will be June 8-12 this year, with a lottery for ticket selection. I’m not going to put my name in the hat for a ticket; I hope to save some money and let others have a chance. I’ll be in town for a few days to meet up with folks and attend AltConf, which [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="https://developer.apple.com/wwdc/">WWDC</a> will be June 8-12 this year, with a lottery for ticket selection. I’m not going to put my name in the hat for a ticket; I hope to save some money and let others have a chance. I’ll be in town for a few days to meet up with folks and attend <a href="http://altconf.com">AltConf</a>, which looks excellent again.</p>
-<p>The <a href="https://developer.apple.com/wwdc/scholarships/">student scholarship page</a> caught my eye this year. App submissions have to be written using at least <em>some</em> Swift:</p>
-<blockquote><p>
-  “To be considered for a WWDC 2015 Scholarship, build and submit an app that showcases your creativity and technical skills. Your Mac app or iOS app must be written in Objective-C and Swift, or written entirely in Swift.”
-</p></blockquote>
-<p>I’m also starting to reset my expectations for a more full-featured, native Apple Watch SDK. I think we’ll see welcome improvements to WatchKit, but with the watch still weeks out from shipping, it seems too soon for a reimagining of the API by June.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/04/wwdc-2015-dates.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.855 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2015-09-19 13:36:14 -->
+<!-- Dynamic page generated in 1.582 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-12-18 15:33:37 -->

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; titles</title>
+	<atom:link href="http://www.manton.org/tag/titles/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Fri, 18 Dec 2015 17:56:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Medium.com updates</title>
+		<link>http://www.manton.org/2015/10/medium-com-updates.html</link>
+		<comments>http://www.manton.org/2015/10/medium-com-updates.html#comments</comments>
+		<pubDate>Thu, 29 Oct 2015 16:05:35 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[davewiner]]></category>
+		<category><![CDATA[ev]]></category>
+		<category><![CDATA[medium]]></category>
+		<category><![CDATA[rss]]></category>
+		<category><![CDATA[titles]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3117</guid>
+		<description><![CDATA[Ev Williams announced a batch of new Medium features recently: &#8220;There’s always another level. Another level of polish and power in our product. Another level of breadth to our content. Another level of dialogue and discussion. And another level of progress. Today, we are announcing a slew of updates to bring Medium to the next [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://medium.com/the-story/taking-medium-to-the-next-level-cb7f223fad86">Ev Williams announced</a> a batch of new Medium features recently:</p>
+<blockquote><p>
+  &#8220;There’s always another level. Another level of polish and power in our product. Another level of breadth to our content. Another level of dialogue and discussion. And another level of progress. Today, we are announcing a slew of updates to bring Medium to the next level and in the process make it more powerful, more fun, more democratic, and more essential.&#8221;
+</p></blockquote>
+<p>Those updates include new mobile apps, @-mention support, a publishing API, and editor improvements. There&#8217;s also a new logo. (I know they put a lot of thought into this, and it&#8217;s a strong idea, but to me the logo&#8217;s design is so clever it&#8217;s actually kind of distracting. A little more subtlety in how they&#8217;re using depth could improve future iterations.)</p>
+<p><a href="https://red-sweater.com/blog/3079/mediums-new-api">Daniel Jalkut blogs about</a> what&#8217;s included (and what&#8217;s left out) in Medium&#8217;s new API:</p>
+<blockquote><p>
+  &#8220;One of the most unique aspects to Medium’s API is the provision for specifying a <em>canonical URL</em> and <em>license</em> on a post being submitted to the service. The canonical URL refers to another web location that should be considered <em>the original</em>, or most authoritative version of a post, while the license designates whether the post’s copyright terms stipulate a post is sharable as public domain or under a particular Creative Commons license. These attributes together indicate that Medium expects and encourages users of the API to contribute content that is not intended to be exclusive to Medium.&#8221;
+</p></blockquote>
+<p>While <a href="http://www.manton.org/2015/09/evan-williams-on-indie-web-sites.html">I generally think</a> the trend to centralized writing platforms is bad for the web, I&#8217;m happy to see these changes from Medium, especially the API and expanding custom domain support. Medium has grown very slowly and carefully. I expect we&#8217;ll see quicker iteration on these new features now that they&#8217;re officially out.</p>
+<p>In the process of experimenting with Medium posting, <a href="http://scripting.com/2015/10/13/gettingInSyncWithMedium.html">Dave Winer shared his take on post title support</a>:</p>
+<blockquote><p>
+  &#8220;It seems they have arrived at what I think is the correct answer: posts can have titles or not, and the content system has to be prepared for either case. That&#8217;s where this blog was <a href="http://scripting.com/2015/10/07/iNeedABetterBloggingSystem.html">in 1999</a>, before other blogging tools and Google Reader pushed the world toward requiring titles. And then Twitter came along not having titles at all, and the intersection between all the kinds of blog-consuming environments became almost empty.&#8221;
+</p></blockquote>
+<p>I&#8217;m very interested in this because <a href="http://www.manton.org/2014/09/defining-a-microblog-post.html">microblogging shouldn&#8217;t include titles</a>. While Medium is mostly traditional essays, clearly comments don&#8217;t need titles, and Medium&#8217;s quick-posting UI encourages short posts. I hope this approach will get more RSS readers to gracefully handle title-less posts.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/10/medium-com-updates.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.084 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-12-18 17:29:27 -->

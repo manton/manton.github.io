@@ -12,12 +12,114 @@
 	<atom:link href="http://www.manton.org/tag/apple/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 18 Dec 2015 17:56:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
 	<item>
+		<title>Phil Schiller and the App Store</title>
+		<link>http://www.manton.org/2015/12/phil-schiller-and-the-app-store.html</link>
+		<comments>http://www.manton.org/2015/12/phil-schiller-and-the-app-store.html#comments</comments>
+		<pubDate>Thu, 17 Dec 2015 15:49:34 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[leadership]]></category>
+		<category><![CDATA[mas]]></category>
+		<category><![CDATA[rejections]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3261</guid>
+		<description><![CDATA[Apple announced some leadership changes today, including that Phil Schiller will now lead the App Store on Apple&#8217;s various platforms: &#8220;With added responsibility for the App Store, Phil Schiller will focus on strategies to extend the ecosystem Apple customers have come to love when using their iPhone, iPad, Mac, Apple Watch and Apple TV. Phil [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.apple.com/pr/library/2015/12/17Apple-Names-Jeff-Williams-Chief-Operating-Officer.html">Apple announced</a> some leadership changes today, including that Phil Schiller will now lead the App Store on Apple&#8217;s various platforms:</p>
+<blockquote><p>
+  &#8220;With added responsibility for the App Store, Phil Schiller will focus on strategies to extend the ecosystem Apple customers have come to love when using their iPhone, iPad, Mac, Apple Watch and Apple TV. Phil now leads nearly all developer-related functions at Apple, in addition to his other marketing responsibilities including Worldwide Product Marketing, international marketing, education and business marketing.&#8221;
+</p></blockquote>
+<p>You may remember that Phil Schiller has gotten involved in controversial App Store rejections in the past, going back to 2009. See <a href="https://daringfireball.net/2009/08/phil_schiller_app_store">this post from Daring Fireball</a> about Ninjawords, and another article <a href="http://techcrunch.com/2009/08/15/phil-schiller-is-a-man-on-a-mission-to-save-the-app-store/">at Techcrunch by MG Siegler</a>.</p>
+<p>On recent episodes of <a href="http://coreint.org/">Core Intuition</a>, and in <a href="http://www.manton.org/2015/12/too-late-to-save-the-mas.html">a blog post</a>, I&#8217;ve argued that Apple can&#8217;t just make small improvements to the Mac App Store anymore. The time for slow iteration is over; now they have to make big changes to get developers back. I&#8217;d like to believe that putting Phil in charge is exactly that kind of first big step.</p>
+<p><strong>Update:</strong> Less optimistically, though, there was <a href="http://weblog.rogueamoeba.com/2012/06/08/in-response-to-mr-schiller/">this post in 2012 from Rogue Amoeba</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/12/phil-schiller-and-the-app-store.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Accelerated Mobile Pages from Google</title>
+		<link>http://www.manton.org/2015/11/accelerated-mobile-pages-from-google.html</link>
+		<comments>http://www.manton.org/2015/11/accelerated-mobile-pages-from-google.html#comments</comments>
+		<pubDate>Mon, 02 Nov 2015 16:22:50 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[amp]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3135</guid>
+		<description><![CDATA[The project technical overview for AMP has the goals and basic info. In a nutshell, the new format encourages a return to more bare-bones HTML, with some added functionality for common web patterns. On the balance between bloated ad platforms and user experience: &#8220;Embedding an ad or analytics often implies giving up control of what [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://www.ampproject.org/how-it-works/">The project technical overview for AMP</a> has the goals and basic info. In a nutshell, the new format encourages a return to more bare-bones HTML, with some added functionality for common web patterns. On the balance between bloated ad platforms and user experience:</p>
+<blockquote><p>
+  &#8220;Embedding an ad or analytics often implies giving up control of what eventually happens to a site because they can typically inject any JavaScript they want into pages. AMP HTML does not allow this. We realize that both ads and analytics are an important element of monetization on the web, and so we need to support them: our goal is to realign monetization with great user experience.&#8221;
+</p></blockquote>
+<p>Instead, &#8220;tracking pixels&#8221; are used for analytics. These should be easily skipped by ad blockers, but apps that support AMP will need to use a custom web view anyway, where ad blockers on iOS aren&#8217;t allowed. This may continue to limit the appeal of Safari View Controller.</p>
+<p><a href="http://www.wired.com/2015/10/googles-got-plan-make-mobile-web-less-slow/">Wired covers the announcement</a> and describes how AMP might be integrated into Twitter and other native apps:</p>
+<blockquote><p>
+  &#8220;One surprise beneficiary of AMP may be Twitter. While it’s not a publisher per se, it’s becoming an increasingly important player in news, most recently with the launch of <a href="http://www.wired.com/2015/10/meet-moments-twitters-new-feature/">its Moments feature</a>, which makes news easier to follow on Twitter by organizing Tweets in a chronological, coherent timeline. Now, Twitter will automatically load any articles that are compatible with AMP as AMP files, meaning they will benefit from the same speed inside the Twitter app.&#8221;
+</p></blockquote>
+<p>There&#8217;s <a href="https://github.com/ampproject/amphtml">more on GitHub</a>. On the surface this seems like a more open approach than Facebook Instant Articles or maybe even Apple News Format (which is <a href="https://developer.apple.com/library/ios/documentation/General/Conceptual/Apple_News_Format_Ref/index.html">finally public</a>). That <a href="https://vip.wordpress.com/2015/10/07/mobile-web/">WordPress is supporting AMP</a> is a good sign.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/11/accelerated-mobile-pages-from-google.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Gravity and the App Store</title>
+		<link>http://www.manton.org/2015/10/gravity-and-the-app-store.html</link>
+		<comments>http://www.manton.org/2015/10/gravity-and-the-app-store.html#comments</comments>
+		<pubDate>Wed, 28 Oct 2015 20:50:25 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[3dtouch]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[rejections]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3115</guid>
+		<description><![CDATA[Dan Moren, writing at Six Colors about the rejected app Gravity: &#8220;Really, what Apple needs is a small group within the App Store review team to flag apps that are pushing the envelope in smart, respectful ways; work with those apps’ developers; and present overall recommendations to App Store leadership—perhaps even reporting directly to Eddy [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Dan Moren, <a href="https://sixcolors.com/link/2015/10/tales-of-an-app-store-rejection-gravity/">writing at Six Colors</a> about the rejected app Gravity:</p>
+<blockquote><p>
+  &#8220;Really, what Apple needs is a small group within the App Store review team to flag apps that are <a href="https://sixcolors.com/post/2014/10/apple-ios-widgets-cant-calculate/">pushing the envelope</a> in smart, respectful ways; work with those apps’ developers; and present overall recommendations to App Store leadership—perhaps even reporting directly to Eddy Cue.&#8221;
+</p></blockquote>
+<p>I love this idea. It would both minimize unfair app rejections <em>and</em> help innovative apps bubble up to the featured sections in the App Store.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/10/gravity-and-the-app-store.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Scott Knaster visits the Steve Jobs movie office</title>
+		<link>http://www.manton.org/2015/10/scott-knaster-visits-the-steve-jobs-movie-office.html</link>
+		<comments>http://www.manton.org/2015/10/scott-knaster-visits-the-steve-jobs-movie-office.html#comments</comments>
+		<pubDate>Wed, 07 Oct 2015 15:10:17 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Movies]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[films]]></category>
+		<category><![CDATA[history]]></category>
+		<category><![CDATA[movies]]></category>
+		<category><![CDATA[stevejobs]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3095</guid>
+		<description><![CDATA[Scott Knaster blogged about his day advising the crew of the new Steve Jobs movie: &#8220;Every room had things taped up on the walls. Giant blown up pictures of the different events they were going to re-create. One entire wall was nothing but ancient Mac error messages. Another was photos of buildings where different Apple [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://scottknaster.blogspot.com/2015/10/when-steve-jobs-movie-came-calling.html">Scott Knaster blogged about</a> his day advising the crew of the new Steve Jobs movie:</p>
+<blockquote><p>
+  &#8220;Every room had things taped up on the walls. Giant blown up pictures of the different events they were going to re-create. One entire wall was nothing but <a href="https://www.google.com/search?q=old+mac+bomb+boxes&amp;safe=off&amp;espv=2&amp;biw=1139&amp;bih=986&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=0CAcQ_AUoAmoVChMI_Ia0q76ryAIVxn2ICh2mqgvl#safe=off&amp;tbm=isch&amp;q=old+mac+bomb+errors">ancient Mac error messages</a>. Another was photos of buildings where different Apple events happened. One wall had pictures from the Internet of random Apple employees from the &#8217;80s.&#8221;
+</p></blockquote>
+<p>Apple seems intent on downplaying this movie as inaccurate and unfair to Steve, but it&#8217;s not supposed to be a documentary. It&#8217;s promising that they asked Scott Knaster for help getting some of the everyday details right. I&#8217;m really looking forward to it.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/10/scott-knaster-visits-the-steve-jobs-movie-office.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Peace for the web</title>
 		<link>http://www.manton.org/2015/09/peace-for-the-web.html</link>
 		<comments>http://www.manton.org/2015/09/peace-for-the-web.html#comments</comments>
@@ -190,98 +292,8 @@
 			<wfw:commentRss>http://www.manton.org/2015/03/criticizing-apple.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
-		<item>
-		<title>Very busy (and the watch)</title>
-		<link>http://www.manton.org/2015/03/very-busy-and-the-watch.html</link>
-		<comments>http://www.manton.org/2015/03/very-busy-and-the-watch.html#comments</comments>
-		<pubDate>Tue, 10 Mar 2015 17:25:54 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Events]]></category>
-		<category><![CDATA[apple]]></category>
-		<category><![CDATA[podcast]]></category>
-		<category><![CDATA[staple]]></category>
-		<category><![CDATA[watch]]></category>
-		<category><![CDATA[work]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=2483</guid>
-		<description><![CDATA[Yesterday this weblog turned 13 years old. I don’t usually miss the anniversary; it’s a nice time to reflect on what I’m writing about here. But I’ve been incredibly busy this year, working on a range of things from real work to side projects to family stuff. Over the weekend I also helped out at [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Yesterday this weblog turned 13 years old. I don’t usually miss the anniversary; it’s a nice time to reflect on what I’m writing about here. But I’ve been incredibly busy this year, working on a range of things from real work to side projects to family stuff.</p>
-<p>Over the weekend I also helped out at the annual <a href="http://www.staple-austin.org/">STAPLE!</a> comics show in Austin. This is always a great time to check out what independent artists are up to, and as usual I came away inspired to get back into drawing.</p>
-<p>I’ll have a longer write-up about yesterday’s Apple event soon. I have a very negative opinion about the $10k Apple Watch Edition — not because it’s expensive, but because of what focusing on the super rich says about Apple’s priorities. Daniel and I talked about this at length on <a href="http://coreint.org/174">Core Intuition episode 174</a> a couple weeks ago.</p>
-<p>Overall the event was great, though. I’m looking forward to pre-ordering a watch and getting into development. Leaning toward the 42mm Sport, with blue band and an extra classic buckle.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/03/very-busy-and-the-watch.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>iPhone 6 Plus is still huge</title>
-		<link>http://www.manton.org/2015/02/iphone-6-plus-is-still-huge.html</link>
-		<comments>http://www.manton.org/2015/02/iphone-6-plus-is-still-huge.html#comments</comments>
-		<pubDate>Mon, 09 Feb 2015 21:13:35 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Technology]]></category>
-		<category><![CDATA[apple]]></category>
-		<category><![CDATA[iphone]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=2470</guid>
-		<description><![CDATA[Seth Clifford goes back to the iPhone 6 after a long time with the Plus: “I was convinced that the unique size and abilities of the Plus would change the way I use my phone. In my mind, it was large enough to be a small tablet, and I would do so many more things [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="http://sethclifford.me/2015/02/08/the-iphone-6-is-my-new-phone/">Seth Clifford</a> goes back to the iPhone 6 after a long time with the Plus:</p>
-<blockquote><p>
-  “I was convinced that the unique size and abilities of the Plus would change the way I use my phone. In my mind, it was large enough to be a small tablet, and I would do so many more things on it, potentially obviating the need for an iPad. That didn’t happen for a variety of reasons.”
-</p></blockquote>
-<p>As for me, I’m still using the iPhone 5C and think the design is nearly perfect. I wish I had the iPhone 6’s camera, but I’m not upgrading phones until Apple ships a “6C” next year with a 4-inch screen.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/02/iphone-6-plus-is-still-huge.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Swift or Android</title>
-		<link>http://www.manton.org/2015/01/swift-or-android.html</link>
-		<comments>http://www.manton.org/2015/01/swift-or-android.html#comments</comments>
-		<pubDate>Fri, 30 Jan 2015 16:45:44 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Programming]]></category>
-		<category><![CDATA[android]]></category>
-		<category><![CDATA[apple]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[swift]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=2443</guid>
-		<description><![CDATA[I was nodding my head while listening to the latest Developing Perspective yesterday. David Smith talked about all the work to update his apps for iOS 8, starting on Apple Watch apps, and so taking the pragmatic approach to keep using Objective-C rather than dive into Swift. Then I read this by Russell Ivanovic on [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>I was nodding my head while listening to <a href="http://developingperspective.com/2015/01/23/209/">the latest Developing Perspective</a> yesterday. David Smith talked about all the work to update his apps for iOS 8, starting on Apple Watch apps, and so taking the pragmatic approach to keep using Objective-C rather than dive into Swift.</p>
-<p>Then I read <a href="http://rustyshelf.org/2015/01/30/getting-started-with-android-development/">this by Russell Ivanovic on getting started with Android</a> development:</p>
-<blockquote><p>
-  &#8220;It’s really not that hard to get started, but you have to be realistic. If you want to get somewhere, you’re going to have to invest some time. If you want to build a viable business on Android like we have, that might end up being a lot of time. I really feel like 2015 might be the only window you’re going to get though, before Google Play becomes as hard to succeed in as the iOS App Store.&#8221;
-</p></blockquote>
-<p>And I thought, getting up to speed with Swift is probably not <em>that</em> different than learning Android. I&#8217;ve programmed Java before, but don&#8217;t know the UI frameworks; I know the Cocoa frameworks, but have never programmed anything significant in Swift. Both would require setting aside current priorities and investing some time in a new language or new tools.</p>
-<p>If I had to build an app in either as quickly as possible, choosing Swift would certainly be faster. I&#8217;m just not sure it would actually be a better use of my time than poking around in Android.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/01/swift-or-android.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Tweet Library 2.6</title>
-		<link>http://www.manton.org/2014/10/tweet-library-2-6.html</link>
-		<comments>http://www.manton.org/2014/10/tweet-library-2-6.html#comments</comments>
-		<pubDate>Fri, 03 Oct 2014 17:47:46 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Programming]]></category>
-		<category><![CDATA[apple]]></category>
-		<category><![CDATA[iphone6]]></category>
-		<category><![CDATA[review]]></category>
-		<category><![CDATA[tweetlibrary]]></category>
-		<category><![CDATA[twitter]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=2305.html</guid>
-		<description><![CDATA[Tweet Library 2.6 shipped today after 13 days waiting for review from Apple. This release adds support for the iPhone 6 and iPhone 6 Plus screen sizes, as well as improvements to sharing so that iOS 8 extensions can be used, and a fix for an annoying random crashing bug. I also finally dropped iOS [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="http://appstore.com/tweetlibrary">Tweet Library 2.6</a> shipped today after 13 days waiting for review from Apple. This release adds support for the iPhone 6 and iPhone 6 Plus screen sizes, as well as improvements to sharing so that iOS 8 extensions can be used, and a fix for an annoying random crashing bug.</p>
-<p>I also finally dropped iOS 5 and 6 support for this release. I wanted to support the iPad 1 as long as possible because those were my very first customers when I launched Tweet Library 1.0 almost exactly 4 years ago. I hope they got an incredible value out of the app in that time (all upgrades have been free). It feels good to turn a corner and require iOS 7.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/10/tweet-library-2-6.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 2.360 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2015-09-19 12:48:50 -->
+<!-- Dynamic page generated in 1.041 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-12-18 15:22:33 -->

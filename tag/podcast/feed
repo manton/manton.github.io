@@ -12,12 +12,86 @@
 	<atom:link href="http://www.manton.org/tag/podcast/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 18 Dec 2015 17:56:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
 	<item>
+		<title>Core Intuition 211 and fallback plans</title>
+		<link>http://www.manton.org/2015/12/core-intuition-211-and-fallback-plans.html</link>
+		<comments>http://www.manton.org/2015/12/core-intuition-211-and-fallback-plans.html#comments</comments>
+		<pubDate>Fri, 18 Dec 2015 16:52:28 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[kazu]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[techtalk]]></category>
+		<category><![CDATA[tvos]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3268</guid>
+		<description><![CDATA[Today on Core Intuition, Daniel and I talk about my time at the tvOS Tech Talk and the recent executive changes at Apple. From the show notes: &#8220;Manton and Daniel discuss Apple TV development challenges, Apple’s executive team shakeup and its impact on the App Stores, and keeping a good attitude about successes and shortcomings [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://coreint.org/211">Today on Core Intuition</a>, Daniel and I talk about my time at the tvOS Tech Talk and the recent executive changes at Apple. From the show notes:</p>
+<blockquote><p>
+  &#8220;Manton and Daniel discuss Apple TV development challenges, Apple’s executive team shakeup and its impact on the App Stores, and keeping a good attitude about successes and shortcomings as an ambitious indie developer.&#8221;
+</p></blockquote>
+<p>We wrap up the show with a conversation about taking risks and setting the right priorities for an indie business. Along the way I mention <a href="http://twitter.com/boltcity/status/6672228351">this tweet from Kazu Kibuishi</a>, which I misquoted slightly. Here&#8217;s the actual text:</p>
+<blockquote><p>
+  &#8220;A professor once told me that &#8216;if you have a fallback, you will fall back.&#8217; I have found this to be true.&#8221;
+</p></blockquote>
+<p>If you enjoy the show, consider letting a friend know about it, or leaving a mini review on Twitter or iTunes. Thanks!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/12/core-intuition-211-and-fallback-plans.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Core Intuition 210</title>
+		<link>http://www.manton.org/2015/12/core-intuition-210.html</link>
+		<comments>http://www.manton.org/2015/12/core-intuition-210.html#comments</comments>
+		<pubDate>Sat, 12 Dec 2015 21:32:56 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[swift]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3253</guid>
+		<description><![CDATA[On the latest Core Intuition, we talk about open source Swift, it&#8217;s potential for web server frameworks, and more about blogging tools. From the show notes: &#8220;Daniel and Manton react to Swift’s open-sourcing, and the extent to which it adds momentum to the language and increases its appeal. They also discuss the open-sourcing of Microsoft’s [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>On the <a href="http://www.coreint.org/2015/12/episode-210-they-pushed-it-to-github/">latest Core Intuition</a>, we talk about open source Swift, it&#8217;s potential for web server frameworks, and more about blogging tools. From the show notes:</p>
+<blockquote><p>
+  &#8220;Daniel and Manton react to Swift’s open-sourcing, and the extent to which it adds momentum to the language and increases its appeal. They also discuss the open-sourcing of Microsoft’s MarsEdit-esque blog editor, Windows Live Writer.&#8221;
+</p></blockquote>
+<p>There were also a few new jobs posted to <a href="http://jobs.coreint.org/">jobs.coreint.org</a> yesterday. Check them out if you&#8217;re considering a change for 2016, or just curious what is out there for Objective-C and Swift jobs.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/12/core-intuition-210.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Core Intuition 206</title>
+		<link>http://www.manton.org/2015/11/core-intuition-206.html</link>
+		<comments>http://www.manton.org/2015/11/core-intuition-206.html#comments</comments>
+		<pubDate>Sat, 14 Nov 2015 15:03:25 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[ipadpro]]></category>
+		<category><![CDATA[macappstore]]></category>
+		<category><![CDATA[podcast]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3173</guid>
+		<description><![CDATA[Yesterday we published episode 206 of Core Intuition. From the show notes: &#8220;Daniel returns from Amsterdam to find Mac App Store issues abound. Manton buys an iPad Pro but has to wait for the Pencil. The two discuss the Mac App Store’s 6-year failure to evolve substantially, and dig into the emotional highs and lows [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Yesterday we published <a href="http://coreint.org/206">episode 206 of Core Intuition</a>. From the show notes:</p>
+<blockquote><p>
+  &#8220;Daniel returns from Amsterdam to find Mac App Store issues abound. Manton buys an iPad Pro but has to wait for the Pencil. The two discuss the Mac App Store’s 6-year failure to evolve substantially, and dig into the emotional highs and lows of enjoying and surviving Apple’s platform constraints.&#8221;
+</p></blockquote>
+<p>I really love how this episode turned out. It hits on several themes that have run through our show since the very first episode: a little tech news, some high-level coding talk, a bit of business analysis, and wrapped up with just how we <em>feel</em> right now about being indie developers. I hope you enjoy it.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/11/core-intuition-206.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Marco&#8217;s mic review and the quality trade-off</title>
 		<link>http://www.manton.org/2015/09/marcos-mic-review-and-the-quality-trade-off.html</link>
 		<comments>http://www.manton.org/2015/09/marcos-mic-review-and-the-quality-trade-off.html#comments</comments>
@@ -174,68 +248,8 @@
 			<wfw:commentRss>http://www.manton.org/2013/04/cocoaconf_and_core.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
-		<item>
-		<title>iDeveloper Live Christmas podcast</title>
-		<link>http://www.manton.org/2012/12/ideveloper_live_christmas.html</link>
-		<comments>http://www.manton.org/2012/12/ideveloper_live_christmas.html#comments</comments>
-		<pubDate>Thu, 27 Dec 2012 17:23:23 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Podcasts]]></category>
-		<category><![CDATA[coreint]]></category>
-		<category><![CDATA[idevelopertv]]></category>
-		<category><![CDATA[podcast]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2012/12/ideveloper_live_christmas.html</guid>
-		<description><![CDATA[Daniel and I took a week off from Core Intuition for the holidays, but I was a guest on the iDeveloper Live podcast last week for an end of year show with Scotty, John Fox, Saul Mora, Brent Simmons, and Guy English. Topics included highlights from the year’s events, what projects we’re working on now, [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Daniel and I took a week off from Core Intuition for the holidays, but I was a guest on the iDeveloper Live podcast last week for an end of year show with Scotty, John Fox, Saul Mora, Brent Simmons, and Guy English. Topics included highlights from the year’s events, what projects we’re working on now, learning from Apple’s successes and failures, predictions for 2013, and some detours into Auto Layout, Core Data, iCloud, and other new APIs.</p>
-<p><a href="http://blog.ideveloper.tv/podcast76/">Here’s the episode on iDeveloper TV</a> with the audio and links to all the guests.</p>
-<p>Even though I’ve been podcasting for years, I think this was the first podcast I’ve been on that was actually broadcast live. It was a fun show. Check out the <a href="http://ideveloper.tv/podcast/ideveloperlive.html">iDeveloper Live web site</a> for previous episodes and to subscribe.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2012/12/ideveloper_live_christmas.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Core Intuition</title>
-		<link>http://www.manton.org/2008/05/core_intuition.html</link>
-		<comments>http://www.manton.org/2008/05/core_intuition.html#comments</comments>
-		<pubDate>Fri, 30 May 2008 21:04:03 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Podcasts]]></category>
-		<category><![CDATA[coreint]]></category>
-		<category><![CDATA[jalkut]]></category>
-		<category><![CDATA[podcast]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2008/05/core_intuition.html</guid>
-		<description><![CDATA[Like many new tech endeavors for 2008, it was &#8220;announced first on Twitter&#8221;:http://twitter.com/danielpunkass/statuses/823571610. Core Intuition is a new podcast from Daniel Jalkut and me, with a focus on the daily life of a Mac developer and whatever related subjects are going through our heads. There was so little time between the &#8220;let&#8217;s do it&#8221; idea [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Like many new tech endeavors for 2008, it was &#8220;announced first on Twitter&#8221;:http://twitter.com/danielpunkass/statuses/823571610. Core Intuition is a new podcast from Daniel Jalkut and me, with a focus on the daily life of a Mac developer and whatever related subjects are going through our heads. There was so little time between the &#8220;let&#8217;s do it&#8221; idea to recording and edit and web site and &#8220;Twitter account&#8221;:http://twitter.com/coreint that I might not have believed it actually happened if I had blinked, but &#8220;here it is&#8221;:http://www.coreint.org/. Expect the traditional iTunes page, blog, and other formalities to follow soon.</p>
-<p>&#8220;Daniel&#8217;s blog post&#8221;:http://www.red-sweater.com/blog/500/core-intuition has more on the announcement. He also has comments enabled, so feel free to jump over there and post feedback, unless it&#8217;s the angry, negative kind of feedback in which case please send a private email to &#8220;feedback@coreint.org&#8221;:mailto:feedback@coreint.org. :-)</p>
-<p>Thanks for listening. We&#8217;ll be doing these regularly so please subscribe in iTunes if you want to catch the next episodes.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2008/05/core_intuition.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Enrico Casarosa interview</title>
-		<link>http://www.manton.org/2006/10/enrico_casarosa_interview.html</link>
-		<comments>http://www.manton.org/2006/10/enrico_casarosa_interview.html#comments</comments>
-		<pubDate>Tue, 03 Oct 2006 15:18:21 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Animation]]></category>
-		<category><![CDATA[enricocasarosa]]></category>
-		<category><![CDATA[podcast]]></category>
-		<category><![CDATA[sketchcrawl]]></category>
-		<category><![CDATA[venice]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2006/10/enrico_casarosa_interview.html</guid>
-		<description><![CDATA[In my &#8220;San Francisco podcast&#8221;:http://www.manton.org/2006/09/san_francisco_podcast.html I mentioned Enrico Casarosa and &#8220;Sketchcrawl&#8221;:http://www.sketchcrawl.com/. I really wanted to interview him, but there just wasn&#8217;t time to contact him and arrange it. Luckily, Illustrationmundo&#8217;s Iconic podcast has conducted an &#8220;interview with Enrico&#8221;:http://www.illustrationmundo.com/audio/artist/85/ and they discuss Sketchcrawl at great length. Also, check out Enrico&#8217;s ongoing watercolor comic, &#8220;The Venice Chronicles&#8221;:http://enricocasarosa.com/wordpress.1/?page_id=453. [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>In my &#8220;San Francisco podcast&#8221;:http://www.manton.org/2006/09/san_francisco_podcast.html I mentioned Enrico Casarosa and &#8220;Sketchcrawl&#8221;:http://www.sketchcrawl.com/. I really wanted to interview him, but there just wasn&#8217;t time to contact him and arrange it. Luckily, Illustrationmundo&#8217;s Iconic podcast has conducted an &#8220;interview with Enrico&#8221;:http://www.illustrationmundo.com/audio/artist/85/ and they discuss Sketchcrawl at great length.</p>
-<p>Also, check out Enrico&#8217;s ongoing watercolor comic, &#8220;The Venice Chronicles&#8221;:http://enricocasarosa.com/wordpress.1/?page_id=453. He just posted page 11 and 12.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2006/10/enrico_casarosa_interview.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.798 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2015-09-19 12:54:40 -->
+<!-- Dynamic page generated in 1.048 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-12-18 15:17:50 -->

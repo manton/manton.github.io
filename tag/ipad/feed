@@ -12,12 +12,57 @@
 	<atom:link href="http://www.manton.org/tag/ipad/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 18 Dec 2015 17:56:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
 	<item>
+		<title>Six Colors and the iPad Pro</title>
+		<link>http://www.manton.org/2015/11/six-colors-and-the-ipad-pro.html</link>
+		<comments>http://www.manton.org/2015/11/six-colors-and-the-ipad-pro.html#comments</comments>
+		<pubDate>Wed, 18 Nov 2015 04:33:58 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[ipad]]></category>
+		<category><![CDATA[ipadpro]]></category>
+		<category><![CDATA[keyboard]]></category>
+		<category><![CDATA[sixcolors]]></category>
+		<category><![CDATA[writing]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3185</guid>
+		<description><![CDATA[Jason Snell has posted his initial thoughts on using the iPad Pro: &#8220;What the past few days have taught me is that if I needed to switch from Mac to iPad, if I had a compelling reason, I could absolutely do it. I can edit podcasts, write articles, edit spreadsheets, generate charts and graphs, edit [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Jason Snell has posted <a href="https://sixcolors.com/post/2015/11/ipad-pro-new-tricks-for-old-dogs/">his initial thoughts on using the iPad Pro</a>:</p>
+<blockquote><p>
+  &#8220;What the past few days have taught me is that if I needed to switch from Mac to iPad, if I had a compelling reason, I could absolutely do it. I <a href="https://sixcolors.com/post/2015/11/editing-podcasts-on-ios-with-ferrite/">can edit podcasts</a>, write articles, edit spreadsheets, generate charts and graphs, edit photos, build web sites, transfer files via FTP, and more.&#8221;
+</p></blockquote>
+<p>I don&#8217;t think Jason got an Apple Pencil or Smart Keyboard, although maybe he&#8217;ll have one of each in time for his full review. If you&#8217;ve enjoyed reading Six Colors as much as I have over the last year, <a href="https://sixcolors.com/subscribe/">consider subscribing too</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/11/six-colors-and-the-ipad-pro.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The incomplete iPad Pro</title>
+		<link>http://www.manton.org/2015/11/the-incomplete-ipad-pro.html</link>
+		<comments>http://www.manton.org/2015/11/the-incomplete-ipad-pro.html#comments</comments>
+		<pubDate>Wed, 11 Nov 2015 20:36:05 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[applestore]]></category>
+		<category><![CDATA[ipad]]></category>
+		<category><![CDATA[pencil]]></category>
+		<category><![CDATA[stylus]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3161</guid>
+		<description><![CDATA[I ordered my iPad Pro online and picked it up in the store today. My excitement for this device is all about the Pencil, which doesn&#8217;t ship for a few more weeks. The store didn&#8217;t receive any and employees have no idea when they will get it. They didn&#8217;t receive any Apple keyboards either, so [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I ordered my iPad Pro online and picked it up in the store today. My excitement for this device is all about the Pencil, which doesn&#8217;t ship for a few more weeks. The store didn&#8217;t receive any and employees have no idea when they will get it. They didn&#8217;t receive any Apple keyboards either, so I left with the only remaining accessory in stock: the white smart cover.</p>
+<p>I don&#8217;t think I&#8217;ve ever been less excited to walk out of a store with a brand new $800 gadget. The iPad Pro has <em>so much potential</em>. I think it&#8217;s going to be a success and I&#8217;m building apps for it. But without the Pencil and keyboard, a significant part of the appeal is missing. And worse, developers who need a Pencil to start testing their apps — especially those apps like the one I&#8217;m working on that already supports third-party stylus pressure — are put at a month-long disadvantage compared to Adobe and the other early partners.</p>
+<p>I enjoyed reading the iPad Pro reviews this morning, especially from <a href="http://daringfireball.net/2015/11/the_ipad_pro">Daring Fireball</a> and <a href="https://www.macstories.net/stories/ipad-pro-review/#software-keyboard">MacStories</a>. But those reviews describe a product that just doesn&#8217;t exist today. The iPad Pro as advertised on Apple&#8217;s web site and in beautiful marketing videos isn&#8217;t ready, and I wish Apple had delayed the whole launch until they could deliver these important accessories for a complete user experience.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/11/the-incomplete-ipad-pro.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Tweet Library 2.3</title>
 		<link>http://www.manton.org/2013/05/tweet_library_23.html</link>
 		<comments>http://www.manton.org/2013/05/tweet_library_23.html#comments</comments>
@@ -247,65 +292,8 @@
 			<wfw:commentRss>http://www.manton.org/2011/03/ipad_2_and.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
-		<item>
-		<title>30% of the future</title>
-		<link>http://www.manton.org/2011/02/30_of_the.html</link>
-		<comments>http://www.manton.org/2011/02/30_of_the.html#comments</comments>
-		<pubDate>Wed, 23 Feb 2011 01:05:40 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Technology]]></category>
-		<category><![CDATA[apple]]></category>
-		<category><![CDATA[appstore]]></category>
-		<category><![CDATA[ipad]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2011/02/30_of_the.html</guid>
-		<description><![CDATA[I believe the iPad is the future of mainstream computing, not just of mobile devices. That&#8217;s why I picked it as the first platform for Tweet Library. But forcing developers to use in-app purchase shows that Apple&#8217;s version of success for the iPad looks much different than mine. Apple&#8217;s tight control over iOS has always [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>I believe the iPad is the future of mainstream computing, not just of mobile devices. That&#8217;s why I picked it as the first platform for Tweet Library. But forcing developers to use in-app purchase shows that Apple&#8217;s version of success for the iPad looks much different than mine.</p>
-<p>Apple&#8217;s tight control over iOS has always been troubling. If there&#8217;s no way to install an app on the device without Apple&#8217;s approval, then Apple can make or break any business that builds for the platform. It&#8217;s an added risk for the thousands of tiny development shops for which the iPhone and iPad are otherwise perfect.</p>
-<p>There was such huge growth in the development community because of iOS that I&#8217;m not sure anyone was paying attention to where we&#8217;d end up. We saw a new phone instead of the future of computing. We saw the gold rush but not the damage, so we let it happen. We let it happen by not sending Apple a clear message: total control over distribution is bad for developers and bad for users.</p>
-<p>And now we&#8217;re letting Apple take 30% from every company that wants an iOS app to complement their business, whether it has anything to do with software development or not.</p>
-<p>From &#8220;Matt Drance&#8221;:http://www.appleoutsider.com/2011/02/22/omgiapbbq/:</p>
-<blockquote><p>&#8220;Whatever the fine print says, Apple is no longer letting developers do things it had been letting them do &mdash; and build businesses on &mdash; for almost two years, and many developers are quite understandably upset about that.&#8221;</p></blockquote>
-<p>And &#8220;Marco Arment&#8221;:http://www.marco.org/3437484678:</p>
-<blockquote><p>&#8220;A broad, vague, inconsistently applied, greedy, and unjustifiable rule doesn&#8217;t make developers want to embrace the platform.&#8221;</p></blockquote>
-<p>I hope we&#8217;re wrong about the worst-case interpretation &mdash; I like &#8220;this Steve Jobs email&#8221;:http://www.macrumors.com/2011/02/21/steve-jobs-email-suggests-in-app-subscriptions-dont-apply-to-software-as-a-service/ much more than &#8220;the reality of Readability&#8217;s rejection&#8221;:http://blog.readability.com/2011/02/an-open-letter-to-apple/ &mdash; but because Apple fails so spectacularly at communication we won&#8217;t know for sure until more rejections come in.</p>
-<p>I&#8217;m not comfortable with a future in which 30 cents on the dollar goes to a single company, no matter whether it&#8217;s from app downloads (where Apple offers hosting and discovery) or content sales and web service subscriptions (where Apple offers little). If the iPad grows like many of us expect it to, siphoning a third of the cash flow around <em>everyday computers</em> will create a completely different economic environment than exists today. It&#8217;s unprecedented.</p>
-<p>And it would ruin Apple. Not the company&#8217;s finances, but its focus. John Gruber &#8220;wonders what he&#8217;s missing&#8221;:http://daringfireball.net/linked/2011/02/21/readability, and this is it: Apple is embracing a model that is fine for Readability but runs counter to Apple&#8217;s core business. The iTunes Music Store wasn&#8217;t a business in its own right; it helped sell more iPods. The App Store shouldn&#8217;t be a huge revenue stream; it makes the iPhone and iPad better.</p>
-<p>Apple&#8217;s strength has always been selling a great product to end users &mdash; &#8220;the rest of us&#8221;. The new Apple has fallen into the trap of thinking they should also be an advertising company and an overpriced payment processor. It&#8217;s a slippery slope from here to becoming just another mega-corp that has their hands in everything that can make money instead of &#8220;standing for something&#8221;:http://www.youtube.com/watch?v=4oAB83Z1ydE.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2011/02/30_of_the.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Tweet Library 1.0</title>
-		<link>http://www.manton.org/2010/10/tweet_library_10.html</link>
-		<comments>http://www.manton.org/2010/10/tweet_library_10.html#comments</comments>
-		<pubDate>Sat, 09 Oct 2010 14:47:52 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Business]]></category>
-		<category><![CDATA[appstore]]></category>
-		<category><![CDATA[ipad]]></category>
-		<category><![CDATA[tweetlibrary]]></category>
-		<category><![CDATA[twitter]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2010/10/tweet_library_10.html</guid>
-		<description><![CDATA[If you purchased, tweeted, blogged about, rated, or mentioned Tweet Library thank you. I&#8217;ve been very happy to see how well it is being received. I built this app because I wanted to do more with Twitter, but I didn&#8217;t really know until it was released if anyone else would care. The truth is, I [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>If you purchased, tweeted, blogged about, rated, or mentioned <a href="http://www.riverfold.com/software/tweetlibrary/">Tweet Library</a> thank you. I&#8217;ve been very happy to see how well it is being received. I built this app because I wanted to do more with Twitter, but I didn&#8217;t really know until it was released if anyone else would care.</p>
-<p>The truth is, I released it a tiny bit too early &mdash; there are a few annoying bugs that I&#8217;ll need to fix soon for 1.0.1 &mdash; but it was a long development cycle, and faced with getting burned out on a project the only thing I know how to do is ship it. Then I can use the reaction from real customers to tell me if I&#8217;m on the right track and where to go next.</p>
-<p>I&#8217;ve already blogged about the pricing and <a href="http://www.manton.org/2010/09/next_generation.html">viability of third-party Twitter apps</a>, though I hadn&#8217;t officially announced the app yet:</p>
-<blockquote><p>&#8220;When Twitter for iPad shipped it jumped to the number 1 spot in free apps, but maybe you don&#8217;t have to compete directly with that. Maybe if you hold your ground somewhere in the top paid list, that&#8217;s enough to find an audience.&#8221;</p></blockquote>
-<p>Tweet Library has only been out for 3 full days, and I don&#8217;t want to jinx it, but so far this theory is holding. The app went to #2 for top grossing iPad apps in social networking in the first day. I didn&#8217;t expect that, but at $10 I can see how it might happen. Then it also climbed to #2 in top paid iPad apps in the same category, and stayed there for a couple days before dropping to #3 as I write this. The only other Twitter apps in any of the top 10 lists for iPad are Twitter&#8217;s official app and TweetDeck, both free.</p>
-<p>Let me repeat that because it kind of blows my mind a little: Tweet Library has been the best-selling iPad Twitter app since it was released.</p>
-<p>How did I successfully ship an app in a crowded market at literally 2x the price of any other app? Two things:</p>
-<p><em>Refuse to compete on price.</em> I felt so strongly about this that I was willing to launch and fail. If the App Store couldn&#8217;t support $10 Twitter apps, then I would bow out. I saw in <a href="http://www.tuaw.com/2010/10/06/tweet-library-for-ipad-makes-twitter-useful/">a comment on TUAW</a> that someone would wait until the price lowered, but I hope to avoid the pricing gimmicks common to the App Store. There&#8217;s no intro price for Tweet Library, and the price is not going to change. I believe consistency is the best long-term plan for app pricing.</p>
-<p><em>Market the app as something new first and yet another Twitter app second.</em> I believe the key to selling Tweet Library is to focus the marketing around what makes it special: archiving tweets, curating tweets, filtering tweets. Yes, you can also post to Twitter and see mentions or reply to DMs, but that is just the price to get in the door. Tweet Library doesn&#8217;t do those common tasks perfectly yet, but customers seem willing to cut me some slack because of all the other unique features that the app offers.</p>
-<p>So, up next I&#8217;m going to fix bugs, and I&#8217;m going to add features, and I&#8217;m going to listen to customers. I&#8217;m sure it will soon drop out of the top 10 and other Twitter apps will take its place, but I feel like the launch was strong enough to prove that I&#8217;ve got something. I intend to carve out a little niche in the Twitter market and execute on it.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2010/10/tweet_library_10.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 1.427 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:16:22 -->
+<!-- Dynamic page generated in 4.013 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-12-18 17:19:37 -->

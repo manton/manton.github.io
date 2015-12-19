@@ -12,12 +12,61 @@
 	<atom:link href="http://www.manton.org/tag/appstore/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 18 Dec 2015 17:56:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
 	<item>
+		<title>Phil Schiller and the App Store</title>
+		<link>http://www.manton.org/2015/12/phil-schiller-and-the-app-store.html</link>
+		<comments>http://www.manton.org/2015/12/phil-schiller-and-the-app-store.html#comments</comments>
+		<pubDate>Thu, 17 Dec 2015 15:49:34 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[leadership]]></category>
+		<category><![CDATA[mas]]></category>
+		<category><![CDATA[rejections]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3261</guid>
+		<description><![CDATA[Apple announced some leadership changes today, including that Phil Schiller will now lead the App Store on Apple&#8217;s various platforms: &#8220;With added responsibility for the App Store, Phil Schiller will focus on strategies to extend the ecosystem Apple customers have come to love when using their iPhone, iPad, Mac, Apple Watch and Apple TV. Phil [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.apple.com/pr/library/2015/12/17Apple-Names-Jeff-Williams-Chief-Operating-Officer.html">Apple announced</a> some leadership changes today, including that Phil Schiller will now lead the App Store on Apple&#8217;s various platforms:</p>
+<blockquote><p>
+  &#8220;With added responsibility for the App Store, Phil Schiller will focus on strategies to extend the ecosystem Apple customers have come to love when using their iPhone, iPad, Mac, Apple Watch and Apple TV. Phil now leads nearly all developer-related functions at Apple, in addition to his other marketing responsibilities including Worldwide Product Marketing, international marketing, education and business marketing.&#8221;
+</p></blockquote>
+<p>You may remember that Phil Schiller has gotten involved in controversial App Store rejections in the past, going back to 2009. See <a href="https://daringfireball.net/2009/08/phil_schiller_app_store">this post from Daring Fireball</a> about Ninjawords, and another article <a href="http://techcrunch.com/2009/08/15/phil-schiller-is-a-man-on-a-mission-to-save-the-app-store/">at Techcrunch by MG Siegler</a>.</p>
+<p>On recent episodes of <a href="http://coreint.org/">Core Intuition</a>, and in <a href="http://www.manton.org/2015/12/too-late-to-save-the-mas.html">a blog post</a>, I&#8217;ve argued that Apple can&#8217;t just make small improvements to the Mac App Store anymore. The time for slow iteration is over; now they have to make big changes to get developers back. I&#8217;d like to believe that putting Phil in charge is exactly that kind of first big step.</p>
+<p><strong>Update:</strong> Less optimistically, though, there was <a href="http://weblog.rogueamoeba.com/2012/06/08/in-response-to-mr-schiller/">this post in 2012 from Rogue Amoeba</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/12/phil-schiller-and-the-app-store.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Gravity and the App Store</title>
+		<link>http://www.manton.org/2015/10/gravity-and-the-app-store.html</link>
+		<comments>http://www.manton.org/2015/10/gravity-and-the-app-store.html#comments</comments>
+		<pubDate>Wed, 28 Oct 2015 20:50:25 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[3dtouch]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[rejections]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3115</guid>
+		<description><![CDATA[Dan Moren, writing at Six Colors about the rejected app Gravity: &#8220;Really, what Apple needs is a small group within the App Store review team to flag apps that are pushing the envelope in smart, respectful ways; work with those apps’ developers; and present overall recommendations to App Store leadership—perhaps even reporting directly to Eddy [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Dan Moren, <a href="https://sixcolors.com/link/2015/10/tales-of-an-app-store-rejection-gravity/">writing at Six Colors</a> about the rejected app Gravity:</p>
+<blockquote><p>
+  &#8220;Really, what Apple needs is a small group within the App Store review team to flag apps that are <a href="https://sixcolors.com/post/2014/10/apple-ios-widgets-cant-calculate/">pushing the envelope</a> in smart, respectful ways; work with those apps’ developers; and present overall recommendations to App Store leadership—perhaps even reporting directly to Eddy Cue.&#8221;
+</p></blockquote>
+<p>I love this idea. It would both minimize unfair app rejections <em>and</em> help innovative apps bubble up to the featured sections in the App Store.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/10/gravity-and-the-app-store.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Peace, indies, and the App Store</title>
 		<link>http://www.manton.org/2015/09/peace-indies-and-the-app-store.html</link>
 		<comments>http://www.manton.org/2015/09/peace-indies-and-the-app-store.html#comments</comments>
@@ -211,65 +260,8 @@
 			<wfw:commentRss>http://www.manton.org/2013/04/searching_abandoned_apps.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
-		<item>
-		<title>Jurewitz on features, pricing</title>
-		<link>http://www.manton.org/2013/04/jurewitz_on_features.html</link>
-		<comments>http://www.manton.org/2013/04/jurewitz_on_features.html#comments</comments>
-		<pubDate>Tue, 02 Apr 2013 16:34:23 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Business]]></category>
-		<category><![CDATA[appstore]]></category>
-		<category><![CDATA[features]]></category>
-		<category><![CDATA[jury]]></category>
-		<category><![CDATA[mvp]]></category>
-		<category><![CDATA[pricing]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2013/04/jurewitz_on_features.html</guid>
-		<description><![CDATA[Michael Jurewitz wrote a great post last week on minimum viable products: “As you look at your products and how you make them remember these key points. You don’t need all the features under the sun. You don’t need technical excellence (assuming you also avoid technical debt). You need to solve a worthwhile problem in [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="http://jury.me/blog/2013/3/30/mvp">Michael Jurewitz wrote a great post</a> last week on minimum viable products:</p>
-<blockquote><p>
-  “As you look at your products and how you make them remember these key points. You don’t need all the features under the sun. You don’t need technical excellence (assuming you also avoid technical debt). You need to solve a worthwhile problem in a delightful, thoughtful, and simple way.”
-</p></blockquote>
-<p>What he’s saying is it’s okay to be limited, but make that limited part totally polished. Cutting back features doesn’t mean you also cut back on quality. It reminds me of <a href="http://gettingreal.37signals.com/ch05_Half_Not_Half_Assed.php">the quote from 37signals</a>: “build half a product, not a half-ass product”.</p>
-<p>This is good advice that I need to take to heart. I don’t have much problem shipping. But my apps often have some rough edges at 1.0.</p>
-<p>Also don’t miss Jurewitz’s great <a href="http://mjtsai.com/blog/2013/04/01/understanding-app-store-pricing/">5-part series on App Store pricing</a>. I’m linking to Michael Tsai’s summary here, since it provides nice quotes and links to each part in the series. I saw the talk that these blog posts were based on twice, at Çingleton and NSConference, and this has to be the best translation of a conference session into blog form I’ve ever seen. Not to be missed.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/04/jurewitz_on_features.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>App Store old app maintenance</title>
-		<link>http://www.manton.org/2013/03/app_store_old.html</link>
-		<comments>http://www.manton.org/2013/03/app_store_old.html#comments</comments>
-		<pubDate>Fri, 22 Mar 2013 15:57:27 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Technology]]></category>
-		<category><![CDATA[apps]]></category>
-		<category><![CDATA[appstore]]></category>
-		<category><![CDATA[art]]></category>
-		<category><![CDATA[downloads]]></category>
-		<category><![CDATA[newdisruptors]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2013/03/app_store_old.html</guid>
-		<description><![CDATA[David Smith on cleaning up the App Store: “The App Store currently has around 800k active apps listed. I suspect a significant number of these haven’t been updated in more than 12 months. An app that is listed for sale but is no longer under active development creates the possibility for bad user experience. It [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>David Smith on <a href="http://david-smith.org/blog/2013/03/21/purging-the-back-catalog/">cleaning up the App Store</a>:</p>
-<blockquote><p>
-  “The App Store currently has around <a href="http://148apps.biz/app-store-metrics/?mpage=appcount">800k</a> active apps listed. I suspect a significant number of these haven’t been updated in more than 12 months. An app that is listed for sale but is no longer under active development creates the possibility for bad user experience. It is like a grocery store that leaves expired produce on its shelves.”
-</p></blockquote>
-<p>He makes a good argument for removing old apps from the store, but I’d probably hesitate going all the way to actively take them out. There is certainly too much clutter in the App Store — too many apps that aren’t providing much value, some with little chance of an update. But I also dislike the already fragile state of App Store inventory. iOS apps require much more active maintenance than traditional, direct download Mac apps, which can be hosted anywhere and stay available without constant attention from the developer.</p>
-<p>At one point <a href="http://www.muleradio.net/newdisruptors/14/">on episode 14 of The New Disruptors podcast</a>, Glenn Fleishman talked with John Gruber about apps as a unique art form unlike paintings or novels or even film because apps are never done. John Gruber from that show, talking about software:</p>
-<blockquote><p>
-  “To me it is an art form. But it is the one thing that is continuously diddled with. You write a novel and it’s done, it’s out there. Once it’s published, it’s published. You make a movie, it’s done. George Lucas gets a lot of flak because he keeps revisiting his old Star Wars movies and making a change here and there, but it’s not like every year he comes out with a new version of Star Wars. […] But software — an app that has a vibrant and still-growing user base — it’s the same thing, constantly being iterated. It’s the only art form that is like that.”
-</p></blockquote>
-<p>There are always bugs, always missing features, and always (as is David’s point above) new hardware to adapt to. It’s an art form that won’t stay still, so maybe there is an inherent impermanence to it.</p>
-<p>But if apps are an art form, an important part of our culture, then it shouldn’t require so much work to make sure they don’t disappear forever, so quickly. This happened to me just this week, actually. I forgot to renew my iOS developer program account and my apps were automatically removed from sale for a few hours while I scrambled to pay my $99 again.</p>
-<p>Maybe there’s a compromise solution in here somewhere. Instead of being removed from sale, abandoned apps could switch to an archived state. They would no longer show up in top lists or even search, but could still be found with a direct link. With the right kind of fallback like that, Apple could be even more aggressive about gearing the App Store user experience around new apps and modern devices, without sacrificing what is good about the long tail of old apps.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/03/app_store_old.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.811 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2015-09-19 12:35:58 -->
+<!-- Dynamic page generated in 1.392 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-12-18 15:24:21 -->

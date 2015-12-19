@@ -12,12 +12,79 @@
 	<atom:link href="http://www.manton.org/tag/openweb/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 18 Dec 2015 17:56:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
 	<item>
+		<title>Jack Dorsey to lead Twitter again</title>
+		<link>http://www.manton.org/2015/10/jack-dorsey-to-lead-twitter-again.html</link>
+		<comments>http://www.manton.org/2015/10/jack-dorsey-to-lead-twitter-again.html#comments</comments>
+		<pubDate>Mon, 05 Oct 2015 22:05:16 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[dorsey]]></category>
+		<category><![CDATA[ev]]></category>
+		<category><![CDATA[microblogging]]></category>
+		<category><![CDATA[openweb]]></category>
+		<category><![CDATA[tweetbot]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3091</guid>
+		<description><![CDATA[Three years ago today I posted my last personal tweet. That time and distance away from mainstream social networking has given me a new perspective on the importance of independent microblogging. It has shaped where I write and what tools I build. But Twitter remains as fascinating as ever. Just a few weeks ago, the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://twitter.com/manton/status/254228056657494016">Three years ago today</a> I posted my last personal tweet. That time and distance away from mainstream social networking has given me a new perspective on the importance of independent microblogging. It has shaped <a href="http://www.manton.org/category/micro">where I write</a> and what tools I build.</p>
+<p>But Twitter remains as fascinating as ever. Just a few weeks ago, <a href="http://www.telegraph.co.uk/technology/twitter/11891887/adam-bain-interview-twitter-jack-dorsey.html">the board seemed unsure</a> about letting Jack Dorsey split his time between Twitter and Square:</p>
+<blockquote><p>
+  &#8220;The responsibilities of running Square, which Dorsey reportedly refuses to give up, may now stand in the way of a Steve <a href="http://www.telegraph.co.uk/technology/steve-jobs/">Jobs-esque</a> return as Twitter’s full time chief executive. In June, its board took the unusual step of publicly declaring that it would only consider candidates &#8216;who are in a position to make a full-time commitment to Twitter&#8217;, a <a href="http://www.telegraph.co.uk/technology/twitter/11691834/Jack-Dorsey-will-have-to-quit-as-Square-boss-to-take-charge-of-Twitter.html">thinly-veiled reference to Dorsey’s preoccupations</a>.&#8221;
+</p></blockquote>
+<p>Then they <a href="http://recode.net/2015/09/30/sources-jack-dorsey-to-be-named-permanent-twitter-ceo/">backed away from that</a>:</p>
+<blockquote><p>
+  &#8220;That declaration, as it seems to have turned out, has been a largely empty one. The idea that Dorsey might return gained steam among people both inside and outside the company over the past few months even though he had no intention of leaving Square. He even referred to the companies as his two children when discussing the dilemma, according to a source.&#8221;
+</p></blockquote>
+<p>Today they officially announced that Jack will return to lead Twitter. Of all the recent articles, my favorite <a href="http://recode.net/2015/10/02/why-jack-dorsey-is-ready-to-save-twitter/">is this one from Recode</a>, a long profile on Jack&#8217;s role and changing attitude:</p>
+<blockquote><p>
+  &#8220;He seems to be a completely different man than the one who returned to Twitter in March 2011 as executive chairman and product czar. Former colleagues recall a man looking for payback for his 2008 ouster; loyalty was key, and many who were loyal to Twitter’s other co-founder, Ev Williams, were booted from the company. Back then, Dorsey would routinely sit in on meetings without saying a word. When he did speak, his contributions were so abstract that few understood what he was talking about. In some cases, he’d simply write a single word or two up on the whiteboard.&#8221;
+</p></blockquote>
+<p>And it goes on, showing how Jack has matured as a leader. Everyone will be watching what he does, and how Twitter evolves. Every article written about an upcoming Twitter feature will mention Jack&#8217;s involvement, no matter how insignificant. He&#8217;s a big part of the story now.</p>
+<p><a href="https://medium.com/@ev/why-i-m-glad-jack-is-back-at-twitter-9bbda2ae5dca">Ev also wrote</a> about the official announcement:</p>
+<blockquote><p>
+  &#8220;Twitter is bigger and more important to the world than we ever dreamed when we started. And it still has incredible, unrealized potential. It will not be easy to unlock it. But we have thousands of smart, creative people working every day to make the company great. And Jack has already demonstrated the ability to inspire the team and think boldly about the next phase of Twitter.&#8221;
+</p></blockquote>
+<p>The greatest challenge for Jack will be figuring out how to take whatever those thousands of employees are working on and turn it into actual user-facing features that ship to customers. Federico Viticci, <a href="https://www.macstories.net/reviews/tweetbot-4-review-bigger-bot/">reviewing the new Tweetbot 4 release</a> last week, wrote about how Tapbots has built something more ambitious than the official Twitter for iPad app, even though Twitter has a much bigger team:</p>
+<blockquote><p>
+  &#8220;On the other hand, Twitter for iPad – long ignored by the company – has emerged again <a href="https://www.macstories.net/news/twitter-aims-to-unify-ios-apps-updates-its-ipad-app/">with a stretched-up iPhone layout</a> presented in the name of &#8216;consistency&#8217;. It&#8217;s a grim landscape, devoid of the excitement and curiosity that surrounded Twitter clients five years ago.&#8221;
+</p></blockquote>
+<p>I still run <a href="http://tweetmarker.net/">Tweet Marker</a>, which was created during that period of innovation that Federico refers to, but my focus now is on indie microblogging and the open web. I&#8217;m content to watch Twitter from the sidelines and wish Jack the best of luck.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/10/jack-dorsey-to-lead-twitter-again.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Complete mirror of this blog</title>
+		<link>http://www.manton.org/2015/09/complete-mirror-of-this-blog.html</link>
+		<comments>http://www.manton.org/2015/09/complete-mirror-of-this-blog.html#comments</comments>
+		<pubDate>Sun, 20 Sep 2015 19:00:33 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[github]]></category>
+		<category><![CDATA[httrack]]></category>
+		<category><![CDATA[mirror]]></category>
+		<category><![CDATA[openweb]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3061</guid>
+		<description><![CDATA[I&#8217;ve been blogging here for 13 years. If you take any random post from that first year, the majority of the links to other web sites are broken. The default outcome for any site that isn&#8217;t maintained — including the one you&#8217;re reading right now — is for it to vanish. Permanence doesn&#8217;t exist on the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;ve been blogging here for 13 years. If you take any random post from that first year, the majority of the links to other web sites are broken. The default outcome for any site that isn&#8217;t maintained — including the one you&#8217;re reading right now — is for it to vanish. <a href="http://www.manton.org/2012/07/permanence.html">Permanence</a> doesn&#8217;t exist on the web.</p>
+<p>We can <a href="http://www.manton.org/2015/09/web-history-and-ipfs.html">solve this</a>, but it will take time. For now I think mirroring our writing is a great solution, to guard against domain names expiring and other inevitable failures. But where to mirror to?</p>
+<p>Only 2 companies keep coming to mind: WordPress.com and GitHub. I believe both will last for decades, maybe even 100 years, and both embrace the open web in a way that most other centralized web sites do not.</p>
+<p>Even though I self-host this weblog on WordPress, I&#8217;ve chosen to mirror to GitHub because of their focus on simple, static publishing via <a href="https://pages.github.com/">GitHub Pages</a>. It has the best chance of running for a long time without intervention.</p>
+<p>I exported all of manton.org with the <a href="http://www.httrack.com/">httrack</a> command-line tool and checked it into GitHub, with a CNAME for <a href="http://mirror.manton.org/">mirror.manton.org</a>. It works perfectly. I still need to automate this process so that it updates regularly, but I&#8217;m very happy to finally have a complete mirror for the first time.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/09/complete-mirror-of-this-blog.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Wrap-up thoughts on the TV web</title>
 		<link>http://www.manton.org/2015/09/wrap-up-thoughts-on-the-tv-web.html</link>
 		<comments>http://www.manton.org/2015/09/wrap-up-thoughts-on-the-tv-web.html#comments</comments>
@@ -197,5 +264,5 @@
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 1.869 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2015-09-19 12:48:29 -->
+<!-- Dynamic page generated in 3.100 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-12-18 17:19:21 -->

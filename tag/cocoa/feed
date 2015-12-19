@@ -12,11 +12,11 @@
 	<atom:link href="http://www.manton.org/tag/cocoa/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 18 Dec 2015 17:56:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
 	<item>
 		<title>Minimal UXKit</title>
 		<link>http://www.manton.org/2015/02/minimal-uxkit.html</link>
@@ -58,8 +58,8 @@
 		<category><![CDATA[quicktime]]></category>
 
 		<guid isPermaLink="false">http://www.manton.org/2007/06/new_software_releases.html</guid>
-		<description><![CDATA[Today is a good day to release software. &#8220;MarsEdit gets a nice update&#8221;:http://www.red-sweater.com/blog/346/marsedit-12-growl-picasa-and-vox and &#8220;NetNewsWire 3.0&#8243;:http://ranchero.com/?comments=1&#38;postid=1646 ships. At VitalSource we also just released &#8220;Bookshelf 4.6&#8243;:http://www.vitalsource.com/index/bookshelf today, which lays the foundation for media-rich textbooks and adds a highlighter rating UI for any subscribed highlighters you have. This data will bubble up in a few places in [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Today is a good day to release software. &#8220;MarsEdit gets a nice update&#8221;:http://www.red-sweater.com/blog/346/marsedit-12-growl-picasa-and-vox and &#8220;NetNewsWire 3.0&#8243;:http://ranchero.com/?comments=1&amp;postid=1646 ships. At VitalSource we also just released &#8220;Bookshelf 4.6&#8243;:http://www.vitalsource.com/index/bookshelf today, which lays the foundation for media-rich textbooks and adds a highlighter rating UI for any subscribed highlighters you have. This data will bubble up in a few places in the future to allow you to discover people and books, although for now it&#8217;s one-way.</p>
+		<description><![CDATA[Today is a good day to release software. &#8220;MarsEdit gets a nice update&#8221;:http://www.red-sweater.com/blog/346/marsedit-12-growl-picasa-and-vox and &#8220;NetNewsWire 3.0&#8221;:http://ranchero.com/?comments=1&#38;postid=1646 ships. At VitalSource we also just released &#8220;Bookshelf 4.6&#8221;:http://www.vitalsource.com/index/bookshelf today, which lays the foundation for media-rich textbooks and adds a highlighter rating UI for any subscribed highlighters you have. This data will bubble up in a few places in [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Today is a good day to release software. &#8220;MarsEdit gets a nice update&#8221;:http://www.red-sweater.com/blog/346/marsedit-12-growl-picasa-and-vox and &#8220;NetNewsWire 3.0&#8221;:http://ranchero.com/?comments=1&amp;postid=1646 ships. At VitalSource we also just released &#8220;Bookshelf 4.6&#8221;:http://www.vitalsource.com/index/bookshelf today, which lays the foundation for media-rich textbooks and adds a highlighter rating UI for any subscribed highlighters you have. This data will bubble up in a few places in the future to allow you to discover people and books, although for now it&#8217;s one-way.</p>
 <p>Here&#8217;s a &#8220;short screencast of the rating interface&#8221;:http://www.manton.org/screencasts/2007/bookshelf_rating.mov (12 seconds, 700k). The star widget is a simple Cocoa control that hits a web service in the background. It was fun to write and surprisingly not very much code.</p>
 ]]></content:encoded>
 			<wfw:commentRss>http://www.manton.org/2007/06/new_software_releases.html/feed</wfw:commentRss>
@@ -108,7 +108,7 @@
 		<guid isPermaLink="false">http://www.manton.org/2007/01/you_had_me.html</guid>
 		<description><![CDATA[&#8220;Last week I said&#8221;:http://www.manton.org/2007/01/macworld_2007_predictions.html I wasn&#8217;t interested in an iPod phone, unless it was something no one had even thought to expect. Well, it is. I am blown away by the iPhone. The thing runs Mac OS X. The iPhone is really inspirational in terms of UI design polish. You can tell they put some [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>&#8220;Last week I said&#8221;:http://www.manton.org/2007/01/macworld_2007_predictions.html I wasn&#8217;t interested in an iPod phone, unless it was something no one had even thought to expect. Well, it is. I am blown away by the iPhone. <i>The thing runs <strike>Mac</strike> OS X.</i></p>
-<p>The iPhone is really inspirational in terms of UI design polish. You can tell they put some years into it. I was playing with Tiger&#8217;s NSAnimation the other night (sort of a poor man&#8217;s &#8220;Core Animation&#8221;:http://www.apple.com/macosx/leopard/coreanimation.html), and it reinforced for me the fact that UI effects are no longer optional pieces of software design. They can both visually supplement the user interaction and just make the application experience more enjoyable. &#8220;Disco&#8221;:http://www.discoapp.com/, for all the criticism as a glorified Disk Recording framework wrapper, is fun to use. Same goes for the just-released &#8220;Snapshot 2.0&#8243;:http://www.stuntsoftware.com/Snapshot/, which has a really thoughtful single-window UI.</p>
+<p>The iPhone is really inspirational in terms of UI design polish. You can tell they put some years into it. I was playing with Tiger&#8217;s NSAnimation the other night (sort of a poor man&#8217;s &#8220;Core Animation&#8221;:http://www.apple.com/macosx/leopard/coreanimation.html), and it reinforced for me the fact that UI effects are no longer optional pieces of software design. They can both visually supplement the user interaction and just make the application experience more enjoyable. &#8220;Disco&#8221;:http://www.discoapp.com/, for all the criticism as a glorified Disk Recording framework wrapper, is fun to use. Same goes for the just-released &#8220;Snapshot 2.0&#8221;:http://www.stuntsoftware.com/Snapshot/, which has a really thoughtful single-window UI.</p>
 <p>This is going to be another great year to be a Mac developer. And we haven&#8217;t even seen the rest of Leopard yet. Only bump in the road will be if iPhone is a closed platform. The &#8220;comments over at Theocacao&#8221;:http://theocacao.com/document.page/404 provide some interesting commentary on that question.</p>
 ]]></content:encoded>
 			<wfw:commentRss>http://www.manton.org/2007/01/you_had_me.html/feed</wfw:commentRss>
@@ -241,5 +241,5 @@
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.741 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:37:59 -->
+<!-- Dynamic page generated in 1.150 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-12-18 17:32:59 -->

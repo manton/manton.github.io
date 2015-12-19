@@ -12,12 +12,52 @@
 	<atom:link href="http://www.manton.org/tag/sxsw/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Sat, 19 Sep 2015 15:54:20 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 18 Dec 2015 17:56:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.2.5</generator>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
 	<item>
+		<title>A great developer can come from anywhere</title>
+		<link>http://www.manton.org/2015/10/a-great-developer-can-come-from-anywhere.html</link>
+		<comments>http://www.manton.org/2015/10/a-great-developer-can-come-from-anywhere.html#comments</comments>
+		<pubDate>Wed, 21 Oct 2015 21:43:27 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[apps]]></category>
+		<category><![CDATA[pricing]]></category>
+		<category><![CDATA[ratatouille]]></category>
+		<category><![CDATA[sxsw]]></category>
+		<category><![CDATA[wwdc]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3107</guid>
+		<description><![CDATA[It&#8217;s March 2009, the height of SXSW in Austin before the conference gets too big for itself. I&#8217;m hanging out downtown with tech folks from a blogging startup, having dinner and beers before we head to the party they&#8217;re putting on. The CTO, one of the first employees at the company, is talking about Memcache [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>It&#8217;s March 2009, the height of SXSW in Austin before the conference gets too big for itself. I&#8217;m hanging out downtown with tech folks from a blogging startup, having dinner and beers before we head to the party they&#8217;re putting on. The CTO, one of the first employees at the company, is talking about Memcache servers and MySQL scaling, and I&#8217;m hanging on every word. I love this stuff.</p>
+<p>I&#8217;m a Mac and iOS developer, but I often take a break from native app development to work on server software. So I&#8217;m asking him about MySQL replication and what it&#8217;s like to run a schema migration without the database falling over. The conversation sometimes shifts back to Apple platforms, and he says he&#8217;s been thinking about going to WWDC. I had been attending WWDC for a while, so I say sure, it&#8217;s expensive but you should consider it. If you&#8217;re doing more web stuff, though, maybe it&#8217;s not as important that you attend.</p>
+<p>We walk over to the party venue. It&#8217;s bigger and more crowded than he thought it would be. Their company has really taken off, growing well beyond the early days when it was just him and the founder trying to build something new. And it&#8217;s at this point that he turns to me and asks a question that brings us back to iOS development:</p>
+<blockquote><p>
+  &#8220;So what do you think of my app, Instapaper?&#8221;
+</p></blockquote>
+<p>In answer to Marco Arment, at that time the CTO of Tumblr, I mutter something about liking it, but I haven&#8217;t really gotten it into my workflow yet. Hopefully whatever I said was encouraging. In subsequent years, of course, Instapaper would be one of my favorite apps.</p>
+<p>Later, replaying these conversations, I realized that I asked the wrong questions and gave the wrong advice. About WWDC, I should have said &#8220;Yes, absolutely!&#8221; with an exclamation point. Buy a ticket. If you can&#8217;t afford it, go anyway because you need to be there.</p>
+<p>But I didn&#8217;t say that because I wasn&#8217;t listening closely enough. I was so busy asking questions about Tumblr, that I wasn&#8217;t listening to the excitement in his voice about Instapaper. I was so busy thinking about server scaling and databases and all this other stuff that I could&#8217;ve learned from a book, that I didn&#8217;t hear what he was really saying.</p>
+<p>I should have asked about iOS pricing, free versions, sales, UI design, who did the icon, what does the private API look like. But I didn&#8217;t ask those things because I missed the big picture, how dominant the App Store would become for distribution, and so I missed what mattered. I&#8217;d like to think that since then I&#8217;ve gotten better at listening.</p>
+<p>Daniel Jalkut and I had Marco as a special guest on <a href="http://coreint.org/200">Core Intuition 200</a> not just because he&#8217;s a friend but also because he so well represents the goal that many of us have and our listeners have — to start our own company, to find success not just one time but again and again, and to have as thoughtful an approach as possible in the craft of software development.</p>
+<p>This week I&#8217;m in Indianapolis for the <a href="http://releasenotes.tv/">Release Notes conference</a>. While I will have <a href="https://twitter.com/riverfold/status/651509114284044288">some stickers</a> for anyone interested in my new microblogging platform, and I&#8217;ll probably ramble about it at some length if asked, I&#8217;ll also be listening. I&#8217;ll be listening because you never know which random developer you just met will end up doing their best work in the years ahead, and you want to be as encouraging as possible, offer the right kind of feedback, and also learn from their perspective.</p>
+<p>There&#8217;s a great line in the Pixar movie Ratatouille:</p>
+<blockquote><p>
+  &#8220;Not everyone can become a great artist. But a great artist can come from anywhere.&#8221;
+</p></blockquote>
+<p>I believe that&#8217;s equally true for developers. We often see someone go from nothing to a top app in the App Store. We often see someone start without an audience and then make friends on Twitter and blogs through the quality of their writing alone. And so we welcome new voices all the time if they&#8217;re respectful.</p>
+<p>There&#8217;s been some debate about <a href="http://www.marco.org/2015/10/13/pragmatic-pricing">Overcast 2.0&#8217;s patronage model</a>. Some of the discussion is healthy — how does a successful business model for one developer apply to other apps? — and some of the discussion is divisive. Instead of asking the right questions, it&#8217;s easy to jump straight to a <em>conclusion</em> with the dismissive statement: &#8220;that&#8217;s fine for Marco, but his approach would never work for other developers&#8221;.</p>
+<p>The &#8220;that&#8217;s fine for Marco&#8221; attitude is poison for our community because it takes the opposite approach as that Ratatouille quote above. It implies that some developers have such an advantage that the rest of us shouldn&#8217;t even bother, because it&#8217;s not a level playing field. It&#8217;s true that some developers today have an advantage, whether through good timing or just a long history of shipping apps, but the lesson isn&#8217;t to give up; it&#8217;s to instead learn from it, and look at our own strengths. What small head start do we have that could grow into a great success tomorrow, too?</p>
+<p>Rewind a handful of years, back to that day at SXSW when I could name plenty of developers who had more attention and success in our community than Marco Arment. You can be damn sure that didn&#8217;t discourage him from taking Instapaper from an &#8220;in my spare time&#8221; niche app to the top of the News section on the App Store.</p>
+<p>I&#8217;ll never accept the implied negativity in the &#8220;that&#8217;s fine for Marco&#8221; argument. I&#8217;ll never accept that we should be <em>jealous</em> of another developer&#8217;s success instead of <em>inspired</em> by it to do our best work.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/10/a-great-developer-can-come-from-anywhere.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>12 years of blogging</title>
 		<link>http://www.manton.org/2014/03/12_years_of.html</link>
 		<comments>http://www.manton.org/2014/03/12_years_of.html#comments</comments>
@@ -119,9 +159,9 @@
 		<category><![CDATA[sxsw]]></category>
 
 		<guid isPermaLink="false">http://www.manton.org/2012/03/10_years_and.html</guid>
-		<description><![CDATA[Every year on March 9th, as SXSW is getting started, I like to mark the anniversary of this blog. This time it&#8217;s the 10th year. &#8220;My second post back in 2002&#8243;:http://www.manton.org/2002/03/ernest_kim_and_jason.html was about a panel run by 37signals. I wrote: &#8220;Ernest and Jason really get it &#8212; I hope they inspire some designers to think [&#8230;]]]></description>
+		<description><![CDATA[Every year on March 9th, as SXSW is getting started, I like to mark the anniversary of this blog. This time it&#8217;s the 10th year. &#8220;My second post back in 2002&#8221;:http://www.manton.org/2002/03/ernest_kim_and_jason.html was about a panel run by 37signals. I wrote: &#8220;Ernest and Jason really get it &#8212; I hope they inspire some designers to think [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>Every year on March 9th, as SXSW is getting started, I like to mark the anniversary of this blog. This time it&#8217;s the 10th year.</p>
-<p>&#8220;My second post back in 2002&#8243;:http://www.manton.org/2002/03/ernest_kim_and_jason.html was about a panel run by 37signals. I wrote:</p>
+<p>&#8220;My second post back in 2002&#8221;:http://www.manton.org/2002/03/ernest_kim_and_jason.html was about a panel run by 37signals. I wrote:</p>
 <blockquote><p>&#8220;Ernest and Jason really get it &#8212; I hope they inspire some designers to think about web sites in a new way, and finally start focusing on usability and page load time and cut the fancy graphics, roll-overs, and animations.&#8221;</p></blockquote>
 <p>This was a couple years before they reinvented themselves as a software company with Basecamp. As the &#8220;new Basecamp launches this week&#8221;:http://37signals.com/svn/posts/3129-launch-the-all-new-basecamp, it&#8217;s fascinating to think back on how far 37signals has come. The web is bigger now and more complex. Subscription web apps are everywhere. But I think the focus on performance that drove Jason Fried and his original co-founders to promote simple design in that SXSW panel a decade ago is still very much at the heart of what 37signals does.</p>
 ]]></content:encoded>
@@ -238,32 +278,8 @@
 			<wfw:commentRss>http://www.manton.org/2008/09/cuts_in_core.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
-		<item>
-		<title>TwitterConf 2007</title>
-		<link>http://www.manton.org/2007/03/twitterconf_2007.html</link>
-		<comments>http://www.manton.org/2007/03/twitterconf_2007.html#comments</comments>
-		<pubDate>Thu, 22 Mar 2007 05:55:56 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Events]]></category>
-		<category><![CDATA[austin]]></category>
-		<category><![CDATA[friends]]></category>
-		<category><![CDATA[sxsw]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2007/03/twitterconf_2007.html</guid>
-		<description><![CDATA[It&#8217;s been over a week since SXSW Interactive wrapped up, and I can&#8217;t bring myself to post anything interesting about it. Don&#8217;t get me wrong, I had a great time. But I missed more sessions than usual this year (I&#8217;m trying to ship software here!), skipped half the parties (Traci was sick all weekend), and [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>It&#8217;s been over a week since SXSW Interactive wrapped up, and I can&#8217;t bring myself to post anything interesting about it. Don&#8217;t get me wrong, I had a great time. But I missed more sessions than usual this year (I&#8217;m trying to ship software here!), skipped half the parties (Traci was sick all weekend), and I didn&#8217;t notice any big themes that unified the conference.</p>
-<p>Except Twitter. Which just underscores that it is about the people, and what they are doing, and being inspired.</p>
-<p>I had a great time meeting new folks and catching up with old acquaintances: talking independent Mac development with Buzz Andersen and Justin Miller; software pricing with John Gruber; Rails and cities with Jamie Stephens and Sergio Rabiela; bumping into old school Mac web guys Carl de Cordova, Raines Cohen, Bill Christensen, and Wes Felter; co-workers and former co-workers Damon Clinkscales and Ryan Irelan respectively; lunch in a pub as a storm came down with Austinites Ben and Sara Brumfield; seeing my old friend John Brauer from high school who needs to email me (hint!); and finally meeting Shaun Inman and a bunch of other people whose names I can&#8217;t recall at the moment and whose business cards are buried somewhere, but no one is quite sure where.</p>
-<p>My only regret is that there were a few people I wanted to say hi to that I literally saw from a distance on the first day of the conference and then <em>never saw again</em>. Maybe they took the wrong escalator and are still trapped in the void of that 3rd floor.</p>
-<p>Of all the kajillion SXSW posts that have come through my fresh not-even-a-beta copy of NetNewsWire, I liked &#8220;Peter Merholtz&#8217;s write-up&#8221;:http://www.peterme.com/?p=533 the best:</p>
-<blockquote><p>&#8220;What I realized, and what I need to do if I return to SXSW, is that in order to enjoy what SXSW Interactive has become (and boy, has it changed since 1999) I have to take a more Zen-like approach, ignoring all the Things I Could Be Doing, and focus on simply getting the most out of whatever I Am Doing.&#8221;</p></blockquote>
-<p>Seeya next year.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2007/03/twitterconf_2007.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.768 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2015-09-19 14:27:30 -->
+<!-- Dynamic page generated in 3.302 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-12-18 17:39:07 -->

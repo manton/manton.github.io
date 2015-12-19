@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; ipadpro</title>
+	<atom:link href="http://www.manton.org/tag/ipadpro/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Fri, 18 Dec 2015 17:56:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>Apple Pencil, for real</title>
+		<link>http://www.manton.org/2015/11/apple-pencil-for-real.html</link>
+		<comments>http://www.manton.org/2015/11/apple-pencil-for-real.html#comments</comments>
+		<pubDate>Mon, 30 Nov 2015 17:42:44 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[ipadpro]]></category>
+		<category><![CDATA[pencil]]></category>
+		<category><![CDATA[stylus]]></category>
+		<category><![CDATA[uitouch]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3206</guid>
+		<description><![CDATA[As we talk about on Core Intuition episode 208, I finally got an Apple Pencil. It&#8217;s great. My experience matches Gus Mueller&#8217;s, about how good the Apple Pencil is after years of using Wacom tablets and third-party iOS styluses: &#8220;I find that when using the HB Pencil in Procreate, I get something that is very, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>As we talk about on <a href="http://www.coreint.org/2015/11/episode-208-crazy-and-doomed-to-failure/">Core Intuition episode 208</a>, I finally got an Apple Pencil. It&#8217;s great. My experience matches <a href="http://shapeof.com/archives/2015/11/the_hype_is_real.html">Gus Mueller&#8217;s</a>, about how good the Apple Pencil is after years of using Wacom tablets and third-party iOS styluses:</p>
+<blockquote><p>
+  &#8220;I find that when using the HB Pencil in Procreate, I get something that is very, very close to what I feel when I&#8217;m drawing in my sketchbooks. But of course now I&#8217;ve got layers and many colors and a perfect eraser to work with. And endless pages. I love it.&#8221;
+</p></blockquote>
+<p>On the question of whether it&#8217;s a &#8220;stylus&#8221;, <a href="https://brooksreview.net/2015/11/pencil-2/">Ben Brooks sums it up</a> this way:</p>
+<blockquote><p>
+  &#8220;That’s the question I get asked a lot from people — my wife especially. Apple will tell you it is not a stylus because it is so much better than any other stylus, it clearly is something else. So, instead, I’ll tell you that it <em>is</em> very much a stylus — it just so happens to be the best stylus I have ever encountered on any device.&#8221;
+</p></blockquote>
+<p>I&#8217;ve also been improving the Apple Pencil support in an iPad app I&#8217;m working on. I haven&#8217;t completely finished reading <a href="http://www.russbishop.net/uitouchtypestylus">Russ Bishop&#8217;s article</a> on supporting the Apple Pencil, but looks like it has a bunch of additional tips in it that I&#8217;d benefit from. It covers not just the API changes to UITouch, but also gestures, coalescing, and predictive touches.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/11/apple-pencil-for-real.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Six Colors and the iPad Pro</title>
+		<link>http://www.manton.org/2015/11/six-colors-and-the-ipad-pro.html</link>
+		<comments>http://www.manton.org/2015/11/six-colors-and-the-ipad-pro.html#comments</comments>
+		<pubDate>Wed, 18 Nov 2015 04:33:58 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[ipad]]></category>
+		<category><![CDATA[ipadpro]]></category>
+		<category><![CDATA[keyboard]]></category>
+		<category><![CDATA[sixcolors]]></category>
+		<category><![CDATA[writing]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3185</guid>
+		<description><![CDATA[Jason Snell has posted his initial thoughts on using the iPad Pro: &#8220;What the past few days have taught me is that if I needed to switch from Mac to iPad, if I had a compelling reason, I could absolutely do it. I can edit podcasts, write articles, edit spreadsheets, generate charts and graphs, edit [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Jason Snell has posted <a href="https://sixcolors.com/post/2015/11/ipad-pro-new-tricks-for-old-dogs/">his initial thoughts on using the iPad Pro</a>:</p>
+<blockquote><p>
+  &#8220;What the past few days have taught me is that if I needed to switch from Mac to iPad, if I had a compelling reason, I could absolutely do it. I <a href="https://sixcolors.com/post/2015/11/editing-podcasts-on-ios-with-ferrite/">can edit podcasts</a>, write articles, edit spreadsheets, generate charts and graphs, edit photos, build web sites, transfer files via FTP, and more.&#8221;
+</p></blockquote>
+<p>I don&#8217;t think Jason got an Apple Pencil or Smart Keyboard, although maybe he&#8217;ll have one of each in time for his full review. If you&#8217;ve enjoyed reading Six Colors as much as I have over the last year, <a href="https://sixcolors.com/subscribe/">consider subscribing too</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/11/six-colors-and-the-ipad-pro.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Core Intuition 206</title>
+		<link>http://www.manton.org/2015/11/core-intuition-206.html</link>
+		<comments>http://www.manton.org/2015/11/core-intuition-206.html#comments</comments>
+		<pubDate>Sat, 14 Nov 2015 15:03:25 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[ipadpro]]></category>
+		<category><![CDATA[macappstore]]></category>
+		<category><![CDATA[podcast]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3173</guid>
+		<description><![CDATA[Yesterday we published episode 206 of Core Intuition. From the show notes: &#8220;Daniel returns from Amsterdam to find Mac App Store issues abound. Manton buys an iPad Pro but has to wait for the Pencil. The two discuss the Mac App Store’s 6-year failure to evolve substantially, and dig into the emotional highs and lows [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Yesterday we published <a href="http://coreint.org/206">episode 206 of Core Intuition</a>. From the show notes:</p>
+<blockquote><p>
+  &#8220;Daniel returns from Amsterdam to find Mac App Store issues abound. Manton buys an iPad Pro but has to wait for the Pencil. The two discuss the Mac App Store’s 6-year failure to evolve substantially, and dig into the emotional highs and lows of enjoying and surviving Apple’s platform constraints.&#8221;
+</p></blockquote>
+<p>I really love how this episode turned out. It hits on several themes that have run through our show since the very first episode: a little tech news, some high-level coding talk, a bit of business analysis, and wrapped up with just how we <em>feel</em> right now about being indie developers. I hope you enjoy it.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/11/core-intuition-206.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Developing for the iPad Pro</title>
+		<link>http://www.manton.org/2015/11/developing-for-the-ipad-pro.html</link>
+		<comments>http://www.manton.org/2015/11/developing-for-the-ipad-pro.html#comments</comments>
+		<pubDate>Fri, 13 Nov 2015 19:19:01 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[ipadpro]]></category>
+		<category><![CDATA[layout]]></category>
+		<category><![CDATA[macstories]]></category>
+		<category><![CDATA[tweetlibrary]]></category>
+		<category><![CDATA[uikit]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3171</guid>
+		<description><![CDATA[Let&#8217;s start with a quote from the MacStories review by Federico Viticci: &#8220;For developers, it&#8217;s time to be bold with their iOS apps and understand that they can be more than single-purpose utilities. There are millions of people who aren&#8217;t buying PCs anymore because mobile devices are their only computers.&#8221; I&#8217;ve been using the iPad [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Let&#8217;s start with a quote <a href="https://www.macstories.net/stories/ipad-pro-review/">from the MacStories review</a> by Federico Viticci:</p>
+<blockquote><p>
+  &#8220;For developers, it&#8217;s time to be bold with their iOS apps and understand that they can be more than single-purpose utilities. There are millions of people who aren&#8217;t buying PCs anymore because mobile devices are their only computers.&#8221;
+</p></blockquote>
+<p>I&#8217;ve been using the iPad Pro a lot in just the last two days. Apps that have taken advantage of the larger screen — and that support iPad multitasking well — are just much more useful. It&#8217;s great to have Slack or Tweetbot in the sidebar and a writing app in the main part of the screen. (Until Editorial is updated, <a href="http://sethclifford.me/2015/11/things-i-like-this-week-volume-15/">like Seth Clifford</a> I&#8217;ve switched to Byword.)</p>
+<p>As a developer, going from an iPad Mini to an iPad Pro has opened my eyes to what Federico says above. You simply can&#8217;t have a great iPad app today if it doesn&#8217;t attempt to fit well on the iPad Pro. So although <a href="http://www.manton.org/2014/11/winding-down-my-twitter-apps.html">I said</a> I would discontinue my app <a href="http://www.riverfold.com/software/tweetlibrary/">Tweet Library</a>, I&#8217;ve actually been spending some time this week to <em>update it</em> to support iPad multitasking.</p>
+<p>The key to iPad Pro support is actually less about auto layout (although that&#8217;s helpful too), and more about split views and size classes. For a modern app, this is an easy transition. But Tweet Library was written for iOS 4. Back then, UISplitViewController was extremely underpowered. I had used MGSplitViewController instead, which I&#8217;ve modified over the years to adapt to multiple screen sizes from the iPhone to the iPad. So the first step to real iPad multitasking was to rip out most of the split view code and start over with a clean foundation based on iOS 8/9 and UISplitViewController. Not exactly trivial work that I could knock out in a day, although I tried.</p>
+<p>I remain very optimistic about the iPad Pro, especially <a href="http://www.manton.org/2015/11/the-incomplete-ipad-pro.html">when the Apple Pencil is actually available</a>. From a business standpoint, it also seems like a better investment in time than either the Apple Watch or Apple TV. There are so many platforms and distractions now. If I can&#8217;t focus on a single platform, I want to at least be proactive in saving some attention for the iPad.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/11/developing-for-the-ipad-pro.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 1.847 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-12-18 17:11:39 -->
