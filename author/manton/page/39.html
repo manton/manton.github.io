@@ -9,13 +9,14 @@
 <html lang="en-US">
 <!--<![endif]-->
 
-<!-- Mirrored from www.manton.org/author/manton/page/39 by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 19 Dec 2015 00:40:41 GMT -->
+<!-- Mirrored from www.manton.org/author/manton/page/39 by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 06 Jan 2016 20:04:08 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width" />
 <title>manton | Manton Reece | Page 39</title>
 <link rel="profile" href="http://gmpg.org/xfn/11" />
+<link href="https://github.com/manton" rel="me" />
 <link rel="pingback" href="../../../xmlrpc.php" />
 <!--[if lt IE 9]>
 <script src="http://www.manton.org/wp-content/themes/twentytwelve/js/html5.js" type="text/javascript"></script>
@@ -41,12 +42,11 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel='stylesheet' id='twentytwelve-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&amp;subset=latin,latin-ext' type='text/css' media='all' />
 <link rel='stylesheet' id='twentytwelve-style-css'  href='../../../wp-content/themes/twentytwelve/style5b31.css?ver=4.3.1' type='text/css' media='all' />
 <!--[if lt IE 9]>
 <link rel='stylesheet' id='twentytwelve-ie-css'  href='http://www.manton.org/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
 <![endif]-->
-<link rel='stylesheet' id='jetpack_css-css'  href='../../../wp-content/plugins/jetpack/css/jetpack7e2e.css?ver=3.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='../../../wp-content/plugins/jetpack/css/jetpack3fd0.css?ver=3.8.2' type='text/css' media='all' />
 <script type='text/javascript' src='../../../wp-includes/js/jquery/jqueryc1d8.js?ver=1.11.3'></script>
 <script type='text/javascript' src='../../../wp-includes/js/jquery/jquery-migrate.min1576.js?ver=1.2.1'></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../../xmlrpc0db0.php?rsd" />
@@ -56,7 +56,7 @@ img.emoji {
 <style id="custom-css-css">#site-navigation{display:none}.site-content article{border-bottom:0;margin-bottom:1em;padding-bottom:1em;word-wrap:normal;-webkit-hyphens:none}.site-content article.format-standard{border-bottom:1px solid lightgray;margin-bottom:2em;padding-bottom:2em}.site-content article.format-status{border-bottom:1px solid #fff;margin-bottom:0;padding-bottom:0}.site-content .category-micro{padding-bottom:.1em}.entry-content blockquote{padding:.7em;font-style:normal;margin-left:30px}#colophon{display:none}.avatar{display:none}header.site-header{padding-top:24px;padding-bottom:0}h2 a{font-size:1.2em}.format-status .entry-header{margin-bottom:1em}.format-status .entry-content p{margin-bottom:0}.status_link{font-size:12px;text-decoration:none;color:gray}body{font-family:Avenir, sans-serif}footer{margin-top:0}</style>
 </head>
 
-<body class="archive paged author author-manton author-1 paged-39 author-paged-39 custom-font-enabled single-author">
+<body class="archive paged author author-manton author-1 paged-39 author-paged-39 single-author">
 <div id="page" class="hfeed site">
 	<header id="masthead" class="site-header" role="banner">
 		<hgroup>
@@ -91,6 +91,462 @@ img.emoji {
 	
 			
 										
+	<article id="post-1857" class="post-1857 post type-post status-publish format-standard hentry category-programming tag-flash tag-video tag-wiitransfer">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="../../../2008/08/flv_metadata_performance.html" rel="bookmark">FLV metadata performance</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>One of worst-kept secrets of &#8220;Wii Transfer&#8221;:http://www.riverfold.com/software/wiitransfer/ is that the movie playback is not as good as what you might see on an Apple TV, Xbox 360, or PS3. I do my best to improve the quality with every release, but let&#8217;s face it: while the Wii is perfectly capable of playing fullscreen video, it stumbles when put to that task inside the Opera web browser through Flash.</p>
+<p>In the upcoming version 2.6, I&#8217;ve added the ability to skip directly to any part of a playing movie by clicking on the timeline with the Wii remote. It was frustrating not to be able to do that in previous versions and made it difficult to watch or fast-forward through long movies.</p>
+<p>The way many Flash movie players handle skipping is by inserting metadata into the FLV file that contains a map between seconds in the timeline and file positions for the keyframes, and that&#8217;s the way Wii Transfer works as well. Unfortunately this requires rewriting the entire FLV file when post-processing movies. (&#8220;Ian Baird&#8221;:http://blog.skorpiostech.com/ suggested a future optimization would be to store the metadata separately and redo the player to send seconds instead of file offsets to the server.) I was initially using the open source flvtool2.rb to achieve this, but it was extremely slow, so I rewrote it in Objective-C. (Not a port. The Objective-C version was written from scratch and is significantly shorter than the Ruby version in terms of lines of code. It does a little bit less, but it&#8217;s optimized for exactly what Wii Transfer needs.)</p>
+<p>This chart shows the performance improvements when processing a couple large movie files. Measured in seconds, so shorter bars are better.</p>
+<p><img src="../../../images/2008/flv_chart.png" alt="FLV chart" border="0" width="506" height="143" /></p>
+<p>The other good thing that came out of all this work is that I can now look at a FLV file in a hex editor and not be totally confused. &#8220;Hex Fiend&#8221;:http://ridiculousfish.com/hexfiend/ was one of the best ways to debug what my code was doing when it failed.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="../../../category/programming.html" rel="category tag">Programming</a> and tagged <a href="../../../tag/flash.html" rel="tag">flash</a>, <a href="../../../tag/video.html" rel="tag">video</a>, <a href="../../../tag/wiitransfer.html" rel="tag">wiitransfer</a> on <a href="../../../2008/08/flv_metadata_performance.html" title="12:57 am" rel="bookmark"><time class="entry-date" datetime="2008-08-11T00:57:25+00:00">2008/08/11</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../../manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-1856" class="post-1856 post type-post status-publish format-standard hentry category-technology tag-appstore tag-iamrich tag-iphone tag-refunds">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="../../../2008/08/i_am_rich.html" rel="bookmark">I Am Rich</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>I wasn&#8217;t going to give the silly $999 &#8220;I Am Rich&#8221; iPhone application any more attention after the initial laugh, but the more that everyone reacts to what went wrong the more clear it becomes that there is something to learn here. &#8220;Kottke thinks Apple shouldn&#8217;t restrict&#8221;:http://www.kottke.org/08/08/the-1000-iphone-app based on taste; &#8220;Ryan Irelan points to no shopping cart&#8221;:http://www.ryanirelan.com/blog/entry/the-1000-iphone-app/ as the problem; &#8220;Dan Benjamin mostly agrees&#8221;:http://hivelogic.com/articles/2008/08/regarding-iphone-application-pricing but with some more analysis; and &#8220;John Gruber hits the same points&#8221;:http://daringfireball.net/linked/2008/08/07/i-am-rich and mentions (in passing) what I think is the real problem: refunds.</p>
+<p>iPhone developers have wondered for months how refunds were going to be handled. Although demo and trial versions (if added) will be used by many more customers, refunds to unhappy customers represent an extremely important part of the relationship between developer and customer. I&#8217;ve written before about &#8220;my philosophy with refunds&#8221;:http://www.manton.org/2007/02/customer.html and customer support, an opinion that is shared pretty universally in the Mac community. Just yesterday I gave a refund to a customer who purchased the software over a year ago, but apparently didn&#8217;t get around to actually using it recently and found it did not meet his needs.</p>
+<p>If there were a proper way for developers to send App Store refunds &mdash; because of unmet expectations (app crashes or doesn&#8217;t work as advertised) or accidental purchases (my son bought this without asking me) &mdash; then this issue just goes away. It doesn&#8217;t matter whether I Am Rich is worth $999 or whether the shopping cart should be an option in iTunes. The core issue is refunds because it fixes several problems at once, and removes Apple&#8217;s personal judgement about what is good or bad for iPhone users.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="../../../category/technology.html" rel="category tag">Technology</a> and tagged <a href="../../../tag/appstore.html" rel="tag">appstore</a>, <a href="../../../tag/iamrich.html" rel="tag">iamrich</a>, <a href="../../../tag/iphone.html" rel="tag">iphone</a>, <a href="../../../tag/refunds.html" rel="tag">refunds</a> on <a href="../../../2008/08/i_am_rich.html" title="1:20 pm" rel="bookmark"><time class="entry-date" datetime="2008-08-08T13:20:37+00:00">2008/08/08</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../../manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-1855" class="post-1855 post type-post status-publish format-standard hentry category-podcasts tag-bugs tag-coreint tag-thetalkshow">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="../../../2008/08/core_intuition_6.html" rel="bookmark">Core Intuition 6</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>I&#8217;ve really been neglecting this blog. I&#8217;m not sure what it is &mdash; I have plenty of posts in draft form and it&#8217;s not particularly hard to hit the &#8220;Send to Weblog&#8221; button.</p>
+<p>Speaking of people who wrote MarsEdit, our sixth episode of &#8220;Core Intuition&#8221;:http://www.coreint.org/ is out. Daniel and I spend a good chunk of the show on bug tracking, thoughts on running a software business while preparing for a new baby, staying inspired and getting distracted, and a bunch more. Plus we put out a call for good artists to contact us.</p>
+<p>We had a lot of fun with the show and I hope you enjoy listening to it. If you have feedback, send an email or &#8220;post a comment on Daniel&#8217;s blog&#8221;:http://www.red-sweater.com/blog/544/core_intuition_6.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="../../../category/podcasts.html" rel="category tag">Podcasts</a> and tagged <a href="../../../tag/bugs.html" rel="tag">bugs</a>, <a href="../../../tag/coreint.html" rel="tag">coreint</a>, <a href="../../../tag/thetalkshow.html" rel="tag">thetalkshow</a> on <a href="../../../2008/08/core_intuition_6.html" title="12:15 am" rel="bookmark"><time class="entry-date" datetime="2008-08-07T00:15:06+00:00">2008/08/07</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../../manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-1854" class="post-1854 post type-post status-publish format-standard hentry category-events tag-iphone tag-parties tag-twitter tag-wwdc">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="../../../2008/08/wwdc_2008_wrapup.html" rel="bookmark">WWDC 2008 wrap-up</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>Yes, this post is a month and a half late. I could probably just re-post &#8220;what I wrote in 2007&#8221;:http://www.manton.org/2007/06/wwdc_2007_in.html and it would almost pass for this year&#8217;s WWDC review. Just insert more iPhone and more beer.</p>
+<p>Instead of a formal write-up, I wanted to piece together the week from Twitter posts, but that proved tedious enough that I had to write a little app to help me out. I started by adding my own relevant tweets for WWDC week, then threw in a dozen people I follow and selectively picked the tweets that were significant or about events for which I didn&#8217;t directly post.</p>
+<p>So here you go. How I remembered WWDC 2008, in 95 tweets.</p>
+<p><a href="http://twitter.com/manton">manton</a>: Totally forgot about partitioning my MacBook for potential 10.6, but (surprise!) it&#8217;s still partitioned from last time. Now packing. <a href="http://twitter.com/manton/statuses/829466322" style="color: gray;">Sat 06:14 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Woke 20 minutes before my alarm. Making coffee for my taxi driver / wife. <a href="http://twitter.com/manton/statuses/829687178" style="color: gray;">Sun 03:52 AM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Migas in AUS while waiting for my plane to get here. As usual arrived way too early. <a href="http://twitter.com/manton/statuses/829746391" style="color: gray;">Sun 06:26 AM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: I brought a Wiimote with me for testing and the lights are blinking. Suddenly paranoid about Bluetooth on planes, so taking batteries out. <a href="http://twitter.com/manton/statuses/829747169" style="color: gray;">Sun 06:28 AM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: San Diego airport. Slightly delayed flight. Never been here but it looks like the worst place for a layover. <a href="http://twitter.com/manton/statuses/829863215" style="color: gray;">Sun 10:15 AM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Landed at SFO. <a href="http://twitter.com/manton/statuses/829950483" style="color: gray;">Sun 01:08 PM</a></p>
+<p><a href="http://twitter.com/willie">willie</a>: bart <a href="http://twitter.com/willie/statuses/829959220" style="color: gray;">Sun 01:25 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Still surprised to run into other devs in person. Almost adjusted from online to real world. <a href="http://twitter.com/manton/statuses/830004615" style="color: gray;">Sun 03:03 PM</a></p>
+<p><a href="http://twitter.com/duncan">duncan</a>: Bumped into <a href="http://twitter.com/willie">@willie</a> <a href="http://twitter.com/manton">@manton</a> and <a href="http://twitter.com/phi">@phi</a> Sweet!!!!! <a href="http://twitter.com/duncan/statuses/830022438" style="color: gray;">Sun 03:39 PM</a></p>
+<p><a href="http://twitter.com/dmoren">dmoren</a>: en route to sfMacIndie via Moscone West&#8230; <a href="http://twitter.com/dmoren/statuses/830067535" style="color: gray;">Sun 05:16 PM</a></p>
+<p><a href="http://twitter.com/brentsimmons">brentsimmons</a>: At Jillian&#8217;s &#8212; Tommy&#8217;s next. <a href="http://twitter.com/brentsimmons/statuses/830143187" style="color: gray;">Sun 07:45 PM</a></p>
+<p><a href="http://twitter.com/dmoren">dmoren</a>: chilling with <a href="http://twitter.com/clint">@clint</a> and <a href="http://twitter.com/ejacqui">@ejacqui</a>. I do not know where in SF they have taken me. Hope I make it to the keynote tomorrow. <a href="http://twitter.com/dmoren/statuses/830171232" style="color: gray;">Sun 08:38 PM</a></p>
+<p><a href="http://twitter.com/bmf">bmf</a>: Tommy&#8217;s&#8217;d!  <a href="http://snipurl.com/2en8i">http://snipurl.com/2en8i</a> <a href="http://twitter.com/bmf/statuses/830230969" style="color: gray;">Sun 10:47 PM</a></p>
+<p><a href="http://twitter.com/ccgus">ccgus</a>: chiefton! <a href="http://twitter.com/ccgus/statuses/830249960" style="color: gray;">Sun 11:34 PM</a></p>
+<p><a href="http://twitter.com/gruber">gruber</a>: Fucking-A, <a href="http://twitter.com/nevenmrgan">@nevenmrgan</a>, <a href="http://twitter.com/seoulbrother">@seoulbrother</a>, <a href="http://twitter.com/manton">@manton</a>, not a bad scene at all. <a href="http://twitter.com/gruber/statuses/830269227" style="color: gray;">Mon 12:21 AM</a></p>
+<p><a href="http://twitter.com/danielpunkass">danielpunkass</a>: I&#8217;m so not going to Denny&#8217;s. I am at home away from home in my sweet friends&#8217; guest room.  Final tweets then good night. <a href="http://twitter.com/danielpunkass/statuses/830320977" style="color: gray;">Mon 02:21 AM</a></p>
+<p><a href="http://twitter.com/rtmfd">rtmfd</a>: Running on fumes, tequila fumes. <a href="http://twitter.com/rtmfd/statuses/830460332" style="color: gray;">Mon 06:35 AM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Set my alarm for 9am. Woke at 7 with the sun streaming through the windows. Aeiii. <a href="http://twitter.com/manton/statuses/830505383" style="color: gray;">Mon 07:34 AM</a></p>
+<p><a href="http://twitter.com/chockenberry">chockenberry</a>: I will be happy to demo [REDACTED] apps during WWDC. You can touch it. <a href="http://twitter.com/chockenberry/statuses/830531851" style="color: gray;">Mon 08:07 AM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: And I&#8217;m in. <a href="http://twitter.com/manton/statuses/830615998" style="color: gray;">Mon 09:53 AM</a></p>
+<p><a href="http://twitter.com/moonshark">moonshark</a>: in the WWDC keynote, good view considering the crowds <a href="http://twitter.com/moonshark/statuses/830618276" style="color: gray;">Mon 09:56 AM</a></p>
+<p><a href="http://twitter.com/atomicbird">atomicbird</a>: Al Gore is here <a href="http://twitter.com/atomicbird/statuses/830624299" style="color: gray;">Mon 10:02 AM</a></p>
+<p><a href="http://twitter.com/gruber">gruber</a>: Holy shit $199 for 8GB <a href="http://twitter.com/gruber/statuses/830711083" style="color: gray;">Mon 11:48 AM</a></p>
+<p><a href="http://twitter.com/twelvelabs">twelvelabs</a>: Happy to finally get to see several months of my work shared with the rest of the world. <a href="http://twitter.com/twelvelabs/statuses/830721560" style="color: gray;">Mon 12:07 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Apple published a Snow Leopard press release before even showing developers? Not cool. <a href="http://twitter.com/manton/statuses/830786921" style="color: gray;">Mon 01:28 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Graphics and Media, don&#8217;t let us down. I&#8217;m hovering dangerously between disappointed and satisfied from this morning and early afternoon. <a href="http://twitter.com/manton/statuses/830919148" style="color: gray;">Mon 04:58 PM</a></p>
+<p><a href="http://twitter.com/brentsimmons">brentsimmons</a>: Heading for buzz&#8217;s party. <a href="http://twitter.com/brentsimmons/statuses/830987259" style="color: gray;">Mon 06:57 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Dinner and good &quot;best of the day&quot; discussion with <a href="http://twitter.com/willie">@willie</a>, <a href="http://twitter.com/moonshark">@moonshark</a>, and work folks. Heading to Buzz party. <a href="http://twitter.com/manton/statuses/831041429" style="color: gray;">Mon 08:31 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Choosing sleep. <a href="http://twitter.com/manton/statuses/831150334" style="color: gray;">Tue 12:24 AM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Forget 3G, forget GPS. You know what I would pay $199 for? Flagging messages in MobileMail. <a href="http://twitter.com/manton/statuses/831154649" style="color: gray;">Tue 12:35 AM</a></p>
+<p><a href="http://twitter.com/buzz">buzz</a>: Well, I think we can call the party a success. <a href="http://twitter.com/buzz/statuses/831158426" style="color: gray;">Tue 12:45 AM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Guessed i picked the wrong session. Mostly new people based on the show of hands. <a href="http://twitter.com/manton/statuses/831513074" style="color: gray;">Tue 10:40 AM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Session hopping is much better than seeing yet another intro to Xcode demo. <a href="http://twitter.com/manton/statuses/831532425" style="color: gray;">Tue 11:07 AM</a></p>
+<p><a href="http://twitter.com/ashponders">ashponders</a>: <a href="http://twitter.com/manton">@manton</a> is not carrying anything today. I am jealous. <a href="http://twitter.com/ashponders/statuses/831542065" style="color: gray;">Tue 11:24 AM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: iPhone view controllers. Nice thing about only playing with the SDK a little is that I&#8217;ll learn more this week. <a href="http://twitter.com/manton/statuses/831631640" style="color: gray;">Tue 01:43 PM</a></p>
+<p><a href="http://twitter.com/brentsimmons">brentsimmons</a>: CocoaHeads tonight. 7-9 Apple</p>
+<p>Store. Presentations + Q&amp;A. <a href="http://twitter.com/brentsimmons/statuses/831642031" style="color: gray;">Tue 01:59 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Almost the end of day 2, and I&#8217;m not sick of the iPhone yet. <a href="http://twitter.com/manton/statuses/831740813" style="color: gray;">Tue 04:46 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: W too busy. Grabbing quick noodles at Metreon before CocoaHeads. <a href="http://twitter.com/manton/statuses/831799181" style="color: gray;">Tue 06:30 PM</a></p>
+<p><a href="http://twitter.com/louielouie">louielouie</a>: At CocoaHeads WWDC &#8211; getting to hear about Objective-J first-hand woohoo <a href="http://twitter.com/louielouie/statuses/831819625" style="color: gray;">Tue 07:05 PM</a></p>
+<p><a href="http://twitter.com/ccgus">ccgus</a>: I just realized I didn&#8217;t demo acorn in my pres <a href="http://twitter.com/ccgus/statuses/831841921" style="color: gray;">Tue 07:45 PM</a></p>
+<p><a href="http://twitter.com/brentsimmons">brentsimmons</a>: Heading to Ars party. <a href="http://twitter.com/brentsimmons/statuses/831894138" style="color: gray;">Tue 09:21 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Good presentations at CocoaHeads. Outside full Ars party wondering what&#8217;s next. <a href="http://twitter.com/manton/statuses/831904216" style="color: gray;">Tue 09:43 PM</a></p>
+<p><a href="http://twitter.com/brentsimmons">brentsimmons</a>: Tempest. Yest. <a href="http://twitter.com/brentsimmons/statuses/831952468" style="color: gray;">Tue 11:31 PM</a></p>
+<p><a href="http://twitter.com/macdevnet">macdevnet</a>: Back from Cocoaheads and Ars Party,  I think I&#8217;m getting to old for this. Great to spend some time getting to know <a href="http://twitter.com/manton">@manton</a> though <a href="http://twitter.com/macdevnet/statuses/831973900" style="color: gray;">Wed 12:10 AM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Why can&#8217;t I sleep in? This is annoying. It&#8217;s as if my kids are here virtually, waking me up across time zones. <a href="http://twitter.com/manton/statuses/832196022" style="color: gray;">Wed 07:14 AM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Pixar session is always good, got in early. Wonder what <a href="http://twitter.com/SenorDanimal">@SenorDanimal</a> is up to. <a href="http://twitter.com/manton/statuses/832408241" style="color: gray;">Wed 12:06 PM</a></p>
+<p><a href="http://twitter.com/ccgus">ccgus</a>: I lost manton <a href="http://twitter.com/ccgus/statuses/832409404" style="color: gray;">Wed 12:08 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Push stuff is elegant, but the team doesn&#8217;t seem to understand the scale of what they are building. <a href="http://twitter.com/manton/statuses/832523085" style="color: gray;">Wed 03:04 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Grand Central Dispatch. Cool stuff. Looking forward to randomly using blocks a lot before the fun wears off. <a href="http://twitter.com/manton/statuses/832561925" style="color: gray;">Wed 04:06 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Apple Design Awards. I didn&#8217;t enter, so I&#8217;m almost relaxed. Good luck to all. <a href="http://twitter.com/manton/statuses/832683095" style="color: gray;">Wed 07:33 PM</a></p>
+<p><a href="http://twitter.com/willie">willie</a>: At ADA. We didnt enter because our lack of superfluous shiny technologies <a href="http://twitter.com/willie/statuses/832685683" style="color: gray;">Wed 07:37 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Congrats to <a href="http://twitter.com/nevenmrgan">@nevenmrgan</a> on the ADA win! <a href="http://twitter.com/manton/statuses/832704774" style="color: gray;">Wed 08:09 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Twitterific won! Congrats <a href="http://twitter.com/chockenberry">@chockenberry</a>, well deserved. <a href="http://twitter.com/manton/statuses/832707582" style="color: gray;">Wed 08:14 PM</a></p>
+<p><a href="http://twitter.com/atomicbird">atomicbird</a>: Best iPhone productivity app: OmniFocus <a href="http://twitter.com/atomicbird/statuses/832708565" style="color: gray;">Wed 08:15 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Going to stay for at least part of Stump to support <a href="http://twitter.com/willie">@willie</a>&#8216;s addiction. <a href="http://twitter.com/manton/statuses/832728408" style="color: gray;">Wed 08:50 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: I don&#8217;t usually sit this close to the front. Scared. <a href="http://twitter.com/manton/statuses/832736737" style="color: gray;">Wed 09:05 PM</a></p>
+<p><a href="http://twitter.com/willie">willie</a>: Involved in 2 stump points for the crowd this year. Rock. James Brown and the Quadra 840av. <a href="http://twitter.com/willie/statuses/832771891" style="color: gray;">Wed 10:15 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: A surprising number of people I know are winning Stump t-shirts this year. <a href="http://twitter.com/manton/statuses/832777809" style="color: gray;">Wed 10:28 PM</a></p>
+<p><a href="http://twitter.com/brentsimmons">brentsimmons</a>: At chieftain. 5th and Howard. <a href="http://twitter.com/brentsimmons/statuses/832786727" style="color: gray;">Wed 10:47 PM</a></p>
+<p><a href="http://twitter.com/brentsimmons">brentsimmons</a>: Tempest now, folks. <a href="http://twitter.com/brentsimmons/statuses/832844759" style="color: gray;">Thu 01:02 AM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Using the iPod dock in the hotel room. Strange, but the first time I&#8217;ve actually ever used a radio dock. Sounds good! <a href="http://twitter.com/manton/statuses/833078042" style="color: gray;">Thu 07:57 AM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Wish there were Apple t-shirt sizes between kids 7 and adult small. Preferably in pink. <a href="http://twitter.com/manton/statuses/833163270" style="color: gray;">Thu 09:48 AM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Sitting in on Advanced Ajax for a change of pace. <a href="http://twitter.com/manton/statuses/833187042" style="color: gray;">Thu 10:20 AM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Typing lyrics into Google on iPhone to expand my WWDC music playlist. <a href="http://twitter.com/manton/statuses/833194080" style="color: gray;">Thu 10:29 AM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: <a href="http://twitter.com/atomicbird">@atomicbird</a> Tom Dowdy. It was a great tribute. <a href="http://twitter.com/manton/statuses/833198801" style="color: gray;">Thu 10:36 AM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Wasn&#8217;t going to see Dinosaurs, but intrigued after hearing a better description. <a href="http://twitter.com/manton/statuses/833274403" style="color: gray;">Thu 12:26 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Just passed <a href="http://twitter.com/schwa">@schwa</a> talking enthusiastically to a trash can. Then noticed the earbuds. <a href="http://twitter.com/manton/statuses/833391515" style="color: gray;">Thu 03:34 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Debugging with WebKit session. Inspector just keeps getting better. Still like CSSEdit, buy may use it less. <a href="http://twitter.com/manton/statuses/833407538" style="color: gray;">Thu 04:01 PM</a></p>
+<p><a href="http://twitter.com/danmessing">danmessing</a>: Apple bash time. <a href="http://twitter.com/danmessing/statuses/833501356" style="color: gray;">Thu 06:48 PM</a></p>
+<p><a href="http://twitter.com/gruber">gruber</a>: Thirsty Bear with Buzz Andersen and other malfeasants. <a href="http://twitter.com/gruber/statuses/833571459" style="color: gray;">Thu 09:05 PM</a></p>
+<p><a href="http://twitter.com/buzz">buzz</a>: Drinking a Golden Vanilla beer with assorted Mac noteables at the Thirsty Bear. <a href="http://twitter.com/buzz/statuses/833577181" style="color: gray;">Thu 09:16 PM</a></p>
+<p><a href="http://twitter.com/willie">willie</a>: Barenaked Ladies &#8211; <a href="http://snaptweet.com/20fd8">http://snaptweet.com/20fd8</a> &lt;a href=&#8221;http://twitter.com/wi</p>
+<p>llie/statuses/833603172&#8243; style=&#8221;color: gray;&#8221;>Thu 10:09 PM</a></p>
+<p><a href="http://twitter.com/moonshark">moonshark</a>: Bare Naked Ladies &#8211; Apple WWDC Bash &#8211; <a href="http://snaptweet.com/3d7d5">http://snaptweet.com/3d7d5</a> <a href="http://twitter.com/moonshark/statuses/833604083" style="color: gray;">Thu 10:11 PM</a></p>
+<p><a href="http://twitter.com/dmoren">dmoren</a>: totally just film-geeked out with <a href="http://twitter.com/nevenmrgan">@nevenmrgan</a>. Hitchcock, bitches. <a href="http://twitter.com/dmoren/statuses/833655550" style="color: gray;">Thu 11:23 PM</a></p>
+<p><a href="http://twitter.com/brentsimmons">brentsimmons</a>: Heading to Tempest. <a href="http://twitter.com/brentsimmons/statuses/833669620" style="color: gray;">Thu 11:56 PM</a></p>
+<p><a href="http://twitter.com/danielpunkass">danielpunkass</a>: Tempest tonight was perfect crowd. Could have used several more hours of that scenario. &#8216;Tis a shame. <a href="http://twitter.com/danielpunkass/statuses/833735259" style="color: gray;">Fri 02:27 AM</a></p>
+<p><a href="http://twitter.com/bmf">bmf</a>: Dan M. wrote the &quot;e&quot; and ate the shit out of some toast. <a href="http://twitter.com/bmf/statuses/833750445" style="color: gray;">Fri 03:01 AM</a></p>
+<p><a href="http://twitter.com/danielpunkass">danielpunkass</a>: I got my ride home thanks to <a href="http://twitter.com/manton">@manton</a>&#8216;s cab allowance. Thanks! <a href="http://twitter.com/danielpunkass/statuses/833753030" style="color: gray;">Fri 03:06 AM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Last WWDC session. It&#8217;s been a great week but can&#8217;t wait to be home. <a href="http://twitter.com/manton/statuses/834195760" style="color: gray;">Fri 01:58 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Dropped my badge at the hotel and going to wonder around. To everyone I missed saying goodbye to: safe travels and seeya next time! <a href="http://twitter.com/manton/statuses/834243580" style="color: gray;">Fri 03:17 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: <a href="http://twitter.com/brentsimmons">@brentsimmons</a> <a href="http://twitter.com/rtmfd">@rtmfd</a> I&#8217;m going to take a raincheck on last drinks until the next conference, need to go shopping. Was good to hang out. <a href="http://twitter.com/manton/statuses/834251030" style="color: gray;">Fri 03:30 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: The Ms Pac-man in the W lobby doesn&#8217;t need quarters. Fun. <a href="http://twitter.com/manton/statuses/834258211" style="color: gray;">Fri 03:43 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Visiting the Cartoon Art Museum. <a href="http://twitter.com/manton/statuses/834269211" style="color: gray;">Fri 04:04 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Walking to Chinatown in search of gifts. <a href="http://twitter.com/manton/statuses/834313339" style="color: gray;">Fri 05:24 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Walking back to the hotel using the longest possible route. Feel very relaxed. <a href="http://twitter.com/manton/statuses/834335957" style="color: gray;">Fri 06:08 PM</a></p>
+<p><a href="http://twitter.com/duncan">duncan</a>: Taking <a href="http://twitter.com/willie">@willie</a> <a href="http://twitter.com/manton">@manton</a> <a href="http://twitter.com/phi">@phi</a> Daniel and crew to Luce. Oh yeah. Celebration of a long week. <a href="http://twitter.com/duncan/statuses/834362558" style="color: gray;">Fri 07:01 PM</a></p>
+<p><a href="http://twitter.com/willie">willie</a>: dining with <a href="http://twitter.com/pinar">@pinar</a> <a href="http://twitter.com/duncan">@duncan</a> <a href="http://twitter.com/moonshark">@moonshark</a> <a href="http://twitter.com/manton">@manton</a> &amp; others. Good times. <a href="http://twitter.com/willie/statuses/834373474" style="color: gray;">Fri 07:23 PM</a></p>
+<p><a href="http://twitter.com/willie">willie</a>: Pantade &#8211; <a href="http://snaptweet.com/dc8bd">http://snaptweet.com/dc8bd</a> <a href="http://twitter.com/willie/statuses/834381917" style="color: gray;">Fri 07:41 PM</a></p>
+<p><a href="http://twitter.com/willie">willie</a>: Bisque &#8211; <a href="http://snaptweet.com/d901c">http://snaptweet.com/d901c</a> <a href="http://twitter.com/willie/statuses/834381923" style="color: gray;">Fri 07:41 PM</a></p>
+<p><a href="http://twitter.com/ccgus">ccgus</a>: A great WWDC photo set: <a href="http://tinyurl.com/5rtwpu">http://tinyurl.com/5rtwpu</a> <a href="http://twitter.com/ccgus/statuses/834407793" style="color: gray;">Fri 08:33 PM</a></p>
+<p><a href="http://twitter.com/willie">willie</a>: Study of Chocolate &#8211; <a href="http://snaptweet.com/04f07">http://snaptweet.com/04f07</a> <a href="http://twitter.com/willie/statuses/834411384" style="color: gray;">Fri 08:41 PM</a></p>
+<p><a href="http://twitter.com/danielpunkass">danielpunkass</a>: I&#8217;m committing to never beat myself up again for missing lots of sessions at WWDC.  The social contacts are priceless and inspirational. <a href="http://twitter.com/danielpunkass/statuses/834440697" style="color: gray;">Fri 09:45 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Great dinner with the work folks + <a href="http://twitter.com/duncan">@duncan</a>, <a href="http://twitter.com/pinarozger">@pinarozger</a>, and Daniel Steinberg (no twit?). <a href="http://twitter.com/willie">@willie</a> has the food photos. <a href="http://twitter.com/manton/statuses/834450863" style="color: gray;">Fri 10:08 PM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: And that&#8217;s it. Catching a taxi to SFO. WWDC review: worst keynote, best conference week. <a href="http://twitter.com/manton/statuses/834629607" style="color: gray;">Sat 06:27 AM</a></p>
+<p><a href="http://twitter.com/manton">manton</a>: Landed in Austin. Pretty funny flight crew made the trip back easier. <a href="http://twitter.com/manton/statuses/834853749" style="color: gray;">Sat 01:31 PM</a></p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="../../../category/events.html" rel="category tag">Events</a> and tagged <a href="../../../tag/iphone.html" rel="tag">iphone</a>, <a href="../../../tag/parties.html" rel="tag">parties</a>, <a href="../../../tag/twitter.html" rel="tag">twitter</a>, <a href="../../../tag/wwdc.html" rel="tag">wwdc</a> on <a href="../../../2008/08/wwdc_2008_wrapup.html" title="10:03 am" rel="bookmark"><time class="entry-date" datetime="2008-08-02T10:03:37+00:00">2008/08/02</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../../manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-1853" class="post-1853 post type-post status-publish format-standard hentry category-podcasts tag-coreint tag-editing tag-jalkut tag-wwdc">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="../../../2008/06/second_episode.html" rel="bookmark">Second episode</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>&#8220;Daniel Jalkut&#8221;:http://www.red-sweater.com/blog/504/core-intuition-traveling-luddites and I just posted the 2nd episode of &#8220;Core Intuition&#8221;:http://www.coreint.org/. I&#8217;m not sure which is a bigger milestone: starting the podcast to begin with or sticking with it for at least two shows. I think the podcast is coming together well and the feedback we&#8217;ve received so far backs that up.</p>
+<p>This episode feels a bit more content heavy than the previous one. We talked about what it&#8217;s like to work while traveling, tech books and some thoughts on the 3rd edition of Cocoa Programming by Aaron Hillegass, and then dedicated most of the last half to distributed version control systems such as Git. Even though it is just days before WWDC, we only touched on WWDC indirectly. I expect there will be enough to talk about after next week to fill more than a few shows.</p>
+<p>Editing the show continues to be a challenge but it&#8217;s so rewarding, just being able to slowly craft the episode from the recordings. You tell a little lie every time you tweak the original source audio, but hopefully the end product feels more authentic or at least fresh. It makes me appreciate even more the work Ryan does on &#8220;The Talk Show&#8221;:http://www.thetalkshow.net/. Our goal is to improve the quality each episode until we reach a point we are happy with, so if you have any feedback I&#8217;d love to hear it. After WWDC I&#8217;m going to invest in some real headphones. I was shocked how different the show sounds between my speakers, cheap headphones, and iPhone.</p>
+<p>If you haven&#8217;t subscribed yet, you can now find the &#8220;listing on iTunes&#8221;:http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=281777685 and get it synced to your iPod or iPhone in just a few clicks. Enjoy!</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="../../../category/podcasts.html" rel="category tag">Podcasts</a> and tagged <a href="../../../tag/coreint.html" rel="tag">coreint</a>, <a href="../../../tag/editing.html" rel="tag">editing</a>, <a href="../../../tag/jalkut.html" rel="tag">jalkut</a>, <a href="../../../tag/wwdc.html" rel="tag">wwdc</a> on <a href="../../../2008/06/second_episode.html" title="10:10 pm" rel="bookmark"><time class="entry-date" datetime="2008-06-05T22:10:48+00:00">2008/06/05</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../../manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-1852" class="post-1852 post type-post status-publish format-standard hentry category-podcasts tag-coreint tag-jalkut tag-podcast">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="../../../2008/05/core_intuition.html" rel="bookmark">Core Intuition</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>Like many new tech endeavors for 2008, it was &#8220;announced first on Twitter&#8221;:http://twitter.com/danielpunkass/statuses/823571610. Core Intuition is a new podcast from Daniel Jalkut and me, with a focus on the daily life of a Mac developer and whatever related subjects are going through our heads. There was so little time between the &#8220;let&#8217;s do it&#8221; idea to recording and edit and web site and &#8220;Twitter account&#8221;:http://twitter.com/coreint that I might not have believed it actually happened if I had blinked, but &#8220;here it is&#8221;:http://www.coreint.org/. Expect the traditional iTunes page, blog, and other formalities to follow soon.</p>
+<p>&#8220;Daniel&#8217;s blog post&#8221;:http://www.red-sweater.com/blog/500/core-intuition has more on the announcement. He also has comments enabled, so feel free to jump over there and post feedback, unless it&#8217;s the angry, negative kind of feedback in which case please send a private email to &#8220;feedback@coreint.org&#8221;:mailto:feedback@coreint.org. :-)</p>
+<p>Thanks for listening. We&#8217;ll be doing these regularly so please subscribe in iTunes if you want to catch the next episodes.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="../../../category/podcasts.html" rel="category tag">Podcasts</a> and tagged <a href="../../../tag/coreint.html" rel="tag">coreint</a>, <a href="../../../tag/jalkut.html" rel="tag">jalkut</a>, <a href="../../../tag/podcast.html" rel="tag">podcast</a> on <a href="../../../2008/05/core_intuition.html" title="4:04 pm" rel="bookmark"><time class="entry-date" datetime="2008-05-30T16:04:03+00:00">2008/05/30</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../../manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-1851" class="post-1851 post type-post status-publish format-standard hentry category-programming tag-codes tag-friend tag-twitter tag-wii">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="../../../2008/05/wii_friend_codes.html" rel="bookmark">Wii friend codes from Twitter</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>As most Nintendo Wii owners know by now, Mario Kart for Wii shipped last week. I put together yet another friend code database to track and share codes, but this one is unique because it builds on Twitter. Just follow &#8220;@wii&#8221;:http://twitter.com/wii and send your friend code in a reply. No registration, no data entry. All your friends on Twitter who also use the system will automatically be linked, so you can quickly get a view of which friend codes to add. It&#8217;s also a great way to discover new Twitter users.</p>
+<p>I&#8217;m pretty happy with how the implementation has worked out. It&#8217;s build on essentially three background scripts:</p>
+<ul>
+<li>Parsing replies every minute looking for the friend code pattern (1234-1234-1234 for game codes, with dashes or spaces).</p>
+</li>
+<li>
+<p>Taking queued users and pulling everyone they are following into the database.</p>
+</li>
+<li>
+<p>Generating and caching the RSS feed for recently tweeted friend codes.</p>
+</li>
+</ul>
+<p>The system currently only pulls the first 300 followers, but it&#8217;s running smoothly enough that I will bump that up to 500 this week. Over 150 people are currently using it, and the database has about 10,000 records to keep track of friends. I feel like it&#8217;s architected well enough to grow significantly from here, so I may do some casual promotion of the service this week.</p>
+<p>If you own a Wii and use Twitter, &#8220;give it a try&#8221;:http://wiitransfer.com/codes/. If you have any questions or feature requests, please send me an email or reply on Twitter. Enjoy!</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="../../../category/programming.html" rel="category tag">Programming</a> and tagged <a href="../../../tag/codes.html" rel="tag">codes</a>, <a href="../../../tag/friend.html" rel="tag">friend</a>, <a href="../../../tag/twitter.html" rel="tag">twitter</a>, <a href="../../../tag/wii.html" rel="tag">wii</a> on <a href="../../../2008/05/wii_friend_codes.html" title="10:32 pm" rel="bookmark"><time class="entry-date" datetime="2008-05-04T22:32:52+00:00">2008/05/04</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../../manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-1850" class="post-1850 post type-post status-publish format-standard hentry category-technology tag-flip tag-video">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="../../../2008/04/flip_ultra.html" rel="bookmark">Flip Ultra</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>I first heard of the &#8220;Flip&#8221;:http://www.theflip.com/products_flip_ultra.shtml a few months ago, but it wasn&#8217;t until &#8220;this 37signals post&#8221;:http://www.37signals.com/svn/posts/923-the-flip-takes-13-of-the-camcorder-market-by-doing-less that I started paying attention. I was attracted to the simplicity of the video camera: few buttons, decent quality, and kid-proof design. Here is my mini-review.</p>
+<p><b>Speed</b>. This is where the Flip shines. It is compact enough to take anywhere, and simple enough that you can take it out of your pocket and start shooting video in seconds. I&#8217;ve already shot way more video than I would with my traditional DV camcorder.</p>
+<p><b>Battery</b>. It runs on two AA batteries. I was able to record a ton of video before replacing them, accumulating 3 GB of files over several weeks. This is unheard of compared to any other still camera or video camera I&#8217;ve owned.</p>
+<p><b>Transfer</b>. The Flip saves as the Xvid flavor of MPEG-4, which is not supported natively by QuickTime. Luckily a quick &#8220;Perian install&#8221;:http://www.perian.org/ later and you can view and edit them in QuickTime Player or any app that supports QuickTime. Just mount the camera and copy them over, or convert to H.264 with something like VisualHub. The &#8220;Wii Transfer 2.6&#8221;:http://www.riverfold.com/software/wiitransfer/beta/ beta also supports Xvid to convert and share to your Wii.</p>
+<p><b>Quality</b>. I wanted to do a side-by-side comparison with Motion JPEG used on most digital still cameras, but this isn&#8217;t a video hardware review site so an in-depth analysis is beyond the scope of what I need or have expertise in. To my eyes it looks pretty good though. Make sure to get the Ultra, not the regular Flip Video which has a lower bitrate.</p>
+<p><b>Complaints</b>. You need to give the power slider and record buttons some real pressure, and on a few occasions I&#8217;ve clicked record only to realize 1 minute later that it didn&#8217;t start. I understand that the designers didn&#8217;t want us turning it on or recording unintentionally, but this negates some of the speed advantage mentioned above.</p>
+<p>In a nutshell: The Flip isn&#8217;t for everyone, but at just $140 it&#8217;s hard to argue with its strengths. I take it everywhere now. One pocket for iPhone, one pocket for Flip.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="../../../category/technology.html" rel="category tag">Technology</a> and tagged <a href="../../../tag/flip.html" rel="tag">flip</a>, <a href="../../../tag/video.html" rel="tag">video</a> on <a href="../../../2008/04/flip_ultra.html" title="8:07 am" rel="bookmark"><time class="entry-date" datetime="2008-04-24T08:07:46+00:00">2008/04/24</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../../manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-1849" class="post-1849 post type-post status-publish format-standard hentry category-business tag-transfer tag-wii">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="../../../2008/04/wii_transfer_serial.html" rel="bookmark">Wii Transfer serial numbers</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>The search phrase &#8220;wii transfer serial numbers&#8221; (or &#8220;wii transfer serials&#8221;) is consistently one of the top referrers from Google to this blog, usually pointing to &#8220;my post about the first 75 days&#8221;:http://www.manton.org/2007/02/first_75_days.html. I figure I get enough traffic that I should dedicate a page to this. (I&#8217;m the developer, by the way.)</p>
+<p>Here are the best ways to get Wii Transfer:</p>
+<ul>
+<li>&#8220;Buy a copy&#8221;:http://www.riverfold.com/software/wiitransfer/! Just $19. Simple checkout with PayPal and you&#8217;ll get an automatic email within minutes.</p>
+</li>
+<li>
+<p>Write a review for a blog or magazine. &#8220;Email me&#8221;:mailto:support@riverfold.com first and I&#8217;ll give you a full license, even if it&#8217;s just your personal blog.</p>
+</li>
+<li>
+<p>Become a &#8220;beta tester&#8221;:http://www.riverfold.com/software/wiitransfer/beta/. From time to time, I need people to test the latest in-progress features. Free copy if you send any useful feedback on a beta.</p>
+</li>
+</ul>
+<p>Thanks for your support! I hope one of these options appeals to you.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="../../../category/business.html" rel="category tag">Business</a> and tagged <a href="../../../tag/transfer.html" rel="tag">transfer</a>, <a href="../../../tag/wii.html" rel="tag">wii</a> on <a href="../../../2008/04/wii_transfer_serial.html" title="8:57 am" rel="bookmark"><time class="entry-date" datetime="2008-04-23T08:57:34+00:00">2008/04/23</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../../manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-1848" class="post-1848 post type-post status-publish format-standard hentry category-politics tag-democrats tag-hillary tag-obama tag-politics-2">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="../../../2008/04/unite_the_party.html" rel="bookmark">Unite the Party</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>After Hillary won Ohio, Texas, and Rhode Island last month, I decided it was time to think less about actively supporting my own candidate, who clearly wasn&#8217;t going away, and more about the future of the Democratic Party and what it would take to come together when a nominee is chosen. I had been quick to defend Hillary on Twitter and in blog comments, but the more I considered the close race and the long month until the next primary in Pennsylvania, now finally here, the more convinced I became that a joint ticket is the answer to a unified party.</p>
+<p>Rather than bicker with my friends who support Obama, I changed my tone to emphasize our shared values and launched a new site: &#8220;unitetheparty.com&#8221;:http://www.unitetheparty.com/. I&#8217;ve been posting there regularly since March, and hope to build a group of like-minded Democrats to write on this topic, as well as a list of supporters who want to see a joint ticket happen.</p>
+<p>Thinking about the endgame of the race in this context provides an excellent backdrop for discussing the real issues important to voters. There&#8217;s still an opportunity to use these campaigns for good: setting the right tone against McCain and bringing awareness of the Democratic agenda to everyone.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="../../../category/politics.html" rel="category tag">Politics</a> and tagged <a href="../../../tag/democrats.html" rel="tag">democrats</a>, <a href="../../../tag/hillary.html" rel="tag">hillary</a>, <a href="../../../tag/obama.html" rel="tag">obama</a>, <a href="../../../tag/politics-2.html" rel="tag">politics</a> on <a href="../../../2008/04/unite_the_party.html" title="11:06 pm" rel="bookmark"><time class="entry-date" datetime="2008-04-21T23:06:20+00:00">2008/04/21</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../../manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-1847" class="post-1847 post type-post status-publish format-standard hentry category-animation tag-animation-2 tag-ollie">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="../../../2008/04/ollie_johnston.html" rel="bookmark">Ollie Johnston</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>Last week Traci asked me if I had heard about the animator who had died. Now of the 220 feeds I subscribe to in NetNewsWire, a full 60 of those are in a group called &#8220;Animation and Comics&#8221;, so I should have heard about any news from a variety of artist blogs or industry sources. But I&#8217;ve had my head down working on a number of programming projects &#8212; both Rails and Cocoa and just keeping up with the never-ending flood of email and Basecamp messages &#8212; so that NetNewsWire group was closed, and I was sadly ignorant.</p>
+<p>My first question to her: &#8220;Was it Ollie?&#8221;</p>
+<p>And of course it was. Ollie Johnston passed away at the age of 95, the last of Disney&#8217;s &#8220;Nine Old Men&#8221;. See the <a href="http://www.cartoonbrew.com/disney/ollie-johnston-1912-2008">epic Cartoon Brew post</a> for more. I had <a href="../../../2004/09/frank_thomas_passes.html">blogged about the death of his friend Frank Thomas</a> in 2004, and <a href="../../../2002/07/ward_kimball_one.html">also of colleague Ward Kimball</a> in 2002.</p>
+<p>For those who don&#8217;t know me very well, and even many who do, I&#8217;ll let you in on a little secret. One day my boss is going to wonder why I don&#8217;t answer his emails, and it will be because I&#8217;ve thrown the computer in the trash, set my USB devices on fire, and returned to the first passion of my life.</p>
+<p>Sure, I have an old-school animation desk (<a href="http://www.flickr.com/photos/manton/36599819/">old office 2005</a> and <a href="http://www.flickr.com/photos/manton/1558857105/">new office this year</a>, next to <a href="http://www.flickr.com/photos/manton/2265209824/">computer stuff</a>) and a bunch of paper and sharpened pencils to play with. Sure, I&#8217;ll still always love building software, designing user interfaces, and am grateful for the friends I have at work and in the Mac development community. Sure, I can&#8217;t support a family and giant mortgage doing silly portraits on the street corner.</p>
+<p>But damn it. Ollie Johnston died.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="../../../category/animation.html" rel="category tag">Animation</a> and tagged <a href="../../../tag/animation-2.html" rel="tag">animation</a>, <a href="../../../tag/ollie.html" rel="tag">ollie</a> on <a href="../../../2008/04/ollie_johnston.html" title="8:59 am" rel="bookmark"><time class="entry-date" datetime="2008-04-21T08:59:24+00:00">2008/04/21</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../../manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-1846" class="post-1846 post type-post status-publish format-standard hentry category-business tag-beta tag-maclife tag-magazine tag-transfer tag-wii">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="../../../2008/04/maclife_writeup_and.html" rel="bookmark">MacLife write-up and Wii Transfer beta</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p><img src="../../../images/2008/maclife.png" alt="MacLife" border="0" width="200" height="256" hspace="10" align="left" style="border: solid 1px lightgray;" /> Wii Transfer has a full-page mini-tutorial in the May edition of &#8220;MacLife magazine&#8221;:http://www.maclife.com/, as part of a section on connecting your Mac to video game consoles. I finally &#8220;picked up a copy&#8221;:http://twitter.com/manton/statuses/792260641 last night. It was certainly a nice surprise and seems to have brought a small increase in sales.</p>
+<p>I&#8217;ve also been wrapping up the next version of Wii Transfer, which hopefully smoothes over most of the rough spots in the current release. After sending beta copies to a few customers, I&#8217;m opening up a &#8220;new forums section&#8221;:http://www.riverfold.com/forums/ as an experiment in getting early builds out without a more formal public beta. (It&#8217;s not linked from the main site yet, but will be soon.) Every developer handles betas in a different way, but I like the balance Jesse at &#8220;Hog Bay Software&#8221;:http://www.hogbaysoftware.com/ has achieved between his released software page and the early builds and developer notes in the forums section, for those customers willing to dig a little bit below the surface.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="../../../category/business.html" rel="category tag">Business</a> and tagged <a href="../../../tag/beta.html" rel="tag">beta</a>, <a href="../../../tag/maclife.html" rel="tag">maclife</a>, <a href="../../../tag/magazine.html" rel="tag">magazine</a>, <a href="../../../tag/transfer.html" rel="tag">transfer</a>, <a href="../../../tag/wii.html" rel="tag">wii</a> on <a href="../../../2008/04/maclife_writeup_and.html" title="12:29 am" rel="bookmark"><time class="entry-date" datetime="2008-04-20T00:29:00+00:00">2008/04/20</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../../manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-1845" class="post-1845 post type-post status-publish format-standard hentry category-programming category-user_experience tag-fancy tag-norbauer tag-pants tag-performance tag-productivity tag-rails">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="../../../2008/03/fancypants_productivity.html" rel="bookmark">Fancy-pants productivity</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>There are a few things in this post by &#8220;Ryan Norbauer&#8221;:http://notrocketsurgery.com/articles/2008/02/26/mention-in-wired-piece-on-37signals (via 37signals) that bother me. One is this idea that &#8220;code is meant to be read by humans first and computers only secondarily&#8221;. I understand what he is getting at, but even though I respect new advances in productivity, we have to be very careful to keep our core priorities. There&#8217;s a word for when the balance shifts away from the user and more to us as programmers: selfishness.</p>
+<p>Imagine two programs: one is ugly and hard to read, but it compiles and is bug-free; the other is beautiful and readable, and it also compiles and is bug-free. To the user they are identical. They both succeed.</p>
+<p>Now take those two and give them both identical beauty and readability, but accidentally break one so that it either does not compile or runs so horribly buggy and slow that it is useless to everyone. Writing code for other programmers to read isn&#8217;t enough. You have to start with code that works before you get all fancy-pants.</p>
+<p>This growing trend to raise beautiful code and programmer productivity above the performance or functionality of the final product is dangerous. The final product is what counts. Not how you build it, but what you&#8217;ve built: how it scales, how it performs, how it solves a particular problem.</p>
+<p>And sure, there are many times when I write slow, lazy code that doesn&#8217;t work well. But that&#8217;s a compromise you make when you have to meet a deadline, or because you aren&#8217;t sure how to optimize yet, not because you start out by deprecating user experience. If you believe Ryan, it sounds like there is a whole &#8220;movement&#8221; of programmers who toss any potential performance achievements out the window before they even get started.</p>
+<p>You can say that great products are complex, and so you need to focus attention on how the software is built and maintained. That is true. When I ported a large application from Carbon to Cocoa a few years ago I made the decision to do so because of future productivity.</p>
+<p>You can say that happy programmers create high-quality products. That is also true. When I am feeling most productive I am usually enjoying myself because the work environment I&#8217;m in is encouraging.</p>
+<p>But don&#8217;t put the <em>practice</em> of software development above the actual result, because to do so means you care more about writing code than solving problems.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="../../../category/programming.html" rel="category tag">Programming</a>, <a href="../../../category/user_experience.html" rel="category tag">User Experience</a> and tagged <a href="../../../tag/fancy.html" rel="tag">fancy</a>, <a href="../../../tag/norbauer.html" rel="tag">norbauer</a>, <a href="../../../tag/pants.html" rel="tag">pants</a>, <a href="../../../tag/performance.html" rel="tag">performance</a>, <a href="../../../tag/productivity.html" rel="tag">productivity</a>, <a href="../../../tag/rails.html" rel="tag">rails</a> on <a href="../../../2008/03/fancypants_productivity.html" title="12:38 pm" rel="bookmark"><time class="entry-date" datetime="2008-03-14T12:38:09+00:00">2008/03/14</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../../manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-1844" class="post-1844 post type-post status-publish format-standard hentry category-programming tag-iphone tag-nda tag-sdk">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="../../../2008/03/iphone_sdk_and.html" rel="bookmark">iPhone SDK and NDAs</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>&#8220;Craig Hockenberry half-joked on Twitter&#8221;:http://twitter.com/chockenberry/statuses/770543005 about the iPhone SDK non-disclosure agreement and it reminded me of one of my personal annoyances in the development community: we tend to take NDAs very seriously. I&#8217;ve always been impressed by how Scott Stevenson in particular can write thoughtful articles about Mac software development that go out of their way to tiptoe around unannounced APIs. In his &#8220;latest excellent introduction&#8221;:http://theocacao.com/document.page/558 to the iPhone SDK, there are no less than 3 mentions of the NDA in the original post and comments:</p>
+<blockquote><p>&#8220;Until that time, the SDK is under NDA and the apps cannot be distributed to the general public.&#8221; (Scott Stevenson)</p></blockquote>
+<blockquote><p>&#8220;The iPhone SDK is very well done (can&#8217;t say more because of the NDA)&#8221; (Florent Pillet)</p></blockquote>
+<blockquote><p>&#8220;To answer without getting into NDA stuff, let&#8217;s talk about Mac OS X in general.&#8221; (Scott Stevenson)</p></blockquote>
+<p>I&#8217;ve also been hit by this community-killer. At WWDC last year I posted to Twitter about new .Mac features and it remains the only tweet I have ever deleted. I had this sudden paranoia that conference staff would kick me out of Moscone and revoke my ADC account. Silly.</p>
+<p>But let&#8217;s look at reality. Over 100,000 people have downloaded the SDK. This couldn&#8217;t be more different than WWDC, which effectively encourages discussion only while in San Francisco by requiring an investment of at minimum $2-3k between conference, hotels, food, and travel. The SDK by comparison is totally free to download.</p>
+<p>Put simply, how can Apple expect us to take an NDA seriously while at the same time they spread the applications and documentation covered under this NDA to every corner of the Mac universe?</p>
+<p>I&#8217;m not a lawyer, but this one seems legally ridiculous. There are a few issues handled by the license:</p>
+<ul>
+<li>Don&#8217;t distribute apps created with the beta SDK. That&#8217;s fine, because there&#8217;s no good way to do that anyway and giving everyone a level &#8220;June launch&#8221; playing field makes sense for both Apple and developers.</p>
+</li>
+<li>
+<p>Don&#8217;t rip-off Apple&#8217;s ideas and use them in your own phone before the SDK ships. That&#8217;s also fine, because I don&#8217;t care about other phones and generally think Apple already has a insurmountable development platform advantage.</p>
+</li>
+<li>
+<p>Don&#8217;t talk about confidential capabilities of the SDK. This is the one I have problems with, because I question if something can be considered confidential if it is shared with 100,000 people.</p>
+</li>
+</ul>
+<p>For years Mac developers have asked Apple for an official, closed mailing list to discuss APIs still under NDA. Maybe things would be different now if Apple hadn&#8217;t refused that request, but with a release as mainstream as the iPhone SDK it&#8217;s too late to try to control the conversation. I expect a healthy discussion of APIs and business practices to happen on blogs and Twitter and IRC and email, and that&#8217;s how it should be.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="../../../category/programming.html" rel="category tag">Programming</a> and tagged <a href="../../../tag/iphone.html" rel="tag">iphone</a>, <a href="../../../tag/nda.html" rel="tag">nda</a>, <a href="../../../tag/sdk.html" rel="tag">sdk</a> on <a href="../../../2008/03/iphone_sdk_and.html" title="12:21 am" rel="bookmark"><time class="entry-date" datetime="2008-03-13T00:21:01+00:00">2008/03/13</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../../manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-1843" class="post-1843 post type-post status-publish format-standard hentry category-comics category-events tag-art-2 tag-austin tag-comics-2 tag-indie tag-staple">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="../../../2008/03/staple_in_austin.html" rel="bookmark">STAPLE! in Austin today (year 4)</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>Like independent comics and art? &#8220;STAPLE! is in Austin today&#8221;:http://www.staple-austin.org/ at the Monarch Event Center, off I-35 and 2222. I&#8217;ve been on the STAPLE! planning committee for four years now and have enjoyed watching our little show grow from its humble beginnings, but it&#8217;s still a completely non-profit, volunteer-led endeavor and we need your support to make it a success. Come join us anytime between 11am and 7pm (or &#8220;check the schedule&#8221;:http://www.staple-austin.org/guests/ for our featured session times), and then come back downtown later tonight for the after-party and live-art show at Red&#8217;s Scoot Inn (&#8220;flyer&#8221;:http://www.staple-austin.org/promote/staple2008_afterparty.jpg).</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="../../../category/comics.html" rel="category tag">Comics</a>, <a href="../../../category/events.html" rel="category tag">Events</a> and tagged <a href="../../../tag/art-2.html" rel="tag">art</a>, <a href="../../../tag/austin.html" rel="tag">austin</a>, <a href="../../../tag/comics-2.html" rel="tag">comics</a>, <a href="../../../tag/indie.html" rel="tag">indie</a>, <a href="../../../tag/staple.html" rel="tag">staple</a> on <a href="../../../2008/03/staple_in_austin.html" title="9:30 am" rel="bookmark"><time class="entry-date" datetime="2008-03-01T09:30:41+00:00">2008/03/01</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../../manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-1842" class="post-1842 post type-post status-publish format-standard hentry category-podcasts tag-clinton tag-election tag-hillary tag-kids tag-politics-2">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="../../../2008/02/hillary_podcast.html" rel="bookmark">Hillary podcast</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>About once a year I like to put together a podcast episode around a theme, and this weekend that subject is Hillary Clinton. I think I&#8217;ve prepared it with fairness and respect, so even if you disagree please do the same. It&#8217;s both a personal expression and a way of capturing a moment.</p>
+<p>&raquo; <a href="../../../audio/2008/Hillary.mp3">Download</a> (MP3, 6.2MB)</p>
+<p>&raquo; <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=190005619">Subscribe in iTunes</a></p>
+<p>It&#8217;s about 13 minutes long. Enjoy.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="../../../category/podcasts.html" rel="category tag">Podcasts</a> and tagged <a href="../../../tag/clinton.html" rel="tag">clinton</a>, <a href="../../../tag/election.html" rel="tag">election</a>, <a href="../../../tag/hillary.html" rel="tag">hillary</a>, <a href="../../../tag/kids.html" rel="tag">kids</a>, <a href="../../../tag/politics-2.html" rel="tag">politics</a> on <a href="../../../2008/02/hillary_podcast.html" title="6:23 pm" rel="bookmark"><time class="entry-date" datetime="2008-02-18T18:23:03+00:00">2008/02/18</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../../manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-1841" class="post-1841 post type-post status-publish format-standard hentry category-programming tag-c4 tag-delicious tag-indie tag-mac">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="../../../2008/02/dont_give_up.html" rel="bookmark">Don&#8217;t give up, shipping takes time</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>I love the passion in &#8220;this comment from Wil Shipley&#8221;:http://theocacao.com/comment/5466:</p>
+<blockquote><p>&#8220;This app is all I&#8217;m working on. My entire reputation, my 25 years in the industry, my company is all riding on this release. I&#8217;m not going to just suddenly give up one day for no reason.&#8221;</p></blockquote>
+<p>I&#8217;m one of those people who will upgrade to &#8220;Delicious Library&#8221;:http://www.delicious-monster.com/ 2 on the first day and I know I won&#8217;t be disappointed. Although my indie app has a tiny fraction of the users Delicious has, I&#8217;m currently going through the same kind of delays.</p>
+<p>After months of quick, focused &#8220;Wii Transfer&#8221;:http://www.riverfold.com/software/wiitransfer/ releases, I decided in November to skip a minor bug fix release and roll up all the outstanding issues into a bigger release with several important user interface improvements. You reach a point in this process where there is no turning back, and for every refinement to the product you see just how much more you could do. I think it&#8217;s that kind of constant, iterative polishing that Wil is going through now.</p>
+<p>If you are curious about the business of software development, don&#8217;t miss his &#8220;talk from C4&#8221;:http://www.viddler.com/explore/rentzsch/videos/4/ last year. In many ways I&#8217;m glad it took so long for the videos to go up; I&#8217;ve already forgotten half of the content so it will be fun to review the sessions.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="../../../category/programming.html" rel="category tag">Programming</a> and tagged <a href="../../../tag/c4.html" rel="tag">c4</a>, <a href="../../../tag/delicious.html" rel="tag">delicious</a>, <a href="../../../tag/indie.html" rel="tag">indie</a>, <a href="../../../tag/mac.html" rel="tag">mac</a> on <a href="../../../2008/02/dont_give_up.html" title="3:44 pm" rel="bookmark"><time class="entry-date" datetime="2008-02-09T15:44:03+00:00">2008/02/09</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../../manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
 	<article id="post-1840" class="post-1840 post type-post status-publish format-standard hentry category-animation category-politics tag-animation-2 tag-baxter tag-catmull tag-election tag-podcasts-2 tag-politics-2">
 				<header class="entry-header">
 			
@@ -149,348 +605,6 @@ img.emoji {
 		
 		<footer class="entry-meta">
 			This entry was posted in <a href="../../../category/technology.html" rel="category tag">Technology</a> and tagged <a href="../../../tag/apple.html" rel="tag">apple</a>, <a href="../../../tag/benjamin.html" rel="tag">benjamin</a>, <a href="../../../tag/gruber.html" rel="tag">gruber</a>, <a href="../../../tag/macworld.html" rel="tag">macworld</a>, <a href="../../../tag/tablet.html" rel="tag">tablet</a>, <a href="../../../tag/wacom.html" rel="tag">wacom</a> on <a href="../../../2008/01/give_us_a.html" title="10:31 am" rel="bookmark"><time class="entry-date" datetime="2008-01-15T10:31:56+00:00">2008/01/15</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../../manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
-	</article><!-- #post -->
-							
-	<article id="post-1837" class="post-1837 post type-post status-publish format-standard hentry category-business tag-free tag-indie tag-netnewswire tag-software">
-				<header class="entry-header">
-			
-						<h1 class="entry-title">
-				<a href="../../../2008/01/new_and_old-2.html" rel="bookmark">New and old posts about NetNewsWire</a>
-			</h1>
-								</header><!-- .entry-header -->
-
-				<div class="entry-content">
-			<p>&#8220;NetNewsWire is free&#8221;:http://inessential.com/?comments=1&amp;postid=3461 (congrats again Brent!) and reaction is coming in from other indie developers.</p>
-<p>&#8220;Rory Prior&#8221;:http://www.thinkmac.co.uk/blog/2008/01/scorched-earth.html: &#8220;It&#8217;s hard to compete with a product that&#8217;s as well known and frankly as good as NNW, it&#8217;s damn near impossible to compete with it when it&#8217;s free.&#8221;</p>
-<p>&#8220;Paul Kafasis&#8221;:http://www.rogueamoeba.com/utm/posts/Article/NNWFree-2008-01-09-19-00.html: &#8220;When something is given away for free, its perceived value is lowered. If software is treated as valueless, it becomes much, much harder to sell.&#8221;</p>
-<p>Ultimately I don&#8217;t think it&#8217;s going to have a significant negative impact as far as devaluating other software (except of course other news readers) because most people paying attention should connect that it supports Newsgator&#8217;s core business model. But rather than debate the issue I searched my archives to see what else I had said about the product. It must be one of the most-blogged-about apps ever, right? I&#8217;m limiting it to 1 post per year.</p>
-<p>2002: &#8220;Moving to NetNewsWire&#8221;:http://www.manton.org/2002/09/moving_to_netnewswire.html</p>
-<p>2003: &#8220;NetNewsWire as a platform&#8221;:http://www.manton.org/2003/03/netnewswire_as_a.html</p>
-<p>2004: &#8220;Google and the great apps to come&#8221;:http://www.manton.org/2004/12/google_and_the_great.html</p>
-<p>2005: &#8220;Tabs are a hack&#8221;:http://www.manton.org/2005/05/tabs_are_a_hack.html</p>
-<p>2006: &#8220;Time for thinking&#8221;:http://www.manton.org/2006/07/time_for.html</p>
-<p>2007: &#8220;New software releases (plus screencast)&#8221;:http://www.manton.org/2007/06/new_software_releases.html</p>
-<p>2008: &#8220;New and old posts about NetNewsWire&#8221;:http://www.manton.org/2008/01/new_and_old.html (you&#8217;re reading it!)</p>
-					</div><!-- .entry-content -->
-		
-		<footer class="entry-meta">
-			This entry was posted in <a href="../../../category/business.html" rel="category tag">Business</a> and tagged <a href="../../../tag/free.html" rel="tag">free</a>, <a href="../../../tag/indie.html" rel="tag">indie</a>, <a href="../../../tag/netnewswire.html" rel="tag">netnewswire</a>, <a href="../../../tag/software.html" rel="tag">software</a> on <a href="../../../2008/01/new_and_old-2.html" title="1:29 pm" rel="bookmark"><time class="entry-date" datetime="2008-01-11T13:29:26+00:00">2008/01/11</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../../manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
-	</article><!-- #post -->
-							
-	<article id="post-1836" class="post-1836 post type-post status-publish format-standard hentry category-books tag-amazon tag-dan tag-iphone tag-kindle tag-willie">
-				<header class="entry-header">
-			
-						<h1 class="entry-title">
-				<a href="../../../2008/01/more_on_kindle.html" rel="bookmark">More on Kindle</a>
-			</h1>
-								</header><!-- .entry-header -->
-
-				<div class="entry-content">
-			<p>I received a lot of feedback after &#8220;I first wrote about the Kindle&#8221;:http://www.manton.org/2007/11/kindle.html, so here&#8217;s an update. I admit I&#8217;m still trying to understand the device; it has not immediately fallen into a spot in my routine the way the iPod and iPhone did.</p>
-<p>&#8220;Dan Benjamin&#8221;:http://www.hivelogic.com/ pointed out that it&#8217;s wrong to compare the Kindle and iPhone because they are two completely separate kinds of devices, and that&#8217;s true. But the fact remains that Amazon could have partnered with AT&amp;T and required a monthly fee for connectivity. Instead they chose to eat that cost to provide a seamless user experience.</p>
-<p>&#8220;Willie Abrams&#8221;:http://willie.tumblr.com/ bought a Kindle and then returned it, unhappy with both the contrast on the device and the slow page turns. As I pointed out in my original post, the page turns are annoying, but they won&#8217;t ruin the device for most people.</p>
-<p>&#8220;Andy Ihnatko&#8221;:http://ihnatko.com/ wrote glowingly about the Kindle and spoke at length on MacBreak Weekly about the free wireless and adequate web browser. Personally I have found the web browser to be extremely poor and the slow refresh inappropriate for modern, interactive sites. I didn&#8217;t even realize it came with a browser when I ordered it, though, so I consider it a nice bonus.</p>
-<p>When I left town to take a week and a half holiday road trip with my family, I decided to leave the Kindle at home. After all, I already had my MacBook, iPhone, Nintendo DS, and a hardback book that would easily fill the week. The Kindle is small but it would just be wasted clutter in my backpack.</p>
-<p>This turned out to be a mistake. For one, I had spotty Edge coverage in middle-of-nowhere West Texas, and it would have been an interesting experiment to see how the Kindle&#8217;s EVDO faired in other cities. But more importantly, while checking blogs someone recommended a book that I was interested in. I clicked through to Amazon and noticed that it was available in Kindle format. It would have been the perfect opportunity to buy it and start reading right away.</p>
-<p>That is what the Kindle brings to the table. The hardware design is not an improvement over the Sony Reader (the Kindle&#8217;s keyboard remains a definite mistake), but the integration with Amazon and the convenient downloads from anywhere are both well implemented. I think Amazon has a history of tinkering in public view (home page design, shipping experiments), and the Kindle is no exception. They&#8217;re no doubt already working on version 2.</p>
-					</div><!-- .entry-content -->
-		
-		<footer class="entry-meta">
-			This entry was posted in <a href="../../../category/books.html" rel="category tag">Books</a> and tagged <a href="../../../tag/amazon.html" rel="tag">amazon</a>, <a href="../../../tag/dan.html" rel="tag">dan</a>, <a href="../../../tag/iphone.html" rel="tag">iphone</a>, <a href="../../../tag/kindle.html" rel="tag">kindle</a>, <a href="../../../tag/willie.html" rel="tag">willie</a> on <a href="../../../2008/01/more_on_kindle.html" title="7:20 am" rel="bookmark"><time class="entry-date" datetime="2008-01-11T07:20:15+00:00">2008/01/11</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../../manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
-	</article><!-- #post -->
-							
-	<article id="post-1835" class="post-1835 post type-post status-publish format-standard hentry category-programming tag-dhh tag-dreamhost tag-potionstore tag-rails tag-riverfold tag-ruby">
-				<header class="entry-header">
-			
-						<h1 class="entry-title">
-				<a href="../../../2008/01/rails_on_shared.html" rel="bookmark">Rails on shared hosts</a>
-			</h1>
-								</header><!-- .entry-header -->
-
-				<div class="entry-content">
-			<p>&#8220;David Heinemeier Hansson writes in detail&#8221;:http://www.loudthinking.com/posts/21-the-deal-with-shared-hosts on the problems with Rails in shared hosts:</p>
-<blockquote><p>&#8220;Most Rails contributors are not big users of shared hosting and they tend to work on problems or enhancements that&#8217;ll benefit their own usage of the framework. You don&#8217;t have to have a degree in formal logic to deduce that work to improve life on shared hosting is not exactly a top priority for these people, myself included.&#8221;</p></blockquote>
-<p>Although I&#8217;ve been building Rails apps for a couple years, and will continue to do so, I made the choice with &#8220;Riverfold&#8221;:http://www.riverfold.com/ to go PHP-only so that I could deploy on inexpensive shared hosts and easily move my sites. Fact is, you need to dedicate a significant portion of your time to being a system administrator if you run a Rails site.</p>
-<p>I find the general &#8220;we don&#8217;t owe you anything&#8221; attitude in the Rails community off-putting. What it means is quite simple: Rails is not a product, despite what it might look like when you &#8220;visit the web site&#8221;:http://www.rubyonrails.com/. This is fine and consistent with the opinionated nature of Rails (which from a design perspective is what makes Rails excellent), but it also means that features like backwards compatibility are not just ignored but actively discouraged. The message this sends is that the core team values their own personal productivity over the productivity of the general Rails userbase.</p>
-<p>Also, make no mistake, the performance questions surrounding Rails are directly related to the web shared host issue. Rails can&#8217;t be hosted in the same way that PHP is hosted because it takes so long for a Rails application to be initialized, requiring dedicated long-running app instances and an ever-changing array of &#8220;best practice&#8221; solutions starting with mod_ruby to FCGI to Mongrel to &#8220;Thin&#8221;:http://code.macournoyer.com/thin/.</p>
-<p>My friends and &#8220;co-workers&#8221;:http://www.vitalsource.com/ are no doubt sick of me bashing Rails (see &#8220;this post on the priorities of the community&#8221;:http://www.manton.org/2007/09/rails_and_mac_dev.html), but I still admire Rails and do want to see these problems solved. I would love to use &#8220;PotionStore&#8221;:http://www.potionfactory.com/potionstore to power the Riverfold site, or to base my registration database and sales tracking in Rails.</p>
-					</div><!-- .entry-content -->
-		
-		<footer class="entry-meta">
-			This entry was posted in <a href="../../../category/programming.html" rel="category tag">Programming</a> and tagged <a href="../../../tag/dhh.html" rel="tag">dhh</a>, <a href="../../../tag/dreamhost.html" rel="tag">dreamhost</a>, <a href="../../../tag/potionstore.html" rel="tag">potionstore</a>, <a href="../../../tag/rails.html" rel="tag">rails</a>, <a href="../../../tag/riverfold.html" rel="tag">riverfold</a>, <a href="../../../tag/ruby.html" rel="tag">ruby</a> on <a href="../../../2008/01/rails_on_shared.html" title="8:52 am" rel="bookmark"><time class="entry-date" datetime="2008-01-10T08:52:11+00:00">2008/01/10</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../../manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
-	</article><!-- #post -->
-							
-	<article id="post-1834" class="post-1834 post type-post status-publish format-standard hentry category-politics tag-election tag-hillary tag-obama">
-				<header class="entry-header">
-			
-						<h1 class="entry-title">
-				<a href="../../../2008/01/why_i_support.html" rel="bookmark">Why I support Hillary</a>
-			</h1>
-								</header><!-- .entry-header -->
-
-				<div class="entry-content">
-			<p>Obama is passionate, thoughtful, centrist enough for broad appeal, and a brilliant speaker. If he&#8217;s the nominee I&#8217;ll support him fully with every bit of strength I have. There is something special about him, and it comes around rarely in a candidate.</p>
-<p>&#8220;Dave Winer wrote&#8221;:http://www.scripting.com/stories/2008/01/08/gluedToTheTv.html: &#8220;Obama, like Carter in 1976, may be our pennance for having re-elected Bush in 2004. We&#8217;re taking the medicine we deserve for having been crazy enough to re-elect someone who was so bad for us.&#8221;</p>
-<p>But what about Hillary? She&#8217;s part of the establishment, and I volunteered heavily for the Howard Dean campaign. Could I support someone as traditional as Hillary? As &#8220;Mike Cohen said&#8221;:http://mcdevzone.com/2008/01/08/bad-news-from-new-hampshire: &#8220;I oppose her very strongly, not only because of all the baggage she brings, but for her anti-progressive record.&#8221;</p>
-<p>And yet.</p>
-<p>&#8220;I posted to Twitter&#8221;:http://twitter.com/manton/statuses/578006692 on election night that something had changed between the Iowa vote and New Hampshire: Hillary had found her voice, and it surprised me. Turns out she knows what is at stake. I always knew she was a fighter; after 2000 and 2004, we need the Democrats to show some backbone again. But I think she&#8217;s been underestimated even more deeply than that, in her ability to speak to the core Democratic base while drawing upon her new experience and record in the Senate that most people aren&#8217;t familiar with yet.</p>
-<p>And then there is the woman factor. Some people will say this matters but they don&#8217;t really understand unless they have daughters of their own, daughters who will grow up and become teenagers, the defining moment of their lives, during a woman presidency. This is both personal and huge and it could spread like wildfire. For me, it tips the balance.</p>
-<p>My family is throwing its support &mdash; our money for donations, our phones for getting out the vote, and our voice &mdash; behind Hillary. Thank you New Hampshire for making this a real primary election again.</p>
-					</div><!-- .entry-content -->
-		
-		<footer class="entry-meta">
-			This entry was posted in <a href="../../../category/politics.html" rel="category tag">Politics</a> and tagged <a href="../../../tag/election.html" rel="tag">election</a>, <a href="../../../tag/hillary.html" rel="tag">hillary</a>, <a href="../../../tag/obama.html" rel="tag">obama</a> on <a href="../../../2008/01/why_i_support.html" title="9:08 am" rel="bookmark"><time class="entry-date" datetime="2008-01-09T09:08:59+00:00">2008/01/09</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../../manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
-	</article><!-- #post -->
-							
-	<article id="post-1833" class="post-1833 post type-post status-publish format-standard hentry category-business tag-business-2 tag-christmas tag-macsanta tag-sales tag-wiitransfer">
-				<header class="entry-header">
-			
-						<h1 class="entry-title">
-				<a href="../../../2007/12/macsanta_2007_in.html" rel="bookmark">MacSanta 2007 in time for Christmas</a>
-			</h1>
-								</header><!-- .entry-header -->
-
-				<div class="entry-content">
-			<p>Wii Transfer&#8217;s featured day for &#8220;MacSanta&#8221;:http://www.macsantadeals.com/ starts at midnight tonight, but I&#8217;ve already rolled out the coupon code. Because I&#8217;m still using simple PayPal &#8220;Buy Now&#8221; buttons, I hacked together a little custom coupon field just for MacSanta (based on a simple JavaScript trick posted to the MacSB list). I tried to come up with a clear interface even though there isn&#8217;t a traditional online store, because it just doesn&#8217;t make sense to spend time on a full store for only one product. (Plus, look at that cute MacSanta logo! Aww.)</p>
-<p>Here&#8217;s a screenshot &#8220;from the web site&#8221;:http://www.riverfold.com/software/wiitransfer/ after you&#8217;ve redeemed a code:</p>
-<p><img src="../../../images/2007/macsanta_coupon.png" alt="MacSanta coupon" border="0" width="270" height="145" style="border: 1px solid lightgray;" /></p>
-<p>On Friday the discount drops to a respectable 10% off for the rest of the month. Happy holidays!</p>
-					</div><!-- .entry-content -->
-		
-		<footer class="entry-meta">
-			This entry was posted in <a href="../../../category/business.html" rel="category tag">Business</a> and tagged <a href="../../../tag/business-2.html" rel="tag">business</a>, <a href="../../../tag/christmas.html" rel="tag">christmas</a>, <a href="../../../tag/macsanta.html" rel="tag">macsanta</a>, <a href="../../../tag/sales.html" rel="tag">sales</a>, <a href="../../../tag/wiitransfer.html" rel="tag">wiitransfer</a> on <a href="../../../2007/12/macsanta_2007_in.html" title="5:23 pm" rel="bookmark"><time class="entry-date" datetime="2007-12-19T17:23:31+00:00">2007/12/19</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../../manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
-	</article><!-- #post -->
-							
-	<article id="post-1832" class="post-1832 post type-post status-publish format-standard hentry category-business tag-business-2 tag-giveaway tag-shipping tag-wii tag-wiitransfer">
-				<header class="entry-header">
-			
-						<h1 class="entry-title">
-				<a href="../../../2007/12/wrapping_up_the.html" rel="bookmark">Wrapping up the Wii Giveaway</a>
-			</h1>
-								</header><!-- .entry-header -->
-
-				<div class="entry-content">
-			<p><a href="http://www.flickr.com/photos/75816553@N00/2122143656" title="View 'Sending away second Wii' on Flickr.com"><img src="http://farm3.static.flickr.com/2106/2122143656_43fcf52440_s.jpg" alt="Sending away second Wii" border="0" width="75" height="75" align="right" vspace="5" hspace="5" style="border: 1px solid lightgray;" /></a> After sitting on a shelf in my office for 2 months, unopened and unloved, I finally shipped off the Nintendo Wii today to the lucky winner. I was initially worried because he didn&#8217;t respond until well into the second day after I notified him, but he was pretty excited (&#8220;You&#8217;ve made my holiday&#8221;) and I&#8217;m glad it could ship out before Christmas. The picture here is in the car before I went into the UPS store to fill the box with peanuts.</p>
-<p>The promotion took a surprising amount of effort, but it was fun and definitely worthwhile. There were a total of 2447 unique submissions (1925 for the email form, and 522 from Twitter). Of those, over 1/3 agreed to sign up for my annual Riverfold Software newsletter. I consider that alone a success, although until I look at the stats more closely it&#8217;s not clear what percentage of potential-customers are actually using Macs. My &#8220;Wii Twitter account&#8221;:http://twitter.com/wii also doubled to about 300 followers.</p>
-<p>Although sales were initially flat, both &#8220;TUAW&#8221;:http://www.tuaw.com/2007/12/05/wii-transfer-maker-giving-away-a-wii/ and &#8220;Ars Technica&#8221;:http://arstechnica.com/journals/apple.ars/2007/12/06/win-a-wii-to-go-with-your-wii-transfer-for-mac ran nice stories on the promotion. I also &#8220;wrote a press release&#8221;:http://riverfold.com/software/wiitransfer/press/giveaway.html, with the idea of hitting some of the bigger gaming sites for the second week of the contest. In the end I decided not to, because I wanted to focus on Mac users, and because frankly there were plenty of submissions and I was burned out on the process.</p>
-<p>The contest easily paid for itself, but the extra sales really weren&#8217;t that significant. I have a database that tracks referrers through to the actual purchase, so I noticed an increase of only about 10-20 copies out of the 100 sales for the month so far. Part of that is no doubt the catch-22 of giving away hardware that is required for your software product, but I know that long-term there will be a benefit to the wider exposure.</p>
-<p>Mistakes? I should have made the whole promotion last just a day or two, and hyped it before launching instead. I also should have required that Twitter users follow Wii before entering, which would have boosted those followers and also greatly simplified tracking submissions (replies were spread over 3 RSS feeds and 33 iChat log transcripts). Relatively minor complaints, though, overall.</p>
-<p>To everyone who provided feedback on the idea, thanks. Maybe next year I&#8217;ll implement some of the more interesting promotion ideas I heard.</p>
-					</div><!-- .entry-content -->
-		
-		<footer class="entry-meta">
-			This entry was posted in <a href="../../../category/business.html" rel="category tag">Business</a> and tagged <a href="../../../tag/business-2.html" rel="tag">business</a>, <a href="../../../tag/giveaway.html" rel="tag">giveaway</a>, <a href="../../../tag/shipping.html" rel="tag">shipping</a>, <a href="../../../tag/wii.html" rel="tag">wii</a>, <a href="../../../tag/wiitransfer.html" rel="tag">wiitransfer</a> on <a href="../../../2007/12/wrapping_up_the.html" title="11:41 pm" rel="bookmark"><time class="entry-date" datetime="2007-12-18T23:41:52+00:00">2007/12/18</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../../manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
-	</article><!-- #post -->
-							
-	<article id="post-1831" class="post-1831 post type-post status-publish format-standard hentry category-business category-video_games tag-business-2 tag-games tag-giveaway tag-wii tag-wiitransfer">
-				<header class="entry-header">
-			
-						<h1 class="entry-title">
-				<a href="../../../2007/12/holiday_wii_giveaway.html" rel="bookmark">Holiday Wii Giveaway and Twitter</a>
-			</h1>
-								</header><!-- .entry-header -->
-
-				<div class="entry-content">
-			<p>A few months ago I was in Target and they had some Wiis in stock, so on an impulse I bought one. I&#8217;ve owned a Wii since launch day, but I had this idea to give one away for Christmas as an experiment to help promote Wii Transfer. I sat on the idea for a while, listened to feedback from others, and finally &#8220;rolled it out this morning&#8221;:http://www.riverfold.com/software/wiitransfer/giveaway/ with two methods to enter: web form (with field to notify a friend about the giveaway) and via Twitter (by sending a reply to @wii).</p>
-<p>Unfortunately there was a major snag with the Twitter idea. It turns out that @wii replies won&#8217;t show up in my Replies tab (or RSS feed) in Twitter unless the user posting the tweet is already following &#8220;twitter.com/wii&#8221;:http://twitter.com/wii. I now regret not making that a requirement, but I also know that it would have hurt the simplicity of entering via Twitter.</p>
-<p>So what&#8217;s the solution? For now, a combination of things. I am now tracking every tweet that contains &#8220;wii&#8221; (try it, there are some fun ones), which I will aggregate with the standard replies as well as results from a search on &#8220;Terraminds&#8221;:http://terraminds.com/twitter/ to fill in any of the tweets I missed. It&#8217;s all a bit cumbersome because the tracking results come through IM (luckily iChat transcripts are XML now).</p>
-<p>It feels very fragile, but hopefully I won&#8217;t miss any entries. There&#8217;s no cost to submitting multiple times, so consider sending another @wii tweet next week or entering with the web form to guarantee you&#8217;re in the drawing. If in doubt, re-read the &#8220;last line on the fine print&#8221;:http://www.riverfold.com/software/wiitransfer/giveaway/.</p>
-					</div><!-- .entry-content -->
-		
-		<footer class="entry-meta">
-			This entry was posted in <a href="../../../category/business.html" rel="category tag">Business</a>, <a href="../../../category/video_games.html" rel="category tag">Video Games</a> and tagged <a href="../../../tag/business-2.html" rel="tag">business</a>, <a href="../../../tag/games.html" rel="tag">games</a>, <a href="../../../tag/giveaway.html" rel="tag">giveaway</a>, <a href="../../../tag/wii.html" rel="tag">wii</a>, <a href="../../../tag/wiitransfer.html" rel="tag">wiitransfer</a> on <a href="../../../2007/12/holiday_wii_giveaway.html" title="11:18 pm" rel="bookmark"><time class="entry-date" datetime="2007-12-04T23:18:04+00:00">2007/12/04</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../../manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
-	</article><!-- #post -->
-							
-	<article id="post-1830" class="post-1830 post type-post status-publish format-standard hentry category-books tag-amazon tag-books-2 tag-kindle tag-vitalsource">
-				<header class="entry-header">
-			
-						<h1 class="entry-title">
-				<a href="../../../2007/11/kindle.html" rel="bookmark">Kindle</a>
-			</h1>
-								</header><!-- .entry-header -->
-
-				<div class="entry-content">
-			<p>All we do at &#8220;VitalSource&#8221;:http://www.vitalsource.com/ is e-books, from working with publishers on converting their content to our format, to managing the delivery of digital files and building the web-based infrastructure to support it, and finally to designing and coding the Mac and Windows applications for reading and annotating books. My &#8220;Kindle&#8221;:http://www.amazon.com/Kindle-Amazons-Wireless-Reading-Device/dp/B000FI73MA arrived on Tuesday, the day after it was released, and here are my initial thoughts after using it over the Thanksgiving weekend.</p>
-<p><em>Out-of-box experience.</em> Amazon really nailed the first-use experience. The Kindle came in a nice box and was pre-configured with my Amazon account. No syncing or setup necessary; you can start reading books immediately.</p>
-<p><em>Screen.</em> If you haven&#8217;t seen an e-ink device &mdash; actually held one in your hands, like the Sony Reader &mdash; don&#8217;t bother &#8220;reviewing&#8221; it. The iPhone screen is beautiful and I would love to have a small Mac tablet, something even a little bigger than the Kindle, but for reading books, nothing beats e-ink. It&#8217;s in a whole different class, and this is one of the areas where the Kindle shines. (It says a lot that the first FAQ item in the Kindle manual is about how the screen &#8220;flicker&#8221; when flipping pages is normal, though. It&#8217;s a little distracting but not a show-stopper.)</p>
-<p><em>Connectivity.</em> Amazon has been innovating with free shipping for years, so in a way it&#8217;s perfectly consistent to also offer free wireless connectivity. As a long-time Apple fan, I&#8217;m a little disappointed that Amazon is the one innovating with service plans, while Apple is stuck in the past with service contracts and high monthly fees with silly text message caps. I pay about $80/month for the privilege of using my iPhone; with the Kindle, I pay only for purchased content.</p>
-<p><em>Purchasing.</em> You can buy books from Amazon on your computer or from the Kindle itself, and I&#8217;ve tried both. My first purchase was using Safari on my Mac, and less than a minute later the book &#8220;magically&#8221; appeared on my Kindle. Again, no cables or sync necessary; the Kindle notices a book purchase and downloads it wirelessly.</p>
-<p><em>Hardware.</em> It couldn&#8217;t all be good news, could it? The button design is where the Kindle just falls on its face, and it&#8217;s bad news for both major areas of the device: the keyboard and the page navigation buttons. I just don&#8217;t see how they justified taking up so much room for the keyboard, because in truth you almost never need to use it. For the page buttons, try handing someone a Kindle for the first time and the first thing they do is accidentally hit next or previous page. It takes a while to train yourself on the best way to hold the Kindle.</p>
-<p>There are other things I could say &mdash; about DRM (unavoidable) or emailing documents to the device (clever) or the book cover (clunky) &mdash; but I want to keep this short. Despite it&#8217;s flaws, the Kindle is a good device, and it goes beyond being the first usable e-book reader to offer seamless purchasing and book delivery from Amazon&#8217;s large selection. It&#8217;s not as polished a 1.0 as the iPhone release was, but it&#8217;s a solid offering and more innovative in some ways. I&#8217;m looking forward to both reading books on it as a user and experimenting with ways to get other content on the device as a developer.</p>
-					</div><!-- .entry-content -->
-		
-		<footer class="entry-meta">
-			This entry was posted in <a href="../../../category/books.html" rel="category tag">Books</a> and tagged <a href="../../../tag/amazon.html" rel="tag">amazon</a>, <a href="../../../tag/books-2.html" rel="tag">books</a>, <a href="../../../tag/kindle.html" rel="tag">kindle</a>, <a href="../../../tag/vitalsource.html" rel="tag">vitalsource</a> on <a href="../../../2007/11/kindle.html" title="9:10 am" rel="bookmark"><time class="entry-date" datetime="2007-11-26T09:10:41+00:00">2007/11/26</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../../manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
-	</article><!-- #post -->
-							
-	<article id="post-1829" class="post-1829 post type-post status-publish format-standard hentry category-personal tag-dog tag-scully">
-				<header class="entry-header">
-			
-						<h1 class="entry-title">
-				<a href="../../../2007/11/scully_1997_2007.html" rel="bookmark">Scully, 1997 &#8211; 2007</a>
-			</h1>
-								</header><!-- .entry-header -->
-
-				<div class="entry-content">
-			<p><img src="../../../images/2007/scully.jpg" alt="Scully" border="0" width="640" height="480" style="border: solid 1px lightgray" /></p>
-					</div><!-- .entry-content -->
-		
-		<footer class="entry-meta">
-			This entry was posted in <a href="../../../category/personal.html" rel="category tag">Personal</a> and tagged <a href="../../../tag/dog.html" rel="tag">dog</a>, <a href="../../../tag/scully.html" rel="tag">scully</a> on <a href="../../../2007/11/scully_1997_2007.html" title="9:01 pm" rel="bookmark"><time class="entry-date" datetime="2007-11-11T21:01:01+00:00">2007/11/11</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../../manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
-	</article><!-- #post -->
-							
-	<article id="post-1828" class="post-1828 post type-post status-publish format-standard hentry category-technology tag-android tag-google tag-personas tag-stevenf tag-wiitransfer">
-				<header class="entry-header">
-			
-						<h1 class="entry-title">
-				<a href="../../../2007/11/android_and_getting.html" rel="bookmark">Android and getting real</a>
-			</h1>
-								</header><!-- .entry-header -->
-
-				<div class="entry-content">
-			<p>&#8220;Steven Frank&#8221;:http://stevenf.com/2007/11/try_again.php on Google&#8217;s phone announcement:</p>
-<blockquote><p>&#8220;Find someone, ONE person, with a unique vision. Lock them in a room with some programmers and a graphic designer. Twenty people, tops. Change the world. Quit re-hashing the same old bullshit and telling me it&#8217;s new, exciting, or in any way innovative. Be ready to fail, many times, but for love of all that is holy take a stand on something.&#8221;</p></blockquote>
-<p>I heard about the Google phone consortium pretty much exclusively through Twitter, and the reaction seems about universal from the folks I follow (admittedly, half of them are total Mac geeks). I&#8217;m honestly not sure how the Google phone is relevant to me, but then again, I don&#8217;t like Gmail.</p>
-<p>Although this week&#8217;s &#8220;37signals post on personas&#8221;:http://www.37signals.com/svn/posts/690-ask-37signals-personas isn&#8217;t about Android, some of the points are relevant to committee-led design:</p>
-<blockquote><p>&#8220;I don&#8217;t think you can build a great product for a person that doesn&#8217;t exist. And I definitely don&#8217;t think you can build a great product based on a composite sketch of 10 different people all rolled into one (or two or three).&#8221; [&#8230;] &#8220;Every product we build is a product we build for ourselves to solve our own problems.&#8221;</p></blockquote>
-<p>Not using your own product can turn into a real problem, and I realized after I bought an Apple TV that &#8220;Wii Transfer&#8221;:http://www.riverfold.com/software/wiitransfer/ suffered from it. So I forced myself to use my own product instead, and that made all the difference. Plus, it was easy to unplug the Apple TV because the thing got so hot I was worried it would burn the house down while I slept.</p>
-					</div><!-- .entry-content -->
-		
-		<footer class="entry-meta">
-			This entry was posted in <a href="../../../category/technology.html" rel="category tag">Technology</a> and tagged <a href="../../../tag/android.html" rel="tag">android</a>, <a href="../../../tag/google.html" rel="tag">google</a>, <a href="../../../tag/personas.html" rel="tag">personas</a>, <a href="../../../tag/stevenf.html" rel="tag">stevenf</a>, <a href="../../../tag/wiitransfer.html" rel="tag">wiitransfer</a> on <a href="../../../2007/11/android_and_getting.html" title="7:45 am" rel="bookmark"><time class="entry-date" datetime="2007-11-09T07:45:24+00:00">2007/11/09</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../../manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
-	</article><!-- #post -->
-							
-	<article id="post-1827" class="post-1827 post type-post status-publish format-standard hentry category-programming tag-hacking tag-ironcoder tag-leopard">
-				<header class="entry-header">
-			
-						<h1 class="entry-title">
-				<a href="../../../2007/11/ironcoder_now_with.html" rel="bookmark">Ironcoder (now with prizes!)</a>
-			</h1>
-								</header><!-- .entry-header -->
-
-				<div class="entry-content">
-			<p>A new &#8220;Ironcoder launches today&#8221;:http://ironcoder.org/blog/2007/11/02/ironcoder-7-bigger-better-and-uncut/ with a longer hacking period and a nice iPod touch as the prize. I&#8217;ve come close to participating in the past and just haven&#8217;t had time. Although I don&#8217;t expect that to change this week, I&#8217;ll be keeping an eye on this one to see what the theme is. It could be a great opportunity to get more hands-on with some of the new Leopard APIs.</p>
-					</div><!-- .entry-content -->
-		
-		<footer class="entry-meta">
-			This entry was posted in <a href="../../../category/programming.html" rel="category tag">Programming</a> and tagged <a href="../../../tag/hacking.html" rel="tag">hacking</a>, <a href="../../../tag/ironcoder.html" rel="tag">ironcoder</a>, <a href="../../../tag/leopard.html" rel="tag">leopard</a> on <a href="../../../2007/11/ironcoder_now_with.html" title="7:38 am" rel="bookmark"><time class="entry-date" datetime="2007-11-09T07:38:41+00:00">2007/11/09</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../../manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
-	</article><!-- #post -->
-							
-	<article id="post-1826" class="post-1826 post type-post status-publish format-standard hentry category-books tag-story140 tag-twitter tag-writing">
-				<header class="entry-header">
-			
-						<h1 class="entry-title">
-				<a href="../../../2007/11/five_days_one.html" rel="bookmark">Five days, one paragraph</a>
-			</h1>
-								</header><!-- .entry-header -->
-
-				<div class="entry-content">
-			<p>So I am 5 days or 700 characters in to my <a href="http://www.story140.com/">Story 140 experiment</a>. Even though separation between each tweet is only implied, this is the end of the first paragraph, and on the web site I will be formatting it that way.</p>
-<p>If you were to put the ideas you have in life into two buckets &#8212; and I don&#8217;t meant the little one-off ideas, I mean the big ones you care about and could passionately defend &#8212; you might divide them into ideas which are truly great, and ideas which sound great. The key here is to avoid the ideas which are neither great nor which sound particularly good at all. It&#8217;s too early to know which one of these idea types Story 140 is, but at this point I&#8217;m leaning toward the &#8220;sounds great&#8221; side.</p>
-<p>Put simply, writing something 140 characters at a time is <em>exactly opposite</em> to the way I normally write. It is much more challenging than I thought, and after 2 days I immediately wanted to start cheating and writing a bunch ahead, so that the story flowed properly.</p>
-<p>I&#8217;ll keep at it, but I did realize that I have to at least partially plan what the story is about. I have only a vague idea in my head, but as I give it some more thought I will probably jot down notes so that when it comes time to write the tweet each day I know a little bit about where it is going. Even so, please don&#8217;t expect greatness from this work of fiction. You will be disappointed.</p>
-<p>On the plus side, I have received feedback (see &#8220;Ryan Irelan&#8217;s post&#8221;:http://www.ryanirelan.com/past/2007/11/03/story-140/) that it would be great for multiple people to contribute. As I said about NaNoWriMo, what makes some of these projects work is the community. I&#8217;d love to open up this concept, and I can turn the web site into more of an aggregator of sorts. If anyone has suggestions, please email me.</p>
-					</div><!-- .entry-content -->
-		
-		<footer class="entry-meta">
-			This entry was posted in <a href="../../../category/books.html" rel="category tag">Books</a> and tagged <a href="../../../tag/story140.html" rel="tag">story140</a>, <a href="../../../tag/twitter.html" rel="tag">twitter</a>, <a href="../../../tag/writing.html" rel="tag">writing</a> on <a href="../../../2007/11/five_days_one.html" title="1:34 pm" rel="bookmark"><time class="entry-date" datetime="2007-11-06T13:34:07+00:00">2007/11/06</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../../manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
-	</article><!-- #post -->
-							
-	<article id="post-1825" class="post-1825 post type-post status-publish format-standard hentry category-weblogs tag-c4 tag-duncan tag-marsedit">
-				<header class="entry-header">
-			
-						<h1 class="entry-title">
-				<a href="../../../2007/11/marsedit_guilt_trip.html" rel="bookmark">MarsEdit guilt trip</a>
-			</h1>
-								</header><!-- .entry-header -->
-
-				<div class="entry-content">
-			<p>In which I am the last person to point to the &#8220;MarsEdit 2.0 release&#8221;:http://www.red-sweater.com/marsedit/. I figure if James Duncan Davidson is &#8220;just now purchasing MarsEdit&#8221;:http://duncandavidson.com/archives/643, I don&#8217;t feel bad waiting so long to say good things about 2.0. (Rumor has it Duncan used to post to his blog with a set of Ant XML build files that he would run with custom Lua scripts as part of his Lightroom workflow.)</p>
-<p>Seriously, though, it&#8217;s easy to believe that Daniel is right when he &#8220;talks about the potential for Mac desktop clients&#8221;:http://www.austinheller.com/2007/11/interview-daniel-jalkut.html. MarsEdit had a great start back in the early NetNewsWire days, and 2.0 shows that it has a strong future as well.</p>
-<p>At lunch with &#8220;Brent Simmons&#8221;:http://inessential.com/ and the &#8220;Rogue Sheep&#8221;:http://www.roguesheep.com/ guys after C4, just before I left Chicago, we joked that what MarsEdit really needs is a Dock badge with the number of days since you&#8217;ve last posted to your blog. A big red guilt trip icon staring you in the face: &#8220;25 days since you last blogged, slacker!&#8221;</p>
-					</div><!-- .entry-content -->
-		
-		<footer class="entry-meta">
-			This entry was posted in <a href="../../../category/weblogs.html" rel="category tag">Weblogs</a> and tagged <a href="../../../tag/c4.html" rel="tag">c4</a>, <a href="../../../tag/duncan.html" rel="tag">duncan</a>, <a href="../../../tag/marsedit.html" rel="tag">marsedit</a> on <a href="../../../2007/11/marsedit_guilt_trip.html" title="11:39 pm" rel="bookmark"><time class="entry-date" datetime="2007-11-04T23:39:44+00:00">2007/11/04</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../../manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
-	</article><!-- #post -->
-							
-	<article id="post-1824" class="post-1824 post type-post status-publish format-standard hentry category-books tag-fiction tag-story140 tag-twitter">
-				<header class="entry-header">
-			
-						<h1 class="entry-title">
-				<a href="../../../2007/11/story_140.html" rel="bookmark">Story 140</a>
-			</h1>
-								</header><!-- .entry-header -->
-
-				<div class="entry-content">
-			<p>November is National Novel Writing Month (NaNoWriMo), but I&#8217;m way too busy to participate this year. (See &#8220;my wrap-up post from 2005&#8221;:http://www.manton.org/2005/12/50136_words.html for the last time I did it.) I would love to write <em>something</em>, though. Maybe I should consider &#8220;Ficlets&#8221;:http://ficlets.com/ or a similar site, but I&#8217;ve had Twitter on the brain lately. Why not take the embracing constraints approach and write a story through Twitter?</p>
-<p>Introducing &#8220;Story 140&#8221;:http://www.story140.com/, a new web site and &#8220;Twitter account&#8221;:http://twitter.com/story140 where I will be writing a short story in 140 characters a day for 140 days. To make things interesting I set a few rules for myself (listed on the site), including that every tweet must be written the day it is posted and be reasonably grammatically correct while still exactly 140 characters. (I say &#8220;reasonably&#8221; because there will be the occasional use of incomplete sentences, and some people may question my spelling of dialog without the ending &#8220;ue&#8221;. That must be influenced by years of programming the old Mac toolbox.)</p>
-<p>Even though it is extremely serialized, my hope is that the resulting story will actually be readable. We&#8217;ll have to see how successful I end up being at that goal. It&#8217;s already more challenging than I expected; the first tweet took me about 10 minutes to write, and the second one even longer.</p>
-					</div><!-- .entry-content -->
-		
-		<footer class="entry-meta">
-			This entry was posted in <a href="../../../category/books.html" rel="category tag">Books</a> and tagged <a href="../../../tag/fiction.html" rel="tag">fiction</a>, <a href="../../../tag/story140.html" rel="tag">story140</a>, <a href="../../../tag/twitter.html" rel="tag">twitter</a> on <a href="../../../2007/11/story_140.html" title="3:06 pm" rel="bookmark"><time class="entry-date" datetime="2007-11-03T15:06:13+00:00">2007/11/03</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../../manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
-	</article><!-- #post -->
-							
-	<article id="post-1823" class="post-1823 post type-post status-publish format-standard hentry category-weblogs tag-comments tag-private tag-stats tag-twitter">
-				<header class="entry-header">
-			
-						<h1 class="entry-title">
-				<a href="../../../2007/11/how_i_use.html" rel="bookmark">How I use Twitter</a>
-			</h1>
-								</header><!-- .entry-header -->
-
-				<div class="entry-content">
-			<p>&#8220;Twiterrific 3.0&#8221;:http://iconfactory.com/home/permalink/1887 is out, with a new price of $15 or free to use with ads. The ads are very effective and difficult to ignore, but really they don&#8217;t take anything away from the Twitter experience. The new version is great, though, and I&#8217;ll be sending my $15 to Icon Factory sometime in the next few days. &#8220;As Fraser Speirs said&#8221;:http://speirs.org/2007/11/02/twitterrific-3/, it&#8217;s a small price to pay to be connected to friends and colleagues.</p>
-<p>I post to Twitter much more often than I blog now, and I think I owe some of my followers an explanation. I made a rule for myself early on to <em>only follow people who I have met in real life</em>. I&#8217;ve only made a couple exceptions to this, and none recently. It keeps the flow of tweets easier to manage and relevant.</p>
-<p>So if you follow me on Twitter and wonder why I don&#8217;t return the favor, that is why. You probably have interesting things to say, so say hi to me at some future conference so I can add you to my list. I&#8217;ve actually been thinking about taking it one step further and protecting updates, because I tend to post about what (to this blog) have been traditionally private matters. Jury is still out on that decision.</p>
-<p>The following numbers are interesting, though. I only do very basic Mint stats for this blog (I just care about referrers, not number of readers), but it does make me wonder how many people read this blog. If you&#8217;re reading this, add a comment to this post. (Haha, gotcha! I don&#8217;t have comments.)</p>
-					</div><!-- .entry-content -->
-		
-		<footer class="entry-meta">
-			This entry was posted in <a href="../../../category/weblogs.html" rel="category tag">Weblogs</a> and tagged <a href="../../../tag/comments.html" rel="tag">comments</a>, <a href="../../../tag/private.html" rel="tag">private</a>, <a href="../../../tag/stats.html" rel="tag">stats</a>, <a href="../../../tag/twitter.html" rel="tag">twitter</a> on <a href="../../../2007/11/how_i_use.html" title="11:20 pm" rel="bookmark"><time class="entry-date" datetime="2007-11-02T23:20:16+00:00">2007/11/02</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../../manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
-	</article><!-- #post -->
-							
-	<article id="post-1822" class="post-1822 post type-post status-publish format-standard hentry category-politics tag-bush tag-dean tag-democrats tag-healthcare tag-veto">
-				<header class="entry-header">
-			
-						<h1 class="entry-title">
-				<a href="../../../2007/11/bush_veto.html" rel="bookmark">Bush veto</a>
-			</h1>
-								</header><!-- .entry-header -->
-
-				<div class="entry-content">
-			<p>Yes, it&#8217;s a politically-themed post. Probably the only one before 2008, so don&#8217;t run away just yet.</p>
-<p>The Bush veto of the bipartisan children&#8217;s health care plan a few weeks ago really made me angry, but it wasn&#8217;t until &#8220;Justin Miller responded&#8221;:http://twitter.com/incanus77/statuses/310113392 to &#8220;my tweet&#8221;:http://twitter.com/manton/statuses/310110182 that I started to think about why. Here&#8217;s the reason.</p>
-<p>When Bush was elected in 2000, I expected this kind of stuff from him. Vetoing stem cell research? Killing children&#8217;s health care funding? Sure, par for the course for this Republican. But then 9-11 happened and everything changed. The war. Our president&#8217;s priorities changed.</p>
-<p>Bush got a free ride from the media during the 2000 election, and again after 9-11. He would make the most incompetent and clumsy mistakes and yet be cut slack because, frankly, expectations are just so much lower for him than any other president in recent history.</p>
-<p>At some point in 2004, opinion started to shift, led by folks like Howard Dean (who I&#8217;ve &#8220;written about before&#8221;:http://www.google.com/search?q=site%3Amanton.org+howard+dean). Eventually, after Bush won re-election, there would be enough anti-war momentum to matter. And that brings us up to now and this veto.</p>
-<p>Everyone is focused on the war. Everyone understands the significance, the mistakes. Most of the country wants it over but we know that it&#8217;s complex, and the consequences for any given action will be felt for a decade. Compared to the lives lost in Iraq and the harm done to the stability of the Middle East, the rise of a new generation of terrorists &#8212; what does a health care bill matter? Is it worth fighting for?</p>
-<p>Democrats in power by a slim majority probably think they have to choose their battles, have to give in on some issues so they can hold on to the important ones, like the war. But I say no. The only thing that works against this stubborn ass in the White House is to take the fight to him. Cut him off at every turn. Don&#8217;t give him a freakin&#8217; inch. Call for an override vote again and again.</p>
-<p>Every. Single. Day.</p>
-<p>That&#8217;s how you win. You put people on the ground in every state &#8212; organizing, protesting, getting out the vote. You put letters in the hands of our representatives &#8212; email, blogs, editorial, flyers. You put a loud voice to what you feel and never, ever back down.</p>
-					</div><!-- .entry-content -->
-		
-		<footer class="entry-meta">
-			This entry was posted in <a href="../../../category/politics.html" rel="category tag">Politics</a> and tagged <a href="../../../tag/bush.html" rel="tag">bush</a>, <a href="../../../tag/dean.html" rel="tag">dean</a>, <a href="../../../tag/democrats.html" rel="tag">democrats</a>, <a href="../../../tag/healthcare.html" rel="tag">healthcare</a>, <a href="../../../tag/veto.html" rel="tag">veto</a> on <a href="../../../2007/11/bush_veto.html" title="9:48 am" rel="bookmark"><time class="entry-date" datetime="2007-11-01T09:48:03+00:00">2007/11/01</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../../manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
-	</article><!-- #post -->
-							
-	<article id="post-1821" class="post-1821 post type-post status-publish format-standard hentry category-programming tag-leopard tag-streaming tag-wii tag-wiitransfer">
-				<header class="entry-header">
-			
-						<h1 class="entry-title">
-				<a href="../../../2007/10/wii_transfer_252.html" rel="bookmark">Wii Transfer 2.5.2 and Leopard</a>
-			</h1>
-								</header><!-- .entry-header -->
-
-				<div class="entry-content">
-			<p>Happy Halloween! &#8220;Wii Transfer 2.5.2&#8221;:http://www.riverfold.com/software/wiitransfer/ is now available. This is probably one of the most difficult bug fix releases I&#8217;ve done. Full changes are in &#8220;the release notes&#8221;:http://www.riverfold.com/software/wiitransfer/releasenotes/, but the biggest stuff includes fixed Leopard UI glitches and a new 2-pass encoding that should result in much more consistent movie streaming quality. Along the way I touched most of the corners of the product, including many hours of trial-and-error debugging the Flash FLV player component.</p>
-<p>While testing Wii Transfer on my TV the other day I had a moment to reflect on how this product has evolved. What started as a one-weekend hack has grown into something quite a bit more complex. It has a few rough edges, sure, but I&#8217;m proud of this little app and how I&#8217;ve been able to put a simple UI on all these different technologies (embedded web server, HTML/JavaScript/Flash UI, MP3 and FLV conversion, iLife integration, etc). I have a few new features planned and in various stages of development, but I think the just-released 2.5.2 is going to start a trend of refinement; there&#8217;s a lot I could do to improve the movie conversion and streaming experience before introducing anything radically new.</p>
-<p>So, Leopard. I had originally planned to just wipe my old Leopard seed partition on the MacBook and test the GM, but at the last minute I dove full in and did an upgrade install on my primary machine, the Mac Pro. I have nightly SuperDuper clones just in case, but the upgrade was completely smooth. It&#8217;s a great OS foundation and I can&#8217;t wait to see what other developers have been working on.</p>
-					</div><!-- .entry-content -->
-		
-		<footer class="entry-meta">
-			This entry was posted in <a href="../../../category/programming.html" rel="category tag">Programming</a> and tagged <a href="../../../tag/leopard.html" rel="tag">leopard</a>, <a href="../../../tag/streaming.html" rel="tag">streaming</a>, <a href="../../../tag/wii.html" rel="tag">wii</a>, <a href="../../../tag/wiitransfer.html" rel="tag">wiitransfer</a> on <a href="../../../2007/10/wii_transfer_252.html" title="10:54 pm" rel="bookmark"><time class="entry-date" datetime="2007-10-31T22:54:11+00:00">2007/10/31</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../../manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
 	</article><!-- #post -->
 			
 					<nav id="nav-below" class="navigation" role="navigation">
@@ -553,6 +667,7 @@ img.emoji {
 		</ul>
 </aside><aside id="text-2" class="widget widget_text"><h3 class="widget-title">Search</h3>			<div class="textwidget"><script type="text/javascript" src="http://js.searchpath.io/v1/manton.org?verify=625401361E"></script></div>
 		</aside><aside id="archives-2" class="widget widget_archive"><h3 class="widget-title">Archives</h3>		<ul>
+	<li><a href='../../../2016/01.html'>January 2016</a></li>
 	<li><a href='../../../2015/12.html'>December 2015</a></li>
 	<li><a href='../../../2015/11.html'>November 2015</a></li>
 	<li><a href='../../../2015/10.html'>October 2015</a></li>
@@ -644,7 +759,7 @@ img.emoji {
 	<li><a href='../../../2007/10.html'>October 2007</a></li>
 	<li><a href='../../../2007/09.html'>September 2007</a></li>
 	<li><a href='../../../2007/08.html'>August 2007</a></li>
-	<li><a href='../../../2007/07.html'>July 2007</a></li>
+	<li><a href='../../../2007/07'>July 2007</a></li>
 	<li><a href='../../../2007/06.html'>June 2007</a></li>
 	<li><a href='../../../2007/05.html'>May 2007</a></li>
 	<li><a href='../../../2007/04.html'>April 2007</a></li>
@@ -717,12 +832,12 @@ img.emoji {
 	</footer><!-- #colophon -->
 </div><!-- #page -->
 
-<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201551'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201601'></script>
 <script type='text/javascript' src='../../../wp-content/themes/twentytwelve/js/navigationa462.js?ver=20140318'></script>
-<script type='text/javascript' src='http://stats.wp.com/e-201551.js' async defer></script>
+<script type='text/javascript' src='http://stats.wp.com/e-201601.js' async defer></script>
 <script type='text/javascript'>
 	_stq = window._stq || [];
-	_stq.push([ 'view', {v:'ext',j:'1:3.8.1',blog:'74089361',post:'0',tz:'-6',srv:'www.manton.org'} ]);
+	_stq.push([ 'view', {v:'ext',j:'1:3.8.2',blog:'74089361',post:'0',tz:'-6',srv:'www.manton.org'} ]);
 	_stq.push([ 'clickTrackerInit', '74089361', '0' ]);
 </script>
 
@@ -742,9 +857,9 @@ img.emoji {
 
 </body>
 
-<!-- Mirrored from www.manton.org/author/manton/page/39 by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 19 Dec 2015 00:40:44 GMT -->
+<!-- Mirrored from www.manton.org/author/manton/page/39 by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 06 Jan 2016 20:04:08 GMT -->
 </html>
-<!-- Dynamic page generated in 2.419 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2015-12-18 18:40:38 -->
+<!-- Dynamic page generated in 2.609 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-01-06 14:04:07 -->
 
 <!-- super cache -->

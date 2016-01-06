@@ -12,12 +12,111 @@
 	<atom:link href="http://www.manton.org/category/technology/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Fri, 18 Dec 2015 17:56:59 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 06 Jan 2016 17:11:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>http://wordpress.org/?v=4.3.1</generator>
 	<item>
+		<title>DNS consolidation</title>
+		<link>http://www.manton.org/2016/01/dns-consolidation.html</link>
+		<comments>http://www.manton.org/2016/01/dns-consolidation.html#comments</comments>
+		<pubDate>Wed, 06 Jan 2016 13:35:38 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[dns]]></category>
+		<category><![CDATA[hosting]]></category>
+		<category><![CDATA[ssl]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3312</guid>
+		<description><![CDATA[Feels like years in the making, but I&#8217;ve finally moved all my domain names to a single provider: DNSimple. The last 3 domains went through toward the end of 2015. They were .io domains, and required calling Network Solutions to unlock. (I own 13 domains, and don&#8217;t plan to add any more for a very [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Feels like years in the making, but I&#8217;ve finally moved all my domain names to a single provider: DNSimple. The last 3 domains went through toward the end of 2015. They were .io domains, and required calling Network Solutions to unlock. (I own 13 domains, and don&#8217;t plan to add any more for a very long time.)</p>
+<p>I&#8217;ve found that the simplicity of having these kind of things consolidated in one place really improves keeping up with hosting and renewals. It&#8217;s the same reason I moved all my private projects to GitHub, even though it would cost more per month. It means less to worry about, so more time for coding.</p>
+<p>Since I&#8217;ve often been thinking about <a href="http://www.manton.org/2012/07/permanence.html">the lack of permanence on the web</a>, I also want to be more proactive about extending my domain registrations. I renewed manton.org until 2021.</p>
+<p>If you&#8217;re interested in using DNSimple, use <a href="https://dnsimple.com/r/9fc1dd2e59824b">this referral link</a> for a month free. All my SSL certificates are there too, although I&#8217;m keeping an eye on <a href="https://letsencrypt.org/">Let&#8217;s Encrypt</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/01/dns-consolidation.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Twitter&#8217;s 10k limit</title>
+		<link>http://www.manton.org/2016/01/twitters-10k-limit.html</link>
+		<comments>http://www.manton.org/2016/01/twitters-10k-limit.html#comments</comments>
+		<pubDate>Tue, 05 Jan 2016 20:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[microblogging]]></category>
+		<category><![CDATA[starwars]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3321</guid>
+		<description><![CDATA[First, Twitter experimented with changing the timeline, so it&#8217;s not strictly reverse-chronological. Then, they renamed Favorites to Likes. Soon, they will remove the 140-character limit, becoming Facebook, and the circle will be complete: &#8220;The current plan is reportedly to show just the first 140 characters in the news feed and then allow readers to click [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>First, Twitter experimented with changing the timeline, so it&#8217;s not strictly reverse-chronological. Then, they renamed Favorites to Likes. Soon, <a href="http://mashable.com/2016/01/05/twitter-character-limit-10000/">they will remove the 140-character limit</a>, becoming Facebook, and the circle will be complete:</p>
+<blockquote><p>
+  &#8220;The current plan is reportedly to show just the first 140 characters in the news feed and then allow readers to click to expand the tweet and see the other 9,860 remaining characters. The new option may launch later this quarter.&#8221;
+</p></blockquote>
+<p>The learner is now the master. Welcome to the dark side.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/01/twitters-10k-limit.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Lighter, faster mobile web</title>
+		<link>http://www.manton.org/2016/01/lighter-faster-mobile-web.html</link>
+		<comments>http://www.manton.org/2016/01/lighter-faster-mobile-web.html#comments</comments>
+		<pubDate>Tue, 05 Jan 2016 18:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[amp]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[mobile]]></category>
+		<category><![CDATA[web]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3310</guid>
+		<description><![CDATA[Speaking of the health of the open web, Maciej Cegłowski gave a talk on web page bloat at the Web Directions conference, and he put the slides and notes online (via Daring Fireball). It&#8217;s fun to read and there are many great points, but I want to focus on Accelerated Mobile Pages: “The AMP project [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Speaking of <a href="http://www.manton.org/2016/01/hyperlinks-and-saving-the-web">the health of the open web</a>, Maciej Cegłowski gave a talk on web page bloat at the Web Directions conference, and he put <a href="http://idlewords.com/talks/website_obesity.htm">the slides and notes online</a> (via <a href="http://daringfireball.net/linked/2016/01/02/website-obesity-crisis">Daring Fireball</a>). It&#8217;s fun to read and there are many great points, but I want to focus on Accelerated Mobile Pages:</p>
+<blockquote><p>
+  “The AMP project is ostentatiously open source, and all kinds of publishers have signed on. Out of an abundance of love for the mobile web, Google has volunteered to run the infrastructure, especially the user tracking parts of it.”
+</p></blockquote>
+<p>Sarcasm aside, I think Google&#8217;s involvement is mostly transparent, and I was hopeful about it when <a href="http://www.manton.org/2015/11/accelerated-mobile-pages-from-google.html">I wrote about this in November</a>. Google wants the web to be fast. A faster web includes more ad impressions and is more competitive with native mobile apps. I don&#8217;t think this disqualifies Google from proposing this project.</p>
+<p><a href="http://highscalability.com/blog/2015/12/14/does-amp-counter-an-existential-threat-to-google.html">High Scalability has a long article</a> exploring AMP:</p>
+<blockquote><p>
+  “Google needs an open and rich ecosystem of knowledge. If that’s not there then Google search won’t be relevant. Which is Google’s direct self-interest, which is also the same objective of the publisher. Publishers need access to an open ecosystem of distribution. Otherwise they’ll have a harder time building audiences if they have to appeal to closed platforms. Yes, Google is a private company that has business interests, but that philosophy and that core similar objective is something very important when considering Google’s role in AMP.”
+</p></blockquote>
+<p>I&#8217;m willing to give Google the benefit of the doubt on AMP. The alternatives are too focused on specific platforms and so even less available to the rest of the web.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/01/lighter-faster-mobile-web.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Apple Watch still pretty great</title>
+		<link>http://www.manton.org/2016/01/apple-watch-still-pretty-great.html</link>
+		<comments>http://www.manton.org/2016/01/apple-watch-still-pretty-great.html#comments</comments>
+		<pubDate>Mon, 04 Jan 2016 13:00:08 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[applewatch]]></category>
+		<category><![CDATA[fitness]]></category>
+		<category><![CDATA[notifications]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3283</guid>
+		<description><![CDATA[Stephen Hackett posted an Apple Watch follow-up recently. He has mostly stopped wearing it: &#8220;The Apple Watch can do a lot of neat things, and I miss its fitness tracking, but so much of it just doesn&#8217;t fit my lifestyle anymore. It&#8217;s not super useful for work, apps are still miserably slow and at times, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.512pixels.net/blog/2015/12/apple-watch-follow-up">Stephen Hackett posted</a> an Apple Watch follow-up recently. He has mostly stopped wearing it:</p>
+<blockquote><p>
+  &#8220;The Apple Watch can do a lot of neat things, and I miss its fitness tracking, but so much of it just doesn&#8217;t fit my lifestyle anymore. It&#8217;s not super useful for work, apps are still miserably slow and at times, its an additional distraction.&#8221;
+</p></blockquote>
+<p>The Apple Watch is a very personal device. It&#8217;s okay that it&#8217;s not for everyone. There&#8217;s no network effect; the watch isn&#8217;t better or worse if other people don&#8217;t use it. And it&#8217;s even okay if most of the apps are too slow to bother with. Fitness tracking, notifications, the time — for me, those 3 simple features are enough.</p>
+<p><a href="https://www.caseyliss.com/2015/12/17/apple-watch-revisited">Casey Liss also writes</a> that notifications have been one of the most important features, letting him keep his iPhone ringer off:</p>
+<blockquote><p>
+  “The Apple Watch has allowed my iPhone to transition from being a <em>personal</em> device to being a <em>private</em> one. That’s a really profound change. More so than I expected.”
+</p></blockquote>
+<p>Once every couple of months, I leave the house in a hurry and forget to put my Apple Watch on. I survive without it, of course, but I do miss it. After not wearing a watch for most of my life, it&#8217;s weird now if I don&#8217;t have the Apple Watch with me. I expect to use it for years to come.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/01/apple-watch-still-pretty-great.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Phil Schiller and the App Store</title>
 		<link>http://www.manton.org/2015/12/phil-schiller-and-the-app-store.html</link>
 		<comments>http://www.manton.org/2015/12/phil-schiller-and-the-app-store.html#comments</comments>
@@ -161,126 +260,8 @@
 			<wfw:commentRss>http://www.manton.org/2015/10/gravity-and-the-app-store.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
-		<item>
-		<title>Jack Dorsey to lead Twitter again</title>
-		<link>http://www.manton.org/2015/10/jack-dorsey-to-lead-twitter-again.html</link>
-		<comments>http://www.manton.org/2015/10/jack-dorsey-to-lead-twitter-again.html#comments</comments>
-		<pubDate>Mon, 05 Oct 2015 22:05:16 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Technology]]></category>
-		<category><![CDATA[dorsey]]></category>
-		<category><![CDATA[ev]]></category>
-		<category><![CDATA[microblogging]]></category>
-		<category><![CDATA[openweb]]></category>
-		<category><![CDATA[tweetbot]]></category>
-		<category><![CDATA[twitter]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=3091</guid>
-		<description><![CDATA[Three years ago today I posted my last personal tweet. That time and distance away from mainstream social networking has given me a new perspective on the importance of independent microblogging. It has shaped where I write and what tools I build. But Twitter remains as fascinating as ever. Just a few weeks ago, the [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="https://twitter.com/manton/status/254228056657494016">Three years ago today</a> I posted my last personal tweet. That time and distance away from mainstream social networking has given me a new perspective on the importance of independent microblogging. It has shaped <a href="http://www.manton.org/category/micro">where I write</a> and what tools I build.</p>
-<p>But Twitter remains as fascinating as ever. Just a few weeks ago, <a href="http://www.telegraph.co.uk/technology/twitter/11891887/adam-bain-interview-twitter-jack-dorsey.html">the board seemed unsure</a> about letting Jack Dorsey split his time between Twitter and Square:</p>
-<blockquote><p>
-  &#8220;The responsibilities of running Square, which Dorsey reportedly refuses to give up, may now stand in the way of a Steve <a href="http://www.telegraph.co.uk/technology/steve-jobs/">Jobs-esque</a> return as Twitter’s full time chief executive. In June, its board took the unusual step of publicly declaring that it would only consider candidates &#8216;who are in a position to make a full-time commitment to Twitter&#8217;, a <a href="http://www.telegraph.co.uk/technology/twitter/11691834/Jack-Dorsey-will-have-to-quit-as-Square-boss-to-take-charge-of-Twitter.html">thinly-veiled reference to Dorsey’s preoccupations</a>.&#8221;
-</p></blockquote>
-<p>Then they <a href="http://recode.net/2015/09/30/sources-jack-dorsey-to-be-named-permanent-twitter-ceo/">backed away from that</a>:</p>
-<blockquote><p>
-  &#8220;That declaration, as it seems to have turned out, has been a largely empty one. The idea that Dorsey might return gained steam among people both inside and outside the company over the past few months even though he had no intention of leaving Square. He even referred to the companies as his two children when discussing the dilemma, according to a source.&#8221;
-</p></blockquote>
-<p>Today they officially announced that Jack will return to lead Twitter. Of all the recent articles, my favorite <a href="http://recode.net/2015/10/02/why-jack-dorsey-is-ready-to-save-twitter/">is this one from Recode</a>, a long profile on Jack&#8217;s role and changing attitude:</p>
-<blockquote><p>
-  &#8220;He seems to be a completely different man than the one who returned to Twitter in March 2011 as executive chairman and product czar. Former colleagues recall a man looking for payback for his 2008 ouster; loyalty was key, and many who were loyal to Twitter’s other co-founder, Ev Williams, were booted from the company. Back then, Dorsey would routinely sit in on meetings without saying a word. When he did speak, his contributions were so abstract that few understood what he was talking about. In some cases, he’d simply write a single word or two up on the whiteboard.&#8221;
-</p></blockquote>
-<p>And it goes on, showing how Jack has matured as a leader. Everyone will be watching what he does, and how Twitter evolves. Every article written about an upcoming Twitter feature will mention Jack&#8217;s involvement, no matter how insignificant. He&#8217;s a big part of the story now.</p>
-<p><a href="https://medium.com/@ev/why-i-m-glad-jack-is-back-at-twitter-9bbda2ae5dca">Ev also wrote</a> about the official announcement:</p>
-<blockquote><p>
-  &#8220;Twitter is bigger and more important to the world than we ever dreamed when we started. And it still has incredible, unrealized potential. It will not be easy to unlock it. But we have thousands of smart, creative people working every day to make the company great. And Jack has already demonstrated the ability to inspire the team and think boldly about the next phase of Twitter.&#8221;
-</p></blockquote>
-<p>The greatest challenge for Jack will be figuring out how to take whatever those thousands of employees are working on and turn it into actual user-facing features that ship to customers. Federico Viticci, <a href="https://www.macstories.net/reviews/tweetbot-4-review-bigger-bot/">reviewing the new Tweetbot 4 release</a> last week, wrote about how Tapbots has built something more ambitious than the official Twitter for iPad app, even though Twitter has a much bigger team:</p>
-<blockquote><p>
-  &#8220;On the other hand, Twitter for iPad – long ignored by the company – has emerged again <a href="https://www.macstories.net/news/twitter-aims-to-unify-ios-apps-updates-its-ipad-app/">with a stretched-up iPhone layout</a> presented in the name of &#8216;consistency&#8217;. It&#8217;s a grim landscape, devoid of the excitement and curiosity that surrounded Twitter clients five years ago.&#8221;
-</p></blockquote>
-<p>I still run <a href="http://tweetmarker.net/">Tweet Marker</a>, which was created during that period of innovation that Federico refers to, but my focus now is on indie microblogging and the open web. I&#8217;m content to watch Twitter from the sidelines and wish Jack the best of luck.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/10/jack-dorsey-to-lead-twitter-again.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>iAd hypocrisy</title>
-		<link>http://www.manton.org/2015/09/iad-hypocrisy.html</link>
-		<comments>http://www.manton.org/2015/09/iad-hypocrisy.html#comments</comments>
-		<pubDate>Mon, 28 Sep 2015 15:07:08 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Technology]]></category>
-		<category><![CDATA[applenews]]></category>
-		<category><![CDATA[iads]]></category>
-		<category><![CDATA[ios9]]></category>
-		<category><![CDATA[theverge]]></category>
-		<category><![CDATA[upgrade]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=3078</guid>
-		<description><![CDATA[I was looking for a different old post in my archives, and stumbled on this one: &#8220;I hope iAd fails&#8221;, which I wrote 5 years ago this month. One of my points was that we had a healthy marketplace in the App Store for normal people to actually pay for apps: &#8220;Do we really want [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>I was looking for a different old post in my archives, and stumbled on this one: <a href="http://www.manton.org/2010/09/i_hope_iad.html">&#8220;I hope iAd fails&#8221;</a>, which I wrote 5 years ago this month. One of my points was that we had a healthy marketplace in the App Store for normal people to actually pay for apps:</p>
-<blockquote><p>
-  &#8220;Do we really want to give that marketplace up? Because once it’s gone, and iAds are the norm, it will be an uphill battle to get anyone to pay for anything.&#8221;
-</p></blockquote>
-<p>Fast-forward 5 years to today, and well, we&#8217;re on that hill right now. Except there&#8217;s a landslide and I don&#8217;t know who&#8217;s going to get buried.</p>
-<p>On the <a href="http://www.relay.fm/upgrade/55">Upgrade podcast</a>, Jason Snell and Myke Hurley talked about whether iOS 9&#8217;s Apple News was relevant: what problems is it solving, if any, and — because it will feature unblockable ads powered by iAd — how does it fit into the larger issue of blocking web ads and closed platforms? The discussion starts about <a href="https://overcast.fm/+DeCmyFudI/1:02:18">an hour in</a>.</p>
-<p>(If you&#8217;ve used Apple News already, you may not have even seen any ads yet. But Apple&#8217;s <a href="https://developer.apple.com/news-publisher/">page on Apple News Format</a> makes it clear that they will be encouraging iAd for publishers: &#8220;Monetization is made simple with iAd&#8221;.)</p>
-<p>I stand by the opinion that iAd is a mistaken strategy. Apple, if you&#8217;re serious about <a href="http://www.theverge.com/2015/9/17/9338963/welcome-to-hell-apple-vs-google-vs-facebook-and-the-slow-death-of-the-web">this fight with Google</a>, go all-in on the fight and abandon iAd. It seems hypocritical to attack web ads while rolling out your own news platform with ads that can&#8217;t be blocked.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/09/iad-hypocrisy.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Instagram hits 400 million users</title>
-		<link>http://www.manton.org/2015/09/instagram-hits-400-million-users.html</link>
-		<comments>http://www.manton.org/2015/09/instagram-hits-400-million-users.html#comments</comments>
-		<pubDate>Wed, 23 Sep 2015 14:34:12 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Technology]]></category>
-		<category><![CDATA[facebook]]></category>
-		<category><![CDATA[instagram]]></category>
-		<category><![CDATA[photos]]></category>
-		<category><![CDATA[scaling]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=3064</guid>
-		<description><![CDATA[From Graham Spencer at MacStories, commenting on the latest Instagram numbers and that the service is only 5 years old: &#8220;But I was really surprised to remember that Facebook acquired Instagram in April 2012, when Instagram had &#8216;only&#8217; 40 million users. If I recall correctly, a lot of people thought Facebook was crazy to buy [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="https://www.macstories.net/news/instagram-hits-400-million-users/">From Graham Spencer</a> at MacStories, commenting on the latest Instagram numbers and that the service is only 5 years old:</p>
-<blockquote><p>
-  &#8220;But I was really surprised to remember that <a href="http://techcrunch.com/2012/04/09/facebook-to-acquire-instagram-for-1-billion/">Facebook acquired Instagram in April 2012</a>, when Instagram had &#8216;only&#8217; 40 million users. If I recall correctly, a lot of people thought Facebook was crazy to buy Instagram for $1 billion. Well, I think Facebook got the last laugh on that one, and as <a href="http://www.forbes.com/sites/kathleenchaykowski/2015/09/22/instagram-hits-400-million-users-soaring-past-twitter/">Forbes points out</a>, Instagram now has more monthly active users than Twitter (316 million).&#8221;
-</p></blockquote>
-<p>Impressive growth, but it fits. Instagram has crafted a user experience that encourages thoughtful posts and never feels overwhelming in the way a Twitter or Facebook timeline can be. If Instagram was a paid product, I bet Instagram&#8217;s <a href="https://baremetrics.com/academy/saas-churn">churn rate</a> would be the lowest of any of the big social networks. They did it with a small team and weren&#8217;t afraid to grow slowly.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/09/instagram-hits-400-million-users.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Peace, indies, and the App Store</title>
-		<link>http://www.manton.org/2015/09/peace-indies-and-the-app-store.html</link>
-		<comments>http://www.manton.org/2015/09/peace-indies-and-the-app-store.html#comments</comments>
-		<pubDate>Sat, 19 Sep 2015 15:53:31 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Technology]]></category>
-		<category><![CDATA[appstore]]></category>
-		<category><![CDATA[indie]]></category>
-		<category><![CDATA[ios9]]></category>
-		<category><![CDATA[marco]]></category>
-		<category><![CDATA[peace]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=3056</guid>
-		<description><![CDATA[You&#8217;ve probably heard that Marco Arment has pulled his content-blocking app Peace from the App Store. The app was extremely successful: &#8220;As I write this, Peace has been the number one paid app in the U.S. App Store for about 36 hours. It’s a massive achievement that should be the highlight of my professional career. [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>You&#8217;ve probably heard that Marco Arment has pulled his content-blocking app Peace from the App Store. The app was <a href="http://www.marco.org/2015/09/18/just-doesnt-feel-good">extremely successful</a>:</p>
-<blockquote><p>
-  &#8220;As I write this, Peace has been the number one paid app in the U.S. App Store for about 36 hours. It’s a massive achievement that should be the highlight of my professional career. If <a href="https://overcast.fm/">Overcast</a> even broke the top 100, I’d be over the moon.&#8221;
-</p></blockquote>
-<p>I&#8217;ve seen some comments asking why he didn&#8217;t think to do this sooner, before he even shipped the app. But we are just now starting to understand the impact of ad blockers in iOS 9. I don&#8217;t think it&#8217;s an exaggeration to say that the web is different than it was a few days ago, and so our choices — and Marco&#8217;s — are different too. As I mentioned <a href="http://www.manton.org/2015/09/wrap-up-thoughts-on-the-tv-web.html">yesterday</a>, content blockers are one facet of an overall shake-up for the web.</p>
-<p><a href="http://inessential.com/2015/09/18/why_we_love_indies">Brent Simmons writes</a> that only indies can do what Marco did. Marco must have left a lot of money on the table with this decision. It will always look like the right call to me when someone goes with their gut feeling and not with profit.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/09/peace-indies-and-the-app-store.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 1.310 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2015-12-18 15:19:42 -->
+<!-- Dynamic page generated in 2.677 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-01-06 12:37:28 -->

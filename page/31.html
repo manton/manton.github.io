@@ -9,13 +9,14 @@
 <html lang="en-US">
 <!--<![endif]-->
 
-<!-- Mirrored from www.manton.org/page/31 by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 19 Dec 2015 00:39:18 GMT -->
+<!-- Mirrored from www.manton.org/page/31 by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 06 Jan 2016 20:03:37 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width" />
 <title>Manton Reece | Page 31</title>
 <link rel="profile" href="http://gmpg.org/xfn/11" />
+<link href="https://github.com/manton" rel="me" />
 <link rel="pingback" href="../xmlrpc.php" />
 <!--[if lt IE 9]>
 <script src="http://www.manton.org/wp-content/themes/twentytwelve/js/html5.js" type="text/javascript"></script>
@@ -40,12 +41,11 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel='stylesheet' id='twentytwelve-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&amp;subset=latin,latin-ext' type='text/css' media='all' />
 <link rel='stylesheet' id='twentytwelve-style-css'  href='../wp-content/themes/twentytwelve/style5b31.css?ver=4.3.1' type='text/css' media='all' />
 <!--[if lt IE 9]>
 <link rel='stylesheet' id='twentytwelve-ie-css'  href='http://www.manton.org/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
 <![endif]-->
-<link rel='stylesheet' id='jetpack_css-css'  href='../wp-content/plugins/jetpack/css/jetpack7e2e.css?ver=3.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='../wp-content/plugins/jetpack/css/jetpack3fd0.css?ver=3.8.2' type='text/css' media='all' />
 <script type='text/javascript' src='../wp-includes/js/jquery/jqueryc1d8.js?ver=1.11.3'></script>
 <script type='text/javascript' src='../wp-includes/js/jquery/jquery-migrate.min1576.js?ver=1.2.1'></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
@@ -55,7 +55,7 @@ img.emoji {
 <style id="custom-css-css">#site-navigation{display:none}.site-content article{border-bottom:0;margin-bottom:1em;padding-bottom:1em;word-wrap:normal;-webkit-hyphens:none}.site-content article.format-standard{border-bottom:1px solid lightgray;margin-bottom:2em;padding-bottom:2em}.site-content article.format-status{border-bottom:1px solid #fff;margin-bottom:0;padding-bottom:0}.site-content .category-micro{padding-bottom:.1em}.entry-content blockquote{padding:.7em;font-style:normal;margin-left:30px}#colophon{display:none}.avatar{display:none}header.site-header{padding-top:24px;padding-bottom:0}h2 a{font-size:1.2em}.format-status .entry-header{margin-bottom:1em}.format-status .entry-content p{margin-bottom:0}.status_link{font-size:12px;text-decoration:none;color:gray}body{font-family:Avenir, sans-serif}footer{margin-top:0}</style>
 </head>
 
-<body class="home blog paged paged-31 custom-font-enabled single-author">
+<body class="home blog paged paged-31 single-author">
 <div id="page" class="hfeed site">
 	<header id="masthead" class="site-header" role="banner">
 		<hgroup>
@@ -76,6 +76,387 @@ img.emoji {
 		<div id="content" role="main">
 		
 										
+	<article id="post-2017" class="post-2017 post type-post status-publish format-standard hentry category-programming tag-heroku tag-sinatra tag-tweetmarker tag-twitterrific">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="../2011/08/hosting_for_tweet.html" rel="bookmark">Hosting for Tweet Marker</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>Today was day 7 of the &#8220;first app&#8221;:http://twitterrific.com/ to ship with Tweet Marker support. Overall, things have been working great. I thought I&#8217;d write a little bit about my hosting experience so far.</p>
+<p>First, the good news: the service is up and fast. Twitterrific is sending a lot of traffic, even with the preference off by default, but the server app is architected in such a way that things are zipping along nicely. Performance is especially important on the iPhone, where a Twitter client might be saving state on quit and any lag would be pretty obvious. Non-trivial server work, such as hitting the Twitter API, is done in the background using Resque, and the queue size there is usually small too.</p>
+<p>There have been two distinct problems, though. Each was a good opportunity to improve the system.</p>
+<p>On the first day, the background queue stalled and the requests piled up, so much so that my Redis instance ran out of memory and clients started receiving errors. I upgraded Redis, restarted the app, and bumped up the number of processes to quickly catch up on the backlog. Although it hasn&#8217;t resulted in errors since, it has delayed some requests on 2 more occasions after launch. I also adjusted how I&#8217;m collecting statistics to further improve performance.</p>
+<p>More recently, I&#8217;ve noticed some sporadic SSL errors when Tweet Marker tries to verify the user account via Twitter. I added more wait-and-retry logic, and I&#8217;m keeping an eye on this to kick the background script if necessary. There have been no errors in the last couple days.</p>
+<p>I still think it was the right decision to host on Heroku. Although I am manually monitoring the server for general health (need to automate this badly), everything is less work than I would do with a colocated box or VPS. The biggest cost is that at the last minute I upgraded to Heroku&#8217;s dedicated PostgreSQL database. I&#8217;m still evaluating that, but I would rather launch with too much horsepower and scale it down later, than not enough.</p>
+<p>Again, thanks for your support. It is a little nerve-racking because I know that &#8220;other people&#8221;:http://www.iconfactory.com/ are depending on Tweet Marker being up and performing well. This is a different experience for me than working at a &#8220;larger company&#8221;:http://www.vitalsource.com/ with a dedicated system administrator, and also different than server backends for my Riverfold products, where it is only my own customers who will be disappointed if I fail.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="../category/programming.html" rel="category tag">Programming</a> and tagged <a href="../tag/heroku.html" rel="tag">heroku</a>, <a href="../tag/sinatra.html" rel="tag">sinatra</a>, <a href="../tag/tweetmarker.html" rel="tag">tweetmarker</a>, <a href="../tag/twitterrific.html" rel="tag">twitterrific</a> on <a href="../2011/08/hosting_for_tweet.html" title="10:06 pm" rel="bookmark"><time class="entry-date" datetime="2011-08-15T22:06:05+00:00">2011/08/15</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../author/manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-2016" class="post-2016 post type-post status-publish format-standard hentry category-programming tag-mii tag-wii tag-wiitransfer">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="../2011/08/wii_transfer_272.html" rel="bookmark">Wii Transfer 2.7.2</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>And now for something completely different. I released a bug fix update to &#8220;Wii Transfer&#8221;:http://www.riverfold.com/software/wiitransfer/ last night, the first in over a year. It doesn&#8217;t have some of the bigger things I&#8217;d like to finish for the app, but it does have an important bug fix to Mii rendering.</p>
+<p>At some point in a recent update to Safari or Mac OS X, Miis started appearing blank in Wii Transfer. These are rendered in an offscreen window using Flash, then saved as thumbnails in Wii Transfer with the option to export a JPEG. The fix &mdash; for reasons I&#8217;m still not clear on &mdash; was to switch to using NSBitmapImageRep&#8217;s cacheDisplayInRect instead of initWithFocusedViewRect. Needless to say, customers were frustrated that this was no longer working, and I&#8217;m sorry I didn&#8217;t take care of the problem more quickly.</p>
+<p>I&#8217;ve been thinking a lot lately about the future of Wii Transfer and its companion &#8220;@wii&#8221;:http://twitter.com/wii Twitter account. This little Mac app is overdue for a rename and refocused feature set.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="../category/programming.html" rel="category tag">Programming</a> and tagged <a href="../tag/mii.html" rel="tag">mii</a>, <a href="../tag/wii.html" rel="tag">wii</a>, <a href="../tag/wiitransfer.html" rel="tag">wiitransfer</a> on <a href="../2011/08/wii_transfer_272.html" title="5:29 pm" rel="bookmark"><time class="entry-date" datetime="2011-08-14T17:29:50+00:00">2011/08/14</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../author/manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-2015" class="post-2015 post type-post status-publish format-standard hentry category-business tag-donations tag-tweetmarker tag-twitter">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="../2011/08/tweet_marker_bootstrap.html" rel="bookmark">Tweet Marker bootstrap</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>Tweet Marker is getting big. I couldn&#8217;t be more excited that &#8220;Twitterrific 4.3 is now shipping&#8221;:http://twitterrific.com/ with syncing across Mac, iPad, and iPhone. &#8220;Users love it&#8221;:http://tweetlibrary.com/manton/twitterrific4.3 and many are rediscovering Twitterrific or becoming new customers just because of this feature.</p>
+<p>More apps are coming, too. Craig Hockenberry, from a &#8220;Macworld article by Dan Moren&#8221;:http://www.macworld.com/article/161655/2011/08/tweet_marker_shows_twitter_client_developers_still_innovating.html:</p>
+<blockquote><p>&#8220;The real value is having something that works well across the entire Twitter ecosystem. It&#8217;s our belief that Tweet Marker will become more useful as more clients support it.&#8221;</p></blockquote>
+<p>I struggled with how to build, price, and launch Tweet Marker. The first developers to use it are taking a risk, so I felt I had to remove the friction of supporting the service by making the API free. To cover hosting costs, I plan to later make an optional paid subscription available for developers who want more than the basics.</p>
+<p>But we&#8217;re not there yet, and some people have asked how they can support Tweet Marker directly. As an experiment, I&#8217;ve put up a donation button over &#8220;on the Tweet Marker site&#8221;:http://tweetmarker.net/. Think of it as a small investment in the service, a bootstrap to get things off the ground and remove the stress of scaling.</p>
+<p>It is not, however, a substitute for supporting client developers. Please pick up a copy of Twitterrific, and when my app Tweet Library is available with sync I hope you&#8217;ll consider that as well. Thanks!</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="../category/business.html" rel="category tag">Business</a> and tagged <a href="../tag/donations.html" rel="tag">donations</a>, <a href="../tag/tweetmarker.html" rel="tag">tweetmarker</a>, <a href="../tag/twitter.html" rel="tag">twitter</a> on <a href="../2011/08/tweet_marker_bootstrap.html" title="1:23 pm" rel="bookmark"><time class="entry-date" datetime="2011-08-13T13:23:03+00:00">2011/08/13</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../author/manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-2014" class="post-2014 post type-post status-publish format-standard hentry category-technology tag-api tag-kiwi tag-oauth tag-tweetlibrary tag-tweetmarker tag-twitter">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="../2011/07/twitter_app_chance.html" rel="bookmark">Twitter app chance</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>Five years ago today, I joined Twitter as its 897th user, though for some reason &#8220;my first tweet&#8221;:http://twitter.com/manton/statuses/1457463 wasn&#8217;t until a few months later. So much has changed in the meantime &mdash; the API always in flux, the transition from primarily SMS, to web, to apps &mdash; but in many ways the core of the service remains intact and stronger than ever. Short messages, distributed efficiently to friends.</p>
+<p>I talked about some of the good and bad of being a Twitter developer &#8220;on the ATX Web Show last week&#8221;:http://atxwebshow.com/2011/07/05/episode-34-tweet-library-with-manton/. There have been a string of changes that cause developers to scramble: turning off basic auth, discouraging mainstream clients, disabling DMs for xAuth. With each step, Twitter loses a little goodwill, and that&#8217;s demonstrated in the tweets I &#8220;collected over the xAuth change&#8221;:http://tweetlibrary.com/manton/xauthtooauth.</p>
+<p>Even as Twitter passes 1 million registered apps, there&#8217;s a risk that some developers will stick with the platform as users only, putting their apps in maintenance mode. In May, &#8220;Kiwi developer Isaiah stopped development&#8221;:http://yourhead.tumblr.com/post/5550105265/i-love-you-kiwi-i-know of his Mac Twitter app:</p>
+<blockquote><p>&#8220;I&#8217;m just going to take a break from Kiwi for a while. It&#8217;s still for sale. I still support it. I&#8217;ll still fix bugs when they crop up. But adding new features and playing catch up with the other guys/gals is off the table.&#8221;</p></blockquote>
+<p>Maybe because I don&#8217;t have to depend on Tweet Library sales, I tend to more stubbornly ignore what is good business sense. There&#8217;s so much I still want to do. As &#8220;I wrote in my previous take&#8221;:http://www.manton.org/2011/03/twitters.html on the state of the platform: &#8220;I&#8217;m a little discouraged, but not enough to stop.&#8221;</p>
+<p>I think that&#8217;s doubly true today. More annoyed, but also more determined to plug holes in the platform, from archiving to syncing. I couldn&#8217;t be more excited about the developers who are building in &#8220;Tweet Marker&#8221;:http://tweetmarker.net/ support.</p>
+<p>And there&#8217;s always a chance, a feeling that something big is just around the corner. That if I don&#8217;t add that one feature, or open up that new API, I&#8217;ll miss the tipping point that makes Tweet Library really take off.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="../category/technology.html" rel="category tag">Technology</a> and tagged <a href="../tag/api.html" rel="tag">api</a>, <a href="../tag/kiwi.html" rel="tag">kiwi</a>, <a href="../tag/oauth.html" rel="tag">oauth</a>, <a href="../tag/tweetlibrary.html" rel="tag">tweetlibrary</a>, <a href="../tag/tweetmarker.html" rel="tag">tweetmarker</a>, <a href="../tag/twitter.html" rel="tag">twitter</a> on <a href="../2011/07/twitter_app_chance.html" title="11:45 am" rel="bookmark"><time class="entry-date" datetime="2011-07-14T11:45:46+00:00">2011/07/14</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../author/manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-2013" class="post-2013 post type-post status-publish format-standard hentry category-technology tag-apple tag-ipad tag-ipod">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="../2011/07/ipad_pro_is.html" rel="bookmark">iPad Pro is the new iPod Photo</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>I&#8217;m fascinated with the iPad &#8220;3&#8221; rumors because on the surface they make so little sense. Apple just shipped the iPad 2, no competitors can match it, and demand is strong. Why mess with a good thing so soon?</p>
+<p>But it almost fits when <a href="http://daringfireball.net/linked/2011/07/11/ipad-pro">you give it a name like &#8220;Pro&#8221;</a> (or iPad Retina, or whatever). This isn&#8217;t a replacement for the current iPad; it&#8217;s another layer to the product lineup. And like the awkwardly-named iPod Photo from 2004, I bet the iPad Pro is meant to be temporary. It&#8217;s a way to sell a high-end, over-priced and over-pixeled iPad before the technology is cheap enough for the masses. A year or two from now, the Retina Display will be available in all iPads, and the &#8220;Pro&#8221; name will fade away, just like iPod Photo did when all iPods got a color screen.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="../category/technology.html" rel="category tag">Technology</a> and tagged <a href="../tag/apple.html" rel="tag">apple</a>, <a href="../tag/ipad.html" rel="tag">ipad</a>, <a href="../tag/ipod.html" rel="tag">ipod</a> on <a href="../2011/07/ipad_pro_is.html" title="6:00 pm" rel="bookmark"><time class="entry-date" datetime="2011-07-12T18:00:42+00:00">2011/07/12</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../author/manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-2012" class="post-2012 post type-post status-publish format-standard hentry category-programming tag-apple tag-bookshelf tag-icloud tag-notes tag-push tag-sync">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="../2011/07/pushbased_sync.html" rel="bookmark">Push-based sync</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>&#8220;Guy English writes about iCloud&#8221;:http://kickingbear.com/blog/archives/202 and the magic glue (Push Notifications&#8217; persistent connection) that makes it work:</p>
+<blockquote><p>&#8220;Each of these new features tickle the persistent &#8216;push&#8217; connection and trigger some action on the device. The short-form state may be transmitted immediately and set on any connected device within moments. Document syncing is likely to trigger a negotiation process to compare the state on any one device with The Truth stored on Apple servers and replace the document on the device with the latest revision &mdash; this has the advantage of limiting the window between syncing where conflicts are most likely to occur.&#8221;</p></blockquote>
+<p>Sync speed matters. The first note sharing server I built for VitalSource years ago assumed a lot of offline time, and despite &#8220;my blogging in 2007 that it was&#8221;:http://www.manton.org/2007/01/bookshelf_note_sharing.html &#8220;magic&#8221;, in practice it could take 5-10 minutes before all your computers got their act together to get a set of highlights completely synced. With that kind of lag, note edits might happen on a client in the meantime, so we remembered conflicts everywhere and had a UI for resolving them.</p>
+<p>Too complicated. The new system, recently rolled out in Bookshelf for iPhone and iPad, syncs so much more efficiently and quickly that conflicts don&#8217;t need the same emphasis. We can throw away a bunch of code and simplify the user interface.</p>
+<p>I&#8217;ve yet to do anything with iCloud except read the release notes and sit through a couple WWDC sessions, but we&#8217;re going to have a fantastic platform if it can deliver the same speed and reliability of Push Notifications. Guy&#8217;s post is the first I&#8217;ve seen to connect the dots, capturing how well-positioned Apple is to use this plumbing for all sorts of stuff.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="../category/programming.html" rel="category tag">Programming</a> and tagged <a href="../tag/apple.html" rel="tag">apple</a>, <a href="../tag/bookshelf.html" rel="tag">bookshelf</a>, <a href="../tag/icloud.html" rel="tag">icloud</a>, <a href="../tag/notes.html" rel="tag">notes</a>, <a href="../tag/push.html" rel="tag">push</a>, <a href="../tag/sync.html" rel="tag">sync</a> on <a href="../2011/07/pushbased_sync.html" title="11:13 am" rel="bookmark"><time class="entry-date" datetime="2011-07-01T11:13:37+00:00">2011/07/01</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../author/manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-2011" class="post-2011 post type-post status-publish format-standard hentry category-business tag-appstore tag-indie">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="../2011/06/direct_download_as.html" rel="bookmark">Direct download as a bargaining chip</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>In the closing paragraph of &#8220;my Mac App Store follow-up post&#8221;:http://www.manton.org/2011/06/mac_app_store_followup.html, I suggested that eventually most developers will exclusively distribute through the App Store. John Brayton, the developer of &#8220;CloudPull&#8221;:http://www.goldenhillsoftware.com/ for Google Docs backup, &#8220;called this out on Twitter&#8221;:http://twitter.com/johnbrayton/status/83214489025134592:</p>
+<blockquote><p>&#8220;Good post, but disagree that selling outside the MAS won&#8217;t be worthwhile. IMHO we should be using our own stores as bargaining chip.&#8221;</p></blockquote>
+<p>&#8220;In a thread to the MacSB mailing list&#8221;:http://tech.groups.yahoo.com/group/macsb/message/18381, John has a related version of this reasoning:</p>
+<blockquote><p>&#8220;Selling independently provides protection against Mac App Store policy decisions that could affect my app. If Apple decides tomorrow to kick me out of the Mac App Store, I would take a hit but I would still be able to sell my app.&#8221;</p></blockquote>
+<p>I couldn&#8217;t agree more, to both points. There may be some advantages to going App Store-only &mdash; less initial setup for checkout and licensing, no confusion about which version to buy, or where to upgrade &mdash; but indie Mac developers should be doing everything they can to control their own destiny. Having your own store is just good business sense.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="../category/business.html" rel="category tag">Business</a> and tagged <a href="../tag/appstore.html" rel="tag">appstore</a>, <a href="../tag/indie.html" rel="tag">indie</a> on <a href="../2011/06/direct_download_as.html" title="9:52 am" rel="bookmark"><time class="entry-date" datetime="2011-06-26T09:52:15+00:00">2011/06/26</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../author/manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-2010" class="post-2010 post type-post status-publish format-standard hentry category-business tag-37signals tag-decisions tag-sifter tag-tweetmarks">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="../2011/06/focusing_on_the.html" rel="bookmark">Focusing on the wrong things</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>&#8220;Great post from Garrett Dimon&#8221;:http://garrettdimon.com/post/6724266888/my-biggest-mistake, on his biggest mistake building the bug-tracker Sifter:</p>
+<blockquote><p>&#8220;I got bogged down watching our bottom-line even though we&#8217;ve always been comfortably profitable. I worried about preventing fraud even though the only instance we ever encountered only cost us $200. I constantly worried that Sifter could go down at any moment even though we&#8217;ve had 99.96% uptime since launch. [&#8230;] All of these little things were distracting me from the work that really mattered.&#8221;</p></blockquote>
+<p>For a small company, focusing on the wrong things will make or break a product. I&#8217;m guilty of the same thing. I sat on &#8220;Tweetmarks&#8221;:http://tweetmarks.net/ for 6 months without launching it because I was worried about how to pay for hosting and how to get developers involved.</p>
+<p>Sometimes there&#8217;s no obvious solution <em>until you ship</em>. Eventually it becomes easier to know when to be patient &mdash; to solve a problem right the first time &mdash; and when it&#8217;s needless worrying over something that may or may not even happen. And as 37signals says: &#8220;decisions are temporary&#8221;:http://gettingreal.37signals.com/ch06_Done.php anyway.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="../category/business.html" rel="category tag">Business</a> and tagged <a href="../tag/37signals.html" rel="tag">37signals</a>, <a href="../tag/decisions.html" rel="tag">decisions</a>, <a href="../tag/sifter.html" rel="tag">sifter</a>, <a href="../tag/tweetmarks.html" rel="tag">tweetmarks</a> on <a href="../2011/06/focusing_on_the.html" title="2:43 pm" rel="bookmark"><time class="entry-date" datetime="2011-06-22T14:43:14+00:00">2011/06/22</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../author/manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-2009" class="post-2009 post type-post status-publish format-standard hentry category-business tag-appstore tag-clipstart">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="../2011/06/mac_app_store.html" rel="bookmark">Mac App Store follow-up</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>I&#8217;ve been sitting on this post for a while. First the good news: &#8220;Clipstart&#8221;:http://www.riverfold.com/software/clipstart/ is in the Mac App Store. Overall I was very happy with the response and glad to have a new way for customers to find the app.</p>
+<p>I&#8217;ve received a bunch of good feedback on &#8220;my blog post about Apple&#8217;s 30% cut&#8221;:http://www.manton.org/2011/01/app_store_30_cut.html. A few people are really upset with Apple, and there are posts in the dev forums about Mac apps that still weren&#8217;t approved for one reason or another weeks after the store launched. Other developers keep quiet, either for fear of rocking the boat or because they are happy with their sales and don&#8217;t see a significant problem.</p>
+<p>And then there&#8217;s most of us who know Apple can do even better. We&#8217;re frustrated when an app (not just our own) is rejected or stuck in review indefinitely, but we just accept that things are a little dysfunctional and cross our fingers that maybe Apple will magically become more transparent.</p>
+<p>But it&#8217;s not going to happen by itself. It&#8217;s not going to happen because the culture of Apple under Steve Jobs is secrecy. Apple is about great products, sure, but they&#8217;re so obsessed with the big reveal that it weakens their communication with developers.</p>
+<p>From a &#8220;MacSB mailing list post about WWDC&#8221;:http://tech.groups.yahoo.com/group/macsb/message/18055 by Dave Howell, written back in February:</p>
+<blockquote><p>&#8220;Second, Apple employees are no longer allowed to talk about anything. In the past, half of the value of WWDC was talking directly to the folks who wrote the OS frameworks you have questions about. But now the answer to any question is always either &#8216;file a bug&#8217; or &#8216;send an email to devprograms@apple.com.&#8217; They&#8217;re all under a gag order.&#8221;</p></blockquote>
+<p>The baffling part is that many of the problems in the App Store process are easily solvable. The iTunes Connect team could, for example, make it a priority to answer all email. I don&#8217;t know what the organizational structure is over there, and I&#8217;m sympathetic to what must be a flood of app submissions, but it doesn&#8217;t feel like App Store support gets the same quality treatment that Developer Technical Support does.</p>
+<p>Contrast with &#8220;Gus Mueller&#8217;s point on Twitter&#8221;:http://twitter.com/ccgus/status/24200147764256768:</p>
+<blockquote><p>&#8220;I&#8217;m with you on the 30% + silence issue. With PayPal, they&#8217;ll call me back when I email them with problems or questions.&#8221;</p></blockquote>
+<p>&#8220;Michael Tsai echoes this&#8221;:http://mjtsai.com/blog/2011/01/09/mac-app-store-unanswered-questions/ on his blog:</p>
+<blockquote><p>&#8220;The main value of Apple&#8217;s 30% cut is access to a larger market, but it still doesn&#8217;t look good that companies such as PayPal, eSellerate, and E-junkie charge much less and provide great service. I can e-mail or call those companies and get answers right away.&#8221;</p></blockquote>
+<p>Good support takes extra resources and it costs money. Luckily Apple has both, and that&#8217;s why drawing attention to Apple&#8217;s 30% cut was key to my original argument. Developers are playing by Apple&#8217;s rules and helping to fund the App Store.</p>
+<p>Despite all this, I&#8217;m upbeat. In 2011 I want to look for ways that I can help Apple succeed, such as filing bugs. For years I swore off bothering, because it took so long to turn around a fix, if ever, and I had long since worked around a bug and moved on. iOS changes that delay because it improves so significantly every single year.</p>
+<p>I&#8217;m all for &#8220;praising Apple when it&#8217;s deserved&#8221;:http://www.marco.org/2011/02/04/ode-to-the-app-review-team, but history shows that Apple improves the App Store when people complain. My posts are negative when it&#8217;s warranted and worth paying attention to.</p>
+<p>The App Store is getting better. (I love that the Resolution Center is there even if I hope to never need to use it.) The writing is on the wall that a year from now most apps will be distributed through the Mac App Store, and the savings and independence of direct download sales won&#8217;t be worth the maintenance of two separate forms of distribution for many developers. But if Apple holds all the cards in this relationship, then <em>we must hold Apple</em> to a very high standard.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="../category/business.html" rel="category tag">Business</a> and tagged <a href="../tag/appstore.html" rel="tag">appstore</a>, <a href="../tag/clipstart.html" rel="tag">clipstart</a> on <a href="../2011/06/mac_app_store.html" title="11:22 am" rel="bookmark"><time class="entry-date" datetime="2011-06-21T11:22:01+00:00">2011/06/21</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../author/manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-2008" class="post-2008 post type-post status-publish format-standard hentry category-business tag-madmen tag-marketing tag-stevejobs tag-tweetlibrary">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="../2011/06/carousel.html" rel="bookmark">Carousel</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>Don Draper, from the &#8220;season 1 finale of Mad Men&#8221;:http://www.youtube.com/watch?v=suRDUFpsHus (YouTube, skip if you plan to watch the whole series):</p>
+<p><a href="http://www.youtube.com/watch?v=suRDUFpsHus"><img src="../images/2011/don_draper.jpg" width="400" height="227" alt="Don Draper" style="border: 1px solid gray; display:block; margin-left:auto; margin-right:auto;" border="0" /></a></p>
+<blockquote><p>&#8220;This device isn&#8217;t a spaceship; it&#8217;s a time machine. It goes backwards, forwards. It takes us to a place where we ache to go again. It&#8217;s not called the wheel; it&#8217;s called the carousel. It lets us travel the way a child travels &mdash; around and around, and back home again, to a place where we know we were loved.&#8221;</p></blockquote>
+<p>When I first saw this a couple years ago I thought of Steve Jobs, the master pitchman in our industry. The delivery is different, more personal here, but it was stunning as part of the full episode. Who doesn&#8217;t want to build products that resonate so well, that go from nice utilities or productivity apps to something our customers fall in love with?</p>
+<p>First you build a product that changes things, that is truly useful. Something ambitious. Then find a way to sell it that connects, and underscore why it matters.</p>
+<p>I don&#8217;t really know how to do this yet. But I do know that part of it is telling stories. Why did I create &#8220;Tweet Library&#8221;:http://www.riverfold.com/software/tweetlibrary/? To tell stories, to remember events that matter before they&#8217;re lost in the fleeting stream of old tweets. It&#8217;s the kind of nostalgia at the heart of the Mad Men clip.</p>
+<p>&#8220;I like this post from Kyle Neath of GitHub&#8221;:http://warpspire.com/posts/idea-businesses/, that it&#8217;s about ideas, not products (via &#8220;Duncan Davidson&#8221;:http://duncandavidson.com/):</p>
+<blockquote><p>&#8220;People want to be part of ideas. Being part of a company who builds a successful product is cool&#8230; but being part of an idea is a lot more attractive. If you can build a business where both your employees and your customers think they&#8217;re part of an idea, you&#8217;ve created something special.&#8221;</p></blockquote>
+<p>If you can extract the core idea from a great product, everything that comes next can be matched to the idea, so the product has a clear path for new features. Building a story around it &mdash; something that sticks, and having the resources to tell that story properly &mdash; takes a lot of work. I&#8217;m inspired when I see others do it well, and it&#8217;s an art I hope to make time for.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="../category/business.html" rel="category tag">Business</a> and tagged <a href="../tag/madmen.html" rel="tag">madmen</a>, <a href="../tag/marketing.html" rel="tag">marketing</a>, <a href="../tag/stevejobs.html" rel="tag">stevejobs</a>, <a href="../tag/tweetlibrary.html" rel="tag">tweetlibrary</a> on <a href="../2011/06/carousel.html" title="3:37 pm" rel="bookmark"><time class="entry-date" datetime="2011-06-15T15:37:44+00:00">2011/06/15</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../author/manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-2007" class="post-2007 post type-post status-publish format-standard hentry category-events tag-instapaper tag-keynote tag-wwdc">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="../2011/06/wwdc_2011_keynote.html" rel="bookmark">WWDC 2011 keynote: diversify</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>This year&#8217;s WWDC keynote was one of the most significant of the last few years. Twitter integration and iCloud were the highlights for me, although at the end of the week I&#8217;m still not sure when or how I&#8217;ll be able to use either. But I love that it was a software-only event &mdash; that&#8217;s how WWDC should be &mdash; and I love that there were major new features on both of Apple&#8217;s platforms.</p>
+<p>A few of the announcements seemed to have significant overlap (if not direct competition) with third-party developers, in particular Instapaper, Camera+, and the dozens of to-do list apps in the store. You can see some of that live reaction in a &#8220;collection of tweets&#8221;:http://tweetlibrary.com/manton/wwdc2011 I put together at the conference.</p>
+<p>My first thought for Marco Arment was that he should come out with a new product. Not because I&#8217;m worried about Instapaper, but just because I&#8217;d love to see what he&#8217;d build next. &#8220;Marco is still upbeat on Instapaper&#8217;s chances&#8221;:http://www.marco.org/2011/06/06/safari-reader-and-instapaper for continued success:</p>
+<blockquote><p>&#8220;If Reading List gets widely adopted and millions of people start saving pages for later reading, a portion of those people will be interested in upgrading to a dedicated, deluxe app and service to serve their needs better. And they&#8217;ll quickly find Instapaper in the App Store.&#8221;</p></blockquote>
+<p>Yet here&#8217;s Dave Winer, &#8220;reflecting on when Apple competed with his product&#8221;:http://scripting.com/stories/2011/06/06/anotherGreatSboringsLovely.html:</p>
+<blockquote><p>&#8220;I think the answer is to find meaning in your work independent of what happens with the fickleness of the platform vendor and its developers. I went on to take the same software that Apple crushed and turned it into blogging, RSS, podcasting, web APIs, all kinds of cool stuff. And yes it did eventually make me a bunch of money. But not the way everyone thought it would.&#8221;</p></blockquote>
+<p>As Dave used to say, zig where they zag. Find the unique value in the apps you build and spin those out as separate products or use as inspiration for new features. Daniel and I have talked about this on Core Intuition: pull your app&#8217;s strength into a competition advantage by reusing code and adding more depth than anyone starting from scratch.</p>
+<p>By playing to your strengths, you can do more, faster. Every indie Mac and iOS developer should be thinking about a suite of products.</p>
+<p>&#8220;Justin Williams hits this&#8221;:http://carpeaqua.com/2011/06/07/the-agony-and-the-ecstasy-of-wwdc/ in the context of WWDC:</p>
+<blockquote><p>&#8220;Some people grow frustrated by Apple continually making inroads in existing developer&#8217;s territory, but it comes with being a part of the platform. The key is to ensure your product lineup is diverse enough that you can survive taking the blow Apple may offer at the next keynote.&#8221;</p></blockquote>
+<p>You should make the choice to diversify before you&#8217;re forced to make it, because WWDC is already a full year of choices rolled up into one week. Dropbox/Simplenote and iCloud, OAuth and Twitter.framework, iOS 4 and 5, Retain/Release and ARC. Like the &#8220;Persians deliberating while both drunk and sober&#8221;:http://skepticalphilosopher.blogspot.com/2009/09/persian-strategy-deliberating-while.html (&#8220;via Buzz Andersen&#8221;:http://twitter.com/buzz/status/76502320514465793), if you make any real decisions during WWDC&#8217;s info intoxication, make them again a week later.</p>
+<p>Marco has a clear advantage over his new competition, though, regardless of whether he creates new products or sticks with Instapaper. &#8220;Send to Instapaper&#8221; is built into every great Twitter app and newsreader. It took years to build such widespread integration, and it won&#8217;t be easy (even for Apple) to be on equal footing with such a well-loved and established brand.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="../category/events.html" rel="category tag">Events</a> and tagged <a href="../tag/instapaper.html" rel="tag">instapaper</a>, <a href="../tag/keynote.html" rel="tag">keynote</a>, <a href="../tag/wwdc.html" rel="tag">wwdc</a> on <a href="../2011/06/wwdc_2011_keynote.html" title="1:02 pm" rel="bookmark"><time class="entry-date" datetime="2011-06-14T13:02:25+00:00">2011/06/14</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../author/manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-2006" class="post-2006 post type-post status-publish format-standard hentry category-programming tag-api tag-tweetlibrary tag-tweetmarker tag-tweetmarks tag-twitter">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="../2011/06/faq_for_tweet.html" rel="bookmark">FAQ for Tweet Marker</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>I mentioned in &#8220;my first post about Tweet Marker&#8221;:http://www.manton.org/2011/06/tweet_marker.html that there were some decisions still to be made about the service. I don&#8217;t know everything yet, but I do want to answer some common questions I&#8217;m hearing from users and developers.</p>
+<p><em>Will Tweet Marker be free?</em></p>
+<p>Yes, I do not plan to charge users directly to use the service. There will also be no charge to developers for the basic sync API. However, it will take on real hosting costs, so I plan to have a more advanced paid plan (with more features and stats) so that participating Twitter apps can help pay for the service.</p>
+<p><em>How useful is it if the official Twitter app doesn&#8217;t support it?</em></p>
+<p>It is still very useful for users of third-party Twitter clients. I couldn&#8217;t allow the official Twitter app to use the API even if they wanted to, because theirs is a free app and has such a huge number of users. I also like that Tweet Marker becomes a selling point and discovery tool for other apps.</p>
+<p><em>Shouldn&#8217;t Twitter provide this service as part of their API?</em></p>
+<p>That would be great, but Twitter doesn&#8217;t seem interested in providing such a service. They don&#8217;t encourage users to read everything in their timeline, and it would be a little at odds with their focus on only the latest tweets.</p>
+<p><em>Why aren&#8217;t you using Apple&#8217;s new iCloud?</em></p>
+<p>The primary goal with Tweet Marker is to enable different Twitter apps to work together. iCloud is designed for storage and syncing only between apps from the same developer, so it&#8217;s not appropriate as a replacement architecture for Tweet Marker.</p>
+<p><em>Where is it hosted and what language was it written in?</em></p>
+<p>It is hosted on Heroku, which also powers the web site for my iPad app Tweet Library. Tweet Marker is written in Ruby with the Sinatra framework, and backed by PostgreSQL.</p>
+<p><em>What about sample code for building this into an app?</em></p>
+<p>I&#8217;m working on an example project for Mac and iOS. In the meantime, remember that it uses OAuth Echo, which is what most Twitter apps should already be using to post to Twitpic and Yfrog. Just change the URL to use the Tweet Marker server and include the tweet status ID in the POST body. To retrieve the value, it&#8217;s just a GET request without authentication. &#8220;See the docs&#8221;:http://tweetmarker.net/ for more.</p>
+<p><em>Update:</em> I reworded the part above about whether the service will be free, since I don&#8217;t control how third-party clients will make this feature available to their users. I also updated it to reflect the service name change from Tweetmarks to Tweet Marker.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="../category/programming.html" rel="category tag">Programming</a> and tagged <a href="../tag/api.html" rel="tag">api</a>, <a href="../tag/tweetlibrary.html" rel="tag">tweetlibrary</a>, <a href="../tag/tweetmarker.html" rel="tag">tweetmarker</a>, <a href="../tag/tweetmarks.html" rel="tag">tweetmarks</a>, <a href="../tag/twitter.html" rel="tag">twitter</a> on <a href="../2011/06/faq_for_tweet.html" title="2:59 pm" rel="bookmark"><time class="entry-date" datetime="2011-06-13T14:59:56+00:00">2011/06/13</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../author/manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-2005" class="post-2005 post type-post status-publish format-standard hentry category-programming tag-heroku tag-sync tag-tweetlibrary tag-twitter tag-wwdc">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="../2011/06/tweet_marker.html" rel="bookmark">Tweet Marker</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>So you want to sync the last-read tweet with all your different Twitter apps on iPhone, iPad, and Mac? Yeah, me too. While I hope to build a version of Tweet Library for other platforms, what I&#8217;d also love is to be able to switch between clients and know that each one will pick up where I was last reading in the timeline.</p>
+<p>That&#8217;s why I&#8217;m introducing a new service for Twitter developers: &#8220;Tweet Marker&#8221;:http://tweetmarks.net/.</p>
+<p>I&#8217;ve already showed it off to a few developers, and if you&#8217;re writing a Twitter app I&#8217;d love for you to support it too. It will be baked into the next version of Tweet Library.</p>
+<p>There are still some unknowns (especially around whether I will need to ask for help to cover hosting costs), but I wanted to launch it now before WWDC so that other Twitter app developers meeting at the conference can give me feedback on the service. Tweet Marker has actually been running for months, and when an opportunity came along this week for a new logo (&#8220;thanks Alex!&#8221;:http://dribbble.com/solonsky), I knew it was past time to finish documenting the service and get it out.</p>
+<p>To be successful it needs at least 2 apps to support it (I&#8217;ll supply one of those). I&#8217;ve tried to solve all the other basic problems. It&#8217;s simple, fast, scalable on Heroku, and protected so that mischief-makers can&#8217;t tamper with tweet IDs.</p>
+<p>Send me an email or find me in person next week if you have any feedback.</p>
+<p><em>Update:</em> This post has been updated to reflect the service name change from Tweetmarks to Tweet Marker.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="../category/programming.html" rel="category tag">Programming</a> and tagged <a href="../tag/heroku.html" rel="tag">heroku</a>, <a href="../tag/sync.html" rel="tag">sync</a>, <a href="../tag/tweetlibrary.html" rel="tag">tweetlibrary</a>, <a href="../tag/twitter.html" rel="tag">twitter</a>, <a href="../tag/wwdc.html" rel="tag">wwdc</a> on <a href="../2011/06/tweet_marker.html" title="8:53 am" rel="bookmark"><time class="entry-date" datetime="2011-06-03T08:53:04+00:00">2011/06/03</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../author/manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-2004" class="post-2004 post type-post status-publish format-standard hentry category-user_experience tag-daily tag-ebooks tag-ipad tag-newspapers">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="../2011/05/the_daily.html" rel="bookmark">The Daily</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>&#8220;David Barnard chimes in&#8221;:http://davidbarnard.com/post/5649151852/orchestrating-magic on The Daily:</p>
+<blockquote><p>&#8220;The carousel is a fun bit of UI (at least in theory, it&#8217;s still a bit laggy and jittery for my taste), but there&#8217;s just no way to quickly deliver enough content to make the carousel usable. The front page and table of contents, on the other hand, could likely be fully delivered in the 4-5 seconds from the launch of the app to the end of the launch animation. Sending users directly to the front page (or potentially a redesigned table of contents, but I wont get into that) will make it feel as though the app has been magically filled with content.&#8221;</p></blockquote>
+<p>David makes some great points. Put another way, if some of their design decisions were too ambitious for their technical plumbing to keep up with, they should update the design and optimize it for speed. With such a mainstream app, though, you can&#8217;t really win. I&#8217;m sure if it was only fast and not fancy, it would have been criticized as too bland.</p>
+<p>The initial criticism of &#8220;The Daily&#8221;:http://www.thedaily.com/ always seemed overblown to me. It&#8217;s not perfect, but they got some of the difficult things right: navigation that makes sense, original content, good layout, clear subscription model.</p>
+<p>Off and on for the first few weeks, I would read several articles each day in The Daily. There were a couple crashes and glitches, but nothing that made the app unusable. If no one else had been complaining, I&#8217;m not sure I would have noticed anything so wrong it was worth mentioning.</p>
+<p>They can make it faster and polish up the rough edges over a few subsequent bug fix releases. And maybe enough of the fundamentals are right that they can get pretty far even without the design changes David suggests.</p>
+<p>Now that I&#8217;ve &#8220;written a few e-book apps&#8221;:http://www.vitalsource.com/, I can say with certainty that getting the basics right is more challenging than it looks. Other traditional companies moving their content to the iPad have launched much farther off-course than The Daily.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="../category/user_experience.html" rel="category tag">User Experience</a> and tagged <a href="../tag/daily.html" rel="tag">daily</a>, <a href="../tag/ebooks.html" rel="tag">ebooks</a>, <a href="../tag/ipad.html" rel="tag">ipad</a>, <a href="../tag/newspapers.html" rel="tag">newspapers</a> on <a href="../2011/05/the_daily.html" title="4:54 pm" rel="bookmark"><time class="entry-date" datetime="2011-05-24T16:54:47+00:00">2011/05/24</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../author/manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-2003" class="post-2003 post type-post status-publish format-standard hentry category-programming tag-amsterdam tag-apps tag-europe tag-mikelee">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="../2011/04/appsterdam.html" rel="bookmark">Appsterdam</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>A great name to go along with &#8220;a big idea from Mike Lee&#8221;:http://mur.mu.rs/?p=1:</p>
+<blockquote><p>&#8220;If you&#8217;ve been to a conference, you&#8217;ve probably thought, as I have, how nice it would be if everyday life could be like that&mdash;being surrounded by peers, able to get help solving a hard problem, then get accolades for doing so. There is a gestalt to sitting face to face with a group you just don&#8217;t get over the wire. With Appsterdam, our community is not just a nice idea, but a nice place.&#8221;</p></blockquote>
+<p>I would love to visit Europe again. It&#8217;s been too long.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="../category/programming.html" rel="category tag">Programming</a> and tagged <a href="../tag/amsterdam.html" rel="tag">amsterdam</a>, <a href="../tag/apps.html" rel="tag">apps</a>, <a href="../tag/europe.html" rel="tag">europe</a>, <a href="../tag/mikelee.html" rel="tag">mikelee</a> on <a href="../2011/04/appsterdam.html" title="3:54 pm" rel="bookmark"><time class="entry-date" datetime="2011-04-21T15:54:40+00:00">2011/04/21</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../author/manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-2002" class="post-2002 post type-post status-publish format-standard hentry category-user_experience tag-tweetbot tag-tweetlibrary tag-twitter">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="../2011/04/tweetbot.html" rel="bookmark">Tweetbot</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>After about a day of using Tweetbot, &#8220;I said&#8221;:https://twitter.com/manton/status/58723721728360448:</p>
+<blockquote><p>&#8220;Tweetbot gets nearly everything in the UI right. Love it. But.. it&#8217;s a basic client. I still think the future for third parties is features.&#8221;</p></blockquote>
+<p>I only got a few responses, most defending Tweetbot as something special. I agree, and there&#8217;s a lot to be inspired by from it. In an odd way, though, just being the best Twitter client isn&#8217;t enough.</p>
+<p>&#8220;Marco Arment writes more&#8221;:http://www.marco.org/2011/04/18/ben-brooks-on-tweetbot (following a &#8220;post from Ben Brooks&#8221;:http://brooksreview.net/2011/04/appsuration/) about why Tweetbot isn&#8217;t for him despite being such a good client:</p>
+<blockquote><p>&#8220;A new Twitter client that essentially offers the Twitter app&#8217;s features, but in different places, isn&#8217;t enough of a difference for me to switch. If anything, it supports Twitter&#8217;s &#8216;don&#8217;t make full-featured apps&#8217; position. Maybe they were right.&#8221;</p></blockquote>
+<p>The problem isn&#8217;t that third parties shouldn&#8217;t make full-featured clients; it&#8217;s that they shouldn&#8217;t make clients that have <em>exactly the same features as every other client</em>. If Twitter discourages all apps from being made just because many will fail, we&#8217;ll miss out on all the things Twitter will never add to their apps and platform.</p>
+<p>I see three compelling reasons to use Tweetbot 1.0: the design, swipe for conversations, and related tweets. The last is actually in the Twitter API &mdash; I&#8217;ve been meaning to add it to Tweet Library &mdash; but it&#8217;s not yet documented outside of an email message to the dev mailing list. Congrats to Tapbots for being the first I&#8217;ve seen to add it as a high-profile feature.</p>
+<p>Last September I wrote about &#8220;next-generation Twitter apps&#8221;:http://www.manton.org/2010/09/next_generation.html:</p>
+<blockquote><p>&#8220;I believe we&#8217;re about to see a third generation of clients that will go way beyond what the web site can do. There was worry when Twitter bought Tweetie that it would destroy the third-party Twitter market, and sure, some developers will fail or be discouraged from trying to compete against a free official product. But really what it does is raise the bar &mdash; that to succeed Twitter clients should be more than just a one-to-one mapping between UI and the Twitter API.&#8221;</p></blockquote>
+<p>I hadn&#8217;t announced Tweet Library yet when I wrote that. Now that I&#8217;ve shipped it, I believe even more strongly that we haven&#8217;t seen anything yet from Twitter apps. Tweetbot is a great 1.0 and my go-to app on the phone because it&#8217;s better in lots of small ways than anything else. But that it&#8217;s not for everyone is actually great news. I hope there are plenty of unique features still to come from a variety of other apps.</p>
+<p>Consider this: Tweetie already &#8220;won&#8221; the market. No matter what we do as Twitter API developers, none of us can ever have the most popular Twitter app. This frees every app to focus on its core strength. For Twitterrific, that&#8217;s a unified timeline; for Echofon, that&#8217;s last-read sync; for Hibari, that&#8217;s keywords; for Kiwi, that&#8217;s themes; for my own Tweet Library, that&#8217;s curation.</p>
+<p>What&#8217;s Tweetbot&#8217;s core strength? For now, overall user experience, not standout features. But I&#8217;ve been a Tapbots customer long enough that I&#8217;m excited to see where they take it.</p>
+<p>For more Tweetbot discussion, check out &#8220;this collection of tweets I made&#8221;:http://tweetlibrary.com/manton/tweetbot1.0 about the launch.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="../category/user_experience.html" rel="category tag">User Experience</a> and tagged <a href="../tag/tweetbot.html" rel="tag">tweetbot</a>, <a href="../tag/tweetlibrary.html" rel="tag">tweetlibrary</a>, <a href="../tag/twitter.html" rel="tag">twitter</a> on <a href="../2011/04/tweetbot.html" title="4:01 pm" rel="bookmark"><time class="entry-date" datetime="2011-04-20T16:01:55+00:00">2011/04/20</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../author/manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-2001" class="post-2001 post type-post status-publish format-standard hentry category-business tag-acorn tag-coreint tag-flyingmeat tag-versions">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="../2011/04/acorn_3.html" rel="bookmark">Acorn 3</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>On a &#8220;recent Core Intuition&#8221;:http://www.coreint.org/2011/03/episode-38-the-impression-of-standing-still/, Daniel and I talked about version numbers and the message you send by going to 2.0 or 3.0. The version is as much about marketing as it is about technically tracking the release.</p>
+<p>I can think of no better example of this than &#8220;Acorn 3&#8221;:http://flyingmeat.com/acorn/. The app started simply enough &mdash; first as just a new FlySketch, then as a simple image editor, then becoming more advanced with each iteration &mdash; but it has really hit its stride with 3.0. The landmark feature, layer styles, alone warrants the bump to 3.0.</p>
+<p>Combine with the overall maturity of the app and you get a blockbuster release. Acorn made the top grossing list and was outselling all other non-Apple software. My Twitter stream lit up with good things about the app.</p>
+<p>The version number is a part of that. This isn&#8217;t a 2.5. The 3.0 is saying: this is big news, and anyone who has maybe heard of Acorn but never tried it needs to give this version a shot.</p>
+<p>I&#8217;m particularly happy for Gus because he&#8217;s earned this success over years. From the archives in 2005, &#8220;Gus&#8217;s post on being an indie&#8221;:http://gusmueller.com/blog/archives/2005/12/25.html:</p>
+<blockquote><p>&#8220;Just plan, set realistic goals, meet those goals, diversify, save up, add four cups of patience, and have fun. And most importantly- work your ass off. It&#8217;s not difficult, it&#8217;s just not easy. It takes time and patience and hard work.&#8221;</p></blockquote>
+<p>One of the first great blog posts about working for yourself writing Mac software.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="../category/business.html" rel="category tag">Business</a> and tagged <a href="../tag/acorn.html" rel="tag">acorn</a>, <a href="../tag/coreint.html" rel="tag">coreint</a>, <a href="../tag/flyingmeat.html" rel="tag">flyingmeat</a>, <a href="../tag/versions.html" rel="tag">versions</a> on <a href="../2011/04/acorn_3.html" title="9:43 am" rel="bookmark"><time class="entry-date" datetime="2011-04-18T09:43:04+00:00">2011/04/18</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../author/manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
 	<article id="post-2000" class="post-2000 post type-post status-publish format-standard hentry category-comics tag-comic tag-drawings tag-sxsw">
 				<header class="entry-header">
 			
@@ -127,392 +508,6 @@ img.emoji {
 		
 		<footer class="entry-meta">
 			This entry was posted in <a href="../category/personal.html" rel="category tag">Personal</a> and tagged <a href="../tag/apps.html" rel="tag">apps</a>, <a href="../tag/earthquake.html" rel="tag">earthquake</a>, <a href="../tag/japan.html" rel="tag">japan</a>, <a href="../tag/tsunami.html" rel="tag">tsunami</a> on <a href="../2011/03/buy_apps_help.html" title="1:35 am" rel="bookmark"><time class="entry-date" datetime="2011-03-29T01:35:35+00:00">2011/03/29</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../author/manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
-	</article><!-- #post -->
-							
-	<article id="post-1997" class="post-1997 post type-post status-publish format-standard hentry category-weblogs tag-daringfireball tag-dreamhost tag-static">
-				<header class="entry-header">
-			
-						<h1 class="entry-title">
-				<a href="../2011/03/brent_on_baked.html" rel="bookmark">Brent on baked blogs</a>
-			</h1>
-								</header><!-- .entry-header -->
-
-				<div class="entry-content">
-			<p>My post on free apps &#8220;was linked from Daring Fireball&#8221;:http://daringfireball.net/linked/2011/03/18/manton-app-store a few days ago. Tons of new traffic, but my site didn&#8217;t go down. Why? An ancient but reliable version of Movable Type spitting out static files, with just a tiny bit of PHP for &#8220;Mint stats&#8221;:http://haveamint.com/.</p>
-<p>&#8220;Brent Simmons talks about this lost art&#8221;:http://inessential.com/2011/03/16/a_plea_for_baked_weblogs of publishing to static files instead of serving from a database:</p>
-<blockquote><p>&#8220;It&#8217;s an old technique, actually, but too rarely practiced. (Lots of weblogs in the &#8217;90s were rendered as files-on-disk. They were built from a database plus templates and scripts and uploaded to a server. We did a bunch of this when I worked with Dave Winer at UserLand Software.)&#8221;</p></blockquote>
-<p>I couldn&#8217;t agree more with Brent&#8217;s advice, and in fact I ran this blog on Radio Userland for its first couple of years. In addition to performance, static files are portable. I can pick up this site and move it anywhere. The old web is fragile, and as web sites age, being able to permanently host them somewhere cheap and stable is going to become a big deal.</p>
-<p>I hope a modern equivalent to Movable Type emerges eventually. For now, I&#8217;m thankful that the only time I have to worry about a web site outage is when a Dreamhost sysadmin trips over a power cord.</p>
-					</div><!-- .entry-content -->
-		
-		<footer class="entry-meta">
-			This entry was posted in <a href="../category/weblogs.html" rel="category tag">Weblogs</a> and tagged <a href="../tag/daringfireball.html" rel="tag">daringfireball</a>, <a href="../tag/dreamhost.html" rel="tag">dreamhost</a>, <a href="../tag/static.html" rel="tag">static</a> on <a href="../2011/03/brent_on_baked.html" title="9:51 am" rel="bookmark"><time class="entry-date" datetime="2011-03-21T09:51:04+00:00">2011/03/21</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../author/manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
-	</article><!-- #post -->
-							
-	<article id="post-1996" class="post-1996 post type-post status-publish format-standard hentry category-programming tag-api tag-oauth tag-tweetlibrary tag-twitter">
-				<header class="entry-header">
-			
-						<h1 class="entry-title">
-				<a href="../2011/03/twitters_platform_at.html" rel="bookmark">Twitter&#8217;s platform at 5 years</a>
-			</h1>
-								</header><!-- .entry-header -->
-
-				<div class="entry-content">
-			<p>Twitter recommended upgrading to OAuth <a href="http://dev.twitter.com/pages/security_best_practices">&#8220;for optimal security&#8221;</a> and so developers don&#8217;t need to <a href="http://dev.twitter.com/announcements">&#8220;worry about the user changing their password&#8221;</a>. While I dislike APIs that break old clients, I saw mostly the good things about OAuth, framed around letting the user approve access to their own account.</p>
-<p>Seven months ago, as Twitter was finishing the OAuth transition, &#8220;Buzz Andersen tweeted this&#8221;:http://twitter.com/buzz/statuses/21402358130:</p>
-<blockquote><p>&#8220;Twitter isn&#8217;t just enforcing OAuth for technical reasons: it&#8217;s a way of taking control of the platform.&#8221;</p></blockquote>
-<p>I&#8217;m not sure I got it at the time. Twitter was all about open APIs, right? They encouraged new clients, and the original Mac client Twitterrific had &#8220;brought a lot of innovation and standards&#8221;:http://furbo.org/2011/03/11/twitterrific-firsts/ to the platform. Why would they need this level of control?</p>
-<p>&#8220;The email from Ryan Sarver&#8221;:http://groups.google.com/group/twitter-development-talk/browse_thread/thread/c82cd59c7a87216a/7dd46c26157c9e29 last week showed part of how Twitter is changing as a company, refocusing from building a network to selling a product. Reading between the lines, it seems that to effectively sell ads, Twitter feels they need to control the user experience. On Twitter clients:</p>
-<blockquote><p>&#8220;Developers have told us that they&#8217;d like more guidance from us about the best opportunities to build on Twitter. More specifically, developers ask us if they should build client apps that mimic or reproduce the mainstream Twitter consumer client experience. The answer is no.&#8221;</p></blockquote>
-<p>Disappointing. At a panel on the Twitter API at SXSW, that sadly no one from Twitter in Austin knew about, the mood was pretty dim. I said to the room that we expected more from Twitter.</p>
-<p>Then over the weekend, Ryan clarified: &#8220;we are saying it&#8217;s not a good business to be in but we aren&#8217;t shutting them off or telling devs they can&#8217;t build them.&#8221; There&#8217;s still plenty of uncertainty, but that&#8217;s a more hopeful message. I collected some additional &#8220;related tweets on tweetlibrary.com&#8221;:http://tweetlibrary.com/manton/twitterapirules.</p>
-<p>Many people during SXSW asked me what this means for Tweet Library. Is Tweet Library a mainstream Twitter client? It has all the basic features of a normal client, but no, not really. It&#8217;s meant to be something more, something unique that solves problems no one else is working on, least of all Twitter.</p>
-<p>I&#8217;m a little discouraged, but not enough to stop. I owe it to my customers to finish what I started: to fix bugs, add new features, polish the rough edges, and make Tweet Library the best app on the Twitter platform.</p>
-					</div><!-- .entry-content -->
-		
-		<footer class="entry-meta">
-			This entry was posted in <a href="../category/programming.html" rel="category tag">Programming</a> and tagged <a href="../tag/api.html" rel="tag">api</a>, <a href="../tag/oauth.html" rel="tag">oauth</a>, <a href="../tag/tweetlibrary.html" rel="tag">tweetlibrary</a>, <a href="../tag/twitter.html" rel="tag">twitter</a> on <a href="../2011/03/twitters_platform_at.html" title="8:23 am" rel="bookmark"><time class="entry-date" datetime="2011-03-19T08:23:30+00:00">2011/03/19</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../author/manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
-	</article><!-- #post -->
-							
-	<article id="post-1995" class="post-1995 post type-post status-publish format-standard hentry category-programming tag-api tag-http tag-rest tag-webservices">
-				<header class="entry-header">
-			
-						<h1 class="entry-title">
-				<a href="../2011/03/overusing_the_term.html" rel="bookmark">Overusing the term REST</a>
-			</h1>
-								</header><!-- .entry-header -->
-
-				<div class="entry-content">
-			<p>Jens Alfke, &#8220;commenting on the new Rdio API&#8221;:http://jens.mooseyard.com/2011/03/dudes-this-is-so-not-rest/:</p>
-<blockquote><p>&#8220;Maybe we should just give up on the term REST, since it&#8217;s become so diluted as to mean nothing more than &#8216;HTTP API that&#8217;s not as hard to use as SOAP&#8217;?&#8221;</p></blockquote>
-<p>Sounds right. &#8220;Pure REST&#8221;:http://en.wikipedia.org/wiki/Representational_State_Transfer was never strictly followed, and the advantage to consistent HTTP methods &mdash; being able to abstract parts of the client details away, as with &#8220;ActiveResource&#8221;:http://api.rubyonrails.org/classes/ActiveResource/Base.html &mdash; don&#8217;t seem like significant savings to me. Now that XML-RPC and SOAP are mostly dead, we assume that new APIs are going to be usable from any language without much effort. I won&#8217;t object to having one less acronym in the world.</p>
-					</div><!-- .entry-content -->
-		
-		<footer class="entry-meta">
-			This entry was posted in <a href="../category/programming.html" rel="category tag">Programming</a> and tagged <a href="../tag/api.html" rel="tag">api</a>, <a href="../tag/http.html" rel="tag">http</a>, <a href="../tag/rest.html" rel="tag">rest</a>, <a href="../tag/webservices.html" rel="tag">webservices</a> on <a href="../2011/03/overusing_the_term.html" title="10:52 pm" rel="bookmark"><time class="entry-date" datetime="2011-03-17T22:52:12+00:00">2011/03/17</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../author/manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
-	</article><!-- #post -->
-							
-	<article id="post-1994" class="post-1994 post type-post status-publish format-standard hentry category-events tag-blogger tag-evan tag-sxsw">
-				<header class="entry-header">
-			
-						<h1 class="entry-title">
-				<a href="../2011/03/wayback.html" rel="bookmark">Wayback</a>
-			</h1>
-								</header><!-- .entry-header -->
-
-				<div class="entry-content">
-			<p>Today is the 9th anniversary of this blog. Once a year I dig through old posts, remembering what the industry was like and the topics I was interested in. This time I found a link to a post Evan Williams wrote in 2001 as Pyra Labs and Blogger were struggling:</p>
-<blockquote><p>&#8220;First of all, the company (Pyra) is not dead, and the service (Blogger) is not going away. However: We are out of money, and I have lost my team.&#8221;</p></blockquote>
-<p>And:</p>
-<blockquote><p>&#8220;Yes, things would have been very, very different if the Internet Bubble wouldn&#8217;t have burst and we were still in that&#8230;that, Other World in which we started. In that world, things that seem dumb now (such as launching a product and letting it grow for so long without making revenue from it a priority) made sense.&#8221;</p></blockquote>
-<p>The full text is &#8220;available on the Wayback Machine&#8221;:http://replay.waybackmachine.org/200102040700/http://www.evhead.com/longer/2200706_essays.asp. I wish more CEOs blogged with even half the sincerity.</p>
-<p>SXSW Interactive starts this weekend. When Evan wrote the above, the conference was a few rooms along a single hallway. Now it&#8217;s a monster conference, spread across multiple venues, with a speaker database so dense I don&#8217;t even know where to start. Still, I&#8217;ll be there and hope to catch up with any of y&#8217;all making it to Austin.</p>
-					</div><!-- .entry-content -->
-		
-		<footer class="entry-meta">
-			This entry was posted in <a href="../category/events.html" rel="category tag">Events</a> and tagged <a href="../tag/blogger.html" rel="tag">blogger</a>, <a href="../tag/evan.html" rel="tag">evan</a>, <a href="../tag/sxsw.html" rel="tag">sxsw</a> on <a href="../2011/03/wayback.html" title="7:11 am" rel="bookmark"><time class="entry-date" datetime="2011-03-09T07:11:45+00:00">2011/03/09</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../author/manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
-	</article><!-- #post -->
-							
-	<article id="post-1993" class="post-1993 post type-post status-publish format-standard hentry category-business tag-amazon tag-android tag-appstore tag-developers">
-				<header class="entry-header">
-			
-						<h1 class="entry-title">
-				<a href="../2011/03/where_apple_went.html" rel="bookmark">Where Apple went wrong with free apps</a>
-			</h1>
-								</header><!-- .entry-header -->
-
-				<div class="entry-content">
-			<p>&#8220;John Gruber has a solid summary&#8221;:http://daringfireball.net/2011/03/dirty_percent of the issues around in-app purchase. Regarding the closed platform:</p>
-<blockquote><p>&#8220;iOS isn&#8217;t and never was an open computer system. It&#8217;s a closed, controlled console system &mdash; more akin to Playstation or Wii or Xbox than to Mac OS X or Windows. It is, in Apple&#8217;s view, a privilege to have a native iOS app.&#8221;</p></blockquote>
-<p>This is the root of nearly every strength and problem with the App Store. I&#8217;ll never be happy about it. But in-app purchase restrictions are even more complicated than that. It started not just with the controlled environment but the decisions around free apps.</p>
-<p>&#8220;Michael Tsai points to this Peter Oppenheimer quote&#8221;:http://mjtsai.com/blog/2011/02/24/app-store-revenue-stream/ from late February that Apple runs the App Store at &#8220;just a little over breakeven&#8221;. I&#8217;ve argued that Apple&#8217;s 30% tax is about growing that to significant profit at the expense of developers, but in the back of my head I&#8217;ve also been concerned that maybe it&#8217;s just to keep the App Store from falling into the red. Maybe they are really struggling under the weight of what they created, and long app review times and lack of focus around the Mac App Store launch are just symptoms of that.</p>
-<p>If this is true, then I&#8217;m more sympathetic to Apple&#8217;s predicament. They aren&#8217;t being greedy; they&#8217;re just trying not to lose money. But that doesn&#8217;t mean they didn&#8217;t make a mistake.</p>
-<p>Steve Jobs, announcing the App Store in March 2008:</p>
-<blockquote><p>&#8220;You know what price a lot of developers are going to pick? Free, right? So when a developer wants to distribute their app for free, there is no charge for free apps. At all. There&#8217;s no charge to the user, and there&#8217;s no charge to the developer. We&#8217;re going to pay for everything to get those apps out there for free. The developer and us have the same exact interest, which is to get as many apps out in front of as many iPhone users as possible.&#8221;</p></blockquote>
-<p>I remember being surprised when I heard this. We take for granted now that much of the App Store&#8217;s success is because of free apps, but I&#8217;m not sure it had to be that way. The iTunes Music Store launched with a full paid catalog of music. Many of the hits in the App Store, like Angry Birds and Doodle Jump, have never been free.</p>
-<p>But watching Steve Jobs from 2008, you can tell Apple was worried that what happened to the Mac (lack of third-party apps and games) might happen to the iPhone as well, so they gambled the profitability of the App Store away to encourage as many apps as possible. That was their choice.</p>
-<p>Again, from Steve Jobs: &#8220;We keep 30% to pay for running the App Store.&#8221; Not a profit center. Not a business. Just to pay for running the store, so that the user experience for app discovery on the iPhone is second to none.</p>
-<p>Today, we know that Apple has never planned well for free apps. You don&#8217;t need to look much further than their &#8220;reversal of allowing in-app purchase in free apps&#8221;:http://www.macworld.com/article/143339/2009/10/appstorepurchasing.html to see that they are making this stuff up as they go along.</p>
-<p>When Steve Jobs said it, offering free apps for so little seemed almost foolish, like Apple was compensating for the high 30% by giving <em>too</em> good a deal to free apps. Why not charge some hosting fee? Or why not give up exclusive distribution and let free apps be installed directly by the user without forcing everything through the App Store? Unlimited bandwidth, promotion in the store, and everything else just for the $99 dev program fee was a pretty good deal.</p>
-<p>And now I wonder if Apple hasn&#8217;t been backpedaling ever since, trying to make up for that mistake: free apps are a burden. iAd was the first correction, because a share of revenue from free apps was going to Google instead of Apple. In-app purchase is the next correction, because real value can be delivered in a free app with transactions handled elsewhere.</p>
-<p>Apple can&#8217;t accept a future in which too many apps are technically free &mdash; something that has already happened on Android &mdash; unless they are also taking a cut when money changes hands outside of app download.</p>
-<p>&#8220;Matt Drance clearly spotted the loophole&#8221;:http://www.appleoutsider.com/2011/02/22/omgiapbbq/ that forces Apple to be so strict with in-app rules:</p>
-<blockquote><p>&#8220;30% to Apple across the board &mdash; app sales, IAP, and now subscriptions &mdash; is consistent, clear, and uncheatable. That cheating bit is significant: a 10% commission for subscriptions, for example, would see developers adopting the subscription system en masse so they could keep more money. Apps that were once $2.99 would suddenly be asking for installments like late-night infomercials.&#8221;</p></blockquote>
-<p>Apple is trapped by their original decision to shoulder the cost of free apps. They encouraged free apps and now they&#8217;ve got one band-aid on top of another &mdash; advertisements, in-app purchase, subscriptions &mdash; all trying to make free apps work for the App Store bottom line. These changes make developers nervous because all the power lies with Apple.</p>
-<p>Free apps and the problem of exclusive distribution are linked. Get rid of free apps, and the store can support itself naturally. Get rid of exclusive distribution, and Apple can be more creative about charging developers who do want to participate in the App Store. If Amazon isn&#8217;t happy with Apple&#8217;s terms, users can install the Kindle app outside the store and it doesn&#8217;t cost Apple anything to maintain.</p>
-<p>Apple, want to charge 30%? Go for it. Want to make the submission rules more strict? Fine. Want to adjust how you run the App Store to reflect what&#8217;s happening in the market? No problem. Just give developers an out. We are going to be back here year after year with the latest controversy until exclusive app distribution is fixed.</p>
-					</div><!-- .entry-content -->
-		
-		<footer class="entry-meta">
-			This entry was posted in <a href="../category/business.html" rel="category tag">Business</a> and tagged <a href="../tag/amazon.html" rel="tag">amazon</a>, <a href="../tag/android.html" rel="tag">android</a>, <a href="../tag/appstore.html" rel="tag">appstore</a>, <a href="../tag/developers.html" rel="tag">developers</a> on <a href="../2011/03/where_apple_went.html" title="12:49 pm" rel="bookmark"><time class="entry-date" datetime="2011-03-08T12:49:27+00:00">2011/03/08</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../author/manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
-	</article><!-- #post -->
-							
-	<article id="post-1992" class="post-1992 post type-post status-publish format-standard hentry category-events tag-apple tag-ipad tag-tweetlibrary tag-tweets">
-				<header class="entry-header">
-			
-						<h1 class="entry-title">
-				<a href="../2011/03/ipad_2_and.html" rel="bookmark">iPad 2 (and tweets)</a>
-			</h1>
-								</header><!-- .entry-header -->
-
-				<div class="entry-content">
-			<p>I couldn&#8217;t be more excited about the iPad 2. Yes, &#8220;most of it was expected&#8221;:http://twitter.com/manton/status/42597189645639680, but faster and more memory is exactly what the iPad needs. I&#8217;ll be getting it on day 1 and can&#8217;t wait to give Tweet Library a try on the new hardware.</p>
-<p>During the announcement I collected 70 tweets that I thought captured the event. You can &#8220;view them on tweetlibrary.com&#8221;:http://tweetlibrary.com/manton/ipad2event.</p>
-<p>Speaking of Tweet Library, Apple just approved version 1.2.2. It fixes a handful of bugs and adds a few new things, like block and report spam, for those of you using it as your main Twitter client. Check out the &#8220;full release notes&#8221;:http://www.riverfold.com/software/tweetlibrary/releasenotes/ or view it &#8220;in the App Store&#8221;:http://itunes.apple.com/us/app/tweet-library/id365768793?mt=8.</p>
-					</div><!-- .entry-content -->
-		
-		<footer class="entry-meta">
-			This entry was posted in <a href="../category/events.html" rel="category tag">Events</a> and tagged <a href="../tag/apple.html" rel="tag">apple</a>, <a href="../tag/ipad.html" rel="tag">ipad</a>, <a href="../tag/tweetlibrary.html" rel="tag">tweetlibrary</a>, <a href="../tag/tweets.html" rel="tag">tweets</a> on <a href="../2011/03/ipad_2_and.html" title="8:06 am" rel="bookmark"><time class="entry-date" datetime="2011-03-04T08:06:23+00:00">2011/03/04</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../author/manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
-	</article><!-- #post -->
-							
-	<article id="post-1991" class="post-1991 post type-post status-publish format-standard hentry category-technology tag-30percent tag-appstore tag-inapp">
-				<header class="entry-header">
-			
-						<h1 class="entry-title">
-				<a href="../2011/02/neven_mrgan_on.html" rel="bookmark">Neven Mrgan on Apple&#8217;s focus</a>
-			</h1>
-								</header><!-- .entry-header -->
-
-				<div class="entry-content">
-			<p>I hadn&#8217;t yet read &#8220;Neven Mrgan&#8217;s post&#8221;:http://mrgan.tumblr.com/post/3451376797/30 when I wrote &#8220;my own&#8221;:http://www.manton.org/2011/02/30_of_the.html yesterday, but he strikes one of the same themes I closed with:</p>
-<blockquote><p>&#8220;But with this 30% thing, the 30% I&#8217;m really interested in is, will Apple eventually see 30% of its revenue come from various cuts, percentages, deals, and obligations? If so, that means a different focus for the company &mdash; a focus on things and people farther removed from me and you. And that makes me a bit bummed out.&#8221;</p></blockquote>
-<p>Of course, neither of us is filling in for Steve Jobs, and Apple <em>can</em> do anything they want within the law. But what Neven captures so well here is that many of us hold Apple to a higher standard because Apple has a history of creating great things. This 30% business model doesn&#8217;t seem to have any place in that history.</p>
-					</div><!-- .entry-content -->
-		
-		<footer class="entry-meta">
-			This entry was posted in <a href="../category/technology.html" rel="category tag">Technology</a> and tagged <a href="../tag/30percent.html" rel="tag">30percent</a>, <a href="../tag/appstore.html" rel="tag">appstore</a>, <a href="../tag/inapp.html" rel="tag">inapp</a> on <a href="../2011/02/neven_mrgan_on.html" title="8:23 pm" rel="bookmark"><time class="entry-date" datetime="2011-02-23T20:23:24+00:00">2011/02/23</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../author/manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
-	</article><!-- #post -->
-							
-	<article id="post-1990" class="post-1990 post type-post status-publish format-standard hentry category-technology tag-apple tag-appstore tag-ipad">
-				<header class="entry-header">
-			
-						<h1 class="entry-title">
-				<a href="../2011/02/30_of_the.html" rel="bookmark">30% of the future</a>
-			</h1>
-								</header><!-- .entry-header -->
-
-				<div class="entry-content">
-			<p>I believe the iPad is the future of mainstream computing, not just of mobile devices. That&#8217;s why I picked it as the first platform for Tweet Library. But forcing developers to use in-app purchase shows that Apple&#8217;s version of success for the iPad looks much different than mine.</p>
-<p>Apple&#8217;s tight control over iOS has always been troubling. If there&#8217;s no way to install an app on the device without Apple&#8217;s approval, then Apple can make or break any business that builds for the platform. It&#8217;s an added risk for the thousands of tiny development shops for which the iPhone and iPad are otherwise perfect.</p>
-<p>There was such huge growth in the development community because of iOS that I&#8217;m not sure anyone was paying attention to where we&#8217;d end up. We saw a new phone instead of the future of computing. We saw the gold rush but not the damage, so we let it happen. We let it happen by not sending Apple a clear message: total control over distribution is bad for developers and bad for users.</p>
-<p>And now we&#8217;re letting Apple take 30% from every company that wants an iOS app to complement their business, whether it has anything to do with software development or not.</p>
-<p>From &#8220;Matt Drance&#8221;:http://www.appleoutsider.com/2011/02/22/omgiapbbq/:</p>
-<blockquote><p>&#8220;Whatever the fine print says, Apple is no longer letting developers do things it had been letting them do &mdash; and build businesses on &mdash; for almost two years, and many developers are quite understandably upset about that.&#8221;</p></blockquote>
-<p>And &#8220;Marco Arment&#8221;:http://www.marco.org/3437484678:</p>
-<blockquote><p>&#8220;A broad, vague, inconsistently applied, greedy, and unjustifiable rule doesn&#8217;t make developers want to embrace the platform.&#8221;</p></blockquote>
-<p>I hope we&#8217;re wrong about the worst-case interpretation &mdash; I like &#8220;this Steve Jobs email&#8221;:http://www.macrumors.com/2011/02/21/steve-jobs-email-suggests-in-app-subscriptions-dont-apply-to-software-as-a-service/ much more than &#8220;the reality of Readability&#8217;s rejection&#8221;:http://blog.readability.com/2011/02/an-open-letter-to-apple/ &mdash; but because Apple fails so spectacularly at communication we won&#8217;t know for sure until more rejections come in.</p>
-<p>I&#8217;m not comfortable with a future in which 30 cents on the dollar goes to a single company, no matter whether it&#8217;s from app downloads (where Apple offers hosting and discovery) or content sales and web service subscriptions (where Apple offers little). If the iPad grows like many of us expect it to, siphoning a third of the cash flow around <em>everyday computers</em> will create a completely different economic environment than exists today. It&#8217;s unprecedented.</p>
-<p>And it would ruin Apple. Not the company&#8217;s finances, but its focus. John Gruber &#8220;wonders what he&#8217;s missing&#8221;:http://daringfireball.net/linked/2011/02/21/readability, and this is it: Apple is embracing a model that is fine for Readability but runs counter to Apple&#8217;s core business. The iTunes Music Store wasn&#8217;t a business in its own right; it helped sell more iPods. The App Store shouldn&#8217;t be a huge revenue stream; it makes the iPhone and iPad better.</p>
-<p>Apple&#8217;s strength has always been selling a great product to end users &mdash; &#8220;the rest of us&#8221;. The new Apple has fallen into the trap of thinking they should also be an advertising company and an overpriced payment processor. It&#8217;s a slippery slope from here to becoming just another mega-corp that has their hands in everything that can make money instead of &#8220;standing for something&#8221;:http://www.youtube.com/watch?v=4oAB83Z1ydE.</p>
-					</div><!-- .entry-content -->
-		
-		<footer class="entry-meta">
-			This entry was posted in <a href="../category/technology.html" rel="category tag">Technology</a> and tagged <a href="../tag/apple.html" rel="tag">apple</a>, <a href="../tag/appstore.html" rel="tag">appstore</a>, <a href="../tag/ipad.html" rel="tag">ipad</a> on <a href="../2011/02/30_of_the.html" title="7:05 pm" rel="bookmark"><time class="entry-date" datetime="2011-02-22T19:05:40+00:00">2011/02/22</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../author/manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
-	</article><!-- #post -->
-							
-	<article id="post-1989" class="post-1989 post type-post status-publish format-standard hentry category-user_experience tag-filters tag-twitter">
-				<header class="entry-header">
-			
-						<h1 class="entry-title">
-				<a href="../2011/02/tweet_library_filters.html" rel="bookmark">Tweet Library filters</a>
-			</h1>
-								</header><!-- .entry-header -->
-
-				<div class="entry-content">
-			<p>&#8220;John Chandler wrote a nice post&#8221;:http://www.byjohnchandler.com/2011/01/28/filter-friday/ on the filters he uses in various Twitter apps. Here&#8217;s a clever one for <em>&#8220;you missed it&#8221;</em>:</p>
-<blockquote><p>&#8220;I try to limit how many people I follow so I can read most of what they say. So, if they preface a tweet with something like &#8216;If you missed it,&#8217; or &#8216;In case you missed it,&#8217; I probably didn&#8217;t.&#8221;</p></blockquote>
-<p>As I mentioned in the comments, I have a few filters I like too, such as filtering out all old-style RTs. I even experimented with filtering out all hashtags. It&#8217;s great when I want to completely un-clutter the timeline of gimmicky tweets, but I can keep the filter toggled off when I have more time to read.</p>
-<p>The advantage of how I built filters in &#8220;Tweet Library&#8221;:http://www.riverfold.com/software/tweetlibrary/ is that they are dynamic collections inside the app, kind of like smart playlists in iTunes. This means while it filters the junk out of my timeline, I can still occasionally go and review what it filtered out.</p>
-<p>(I just submitted Tweet Library 1.2.1 to the App Store with a handful of bug fixes. Hopefully it&#8217;ll be approved soon.)</p>
-					</div><!-- .entry-content -->
-		
-		<footer class="entry-meta">
-			This entry was posted in <a href="../category/user_experience.html" rel="category tag">User Experience</a> and tagged <a href="../tag/filters.html" rel="tag">filters</a>, <a href="../tag/twitter.html" rel="tag">twitter</a> on <a href="../2011/02/tweet_library_filters.html" title="8:08 pm" rel="bookmark"><time class="entry-date" datetime="2011-02-12T20:08:25+00:00">2011/02/12</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../author/manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
-	</article><!-- #post -->
-							
-	<article id="post-1988" class="post-1988 post type-post status-publish format-standard hentry category-technology tag-appstore tag-ebooks tag-inapp tag-thedaily">
-				<header class="entry-header">
-			
-						<h1 class="entry-title">
-				<a href="../2011/02/inapp_purchase_changes.html" rel="bookmark">In-app purchase changes</a>
-			</h1>
-								</header><!-- .entry-header -->
-
-				<div class="entry-content">
-			<p>With the recent release of &#8220;The Daily&#8221;:http://www.thedaily.com/ and the news of &#8220;Sony&#8217;s e-book app rejection&#8221;:http://arstechnica.com/apple/news/2011/02/change-in-apple-policy-has-e-book-fans-worried-about-their-apps.ars, there&#8217;s speculation that Apple will change the rules around iOS in-app purchases. The 30% cut makes it difficult for some businesses to move to the App Store without passing a cost increase on to customers.</p>
-<p>Other than &#8220;no change&#8221;, I&#8217;ve only heard two possible solutions:</p>
-<p>&bull; <em>Special deals for the big guys.</em> Amazon and other retailers could negotiate lower rates. But as Marco mentioned on &#8220;Build and Analyze&#8221;:http://5by5.tv/buildanalyze/11, the App Store treats large and small developers as equals. It&#8217;s a real strength that a 2-person game company can compete with Electronic Arts. I hope we never lose that.</p>
-<p>&bull; <em>Lower percentage for everyone.</em> Not going to happen. Take an app like Twitterrific. I consider it a $5 app, but to the store it&#8217;s actually a free app with a $5 in-app upgrade. Lowering the in-app cut would encourage many previously paid apps to convert to free and pay less to Apple.</p>
-<p>This is why I believe the only option is for Apple to <em>distinguish between in-app content and features</em>. Content purchases, such as e-books or virtual game items, would be in one class of payment. Feature upgrades, such as unlocking core functionality in the app, would continue to be 30%, same as paid downloads.</p>
-<p>Is it confusing for developers? Is it totally subjective and up to the judgement of the review team? Yes. Welcome to the App Store.</p>
-					</div><!-- .entry-content -->
-		
-		<footer class="entry-meta">
-			This entry was posted in <a href="../category/technology.html" rel="category tag">Technology</a> and tagged <a href="../tag/appstore.html" rel="tag">appstore</a>, <a href="../tag/ebooks.html" rel="tag">ebooks</a>, <a href="../tag/inapp.html" rel="tag">inapp</a>, <a href="../tag/thedaily.html" rel="tag">thedaily</a> on <a href="../2011/02/inapp_purchase_changes.html" title="12:34 pm" rel="bookmark"><time class="entry-date" datetime="2011-02-10T12:34:33+00:00">2011/02/10</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../author/manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
-	</article><!-- #post -->
-							
-	<article id="post-1987" class="post-1987 post type-post status-publish format-standard hentry category-business tag-appstore tag-pricing tag-tweetlibrary">
-				<header class="entry-header">
-			
-						<h1 class="entry-title">
-				<a href="../2011/01/app_store_30.html" rel="bookmark">App Store 30% cut</a>
-			</h1>
-								</header><!-- .entry-header -->
-
-				<div class="entry-content">
-			<p>The Mac App Store launched! Like many developers I spent the day taking it out for a spin, thinking about whether this changes everything, and trying to ignore the fact that my app Clipstart isn&#8217;t in the store on day 1 even though &#8220;I submitted to Apple 7 weeks ago&#8221;:http://www.manton.org/misc/clipstart_mas_history.png.</p>
-<p>But let&#8217;s talk about Apple&#8217;s 30% cut, because it&#8217;s been on my mind now that I have a real app in the iPad App Store. It&#8217;s easy to keep these discussions too vague to be meaningful &mdash; 2.9% + $0.30 for PayPal, 8.9% for FastSpring, 30% for Apple, who cares? &mdash; so it&#8217;s more illustrative to work with real numbers.</p>
-<p>The massively-popular Camera+ from Tap Tap Tap &#8220;sold 78,000 copies on Christmas day&#8221;:http://www.macrumors.com/2010/12/28/camera-reaches-over-78000-sales-on-christmas-day-alone/, but no one else I know sees numbers like that. My own $10 Tweet Library fell a little short of 1000 copies in its first launch month&#8230; and unfortunately continued to drop since, but let&#8217;s use that to keep the math simple. Selling direct via PayPal would be $590 in fees. To Apple? About $3000.</p>
-<p>Apple provides a unique service and it&#8217;s their right to charge whatever they want. Developers can choose to pay it or restrict development to more open platforms. I&#8217;m inclined to think the 30% is high but not unreasonable for everything Apple hopes to provide.</p>
-<p>But here&#8217;s where everything breaks down: for $3000 I expect someone at Apple to <em>tell me what the $%!# is going on</em>.</p>
-<p>It&#8217;s not just review times, or emails that go into the void, unanswered for days or weeks or ever. It&#8217;s that Apple isn&#8217;t able to communicate about the fundamental issues that will make or break businesses.</p>
-<p>&bull; When is the Mac App Store launching? <em>No word</em> from Apple for months, and a press release went to news sites before developers got a heads-up.</p>
-<p>&bull; Why has my Mac app been in review for over a month, right up to the very day before the Mac App Store launches? <em>No answer</em>, and nothing to do but wait.</p>
-<p>&bull; Where was a beta version of the Mac App Store so that we could understand how it interacted with existing apps before it was too late? <em>Nowhere</em>.</p>
-<p>&bull; Why didn&#8217;t we receive more &#8220;guidance on bundle IDs&#8221;:http://openradar.appspot.com/8838369, version numbers, and app naming, obvious questions that only Apple knew the answer to? <em>No clue</em>.</p>
-<p>&bull; When will there be promo codes for the Mac App Store to give to the press or help transition customers to the store? <em>No idea</em>, might be never.</p>
-<p>A year and a half ago &#8220;Craig Hockenberry wrote about paying extra&#8221;:http://furbo.org/2009/07/10/year-two/ for fast approvals and a better communication channel. It reflected in words how frustrated everyone was over long app review times. At the time, &#8220;I answered&#8221;:http://www.manton.org/2009/07/999_hope.html that quality customer service from Apple is something all developers deserve, not just those with cash to burn.</p>
-<p>But clearly it&#8217;s even worse than that. Apple isn&#8217;t currently capable of significantly improving how the App Store works for any price! The App Store does get better, but it does so at Apple&#8217;s own pace.</p>
-<p>There are many great people at Apple. Individually I know they are passionate about making good products and helping developers succeed, but collectively it seems like no one person is running the show. The developer-facing side of the company needs to have the freedom to become more transparent, to work closely with the iTunes Connect support team when developers need an answer. Apple&#8217;s secrecy cripples their ability to have a positive relationship with developers.</p>
-<p>So do I think the 30% cut is too much? No, not for a straight answer. That would be priceless.</p>
-					</div><!-- .entry-content -->
-		
-		<footer class="entry-meta">
-			This entry was posted in <a href="../category/business.html" rel="category tag">Business</a> and tagged <a href="../tag/appstore.html" rel="tag">appstore</a>, <a href="../tag/pricing.html" rel="tag">pricing</a>, <a href="../tag/tweetlibrary.html" rel="tag">tweetlibrary</a> on <a href="../2011/01/app_store_30.html" title="12:47 pm" rel="bookmark"><time class="entry-date" datetime="2011-01-09T12:47:50+00:00">2011/01/09</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../author/manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
-	</article><!-- #post -->
-							
-	<article id="post-1986" class="post-1986 post type-post status-publish format-standard hentry category-business tag-bundles tag-design tag-mac tag-web">
-				<header class="entry-header">
-			
-						<h1 class="entry-title">
-				<a href="../2010/12/holiday_bundles_and.html" rel="bookmark">Holiday bundles and no-brainer promotions</a>
-			</h1>
-								</header><!-- .entry-header -->
-
-				<div class="entry-content">
-			<p>Two new bundles were announced this week: &#8220;The Indie Mac Gift Pack&#8221;:https://indiemacgiftpack.com/ (6 great Mac apps for $60) and the &#8220;Fusion Ads Holiday Bundle&#8221;:https://fusionads.net/bundle/ (an assortment of web design-related apps, icons, and more for $79). I love apps in both of these bundles and recommend you check them out, buy what you need, or gift them to a friend. There&#8217;s a fear among many developers that a bundle can cheapen the healthy Mac software market, but both these bundles avoid that with a higher price and the feel of being put together carefully.</p>
-<p>As a comparison, here&#8217;s a &#8220;Macworld article on holiday bundles from 2009&#8221;:http://www.macworld.com/article/145005/2009/12/holiday_bundles.html. That collection seems kind of random despite several good apps in the list.</p>
-<p>And sales for the Indie Mac Gift Pack are split evenly to the developers, so we know it&#8217;ll be a nice revenue boost for them during the holidays. From the FAQ:</p>
-<blockquote><p>&#8220;Hey&#8230; you&#8217;re ripping these developers off, aren&#8217;t you?&#8221; &#8230; &#8220;No&#8230; we ARE these developers. Our six small companies decided to band together and do a promotion, to see if it works for us. We&#8217;re splitting all the proceeds evenly. There&#8217;s no middleman here.&#8221;</p></blockquote>
-<p>I&#8217;ve never participated in a bundle, but after some of the &#8220;MacHeist controversy&#8221;:http://homepage.mac.com/simx/technonova/reports/from_the_mouths_of_developers.html I developed a set of rules that I run Riverfold promotions on. These are the easy things that I can always say &#8220;yes&#8221; to without much thought:</p>
-<p><em>Coupons are great.</em> My coupons rarely expire and I don&#8217;t care if sites like &#8220;retailmenot.com&#8221;:http://www.retailmenot.com/ keep a list of them. Saving a few bucks might be the difference between someone buying my software and not.</p>
-<p><em>Giving out software to bloggers is great.</em> Inspired by &#8220;Wil Shipley&#8217;s C4 talk&#8221;:http://www.viddler.com/explore/rentzsch/videos/4/, I&#8217;ve &#8220;blogged about this&#8221;:http://www.manton.org/2008/04/wii_transfer_serial.html. Apple employees get free licenses too.</p>
-<p><em>Small promotions are great.</em> I freely give out copies to small sites that want to give away licenses of my software to encourage people to post comments. I think readers interpret these (correctly) as software developers doing something generous for a small site, instead of the gut reaction when you see software listed on MacZot or MacUpdate Promo (&#8220;are sales so bad they had to sell their software for half price?&#8221;).</p>
-<p><em>Charity is great</em>. I loved being a part of &#8220;Indie+Relief&#8221;:http://www.indierelief.com/, the Pan-Mass Challenge auctions, and other bundles that go directly to a cause. Just like smaller promotions, these are good for users (deals on software), good for developers (helps with marketing), good for charity (donated money), and good for the software market (these aren&#8217;t developers who are making a sacrifice because their sales aren&#8217;t doing well &mdash; it&#8217;s charity).</p>
-<p>Now that I&#8217;ve seen a bundle like the &#8220;Indie Mac Gift Pack&#8221;:https://indiemacgiftpack.com/, I think I can more clearly judge a unique bundle opportunity when it comes along. Does it minimize the middleman? Does it respect the individual apps as peers? Does it use the total bundle price to underscore the value of software rather than cheapen it? Then it&#8217;s probably a good deal for everyone.</p>
-					</div><!-- .entry-content -->
-		
-		<footer class="entry-meta">
-			This entry was posted in <a href="../category/business.html" rel="category tag">Business</a> and tagged <a href="../tag/bundles.html" rel="tag">bundles</a>, <a href="../tag/design.html" rel="tag">design</a>, <a href="../tag/mac.html" rel="tag">mac</a>, <a href="../tag/web.html" rel="tag">web</a> on <a href="../2010/12/holiday_bundles_and.html" title="3:31 pm" rel="bookmark"><time class="entry-date" datetime="2010-12-17T15:31:49+00:00">2010/12/17</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../author/manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
-	</article><!-- #post -->
-							
-	<article id="post-1985" class="post-1985 post type-post status-publish format-standard hentry category-events tag-360idev tag-austin tag-conferences tag-ios">
-				<header class="entry-header">
-			
-						<h1 class="entry-title">
-				<a href="../2010/12/360idev_austin_in.html" rel="bookmark">360iDev Austin (in tweets)</a>
-			</h1>
-								</header><!-- .entry-header -->
-
-				<div class="entry-content">
-			<p>On &#8220;episode 35 of Core Intuition&#8221;:http://www.coreint.org/2010/11/episode-35-wrap-it-up-in-cocoa/ I mentioned attending the 360iDev conference, and we brought it up again on the next show while plugging 360MacDev. I had a great time at the conference and hope to attend another one in the future.</p>
-<p>The best part was meeting all the iPhone developers who I&#8217;ve never crossed paths with, and catching up with others I&#8217;d only met briefly before. iPhone developers come from a mix of places, from old Mac developers to web developers to traditional mobile or game developers. While there&#8217;s a risk that having so many small regional conferences will fragment the community, this concentrated group of mostly iPhone-only developers made for a great few days of sessions and discussion.</p>
-<p>And my main concern leading into the conference &mdash; that the hotel location would make it difficult for people to head downtown or see other parts of Austin &mdash; turned out to be mostly a non-issue. I had a great time hanging out with everyone in the evening, and hope some of you will be back for SXSW.</p>
-<p>I used Tweet Library to &#8220;collect about 120 tweets from attendees&#8221;:http://www.tweetlibrary.com/manton/360idevaustin at the conference: reaction to sessions, quotes, speaker slide URLs, dinner out, and more. Capturing an event like this is why I built the app. What you had for dinner isn&#8217;t interesting by itself, but <em>in context</em> it is powerful because it tells a story.</p>
-					</div><!-- .entry-content -->
-		
-		<footer class="entry-meta">
-			This entry was posted in <a href="../category/events.html" rel="category tag">Events</a> and tagged <a href="../tag/360idev.html" rel="tag">360idev</a>, <a href="../tag/austin.html" rel="tag">austin</a>, <a href="../tag/conferences.html" rel="tag">conferences</a>, <a href="../tag/ios.html" rel="tag">ios</a> on <a href="../2010/12/360idev_austin_in.html" title="11:08 am" rel="bookmark"><time class="entry-date" datetime="2010-12-15T11:08:04+00:00">2010/12/15</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../author/manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
-	</article><!-- #post -->
-							
-	<article id="post-1984" class="post-1984 post type-post status-publish format-standard hentry category-business tag-coreint tag-email tag-ideveloper tag-support">
-				<header class="entry-header">
-			
-						<h1 class="entry-title">
-				<a href="../2010/12/faster_support_response.html" rel="bookmark">Faster support response times</a>
-			</h1>
-								</header><!-- .entry-header -->
-
-				<div class="entry-content">
-			<p>In an &#8220;interview with Kevin Hoctor on episode 5 of the iDeveloper Live podcast&#8221;:http://ideveloper.tv/shows, Scotty referenced my comment from Core Intuition that customers are so used to terrible support that they don&#8217;t mind a few days or even a week delay. I thought this was maybe taken out of context a little since we were talking about vacations, so I went back to listen to what I said:</p>
-<blockquote><p>&#8220;Most people are thrilled to get a response in a few days, maybe a week they&#8217;re still cool with it. They are used to sending support email to companies and not getting a response any time soon or maybe not at all in some cases.&#8221;</p></blockquote>
-<p>Of course I didn&#8217;t mean I strive for week delays before a customer gets a response, but looking back I think Scotty&#8217;s interpretation was right: in a way this was a confession that I&#8217;ve fallen down when it comes to support. My response times for Tweet Library questions are still very good (usually same day), but it&#8217;s dragging for my other products. Even when I&#8217;m quick to respond to an initial email, difficult follow-up questions often won&#8217;t see an answer for some time. I&#8217;m just not as responsive as I was when I wrote &#8220;this blog post about good support in 2007&#8221;:http://www.manton.org/2007/02/customer.html.</p>
-<p>The worst part are the emails that fall through the cracks. They are on their 2nd or 3rd response to a problem that I don&#8217;t understand, or they&#8217;re waiting on a solution that isn&#8217;t ready, and months go by before I can pick up the thread again. I hate this.</p>
-<p>I&#8217;m going to use this opportunity to get back to where I should be: less than 24-hour response in all cases, for all products. I&#8217;m adding a &#8220;stats section to my support page&#8221;:http://www.riverfold.com/support/ to keep me in check, and I&#8217;ve seeded it with response times for the most recent support questions via email and forums. This will also give customers an idea of what to expect without an explicit promise from me.</p>
-					</div><!-- .entry-content -->
-		
-		<footer class="entry-meta">
-			This entry was posted in <a href="../category/business.html" rel="category tag">Business</a> and tagged <a href="../tag/coreint.html" rel="tag">coreint</a>, <a href="../tag/email.html" rel="tag">email</a>, <a href="../tag/ideveloper.html" rel="tag">ideveloper</a>, <a href="../tag/support.html" rel="tag">support</a> on <a href="../2010/12/faster_support_response.html" title="9:06 am" rel="bookmark"><time class="entry-date" datetime="2010-12-13T09:06:14+00:00">2010/12/13</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../author/manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
-	</article><!-- #post -->
-							
-	<article id="post-1983" class="post-1983 post type-post status-publish format-standard hentry category-business tag-appstore tag-mac">
-				<header class="entry-header">
-			
-						<h1 class="entry-title">
-				<a href="../2010/12/1_apps_wont.html" rel="bookmark">$1 apps won&#8217;t dominate the Mac App Store</a>
-			</h1>
-								</header><!-- .entry-header -->
-
-				<div class="entry-content">
-			<p>&#8220;Marco Arment wrote an interesting piece&#8221;:http://www.marco.org/1432156914 on the Mac App Store shortly after it was announced. I was nodding my head in agreement for much of it, until I got to this part:</p>
-<blockquote><p>&#8220;And if the Mac App Store is only populated by a subset of today&#8217;s Mac software, a few key points (such as &#8216;Inexpensive&#8217;) still won&#8217;t be true. This is why I believe that the Mac App Store will be dominated by (and become known for) apps that don&#8217;t exist on the Mac today.&#8221;</p></blockquote>
-<p>He makes great points, and I think his assumptions about Apple&#8217;s rules are correct. But newcomers dominating the store? And $1 apps as the second most popular price point on the Mac? I&#8217;m not convinced.</p>
-<p>Many iPhone app hits lend themselves to a mobile environment, but the Mac is different because <em>people usually buy computers to get work done</em>. You don&#8217;t have your MacBook Pro with you while you&#8217;re waiting in line at the grocery store. You don&#8217;t have it at a party when your friend tells you about the latest game. You don&#8217;t hand your computer to your kids when they&#8217;re bored in the car and want to play Angry Birds.</p>
-<p>If $1 apps will be so common on the Mac App Store, why aren&#8217;t they common on the iPad? In the iPad top 10 right now there are only two 99-cent apps. Prices around $2.99 or $4.99 are much more common, and there are plenty of $10 apps as well in the top paid and especially top grossing lists. The iPad app making the most money right now is a $20 music app called &#8220;djay&#8221;.</p>
-<p>I think $10-$20 will be pretty common on the Mac App Store, but not $1, and not even $2 or $3. Something that&#8217;s priced so cheap sends a clear message on the Mac: this app is useless and should have been free.</p>
-<p>As I said recently on &#8220;Core Intuition&#8221;:http://www.coreint.org/, I absolutely wish all the best of luck to iOS developers and designers moving to the Mac. I had a great time hanging out with a mostly iOS group at 360iDev last month; these guys are ambitious and smart and bring innovation to the platform because they don&#8217;t have the baggage that the rest of us have. 2011 will be a fantastic year for new Mac software and for indie developers!</p>
-<p>But take a good look at some of your favorite apps for iPhone and iPad and you&#8217;ll see that for the most part they lack the depth to compete with established Mac software. The workhorses on your Mac &mdash; text editors, image editors, file transfer apps, version control clients, web site tools &mdash; won&#8217;t be knocked off by new competition easily.</p>
-<p>Maybe 10.7 Lion will be a revolution, but when the Mac App Store first launches on 10.6 it&#8217;s going to contain familiar software at familiar prices.</p>
-					</div><!-- .entry-content -->
-		
-		<footer class="entry-meta">
-			This entry was posted in <a href="../category/business.html" rel="category tag">Business</a> and tagged <a href="../tag/appstore.html" rel="tag">appstore</a>, <a href="../tag/mac.html" rel="tag">mac</a> on <a href="../2010/12/1_apps_wont.html" title="3:02 pm" rel="bookmark"><time class="entry-date" datetime="2010-12-03T15:02:15+00:00">2010/12/03</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../author/manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
-	</article><!-- #post -->
-							
-	<article id="post-1982" class="post-1982 post type-post status-publish format-standard hentry category-programming tag-appstore tag-mac">
-				<header class="entry-header">
-			
-						<h1 class="entry-title">
-				<a href="../2010/10/laughing_at_the.html" rel="bookmark">Laughing at the guidelines</a>
-			</h1>
-								</header><!-- .entry-header -->
-
-				<div class="entry-content">
-			<p>Apple&#8217;s announcement yesterday of a Mac App Store is big news. As soon as the event was over, journalists reached out to developers to get feedback on what it means for existing Mac shops. Reading the variety of responses is fascinating to me, and I contributed some quotes for articles in &#8220;Macworld&#8221;:http://www.macworld.com/article/155061/2010/10/developers_mac_app_store.html and &#8220;Cult of Mac&#8221;:http://www.cultofmac.com/mac-app-store-more-developer-reaction/65036. There&#8217;s also a &#8220;write-up on Ars&#8221;:http://arstechnica.com/apple/news/2010/10/mac-app-store-boon-or-bust-for-developers.ars.</p>
-<p>Here&#8217;s &#8220;Wolf&#8217;s take on the guidelines&#8221;:http://rentzsch.tumblr.com/post/1369652253/mac-app-store:</p>
-<blockquote><p>&#8220;My fellow Mac developers are laughing at the Mac App Store guidelines. They&#8217;re reporting that apps they&#8217;ve been shipping for years &mdash; a number of them Apple Design Award-winning &mdash; would be rejected from the Mac App Store. These are proven apps, beloved by their users. The current guidelines are clearly out-of-touch.&#8221;</p></blockquote>
-<p>Every developer I&#8217;ve talked to uses at least some private APIs on the Mac, often to work around bugs or limitations in current APIs. It&#8217;s disappointing that the Mac App Store is shipping before 10.7, because 10.7 would be a good opportunity to find out why developers still need private APIs and bake support directly into the next version of Mac OS X to solve common issues.</p>
-<p>Can you imagine such rock-solid apps as BBEdit or Transmit being rejected from the Mac App Store? It&#8217;s going to be a lonely launch day full of hasty iOS ports if Apple doesn&#8217;t show some common sense when approving Mac apps.</p>
-					</div><!-- .entry-content -->
-		
-		<footer class="entry-meta">
-			This entry was posted in <a href="../category/programming.html" rel="category tag">Programming</a> and tagged <a href="../tag/appstore.html" rel="tag">appstore</a>, <a href="../tag/mac.html" rel="tag">mac</a> on <a href="../2010/10/laughing_at_the.html" title="1:42 pm" rel="bookmark"><time class="entry-date" datetime="2010-10-22T13:42:52+00:00">2010/10/22</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../author/manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
-	</article><!-- #post -->
-							
-	<article id="post-1981" class="post-1981 post type-post status-publish format-standard hentry category-business tag-appstore tag-price tag-tweetlibrary">
-				<header class="entry-header">
-			
-						<h1 class="entry-title">
-				<a href="../2010/10/free_1star_reviews.html" rel="bookmark">Free 1-star reviews</a>
-			</h1>
-								</header><!-- .entry-header -->
-
-				<div class="entry-content">
-			<p>Before I released &#8220;Tweet Library&#8221;:http://www.riverfold.com/software/tweetlibrary/, I talked to everyone who would listen about the price. Several people suggested I go with a free app, but use in-app purchase to upgrade to the full version. Two apps that handle this well include &#8220;Twitterrific&#8221;:http://twitterrific.com/ and &#8220;SimpleNote&#8221;:http://simplenoteapp.com/. Countless games also take this approach.</p>
-<p>It&#8217;s the closest thing the App Store has to demos, but it comes at a cost: anyone can leave a 1-star &#8220;too expensive&#8221; review of your app without even upgrading to the full version. At that point they are not even rating the app they downloaded (a free, limited version that probably works just fine); they are simply commenting on a portion of the app they didn&#8217;t want to buy.</p>
-<p>There are two ways to give me feedback about Tweet Library:</p>
-<ul>
-<li>Email support, post to Twitter, or write on your blog about the software. This is free.</p>
-</li>
-<li>
-<p>Leave a review in the App Store. This is $9.99.</p>
-</li>
-</ul>
-<p>I&#8217;m very comfortable with this model. The quality of feedback I get in email is extremely high, whether the customer has bought the app or not, and the App Store reviews aren&#8217;t cluttered with pricing rants.</p>
-					</div><!-- .entry-content -->
-		
-		<footer class="entry-meta">
-			This entry was posted in <a href="../category/business.html" rel="category tag">Business</a> and tagged <a href="../tag/appstore.html" rel="tag">appstore</a>, <a href="../tag/price.html" rel="tag">price</a>, <a href="../tag/tweetlibrary.html" rel="tag">tweetlibrary</a> on <a href="../2010/10/free_1star_reviews.html" title="9:29 am" rel="bookmark"><time class="entry-date" datetime="2010-10-15T09:29:49+00:00">2010/10/15</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../author/manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
 	</article><!-- #post -->
 			
 					<nav id="nav-below" class="navigation" role="navigation">
@@ -575,6 +570,7 @@ img.emoji {
 		</ul>
 </aside><aside id="text-2" class="widget widget_text"><h3 class="widget-title">Search</h3>			<div class="textwidget"><script type="text/javascript" src="http://js.searchpath.io/v1/manton.org?verify=625401361E"></script></div>
 		</aside><aside id="archives-2" class="widget widget_archive"><h3 class="widget-title">Archives</h3>		<ul>
+	<li><a href='../2016/01.html'>January 2016</a></li>
 	<li><a href='../2015/12.html'>December 2015</a></li>
 	<li><a href='../2015/11.html'>November 2015</a></li>
 	<li><a href='../2015/10.html'>October 2015</a></li>
@@ -666,7 +662,7 @@ img.emoji {
 	<li><a href='../2007/10.html'>October 2007</a></li>
 	<li><a href='../2007/09.html'>September 2007</a></li>
 	<li><a href='../2007/08.html'>August 2007</a></li>
-	<li><a href='../2007/07.html'>July 2007</a></li>
+	<li><a href='../2007/07'>July 2007</a></li>
 	<li><a href='../2007/06.html'>June 2007</a></li>
 	<li><a href='../2007/05.html'>May 2007</a></li>
 	<li><a href='../2007/04.html'>April 2007</a></li>
@@ -739,12 +735,12 @@ img.emoji {
 	</footer><!-- #colophon -->
 </div><!-- #page -->
 
-<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201551'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201601'></script>
 <script type='text/javascript' src='../wp-content/themes/twentytwelve/js/navigationa462.js?ver=20140318'></script>
-<script type='text/javascript' src='http://stats.wp.com/e-201551.js' async defer></script>
+<script type='text/javascript' src='http://stats.wp.com/e-201601.js' async defer></script>
 <script type='text/javascript'>
 	_stq = window._stq || [];
-	_stq.push([ 'view', {v:'ext',j:'1:3.8.1',blog:'74089361',post:'0',tz:'-6',srv:'www.manton.org'} ]);
+	_stq.push([ 'view', {v:'ext',j:'1:3.8.2',blog:'74089361',post:'0',tz:'-6',srv:'www.manton.org'} ]);
 	_stq.push([ 'clickTrackerInit', '74089361', '0' ]);
 </script>
 
@@ -764,9 +760,9 @@ img.emoji {
 
 </body>
 
-<!-- Mirrored from www.manton.org/page/31 by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 19 Dec 2015 00:39:21 GMT -->
+<!-- Mirrored from www.manton.org/page/31 by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 06 Jan 2016 20:03:37 GMT -->
 </html>
-<!-- Dynamic page generated in 3.022 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2015-12-18 18:39:14 -->
+<!-- Dynamic page generated in 2.571 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-01-06 14:03:35 -->
 
 <!-- super cache -->

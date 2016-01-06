@@ -12,12 +12,66 @@
 	<atom:link href="http://www.manton.org/tag/microblogging/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Fri, 18 Dec 2015 17:56:59 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 06 Jan 2016 17:11:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>http://wordpress.org/?v=4.3.1</generator>
 	<item>
+		<title>Twitter&#8217;s 10k limit</title>
+		<link>http://www.manton.org/2016/01/twitters-10k-limit.html</link>
+		<comments>http://www.manton.org/2016/01/twitters-10k-limit.html#comments</comments>
+		<pubDate>Tue, 05 Jan 2016 20:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[microblogging]]></category>
+		<category><![CDATA[starwars]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3321</guid>
+		<description><![CDATA[First, Twitter experimented with changing the timeline, so it&#8217;s not strictly reverse-chronological. Then, they renamed Favorites to Likes. Soon, they will remove the 140-character limit, becoming Facebook, and the circle will be complete: &#8220;The current plan is reportedly to show just the first 140 characters in the news feed and then allow readers to click [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>First, Twitter experimented with changing the timeline, so it&#8217;s not strictly reverse-chronological. Then, they renamed Favorites to Likes. Soon, <a href="http://mashable.com/2016/01/05/twitter-character-limit-10000/">they will remove the 140-character limit</a>, becoming Facebook, and the circle will be complete:</p>
+<blockquote><p>
+  &#8220;The current plan is reportedly to show just the first 140 characters in the news feed and then allow readers to click to expand the tweet and see the other 9,860 remaining characters. The new option may launch later this quarter.&#8221;
+</p></blockquote>
+<p>The learner is now the master. Welcome to the dark side.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/01/twitters-10k-limit.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Hyperlinks and saving the web</title>
+		<link>http://www.manton.org/2016/01/hyperlinks-and-saving-the-web.html</link>
+		<comments>http://www.manton.org/2016/01/hyperlinks-and-saving-the-web.html#comments</comments>
+		<pubDate>Tue, 05 Jan 2016 15:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[instagram]]></category>
+		<category><![CDATA[iran]]></category>
+		<category><![CDATA[microblogging]]></category>
+		<category><![CDATA[timelines]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3284</guid>
+		<description><![CDATA[Hossein Derakhshan spent 6 years in jail in Iran because of his blog. Now, with the clarity of seeing years of changes to the web and social networks all at once after his release, he&#8217;s written an important essay on the value of hyperlinks and the open web: &#8220;When a powerful website – say Google [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Hossein Derakhshan spent 6 years in jail in Iran because of his blog. Now, with the clarity of seeing years of changes to the web and social networks all at once after his release, <a href="http://www.theguardian.com/technology/2015/dec/29/irans-blogfather-facebook-instagram-and-twitter-are-killing-the-web">he&#8217;s written an important essay</a> on the value of hyperlinks and the open web:</p>
+<blockquote><p>
+  &#8220;When a powerful website – say Google or Facebook – gazes at, or links to, another webpage, it doesn’t just connect it , it brings it into existence; gives it life. Without this empowering gaze, your web page doesn’t breathe. No matter how many links you have placed in a webpage, unless somebody is looking at it, it is actually both dead and blind, and therefore incapable of transferring power to any outside web page.&#8221;
+</p></blockquote>
+<p>He mentions apps like Instagram, which have no way to link to the outside world. Too many apps are exactly like this: more interested in capturing eyeballs for ads than opening up their platform. The default for native mobile apps is to become silos, while the default for web sites is to be open and support linking.</p>
+<p>There&#8217;s a second part to Hossein&#8217;s essay that I don&#8217;t agree with, though. He writes that &#8220;the stream&#8221; – a.k.a the timeline, a reverse-chronological list of short posts or links – is turning the web into television. But I think there&#8217;s a lot we can learn from the timeline. It&#8217;s a valuable user experience metaphor that we should take back from Twitter and social networks.</p>
+<p>Building on the timeline is basically the whole point of my microblogging project. We should encourage independent microblogs by using a timeline interface to make them more useful. (Interested? <a href="http://eepurl.com/6vVvj">Sign up</a> on my announce list.)</p>
+<p>Back to links. Dave Winer, who has been cross-posting recently to Facebook and Medium, <a href="http://scripting.com/liveblog/users/davewiner/2016/01/03/0783.html">posted about</a> how Facebook doesn&#8217;t allow inline links in the text of a post. As a new generation grows up on these kind of posts instead of real blog posts, will people understand what they&#8217;re missing? Dave writes:</p>
+<blockquote><p>
+  &#8220;I hope we don&#8217;t end up having to try to explain linking to future generations who have no recollection of an electronic writing environment where words could take you to a whole other place. But I suspect we&#8217;re going there. Unless somehow we can get Facebook to relent and make it easy to link from words in Facebook posts to other places on the web.&#8221;
+</p></blockquote>
+<p>This is a great challenge for 2016. Not specifically with Facebook, but with the larger idea of bringing back <a href="http://anildash.com/2012/12/the-web-we-lost.html">the web we lost</a>, retrofitted for today&#8217;s app-centric internet. I hope to spend a good part of the year working on it.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/01/hyperlinks-and-saving-the-web.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>ESPN sidebar microblog</title>
 		<link>http://www.manton.org/2015/12/espn-sidebar-microblog.html</link>
 		<comments>http://www.manton.org/2015/12/espn-sidebar-microblog.html#comments</comments>
@@ -228,61 +282,8 @@
 			<wfw:commentRss>http://www.manton.org/2015/07/microblogging-with-typed-com.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
-		<item>
-		<title>Mailing list for new project</title>
-		<link>http://www.manton.org/2014/11/mailing-list-for-new-project.html</link>
-		<comments>http://www.manton.org/2014/11/mailing-list-for-new-project.html#comments</comments>
-		<pubDate>Mon, 24 Nov 2014 17:28:49 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Weblogs]]></category>
-		<category><![CDATA[microblogging]]></category>
-		<category><![CDATA[snippets]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=2398.html</guid>
-		<description><![CDATA[I&#8217;ve been working on something new around microblogging. Some people have guessed at what it is based on discussions Daniel and I have had on Core Intuition, but only a handful of people have seen it. Soon I want to open it up to more beta testers. If you&#8217;re interested in the project, you can [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>I&#8217;ve been working on something new around microblogging. Some people have guessed at what it is based on discussions Daniel and I have had on <a href="http://coreint.org/">Core Intuition</a>, but only a handful of people have seen it. Soon I want to open it up to more beta testers.</p>
-<p>If you&#8217;re interested in the project, you can now <a href="http://eepurl.com/6vVvj">sign up on the announcement mailing list</a> for more information. I&#8217;ll send an email when the beta launches, as well as occasional updates for major new features. Hope you like it!</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/11/mailing-list-for-new-project.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>On the eve of Twitter Flight</title>
-		<link>http://www.manton.org/2014/10/on-the-eve-of-twitter-flight.html</link>
-		<comments>http://www.manton.org/2014/10/on-the-eve-of-twitter-flight.html#comments</comments>
-		<pubDate>Wed, 22 Oct 2014 05:06:55 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Weblogs]]></category>
-		<category><![CDATA[developers]]></category>
-		<category><![CDATA[flight]]></category>
-		<category><![CDATA[microblogging]]></category>
-		<category><![CDATA[snippets]]></category>
-		<category><![CDATA[twitter]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=2344.html</guid>
-		<description><![CDATA[Twitter&#8217;s new mobile developer conference is tomorrow. Marco Arment writes about whether developers should give Twitter another chance: &#8220;Twitter started out as a developer-friendly company, then they became a developer-hostile company, and now they’re trying to be a developer-friendly company again. If I had to pick a company to have absolute power over something very [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="https://www.twitterflight.com/">Twitter&#8217;s new mobile developer conference</a> is tomorrow. <a href="http://www.marco.org/2014/10/20/wsj-twitter-peace-offering">Marco Arment writes</a> about whether developers should give Twitter another chance:</p>
-<blockquote><p>
-  &#8220;Twitter started out as a developer-friendly company, then they became a developer-hostile company, and now they’re trying to be a developer-friendly company again. If I had to pick a company to have absolute power over something very important, Twitter wouldn’t be very high on the list.&#8221;
-</p></blockquote>
-<p><a href="http://scripting.com/2014/10/21/whyISayYesToTwitter.html">Dave Winer responds</a> that for now, we&#8217;ll be okay trusting Twitter:</p>
-<blockquote><p>
-  &#8220;Twitter is not going to screw us in the short term. They need us as much as we need them. Independent developers are where wholly new ideas come from. You can&#8217;t hire people to do that to work inside companies.&#8221;
-</p></blockquote>
-<p>The unique tragedy with Twitter&#8217;s changing attitude toward developers is that so many of Twitter&#8217;s early innovations <a href="http://furbo.org/2011/03/11/twitterrific-firsts/">did come from third-party developers</a>. The new leadership displayed an incredible disrespect for the value developers added to both the ecosystem and core platform.</p>
-<p>Unfortunately in the &#8220;short term&#8221; it&#8217;s still happening. Not 4 years ago, not 2 years ago — just <em>1 month ago</em>, TwitPic announced they are shutting down after a legal threat from Twitter. <a href="http://www.manton.org/2014/09/twitpic-and-whats-next.html">It&#8217;s a loss for the web</a>, leaving millions of broken image links in old tweets. This latest third-party developer casualty from Twitter&#8217;s policies comes practically on the eve of their new developer conference.</p>
-<p>I agree with Dave&#8217;s larger points, though, on mirroring content to your own blog in addition to Twitter and Facebook. His <a href="http://radio3.io/">Radio3</a> is a step forward for RSS and the open web while still embracing social networks. We need more tools like it.</p>
-<p><a href="https://twitter.com/manton/status/254228056657494016">2 years ago</a> I chose to stop tweeting from my personal Twitter account as a minor protest. I don&#8217;t expect everyone else to take such an extreme stance. We can agree on open formats and the power of microblogging while disagreeing on how to interact with Twitter.</p>
-<p>(Skeptics say that leaving Twitter is a pointless gesture, like a pebble thrown into a river. The timeline flows on and the outrage is washed away as if it didn&#8217;t happen. If leaving doesn&#8217;t make an impact, why bother? But it does matter. It matters not for the change it creates directly for others, but for how it changed me. In the same way that writing an essay will solidify your thoughts on a subject, posting that last tweet has given me a new clarity from which to judge whether my own products are on the right track, living up to my ideals.)</p>
-<p>Back to the present. On the flight up to Çingleton and back, I finally got around to reading the book <a href="http://www.amazon.com/gp/product/1591847087/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1591847087&amp;linkCode=as2&amp;tag=mantonorg&amp;linkId=B2NMWRQKBXSK7MCT">Hatching Twitter</a>. Since I was on Twitter near the beginning, I remember many events covered in the book: the launch at SXSW, the CEO shuffling, the names of early engineers who I&#8217;ve crossed paths with. I love how the book blends together things that I know are real with other details that must be more contrived or exaggerated, creating an engaging read that would seem to border on historical fiction if we didn&#8217;t know that it was basically all true.</p>
-<p>Hatching Twitter captures the power struggles inside Twitter and fills a book with them. And that&#8217;s really the foundation for Marco&#8217;s post: based on Twitter&#8217;s history, we probably haven&#8217;t seen the last leadership change at the company. Twitter <em>might</em> have a strong future but it surely has an uncertain one.</p>
-<p>My next product is about microblogging, and it has to launch in the real world where Twitter dominates. But I view that as a reality, not a feature requirement. I think I&#8217;ll be happier as a developer, and my app will actually be more compelling, if I design and build it for a world without Twitter.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/10/on-the-eve-of-twitter-flight.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 1.549 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2015-12-18 15:31:50 -->
+<!-- Dynamic page generated in 3.878 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-01-06 12:39:54 -->

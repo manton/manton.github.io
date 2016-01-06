@@ -12,12 +12,40 @@
 	<atom:link href="http://www.manton.org/tag/google/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Fri, 18 Dec 2015 17:56:59 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 06 Jan 2016 17:11:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>http://wordpress.org/?v=4.3.1</generator>
 	<item>
+		<title>Lighter, faster mobile web</title>
+		<link>http://www.manton.org/2016/01/lighter-faster-mobile-web.html</link>
+		<comments>http://www.manton.org/2016/01/lighter-faster-mobile-web.html#comments</comments>
+		<pubDate>Tue, 05 Jan 2016 18:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[amp]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[mobile]]></category>
+		<category><![CDATA[web]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3310</guid>
+		<description><![CDATA[Speaking of the health of the open web, Maciej Cegłowski gave a talk on web page bloat at the Web Directions conference, and he put the slides and notes online (via Daring Fireball). It&#8217;s fun to read and there are many great points, but I want to focus on Accelerated Mobile Pages: “The AMP project [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Speaking of <a href="http://www.manton.org/2016/01/hyperlinks-and-saving-the-web">the health of the open web</a>, Maciej Cegłowski gave a talk on web page bloat at the Web Directions conference, and he put <a href="http://idlewords.com/talks/website_obesity.htm">the slides and notes online</a> (via <a href="http://daringfireball.net/linked/2016/01/02/website-obesity-crisis">Daring Fireball</a>). It&#8217;s fun to read and there are many great points, but I want to focus on Accelerated Mobile Pages:</p>
+<blockquote><p>
+  “The AMP project is ostentatiously open source, and all kinds of publishers have signed on. Out of an abundance of love for the mobile web, Google has volunteered to run the infrastructure, especially the user tracking parts of it.”
+</p></blockquote>
+<p>Sarcasm aside, I think Google&#8217;s involvement is mostly transparent, and I was hopeful about it when <a href="http://www.manton.org/2015/11/accelerated-mobile-pages-from-google.html">I wrote about this in November</a>. Google wants the web to be fast. A faster web includes more ad impressions and is more competitive with native mobile apps. I don&#8217;t think this disqualifies Google from proposing this project.</p>
+<p><a href="http://highscalability.com/blog/2015/12/14/does-amp-counter-an-existential-threat-to-google.html">High Scalability has a long article</a> exploring AMP:</p>
+<blockquote><p>
+  “Google needs an open and rich ecosystem of knowledge. If that’s not there then Google search won’t be relevant. Which is Google’s direct self-interest, which is also the same objective of the publisher. Publishers need access to an open ecosystem of distribution. Otherwise they’ll have a harder time building audiences if they have to appeal to closed platforms. Yes, Google is a private company that has business interests, but that philosophy and that core similar objective is something very important when considering Google’s role in AMP.”
+</p></blockquote>
+<p>I&#8217;m willing to give Google the benefit of the doubt on AMP. The alternatives are too focused on specific platforms and so even less available to the rest of the web.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/01/lighter-faster-mobile-web.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Accelerated Mobile Pages from Google</title>
 		<link>http://www.manton.org/2015/11/accelerated-mobile-pages-from-google.html</link>
 		<comments>http://www.manton.org/2015/11/accelerated-mobile-pages-from-google.html#comments</comments>
@@ -250,47 +278,8 @@
 			<wfw:commentRss>http://www.manton.org/2007/11/android_and_getting.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
-		<item>
-		<title>Mediocrity is the new application platform</title>
-		<link>http://www.manton.org/2006/03/mediocrity_is_the.html</link>
-		<comments>http://www.manton.org/2006/03/mediocrity_is_the.html#comments</comments>
-		<pubDate>Fri, 10 Mar 2006 03:41:13 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[User Experience]]></category>
-		<category><![CDATA[ajax]]></category>
-		<category><![CDATA[browsers]]></category>
-		<category><![CDATA[flash]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[rails]]></category>
-		<category><![CDATA[ui]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2006/03/mediocrity_is_the.html</guid>
-		<description><![CDATA[Today marks the 4-year anniversary of this weblog. What better way to celebrate than with a discussion of web applications. Willie Abrams said in a recent Campfire chat: &#8220;Web applications automatically have sync.&#8221; He hits on the fundamental principle of web applications popularity, and of course that has always been true. But the difference now [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Today marks the 4-year anniversary of this weblog. What better way to celebrate than with a discussion of web applications.</p>
-<p><a href="http://www.angrylearner.com/">Willie Abrams</a> said in a recent Campfire chat: &#8220;Web applications automatically have sync.&#8221; He hits on the fundamental principle of web applications popularity, and of course that has always been true. But the difference now is that some web apps are actually <i>fast and usable too</i>. (Gasp!)</p>
-<p>The rise of rich web applications that seamlessly mix Flash or Ajax while still staying true to the roots of web architecture (REST design, open standards) has upset the traditional desktop market. I first wrote about this in <a href="http://www.manton.org/2005/12/todo_lists_and.html">&#8220;To-do lists and embracing the network&#8221;</a>, which was in a sense a subtle wake-up call to Mac developers: adapt to the always-on internet or any college drop-out with a shared server will obsolete your app after a few late nights of Rails hacking.</p>
-<p>But it frustrates me to see such praise given to web applications that, were they traditional, native apps, they&#8217;d be laughed away to obscurity or ignored. Ajax is a huge advancement, but that doesn&#8217;t mean that every application works well for the web. I&#8217;m sure Google engineers spent an incredible amount of work on <a href="http://www.techcrunch.com/2006/02/22/google-pages-released/">Google Pages</a>, but compare it to Apple&#8217;s iWeb and it becomes obvious how weak web application interfaces still are.</p>
-<p>Luckily some people are working through the really tough problems. <a href="http://spaces.msn.com/rayozzie/blog/cns!FB3017FBB9B2E142!285.entry">Ray Ozzie&#8217;s Live Clipboard</a> may be the start of a whole new shift in web app functionality, allowing data to move between web sites and even out of the browser. But true drag-and-drop of structured data between a native app and a web site is still a long way off.</p>
-<p>Let&#8217;s make some lists, starting with the good.</p>
-<ul>
-<li>Good web applications are data-driven, multiuser, and use URLs everywhere.</li>
-<li>There is some key component that is about the <i>browsing experience</i>. That might be sifting through large amounts of data, viewing old logs, finding people.</li>
-<li>The kind of data requires an adaptable user interface, not something with a strict set of traditional widgets. HTML is perfect for this.</li>
-</ul>
-<p>On the other side are web applications that might be built by a team of smart people and with a great technology backend, but the application concepts are confused. They don&#8217;t know if they belong in a web browser or on the desktop.</p>
-<ul>
-<li>Mediocre web applications think that a single web browser window is an entire windowing system with movable child windows.</li>
-<li>No features that actually have anything to do with the web. The result is that it <i>adds no value</i> to the web as a whole.</li>
-<li>Trying to replace the whole Microsoft Office suite.</li>
-</ul>
-<p>Something else is changing in the HTML/CSS/JavaScript platform. In 2004, <a href="http://www.joelonsoftware.com/articles/APIWar.html">Joel Spolsky wrote</a> about how instead of picking Mac, Windows, or Linux APIs, developers are building for the web platform and can deploy to any user&#8217;s desktop. Cutting-edge web applications push that claim to its breaking point, as differences between Safari, Mozilla, and Internet Explorer often cause headaches for developers. It&#8217;s no surprise when Microsoft&#8217;s set of Office Live applications require Internet Explorer, but it <i>is</i> note-worthy when Google&#8217;s chat interface does not work in Safari. There is now a whole set of web applications that require the latest version of Mozilla and won&#8217;t work in anything less.</p>
-<p>Five years ago we accepted that web applications were going to be useful but ultimately unfulfilling, joyless experiences. Now most web apps have risen from bad to simply mediocre. The truly great ones have a foundation and design that would still be unrivaled in a desktop app. These amazing apps are not content to reimplement an old application as a web app just to allow use from any machine, but they take it to the next step: rethink the problem, stay agile, and redesign so that it&#8217;s not just web-based, but it&#8217;s <i>actually better</i>.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2006/03/mediocrity_is_the.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 4.261 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2015-12-18 17:20:25 -->
+<!-- Dynamic page generated in 3.028 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-01-06 12:41:34 -->

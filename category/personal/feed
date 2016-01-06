@@ -12,12 +12,36 @@
 	<atom:link href="http://www.manton.org/category/personal/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Fri, 18 Dec 2015 17:56:59 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 06 Jan 2016 17:11:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>http://wordpress.org/?v=4.3.1</generator>
 	<item>
+		<title>Lowline Park</title>
+		<link>http://www.manton.org/2015/12/lowline-park.html</link>
+		<comments>http://www.manton.org/2015/12/lowline-park.html#comments</comments>
+		<pubDate>Mon, 21 Dec 2015 19:17:25 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[highline]]></category>
+		<category><![CDATA[lowline]]></category>
+		<category><![CDATA[nyc]]></category>
+		<category><![CDATA[park]]></category>
+		<category><![CDATA[trains]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3274</guid>
+		<description><![CDATA[Nice write-up at The Verge on the proposed Lowline Park, an underground park built in an old trolley terminal in New York City. The space has been relatively untouched for over 50 years: &#8220;Not that the abandoned trolley terminal, which opened the same time as the Williamsburg Bridge in 1903, is a neighborhood blight. In [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.theverge.com/2015/12/16/10214066/new-york-city-lowline-park-underground-terminal-photos">Nice write-up at The Verge</a> on the proposed Lowline Park, an underground park built in an old trolley terminal in New York City. The space has been relatively untouched for over 50 years:</p>
+<blockquote><p>
+  &#8220;Not that the abandoned trolley terminal, which opened the same time as the Williamsburg Bridge in 1903, is a neighborhood blight. In fact, it&#8217;s in pretty decent shape right now. The station served elevated lines and trolley cars from Brooklyn, but closed in 1948 when trolley service was discontinued, and has been empty ever since.&#8221;
+</p></blockquote>
+<p>One of the highlights to our trip to New York City a couple of years ago was the <a href="http://www.thehighline.org/">High Line</a>, a park built from an abandoned elevated freight train line originally scheduled for demolition. As a train fan — I did <a href="http://www.manton.org/2005/08/trains_podcast.html">a podcast episode</a> about trains and animation 10 years ago — I love to see any of these historic lines preserved in a new form.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/12/lowline-park.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Back from Europe</title>
 		<link>http://www.manton.org/2015/08/back-from-europe.html</link>
 		<comments>http://www.manton.org/2015/08/back-from-europe.html#comments</comments>
@@ -269,31 +293,8 @@ After all I&#8217;ve done?&#8221;<br />
 			<wfw:commentRss>http://www.manton.org/2011/03/buy_apps_help.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
-		<item>
-		<title>Honeymoon world tour</title>
-		<link>http://www.manton.org/2010/09/honeymoon_world_tour.html</link>
-		<comments>http://www.manton.org/2010/09/honeymoon_world_tour.html#comments</comments>
-		<pubDate>Tue, 14 Sep 2010 00:48:05 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Personal]]></category>
-		<category><![CDATA[blogs]]></category>
-		<category><![CDATA[europe]]></category>
-		<category><![CDATA[family]]></category>
-		<category><![CDATA[travel]]></category>
-		<category><![CDATA[trips]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2010/09/honeymoon_world_tour.html</guid>
-		<description><![CDATA[&#8220;Via Daring Fireball&#8221;:http://daringfireball.net/linked/2010/09/12/lanyrd, I&#8217;m loving &#8220;this blog and idea&#8221;:http://sparkabout.net/ from newlyweds Simon Willison and Natalie Downe, who are traveling the world on a working honeymoon: &#8220;We&#8217;ve been in Morocco now for just over a month. We launched Lanyrd from a rented apartment in Casablanca, and we&#8217;re writing this update from a Riad in Marrakech. So [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>&#8220;Via Daring Fireball&#8221;:http://daringfireball.net/linked/2010/09/12/lanyrd, I&#8217;m loving &#8220;this blog and idea&#8221;:http://sparkabout.net/ from newlyweds Simon Willison and Natalie Downe, who are traveling the world on a working honeymoon:</p>
-<blockquote><p>&#8220;We&#8217;ve been in Morocco now for just over a month. We launched Lanyrd from a rented apartment in Casablanca, and we&#8217;re writing this update from a Riad in Marrakech. So far, travelling and working on a startup have complemented each other surprisingly well.&#8221;</p></blockquote>
-<p>In 1999, Traci and I took a similar but shorter 2-month vacation to Europe where we both worked remotely. This was before wi-fi, so much of the destination planning centered around pay-by-the-hour internet cafes or reliable hotel phone lines for dial-up. Lots of backpacking, cheap rooms, and trains and boats between 6 countries. We were constantly broke and our accommodations varied between the crummy (freezing showers at a hostel) to the beautiful (freezing showers with a Mediterranean view), but those were easily some of the best weeks of my life. At the end of the trip we got engaged and came back to America to get married and have kids and never leave our neighborhood again.</p>
-<p>Someday we&#8217;ll go back.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2010/09/honeymoon_world_tour.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 1.103 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2015-12-18 15:54:01 -->
+<!-- Dynamic page generated in 2.758 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-01-06 12:44:09 -->

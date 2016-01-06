@@ -9,13 +9,14 @@
 <html lang="en-US">
 <!--<![endif]-->
 
-<!-- Mirrored from www.manton.org/category/programming/page/5 by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 19 Dec 2015 00:35:01 GMT -->
+<!-- Mirrored from www.manton.org/category/programming/page/5 by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 06 Jan 2016 20:00:29 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width" />
 <title>Programming | Manton Reece | Page 5</title>
 <link rel="profile" href="http://gmpg.org/xfn/11" />
+<link href="https://github.com/manton" rel="me" />
 <link rel="pingback" href="../../../xmlrpc.php" />
 <!--[if lt IE 9]>
 <script src="http://www.manton.org/wp-content/themes/twentytwelve/js/html5.js" type="text/javascript"></script>
@@ -41,12 +42,11 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel='stylesheet' id='twentytwelve-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&amp;subset=latin,latin-ext' type='text/css' media='all' />
 <link rel='stylesheet' id='twentytwelve-style-css'  href='../../../wp-content/themes/twentytwelve/style5b31.css?ver=4.3.1' type='text/css' media='all' />
 <!--[if lt IE 9]>
 <link rel='stylesheet' id='twentytwelve-ie-css'  href='http://www.manton.org/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
 <![endif]-->
-<link rel='stylesheet' id='jetpack_css-css'  href='../../../wp-content/plugins/jetpack/css/jetpack7e2e.css?ver=3.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='../../../wp-content/plugins/jetpack/css/jetpack3fd0.css?ver=3.8.2' type='text/css' media='all' />
 <script type='text/javascript' src='../../../wp-includes/js/jquery/jqueryc1d8.js?ver=1.11.3'></script>
 <script type='text/javascript' src='../../../wp-includes/js/jquery/jquery-migrate.min1576.js?ver=1.2.1'></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../../xmlrpc0db0.php?rsd" />
@@ -56,7 +56,7 @@ img.emoji {
 <style id="custom-css-css">#site-navigation{display:none}.site-content article{border-bottom:0;margin-bottom:1em;padding-bottom:1em;word-wrap:normal;-webkit-hyphens:none}.site-content article.format-standard{border-bottom:1px solid lightgray;margin-bottom:2em;padding-bottom:2em}.site-content article.format-status{border-bottom:1px solid #fff;margin-bottom:0;padding-bottom:0}.site-content .category-micro{padding-bottom:.1em}.entry-content blockquote{padding:.7em;font-style:normal;margin-left:30px}#colophon{display:none}.avatar{display:none}header.site-header{padding-top:24px;padding-bottom:0}h2 a{font-size:1.2em}.format-status .entry-header{margin-bottom:1em}.format-status .entry-content p{margin-bottom:0}.status_link{font-size:12px;text-decoration:none;color:gray}body{font-family:Avenir, sans-serif}footer{margin-top:0}</style>
 </head>
 
-<body class="archive paged category category-programming category-27 paged-5 category-paged-5 custom-font-enabled single-author">
+<body class="archive paged category category-programming category-27 paged-5 category-paged-5 single-author">
 <div id="page" class="hfeed site">
 	<header id="masthead" class="site-header" role="banner">
 		<hgroup>
@@ -82,6 +82,28 @@ img.emoji {
 						</header><!-- .archive-header -->
 
 			
+	<article id="post-2005" class="post-2005 post type-post status-publish format-standard hentry category-programming tag-heroku tag-sync tag-tweetlibrary tag-twitter tag-wwdc">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="../../../2011/06/tweet_marker.html" rel="bookmark">Tweet Marker</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>So you want to sync the last-read tweet with all your different Twitter apps on iPhone, iPad, and Mac? Yeah, me too. While I hope to build a version of Tweet Library for other platforms, what I&#8217;d also love is to be able to switch between clients and know that each one will pick up where I was last reading in the timeline.</p>
+<p>That&#8217;s why I&#8217;m introducing a new service for Twitter developers: &#8220;Tweet Marker&#8221;:http://tweetmarks.net/.</p>
+<p>I&#8217;ve already showed it off to a few developers, and if you&#8217;re writing a Twitter app I&#8217;d love for you to support it too. It will be baked into the next version of Tweet Library.</p>
+<p>There are still some unknowns (especially around whether I will need to ask for help to cover hosting costs), but I wanted to launch it now before WWDC so that other Twitter app developers meeting at the conference can give me feedback on the service. Tweet Marker has actually been running for months, and when an opportunity came along this week for a new logo (&#8220;thanks Alex!&#8221;:http://dribbble.com/solonsky), I knew it was past time to finish documenting the service and get it out.</p>
+<p>To be successful it needs at least 2 apps to support it (I&#8217;ll supply one of those). I&#8217;ve tried to solve all the other basic problems. It&#8217;s simple, fast, scalable on Heroku, and protected so that mischief-makers can&#8217;t tamper with tweet IDs.</p>
+<p>Send me an email or find me in person next week if you have any feedback.</p>
+<p><em>Update:</em> This post has been updated to reflect the service name change from Tweetmarks to Tweet Marker.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="../../programming.html" rel="category tag">Programming</a> and tagged <a href="../../../tag/heroku.html" rel="tag">heroku</a>, <a href="../../../tag/sync.html" rel="tag">sync</a>, <a href="../../../tag/tweetlibrary.html" rel="tag">tweetlibrary</a>, <a href="../../../tag/twitter.html" rel="tag">twitter</a>, <a href="../../../tag/wwdc.html" rel="tag">wwdc</a> on <a href="../../../2011/06/tweet_marker.html" title="8:53 am" rel="bookmark"><time class="entry-date" datetime="2011-06-03T08:53:04+00:00">2011/06/03</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../../../author/manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+
 	<article id="post-2003" class="post-2003 post type-post status-publish format-standard hentry category-programming tag-amsterdam tag-apps tag-europe tag-mikelee">
 				<header class="entry-header">
 			
@@ -532,25 +554,6 @@ OSErr err = ICAObjectSendMessage (&#038;pb, NULL);</pre>
 		<footer class="entry-meta">
 			This entry was posted in <a href="../../programming.html" rel="category tag">Programming</a> and tagged <a href="../../../tag/plugins.html" rel="tag">plugins</a>, <a href="../../../tag/rails.html" rel="tag">rails</a> on <a href="../../../2009/01/will_paginate_for.html" title="2:19 pm" rel="bookmark"><time class="entry-date" datetime="2009-01-09T14:19:57+00:00">2009/01/09</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../../../author/manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
 	</article><!-- #post -->
-
-	<article id="post-1884" class="post-1884 post type-post status-publish format-standard hentry category-programming tag-apis tag-mikeash tag-private tag-quicklook">
-				<header class="entry-header">
-			
-						<h1 class="entry-title">
-				<a href="../../../2009/01/mike_ash_on.html" rel="bookmark">Mike Ash on private APIs</a>
-			</h1>
-								</header><!-- .entry-header -->
-
-				<div class="entry-content">
-			<p>Mike Ash has been rocking with his weekly Friday Q&amp;As. From the &#8220;latest about using private APIs&#8221;:http://www.mikeash.com/?page=pyblog/friday-qa-2009-01-02.html:</p>
-<blockquote><p>&#8220;Remember that the cost is not just to you, but to your users. If you&#8217;re really unlucky the break will be so bad that it&#8217;s not even obvious that it&#8217;s your fault, and they&#8217;ll figure it out only after much head-scratching. Once they do figure it out, they will hate you if your fix doesn&#8217;t come really fast.&#8221;</p></blockquote>
-<p>My new app (not officially announced yet &mdash; more later) currently uses Quick Look as a significant part of the user interface. Quick Look is a private API on 10.5, but my hope was that surely it would be made public by 10.6. If I coded correctly for both cases (I have a 10.6 seed running here I can test against), then I could safely release the product and be reasonably certain that nothing would be break.</p>
-<p>I&#8217;m now rethinking that, both because it looks increasingly like Quick Look will remain a private API even in Snow Leopard, and because I&#8217;ve gotten feedback that it&#8217;s not a perfect fit for how I&#8217;m using it anyway. At the very least I will turn Quick Look into a secondary option, something that wouldn&#8217;t be missed if it went away, and roll my own preview UI to be the default.</p>
-					</div><!-- .entry-content -->
-		
-		<footer class="entry-meta">
-			This entry was posted in <a href="../../programming.html" rel="category tag">Programming</a> and tagged <a href="../../../tag/apis.html" rel="tag">apis</a>, <a href="../../../tag/mikeash.html" rel="tag">mikeash</a>, <a href="../../../tag/private.html" rel="tag">private</a>, <a href="../../../tag/quicklook.html" rel="tag">quicklook</a> on <a href="../../../2009/01/mike_ash_on.html" title="9:01 am" rel="bookmark"><time class="entry-date" datetime="2009-01-03T09:01:36+00:00">2009/01/03</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../../../author/manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
-	</article><!-- #post -->
 		<nav id="nav-below" class="navigation" role="navigation">
 			<h3 class="assistive-text">Post navigation</h3>
 			<div class="nav-previous"><a href="6.html" ><span class="meta-nav">&larr;</span> Older posts</a></div>
@@ -611,6 +614,7 @@ OSErr err = ICAObjectSendMessage (&#038;pb, NULL);</pre>
 		</ul>
 </aside><aside id="text-2" class="widget widget_text"><h3 class="widget-title">Search</h3>			<div class="textwidget"><script type="text/javascript" src="http://js.searchpath.io/v1/manton.org?verify=625401361E"></script></div>
 		</aside><aside id="archives-2" class="widget widget_archive"><h3 class="widget-title">Archives</h3>		<ul>
+	<li><a href='../../../2016/01.html'>January 2016</a></li>
 	<li><a href='../../../2015/12.html'>December 2015</a></li>
 	<li><a href='../../../2015/11.html'>November 2015</a></li>
 	<li><a href='../../../2015/10.html'>October 2015</a></li>
@@ -702,7 +706,7 @@ OSErr err = ICAObjectSendMessage (&#038;pb, NULL);</pre>
 	<li><a href='../../../2007/10.html'>October 2007</a></li>
 	<li><a href='../../../2007/09.html'>September 2007</a></li>
 	<li><a href='../../../2007/08.html'>August 2007</a></li>
-	<li><a href='../../../2007/07.html'>July 2007</a></li>
+	<li><a href='../../../2007/07'>July 2007</a></li>
 	<li><a href='../../../2007/06.html'>June 2007</a></li>
 	<li><a href='../../../2007/05.html'>May 2007</a></li>
 	<li><a href='../../../2007/04.html'>April 2007</a></li>
@@ -775,12 +779,12 @@ OSErr err = ICAObjectSendMessage (&#038;pb, NULL);</pre>
 	</footer><!-- #colophon -->
 </div><!-- #page -->
 
-<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201551'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201601'></script>
 <script type='text/javascript' src='../../../wp-content/themes/twentytwelve/js/navigationa462.js?ver=20140318'></script>
-<script type='text/javascript' src='http://stats.wp.com/e-201551.js' async defer></script>
+<script type='text/javascript' src='http://stats.wp.com/e-201601.js' async defer></script>
 <script type='text/javascript'>
 	_stq = window._stq || [];
-	_stq.push([ 'view', {v:'ext',j:'1:3.8.1',blog:'74089361',post:'0',tz:'-6',srv:'www.manton.org'} ]);
+	_stq.push([ 'view', {v:'ext',j:'1:3.8.2',blog:'74089361',post:'0',tz:'-6',srv:'www.manton.org'} ]);
 	_stq.push([ 'clickTrackerInit', '74089361', '0' ]);
 </script>
 
@@ -800,9 +804,9 @@ OSErr err = ICAObjectSendMessage (&#038;pb, NULL);</pre>
 
 </body>
 
-<!-- Mirrored from www.manton.org/category/programming/page/5 by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 19 Dec 2015 00:35:05 GMT -->
+<!-- Mirrored from www.manton.org/category/programming/page/5 by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 06 Jan 2016 20:00:29 GMT -->
 </html>
-<!-- Dynamic page generated in 1.657 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2015-12-18 18:33:59 -->
+<!-- Dynamic page generated in 6.788 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-01-06 14:00:15 -->
 
 <!-- super cache -->

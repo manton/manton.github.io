@@ -12,12 +12,166 @@
 	<atom:link href="http://www.manton.org/index.php?feed=rss2&#038;cat=-847" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Fri, 18 Dec 2015 17:56:59 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 06 Jan 2016 17:11:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>http://wordpress.org/?v=4.3.1</generator>
 	<item>
+		<title>DNS consolidation</title>
+		<link>http://www.manton.org/2016/01/dns-consolidation.html</link>
+		<comments>http://www.manton.org/2016/01/dns-consolidation.html#comments</comments>
+		<pubDate>Wed, 06 Jan 2016 13:35:38 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[dns]]></category>
+		<category><![CDATA[hosting]]></category>
+		<category><![CDATA[ssl]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3312</guid>
+		<description><![CDATA[Feels like years in the making, but I&#8217;ve finally moved all my domain names to a single provider: DNSimple. The last 3 domains went through toward the end of 2015. They were .io domains, and required calling Network Solutions to unlock. (I own 13 domains, and don&#8217;t plan to add any more for a very [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Feels like years in the making, but I&#8217;ve finally moved all my domain names to a single provider: DNSimple. The last 3 domains went through toward the end of 2015. They were .io domains, and required calling Network Solutions to unlock. (I own 13 domains, and don&#8217;t plan to add any more for a very long time.)</p>
+<p>I&#8217;ve found that the simplicity of having these kind of things consolidated in one place really improves keeping up with hosting and renewals. It&#8217;s the same reason I moved all my private projects to GitHub, even though it would cost more per month. It means less to worry about, so more time for coding.</p>
+<p>Since I&#8217;ve often been thinking about <a href="http://www.manton.org/2012/07/permanence.html">the lack of permanence on the web</a>, I also want to be more proactive about extending my domain registrations. I renewed manton.org until 2021.</p>
+<p>If you&#8217;re interested in using DNSimple, use <a href="https://dnsimple.com/r/9fc1dd2e59824b">this referral link</a> for a month free. All my SSL certificates are there too, although I&#8217;m keeping an eye on <a href="https://letsencrypt.org/">Let&#8217;s Encrypt</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/01/dns-consolidation.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Twitter&#8217;s 10k limit</title>
+		<link>http://www.manton.org/2016/01/twitters-10k-limit.html</link>
+		<comments>http://www.manton.org/2016/01/twitters-10k-limit.html#comments</comments>
+		<pubDate>Tue, 05 Jan 2016 20:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[microblogging]]></category>
+		<category><![CDATA[starwars]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3321</guid>
+		<description><![CDATA[First, Twitter experimented with changing the timeline, so it&#8217;s not strictly reverse-chronological. Then, they renamed Favorites to Likes. Soon, they will remove the 140-character limit, becoming Facebook, and the circle will be complete: &#8220;The current plan is reportedly to show just the first 140 characters in the news feed and then allow readers to click [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>First, Twitter experimented with changing the timeline, so it&#8217;s not strictly reverse-chronological. Then, they renamed Favorites to Likes. Soon, <a href="http://mashable.com/2016/01/05/twitter-character-limit-10000/">they will remove the 140-character limit</a>, becoming Facebook, and the circle will be complete:</p>
+<blockquote><p>
+  &#8220;The current plan is reportedly to show just the first 140 characters in the news feed and then allow readers to click to expand the tweet and see the other 9,860 remaining characters. The new option may launch later this quarter.&#8221;
+</p></blockquote>
+<p>The learner is now the master. Welcome to the dark side.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/01/twitters-10k-limit.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Lighter, faster mobile web</title>
+		<link>http://www.manton.org/2016/01/lighter-faster-mobile-web.html</link>
+		<comments>http://www.manton.org/2016/01/lighter-faster-mobile-web.html#comments</comments>
+		<pubDate>Tue, 05 Jan 2016 18:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[amp]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[mobile]]></category>
+		<category><![CDATA[web]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3310</guid>
+		<description><![CDATA[Speaking of the health of the open web, Maciej Cegłowski gave a talk on web page bloat at the Web Directions conference, and he put the slides and notes online (via Daring Fireball). It&#8217;s fun to read and there are many great points, but I want to focus on Accelerated Mobile Pages: “The AMP project [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Speaking of <a href="http://www.manton.org/2016/01/hyperlinks-and-saving-the-web">the health of the open web</a>, Maciej Cegłowski gave a talk on web page bloat at the Web Directions conference, and he put <a href="http://idlewords.com/talks/website_obesity.htm">the slides and notes online</a> (via <a href="http://daringfireball.net/linked/2016/01/02/website-obesity-crisis">Daring Fireball</a>). It&#8217;s fun to read and there are many great points, but I want to focus on Accelerated Mobile Pages:</p>
+<blockquote><p>
+  “The AMP project is ostentatiously open source, and all kinds of publishers have signed on. Out of an abundance of love for the mobile web, Google has volunteered to run the infrastructure, especially the user tracking parts of it.”
+</p></blockquote>
+<p>Sarcasm aside, I think Google&#8217;s involvement is mostly transparent, and I was hopeful about it when <a href="http://www.manton.org/2015/11/accelerated-mobile-pages-from-google.html">I wrote about this in November</a>. Google wants the web to be fast. A faster web includes more ad impressions and is more competitive with native mobile apps. I don&#8217;t think this disqualifies Google from proposing this project.</p>
+<p><a href="http://highscalability.com/blog/2015/12/14/does-amp-counter-an-existential-threat-to-google.html">High Scalability has a long article</a> exploring AMP:</p>
+<blockquote><p>
+  “Google needs an open and rich ecosystem of knowledge. If that’s not there then Google search won’t be relevant. Which is Google’s direct self-interest, which is also the same objective of the publisher. Publishers need access to an open ecosystem of distribution. Otherwise they’ll have a harder time building audiences if they have to appeal to closed platforms. Yes, Google is a private company that has business interests, but that philosophy and that core similar objective is something very important when considering Google’s role in AMP.”
+</p></blockquote>
+<p>I&#8217;m willing to give Google the benefit of the doubt on AMP. The alternatives are too focused on specific platforms and so even less available to the rest of the web.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/01/lighter-faster-mobile-web.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Hyperlinks and saving the web</title>
+		<link>http://www.manton.org/2016/01/hyperlinks-and-saving-the-web.html</link>
+		<comments>http://www.manton.org/2016/01/hyperlinks-and-saving-the-web.html#comments</comments>
+		<pubDate>Tue, 05 Jan 2016 15:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[instagram]]></category>
+		<category><![CDATA[iran]]></category>
+		<category><![CDATA[microblogging]]></category>
+		<category><![CDATA[timelines]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3284</guid>
+		<description><![CDATA[Hossein Derakhshan spent 6 years in jail in Iran because of his blog. Now, with the clarity of seeing years of changes to the web and social networks all at once after his release, he&#8217;s written an important essay on the value of hyperlinks and the open web: &#8220;When a powerful website – say Google [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Hossein Derakhshan spent 6 years in jail in Iran because of his blog. Now, with the clarity of seeing years of changes to the web and social networks all at once after his release, <a href="http://www.theguardian.com/technology/2015/dec/29/irans-blogfather-facebook-instagram-and-twitter-are-killing-the-web">he&#8217;s written an important essay</a> on the value of hyperlinks and the open web:</p>
+<blockquote><p>
+  &#8220;When a powerful website – say Google or Facebook – gazes at, or links to, another webpage, it doesn’t just connect it , it brings it into existence; gives it life. Without this empowering gaze, your web page doesn’t breathe. No matter how many links you have placed in a webpage, unless somebody is looking at it, it is actually both dead and blind, and therefore incapable of transferring power to any outside web page.&#8221;
+</p></blockquote>
+<p>He mentions apps like Instagram, which have no way to link to the outside world. Too many apps are exactly like this: more interested in capturing eyeballs for ads than opening up their platform. The default for native mobile apps is to become silos, while the default for web sites is to be open and support linking.</p>
+<p>There&#8217;s a second part to Hossein&#8217;s essay that I don&#8217;t agree with, though. He writes that &#8220;the stream&#8221; – a.k.a the timeline, a reverse-chronological list of short posts or links – is turning the web into television. But I think there&#8217;s a lot we can learn from the timeline. It&#8217;s a valuable user experience metaphor that we should take back from Twitter and social networks.</p>
+<p>Building on the timeline is basically the whole point of my microblogging project. We should encourage independent microblogs by using a timeline interface to make them more useful. (Interested? <a href="http://eepurl.com/6vVvj">Sign up</a> on my announce list.)</p>
+<p>Back to links. Dave Winer, who has been cross-posting recently to Facebook and Medium, <a href="http://scripting.com/liveblog/users/davewiner/2016/01/03/0783.html">posted about</a> how Facebook doesn&#8217;t allow inline links in the text of a post. As a new generation grows up on these kind of posts instead of real blog posts, will people understand what they&#8217;re missing? Dave writes:</p>
+<blockquote><p>
+  &#8220;I hope we don&#8217;t end up having to try to explain linking to future generations who have no recollection of an electronic writing environment where words could take you to a whole other place. But I suspect we&#8217;re going there. Unless somehow we can get Facebook to relent and make it easy to link from words in Facebook posts to other places on the web.&#8221;
+</p></blockquote>
+<p>This is a great challenge for 2016. Not specifically with Facebook, but with the larger idea of bringing back <a href="http://anildash.com/2012/12/the-web-we-lost.html">the web we lost</a>, retrofitted for today&#8217;s app-centric internet. I hope to spend a good part of the year working on it.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/01/hyperlinks-and-saving-the-web.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Apple Watch still pretty great</title>
+		<link>http://www.manton.org/2016/01/apple-watch-still-pretty-great.html</link>
+		<comments>http://www.manton.org/2016/01/apple-watch-still-pretty-great.html#comments</comments>
+		<pubDate>Mon, 04 Jan 2016 13:00:08 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[applewatch]]></category>
+		<category><![CDATA[fitness]]></category>
+		<category><![CDATA[notifications]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3283</guid>
+		<description><![CDATA[Stephen Hackett posted an Apple Watch follow-up recently. He has mostly stopped wearing it: &#8220;The Apple Watch can do a lot of neat things, and I miss its fitness tracking, but so much of it just doesn&#8217;t fit my lifestyle anymore. It&#8217;s not super useful for work, apps are still miserably slow and at times, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.512pixels.net/blog/2015/12/apple-watch-follow-up">Stephen Hackett posted</a> an Apple Watch follow-up recently. He has mostly stopped wearing it:</p>
+<blockquote><p>
+  &#8220;The Apple Watch can do a lot of neat things, and I miss its fitness tracking, but so much of it just doesn&#8217;t fit my lifestyle anymore. It&#8217;s not super useful for work, apps are still miserably slow and at times, its an additional distraction.&#8221;
+</p></blockquote>
+<p>The Apple Watch is a very personal device. It&#8217;s okay that it&#8217;s not for everyone. There&#8217;s no network effect; the watch isn&#8217;t better or worse if other people don&#8217;t use it. And it&#8217;s even okay if most of the apps are too slow to bother with. Fitness tracking, notifications, the time — for me, those 3 simple features are enough.</p>
+<p><a href="https://www.caseyliss.com/2015/12/17/apple-watch-revisited">Casey Liss also writes</a> that notifications have been one of the most important features, letting him keep his iPhone ringer off:</p>
+<blockquote><p>
+  “The Apple Watch has allowed my iPhone to transition from being a <em>personal</em> device to being a <em>private</em> one. That’s a really profound change. More so than I expected.”
+</p></blockquote>
+<p>Once every couple of months, I leave the house in a hurry and forget to put my Apple Watch on. I survive without it, of course, but I do miss it. After not wearing a watch for most of my life, it&#8217;s weird now if I don&#8217;t have the Apple Watch with me. I expect to use it for years to come.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/01/apple-watch-still-pretty-great.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Lowline Park</title>
+		<link>http://www.manton.org/2015/12/lowline-park.html</link>
+		<comments>http://www.manton.org/2015/12/lowline-park.html#comments</comments>
+		<pubDate>Mon, 21 Dec 2015 19:17:25 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[highline]]></category>
+		<category><![CDATA[lowline]]></category>
+		<category><![CDATA[nyc]]></category>
+		<category><![CDATA[park]]></category>
+		<category><![CDATA[trains]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3274</guid>
+		<description><![CDATA[Nice write-up at The Verge on the proposed Lowline Park, an underground park built in an old trolley terminal in New York City. The space has been relatively untouched for over 50 years: &#8220;Not that the abandoned trolley terminal, which opened the same time as the Williamsburg Bridge in 1903, is a neighborhood blight. In [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.theverge.com/2015/12/16/10214066/new-york-city-lowline-park-underground-terminal-photos">Nice write-up at The Verge</a> on the proposed Lowline Park, an underground park built in an old trolley terminal in New York City. The space has been relatively untouched for over 50 years:</p>
+<blockquote><p>
+  &#8220;Not that the abandoned trolley terminal, which opened the same time as the Williamsburg Bridge in 1903, is a neighborhood blight. In fact, it&#8217;s in pretty decent shape right now. The station served elevated lines and trolley cars from Brooklyn, but closed in 1948 when trolley service was discontinued, and has been empty ever since.&#8221;
+</p></blockquote>
+<p>One of the highlights to our trip to New York City a couple of years ago was the <a href="http://www.thehighline.org/">High Line</a>, a park built from an abandoned elevated freight train line originally scheduled for demolition. As a train fan — I did <a href="http://www.manton.org/2005/08/trains_podcast.html">a podcast episode</a> about trains and animation 10 years ago — I love to see any of these historic lines preserved in a new form.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2015/12/lowline-park.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Core Intuition 211 and fallback plans</title>
 		<link>http://www.manton.org/2015/12/core-intuition-211-and-fallback-plans.html</link>
 		<comments>http://www.manton.org/2015/12/core-intuition-211-and-fallback-plans.html#comments</comments>
@@ -113,173 +267,6 @@
 <p>I took an example screenshot from ESPN and included it to the right of this post. The first two posts are these special ESPN microblog posts, and the third is a tweet. I don&#8217;t know what CMS-like system is driving this, but you can imagine using WordPress post formats, custom fields, or categories to achieve something similar.</p>
 ]]></content:encoded>
 			<wfw:commentRss>http://www.manton.org/2015/12/espn-sidebar-microblog.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>WordPress podcast and Calypso</title>
-		<link>http://www.manton.org/2015/12/wordpress-podcast-and-calypso.html</link>
-		<comments>http://www.manton.org/2015/12/wordpress-podcast-and-calypso.html#comments</comments>
-		<pubDate>Fri, 04 Dec 2015 15:14:35 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Weblogs]]></category>
-		<category><![CDATA[automattic]]></category>
-		<category><![CDATA[calypso]]></category>
-		<category><![CDATA[podcasts]]></category>
-		<category><![CDATA[wordpress]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=3227</guid>
-		<description><![CDATA[I&#8217;ve become quite the fan of WordPress and Automattic over the last year, since finally switching. WordPress still has some problems — mostly in self-hosted web admin performance, and the clunkiness of editing themes — but Automattic is a good company. Around web publishing and hosting, I think 2 platforms are going to last for [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>I&#8217;ve become quite the fan of WordPress and Automattic over the last year, since <a href="http://www.manton.org/2014/09/thank-you-movable-type.html">finally switching</a>. WordPress still has some problems — mostly in self-hosted web admin performance, and the clunkiness of editing themes — but Automattic is a good company. Around web publishing and hosting, I think 2 platforms are going to last for decades: GitHub and WordPress.</p>
-<p><a href="https://poststatus.com/interviews-matt-mullenweg/">There&#8217;s a great interview</a> with Automattic founder Matt Mullenweg on the Post Status podcast:</p>
-<blockquote><p>
-  &#8220;I had the opportunity to interview Matt Mullenweg about an ambitious project that included more than a year and a half of development to create an all new WordPress.com interface, both for the web and a desktop app. The project was codenamed Calypso, and we talked about many aspects of Calypso, as well as a variety of subjects that relate to it.&#8221;
-</p></blockquote>
-<p>After listening to this episode, I&#8217;ve subscribed to the podcast. Looking forward to being a little more aware of what is going on in the WordPress community.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/12/wordpress-podcast-and-calypso.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Swift and Core Intuition 209</title>
-		<link>http://www.manton.org/2015/12/swift-and-core-intuition-209.html</link>
-		<comments>http://www.manton.org/2015/12/swift-and-core-intuition-209.html#comments</comments>
-		<pubDate>Thu, 03 Dec 2015 21:13:51 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Programming]]></category>
-		<category><![CDATA[coreint]]></category>
-		<category><![CDATA[opensource]]></category>
-		<category><![CDATA[servers]]></category>
-		<category><![CDATA[swift]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=3225</guid>
-		<description><![CDATA[Like many developers, I&#8217;ve spent the morning looking over the Swift open source release. I continue to be intrigued and look forward to working Swift into more of my routine. On today&#8217;s Core Intuition, Daniel and I talked about Swift for about half of the 50-minute episode. We recorded the episode yesterday afternoon, before the [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Like many developers, I&#8217;ve spent the morning looking over the <a href="https://swift.org/">Swift open source release</a>. I continue to be intrigued and look forward to working Swift into more of my routine.</p>
-<p>On <a href="http://www.coreint.org/2015/12/episode-209-we-need-a-grand-gesture/">today&#8217;s Core Intuition</a>, Daniel and I talked about Swift for about half of the 50-minute episode. We recorded the episode yesterday afternoon, before the open source announcement, so we&#8217;ll be following up next week on everything that has changed. I bet there will be some more progress in Swift web server frameworks by then, too.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/12/swift-and-core-intuition-209.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Too late to save the MAS?</title>
-		<link>http://www.manton.org/2015/12/too-late-to-save-the-mas.html</link>
-		<comments>http://www.manton.org/2015/12/too-late-to-save-the-mas.html#comments</comments>
-		<pubDate>Wed, 02 Dec 2015 16:41:31 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Business]]></category>
-		<category><![CDATA[clipstart]]></category>
-		<category><![CDATA[coreint]]></category>
-		<category><![CDATA[macappstore]]></category>
-		<category><![CDATA[sketch]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=3217</guid>
-		<description><![CDATA[You&#8217;ve probably heard the news about Sketch. I found this section of their announcement the most interesting, because it highlights that this isn&#8217;t just about technical and strategic problems with the Mac App Store, but also about having a direct relationship with the customer to provide the best experience: &#8220;Over the last year, as we’ve [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>You&#8217;ve probably heard <a href="http://blog.sketchapp.com/post/134322691555/leaving-the-mac-app-store">the news about Sketch</a>. I found this section of their announcement the most interesting, because it highlights that this isn&#8217;t just about technical and strategic problems with the Mac App Store, but also about having a direct relationship with the customer to provide the best experience:</p>
-<blockquote><p>
-  &#8220;Over the last year, as we’ve made great progress with Sketch, the customer experience on the Mac App Store hasn’t evolved like its iOS counterpart. We want to continue to be a responsive, approachable, and easily-reached company, and selling Sketch directly allows us to give <em>you</em> a better experience.&#8221;
-</p></blockquote>
-<p>Of course, Sketch joins <a href="https://dancounsell.com/articles/not-on-the-mac-app-store">a growing list</a> of apps unavailable in the store. From <a href="http://daringfireball.net/linked/2015/12/01/sketch-leaves-mac-app-store">John Gruber</a>:</p>
-<blockquote><p>
-  &#8220;Sketch isn’t the first big name professional app to be pulled from the Mac App Store (Bare Bones Software’s <a href="http://www.barebones.com/store/macappstore.html">BBEdit</a>, Panic’s <a href="https://panic.com/blog/coda-2-5-and-the-mac-app-store/">Coda</a>, <a href="http://mjtsai.com/blog/2015/11/24/quicken-2015-switches-from-mac-app-store-to-direct-updates/">Quicken</a>, just to name a few). But Sketch is the poster child for Mac App Store era professional Mac software. It’s the sort of app Apple might demo in a keynote — and the winner of <a href="https://www.macstories.net/news/the-2012-apple-design-award-winners/">an Apple Design Award</a>.&#8221;
-</p></blockquote>
-<p><a href="https://www.macstories.net/linked/sketch-is-leaving-the-mac-app-store/">Federico Viticci writes</a> that Apple has to do something:</p>
-<blockquote><p>
-  &#8220;The simple reality is that, gradually, developers of the best apps for OS X are finding it increasingly hard to justify doing business on the Mac App Store. I hope Apple also sees this as a problem and starts doing <em>something</em> about it.&#8221;
-</p></blockquote>
-<p>Daniel and I talked about this <a href="http://www.coreint.org/2015/11/episode-207-pretty-please-apple/">on Core Intuition recently</a>. Developers have been complaining about the Mac App Store for years without seeing any progress. It was <a href="http://www.manton.org/2012/02/sandboxing_and_clipstart.html">over 3 years ago</a> that I pulled my app Clipstart from the Mac App Store to sell direct-only instead, because of my concerns about adapting to sandboxing.</p>
-<p>All this time, Apple could have been iterating on the Mac App Store, improving sandboxing entitlements, improving review times, customer interaction, and more. Yet they have not. At this point, Apple can&#8217;t just do &#8220;something&#8221;. They can&#8217;t just improve the Mac App Store a little. They have to <em>significantly</em> improve it, addressing many issues at once. And even then, some of these great apps — Sketch, BBEdit, Coda, RapidWeaver — may not come back.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/12/too-late-to-save-the-mas.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Apple Pencil, for real</title>
-		<link>http://www.manton.org/2015/11/apple-pencil-for-real.html</link>
-		<comments>http://www.manton.org/2015/11/apple-pencil-for-real.html#comments</comments>
-		<pubDate>Mon, 30 Nov 2015 17:42:44 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Programming]]></category>
-		<category><![CDATA[ipadpro]]></category>
-		<category><![CDATA[pencil]]></category>
-		<category><![CDATA[stylus]]></category>
-		<category><![CDATA[uitouch]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=3206</guid>
-		<description><![CDATA[As we talk about on Core Intuition episode 208, I finally got an Apple Pencil. It&#8217;s great. My experience matches Gus Mueller&#8217;s, about how good the Apple Pencil is after years of using Wacom tablets and third-party iOS styluses: &#8220;I find that when using the HB Pencil in Procreate, I get something that is very, [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>As we talk about on <a href="http://www.coreint.org/2015/11/episode-208-crazy-and-doomed-to-failure/">Core Intuition episode 208</a>, I finally got an Apple Pencil. It&#8217;s great. My experience matches <a href="http://shapeof.com/archives/2015/11/the_hype_is_real.html">Gus Mueller&#8217;s</a>, about how good the Apple Pencil is after years of using Wacom tablets and third-party iOS styluses:</p>
-<blockquote><p>
-  &#8220;I find that when using the HB Pencil in Procreate, I get something that is very, very close to what I feel when I&#8217;m drawing in my sketchbooks. But of course now I&#8217;ve got layers and many colors and a perfect eraser to work with. And endless pages. I love it.&#8221;
-</p></blockquote>
-<p>On the question of whether it&#8217;s a &#8220;stylus&#8221;, <a href="https://brooksreview.net/2015/11/pencil-2/">Ben Brooks sums it up</a> this way:</p>
-<blockquote><p>
-  &#8220;That’s the question I get asked a lot from people — my wife especially. Apple will tell you it is not a stylus because it is so much better than any other stylus, it clearly is something else. So, instead, I’ll tell you that it <em>is</em> very much a stylus — it just so happens to be the best stylus I have ever encountered on any device.&#8221;
-</p></blockquote>
-<p>I&#8217;ve also been improving the Apple Pencil support in an iPad app I&#8217;m working on. I haven&#8217;t completely finished reading <a href="http://www.russbishop.net/uitouchtypestylus">Russ Bishop&#8217;s article</a> on supporting the Apple Pencil, but looks like it has a bunch of additional tips in it that I&#8217;d benefit from. It covers not just the API changes to UITouch, but also gestures, coalescing, and predictive touches.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/11/apple-pencil-for-real.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>A diverse community through writing</title>
-		<link>http://www.manton.org/2015/11/a-diverse-community-through-writing.html</link>
-		<comments>http://www.manton.org/2015/11/a-diverse-community-through-writing.html#comments</comments>
-		<pubDate>Thu, 19 Nov 2015 16:36:04 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Weblogs]]></category>
-		<category><![CDATA[blogging]]></category>
-		<category><![CDATA[europe]]></category>
-		<category><![CDATA[rss]]></category>
-		<category><![CDATA[swift]]></category>
-		<category><![CDATA[travel]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=3187</guid>
-		<description><![CDATA[I read a lot of weblogs. RSS is a great way to keep up with sites that update infrequently, or that aren&#8217;t popular enough to bubble up on Twitter with dozens of retweets. But the Mac and iOS community has grown so much over the years. I know there are many new writers who haven&#8217;t [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>I read a lot of weblogs. RSS is a great way to keep up with sites that update infrequently, or that aren&#8217;t popular enough to bubble up on Twitter with dozens of retweets. But the Mac and iOS community has grown so much over the years. I know there are many new writers who haven&#8217;t been on my radar yet.</p>
-<p>Brent Simmons has posted <a href="http://inessential.com/2015/11/16/blogs_by_women">a great list of tech blogs by women</a> that I&#8217;m going through now. There should be something there for anyone interested in development or design:</p>
-<blockquote><p>
-  &#8220;I made a list of some blogs I already knew about, and then I asked my friends for more, and they totally came through.&#8221;
-</p></blockquote>
-<p>The list grew to include over 50 blogs as suggestions arrived to Brent via Twitter. I&#8217;ve already subscribed to a bunch and look forward to discovering even more.</p>
-<p>One of my favorite new blogs is the travel blog complement to <a href="http://natashatherobot.com/">Natasha The Robot</a>, which made Brent&#8217;s list. Natasha was recently <a href="https://signalvnoise.com/posts/3973-natasha-the-robot-murashev-joins-basecamp">hired at Basecamp</a>, runs the <a href="https://swiftnews.curated.co/">This Week in Swift</a> newsletter, and <a href="http://www.natashathenomad.com/">writes on her new blog</a> about working remotely. From a post about taking her laptop to restaurants in Europe:</p>
-<blockquote><p>
-  &#8220;The nice thing about this is that I get a really cool and inspiring office for a few hours &#8211; each cafe or restaurant has it&#8217;s own vibe, people, music and I don&#8217;t feel rushed internally knowing that I need to go back to my apartment or coworking space to actually work.&#8221;
-</p></blockquote>
-<p>When I quit my day job this year, it was partly so we could travel more without worrying too much about my work schedule, outside of when the kids are in school. In fact, just days after I finished writing my <a href="http://www.manton.org/tag/2weeks">two weeks notice</a> blog posts, we went to Europe and started a private family blog about the trip. So I&#8217;ve been inspired by Natasha&#8217;s blog as she shares her experience working in different cities.</p>
-<p>And that&#8217;s a theme you&#8217;ll find in many of the developer-oriented blogs on Brent&#8217;s list. Wanting to get better, learning something new, and then sharing it with everyone else. Take this advice from Becky Hansmeyer, who wrote a daily series of posts about what she learned building her iPhone app, one post each day while she waited for her app to be approved by Apple. <a href="http://beckyhansmeyer.com/2015/06/05/waiting-for-review-day-4-visual-style/">From day 4</a>, on design and color:</p>
-<blockquote><p>
-  &#8220;I think the biggest thing I learned in choosing colors and fonts for my app is not to get too hung up in making comparisons to other apps. I spent a lot of time looking at my favorite apps like Overcast and Tweetbot and thinking about the decisions the developers made, and as a result I wound up feeling like I had to make those same decisions. But that was stupid because my app is my own and is also designed for a much smaller market.&#8221;
-</p></blockquote>
-<p>Or this quote from Kristina Thai, who wrote <a href="http://www.kristinathai.com/how-to-be-a-speaker-if-you-dont-have-any-experience/">a post about preparing to give a talk</a> for the first time:</p>
-<blockquote><p>
-  &#8220;My presentation didn’t flow, it was jagged and very rough around the edges, but I kept at it, made some changes and it got better. And better. And even better. And then I practiced it in front of a couple of friends who gave me even more feedback until I was ready.&#8221;
-</p></blockquote>
-<p>Kristina also gave a talk called <a href="http://www.kristinathai.com/writing/">Become a Better Engineer Through Writing</a>. You can get a sense of the talk by downloading the slides. It covers the value to programmers in keeping a private journal, why you might write tutorials for your site, and makes a strong case for blogging.</p>
-<p>Blogging isn&#8217;t difficult, but it&#8217;s still not yet as easy as tweeting. By creating a blog, you&#8217;re making a statement that you <em>care</em> about something. As I go through <a href="http://inessential.com/2015/11/16/blogs_by_women">Brent&#8217;s list of bloggers</a>, that&#8217;s what I&#8217;m looking for: what does the author care about, and what can I learn from or be inspired by in their writing? Because the more diverse our RSS subscriptions are — the more varied the opinions in what we read and share with others — the closer it gets us to a strong, healthy community.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/11/a-diverse-community-through-writing.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Six Colors and the iPad Pro</title>
-		<link>http://www.manton.org/2015/11/six-colors-and-the-ipad-pro.html</link>
-		<comments>http://www.manton.org/2015/11/six-colors-and-the-ipad-pro.html#comments</comments>
-		<pubDate>Wed, 18 Nov 2015 04:33:58 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Technology]]></category>
-		<category><![CDATA[ipad]]></category>
-		<category><![CDATA[ipadpro]]></category>
-		<category><![CDATA[keyboard]]></category>
-		<category><![CDATA[sixcolors]]></category>
-		<category><![CDATA[writing]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=3185</guid>
-		<description><![CDATA[Jason Snell has posted his initial thoughts on using the iPad Pro: &#8220;What the past few days have taught me is that if I needed to switch from Mac to iPad, if I had a compelling reason, I could absolutely do it. I can edit podcasts, write articles, edit spreadsheets, generate charts and graphs, edit [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Jason Snell has posted <a href="https://sixcolors.com/post/2015/11/ipad-pro-new-tricks-for-old-dogs/">his initial thoughts on using the iPad Pro</a>:</p>
-<blockquote><p>
-  &#8220;What the past few days have taught me is that if I needed to switch from Mac to iPad, if I had a compelling reason, I could absolutely do it. I <a href="https://sixcolors.com/post/2015/11/editing-podcasts-on-ios-with-ferrite/">can edit podcasts</a>, write articles, edit spreadsheets, generate charts and graphs, edit photos, build web sites, transfer files via FTP, and more.&#8221;
-</p></blockquote>
-<p>I don&#8217;t think Jason got an Apple Pencil or Smart Keyboard, although maybe he&#8217;ll have one of each in time for his full review. If you&#8217;ve enjoyed reading Six Colors as much as I have over the last year, <a href="https://sixcolors.com/subscribe/">consider subscribing too</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/11/six-colors-and-the-ipad-pro.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

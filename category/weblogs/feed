@@ -12,12 +12,43 @@
 	<atom:link href="http://www.manton.org/category/weblogs/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Fri, 18 Dec 2015 17:56:59 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 06 Jan 2016 17:11:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>http://wordpress.org/?v=4.3.1</generator>
 	<item>
+		<title>Hyperlinks and saving the web</title>
+		<link>http://www.manton.org/2016/01/hyperlinks-and-saving-the-web.html</link>
+		<comments>http://www.manton.org/2016/01/hyperlinks-and-saving-the-web.html#comments</comments>
+		<pubDate>Tue, 05 Jan 2016 15:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[instagram]]></category>
+		<category><![CDATA[iran]]></category>
+		<category><![CDATA[microblogging]]></category>
+		<category><![CDATA[timelines]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3284</guid>
+		<description><![CDATA[Hossein Derakhshan spent 6 years in jail in Iran because of his blog. Now, with the clarity of seeing years of changes to the web and social networks all at once after his release, he&#8217;s written an important essay on the value of hyperlinks and the open web: &#8220;When a powerful website – say Google [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Hossein Derakhshan spent 6 years in jail in Iran because of his blog. Now, with the clarity of seeing years of changes to the web and social networks all at once after his release, <a href="http://www.theguardian.com/technology/2015/dec/29/irans-blogfather-facebook-instagram-and-twitter-are-killing-the-web">he&#8217;s written an important essay</a> on the value of hyperlinks and the open web:</p>
+<blockquote><p>
+  &#8220;When a powerful website – say Google or Facebook – gazes at, or links to, another webpage, it doesn’t just connect it , it brings it into existence; gives it life. Without this empowering gaze, your web page doesn’t breathe. No matter how many links you have placed in a webpage, unless somebody is looking at it, it is actually both dead and blind, and therefore incapable of transferring power to any outside web page.&#8221;
+</p></blockquote>
+<p>He mentions apps like Instagram, which have no way to link to the outside world. Too many apps are exactly like this: more interested in capturing eyeballs for ads than opening up their platform. The default for native mobile apps is to become silos, while the default for web sites is to be open and support linking.</p>
+<p>There&#8217;s a second part to Hossein&#8217;s essay that I don&#8217;t agree with, though. He writes that &#8220;the stream&#8221; – a.k.a the timeline, a reverse-chronological list of short posts or links – is turning the web into television. But I think there&#8217;s a lot we can learn from the timeline. It&#8217;s a valuable user experience metaphor that we should take back from Twitter and social networks.</p>
+<p>Building on the timeline is basically the whole point of my microblogging project. We should encourage independent microblogs by using a timeline interface to make them more useful. (Interested? <a href="http://eepurl.com/6vVvj">Sign up</a> on my announce list.)</p>
+<p>Back to links. Dave Winer, who has been cross-posting recently to Facebook and Medium, <a href="http://scripting.com/liveblog/users/davewiner/2016/01/03/0783.html">posted about</a> how Facebook doesn&#8217;t allow inline links in the text of a post. As a new generation grows up on these kind of posts instead of real blog posts, will people understand what they&#8217;re missing? Dave writes:</p>
+<blockquote><p>
+  &#8220;I hope we don&#8217;t end up having to try to explain linking to future generations who have no recollection of an electronic writing environment where words could take you to a whole other place. But I suspect we&#8217;re going there. Unless somehow we can get Facebook to relent and make it easy to link from words in Facebook posts to other places on the web.&#8221;
+</p></blockquote>
+<p>This is a great challenge for 2016. Not specifically with Facebook, but with the larger idea of bringing back <a href="http://anildash.com/2012/12/the-web-we-lost.html">the web we lost</a>, retrofitted for today&#8217;s app-centric internet. I hope to spend a good part of the year working on it.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/01/hyperlinks-and-saving-the-web.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>ESPN sidebar microblog</title>
 		<link>http://www.manton.org/2015/12/espn-sidebar-microblog.html</link>
 		<comments>http://www.manton.org/2015/12/espn-sidebar-microblog.html#comments</comments>
@@ -315,46 +346,8 @@
 			<wfw:commentRss>http://www.manton.org/2015/09/wrap-up-thoughts-on-the-tv-web.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
-		<item>
-		<title>The web without HTML</title>
-		<link>http://www.manton.org/2015/09/the-web-without-html.html</link>
-		<comments>http://www.manton.org/2015/09/the-web-without-html.html#comments</comments>
-		<pubDate>Thu, 17 Sep 2015 04:59:14 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Weblogs]]></category>
-		<category><![CDATA[appletv]]></category>
-		<category><![CDATA[browsers]]></category>
-		<category><![CDATA[foodml]]></category>
-		<category><![CDATA[openweb]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=3035</guid>
-		<description><![CDATA[On Twitter, Alex Fajkowski responded to my blog post about tvOS with this: &#8220;They have access to the open web—NSURLSession exists. HTML rendering is inappropriate for the watch and tv.&#8221; I disagree with both of those sentences. Maybe Alex didn&#8217;t read my full post, because I wrote that web services are not enough. HTML and [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="https://twitter.com/thefaj/status/644273497271869440">On Twitter</a>, Alex Fajkowski responded to <a href="http://www.manton.org/2015/09/every-device-needs-the-web.html">my blog post about tvOS</a> with this:</p>
-<blockquote><p>
-  &#8220;They have access to the open web—NSURLSession exists. HTML rendering is inappropriate for the watch and tv.&#8221;
-</p></blockquote>
-<p>I disagree with both of those sentences. Maybe Alex didn&#8217;t read my full post, because I wrote that web <em>services</em> are not enough. HTML and links and URLs are equally important parts of the open web. NSURLSession gets you web services but nothing else.</p>
-<p>(As an aside, HTML turns out to be a pretty useful format for styling text, too. Why wouldn&#8217;t you want to use it for iTunes movie descriptions on the TV, for example? That seems completely appropriate.)</p>
-<p>Think about the full scope of the internet. What percentage of content is available via web services — that is, structured data that can be parsed and displayed with a custom, native UI — compared to all the traditional, HTML-based web sites? You&#8217;ll find that there is an almost unimaginably large number of that latter kind of web site, and the only way to access and display that content is with an HTML renderer.</p>
-<p>Now imagine a world with only native apps. You&#8217;d need custom apps and web services for different kinds of content, just as we have native Twitter or Instagram apps today, but we&#8217;d need these for many thousands of categories: tvOS with TVML, recipe or cooking apps with FOODML, and so on. Eventually, having so many formats would get unmanageable. We&#8217;d need to invent a general purpose format that could accommodate many app formats, and (surprise!) that general format would look a lot like HTML. Why break old content and essentially reboot the web, when we already have a capable format in HTML?</p>
-<p>Of course, there&#8217;s no immediate risk of getting to that hypothetical native-only future. But when a company with the size and influence of Apple has 4 major platforms and only 2 of them have access to the open web, that should give us pause. Let&#8217;s reflect on how this plays out, so we can get back on track if the web does become marginalized.</p>
-<p><a href="http://daringfireball.net/linked/2015/09/16/manton-every-device">John Gruber commented</a> that these new devices don&#8217;t <em>need</em> the web at all, comparing it to the original Mac shipping without a command line interface. I realized while reading his closing paragraph that my own blog post had been poorly titled, and so the whole point too easily misunderstood. John wrote:</p>
-<blockquote><p>
-  &#8220;Or it could be that Apple has decided never to open WebKit to developers on Apple TV. Either way, it won’t affect Apple TV’s success, and everything will be OK.&#8221;
-</p></blockquote>
-<p>Apple TV&#8217;s success doesn&#8217;t change my argument. My Apple TV dev kit arrives on Friday, I&#8217;m going to build an app for it, and I can&#8217;t wait to watch Apple&#8217;s latest platform take off. When I wrote that the Apple TV &#8220;needs&#8221; the web I didn&#8217;t mean that it would be crippled and unsuccessful without it. I simply meant that the web <em>should</em> be there in some form, even if limited.</p>
-<p>(It doesn&#8217;t even have to be Safari. There just needs to be enough web technologies to make some part of the open web possible. Again, that means web services, HTML, and links.)</p>
-<p>Yesterday, <a href="http://daringfireball.net/linked/2015/09/15/ppk-stop-pushing-web-forward">John Gruber also wrote</a> about web apps and native apps, and what each should focus on:</p>
-<blockquote><p>
-  &#8220;Native apps can’t out-web the web, and web apps should embrace that.&#8221;
-</p></blockquote>
-<p>That&#8217;s good advice. There are plenty of important tasks for the web community that should be top priorities, such as encouraging a return to <a href="http://www.manton.org/2015/09/evan-williams-on-indie-web-sites.html">independent publishing</a> and trying to fix the <a href="http://www.manton.org/2015/09/web-history-and-ipfs.html">lack of redundancy</a>. The web will always be playing catch-up with native apps for user experience, but the web will always be <em>ahead</em> as a distributed, open publishing platform. And that is such an important feature, it should be available on as many devices as possible.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/09/the-web-without-html.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 2.260 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2015-12-18 15:29:57 -->
+<!-- Dynamic page generated in 2.750 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-01-06 12:15:51 -->

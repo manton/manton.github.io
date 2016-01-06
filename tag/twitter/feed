@@ -12,12 +12,35 @@
 	<atom:link href="http://www.manton.org/tag/twitter/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Fri, 18 Dec 2015 17:56:59 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 06 Jan 2016 17:11:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>http://wordpress.org/?v=4.3.1</generator>
 	<item>
+		<title>Twitter&#8217;s 10k limit</title>
+		<link>http://www.manton.org/2016/01/twitters-10k-limit.html</link>
+		<comments>http://www.manton.org/2016/01/twitters-10k-limit.html#comments</comments>
+		<pubDate>Tue, 05 Jan 2016 20:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[microblogging]]></category>
+		<category><![CDATA[starwars]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3321</guid>
+		<description><![CDATA[First, Twitter experimented with changing the timeline, so it&#8217;s not strictly reverse-chronological. Then, they renamed Favorites to Likes. Soon, they will remove the 140-character limit, becoming Facebook, and the circle will be complete: &#8220;The current plan is reportedly to show just the first 140 characters in the news feed and then allow readers to click [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>First, Twitter experimented with changing the timeline, so it&#8217;s not strictly reverse-chronological. Then, they renamed Favorites to Likes. Soon, <a href="http://mashable.com/2016/01/05/twitter-character-limit-10000/">they will remove the 140-character limit</a>, becoming Facebook, and the circle will be complete:</p>
+<blockquote><p>
+  &#8220;The current plan is reportedly to show just the first 140 characters in the news feed and then allow readers to click to expand the tweet and see the other 9,860 remaining characters. The new option may launch later this quarter.&#8221;
+</p></blockquote>
+<p>The learner is now the master. Welcome to the dark side.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/01/twitters-10k-limit.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Stars vs. hearts and Twitter&#8217;s decline</title>
 		<link>http://www.manton.org/2015/11/stars-vs-hearts-and-twitters-decline.html</link>
 		<comments>http://www.manton.org/2015/11/stars-vs-hearts-and-twitters-decline.html#comments</comments>
@@ -268,35 +291,8 @@
 			<wfw:commentRss>http://www.manton.org/2015/06/why-ello-isnt-enough.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
-		<item>
-		<title>More quick blogging workflows</title>
-		<link>http://www.manton.org/2015/06/more-quick-blogging-workflows.html</link>
-		<comments>http://www.manton.org/2015/06/more-quick-blogging-workflows.html#comments</comments>
-		<pubDate>Sat, 20 Jun 2015 15:07:10 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Weblogs]]></category>
-		<category><![CDATA[drafts]]></category>
-		<category><![CDATA[microblogs]]></category>
-		<category><![CDATA[twitter]]></category>
-		<category><![CDATA[wordpress]]></category>
-		<category><![CDATA[wwdc]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=2747</guid>
-		<description><![CDATA[I had a great conversion with Seth Clifford one night at WWDC, about writing and blogging. We all want to get better at writing and posting more frequently. As I mentioned in yesterday’s post, the best way to improve anything is to do more of it, more often. I believe there are two important facets [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>I had a great conversion with Seth Clifford one night at WWDC, about writing and blogging. We all want to get better at writing and posting more frequently. As I mentioned <a href="http://www.manton.org/2015/06/we-need-more-bad-ideas.html">in yesterday’s post</a>, the best way to improve anything is to do more of it, more often.</p>
-<p>I believe there are two important facets to microblogging. The first is the timeline experience: a reverse-chronological list of posts from your friends, like you see on Twitter. The second is that posting should be effortless: if there’s less friction between your idea and publishing it, you’ll write more often. So a big part of posting regularly is just having a system that makes it easy.</p>
-<p><a href="http://sethclifford.me/2015/06/auto-posting-to-wordpress-and-archiving-in-dropbox-with-drafts/">Seth updated his iOS blogging workflow</a> by using Drafts and WordPress’s email-to-blog feature. As a nice bonus, he gets Markdown files of each post saved to Dropbox:</p>
-<blockquote><p>
-  “Drafts allows you to send email as an action. WordPress allows you to post into the system via email. Using a combination of the action and the <a href="http://jetpack.me/support/post-by-email/">Jetpack plugin’s email functionality</a>, I can go from idea to published in seconds, without touching the WP iOS app (which continues to get better, but still isn’t <em>fast</em>) and get my local copy stored away.”
-</p></blockquote>
-<p>Also this week, Ben Brooks has switched his core Twitter posting to go through WordPress. He has a <a href="http://benb.me/">standalone microblog at benb.me</a> where the posts live. They go out to Twitter automatically via IFTTT. Posting to a blog first and then Twitter second seems like a simple idea, but it is extremely powerful. Years from now you end up with an archive of all your short-form writing at your own domain. Not as an afterthought, but as the <em>default</em>.</p>
-<p>The great thing about blogging is there’s no one correct way to do this stuff. I’m really happy to see these solutions from Seth and Ben, and I know other folks are working on similar workflows.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/06/more-quick-blogging-workflows.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 4.216 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2015-12-18 17:12:55 -->
+<!-- Dynamic page generated in 2.703 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-01-06 12:40:36 -->
