@@ -12,12 +12,97 @@
 	<atom:link href="http://www.manton.org/tag/dropbox/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Wed, 06 Jan 2016 17:11:57 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<generator>http://wordpress.org/?v=4.3.3</generator>
 	<item>
+		<title>Ulysses iOS missing Dropbox support</title>
+		<link>http://www.manton.org/2016/03/ulysses-ios-missing-dropbox-support.html</link>
+		<comments>http://www.manton.org/2016/03/ulysses-ios-missing-dropbox-support.html#comments</comments>
+		<pubDate>Fri, 11 Mar 2016 17:13:46 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[dropbox]]></category>
+		<category><![CDATA[icloud]]></category>
+		<category><![CDATA[sync]]></category>
+		<category><![CDATA[ulysses]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3698</guid>
+		<description><![CDATA[After I blogged about Ulysses for Mac, a couple people told me that an iPad version was coming soon and that it was great. That new version shipped this week. I put down $20 immediately even before reading the positive MacStories review by David Chartier. Unfortunately I can&#8217;t use it much because it has no [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>After I <a href="http://www.manton.org/2016/01/finally-trying-ulysses.html">blogged about Ulysses for Mac</a>, a couple people told me that an iPad version was coming soon and that it was great. That new version shipped this week. I put down $20 <a href="http://benb.me/snippets/737">immediately</a> even before reading <a href="https://www.macstories.net/reviews/review-ulysses-2-5-for-ipad-and-now-iphone/">the positive MacStories review by David Chartier</a>.</p>
+<p>Unfortunately I can&#8217;t use it much because it has no native Dropbox support. For a market that has literally <a href="http://brettterpstra.com/ios-text-editors/">many dozens of Dropbox text editors</a>, I didn&#8217;t consider that Ulysses would ship without something so integral to my writing workflow.</p>
+<p>(The Mac version doesn’t have this problem because of the concept of “External Folders”. I simply add my Dropbox notes folder to Ulysses on my Mac and everything syncs.)</p>
+<p>Last month I wrote a post called <a href="http://www.manton.org/2016/02/icloud-is-too-opaque.html">iCloud is too opaque</a>, in which I made an argument against having important text files and photos synced to a backend that allows no visibility when things go wrong, and no compatibility with other apps. Ulysses for iOS falls into this trap. Its use of iCloud is private to the app, unlike iCloud Drive or Dropbox which are accessible from other apps.</p>
+<p>I know I’m not the only one who feels this way. <a href="http://ulyssesapp.com/faq/#ios-sync_external_files">The FAQ</a> for Ulysses spends considerable space trying to explain away their lack of Dropbox support, even attempting to pin the issue on Dropbox instead of Ulysses itself.</p>
+<p>The Soulmen, makers of Ulysses, are talented designers and developers, and I’m typing this in Ulysses for Mac because their app has a great mix of features and attention to detail. I respect that they’ve grown the company to 11 people already. But closed syncing solutions aren’t a good choice for exclusivity. Having cross-platform syncing across competing Twitter apps is why I created Tweet Marker, so you can be sure I want the same for my text documents.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/03/ulysses-ios-missing-dropbox-support.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>iCloud is too opaque</title>
+		<link>http://www.manton.org/2016/02/icloud-is-too-opaque.html</link>
+		<comments>http://www.manton.org/2016/02/icloud-is-too-opaque.html#comments</comments>
+		<pubDate>Fri, 12 Feb 2016 17:15:58 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[cloudkit]]></category>
+		<category><![CDATA[dropbox]]></category>
+		<category><![CDATA[icloud]]></category>
+		<category><![CDATA[notes]]></category>
+		<category><![CDATA[paper]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3518</guid>
+		<description><![CDATA[Last night, Federico Viticci tweeted that he lost a draft blog post he was working on because of an iCloud problem: &#8220;Just lost 1.5k words I had prepared for tomorrow because I wanted to try iCloud sync instead of Dropbox this week.&#8221; The story has a happy ending because he was able to manually recover [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Last night, <a href="https://twitter.com/viticci/status/697911652142968832">Federico Viticci tweeted</a> that he lost a draft blog post he was working on because of an iCloud problem:</p>
+<blockquote><p>
+  &#8220;Just lost 1.5k words I had prepared for tomorrow because I wanted to try iCloud sync instead of Dropbox this week.&#8221;
+</p></blockquote>
+<p>The story has a happy ending because he was able to manually recover the document from the app&#8217;s database, but that is well beyond the complexity that most users could handle. iCloud is usually so opaque that we just can&#8217;t see what is going on behind the scenes with our data.</p>
+<p>Everything I write on this blog (and notes for all my projects) goes into simple text files on Dropbox. I can edit from multiple apps on different platforms, the files are synced everywhere, and Dropbox tracks the revisions of each file so that I can restore a previous version at any time. I could take the text file I&#8217;m currently typing in, drag it to the Finder&#8217;s trash <em>and empty it</em>, and restore from the web in 30 seconds even without any kind of traditional backup solution.</p>
+<p>That&#8217;s why all my photos are on Dropbox too. Instead of being opaque like iCloud, with no easy way to troubleshoot or recover files when things go wrong, with Dropbox it&#8217;s all there in the local file system or over the web.</p>
+<p>Dropbox has had a few side projects and distractions, but their foundation is obvious and accessible, so they can keep coming back to that. <a href="http://www.512pixels.net/blog/2015/12/dropbox-to-discontinue-mailbox-and-carousel">Here&#8217;s Stephen Hackett writing in December</a> about documents and photos after Dropbox shut down Mailbox and Carousel:</p>
+<blockquote><p>
+  &#8220;As much as these apps were loved by their users, it&#8217;s clear that the company is moving in another direction. While things like Paper don&#8217;t make much of a difference to me, knowing that Dropbox will reliably sync my files, be easy to use on iOS and continue to be around is important to me. If Mailbox and Carousel had to go to make that possible, then so be it.&#8221;
+</p></blockquote>
+<p>I really like the clean UI in Dropbox’s Paper, but because it doesn’t yet sync with regular files like the rest of Dropbox, Paper isn’t building on Dropbox’s core strengths. Daniel and I use it for planning <a href="http://www.coreint.org/">Core Intuition</a>, but I wouldn’t use it for critical writing any more than I would use the new Apple Notes.</p>
+<p>I hear that people love iCloud Photo Library and Notes, and that the quality of these apps and companion services has significantly improved. That&#8217;s great. (I also think that CloudKit is clearly the best thing Apple has built for syncing yet.)</p>
+<p>But to me, it doesn&#8217;t matter if it&#8217;s reliable or fast, or even if it “always” works. It only matters if I trust it when something goes wrong. Conceptually I’m not sure iCloud will ever get there for me.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/02/icloud-is-too-opaque.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Finally trying Ulysses</title>
+		<link>http://www.manton.org/2016/01/finally-trying-ulysses.html</link>
+		<comments>http://www.manton.org/2016/01/finally-trying-ulysses.html#comments</comments>
+		<pubDate>Thu, 21 Jan 2016 15:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[drafts]]></category>
+		<category><![CDATA[dropbox]]></category>
+		<category><![CDATA[ulysses]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3404</guid>
+		<description><![CDATA[I’m finally trying Ulysses. After posting about how I write blog drafts, a reader pointed out that Justnotes for Mac isn’t actively maintained anymore. I think Ulysses will make a nice replacement, both for my Dropbox folder of 1000+ notes, and also for longer, more structured writing I want to do. Ryan Irelan uses that [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I’m finally trying <a href="http://ulyssesapp.com/">Ulysses</a>. After posting about <a href="http://www.manton.org/2016/01/wordpress-drafts-workflow.html">how I write blog drafts</a>, a reader pointed out that Justnotes for Mac isn’t actively maintained anymore. I think Ulysses will make a nice replacement, both for my Dropbox folder of 1000+ notes, and also for longer, more structured writing I want to do.</p>
+<p><a href="http://ryanirelan.com/2016/01/12/using-ulysses-for-writing.html">Ryan Irelan uses that structure</a> to organize courses for Mijingo:</p>
+<blockquote><p>
+  “Each course is also a Collection inside of the courses collection, in which I have separate sheets for each section of the course (or even broken down into multiple sheets per section depending on the length)”
+</p></blockquote>
+<p>Ben Brooks is also trying to consolidate from the iOS 9 Notes app and others to <a href="https://brooksreview.net/2016/01/ulysses-all-the-things/">just using Ulysses</a>:</p>
+<blockquote><p>
+  “This was my pain point, I often just simply forgot where I jotted something down. I don’t typically make <em>tasks</em> out of articles I am writing, so I remember what is what by looking in Ulysses, and if it isn’t in Ulysses I won’t go searching for it. Notes was the most convenient place to write, but also a bit of a black hole for writing.”
+</p></blockquote>
+<p>I can already tell that Ulysses is a great app. Looking forward to <a href="http://ulyssesapp.com/blog/2015/12/ulysses-iphone-beta/">the upcoming universal version</a> with support for the iPad Pro, too.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/01/finally-trying-ulysses.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Google Photos</title>
 		<link>http://www.manton.org/2015/06/google-photos.html</link>
 		<comments>http://www.manton.org/2015/06/google-photos.html#comments</comments>
@@ -209,5 +294,5 @@ I switched to using the JSON files and it&#8217;s working well. They&#8217;re Ja
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 1.748 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-01-06 13:19:26 -->
+<!-- Dynamic page generated in 0.363 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-04-14 14:56:25 -->

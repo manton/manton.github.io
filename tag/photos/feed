@@ -12,12 +12,73 @@
 	<atom:link href="http://www.manton.org/tag/photos/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Wed, 06 Jan 2016 17:11:57 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<generator>http://wordpress.org/?v=4.3.3</generator>
 	<item>
+		<title>Photo blogging follow-up</title>
+		<link>http://www.manton.org/2016/03/photo-blogging-follow-up.html</link>
+		<comments>http://www.manton.org/2016/03/photo-blogging-follow-up.html#comments</comments>
+		<pubDate>Sun, 20 Mar 2016 15:17:45 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Photography]]></category>
+		<category><![CDATA[automation]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[macstories]]></category>
+		<category><![CDATA[photos]]></category>
+		<category><![CDATA[workflow]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3739</guid>
+		<description><![CDATA[As I&#8217;ve written about already, I now post photos to my own site in addition to Instagram. I use the Workflow app to make this easier, automatically uploading a photo and making a new blog post for it from iOS. Ryan Toohil has taken my rough workflow and improved it, adding support for prompting for [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>As I&#8217;ve <a href="http://www.manton.org/2016/03/blogging-your-photos.html">written about already</a>, I now post photos to my own site in addition to Instagram. I use the <a href="https://workflow.is/">Workflow app</a> to make this easier, automatically uploading a photo and making a new blog post for it from iOS.</p>
+<p>Ryan Toohil has taken my rough workflow <a href="https://blog.ryantoohil.com/2016/03/owning-your-own-social-media-content.php">and improved it</a>, adding support for prompting for the photo title, fixing the photo’s orientation, and a better dynamic folder name based on the date. You can <a href="https://workflow.is/workflows/c485d9227ed347c4b3aab2a94fb822d6">see his updated workflow here</a>.</p>
+<p>I still have a lot to learn about using Workflow. It’s the kind of app that you can only really understand the potential for after diving in with a real problem. Now I find myself looking for more ways I can use the app.</p>
+<p>I’ve also finally read Federico Viticci’s excellent <a href="http://www.imore.com/how-use-workflow-ios-when-you-dont-know-where-start">intro to Workflow over at iMore</a>, which includes this advice:</p>
+<blockquote><p>
+  “When I was new to Workflow, visualizing the vertical flow of actions before building the stack was my biggest hurdle in getting started. I&#8217;ve since developed a habit that comes in handy every day: if I already know what a workflow should do at the beginning and at the end, I place the first action and the last one immediately on the canvas. Then, I only have to figure out how to go from Point A to Point B, dropping actions between those two as I play around with different ideas.”
+</p></blockquote>
+<p>Of course, Federico has written many times about Workflow. He has an article about <a href="https://www.macstories.net/ios/publishing-articles-to-wordpress-with-workflow-on-ios/">using Workflow to post to WordPress</a>, and tips and example workflows in the MacStories Club email. His podcast <a href="https://www.relay.fm/canvas">Canvas</a> with Fraser Speirs also routinely discusses workflows.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/03/photo-blogging-follow-up.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Blogging your photos</title>
+		<link>http://www.manton.org/2016/03/blogging-your-photos.html</link>
+		<comments>http://www.manton.org/2016/03/blogging-your-photos.html#comments</comments>
+		<pubDate>Tue, 08 Mar 2016 18:16:45 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Photography]]></category>
+		<category><![CDATA[automation]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[photos]]></category>
+		<category><![CDATA[transmit]]></category>
+		<category><![CDATA[workflow]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3679</guid>
+		<description><![CDATA[Colin Devroe started microblogging on his own site, with separate sections for statuses and photos: “I want to post content to my own personal site and not through closed social networks — because I want to keep control of everything I create forever. [&#8230;] This doesn’t mean that I won’t be posting to Twitter or Facebook [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://cdevroe.com/15094/fits-and-starts-and-homesteading">Colin Devroe started microblogging</a> on his own site, with separate sections for statuses and photos:</p>
+<blockquote><p>
+  “I want to post content to my own personal site and not through closed social networks — because I want to keep control of everything I create forever. [&#8230;] This doesn’t mean that I won’t be posting to Twitter or Facebook or Instagram, but that everything that I post there will originate here on my site.”
+</p></blockquote>
+<p>It’s the photos and their RSS feed that caught my attention. Others have done this too, but for some reason I rarely post photos here on my own site. I’ve stuck with using Instagram instead.</p>
+<p>I need to change that. I do like the Instagram app, though, so I’m going to keep using it. I’ll just copy the photos over to my site as well, and I’ll use <a href="https://workflow.is/">Workflow on iOS</a> to help automate it. The basic steps are:</p>
+<ul>
+<li>After posting the photo on Instagram, copy the caption to the iOS clipboard. This will be the title of the blog post.</li>
+<li>Select the Instagram-edited image in the Photos app and run the workflow.</li>
+<li>Workflow makes a filename based on the title, with some simple substitutions. Lowercase, spaces become underscores, and drop some characters.</li>
+<li>Transmit gets launched and I confirm the upload to my own server.</li>
+<li>Workflow creates a WordPress blog post with an img tag and the relevant metadata.</li>
+</ul>
+<p>It’s not bad. You can <a href="https://workflow.is/workflows/75265d33bcd64c4d8485b2644de7df17">see the workflow here</a>. I’ve uploaded a bunch of my most recent Instagram photos this way. I’m not sure whether I’ll go back and mirror all the old ones.</p>
+<p>These photos live under a new <a href="http://www.manton.org/category/photos">Photos category</a>. I’ve excluded this category from the main RSS feed that I use for cross-posting, so they won’t automatically go to Twitter. You can continue to <a href="https://www.instagram.com/manton/">follow me on Instagram</a> if you prefer that.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/03/blogging-your-photos.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Instagram hits 400 million users</title>
 		<link>http://www.manton.org/2015/09/instagram-hits-400-million-users.html</link>
 		<comments>http://www.manton.org/2015/09/instagram-hits-400-million-users.html#comments</comments>
@@ -229,38 +290,8 @@
 			<wfw:commentRss>http://www.manton.org/2013/07/photo_filters.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
-		<item>
-		<title>The new Day One</title>
-		<link>http://www.manton.org/2012/08/the_new_day.html</link>
-		<comments>http://www.manton.org/2012/08/the_new_day.html#comments</comments>
-		<pubDate>Sat, 04 Aug 2012 06:41:06 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Books]]></category>
-		<category><![CDATA[dayone]]></category>
-		<category><![CDATA[journals]]></category>
-		<category><![CDATA[photos]]></category>
-		<category><![CDATA[writing]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2012/08/the_new_day.html</guid>
-		<description><![CDATA[Shawn Blanc reviews the latest version of Day One, which now supports photos: “Over the years, most of the major, monumental milestones of life were documented in my Moleskine. But not all. And that’s why I’m glad to have an app that let’s me easily and joyfully add a snapshot or a quick note about [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="http://shawnblanc.net/2012/08/day-one-review/">Shawn Blanc reviews the latest version of Day One</a>, which now supports photos:</p>
-<blockquote><p>
-  “Over the years, most of the major, monumental milestones of life were documented in my Moleskine. But not all. And that’s why I’m glad to have an app that let’s me easily and joyfully add a snapshot or a quick note about an important or memorable event. These are the things my family and I will look back on 20 and 30 years from now with great fondness.”
-</p></blockquote>
-<p>While <a href="http://www.manton.org/2012/07/journals.html">I keep the important stuff in my journals</a>, I also use a protected Twitter account for the everyday notes and photos while away from the house. It has no followers; it&#8217;s just to have a date-stamped entry with a photo that&#8217;s easy to sync. Now that I&#8217;ve read how people are using Day One for this, I&#8217;m going to switch away from my private Twitter account to use Day One on the iPhone instead.</p>
-<p>I like having one place for this kind of stuff. If the same type of content is scattered across multiple services, it makes it less likely that everything will be together in the future when I finally want it.</p>
-<p>Especially interesting to me from Shawn&#8217;s review is that he also keeps a hand-written journal, even after using Day One for a similar purpose. I&#8217;ll keep using real-world pen and paper too, and everything I write there I will also transcribe into Day One. But I&#8217;ll write new things in Day One that will stay exclusively digital.</p>
-<p>Federico Viticci <a href="http://www.macstories.net/reviews/review-the-new-day-one/">also has a great review</a>. He starts with the big picture, the why of writing it all down:</p>
-<blockquote><p>
-  “I don’t even know if I’ll be around in twenty years. But I do know that I want to do everything I can to make sure I can get there with my own memories. We are what we know. And I want to remember.”
-</p></blockquote>
-<p>I think the best writers know that it matters what their work looks like in a decade, or two decades, whether the writing is private or public. You can see it in everything from permanent URLs to blog topics to what software they use — a conscious effort to create content that lasts.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2012/08/the_new_day.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 1.871 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-01-06 13:16:24 -->
+<!-- Dynamic page generated in 0.350 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-04-14 15:02:48 -->

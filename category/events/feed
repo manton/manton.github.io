@@ -12,12 +12,62 @@
 	<atom:link href="http://www.manton.org/category/events/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Wed, 06 Jan 2016 17:11:57 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<generator>http://wordpress.org/?v=4.3.3</generator>
 	<item>
+		<title>Tickets for Release Notes 2016</title>
+		<link>http://www.manton.org/2016/04/tickets-for-release-notes-2016.html</link>
+		<comments>http://www.manton.org/2016/04/tickets-for-release-notes-2016.html#comments</comments>
+		<pubDate>Mon, 04 Apr 2016 16:14:25 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[conference]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[releasenotes]]></category>
+		<category><![CDATA[trains]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2016/04/tickets-for-release-notes-2016.html</guid>
+		<description><![CDATA[I&#8217;m registered for the Release Notes conference, coming up later this year in Indianapolis. This will be the only conference I attend this year outside of another ticketless WWDC week. If you didn&#8217;t go last year and want to know more about it, check out the web site or listen to episode 151 of their [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;m registered for the <a href="https://releasenotes.tv/conference/">Release Notes conference</a>, coming up later this year in Indianapolis. This will be the only conference I attend this year outside of another ticketless WWDC week. If you didn&#8217;t go last year and want to know more about it, check out the web site or <a href="https://releasenotes.tv/151-our-2-0-1/">listen to episode 151 of their podcast</a>.</p>
+<p>One of my favorite blog posts on this site from last year was <a href="http://www.manton.org/2015/10/release-notes-2015.html">my review of the conference</a>, because I think it both described the conference itself and also captured that inspired feeling you get when you&#8217;re heading off to the airport and your head is buzzing with ideas. And because it&#8217;s a blog, where I allow myself to be informal, it also has the meandering narrative of the everyday — a stop for coffee, a conversation with an Uber driver. My memory of the conference wouldn&#8217;t be complete without those things.</p>
+<p>I&#8217;m looking forward to visiting Indianapolis again. I may also look at flying into Chicago and taking the train down, then flying out. Sounds like some people did that last year, and I think it would make a great start considering the venue at Union Station. We&#8217;ll see if the schedule works out.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/04/tickets-for-release-notes-2016.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Sound Off and AlterConf</title>
+		<link>http://www.manton.org/2016/01/sound-off-and-alterconf.html</link>
+		<comments>http://www.manton.org/2016/01/sound-off-and-alterconf.html#comments</comments>
+		<pubDate>Wed, 20 Jan 2016 03:36:43 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[alterconf]]></category>
+		<category><![CDATA[asl]]></category>
+		<category><![CDATA[conferences]]></category>
+		<category><![CDATA[soundoff]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2016/01/sound-off-and-alterconf.html</guid>
+		<description><![CDATA[When I blogged about Brent Simmons&#8217;s list of women bloggers, I said that we need more diversity in what we read. That will naturally lead to more diversity in other areas, such as conferences. But not everyone can easily get access to conferences or take advantage of everything they offer. Sound Off is trying to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.manton.org/2015/11/a-diverse-community-through-writing.html">When I blogged about Brent Simmons&#8217;s list</a> of women bloggers, I said that we need more diversity in what we read. That will naturally lead to more diversity in other areas, such as conferences.</p>
+<p>But not everyone can easily get access to conferences or take advantage of everything they offer. <a href="http://soundofftech.org/">Sound Off</a> is trying to help with that, through efforts like funding for sign language interpreters, child care, and scholarships. <a href="http://shapeof.com/archives/2016/1/sound_off_alterconf.html">Gus Mueller</a>, also with a quote from Brent, says it well:</p>
+<blockquote><p>
+  “Sound Off has some very worthy, and very realistic goals. And as <a href="http://inessential.com/2016/01/04/sound_off_round_1_alterconf">Brent Simmons</a> says, people of the future will look back and judge us for how well or poorly we expanded our tribe.”
+</p></blockquote>
+<p>And <a href="http://blog.ashleynh.me/sound-off-round-1-alterconf/">Ashley Nelson-Hornstein adds this</a>:</p>
+<blockquote><p>
+  &#8220;Sharing the sentiment that it&#8217;s important to create more opportunities for marginalized people in technology is great. Retweeting the voices of the marginalized to amplify them to your networks is fantastic. But the best way to drive change is with dollars and cents.&#8221;
+</p></blockquote>
+<p>I&#8217;m a little late linking to Sound Off, but it&#8217;s a good cause that needs our support. You can <a href="http://soundofftech.org/alterconf">learn more here</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/01/sound-off-and-alterconf.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Release Notes 2015</title>
 		<link>http://www.manton.org/2015/10/release-notes-2015.html</link>
 		<comments>http://www.manton.org/2015/10/release-notes-2015.html#comments</comments>
@@ -230,94 +280,8 @@
 			<wfw:commentRss>http://www.manton.org/2013/12/your_name.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
-		<item>
-		<title>CocoaConf and Core Intuition 83</title>
-		<link>http://www.manton.org/2013/04/cocoaconf_and_core.html</link>
-		<comments>http://www.manton.org/2013/04/cocoaconf_and_core.html#comments</comments>
-		<pubDate>Thu, 04 Apr 2013 14:36:19 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Events]]></category>
-		<category><![CDATA[cocoaconf]]></category>
-		<category><![CDATA[conferences]]></category>
-		<category><![CDATA[coreint]]></category>
-		<category><![CDATA[podcast]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2013/04/cocoaconf_and_core.html</guid>
-		<description><![CDATA[We just posted episode 83 of Core Intuition, with a preview of my trip up to Dallas for CocoaConf this weekend, and a discussion of Safari extensions, WWDC videos, Michael Jurewitz’s blog posts, his return to Apple, and more. It looks like you can still attend CocoaConf if you grab a ticket today before they [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>We just posted <a href="http://www.coreint.org/2013/04/episode-83-this-weeks-lofty-goal/">episode 83 of Core Intuition</a>, with a preview of my trip up to Dallas for CocoaConf this weekend, and a discussion of Safari extensions, WWDC videos, Michael Jurewitz’s blog posts, his return to Apple, and more.</p>
-<p>It looks like you can still attend CocoaConf if you grab a ticket today before they close registration. <a href="http://cocoaconf.com/dallas-2013/home">Check out the web site</a> for details on the Dallas event.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/04/cocoaconf_and_core.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>iPad 1 release day</title>
-		<link>http://www.manton.org/2013/04/ipad_1_release.html</link>
-		<comments>http://www.manton.org/2013/04/ipad_1_release.html#comments</comments>
-		<pubDate>Thu, 04 Apr 2013 04:37:29 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Events]]></category>
-		<category><![CDATA[applestore]]></category>
-		<category><![CDATA[apps]]></category>
-		<category><![CDATA[ipad]]></category>
-		<category><![CDATA[lines]]></category>
-		<category><![CDATA[shawnblanc]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2013/04/ipad_1_release.html</guid>
-		<description><![CDATA[Shawn Blanc looks back to a post 3 years ago about his experience buying and using the first iPad. From waiting in line: “7:32 am: A young guy and his mom get in line behind us. The guy is wearing a ‘WWSJD’ t-shirt. I like to think that I’m less nerdy than he is, but [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Shawn Blanc looks back to <a href="http://shawnblanc.net/2010/04/diary-of-an-ipad-owner/">a post 3 years ago</a> about his experience buying and using the first iPad. From waiting in line:</p>
-<blockquote><p>
-  “<strong>7:32 am:</strong> A young guy and his mom get in line behind us. The guy is wearing a ‘WWSJD’ t-shirt. I like to think that I’m less nerdy than he is, but the fact is I am <em>ahead of him</em> in line.”
-</p></blockquote>
-<p>I wish I had written so many detailed notes. I did, however, find an old draft blog post with my current list of apps from back then. Here’s what I was running on my first iPad in early April, 2010:</p>
-<ul>
-<li>Twitterrific.</p>
-</li>
-<li>
-<p>NetNewsWire.</p>
-</li>
-<li>
-<p>Instapaper.</p>
-</li>
-<li>
-<p>Freeform.</p>
-</li>
-<li>
-<p>Sketchbook Pro.</p>
-</li>
-<li>
-<p>Pages.</p>
-</li>
-<li>
-<p>OmniGraffle.</p>
-</li>
-</ul>
-<p>And free apps:</p>
-<ul>
-<li>AIM.</p>
-</li>
-<li>
-<p>iBooks.</p>
-</li>
-<li>
-<p>Kindle.</p>
-</li>
-<li>
-<p>Netflix.</p>
-</li>
-<li>
-<p>New York Times Editors’ Choice.</p>
-</li>
-</ul>
-<p>And a couple games, like Flight Control HD.</p>
-<p>Of those paid apps, I’m only still routinely using Instapaper today, and — even though I’m not on Twitter — occasionally Twitterrific. NetNewsWire for iPad in particular held up very well; I used it every day for probably 2 years <em>after</em> it had stopped being updated.</p>
-<p>Most of the apps that were released for the iPad’s debut were more mature than apps from the iPhone OS 2.0 release and first App Store. By the time the iPad came along, developers seemed to have gotten the hang of the platform.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/04/ipad_1_release.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 3.698 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-01-06 12:53:22 -->
+<!-- Dynamic page generated in 0.361 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-04-14 14:02:15 -->

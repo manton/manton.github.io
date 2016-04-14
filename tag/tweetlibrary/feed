@@ -12,12 +12,35 @@
 	<atom:link href="http://www.manton.org/tag/tweetlibrary/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Wed, 06 Jan 2016 17:11:57 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<generator>http://wordpress.org/?v=4.3.3</generator>
 	<item>
+		<title>Cute release notes</title>
+		<link>http://www.manton.org/2016/02/cute-release-notes.html</link>
+		<comments>http://www.manton.org/2016/02/cute-release-notes.html#comments</comments>
+		<pubDate>Wed, 03 Feb 2016 19:42:49 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[releasenotes]]></category>
+		<category><![CDATA[tweetlibrary]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3483</guid>
+		<description><![CDATA[Ben Brooks takes on the trend of cute stories inside of release notes: “With disturbingly increasing frequency, companies are deciding to let their marketing departments handle their release notes instead of the engineering team or product manager.” I agree. These were fun at first, but the release notes don’t need to be entertainment. They should [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://brooksreview.net/2016/01/release-notes/">Ben Brooks takes on</a> the trend of cute stories inside of release notes:</p>
+<blockquote><p>
+  “With disturbingly increasing frequency, companies are deciding to let their marketing departments handle their release notes instead of the engineering team or product manager.”
+</p></blockquote>
+<p>I agree. These were fun at first, but the release notes don’t need to be entertainment. They should be a summary of what changed, with bullet points for key changes. (A single “bug fixes” line is also not helpful.)</p>
+<p>I personally like to start each line with a clear statement: “Fixed &lt;something&gt;” or “Added &lt;this feature&gt;” or “Improved &lt;something else&gt; by &lt;doing this&gt;”. You can see this in <a href="http://www.riverfold.com/software/tweetlibrary/releasenotes/">the history of my Tweet Library release notes</a>, for example.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/02/cute-release-notes.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Developing for the iPad Pro</title>
 		<link>http://www.manton.org/2015/11/developing-for-the-ipad-pro.html</link>
 		<comments>http://www.manton.org/2015/11/developing-for-the-ipad-pro.html#comments</comments>
@@ -228,28 +251,8 @@
 			<wfw:commentRss>http://www.manton.org/2014/04/tweet_library_25.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
-		<item>
-		<title>Tweet Library 2.4</title>
-		<link>http://www.manton.org/2013/10/tweet_library_24.html</link>
-		<comments>http://www.manton.org/2013/10/tweet_library_24.html#comments</comments>
-		<pubDate>Thu, 31 Oct 2013 15:42:38 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Programming]]></category>
-		<category><![CDATA[appstore]]></category>
-		<category><![CDATA[ios]]></category>
-		<category><![CDATA[tweetlibrary]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2013/10/tweet_library_24.html</guid>
-		<description><![CDATA[The latest version of Tweet Library was approved by Apple last night. It features an updated design for iOS 7, a new app icon, and a bunch of bug fixes. I also dropped the price to $4.99, universal for both iPhone and iPad, and it’s a free upgrade for all existing customers. The App Store [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>The latest version of Tweet Library was approved by Apple last night. It features an updated design for iOS 7, a new app icon, and a bunch of bug fixes. I also dropped the price to $4.99, universal for both iPhone and iPad, and it’s a free upgrade for all existing customers.</p>
-<p>The App Store screenshots weren’t updated yet, so I put together <a href="http://sunlit.io/manton/tweetlibrary24">some screenshots using Sunlit here</a>.</p>
-<p>I’m pretty happy with how this release turned out, but there’s still more work to do. I’ll be following up this release with some additional improvements specifically for iOS 7 soon. You can grab version 2.4 <a href="http://itunes.apple.com/app/tweet-library/id365768793?mt=8">from the App Store here</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/10/tweet_library_24.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 2.735 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-01-06 13:17:13 -->
+<!-- Dynamic page generated in 0.334 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-04-14 14:59:40 -->

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; iphone5se</title>
+	<atom:link href="http://www.manton.org/tag/iphone5se/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<item>
+		<title>Core Intuition 225</title>
+		<link>http://www.manton.org/2016/03/core-intuition-225.html</link>
+		<comments>http://www.manton.org/2016/03/core-intuition-225.html#comments</comments>
+		<pubDate>Thu, 24 Mar 2016 21:44:00 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[iphone5se]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[swift]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3774</guid>
+		<description><![CDATA[Episode 225 of Core Intuition is out now. We talk about the new iPhone and iPad news from Monday’s Apple event, plus Swift. From the show notes: Manton orders his dream phone, the iPhone SE. Daniel reflects on the growing allure of Swift, and the two discuss the risks of either adopting new technologies too [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.coreint.org/2016/03/episode-225-keep-your-eyes-open/">Episode 225 of Core Intuition</a> is out now. We talk about the new iPhone and iPad news from Monday’s Apple event, plus Swift. From the show notes:</p>
+<blockquote><p>
+  Manton orders his dream phone, the iPhone SE. Daniel reflects on the growing allure of Swift, and the two discuss the risks of either adopting new technologies too soon, or holding on to the past for too long.
+</p></blockquote>
+<p>Also there&#8217;s this line from Daniel in the podcast that I like:</p>
+<blockquote><p>
+  We have to be tuned into the future <em>and</em> tuned into the past to really do great work.
+</p></blockquote>
+<p>We pull in some history from Daniel&#8217;s time at Apple, and from our experience building Mac apps in the 1990s and early 2000s, and how it relates to the current Swift transition. Hope you enjoy it.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/03/core-intuition-225.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>iPhone SE sales potential</title>
+		<link>http://www.manton.org/2016/03/iphone-se-sales-potential.html</link>
+		<comments>http://www.manton.org/2016/03/iphone-se-sales-potential.html#comments</comments>
+		<pubDate>Tue, 22 Mar 2016 19:01:16 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[iphone5se]]></category>
+		<category><![CDATA[stats]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3761</guid>
+		<description><![CDATA[John Gruber runs down the list of yesterday’s Apple announcements. On the iPhone SE, he recognizes that it’s a great device especially in the short term, before the iPhone 7 is released: If you listen to my podcast, you know how ambivalent I remain about the physical size of the 4.7-inch iPhone 6 and 6S. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://daringfireball.net/2016/03/thoughts_and_observations_loop_you_in">John Gruber runs down the list</a> of yesterday’s Apple announcements. On the iPhone SE, he recognizes that it’s a great device especially in the short term, before the iPhone 7 is released:</p>
+<blockquote><p>
+  If you listen to my podcast, you know how ambivalent I remain about the physical size of the 4.7-inch iPhone 6 and 6S. I was really hoping that the iPhone SE would effectively have iPhone 6S specs — CPU and GPU performance, and similar camera quality. That seems to be exactly what Apple delivered. I honestly think this is the phone I’m going to use for the next six months.
+</p></blockquote>
+<p><a href="https://sixcolors.com/post/2016/03/tea-and-scones-in-cupertino-an-apple-event-recap/">Jason Snell follows up</a> on the Dan Moren post <a href="http://www.manton.org/2016/03/apple-event-non-product-focus.html">I linked to</a> by also covering the new products. Highlighting the sales potential for the iPhone SE, Jason writes:</p>
+<blockquote><p>
+  In the past year, Apple has sold 30 million 4” iPhones, out of around 230 million total. That’s only 13 percent of the total, but it’s still a very large number of phones—and this, during a year when the most modern four-inch iPhone Apple sells was introduced in the fall of 2013. Is there room for the iPhone SE to be 20 percent of Apple’s total iPhone sales? I think so.
+</p></blockquote>
+<p>I keep thinking about the iPhone SE price: $399 for essentially the power of a 6S, which is $649. That’s just a great value. I’ve said on Core Intuition recently that while the 6S and upcoming 7 will always remain the most popular phone, I think the SE could hold its own with the 6S Plus in units sold. Now I wonder if it could even surpass it.</p>
+<p>According to <a href="https://david-smith.org/iosversionstats/">David Smith’s stats</a>, the Plus versions represent about 15% of active devices 4-inch or bigger. That share goes up to about 20% if you exclude older devices no longer for sale, like the 5 and 5C. That seems about right to me. If you sat around an Apple Store and watched 10 people buy iPhones, I’d be surprised if more than a couple were the Plus. Starting next week, a couple of those iPhones could be the SE, too.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/03/iphone-se-sales-potential.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Apple event non-product focus</title>
+		<link>http://www.manton.org/2016/03/apple-event-non-product-focus.html</link>
+		<comments>http://www.manton.org/2016/03/apple-event-non-product-focus.html#comments</comments>
+		<pubDate>Mon, 21 Mar 2016 20:30:32 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[applewatch]]></category>
+		<category><![CDATA[environment]]></category>
+		<category><![CDATA[health]]></category>
+		<category><![CDATA[iphone5se]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3752</guid>
+		<description><![CDATA[Dan Moren writes for Six Colors about the structure for the 1-hour Apple event today, of which only about half the time was spent on new products: &#8220;If the Apple-FBI fight isn’t yet about public opinion, it probably will be if the matter ends up going to Congress. So it’s no surprise that Tim Cook [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://sixcolors.com/post/2016/03/apple-shifts-focuses-from-small-products-to-big-issues/">Dan Moren writes for Six Colors</a> about the structure for the 1-hour Apple event today, of which only about half the time was spent on new products:</p>
+<blockquote><p>
+  &#8220;If the Apple-FBI fight isn’t yet about public opinion, it probably will be if the matter ends up going to Congress. So it’s no surprise that Tim Cook is going to use his bully pulpit to push Apple’s track record on the welfare of its customers and the world at large, rather than how many products it’s sold and how much money it’s made.&#8221;
+</p></blockquote>
+<p>I&#8217;d like to see this continue at future events. Leave the record sales numbers for the finance call, and instead focus on what good Apple is doing <em>because</em> they are big, not just <em>how</em> they are big. Even though I own some Apple stock, I do not personally care that much about the precise magnitude of iPhone shipments this quarter.</p>
+<p>As for the new products, nothing to complain about. Since the $10,000 Apple Watch Edition didn&#8217;t get a $50-dollar price drop like the Apple Watch Sport did, guess I&#8217;ll skip that purchase and get an iPhone SE instead.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/03/apple-event-non-product-focus.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>iPhone SE (no 5)</title>
+		<link>http://www.manton.org/2016/02/iphone-se-no-5.html</link>
+		<comments>http://www.manton.org/2016/02/iphone-se-no-5.html#comments</comments>
+		<pubDate>Fri, 26 Feb 2016 19:57:20 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[9to5mac]]></category>
+		<category><![CDATA[daringfireball]]></category>
+		<category><![CDATA[iphone5se]]></category>
+		<category><![CDATA[iphone6s]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3573</guid>
+		<description><![CDATA[Mark Gurman of 9to5Mac reports that the new 4-inch iPhone will be called simply “iPhone SE”, not “5SE”. As I said before, I don’t really care what it’s called, but this is good news nevertheless. John Gruber adds: “Isn’t it more accurate to think of this as an iPhone 6S in a 4-inch body than [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://9to5mac.com/2016/02/26/apple-iphone-se-4-inch-2016/">Mark Gurman of 9to5Mac reports</a> that the new 4-inch iPhone will be called simply “iPhone SE”, not “5SE”. <a href="http://www.manton.org/2016/01/iphone-5se.html">As I said before</a>, I don’t really care what it’s called, but this is good news nevertheless.</p>
+<p><a href="http://daringfireball.net/linked/2016/02/26/9to5mac-se">John Gruber adds</a>:</p>
+<blockquote><p>
+  “Isn’t it more accurate to think of this as an iPhone 6S in a 4-inch body than as an iPhone 5S with ‘upgraded internals’? Other than the display, aren’t the ‘internals’ the defining characteristics of any iPhone?”
+</p></blockquote>
+<p>I agree with John. Other than the screen size, this phone will feel a lot like an iPhone 6S. And because I love the smaller size, I personally think it will have the <em>best</em> of both the 5S and 6S.</p>
+<p>Prediction: this phone is going to be much more popular than people expect. I won’t be surprised if it takes the 6S Plus’s spot as the 2nd most popular iPhone.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/02/iphone-se-no-5.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>iPhone 5se sleep button</title>
+		<link>http://www.manton.org/2016/01/iphone-5se-sleep-button.html</link>
+		<comments>http://www.manton.org/2016/01/iphone-5se-sleep-button.html#comments</comments>
+		<pubDate>Tue, 26 Jan 2016 16:16:27 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[9to5mac]]></category>
+		<category><![CDATA[iphone5se]]></category>
+		<category><![CDATA[rumors]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3445</guid>
+		<description><![CDATA[Zac Hall of 9to5Mac follows up with a new leaked photo after the latest iPhone 5se news. It seems the hardware design may borrow more from the 6 than the 5. Zac writes: “If the leaked image turns out to both be the real deal and what Apple ships later this year, that means the updated [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Zac Hall of 9to5Mac follows up with a new leaked photo after the <a href="http://www.manton.org/2016/01/iphone-5se.html">latest iPhone 5se news</a>. It seems the hardware design may borrow more from the 6 than the 5. <a href="http://9to5mac.com/2016/01/24/4-inch-iphone-5se-photo/">Zac writes</a>:</p>
+<blockquote><p>
+  “If the leaked image turns out to both be the real deal and what Apple ships later this year, that means the updated 4-inch iPhone will feature rounded volume toggles and a relocated sleep switch like on iPhone 6 hardware versus a top sleep switch and iPhone 4-like volume buttons from the iPhone 5 series hardware.”
+</p></blockquote>
+<p>NoooOOOooooo. I can understand wanting consistency between models, but the iPhone 6 sleep button is a major usability issue because it gets in the way when trying to use the volume buttons. I’ll be disappointed if the design trade-offs from the 6 make the 5se worse. (But I’ll buy one anyway.)</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/01/iphone-5se-sleep-button.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>iPhone 5SE</title>
+		<link>http://www.manton.org/2016/01/iphone-5se.html</link>
+		<comments>http://www.manton.org/2016/01/iphone-5se.html#comments</comments>
+		<pubDate>Sun, 24 Jan 2016 15:13:38 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[iphone5se]]></category>
+		<category><![CDATA[iphone6c]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3427</guid>
+		<description><![CDATA[Mark Gurman reveals at 9to5Mac that the new phone I’ve been waiting for will be called the 5SE: “The ‘se’ suffix has been described in two ways by Apple employees: as a ‘special edition’ variation of the vintage 4-inch iPhone screen size and as an ‘enhanced’ version of the iPhone 5s. Indeed, the upcoming ‘5se’ [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://9to5mac.com/2016/01/22/apple-readies-iphone-5se-not-6c-for-marchapril-with-curved-edges-live-photos/">Mark Gurman reveals at 9to5Mac</a> that the new phone I’ve been waiting for will be called the 5SE:</p>
+<blockquote><p>
+  “The ‘se’ suffix has been described in two ways by Apple employees: as a ‘special edition’ variation of the vintage 4-inch iPhone screen size and as an ‘enhanced’ version of the iPhone 5s. Indeed, the upcoming ‘5se’ features a design similar to 2013’s flagship but upgraded internals, software, and hardware features that blend the old design with modern technologies from the past two iPhone upgrades.”
+</p></blockquote>
+<p>Seems odd to keep the “5” name for a phone that more closely resembles the iPhone 6/6S except for size. But I don’t really care what it’s called. This phone <a href="http://www.manton.org/2016/01/a8-or-a9-for-the-iphone-6c.html">matches my expectations</a> or exceeds them. Fantastic that it even supports Live Photos.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/01/iphone-5se.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.381 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-04-14 13:58:59 -->

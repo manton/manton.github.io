@@ -12,12 +12,62 @@
 	<atom:link href="http://www.manton.org/tag/essays/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Wed, 06 Jan 2016 17:11:57 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<generator>http://wordpress.org/?v=4.3.3</generator>
 	<item>
+		<title>Essays vs. microblog posts (and the microcast)</title>
+		<link>http://www.manton.org/2016/03/essays-vs-microblog-posts-and-the-microcast.html</link>
+		<comments>http://www.manton.org/2016/03/essays-vs-microblog-posts-and-the-microcast.html#comments</comments>
+		<pubDate>Tue, 01 Mar 2016 17:34:40 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[essays]]></category>
+		<category><![CDATA[microblogging]]></category>
+		<category><![CDATA[microcast]]></category>
+		<category><![CDATA[timetable]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3604</guid>
+		<description><![CDATA[Starting back in September 2014, I added microblog posts to this site. These are defined as short posts without a title. They have their own RSS feed, and they’re automatically cross-posted to Twitter and App.net. In that time, I’ve posted about 300 microblog posts and about 230 essays, although many of my longer posts are [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Starting back in September 2014, I added microblog posts to this site. These are defined as <a href="http://www.manton.org/2014/09/defining-a-microblog-post.html">short posts without a title</a>. They have their own RSS feed, and they’re automatically cross-posted to Twitter and App.net.</p>
+<p>In that time, I’ve posted about 300 microblog posts and about 230 essays, although many of my longer posts are really just a few paragraphs and a quote. I still find the microblog format very convenient for quick thoughts, or a series of related posts like <a href="http://www.manton.org/tag/newcoffee">all my coffee stops</a>.</p>
+<p>I’ve also switched from Gaug.es to WordPress.com stats. While I agree with Ben Brooks that <a href="https://brooksreview.net/2015/10/death-to-analytics/">analytics can be a distraction</a>, I still like finding new referrers and having a sense of what posts have resonated with people. Not that it effects what I write about, though.</p>
+<p>The key to blogging is still consistency and passion. Write about the things you care about, regularly, and the internet is a big enough place that there can be an audience for even obscure topics.</p>
+<p>That’s the theme I’m trying to apply to my new <a href="http://timetable.fm/">Timetable podcast</a>, too. I talk about microblogging, coffee shops, client work, but more important than any of that is the routine of recording it. The short nature of the podcast is itself kind of the story.</p>
+<p>I’m at episode 15 now and have loved working on it. I now expect that all of these components of my blog — the longer posts, the microblog posts, and the companion Timetable episodes — will be something I do for years to come.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/03/essays-vs-microblog-posts-and-the-microcast.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Long-form writing as a filter</title>
+		<link>http://www.manton.org/2016/01/long-form-writing-as-a-filter.html</link>
+		<comments>http://www.manton.org/2016/01/long-form-writing-as-a-filter.html#comments</comments>
+		<pubDate>Mon, 25 Jan 2016 14:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[essays]]></category>
+		<category><![CDATA[microblogging]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[writing]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3429</guid>
+		<description><![CDATA[Soroush Khanlou, looking for more new blogs to read, makes a great point that the process of blogging leads to better writing: “Opening my RSS reading and finding 30 unread items makes me happy. Opening Twitter and seeing 150 new tweets feels like work. I&#8217;m not sure why that is. I think Twitter has become [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Soroush Khanlou, looking for <a href="http://khanlou.com/2016/01/a-call-for-blogs/">more new blogs to read</a>, makes a great point that the process of blogging leads to better writing:</p>
+<blockquote><p>
+  “Opening my RSS reading and finding 30 unread items makes me happy. Opening Twitter and seeing 150 new tweets feels like work. I&#8217;m not sure why that is. I think Twitter has become more negative, and the ease of posting quick bursts makes posting negative stuff easy. With blogging, writing something long requires time, words, and an argument. Even the passing thought of ‘should I post this’ creates a filter that lets only better <em>stuff</em> through.”
+</p></blockquote>
+<p>I think there’s something to that. It’s often only after writing our thoughts down that we fully understand how we feel about a topic.</p>
+<p>And here’s where I bring this back to microblogging. Because when starting a post, we don&#8217;t always know whether it will be long or short. How often have you seen a series of tweets that in hindsight even the author would agree should have been a blog post?</p>
+<p>This is less of a problem if instead of tweeting you start out with the intention of posting to your own site. Short post can stay short, and posts requiring more words can naturally expand to a full essay.</p>
+<p>I don’t think that our short-form, seemingly unimportant writing should exclusively be on centralized networks. If it’s worth the time to write something — whether a thoughtful essay or a fleeting one-off microblog post — then it’s worth owning and publishing at your own domain name.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/01/long-form-writing-as-a-filter.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Startup life and Medium</title>
 		<link>http://www.manton.org/2015/08/startup-life-and-medium.html</link>
 		<comments>http://www.manton.org/2015/08/startup-life-and-medium.html#comments</comments>
@@ -75,5 +125,5 @@
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 1.965 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-01-06 13:20:42 -->
+<!-- Dynamic page generated in 0.299 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-04-14 15:01:15 -->

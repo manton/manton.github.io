@@ -12,12 +12,111 @@
 	<atom:link href="http://www.manton.org/tag/kickstarter/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Wed, 06 Jan 2016 17:11:57 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<generator>http://wordpress.org/?v=4.3.3</generator>
 	<item>
+		<title>Timetable episodes 19 and 20</title>
+		<link>http://www.manton.org/2016/04/timetable-episodes-19-and-20.html</link>
+		<comments>http://www.manton.org/2016/04/timetable-episodes-19-and-20.html#comments</comments>
+		<pubDate>Wed, 06 Apr 2016 20:29:53 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[kickstarter]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[snippets]]></category>
+		<category><![CDATA[timetable]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3835</guid>
+		<description><![CDATA[I published 2 new Timetable episodes this week, with a shared theme around Kickstarter projects. They&#8217;re both just 5-6 minutes long. Episode 19 is about how I finally sat down to record a video for my upcoming Kickstarter project. I still have editing to do, but I&#8217;m already feeling a lot better about actually launching [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I published 2 new <a href="http://timetable.fm/">Timetable</a> episodes this week, with a shared theme around Kickstarter projects. They&#8217;re both just 5-6 minutes long.</p>
+<p><a href="http://timetable.manton.org/2016/04/episode-19-kickstarter-recording/">Episode 19</a> is about how I finally sat down to record a video for my upcoming Kickstarter project. I still have editing to do, but I&#8217;m already feeling a lot better about actually launching this.</p>
+<p><a href="http://timetable.manton.org/2016/04/episode-20-kickstarter-rewards/">Episode 20</a> continues the discussion of Kickstarter, starting with my reaction after receiving the art book from <a href="http://blog.loish.net/">Loish</a> yesterday. I was really impressed with how well it was produced. Anytime I see something of such high quality I&#8217;m inspired to do a better job with my own work.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/04/timetable-episodes-19-and-20.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Getting press</title>
+		<link>http://www.manton.org/2016/03/getting-press.html</link>
+		<comments>http://www.manton.org/2016/03/getting-press.html#comments</comments>
+		<pubDate>Fri, 25 Mar 2016 21:32:44 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[kickstarter]]></category>
+		<category><![CDATA[marketing]]></category>
+		<category><![CDATA[promotion]]></category>
+		<category><![CDATA[rando]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2016/03/getting-press.html</guid>
+		<description><![CDATA[As I mentioned when I first linked to Studio Neat’s Obi project on Kickstarter, I enjoyed the Thoroughly Considered podcast that came out of that endeavor. It’s now one of my favorites. On the latest show, Dan and Tom and Myke talk about the press: getting press for your product, communicating with press folks, and [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>As I mentioned when <a href="http://www.manton.org/2015/10/core-intuition-202-and-thoroughly-considered-and-stickers.html">I first linked to Studio Neat’s Obi project on Kickstarter</a>, I enjoyed the Thoroughly Considered podcast that came out of that endeavor. It’s now one of my favorites.</p>
+<p>On <a href="https://www.relay.fm/tc/10">the latest show</a>, Dan and Tom and Myke talk about the press: getting press for your product, communicating with press folks, and the impact of being featured in the press. Because Studio Neat makes physical products and not just software, their take on these topics is always good.</p>
+<p>While I’ve blogged from time to time about the press, there’s a lot that I get wrong or don’t make time for. I was impressed with David Barnard’s promotion for <a href="http://randoapp.co/">Rando</a>, a new iPhone app that was a joint venture with David, designer <a href="https://twitter.com/rickmesser">Rick Messer</a>, and <a href="http://jonhays.me/">Jonathan Hays</a> and Ryan DeVore from Silverpine Software. The app got a lot of great press coverage. Even the reviewers who weren&#8217;t convinced they&#8217;d use the app couldn’t help but recommend that readers download it. Not just because of its novelty, but because David framed the app with such a clear story.</p>
+<p>Self-promotion is hard for many of us. I try to remind myself that journalists <em>want something interesting to write about</em>. The community as a whole benefits when writers have good stories and developers have good traffic to their apps.</p>
+<p>One of the approaches I’ve been trying with my upcoming microblog platform is to write about related topics for months before the project is officially announced. It’s great because these are things I would want to write about anyway, regardless of having an app to promote, and so the heightened level of interest from beta testers and bloggers is like a bonus. Now I just have to actually ship the product while the timing is right.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/03/getting-press.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Core Intuition 220</title>
+		<link>http://www.manton.org/2016/02/core-intuition-220.html</link>
+		<comments>http://www.manton.org/2016/02/core-intuition-220.html#comments</comments>
+		<pubDate>Fri, 19 Feb 2016 17:09:34 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[coffee]]></category>
+		<category><![CDATA[fbi]]></category>
+		<category><![CDATA[kickstarter]]></category>
+		<category><![CDATA[printers]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3529</guid>
+		<description><![CDATA[On this week&#8217;s Core Int: &#8220;Daniel orders a Brother, Apple defies the FBI, Manton continues to struggle with his Kickstarter, and the two discuss using structure and constraints to encourage tackling new goals.&#8221; I like this episode because it has a mix of serious and fun topics. Toward the end of the episode we talk [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>On <a href="http://www.coreint.org/2016/02/episode-220-keep-creating-random-goals/">this week&#8217;s Core Int</a>:</p>
+<blockquote><p>
+  &#8220;Daniel orders a Brother, Apple defies the FBI, Manton continues to struggle with his Kickstarter, and the two discuss using structure and constraints to encourage tackling new goals.&#8221;
+</p></blockquote>
+<p>I like this episode because it has a mix of serious and fun topics. Toward the end of the episode we talk about my new goal of trying a new coffee shop once a day for a month.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/02/core-intuition-220.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Charles Perry&#8217;s microblog</title>
+		<link>http://www.manton.org/2016/02/charles-perrys-microblog.html</link>
+		<comments>http://www.manton.org/2016/02/charles-perrys-microblog.html#comments</comments>
+		<pubDate>Sun, 07 Feb 2016 17:02:21 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[kickstarter]]></category>
+		<category><![CDATA[microblogging]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[timetable]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3502</guid>
+		<description><![CDATA[Charles Perry has started a microblog. On the balance of what he should post to Twitter and what he should post to his own site first, he writes: &#8220;Most of the things I write on Twitter are snippets of conversations or other thoughts that I don’t necessarily want to preserve. Those will stay on Twitter. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Charles Perry has started a microblog. On the balance of what he should post to Twitter and what he should post to his own site first, <a href="http://dazeend.org/2016/02/dazeend-org-microblog/">he writes</a>:</p>
+<blockquote><p>
+  &#8220;Most of the things I write on Twitter are snippets of conversations or other thoughts that I don’t necessarily want to preserve. Those will stay on Twitter. But some microposts—is that a thing?—I think are of interest on their own. These I plan to post to the DazeEnd.org microblog and mirror to Twitter. That should allow me to preserve and archive my thoughts on my own website and use Twitter just for distribution.&#8221;
+</p></blockquote>
+<p>I was really happy to see these posts show up in my RSS reader. There&#8217;s some momentum around indie microblogging right now. You should start one too.</p>
+<p>Here are some more of my posts on the topic:</p>
+<ul>
+<li><a href="http://www.manton.org/2015/04/how-to-start-a-microblog.html">How to start a microblog</a>. Overview of the basics, with a few suggestions for where to start.</li>
+<li><a href="http://www.manton.org/2015/06/microblogging-with-wordpress.html">Microblogging with WordPress</a>. Still mostly accurate, although I don&#8217;t use IFTTT anymore. I&#8217;ve written my own cross-posting code and baked it into my new app.</li>
+<li><a href="http://www.manton.org/2015/07/embrace-cross-posting.html">Embrace cross-posting</a>. My early thoughts on cross-posting. Also see <a href="http://www.manton.org/2016/01/fine-heres-a-twitter-feed.html">the post about returning to Twitter</a>.</li>
+<li><a href="http://www.manton.org/2015/11/rss-for-microblogs.html">RSS for microblogs</a>. Suggestions for simplifying our RSS feeds, and a proposal for JSON.</li>
+<li><a href="http://www.manton.org/category/weblogs/">Weblogs category from my blog</a>. All the posts primarily about weblogs or microblogging.</li>
+</ul>
+<p>Listeners of my new Timetable podcast also know that I&#8217;m writing a short book about independent microblogging. You can hear a little about this <a href="http://timetable.manton.org/2016/01/episode-9-not-just-an-app/">on episode 9</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/02/charles-perrys-microblog.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Core Intuition 202 and Thoroughly Considered (and stickers!)</title>
 		<link>http://www.manton.org/2015/10/core-intuition-202-and-thoroughly-considered-and-stickers.html</link>
 		<comments>http://www.manton.org/2015/10/core-intuition-202-and-thoroughly-considered-and-stickers.html#comments</comments>
@@ -44,5 +143,5 @@
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 2.575 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-01-06 13:22:36 -->
+<!-- Dynamic page generated in 0.337 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-04-14 13:56:39 -->

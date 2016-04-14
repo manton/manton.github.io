@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; extensions</title>
+	<atom:link href="http://www.manton.org/tag/extensions/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<item>
+		<title>iPad thoughts for 2016</title>
+		<link>http://www.manton.org/2016/01/ipad-thoughts-for-2016.html</link>
+		<comments>http://www.manton.org/2016/01/ipad-thoughts-for-2016.html#comments</comments>
+		<pubDate>Thu, 21 Jan 2016 19:42:59 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[extensions]]></category>
+		<category><![CDATA[ios9]]></category>
+		<category><![CDATA[ipad]]></category>
+		<category><![CDATA[ipadpro]]></category>
+		<category><![CDATA[pencil]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3413</guid>
+		<description><![CDATA[Over the holidays, or while on any vacation, I usually use iOS more often than my Mac. It&#8217;s easier to quickly catch up on email or fun stuff like Instagram without getting too pulled away from what matters: spending time with family and friends. So as I use iOS, I&#8217;ve been thinking about what might [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Over the holidays, or while on any vacation, I usually use iOS more often than my Mac. It&#8217;s easier to quickly catch up on email or fun stuff like Instagram without getting too pulled away from what matters: spending time with family and friends. So as I use iOS, I&#8217;ve been thinking about what might make the iPad better.</p>
+<p>Last year <a href="http://blog.jaredsinclair.com/post/133180873570/saving-the-ipad">Jared Sinclair blogged about</a> some of the problems with the iPad, with ideas for &#8220;saving&#8221; it. The most interesting of these was his suggestion of a &#8220;Gatekeeper for iOS&#8221;, where iOS apps could easily be side-loaded onto iOS without Apple&#8217;s approval:</p>
+<blockquote><p>
+  “These apps would be just as secure as apps published on the App Store. I recommend that Gatekeeper iOS apps be subject to the same API restrictions, privacy permissions, and sandboxing as apps distributed on the iOS App Store”
+</p></blockquote>
+<p>Daniel and I discussed this on <a href="http://coreint.org/207">Core Intuition episode 207</a>. We acknowledged that as great as it would be, this compromise of Gatekeeper apps being subject to API restrictions might not be possible. The whole point of Gatekeeper is to leave Apple out of the distribution process, so there would be no place to impose such restrictions except at the API level. Still, I&#8217;d welcome any kind of side-loading.</p>
+<p>Most Mac developers have wanted a Gatekeeper-like solution for iOS since the very beginning of the iPhone. Back in 2011, <a href="http://www.manton.org/2011/02/30_of_the.html">I wrote a post</a> about Apple&#8217;s 30% cut and the lack of side-loading for iOS:</p>
+<blockquote><p>
+  &#8220;Apple’s tight control over iOS has always been troubling. If there’s no way to install an app on the device without Apple’s approval, then Apple can make or break any business that builds for the platform. It’s an added risk for the thousands of tiny development shops for which the iPhone and iPad are otherwise perfect.&#8221;
+</p></blockquote>
+<p>But side-loading isn&#8217;t really holding back the iPad. What&#8217;s holding it back is the slow pace of progress in UI improvements. For example, the home screen remains virtually unchanged since iOS 3, and on the iPad Pro the classic grid of large app icons looks more like the <a href="http://apple.wikia.com/wiki/Parental_Controls">Simple Finder</a> than a way to manage and launch productivity apps.</p>
+<p>More key areas of the UI need to take inspiration from iPad multitasking. While split-view and slide-over aren&#8217;t perfect, they&#8217;re <em>something</em>. Likewise for iOS extensions, which were such a step forward that we were willing to overlook the UI clunkiness. These new features helped <a href="http://www.speirs.org/blog/2015/12/22/all-in-on-ipad-pro">Fraser Speirs switch to an iPad Pro full time</a>:</p>
+<blockquote><p>
+  &#8220;The introduction of multitasking in iOS 9 has made a significant difference to the way I work on iOS. I don’t need to rehearse the actual features here but suffice to say that I now find iOS extremely easy to get almost any task done.&#8221;
+</p></blockquote>
+<p>I&#8217;d like to see Apple experiment more. To not be afraid to try something new with the UI and ship it, as long as they still follow up and refine it.</p>
+<p>Here&#8217;s a great feature idea to take multitasking further, from <a href="http://www.512pixels.net/blog/2015/12/2016-wishlist-ios">Stephen Hackett’s iOS wishlist</a>:</p>
+<blockquote><p>
+  &#8220;I&#8217;d like Apple to work on some way to share text and images between apps that are side-by-side. If I&#8217;m working in a text editor, I&#8217;d like to send a selected portion right into Slack, without having to worry about a share extension or dropping back to copy and paste to get the job done.&#8221;
+</p></blockquote>
+<p>Nilay Patel, in a <a href="http://www.theverge.com/2015/12/28/10676272/2015-apples-year-in-beta">2015 wrap-up for The Verge</a>, wrote that Apple has been setting the groundwork for new platforms, and that this year they will have to iterate and improve on what they&#8217;ve started. He sees the iPad Pro in particular as a step forward without a clear defining feature:</p>
+<blockquote><p>
+  &#8220;There&#8217;s a chance we&#8217;ll all be using huge iPads as our primary computers one day, but to get there the iPad Pro has to do something so much better than a MacBook that all the things it does worse seem irrelevant. What is that thing?&#8221;
+</p></blockquote>
+<p>That missing &#8220;thing&#8221; is clear to me: the Apple Pencil is the best stylus that has ever been made for a device — tablet, desktop, or standalone display. It&#8217;s so good that I assumed I would sell my retina iPad Mini and use the iPad Pro exclusively.</p>
+<p>That hasn&#8217;t happened. I realized when making the choice of <a href="http://www.manton.org/2015/12/3255.html">which iPad to take downtown the other week</a> that the Mini is still my favorite size. I hope as part of the next phase to Apple&#8217;s iPad platform that the Pencil makes it down to the rest of the iPads. It&#8217;s important that developers can count on the common availability of the stylus, just as we can count on multitasking and app extensions to set the pace of UI progress for the platform.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/01/ipad-thoughts-for-2016.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.337 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-04-14 14:01:37 -->

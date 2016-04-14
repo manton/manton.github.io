@@ -12,175 +12,185 @@
 	<atom:link href="http://www.manton.org/tag/instagram/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Wed, 06 Jan 2016 17:11:57 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<generator>http://wordpress.org/?v=4.3.3</generator>
 	<item>
-		<title>Hyperlinks and saving the web</title>
-		<link>http://www.manton.org/2016/01/hyperlinks-and-saving-the-web.html</link>
-		<comments>http://www.manton.org/2016/01/hyperlinks-and-saving-the-web.html#comments</comments>
-		<pubDate>Tue, 05 Jan 2016 15:00:00 +0000</pubDate>
+		<title>Leander Public Library</title>
+		<link>http://www.manton.org/2016/04/leander-public-library.html</link>
+		<comments>http://www.manton.org/2016/04/leander-public-library.html#comments</comments>
+		<pubDate>Thu, 14 Apr 2016 01:04:04 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Weblogs]]></category>
-		<category><![CDATA[facebook]]></category>
+				<category><![CDATA[Photos]]></category>
 		<category><![CDATA[instagram]]></category>
-		<category><![CDATA[iran]]></category>
-		<category><![CDATA[microblogging]]></category>
-		<category><![CDATA[timelines]]></category>
+		<category><![CDATA[newlibraries]]></category>
 
-		<guid isPermaLink="false">http://www.manton.org/?p=3284</guid>
-		<description><![CDATA[Hossein Derakhshan spent 6 years in jail in Iran because of his blog. Now, with the clarity of seeing years of changes to the web and social networks all at once after his release, he&#8217;s written an important essay on the value of hyperlinks and the open web: &#8220;When a powerful website – say Google [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Hossein Derakhshan spent 6 years in jail in Iran because of his blog. Now, with the clarity of seeing years of changes to the web and social networks all at once after his release, <a href="http://www.theguardian.com/technology/2015/dec/29/irans-blogfather-facebook-instagram-and-twitter-are-killing-the-web">he&#8217;s written an important essay</a> on the value of hyperlinks and the open web:</p>
-<blockquote><p>
-  &#8220;When a powerful website – say Google or Facebook – gazes at, or links to, another webpage, it doesn’t just connect it , it brings it into existence; gives it life. Without this empowering gaze, your web page doesn’t breathe. No matter how many links you have placed in a webpage, unless somebody is looking at it, it is actually both dead and blind, and therefore incapable of transferring power to any outside web page.&#8221;
-</p></blockquote>
-<p>He mentions apps like Instagram, which have no way to link to the outside world. Too many apps are exactly like this: more interested in capturing eyeballs for ads than opening up their platform. The default for native mobile apps is to become silos, while the default for web sites is to be open and support linking.</p>
-<p>There&#8217;s a second part to Hossein&#8217;s essay that I don&#8217;t agree with, though. He writes that &#8220;the stream&#8221; – a.k.a the timeline, a reverse-chronological list of short posts or links – is turning the web into television. But I think there&#8217;s a lot we can learn from the timeline. It&#8217;s a valuable user experience metaphor that we should take back from Twitter and social networks.</p>
-<p>Building on the timeline is basically the whole point of my microblogging project. We should encourage independent microblogs by using a timeline interface to make them more useful. (Interested? <a href="http://eepurl.com/6vVvj">Sign up</a> on my announce list.)</p>
-<p>Back to links. Dave Winer, who has been cross-posting recently to Facebook and Medium, <a href="http://scripting.com/liveblog/users/davewiner/2016/01/03/0783.html">posted about</a> how Facebook doesn&#8217;t allow inline links in the text of a post. As a new generation grows up on these kind of posts instead of real blog posts, will people understand what they&#8217;re missing? Dave writes:</p>
-<blockquote><p>
-  &#8220;I hope we don&#8217;t end up having to try to explain linking to future generations who have no recollection of an electronic writing environment where words could take you to a whole other place. But I suspect we&#8217;re going there. Unless somehow we can get Facebook to relent and make it easy to link from words in Facebook posts to other places on the web.&#8221;
-</p></blockquote>
-<p>This is a great challenge for 2016. Not specifically with Facebook, but with the larger idea of bringing back <a href="http://anildash.com/2012/12/the-web-we-lost.html">the web we lost</a>, retrofitted for today&#8217;s app-centric internet. I hope to spend a good part of the year working on it.</p>
+		<guid isPermaLink="false">http://www.manton.org/?p=3858</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[<p><img src="http://www.manton.org/images/2016/leander_public_library.jpg" width="500" height="500" alt="Leander Public Library"></p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/01/hyperlinks-and-saving-the-web.html/feed</wfw:commentRss>
+			<wfw:commentRss>http://www.manton.org/2016/04/leander-public-library.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Instagram hits 400 million users</title>
-		<link>http://www.manton.org/2015/09/instagram-hits-400-million-users.html</link>
-		<comments>http://www.manton.org/2015/09/instagram-hits-400-million-users.html#comments</comments>
-		<pubDate>Wed, 23 Sep 2015 14:34:12 +0000</pubDate>
+		<title>Bee Cave Public Library</title>
+		<link>http://www.manton.org/2016/04/bee-cave-public-library.html</link>
+		<comments>http://www.manton.org/2016/04/bee-cave-public-library.html#comments</comments>
+		<pubDate>Wed, 13 Apr 2016 01:35:11 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Technology]]></category>
-		<category><![CDATA[facebook]]></category>
+				<category><![CDATA[Photos]]></category>
 		<category><![CDATA[instagram]]></category>
-		<category><![CDATA[photos]]></category>
-		<category><![CDATA[scaling]]></category>
+		<category><![CDATA[newlibraries]]></category>
 
-		<guid isPermaLink="false">http://www.manton.org/?p=3064</guid>
-		<description><![CDATA[From Graham Spencer at MacStories, commenting on the latest Instagram numbers and that the service is only 5 years old: &#8220;But I was really surprised to remember that Facebook acquired Instagram in April 2012, when Instagram had &#8216;only&#8217; 40 million users. If I recall correctly, a lot of people thought Facebook was crazy to buy [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="https://www.macstories.net/news/instagram-hits-400-million-users/">From Graham Spencer</a> at MacStories, commenting on the latest Instagram numbers and that the service is only 5 years old:</p>
-<blockquote><p>
-  &#8220;But I was really surprised to remember that <a href="http://techcrunch.com/2012/04/09/facebook-to-acquire-instagram-for-1-billion/">Facebook acquired Instagram in April 2012</a>, when Instagram had &#8216;only&#8217; 40 million users. If I recall correctly, a lot of people thought Facebook was crazy to buy Instagram for $1 billion. Well, I think Facebook got the last laugh on that one, and as <a href="http://www.forbes.com/sites/kathleenchaykowski/2015/09/22/instagram-hits-400-million-users-soaring-past-twitter/">Forbes points out</a>, Instagram now has more monthly active users than Twitter (316 million).&#8221;
-</p></blockquote>
-<p>Impressive growth, but it fits. Instagram has crafted a user experience that encourages thoughtful posts and never feels overwhelming in the way a Twitter or Facebook timeline can be. If Instagram was a paid product, I bet Instagram&#8217;s <a href="https://baremetrics.com/academy/saas-churn">churn rate</a> would be the lowest of any of the big social networks. They did it with a small team and weren&#8217;t afraid to grow slowly.</p>
+		<guid isPermaLink="false">http://www.manton.org/?p=3853</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[<p><img src="http://www.manton.org/images/2016/bee_cave_public_library.jpg" width="500" height="500" alt="Bee Cave Public Library"></p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/09/instagram-hits-400-million-users.html/feed</wfw:commentRss>
+			<wfw:commentRss>http://www.manton.org/2016/04/bee-cave-public-library.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Sunlit 1.1</title>
-		<link>http://www.manton.org/2014/02/sunlit_11.html</link>
-		<comments>http://www.manton.org/2014/02/sunlit_11.html#comments</comments>
-		<pubDate>Fri, 14 Feb 2014 21:00:09 +0000</pubDate>
+		<title>Doll house Little Free Library</title>
+		<link>http://www.manton.org/2016/04/doll-house-little-free-library.html</link>
+		<comments>http://www.manton.org/2016/04/doll-house-little-free-library.html#comments</comments>
+		<pubDate>Mon, 11 Apr 2016 02:20:25 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Programming]]></category>
-		<category><![CDATA[dropbox]]></category>
-		<category><![CDATA[flickr]]></category>
+				<category><![CDATA[Photos]]></category>
 		<category><![CDATA[instagram]]></category>
-		<category><![CDATA[sunlit]]></category>
+		<category><![CDATA[newlibraries]]></category>
 
-		<guid isPermaLink="false">http://www.manton.org/2014/02/sunlit_11.html</guid>
-		<description><![CDATA[Today we shipped version 1.1 of Sunlit, our app for collecting photos and text together to make and publish stories. Some of the bigger changes include: Instagram and Flickr import. You can now add any of your own Instagram or Flickr photos into a story. With Flickr, you can even browse from your Flickr sets. [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Today we shipped version 1.1 of <a href="http://sunlit.io/">Sunlit</a>, our app for collecting photos and text together to make and publish stories. Some of the bigger changes include:</p>
-<ul>
-<li><strong>Instagram and Flickr import.</strong> You can now add any of your own Instagram or Flickr photos into a story. With Flickr, you can even browse from your Flickr sets.</p>
-</li>
-<li>
-<p><strong>Improved Dropbox support.</strong> The first version of Sunlit assumed most of your photos on Dropbox were in the Camera Uploads or Photos folder. For 1.1, we’ve added a full Dropbox browser so you can pick any folder you want.</p>
-</li>
-<li>
-<p><strong>Multi-user text syncing.</strong> Now anyone subscribed to a story can add both photos and text descriptions, and the text will sync to all users. This is a really powerful feature for collaborating on stories. We think it puts Sunlit in a class above any other app like this.</p>
-</li>
-<li>
-<p><strong>Confirm deleted photos.</strong> What happens if you let other people add photos to your story, but they accidentally delete one of your photos? Sunlit now tracks this and shows a special confirmation alert so that you can either allow the photo to be deleted or keep it.</p>
-</li>
-</ul>
-<p>There are other fixes and improvements too, which you can <a href="http://sunlit.io/releasenotes">see in the release notes</a>. Here are a few screenshots of the new Dropbox and Flickr screens:</p>
-<p><img src="http://www.manton.org/images/2014/sunlit_dropbox_flickr.png" width="600" height="336" alt="Sunlit v1.1" /></p>
-<p><a href="https://itunes.apple.com/app/sunlit/id690924901?mt=8">Sunlit is available in the App store</a> as a free download. If you like it, pay just $4.99 to unlock the full app, and leave a review in the App Store to help others discover the app. Thanks!</p>
+		<guid isPermaLink="false">http://www.manton.org/?p=3845</guid>
+		<description><![CDATA[For the 3rd Sunday in a row, I&#8217;ve taken a break from visiting a normal library and instead found a Little Free Library to exchange a book at. They&#8217;re all very unique, often made by hand. This one was made from a doll house, which opens both from the bottom front and roof for two [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img src="http://www.manton.org/images/2016/doll_house_little_free_library.jpg" width="500" height="500" alt="Doll house Little Free Library"></p>
+<p>For the 3rd Sunday in a row, I&#8217;ve taken a break from visiting a normal library and instead found a Little Free Library to exchange a book at. They&#8217;re all very unique, often made by hand. This one was made from a doll house, which opens both from the bottom front and roof for two floors of books.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/02/sunlit_11.html/feed</wfw:commentRss>
+			<wfw:commentRss>http://www.manton.org/2016/04/doll-house-little-free-library.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Photo filters</title>
-		<link>http://www.manton.org/2013/07/photo_filters.html</link>
-		<comments>http://www.manton.org/2013/07/photo_filters.html#comments</comments>
-		<pubDate>Sat, 06 Jul 2013 19:14:55 +0000</pubDate>
+		<title>Pond view at Lake Travis Community Library</title>
+		<link>http://www.manton.org/2016/04/pond-view-at-lake-travis-community-library.html</link>
+		<comments>http://www.manton.org/2016/04/pond-view-at-lake-travis-community-library.html#comments</comments>
+		<pubDate>Sat, 09 Apr 2016 21:42:37 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Programming]]></category>
-		<category><![CDATA[imore]]></category>
+				<category><![CDATA[Photos]]></category>
 		<category><![CDATA[instagram]]></category>
-		<category><![CDATA[photos]]></category>
-		<category><![CDATA[rands]]></category>
-		<category><![CDATA[sunlit]]></category>
+		<category><![CDATA[newlibraries]]></category>
 
-		<guid isPermaLink="false">http://www.manton.org/2013/07/photo_filters.html</guid>
-		<description><![CDATA[Rene Ritchie has a nice comparison of black and white filters in iOS 7 and third-party apps: “To create the comparison, I took the screenshots posted on Apple.com, isolated the unfiltered image, loaded it into the other apps, applied their filters, and then took screenshots of the resulting images.” I&#8217;ve been working on an iOS [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="http://www.imore.com/ios-7-vs-instagram-vs-google-vs-twitter-black-white-photo-filter-comparison">Rene Ritchie has a nice comparison of black and white filters</a> in iOS 7 and third-party apps:</p>
-<blockquote><p>
-  “To create the comparison, I took the screenshots posted on Apple.com, isolated the unfiltered image, loaded it into the other apps, applied their filters, and then took screenshots of the resulting images.”
-</p></blockquote>
-<p>I&#8217;ve been working on an iOS 7 app that&#8217;s partly <em>about</em> photos, though not actually a camera app, and I always thought it&#8217;d benefit from a single great black and white filter. Not as one of a dozen filters, but as the only filter in the app — something strikingly different that would be noticed. iOS 7&#8217;s built-in filters and apps like <a href="http://www.pacifichelm.com/cameranoir/">Camera Noir</a> have made me reconsider. Why reinvent the wheel when so much good work is being done on filters by other developers?</p>
-<p>Related, the <a href="http://www.randsinrepose.com/archives/2012/12/09/how_i_instagram.html">excellent mobile photo workflow by Rands</a>.</p>
+		<guid isPermaLink="false">http://www.manton.org/?p=3841</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[<p><img src="http://www.manton.org/images/2016/pond_view_lake_travis_community_library.jpg" width="500" height="500" alt="Pond view at Lake Travis Community Library" /></p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/07/photo_filters.html/feed</wfw:commentRss>
+			<wfw:commentRss>http://www.manton.org/2016/04/pond-view-at-lake-travis-community-library.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Indexing the hidden web</title>
-		<link>http://www.manton.org/2012/04/indexing_the_hidden.html</link>
-		<comments>http://www.manton.org/2012/04/indexing_the_hidden.html#comments</comments>
-		<pubDate>Tue, 17 Apr 2012 20:27:11 +0000</pubDate>
+		<title>Sculpture outside Ruiz Branch</title>
+		<link>http://www.manton.org/2016/04/sculpture-outside-ruiz-branch.html</link>
+		<comments>http://www.manton.org/2016/04/sculpture-outside-ruiz-branch.html#comments</comments>
+		<pubDate>Tue, 05 Apr 2016 00:24:07 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Technology]]></category>
-		<category><![CDATA[brin]]></category>
-		<category><![CDATA[google]]></category>
+				<category><![CDATA[Photos]]></category>
 		<category><![CDATA[instagram]]></category>
-		<category><![CDATA[search]]></category>
+		<category><![CDATA[newlibraries]]></category>
 
-		<guid isPermaLink="false">http://www.manton.org/2012/04/indexing_the_hidden.html</guid>
-		<description><![CDATA[There has been some good commentary on &#8220;Sergey Brin&#8217;s interview&#8221;:http://www.guardian.co.uk/technology/2012/apr/15/web-freedom-threat-google-brin with the Guardian. It&#8217;s probably best summarized in &#8220;John Gruber&#8217;s comment&#8221;:http://daringfireball.net/linked/2012/04/15/google-open-web: &#8220;The assumption here is that the only way to search is through Google, and that the &#8216;open Internet&#8217; is only what Google can index and sell ads against.&#8221; This resonates with me because I [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>There has been some good commentary on &#8220;Sergey Brin&#8217;s interview&#8221;:http://www.guardian.co.uk/technology/2012/apr/15/web-freedom-threat-google-brin with the Guardian. It&#8217;s probably best summarized in &#8220;John Gruber&#8217;s comment&#8221;:http://daringfireball.net/linked/2012/04/15/google-open-web:</p>
-<blockquote><p>&#8220;The assumption here is that the only way to search is through Google, and that the &#8216;open Internet&#8217; is only what Google can index and sell ads against.&#8221;</p></blockquote>
-<p>This resonates with me because I think Google has put enough ads on the internet. It&#8217;s impossible to take anything Google says at face value if they talk of &#8220;open&#8221; but their intentions say &#8220;ads&#8221;. But here&#8217;s the thing: Brin is actually right. There <em>is</em> great data hidden behind apps that should be indexable.</p>
-<p>In the race to win the App Store, we forgot about the web. Think about Instagram. Millions of photos are being shared that are inaccessible via a search engine. These photos can&#8217;t be found again and aren&#8217;t discoverable. When you search the web, how does it make sense that public photos on Flickr show up, but public photos on Instagram do not?</p>
-<p>We shouldn&#8217;t have to choose between Apple&#8217;s closed systems and Google&#8217;s ad-driven business. I want to talk about improving the web without automatically being pro-Google. &#8220;This tweet from John Marstall&#8221;:https://twitter.com/iconmaster/status/191901693527605248 made me realize it:</p>
-<blockquote><p>&#8220;I&#8217;d prefer to separate &#8216;indexable&#8217; from &#8216;indexable by Google.&#8217; Yes, they&#8217;re mostly the same for now. Might not always be.&#8221;.</p></blockquote>
-<p>We need competition in web search. More than Bing. A new search engine is the number 1 item from &#8220;Paul Graham&#8217;s frighteningly ambitious ideas&#8221;:http://www.paulgraham.com/ambitious.html:</p>
-<blockquote><p>&#8220;The best ideas are just on the right side of impossible. I don&#8217;t know if this one is possible, but there are signs it might be. Making a new search engine means competing with Google, and recently I&#8217;ve noticed some cracks in their fortress.&#8221;</p></blockquote>
-<p>Of course it&#8217;s crazy, but so was the 1st search breakthrough, lightning-fast AltaVista, and so was the 2nd major innovation, Google itself. It&#8217;s time for a search engine that isn&#8217;t all about ads. It&#8217;s time for search that understands apps and embraces data from web services as much as it does from web sites. It&#8217;s time for the 3rd act in search.</p>
+		<guid isPermaLink="false">http://www.manton.org/?p=3824</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[<p><img src="http://www.manton.org/images/2016/sculpture_outside_ruiz_branch.jpg" width="500" height="500" alt="Sculpture outside Ruiz Branch"></p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2012/04/indexing_the_hidden.html/feed</wfw:commentRss>
+			<wfw:commentRss>http://www.manton.org/2016/04/sculpture-outside-ruiz-branch.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Instagram and hosting</title>
-		<link>http://www.manton.org/2012/04/instagram_and_hosting.html</link>
-		<comments>http://www.manton.org/2012/04/instagram_and_hosting.html#comments</comments>
-		<pubDate>Fri, 06 Apr 2012 19:24:50 +0000</pubDate>
+		<title>Books rule</title>
+		<link>http://www.manton.org/2016/04/books-rule.html</link>
+		<comments>http://www.manton.org/2016/04/books-rule.html#comments</comments>
+		<pubDate>Mon, 04 Apr 2016 01:22:40 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Technology]]></category>
-		<category><![CDATA[ec2]]></category>
-		<category><![CDATA[hosting]]></category>
+				<category><![CDATA[Photos]]></category>
 		<category><![CDATA[instagram]]></category>
-		<category><![CDATA[servers]]></category>
+		<category><![CDATA[newlibraries]]></category>
 
-		<guid isPermaLink="false">http://www.manton.org/2012/04/instagram_and_hosting.html</guid>
-		<description><![CDATA[I love reading about how big sites use Amazon EC2. If &#8220;this post from Instagram&#8221;:http://instagram-engineering.tumblr.com/post/13649370142/what-powers-instagram-hundreds-of-instances-dozens-of is still accurate, they must be at something like $50k/month in hosting costs. Their user base has doubled in the 4 months since they posted that. My setup for Tweet Marker is trivial by comparison, but to me &#8212; without [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>I love reading about how big sites use Amazon EC2. If &#8220;this post from Instagram&#8221;:http://instagram-engineering.tumblr.com/post/13649370142/what-powers-instagram-hundreds-of-instances-dozens-of is still accurate, they must be at something like $50k/month in hosting costs. Their user base has doubled in the 4 months since they posted that.</p>
-<p>My setup for Tweet Marker is trivial by comparison, but to me &mdash; without Instagram&#8217;s $7 million in funding &mdash; it&#8217;s a very big deal. What I wrote &#8220;back in October&#8221;:http://www.manton.org/2011/10/redisonly_migration.html about moving to Redis is still mostly true, although I&#8217;ve added MySQL and Sphinx to the mix. I now run with 3 Amazon EC2 &#8220;medium&#8221; instances and have 5 web dynos (with 3 Unicorn processes each) at Heroku.</p>
-<p>I put everything from donations back into the servers. For Tweet Marker to work, it had to be rock solid. It had to scale. It&#8217;s only the first week for &#8220;Tweet Marker Plus&#8221;:http://tweetmarker.net/plus subscriptions, but already I have a good feeling that it&#8217;ll all pay off.</p>
+		<guid isPermaLink="false">http://www.manton.org/?p=3820</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[<p><img src="http://www.manton.org/images/2016/books_rule.jpg" width="500" height="500" alt="Books rule" /></p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2012/04/instagram_and_hosting.html/feed</wfw:commentRss>
+			<wfw:commentRss>http://www.manton.org/2016/04/books-rule.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Working from Laura Bush Community Library</title>
+		<link>http://www.manton.org/2016/03/working-from-laura-bush-community-library.html</link>
+		<comments>http://www.manton.org/2016/03/working-from-laura-bush-community-library.html#comments</comments>
+		<pubDate>Tue, 29 Mar 2016 16:20:31 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Photos]]></category>
+		<category><![CDATA[instagram]]></category>
+		<category><![CDATA[newlibraries]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3799</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[<p><img src="http://www.manton.org/images/2016/working_from_laura_bush_community_library.jpg" width="500" height="500" alt="Working from Laura Bush Community Library" /></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/03/working-from-laura-bush-community-library.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Take a book, return a book</title>
+		<link>http://www.manton.org/2016/03/take-a-book-return-a-book.html</link>
+		<comments>http://www.manton.org/2016/03/take-a-book-return-a-book.html#comments</comments>
+		<pubDate>Sun, 27 Mar 2016 21:19:40 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Photos]]></category>
+		<category><![CDATA[instagram]]></category>
+		<category><![CDATA[newlibraries]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3788</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[<p><img src="http://www.manton.org/images/2016/take_book_return_book.jpg" width="500" height="500" alt="Take a book, return a book" /></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/03/take-a-book-return-a-book.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Westbank Community Library</title>
+		<link>http://www.manton.org/2016/03/westbank-community-library.html</link>
+		<comments>http://www.manton.org/2016/03/westbank-community-library.html#comments</comments>
+		<pubDate>Fri, 25 Mar 2016 20:30:27 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Photos]]></category>
+		<category><![CDATA[instagram]]></category>
+		<category><![CDATA[newlibraries]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3777</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[<p><img src="http://www.manton.org/images/2016/westbank_community_library.jpg" width="500" height="500" alt="Westbank Community Library" /></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/03/westbank-community-library.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Charging my car at the library</title>
+		<link>http://www.manton.org/2016/03/charging-my-car-at-the-library.html</link>
+		<comments>http://www.manton.org/2016/03/charging-my-car-at-the-library.html#comments</comments>
+		<pubDate>Thu, 24 Mar 2016 20:07:28 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Photos]]></category>
+		<category><![CDATA[instagram]]></category>
+		<category><![CDATA[newlibraries]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3771</guid>
+		<description><![CDATA[At the Howson Branch.]]></description>
+				<content:encoded><![CDATA[<p><img src="http://www.manton.org/images/2016/charging_my_car_library.jpg" width="500" height="500" alt="Charging my car at the library" /></p>
+<p>At the Howson Branch.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/03/charging-my-car-at-the-library.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 4.546 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-01-06 12:43:24 -->
+<!-- Dynamic page generated in 0.328 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-04-14 13:49:31 -->

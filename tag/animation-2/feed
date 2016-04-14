@@ -12,12 +12,40 @@
 	<atom:link href="http://www.manton.org/tag/animation-2/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Wed, 06 Jan 2016 17:11:57 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<generator>http://wordpress.org/?v=4.3.3</generator>
 	<item>
+		<title>Slow transitions in watchOS</title>
+		<link>http://www.manton.org/2016/03/slow-transitions-in-watchos.html</link>
+		<comments>http://www.manton.org/2016/03/slow-transitions-in-watchos.html#comments</comments>
+		<pubDate>Fri, 04 Mar 2016 15:30:47 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[animation]]></category>
+		<category><![CDATA[applewatch]]></category>
+		<category><![CDATA[notifications]]></category>
+		<category><![CDATA[performance]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3622</guid>
+		<description><![CDATA[Much has been made of the Apple Watch not being fast enough. It’s too slow for full iPhone-like apps, of course, but that doesn’t bother me because I think the watch is pretty great at its core features. But I’ve noticed that it’s slow even for some of the simple stuff, and I don’t think [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Much has been made <a href="http://www.manton.org/2016/02/apple-watch-is-slow-for-now.html">of the Apple Watch not being fast enough</a>. It’s too slow for full iPhone-like apps, of course, but that doesn’t bother me because I think the watch is <a href="http://www.manton.org/2016/01/apple-watch-still-pretty-great.html">pretty great at its core features</a>. But I’ve noticed that it’s slow even for some of the simple stuff, and I don’t think this can be blamed on hardware alone.</p>
+<p>Take notifications, for example. There are several distinct steps to notifications after you receive one:</p>
+<ul>
+<li>Tapping a notification.</li>
+<li>Waiting for it to load, which is an animated transition.</li>
+<li>Optionally scrolling to the bottom to read it all.</li>
+<li>Actually tapping Dismiss to get rid of it.</li>
+</ul>
+<p>There’s a tiny lag between all of these. I frequently can’t scroll right away, as if it’s not responsive until the animation completes. The Dismiss button also doesn’t seem to be enabled immediately, requiring a 2nd tap before it “clicks”.</p>
+<p>I bet these are solvable with a software update. Shorter animated transitions or pre-loading notification text might go a long way to improve the experience.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/03/slow-transitions-in-watchos.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>The Lightbox</title>
 		<link>http://www.manton.org/2015/09/the-lightbox.html</link>
 		<comments>http://www.manton.org/2015/09/the-lightbox.html#comments</comments>
@@ -255,32 +283,8 @@
 			<wfw:commentRss>http://www.manton.org/2012/06/la_luna_and.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
-		<item>
-		<title>The Princess and the Frog</title>
-		<link>http://www.manton.org/2009/12/the_princess_and.html</link>
-		<comments>http://www.manton.org/2009/12/the_princess_and.html#comments</comments>
-		<pubDate>Fri, 18 Dec 2009 18:20:42 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Animation]]></category>
-		<category><![CDATA[animation]]></category>
-		<category><![CDATA[disney]]></category>
-		<category><![CDATA[frogprincess]]></category>
-		<category><![CDATA[roy]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2009/12/the_princess_and.html</guid>
-		<description><![CDATA[Walt&#8217;s nephew &#8220;Roy Disney died this week&#8221;:http://www.cnn.com/2009/SHOWBIZ/12/16/roy.disney.obit/index.html. In 2003 I blogged about &#8220;Roy leaving the company&#8221;:http://www.manton.org/2003/12/roy_leaves.html. I said: &#8220;It&#8217;s a shame that Roy is the one to leave. It&#8217;s clear that Disney (the company) has lost its way, and Eisner has no vision for what the company could be.&#8221; Luckily for us, since that time [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Walt&#8217;s nephew &#8220;Roy Disney died this week&#8221;:http://www.cnn.com/2009/SHOWBIZ/12/16/roy.disney.obit/index.html. In 2003 I blogged about &#8220;Roy leaving the company&#8221;:http://www.manton.org/2003/12/roy_leaves.html. I said:</p>
-<blockquote><p>&#8220;It&#8217;s a shame that Roy is the one to leave. It&#8217;s clear that Disney (the company) has lost its way, and Eisner has no vision for what the company could be.&#8221;</p></blockquote>
-<p>Luckily for us, since that time a lot has changed, and the animation division does have leadership in John Lasseter. One of the most visible changes just opened in theaters last weekend: The Princess and the Frog. I&#8217;ve seen every theatrical release out of Disney feature animation since I could afford the few bucks to go to a theater, so I wasn&#8217;t likely to miss this return of 2d animation.</p>
-<p>My daughters and I really loved this movie, not just because of my love for hand-drawn animation, but for a story that works and characters that are rooted in something real &mdash; singing Cajun fireflies and voodoo magic aside, of course. There are some really touching scenes here. &#8220;Sandro Cleuzo says&#8221;:http://inspectorcleuzo.blogspot.com/2009/12/milt-kahl-day-12.html the animation was rushed, but I think they did a heck of a job.</p>
-<p>The credits are almost as if nothing has changed &mdash; Eric Goldberg, Andreas Deja, Mark Henn, Nik Ranieri. &#8220;The reality is slightly different&#8221;:http://www.dreamonsillydreamer.com/, but there&#8217;s a mix of new animators among the familiar names. A lot is riding on the success of this film, and it managed a respectable $25 million over the weekend.</p>
-<p>Great job, Disney. I&#8217;m glad Roy got to see the beginning of the next 2d comeback.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2009/12/the_princess_and.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 9.559 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-01-06 13:24:35 -->
+<!-- Dynamic page generated in 0.383 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-04-14 14:59:29 -->

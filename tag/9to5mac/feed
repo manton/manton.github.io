@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; 9to5mac</title>
+	<atom:link href="http://www.manton.org/tag/9to5mac/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<item>
+		<title>iPhone SE (no 5)</title>
+		<link>http://www.manton.org/2016/02/iphone-se-no-5.html</link>
+		<comments>http://www.manton.org/2016/02/iphone-se-no-5.html#comments</comments>
+		<pubDate>Fri, 26 Feb 2016 19:57:20 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[9to5mac]]></category>
+		<category><![CDATA[daringfireball]]></category>
+		<category><![CDATA[iphone5se]]></category>
+		<category><![CDATA[iphone6s]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3573</guid>
+		<description><![CDATA[Mark Gurman of 9to5Mac reports that the new 4-inch iPhone will be called simply “iPhone SE”, not “5SE”. As I said before, I don’t really care what it’s called, but this is good news nevertheless. John Gruber adds: “Isn’t it more accurate to think of this as an iPhone 6S in a 4-inch body than [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://9to5mac.com/2016/02/26/apple-iphone-se-4-inch-2016/">Mark Gurman of 9to5Mac reports</a> that the new 4-inch iPhone will be called simply “iPhone SE”, not “5SE”. <a href="http://www.manton.org/2016/01/iphone-5se.html">As I said before</a>, I don’t really care what it’s called, but this is good news nevertheless.</p>
+<p><a href="http://daringfireball.net/linked/2016/02/26/9to5mac-se">John Gruber adds</a>:</p>
+<blockquote><p>
+  “Isn’t it more accurate to think of this as an iPhone 6S in a 4-inch body than as an iPhone 5S with ‘upgraded internals’? Other than the display, aren’t the ‘internals’ the defining characteristics of any iPhone?”
+</p></blockquote>
+<p>I agree with John. Other than the screen size, this phone will feel a lot like an iPhone 6S. And because I love the smaller size, I personally think it will have the <em>best</em> of both the 5S and 6S.</p>
+<p>Prediction: this phone is going to be much more popular than people expect. I won’t be surprised if it takes the 6S Plus’s spot as the 2nd most popular iPhone.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/02/iphone-se-no-5.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>iPhone 5se sleep button</title>
+		<link>http://www.manton.org/2016/01/iphone-5se-sleep-button.html</link>
+		<comments>http://www.manton.org/2016/01/iphone-5se-sleep-button.html#comments</comments>
+		<pubDate>Tue, 26 Jan 2016 16:16:27 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[9to5mac]]></category>
+		<category><![CDATA[iphone5se]]></category>
+		<category><![CDATA[rumors]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3445</guid>
+		<description><![CDATA[Zac Hall of 9to5Mac follows up with a new leaked photo after the latest iPhone 5se news. It seems the hardware design may borrow more from the 6 than the 5. Zac writes: “If the leaked image turns out to both be the real deal and what Apple ships later this year, that means the updated [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Zac Hall of 9to5Mac follows up with a new leaked photo after the <a href="http://www.manton.org/2016/01/iphone-5se.html">latest iPhone 5se news</a>. It seems the hardware design may borrow more from the 6 than the 5. <a href="http://9to5mac.com/2016/01/24/4-inch-iphone-5se-photo/">Zac writes</a>:</p>
+<blockquote><p>
+  “If the leaked image turns out to both be the real deal and what Apple ships later this year, that means the updated 4-inch iPhone will feature rounded volume toggles and a relocated sleep switch like on iPhone 6 hardware versus a top sleep switch and iPhone 4-like volume buttons from the iPhone 5 series hardware.”
+</p></blockquote>
+<p>NoooOOOooooo. I can understand wanting consistency between models, but the iPhone 6 sleep button is a major usability issue because it gets in the way when trying to use the volume buttons. I’ll be disappointed if the design trade-offs from the 6 make the 5se worse. (But I’ll buy one anyway.)</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/01/iphone-5se-sleep-button.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.290 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-04-14 13:59:26 -->

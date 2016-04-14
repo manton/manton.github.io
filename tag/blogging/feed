@@ -12,12 +12,253 @@
 	<atom:link href="http://www.manton.org/tag/blogging/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Wed, 06 Jan 2016 17:11:57 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<generator>http://wordpress.org/?v=4.3.3</generator>
 	<item>
+		<title>Tickets for Release Notes 2016</title>
+		<link>http://www.manton.org/2016/04/tickets-for-release-notes-2016.html</link>
+		<comments>http://www.manton.org/2016/04/tickets-for-release-notes-2016.html#comments</comments>
+		<pubDate>Mon, 04 Apr 2016 16:14:25 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[conference]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[releasenotes]]></category>
+		<category><![CDATA[trains]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2016/04/tickets-for-release-notes-2016.html</guid>
+		<description><![CDATA[I&#8217;m registered for the Release Notes conference, coming up later this year in Indianapolis. This will be the only conference I attend this year outside of another ticketless WWDC week. If you didn&#8217;t go last year and want to know more about it, check out the web site or listen to episode 151 of their [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;m registered for the <a href="https://releasenotes.tv/conference/">Release Notes conference</a>, coming up later this year in Indianapolis. This will be the only conference I attend this year outside of another ticketless WWDC week. If you didn&#8217;t go last year and want to know more about it, check out the web site or <a href="https://releasenotes.tv/151-our-2-0-1/">listen to episode 151 of their podcast</a>.</p>
+<p>One of my favorite blog posts on this site from last year was <a href="http://www.manton.org/2015/10/release-notes-2015.html">my review of the conference</a>, because I think it both described the conference itself and also captured that inspired feeling you get when you&#8217;re heading off to the airport and your head is buzzing with ideas. And because it&#8217;s a blog, where I allow myself to be informal, it also has the meandering narrative of the everyday — a stop for coffee, a conversation with an Uber driver. My memory of the conference wouldn&#8217;t be complete without those things.</p>
+<p>I&#8217;m looking forward to visiting Indianapolis again. I may also look at flying into Chicago and taking the train down, then flying out. Sounds like some people did that last year, and I think it would make a great start considering the venue at Union Station. We&#8217;ll see if the schedule works out.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/04/tickets-for-release-notes-2016.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Time to rethink blog comments</title>
+		<link>http://www.manton.org/2016/03/time-to-rethink-blog-comments.html</link>
+		<comments>http://www.manton.org/2016/03/time-to-rethink-blog-comments.html#comments</comments>
+		<pubDate>Thu, 24 Mar 2016 18:24:00 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[civilcomments]]></category>
+		<category><![CDATA[comments]]></category>
+		<category><![CDATA[community]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[webmention]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3769</guid>
+		<description><![CDATA[Twitter has lost some of what made it special for communities 5 years ago. I&#8217;ve noticed a few trends: Twitter’s 140-character limit and easy retweeting encourage and amplify negative tweets. Sincerity is less common. Everything is an opportunity for a joke. Widely followed, long-time Twitter users don’t find the joy they used to when interacting [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Twitter has lost some of what made it special for communities 5 years ago. I&#8217;ve noticed a few trends:</p>
+<ul>
+<li>Twitter’s 140-character limit and easy retweeting encourage and amplify negative tweets. Sincerity is less common. Everything is an opportunity for a joke.</li>
+<li>Widely followed, long-time Twitter users don’t find the joy they used to when interacting with followers. Some have retreated to private Slack channels, at the cost of public discussion and approachability.</li>
+<li>Developers have never completely forgiven Twitter for crippling the API. This doesn’t directly impact most users anymore, but it’s a backdrop that gives every new Twitter feature a tone of distrust. Progress is slow.</li>
+</ul>
+<p>Meanwhile, blog comments have slowly been killed off over that same period. The rise of social networks, combined with the technical problems of fighting blog comment spam, pushed most bloggers to prefer answering questions on Twitter.</p>
+<p><a href="http://beckyhansmeyer.com/2016/03/07/follow-up-the-nuances-of-online-discussion/">Becky Hansmeyer writes about</a> the intersection of these problems — that some Twitter users avoid public discussion, but most blogs no longer have comments to fall back on — by pointing to <a href="http://blog.bellebethcooper.com/online-relationships.html">a post from Belle Beth Cooper</a>:</p>
+<blockquote><p>
+  “Belle’s post really resonated with me because it reminded me of something I think about a lot: when an ever-increasing number of blogs and media outlets are disabling comment sections, where do decent, thoughtful people bring their discussions? I only offer readers one way to contact me on this site, and it’s via Twitter. But what if, like Belle, you no longer use Twitter (or never did in the first place)?”
+</p></blockquote>
+<p>We didn’t realized how much we lost when we turned our backs on blog comments years ago. Just look at <a href="https://red-sweater.com/blog/181/the-cocoa-carbon-advantage#comments">one of Daniel Jalkut&#8217;s blog posts from 10 years ago</a>, which he and I discuss on an upcoming episode of Core Intuition. 53 comments! And they&#8217;re all preserved along with the original content. That&#8217;s difficult to do when comments are spread across Twitter and easily lost.</p>
+<p>It’s time to take what we’ve since learned from social networks and apply it the openness of cross-site replies. That’s why I want to support <a href="https://indiewebcamp.com/Webmention">Webmention</a>. As Becky mentions, <a href="https://www.civilcomments.com/">Civil Comments</a> look great too. I think we can encourage both in parallel: distributed comments like Webmention for sites that can support it <em>and</em> better centralized comments like Civil.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/03/time-to-rethink-blog-comments.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Photo blogging follow-up</title>
+		<link>http://www.manton.org/2016/03/photo-blogging-follow-up.html</link>
+		<comments>http://www.manton.org/2016/03/photo-blogging-follow-up.html#comments</comments>
+		<pubDate>Sun, 20 Mar 2016 15:17:45 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Photography]]></category>
+		<category><![CDATA[automation]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[macstories]]></category>
+		<category><![CDATA[photos]]></category>
+		<category><![CDATA[workflow]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3739</guid>
+		<description><![CDATA[As I&#8217;ve written about already, I now post photos to my own site in addition to Instagram. I use the Workflow app to make this easier, automatically uploading a photo and making a new blog post for it from iOS. Ryan Toohil has taken my rough workflow and improved it, adding support for prompting for [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>As I&#8217;ve <a href="http://www.manton.org/2016/03/blogging-your-photos.html">written about already</a>, I now post photos to my own site in addition to Instagram. I use the <a href="https://workflow.is/">Workflow app</a> to make this easier, automatically uploading a photo and making a new blog post for it from iOS.</p>
+<p>Ryan Toohil has taken my rough workflow <a href="https://blog.ryantoohil.com/2016/03/owning-your-own-social-media-content.php">and improved it</a>, adding support for prompting for the photo title, fixing the photo’s orientation, and a better dynamic folder name based on the date. You can <a href="https://workflow.is/workflows/c485d9227ed347c4b3aab2a94fb822d6">see his updated workflow here</a>.</p>
+<p>I still have a lot to learn about using Workflow. It’s the kind of app that you can only really understand the potential for after diving in with a real problem. Now I find myself looking for more ways I can use the app.</p>
+<p>I’ve also finally read Federico Viticci’s excellent <a href="http://www.imore.com/how-use-workflow-ios-when-you-dont-know-where-start">intro to Workflow over at iMore</a>, which includes this advice:</p>
+<blockquote><p>
+  “When I was new to Workflow, visualizing the vertical flow of actions before building the stack was my biggest hurdle in getting started. I&#8217;ve since developed a habit that comes in handy every day: if I already know what a workflow should do at the beginning and at the end, I place the first action and the last one immediately on the canvas. Then, I only have to figure out how to go from Point A to Point B, dropping actions between those two as I play around with different ideas.”
+</p></blockquote>
+<p>Of course, Federico has written many times about Workflow. He has an article about <a href="https://www.macstories.net/ios/publishing-articles-to-wordpress-with-workflow-on-ios/">using Workflow to post to WordPress</a>, and tips and example workflows in the MacStories Club email. His podcast <a href="https://www.relay.fm/canvas">Canvas</a> with Fraser Speirs also routinely discusses workflows.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/03/photo-blogging-follow-up.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Blog when you disagree</title>
+		<link>http://www.manton.org/2016/03/blog-when-you-disagree.html</link>
+		<comments>http://www.manton.org/2016/03/blog-when-you-disagree.html#comments</comments>
+		<pubDate>Mon, 14 Mar 2016 19:16:20 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[opinions]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[writing]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3707</guid>
+		<description><![CDATA[The echo chamber. We only follow people who we already agree with. We only jump on the bandwagon of snark and ridicule when it’s already the accepted narrative, and thus safe to be part of the mob. But sometimes you&#8217;ll find an area where you aren&#8217;t completely in line with the crowd’s opinion. There’s a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The echo chamber. We only follow people who we already agree with. We only jump on the bandwagon of snark and ridicule when it’s already the accepted narrative, and thus safe to be part of the mob.</p>
+<p>But sometimes you&#8217;ll find an area where you aren&#8217;t completely in line with the crowd’s opinion. There’s a topic that keeps coming up for which you have something to add. The default story is missing an important angle.</p>
+<p>When you disagree, that’s what you should write about, and you should post it to your blog. 140 characters thrown against wave after wave of mainstream opinion tweets will be drowned out. A blog post isn’t a cheap opinion; it’s a statement that what you think matters.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/03/blog-when-you-disagree.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Blogging your photos</title>
+		<link>http://www.manton.org/2016/03/blogging-your-photos.html</link>
+		<comments>http://www.manton.org/2016/03/blogging-your-photos.html#comments</comments>
+		<pubDate>Tue, 08 Mar 2016 18:16:45 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Photography]]></category>
+		<category><![CDATA[automation]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[photos]]></category>
+		<category><![CDATA[transmit]]></category>
+		<category><![CDATA[workflow]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3679</guid>
+		<description><![CDATA[Colin Devroe started microblogging on his own site, with separate sections for statuses and photos: “I want to post content to my own personal site and not through closed social networks — because I want to keep control of everything I create forever. [&#8230;] This doesn’t mean that I won’t be posting to Twitter or Facebook [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://cdevroe.com/15094/fits-and-starts-and-homesteading">Colin Devroe started microblogging</a> on his own site, with separate sections for statuses and photos:</p>
+<blockquote><p>
+  “I want to post content to my own personal site and not through closed social networks — because I want to keep control of everything I create forever. [&#8230;] This doesn’t mean that I won’t be posting to Twitter or Facebook or Instagram, but that everything that I post there will originate here on my site.”
+</p></blockquote>
+<p>It’s the photos and their RSS feed that caught my attention. Others have done this too, but for some reason I rarely post photos here on my own site. I’ve stuck with using Instagram instead.</p>
+<p>I need to change that. I do like the Instagram app, though, so I’m going to keep using it. I’ll just copy the photos over to my site as well, and I’ll use <a href="https://workflow.is/">Workflow on iOS</a> to help automate it. The basic steps are:</p>
+<ul>
+<li>After posting the photo on Instagram, copy the caption to the iOS clipboard. This will be the title of the blog post.</li>
+<li>Select the Instagram-edited image in the Photos app and run the workflow.</li>
+<li>Workflow makes a filename based on the title, with some simple substitutions. Lowercase, spaces become underscores, and drop some characters.</li>
+<li>Transmit gets launched and I confirm the upload to my own server.</li>
+<li>Workflow creates a WordPress blog post with an img tag and the relevant metadata.</li>
+</ul>
+<p>It’s not bad. You can <a href="https://workflow.is/workflows/75265d33bcd64c4d8485b2644de7df17">see the workflow here</a>. I’ve uploaded a bunch of my most recent Instagram photos this way. I’m not sure whether I’ll go back and mirror all the old ones.</p>
+<p>These photos live under a new <a href="http://www.manton.org/category/photos">Photos category</a>. I’ve excluded this category from the main RSS feed that I use for cross-posting, so they won’t automatically go to Twitter. You can continue to <a href="https://www.instagram.com/manton/">follow me on Instagram</a> if you prefer that.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/03/blogging-your-photos.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Ringer will use Medium</title>
+		<link>http://www.manton.org/2016/02/the-ringer-will-use-medium.html</link>
+		<comments>http://www.manton.org/2016/02/the-ringer-will-use-medium.html#comments</comments>
+		<pubDate>Mon, 29 Feb 2016 17:00:14 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[billsimmons]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[medium]]></category>
+		<category><![CDATA[theringer]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3593</guid>
+		<description><![CDATA[Bill Simmons announced on his podcast last week that his new media site The Ringer will use Medium. He said they’ve been working with the Medium folks on it, although I don’t know if that means using existing features that are available to anyone, or if Medium has built anything custom just for The Ringer. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Bill Simmons announced on his podcast last week that his new media site <a href="http://theringer.com/">The Ringer</a> will use Medium. He said they’ve been working with the Medium folks on it, although I don’t know if that means using existing features that are available to anyone, or if Medium has built anything custom just for The Ringer.</p>
+<p><a href="http://digiday.com/publishers/bill-simmons-medium-underlines-platform-focus/">Digiday has a story</a> about this, and about the larger context of how Medium is doing and evolving:</p>
+<blockquote><p>
+  “At one point last year, a former staffer said, Medium decided to move away from funding publications directly and instead fund initiatives meant to grow audiences in specific areas such as women in tech and the election. Last year, it closed down Re:form and Archipelago, a home for personal essays. Its remaining verticals have been roped into Medium’s effort to generate more conversation with readers, with tactics like prompts at the end of articles.”
+</p></blockquote>
+<p>I’ve written several times about how Medium is <a href="http://www.manton.org/2016/01/silos-as-shortcuts.html">worse than your own blog</a> for building an audience, and <a href="http://www.manton.org/2015/09/evan-williams-on-indie-web-sites.html">worse for the open web</a> if it continues down the Twitter-like path as a centralized social network. But encouraging larger publishers to adopt Medium is good, because custom domains will come along for the ride. Owning your domain and URLs is the first step to owning your content.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/02/the-ringer-will-use-medium.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Tim Cook, Swift, and the return of blogs</title>
+		<link>http://www.manton.org/2016/01/tim-cook-swift-and-the-return-of-blogs.html</link>
+		<comments>http://www.manton.org/2016/01/tim-cook-swift-and-the-return-of-blogs.html#comments</comments>
+		<pubDate>Tue, 26 Jan 2016 15:17:26 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[swift]]></category>
+		<category><![CDATA[timcook]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3439</guid>
+		<description><![CDATA[Rob Rhyne wrote an essay last week that caught my attention, on Tim Cook and the incredible pace of new major OS versions at Apple: “Still think Apple isn’t innovating enough under Tim Cook? Don’t let an app developer hear that talk—they want a vacation, and the end of 2015 showed no signs of relief.” [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://rd2.io/2016/01/tim-cooks-apple/">Rob Rhyne wrote an essay last week</a> that caught my attention, on Tim Cook and the incredible pace of new major OS versions at Apple:</p>
+<blockquote><p>
+  “Still think Apple isn’t innovating enough under Tim Cook? Don’t let an app developer hear that talk—they want a vacation, and the end of 2015 showed no signs of relief.”
+</p></blockquote>
+<p>But I found it significant for another reason too: Rob hadn’t blogged on that site in over 2 years. He picked it up as if no time had been lost, hitting the ground running with a great post.</p>
+<p>He’s not the only one starting to blog more. Matt Gallagher just <a href="http://cocoawithlove.com/blog/2016/01/25/a-new-era-for-cocoa-with-love.html">rebooted Cocoa with Love</a> after 4 years since his last post. Swift was a good excuse to resume writing, but he had wanted to continue the site anyway.</p>
+<p>Most of my favorite blogs have new posts every day, or at least once a week. New posts bring more links and traffic, giving the blog life and momentum.</p>
+<p>There’s no single correct way to blog, though. Blogs are forgiving. If you’ve neglected your blog for a while, you don’t owe anyone an apology. Just hit command-N in your favorite text editor and start writing.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/01/tim-cook-swift-and-the-return-of-blogs.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Finally trying Ulysses</title>
+		<link>http://www.manton.org/2016/01/finally-trying-ulysses.html</link>
+		<comments>http://www.manton.org/2016/01/finally-trying-ulysses.html#comments</comments>
+		<pubDate>Thu, 21 Jan 2016 15:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[drafts]]></category>
+		<category><![CDATA[dropbox]]></category>
+		<category><![CDATA[ulysses]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3404</guid>
+		<description><![CDATA[I’m finally trying Ulysses. After posting about how I write blog drafts, a reader pointed out that Justnotes for Mac isn’t actively maintained anymore. I think Ulysses will make a nice replacement, both for my Dropbox folder of 1000+ notes, and also for longer, more structured writing I want to do. Ryan Irelan uses that [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I’m finally trying <a href="http://ulyssesapp.com/">Ulysses</a>. After posting about <a href="http://www.manton.org/2016/01/wordpress-drafts-workflow.html">how I write blog drafts</a>, a reader pointed out that Justnotes for Mac isn’t actively maintained anymore. I think Ulysses will make a nice replacement, both for my Dropbox folder of 1000+ notes, and also for longer, more structured writing I want to do.</p>
+<p><a href="http://ryanirelan.com/2016/01/12/using-ulysses-for-writing.html">Ryan Irelan uses that structure</a> to organize courses for Mijingo:</p>
+<blockquote><p>
+  “Each course is also a Collection inside of the courses collection, in which I have separate sheets for each section of the course (or even broken down into multiple sheets per section depending on the length)”
+</p></blockquote>
+<p>Ben Brooks is also trying to consolidate from the iOS 9 Notes app and others to <a href="https://brooksreview.net/2016/01/ulysses-all-the-things/">just using Ulysses</a>:</p>
+<blockquote><p>
+  “This was my pain point, I often just simply forgot where I jotted something down. I don’t typically make <em>tasks</em> out of articles I am writing, so I remember what is what by looking in Ulysses, and if it isn’t in Ulysses I won’t go searching for it. Notes was the most convenient place to write, but also a bit of a black hole for writing.”
+</p></blockquote>
+<p>I can already tell that Ulysses is a great app. Looking forward to <a href="http://ulyssesapp.com/blog/2015/12/ulysses-iphone-beta/">the upcoming universal version</a> with support for the iPad Pro, too.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/01/finally-trying-ulysses.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Ignoring follower counts</title>
+		<link>http://www.manton.org/2016/01/ignoring-follower-counts.html</link>
+		<comments>http://www.manton.org/2016/01/ignoring-follower-counts.html#comments</comments>
+		<pubDate>Wed, 20 Jan 2016 21:09:00 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[followers]]></category>
+		<category><![CDATA[stats]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3398</guid>
+		<description><![CDATA[I&#8217;ve said before that there&#8217;s something about the 140-character limit that brings out both the best and worst in people. Nick Harris hints at this while writing about taking a break from Twitter: &#8220;But largely ignoring the Twitter Noise Machine – particularly when my timeline becomes the Twitter Hate Machine – is going to be [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;ve said before that there&#8217;s something about the 140-character limit that brings out both the best and worst in people. <a href="https://nickharris.wordpress.com/2016/01/20/twitter/">Nick Harris hints at this</a> while writing about taking a break from Twitter:</p>
+<blockquote><p>
+  &#8220;But largely ignoring the Twitter Noise Machine – particularly when my timeline becomes the Twitter Hate Machine – is going to be good for me.&#8221;
+</p></blockquote>
+<p>He also talks about the obsession with stats and follower counts, which <a href="http://inessential.com/2016/01/20/nick_on_twitter">Brent Simmons picks up on</a> and carries further:</p>
+<blockquote><p>
+  &#8220;I did have Google Analytics for a few months in 2014 when I was doing sponsorships. I spent too much time looking at the numbers and trying to make them go up. But no amount of going-up is ever satisfying: I just wanted more.&#8221;
+</p></blockquote>
+<p>When designing my new microblogging platform, I made a conscious decision to <em>not even show follower counts</em>. You can get the followers from the API, but I didn&#8217;t want to have the numbers right in your face when viewing someone&#8217;s profile. It&#8217;s too easy for us to make a judgement based on how many followers they have, and so miss out on whatever they have to say.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/01/ignoring-follower-counts.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>A diverse community through writing</title>
 		<link>http://www.manton.org/2015/11/a-diverse-community-through-writing.html</link>
 		<comments>http://www.manton.org/2015/11/a-diverse-community-through-writing.html#comments</comments>
@@ -57,245 +298,8 @@
 			<wfw:commentRss>http://www.manton.org/2015/11/a-diverse-community-through-writing.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
-		<item>
-		<title>The now page</title>
-		<link>http://www.manton.org/2015/10/the-now-page.html</link>
-		<comments>http://www.manton.org/2015/10/the-now-page.html#comments</comments>
-		<pubDate>Fri, 30 Oct 2015 15:46:26 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Weblogs]]></category>
-		<category><![CDATA[blogging]]></category>
-		<category><![CDATA[divers]]></category>
-		<category><![CDATA[microblog]]></category>
-		<category><![CDATA[now]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=3129</guid>
-		<description><![CDATA[Last week, Derek Sivers had a great idea. We&#8217;re constantly writing about the things we care about and whatever we&#8217;re working on, but the nature of blogs is that posts are always falling off the home page. There&#8217;s rarely a single place to get the tl;dr summary of what someone is working on. This idea [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Last week, Derek Sivers <a href="https://sivers.org/nowff">had a great idea</a>. We&#8217;re constantly writing about the things we care about and whatever we&#8217;re working on, but the nature of blogs is that posts are always falling off the home page. There&#8217;s rarely a single place to get the tl;dr summary of what someone is working on.</p>
-<p>This idea hit home for me last week at Release Notes when several people asked how to sign up on <a href="http://eepurl.com/6vVvj">my microblog project announcement list</a>. I&#8217;ve linked to it several times in blog posts, but I didn&#8217;t have an easy place to point people to without asking them to dig through the archives. A /now page is the perfect place for that kind of thing.</p>
-<p>Shawn Blanc <a href="https://shawnblanc.net/now">linked to his page</a> too, which reminded me to put my own /now page together. You can read mine here: <a href="http://www.manton.org/now">manton.org/now</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/10/the-now-page.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Medium.com updates</title>
-		<link>http://www.manton.org/2015/10/medium-com-updates.html</link>
-		<comments>http://www.manton.org/2015/10/medium-com-updates.html#comments</comments>
-		<pubDate>Thu, 29 Oct 2015 16:05:35 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Weblogs]]></category>
-		<category><![CDATA[blogging]]></category>
-		<category><![CDATA[davewiner]]></category>
-		<category><![CDATA[ev]]></category>
-		<category><![CDATA[medium]]></category>
-		<category><![CDATA[rss]]></category>
-		<category><![CDATA[titles]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=3117</guid>
-		<description><![CDATA[Ev Williams announced a batch of new Medium features recently: &#8220;There’s always another level. Another level of polish and power in our product. Another level of breadth to our content. Another level of dialogue and discussion. And another level of progress. Today, we are announcing a slew of updates to bring Medium to the next [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="https://medium.com/the-story/taking-medium-to-the-next-level-cb7f223fad86">Ev Williams announced</a> a batch of new Medium features recently:</p>
-<blockquote><p>
-  &#8220;There’s always another level. Another level of polish and power in our product. Another level of breadth to our content. Another level of dialogue and discussion. And another level of progress. Today, we are announcing a slew of updates to bring Medium to the next level and in the process make it more powerful, more fun, more democratic, and more essential.&#8221;
-</p></blockquote>
-<p>Those updates include new mobile apps, @-mention support, a publishing API, and editor improvements. There&#8217;s also a new logo. (I know they put a lot of thought into this, and it&#8217;s a strong idea, but to me the logo&#8217;s design is so clever it&#8217;s actually kind of distracting. A little more subtlety in how they&#8217;re using depth could improve future iterations.)</p>
-<p><a href="https://red-sweater.com/blog/3079/mediums-new-api">Daniel Jalkut blogs about</a> what&#8217;s included (and what&#8217;s left out) in Medium&#8217;s new API:</p>
-<blockquote><p>
-  &#8220;One of the most unique aspects to Medium’s API is the provision for specifying a <em>canonical URL</em> and <em>license</em> on a post being submitted to the service. The canonical URL refers to another web location that should be considered <em>the original</em>, or most authoritative version of a post, while the license designates whether the post’s copyright terms stipulate a post is sharable as public domain or under a particular Creative Commons license. These attributes together indicate that Medium expects and encourages users of the API to contribute content that is not intended to be exclusive to Medium.&#8221;
-</p></blockquote>
-<p>While <a href="http://www.manton.org/2015/09/evan-williams-on-indie-web-sites.html">I generally think</a> the trend to centralized writing platforms is bad for the web, I&#8217;m happy to see these changes from Medium, especially the API and expanding custom domain support. Medium has grown very slowly and carefully. I expect we&#8217;ll see quicker iteration on these new features now that they&#8217;re officially out.</p>
-<p>In the process of experimenting with Medium posting, <a href="http://scripting.com/2015/10/13/gettingInSyncWithMedium.html">Dave Winer shared his take on post title support</a>:</p>
-<blockquote><p>
-  &#8220;It seems they have arrived at what I think is the correct answer: posts can have titles or not, and the content system has to be prepared for either case. That&#8217;s where this blog was <a href="http://scripting.com/2015/10/07/iNeedABetterBloggingSystem.html">in 1999</a>, before other blogging tools and Google Reader pushed the world toward requiring titles. And then Twitter came along not having titles at all, and the intersection between all the kinds of blog-consuming environments became almost empty.&#8221;
-</p></blockquote>
-<p>I&#8217;m very interested in this because <a href="http://www.manton.org/2014/09/defining-a-microblog-post.html">microblogging shouldn&#8217;t include titles</a>. While Medium is mostly traditional essays, clearly comments don&#8217;t need titles, and Medium&#8217;s quick-posting UI encourages short posts. I hope this approach will get more RSS readers to gracefully handle title-less posts.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/10/medium-com-updates.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Marketing, mission, movement</title>
-		<link>http://www.manton.org/2015/08/marketing-mission-movement.html</link>
-		<comments>http://www.manton.org/2015/08/marketing-mission-movement.html#comments</comments>
-		<pubDate>Fri, 21 Aug 2015 14:10:33 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Business]]></category>
-		<category><![CDATA[blogging]]></category>
-		<category><![CDATA[community]]></category>
-		<category><![CDATA[marketing]]></category>
-		<category><![CDATA[snippets]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=2966</guid>
-		<description><![CDATA[As I was writing some documentation this week, I kept thinking about what makes great marketing copy. 37signals used to say that copywriting is a form of user interface design. That&#8217;s true but I think there&#8217;s more to it. The best products don&#8217;t just have marketing copy; they have a mission statement. They don&#8217;t just [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>As I was writing <a href="http://www.manton.org/2015/08/2959.html">some documentation</a> this week, I kept thinking about what makes great marketing copy. 37signals used to say that <a href="https://gettingreal.37signals.com/ch09_Copywriting_is_Interface_Design.php">copywriting is a form of user interface design</a>. That&#8217;s true but I think there&#8217;s more to it.</p>
-<p>The best products don&#8217;t just have marketing copy; they have a mission statement. They don&#8217;t just sell a tool; they sell a movement.</p>
-<p>When I stare at my product wondering if it&#8217;s too confusing — if it&#8217;s too different, and tries to do too many things, to be immediately understood by new users — I try to remind myself that it&#8217;s an opportunity. Instead of simply explaining what I&#8217;m doing, how can I pitch it in a way that strengthens a community around the idea. Because dozens of bloggers can spread the idea more quickly and in a more meaningful way than I can by myself.</p>
-<p>And unlike a one-way press release, a community is inherently two-way. Every mention of the idea is both marketing <em>and</em> feedback. Someone blogs about how they&#8217;re excited for the product, but also how they wish it had a certain missing feature. Someone in the press writes a review, but also with a pros and cons list.</p>
-<p>This cycle means the product gets better. And if we&#8217;re thoughtful in that first approach to marketing copy, then every blog post, review, and tweet that follows is laced with a little part of our mission statement.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/08/marketing-mission-movement.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Microblogging with Typed.com</title>
-		<link>http://www.manton.org/2015/07/microblogging-with-typed-com.html</link>
-		<comments>http://www.manton.org/2015/07/microblogging-with-typed-com.html#comments</comments>
-		<pubDate>Thu, 02 Jul 2015 21:05:03 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Weblogs]]></category>
-		<category><![CDATA[blogging]]></category>
-		<category><![CDATA[drafts]]></category>
-		<category><![CDATA[editorial]]></category>
-		<category><![CDATA[ios]]></category>
-		<category><![CDATA[microblogging]]></category>
-		<category><![CDATA[realmac]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=2808</guid>
-		<description><![CDATA[Dan Counsell wrote a long post this week about the planning and executing of Realmac’s crowdfunding campaign for Typed.com. It’s worth a read for the careful thought he put into it: “I spent two weeks planning and building the entire campaign. I started out with the video as I knew this would be a huge [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="http://dancounsell.com/articles/how-i-raised-120000-dollars-with-crowdfunding">Dan Counsell wrote a long post</a> this week about the planning and executing of Realmac’s crowdfunding campaign for Typed.com. It’s worth a read for the careful thought he put into it:</p>
-<blockquote><p>
-  “I spent two weeks planning and building the entire campaign. I started out with the video as I knew this would be a huge amount of work and to be honest, it was also something I wasn&#8217;t entirely comfortable with doing. Every popular campaign I looked at had a half-decent and engaging video. I did a lot of research and it turns out the flow of the video should be something like this: Introduce yourself, talk about the problem, move onto the solution that you&#8217;re building, and finally finishing up with a direct plea asking for pledges.”
-</p></blockquote>
-<p>The beta for Typed.com is well underway, and linked in Dan’s post is a support forum for users. <a href="http://community.realmacsoftware.com/t/first-impressions/13/21">This post by Realmac designer Elliot Jackson</a> especially caught my eye:</p>
-<blockquote><p>
-  “We don’t have an API yet but this is something I’ve been enjoying playing with for shorter posts. My workaround is to send the content over a URL then decode it and use JS in the browser to fill in the form elements (tags etc).”
-</p></blockquote>
-<p>He details a way to send short microblog posts to Typed.com by using Drafts and Editorial. Check out the full post for his JavaScript and Python scripts linking these apps together on iOS. I’m really looking forward to Typed.com’s official launch.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/07/microblogging-with-typed-com.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Ephemeral blogging</title>
-		<link>http://www.manton.org/2015/03/ephemeral-blogging.html</link>
-		<comments>http://www.manton.org/2015/03/ephemeral-blogging.html#comments</comments>
-		<pubDate>Mon, 30 Mar 2015 16:09:57 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Weblogs]]></category>
-		<category><![CDATA[blogging]]></category>
-		<category><![CDATA[myword]]></category>
-		<category><![CDATA[permalinks]]></category>
-		<category><![CDATA[snippets]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=2511</guid>
-		<description><![CDATA[Thomas Brand has changed his blog to let short link-style posts essentially expire off his site, with no permanent archive: &#8220;For the last five months I have been practicing a new way of blogging. Articles of reference receive a permalink with a link on my homepage and a link in my RSS feed. Quotations and [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="http://eggfreckles.net">Thomas Brand has changed his blog</a> to let short link-style posts essentially expire off his site, with no permanent archive:</p>
-<blockquote><p>
-  &#8220;For the last five months I have been practicing a new way of blogging. Articles of reference receive a permalink with a link on my homepage and a link in my RSS feed. Quotations and comments are displayed in full on the homepage and in the RSS feed, but do not receive a permalink of their own. As I write, older quotations and comments are pushed down the homepage and lost from the site forever.&#8221;
-</p></blockquote>
-<p>And since that post may go away, I’ll quote a little bit more:</p>
-<blockquote><p>
-  “I feel like disposable blogging lends itself to a more carefree publication, not only for me but my audience as well. When you pick up a magazine, you don&#8217;t expect to have access to every back issue.”
-</p></blockquote>
-<p>Meanwhile, <a href="http://scripting.com/2015/03/28/silofreeIsNotEnough.html">Dave Winer has been working on</a> his own new blogging platform:</p>
-<blockquote><p>
-  &#8220;There haven&#8217;t been new features in blogging in a long time. Where&#8217;s the excitement? It looks to me like there&#8217;s been no effort made to factor the user interface, to simplify and group functionality so the first-time user isn&#8217;t confronted with the full feature set, left on his or her own to figure out where to go to create a new post or edit an existing one.&#8221;
-</p></blockquote>
-<p>I think the next 5 years of blogging are going to be a lot more varied than the previous 5 years. Medium-style UIs, Twitter-like microblogs, and of course traditional WordPress blogs, plus the work Dave is doing and whatever else people build as blogging takes off again. I&#8217;m looking forward to shipping an app that contributes something to all of this, too.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/03/ephemeral-blogging.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Core Intuition with Brent Simmons</title>
-		<link>http://www.manton.org/2014/10/core-intuition-with-brent-simmons.html</link>
-		<comments>http://www.manton.org/2014/10/core-intuition-with-brent-simmons.html#comments</comments>
-		<pubDate>Fri, 24 Oct 2014 13:03:34 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Podcasts]]></category>
-		<category><![CDATA[blogging]]></category>
-		<category><![CDATA[brent]]></category>
-		<category><![CDATA[coreint]]></category>
-		<category><![CDATA[seattle]]></category>
-		<category><![CDATA[web]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=2351.html</guid>
-		<description><![CDATA[Daniel and I welcomed Brent Simmons on the Core Intuition podcast this week. Here&#8217;s Brent on writing and the web as a guarantee of free speech: &#8220;The old web where I feel like more people saw the web as what I was talking about: as a unique and amazing invention in human history, a thing [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Daniel and I welcomed <a href="http://inessential.com/">Brent Simmons</a> on the <a href="http://coreint.org/160">Core Intuition podcast this week</a>. Here&#8217;s Brent on writing and the web as a guarantee of free speech:</p>
-<blockquote><p>
-  &#8220;The old web where I feel like more people saw the web as what I was talking about: as a unique and amazing invention in human history, a thing that can bring the 6 billion voices out into the open, to tell their stories and say what they&#8217;re going to say. That this thing is really something special, and it shouldn&#8217;t just be treated as a way for monetizing eyeballs and figuring out great new advances in interstitial ads. [&#8230;] We can&#8217;t lose sight of the opportunity this is. And if the story really is that the web exploded in the mid 90s and became a wonderful thing, and then stopped being that wonderful thing a little more than 20 years later&#8230; Then I couldn&#8217;t even bear that heartbreak.&#8221;
-</p></blockquote>
-<p>Hope you all enjoy the episode. It was great to have Brent on the show.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/10/core-intuition-with-brent-simmons.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>The unremarkable yesterday</title>
-		<link>http://www.manton.org/2014/10/the-unremarkable-yesterday.html</link>
-		<comments>http://www.manton.org/2014/10/the-unremarkable-yesterday.html#comments</comments>
-		<pubDate>Thu, 09 Oct 2014 14:56:54 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Weblogs]]></category>
-		<category><![CDATA[blogging]]></category>
-		<category><![CDATA[journal]]></category>
-		<category><![CDATA[snippets]]></category>
-		<category><![CDATA[twitter]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=2328.html</guid>
-		<description><![CDATA[Yesterday you had lunch with friends or family and posted a photo of your food and location to Twitter. It didn&#8217;t matter much. You put it on Twitter and didn&#8217;t care that you didn&#8217;t have a copy or didn&#8217;t post it to your own blog first, because controlling that trivial bit of content just didn&#8217;t [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Yesterday you had lunch with friends or family and posted a photo of your food and location to Twitter. It didn&#8217;t matter much. You put it on Twitter and didn&#8217;t care that you didn&#8217;t <a href="http://appstore.com/tweetlibrary">have a copy</a> or didn&#8217;t post it to your own blog first, because controlling that trivial bit of content just didn&#8217;t seem important at the time.</p>
-<p>5 years later, 10 years later, 15 years later. That lunch is magic now — a captured moment, something you wouldn&#8217;t remember and didn&#8217;t think to record elsewhere unless you keep a comprehensive private journal. Maybe it was the day before a significant event or on a trip. The true context is only revealed with hindsight.</p>
-<p>I wrote this blog post because I wanted to follow up on <a href="http://www.manton.org/2014/10/blogging-every-day.html">my post about blogging every day</a>, underscoring that seemingly unimportant events can carry great meaning later. Those common everyday activities that don&#8217;t seem noteworthy today? <em>That&#8217;s our life.</em> One after another, strung together for days and then years until we die. It&#8217;s the culture of the 21st century scattered among millions of micro posts. And it&#8217;ll be lost to time if we don&#8217;t curate it.</p>
-<p>Yesterday was unremarkable only because we&#8217;re too close to it. Later we&#8217;ll understand that it meant everything. And if that&#8217;s true, let&#8217;s aspire to something greater than our content being sliced up and interspersed with ads on someone else&#8217;s platform.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/10/the-unremarkable-yesterday.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Blogging every day</title>
-		<link>http://www.manton.org/2014/10/blogging-every-day.html</link>
-		<comments>http://www.manton.org/2014/10/blogging-every-day.html#comments</comments>
-		<pubDate>Mon, 06 Oct 2014 14:28:27 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Weblogs]]></category>
-		<category><![CDATA[blogging]]></category>
-		<category><![CDATA[microblog]]></category>
-		<category><![CDATA[snippets]]></category>
-		<category><![CDATA[twitter]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=2309.html</guid>
-		<description><![CDATA[Matt Mullenweg on being challenged to blog every day: &#8220;I thought blogging every day would be a burden, but it actually became a great source of joy. It was more a shift in mindset than anything — every day I read things I think are interesting, share links with friends, have thoughts that are 80% [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Matt Mullenweg on <a href="http://ma.tt/2014/10/streak/">being challenged to blog every day</a>:</p>
-<blockquote><p>
-  &#8220;I thought blogging every day would be a burden, but it actually became a great source of joy. It was more a shift in mindset than anything — every day I read things I think are interesting, share links with friends, have thoughts that are 80% of a blog post, and write a ton privately, it was just a matter of catching those moments and turning them into something that was shared with the world.&#8221;
-</p></blockquote>
-<p>Whenever I get out of the habit of writing daily, it creates friction to get anything published. When you post every day, there&#8217;s no expectation that all posts have to be great. But when you wait too long, there&#8217;s an increasing feeling that the next post has to be perfect.</p>
-<p>Tools that make writing effortless — like Twitter&#8217;s limited, fast UI — should be part of the next generation of blogging software. I think that&#8217;s going to be around microblogs. Just because traditional blogs initially failed to embrace microblogging doesn&#8217;t mean we can&#8217;t take that format back with better server apps and clients.</p>
-<p>When people first started paying attention to Twitter, the criticism was that no one cared &#8220;what you had for breakfast&#8221;. But if you look at some of my earliest posts on this weblog, many are equally trivial. What appears unremarkable today — the first lunch you had with co-workers at a brand new job, the stop at REI to get a tent for an upcoming family campout, the missed flight on the way to a great conference — might carry important meaning in later years, looking back. It hurts the web to keep that <a href="http://scripting.com/2014/09/28/myManifestoForWebWriting.html">locked in a silo</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/10/blogging-every-day.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Journals</title>
-		<link>http://www.manton.org/2012/07/journals.html</link>
-		<comments>http://www.manton.org/2012/07/journals.html#comments</comments>
-		<pubDate>Fri, 27 Jul 2012 17:58:48 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Books]]></category>
-		<category><![CDATA[blogging]]></category>
-		<category><![CDATA[books]]></category>
-		<category><![CDATA[journals]]></category>
-		<category><![CDATA[kids]]></category>
-		<category><![CDATA[life]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2012/07/journals.html</guid>
-		<description><![CDATA[Steve Corona on keeping a journal: “And for the past 1091 days, I’ve been journaling every single day — that’s about 3 years or 12% of my entire life. My only regret? I wish I started sooner.” When I was younger, I had tried off and on to keep a sketchbook or journal, but it [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Steve Corona <a href="http://stevecorona.com/on-keeping-a-journal">on keeping a journal</a>:</p>
-<blockquote><p>
-  “And for the past 1091 days, I’ve been journaling every single day — that’s about 3 years or 12% of my entire life. My only regret? I wish I started sooner.”
-</p></blockquote>
-<p>When I was younger, I had tried off and on to keep a sketchbook or journal, but it never quite stuck. Like blogging, or writing, or drawing, or anything you aren&#8217;t paid to do, it takes setting a routine. There&#8217;s always something more important to do.</p>
-<p><a href="http://instagr.am/p/Kf0zpaCbwH/"><img src="http://distilleryimage7.s3.amazonaws.com/5931b2b29b9b11e1abb012313813106f_7.jpg" width="150" height="150" align="right" style="border: 1px solid darkgray; margin: 8px;" alt="journals" /></a> Then in 1998, I started a journal again with a renewed commitment. I filled a book from that day up until I got married. Then another book through when my daughters were born. Another for the first 10 years of their life, and my son&#8217;s. The travel, the big life moments, the election, the work. It&#8217;s not everything — sometimes the entries are every day and sometimes months go by with nothing — but it&#8217;s the stuff that matters, and the snapshots in time of little everyday things too.</p>
-<p>I would be devastated to lose these books. Open the pages and it rolls back the years like a time machine, to a previous life full of small details that are priceless today. I&#8217;m writing the books half for my terrible fading memory, and half for my children, who will only care what these years have been like when it&#8217;s too late to ask me.</p>
-<p>So I&#8217;ve recently started transcribing the handwritten entries into digital form. One page at a time, into <a href="http://dayoneapp.com/">Day One</a>, then exported as plain text. It&#8217;s a long and tedious process, but multiple copies are the only sure way to make something last.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2012/07/journals.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 2.889 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-01-06 13:18:18 -->
+<!-- Dynamic page generated in 0.357 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-04-14 14:57:49 -->

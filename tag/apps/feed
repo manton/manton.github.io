@@ -12,12 +12,36 @@
 	<atom:link href="http://www.manton.org/tag/apps/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Wed, 06 Jan 2016 17:11:57 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<generator>http://wordpress.org/?v=4.3.3</generator>
 	<item>
+		<title>Lightweight universal apps</title>
+		<link>http://www.manton.org/2016/01/lightweight-universal-apps.html</link>
+		<comments>http://www.manton.org/2016/01/lightweight-universal-apps.html#comments</comments>
+		<pubDate>Sun, 17 Jan 2016 14:35:12 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[apps]]></category>
+		<category><![CDATA[ipad]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[iphone6s]]></category>
+		<category><![CDATA[universal]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3388</guid>
+		<description><![CDATA[When the iPad first shipped, many developers embraced completely separate apps for iPhone and iPad. The argument was that they were different platforms and deserved special design attention (and separate revenue). I never bought this argument, and eventually — with the iPhone 6 Plus and multiple screen sizes — everyone agreed that it just made [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>When the iPad first shipped, many developers embraced completely separate apps for iPhone and iPad. The argument was that they were different platforms and deserved special design attention (and separate revenue). I never bought this argument, and eventually — with the iPhone 6 Plus and multiple screen sizes — everyone agreed that it just made more sense to use universal apps.</p>
+<p>At the same time, there&#8217;s a parallel argument that an app on the iPad shouldn&#8217;t just be a &#8220;scaled up&#8221; version of the iPhone. That if you can&#8217;t invest the time to do a universal app properly, don&#8217;t bother.</p>
+<p>The redesigned Twitter iOS app was a great example of this. <a href="https://www.macstories.net/news/twitter-aims-to-unify-ios-apps-updates-its-ipad-app/">It was widely mocked</a> for it&#8217;s poor use of space on the iPad.</p>
+<p>With the iPad Pro and widespread iPad multitasking, I think this changes again. An iPad app that is designed exactly the same as its iPhone version is still very useful in slide-over and split screen. In fact, for many &#8220;iPad&#8221; apps I use every day on the iPad Pro, I use them in their compact layout <em>more often</em> than full screen.</p>
+<p>My next app was designed for the iPhone. I spent some time trying to rework it with split views for the iPad Pro, but I just can&#8217;t justify the work right now to finish that effort. I&#8217;m going to ship it as a &#8220;lightweight&#8221; universal app anyway, though, so that it&#8217;s available in slide-over. To me, that&#8217;s a worthwhile compromise, significantly better than no offering on the iPad at all.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/01/lightweight-universal-apps.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>A great developer can come from anywhere</title>
 		<link>http://www.manton.org/2015/10/a-great-developer-can-come-from-anywhere.html</link>
 		<comments>http://www.manton.org/2015/10/a-great-developer-can-come-from-anywhere.html#comments</comments>
@@ -322,29 +346,8 @@
 			<wfw:commentRss>http://www.manton.org/2011/04/appsterdam.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
-		<item>
-		<title>Buy apps, help Japan</title>
-		<link>http://www.manton.org/2011/03/buy_apps_help.html</link>
-		<comments>http://www.manton.org/2011/03/buy_apps_help.html#comments</comments>
-		<pubDate>Tue, 29 Mar 2011 06:35:35 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Personal]]></category>
-		<category><![CDATA[apps]]></category>
-		<category><![CDATA[earthquake]]></category>
-		<category><![CDATA[japan]]></category>
-		<category><![CDATA[tsunami]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2011/03/buy_apps_help.html</guid>
-		<description><![CDATA[From a &#8220;beautiful post by Craig Mod&#8221;:http://craigmod.com/satellite/nourishing_wake/: &#8220;I pulled all of the poison out of the air &#8212; I drew it deep into my lungs and exhaled into my socks. My socks are full of the radiation, don&#8217;t touch the socks. I pulled the tsunami back. I drew the inland water back into the ocean. [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>From a &#8220;beautiful post by Craig Mod&#8221;:http://craigmod.com/satellite/nourishing_wake/:</p>
-<blockquote><p>&#8220;I pulled all of the poison out of the air &mdash; I drew it deep into my lungs and exhaled into my socks. My socks are full of the radiation, don&#8217;t touch the socks. I pulled the tsunami back. I drew the inland water back into the ocean. I pulled it over the rice paddies, unflattening them; the trees, straightening them &mdash; a billion billion leaves fluttering back into position. I drew the water back, back, back. It was easy because it was what I had to do, I tell her looking her straight in the eyes. Perhaps you don&#8217;t understand, but I had to.&#8221;</p></blockquote>
-<p>Check out &#8220;appappeal.jp&#8221;:http://appappeal.jp/ for a collection of apps that are donating their profits to the Japanese Red Cross Society. Buy a few. And don&#8217;t forget &#8220;Developers Against Poverty&#8221;:http://developersagainstpoverty.org/, which needs your donations before the end of the month.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2011/03/buy_apps_help.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 2.844 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-01-06 13:17:18 -->
+<!-- Dynamic page generated in 0.350 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-04-14 14:59:45 -->

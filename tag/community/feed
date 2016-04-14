@@ -12,12 +12,45 @@
 	<atom:link href="http://www.manton.org/tag/community/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Wed, 06 Jan 2016 17:11:57 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<generator>http://wordpress.org/?v=4.3.3</generator>
 	<item>
+		<title>Time to rethink blog comments</title>
+		<link>http://www.manton.org/2016/03/time-to-rethink-blog-comments.html</link>
+		<comments>http://www.manton.org/2016/03/time-to-rethink-blog-comments.html#comments</comments>
+		<pubDate>Thu, 24 Mar 2016 18:24:00 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[civilcomments]]></category>
+		<category><![CDATA[comments]]></category>
+		<category><![CDATA[community]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[webmention]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3769</guid>
+		<description><![CDATA[Twitter has lost some of what made it special for communities 5 years ago. I&#8217;ve noticed a few trends: Twitter’s 140-character limit and easy retweeting encourage and amplify negative tweets. Sincerity is less common. Everything is an opportunity for a joke. Widely followed, long-time Twitter users don’t find the joy they used to when interacting [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Twitter has lost some of what made it special for communities 5 years ago. I&#8217;ve noticed a few trends:</p>
+<ul>
+<li>Twitter’s 140-character limit and easy retweeting encourage and amplify negative tweets. Sincerity is less common. Everything is an opportunity for a joke.</li>
+<li>Widely followed, long-time Twitter users don’t find the joy they used to when interacting with followers. Some have retreated to private Slack channels, at the cost of public discussion and approachability.</li>
+<li>Developers have never completely forgiven Twitter for crippling the API. This doesn’t directly impact most users anymore, but it’s a backdrop that gives every new Twitter feature a tone of distrust. Progress is slow.</li>
+</ul>
+<p>Meanwhile, blog comments have slowly been killed off over that same period. The rise of social networks, combined with the technical problems of fighting blog comment spam, pushed most bloggers to prefer answering questions on Twitter.</p>
+<p><a href="http://beckyhansmeyer.com/2016/03/07/follow-up-the-nuances-of-online-discussion/">Becky Hansmeyer writes about</a> the intersection of these problems — that some Twitter users avoid public discussion, but most blogs no longer have comments to fall back on — by pointing to <a href="http://blog.bellebethcooper.com/online-relationships.html">a post from Belle Beth Cooper</a>:</p>
+<blockquote><p>
+  “Belle’s post really resonated with me because it reminded me of something I think about a lot: when an ever-increasing number of blogs and media outlets are disabling comment sections, where do decent, thoughtful people bring their discussions? I only offer readers one way to contact me on this site, and it’s via Twitter. But what if, like Belle, you no longer use Twitter (or never did in the first place)?”
+</p></blockquote>
+<p>We didn’t realized how much we lost when we turned our backs on blog comments years ago. Just look at <a href="https://red-sweater.com/blog/181/the-cocoa-carbon-advantage#comments">one of Daniel Jalkut&#8217;s blog posts from 10 years ago</a>, which he and I discuss on an upcoming episode of Core Intuition. 53 comments! And they&#8217;re all preserved along with the original content. That&#8217;s difficult to do when comments are spread across Twitter and easily lost.</p>
+<p>It’s time to take what we’ve since learned from social networks and apply it the openness of cross-site replies. That’s why I want to support <a href="https://indiewebcamp.com/Webmention">Webmention</a>. As Becky mentions, <a href="https://www.civilcomments.com/">Civil Comments</a> look great too. I think we can encourage both in parallel: distributed comments like Webmention for sites that can support it <em>and</em> better centralized comments like Civil.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/03/time-to-rethink-blog-comments.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Marketing, mission, movement</title>
 		<link>http://www.manton.org/2015/08/marketing-mission-movement.html</link>
 		<comments>http://www.manton.org/2015/08/marketing-mission-movement.html#comments</comments>
@@ -92,5 +125,5 @@
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 2.424 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-01-06 13:31:05 -->
+<!-- Dynamic page generated in 0.296 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-04-14 15:00:55 -->

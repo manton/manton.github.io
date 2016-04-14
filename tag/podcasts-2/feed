@@ -12,12 +12,33 @@
 	<atom:link href="http://www.manton.org/tag/podcasts-2/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Wed, 06 Jan 2016 17:11:57 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<generator>http://wordpress.org/?v=4.3.3</generator>
 	<item>
+		<title>New podcast: Timetable</title>
+		<link>http://www.manton.org/2016/01/new-podcast-timetable.html</link>
+		<comments>http://www.manton.org/2016/01/new-podcast-timetable.html#comments</comments>
+		<pubDate>Mon, 11 Jan 2016 21:34:12 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[microblog]]></category>
+		<category><![CDATA[microcast]]></category>
+		<category><![CDATA[podcasts]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3350</guid>
+		<description><![CDATA[I&#8217;m launching a new podcast today. For a while I&#8217;ve felt like there could be something interesting in a very short podcast, where I talk a little about what I&#8217;m working on or thinking about throughout the week. Each episode is going to be just 3-5 minutes. It&#8217;s called Timetable. I&#8217;ve published 3 episodes, and [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;m launching a new podcast today. For a while I&#8217;ve felt like there could be something interesting in a very short podcast, where I talk a little about what I&#8217;m working on or thinking about throughout the week. Each episode is going to be just 3-5 minutes.</p>
+<p>It&#8217;s called <a href="http://timetable.manton.org/">Timetable</a>. I&#8217;ve published 3 episodes, and have a 4th that will go out later today. I think of it as a &#8220;microcast&#8221;, complementing the informal nature of my microblog posts. And just as I have longer essays on my weblog, of course I&#8217;ll continue to explore larger topics for indie Mac and iOS developers on <a href="http://coreint.org/">Core Intuition</a> with Daniel Jalkut.</p>
+<p>If you check it out, let me know what you think at <a href="mailto:manton@manton.org">manton@manton.org</a>. Thanks!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/01/new-podcast-timetable.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>WordPress podcast and Calypso</title>
 		<link>http://www.manton.org/2015/12/wordpress-podcast-and-calypso.html</link>
 		<comments>http://www.manton.org/2015/12/wordpress-podcast-and-calypso.html#comments</comments>
@@ -221,33 +242,8 @@
 			<wfw:commentRss>http://www.manton.org/2009/01/core_intuition_12.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
-		<item>
-		<title>Animation podcasts for a Super Tuesday</title>
-		<link>http://www.manton.org/2008/02/animation_podcasts_for.html</link>
-		<comments>http://www.manton.org/2008/02/animation_podcasts_for.html#comments</comments>
-		<pubDate>Tue, 05 Feb 2008 14:51:37 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Animation]]></category>
-		<category><![CDATA[Politics]]></category>
-		<category><![CDATA[animation]]></category>
-		<category><![CDATA[baxter]]></category>
-		<category><![CDATA[catmull]]></category>
-		<category><![CDATA[election]]></category>
-		<category><![CDATA[podcasts]]></category>
-		<category><![CDATA[politics]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2008/02/animation_podcasts_for.html</guid>
-		<description><![CDATA[Need something to listen to on your iPod while waiting in line to vote today? Try out these fantastic recent episodes of two of my favorite podcasts for animators and animation fans. &#8220;Spline Cast with Ed Catmull&#8221;:http://splinedoctors.blogspot.com/2007/11/original-spline-doctor.html. I&#8217;ll be honest, I&#8217;ve followed the careers of John Lasseter and Steve Jobs a lot closer than I [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Need something to listen to on your iPod while waiting in line to vote today? Try out these fantastic recent episodes of two of my favorite podcasts for animators and animation fans.</p>
-<p>&#8220;Spline Cast with Ed Catmull&#8221;:http://splinedoctors.blogspot.com/2007/11/original-spline-doctor.html. I&#8217;ll be honest, I&#8217;ve followed the careers of John Lasseter and Steve Jobs a lot closer than I have for Ed Catmull, but this podcast shows pretty clearly the depth of impact Ed Catmull has had on the computer industry and the Pixar culture. It&#8217;s a great listen not just for anyone who cares about animation, but also for entrepreneurs who want a look into how you stay successful year after year.</p>
-<p>&#8220;Animation Podcast with James Baxter&#8221;:http://animationpodcast.com/archives/2008/02/04/james-baxter-part-one/. There are many great animators, from well known independents who receive Oscar recognition to those who work 12-hour days in relative obscurity at a big studio, but there are only a handful of true masters of the art form. Baxter is one of my favorites. The powerful sequence with Moses and the burning bush and the mannerism of Belle fixing her hair were both always really memorable for me.</p>
-<p>Enjoy! Happy Super Tuesday.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2008/02/animation_podcasts_for.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 1.836 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-01-06 13:16:10 -->
+<!-- Dynamic page generated in 0.348 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-04-14 14:59:25 -->

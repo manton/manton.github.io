@@ -12,12 +12,44 @@
 	<atom:link href="http://www.manton.org/category/politics/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Wed, 06 Jan 2016 17:11:57 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<generator>http://wordpress.org/?v=4.3.3</generator>
 	<item>
+		<title>I&#8217;m supporting Hillary, again</title>
+		<link>http://www.manton.org/2016/02/im-supporting-hillary-again.html</link>
+		<comments>http://www.manton.org/2016/02/im-supporting-hillary-again.html#comments</comments>
+		<pubDate>Mon, 01 Feb 2016 16:39:44 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Politics]]></category>
+		<category><![CDATA[bernie]]></category>
+		<category><![CDATA[clinton]]></category>
+		<category><![CDATA[election]]></category>
+		<category><![CDATA[hillary]]></category>
+		<category><![CDATA[sanders]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3471</guid>
+		<description><![CDATA[As Iowa kicks off the election today, I thought I’d offer my 2 cents on the campaign. I&#8217;m a strong Hillary Clinton supporter. Dave Winer writes that Hillary is what we need right now in terms of projecting a stable image to the rest of the world: “At this moment, we need a solid hitter, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>As Iowa kicks off the election today, I thought I’d offer my 2 cents on the campaign. I&#8217;m a strong Hillary Clinton supporter.</p>
+<p><a href="http://scripting.com/liveblog/users/davewiner/2016/01/30/0958.html">Dave Winer writes</a> that Hillary is what we need right now in terms of projecting a stable image to the rest of the world:</p>
+<blockquote><p>
+  “At this moment, we need a solid hitter, someone who the rest of the world is comfortable with, and who a deeply injured Republican Party can work with.”
+</p></blockquote>
+<p>It&#8217;s great to see the passionate Bernie Sanders supporters, too. I was fired up for Howard Dean in 2004, so I remember what that excitement is like. But I believe Hillary would be a great president.</p>
+<p>Eight years ago I put together a short podcast episode about the campaign, trying to capture something from 2008. You can <a href="http://www.manton.org/2008/02/hillary_podcast.html">listen to it here</a>. My daughters — who were 7 years old at the time — make an appearance at the end of the episode. Now, of course, they’re 15, and the weight of time passing couldn&#8217;t be more clearly felt.</p>
+<p>There&#8217;s a good line from Hillary in one of the first Democratic debates in 2015:</p>
+<blockquote><p>
+  &#8220;I&#8217;m a progressive. But I&#8217;m a progressive who likes to get things done.”
+</p></blockquote>
+<p>I think that sums up what we can expect from a Hillary Clinton presidency. I have no idea what a Bernie Sanders presidency would look like — what it would accomplish — and I&#8217;m not sure he does either. My concern isn’t in the ideas, but in the execution against a politically calculating, Republican congress.</p>
+<p>Bernie and Hillary share something in a fighting attitude, though. Neither candidate will let the Republicans walk over them. If you don’t think Hillary’s got this, re-watch <a href="http://www.c-span.org/video/?280557-17/senator-hillary-clinton-2008-convention-speech">her speech at the 2008 Democratic National Convention</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/02/im-supporting-hillary-again.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Paul Krugman on the triumph for Obamacare</title>
 		<link>http://www.manton.org/2015/06/paul-krugman-on-the-triumph-for-obamacare.html</link>
 		<comments>http://www.manton.org/2015/06/paul-krugman-on-the-triumph-for-obamacare.html#comments</comments>
@@ -239,31 +271,8 @@
 			<wfw:commentRss>http://www.manton.org/2006/11/midterm_elections_matter.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
-		<item>
-		<title>Five years later</title>
-		<link>http://www.manton.org/2006/09/five_years_later.html</link>
-		<comments>http://www.manton.org/2006/09/five_years_later.html#comments</comments>
-		<pubDate>Tue, 12 Sep 2006 03:49:30 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Politics]]></category>
-		<category><![CDATA[bush]]></category>
-		<category><![CDATA[election]]></category>
-		<category><![CDATA[hussein]]></category>
-		<category><![CDATA[iraq]]></category>
-		<category><![CDATA[september11]]></category>
-		<category><![CDATA[zarqawi]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2006/09/five_years_later.html</guid>
-		<description><![CDATA[I couldn&#8217;t let the 5th anniversary of September 11th pass without saying something. On Friday &#8220;the Senate intelligence committee released a report&#8221;:http://www.nytimes.com/2006/09/08/washington/09intelcnd.html showing that there was no link between Saddam Hussein and 9/11. That isn&#8217;t news. What is news is the details: that Saddam actually distrusted Al Qaeda and tried to capture Zarqawi. The simple [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>I couldn&#8217;t let the 5th anniversary of September 11th pass without saying something. On Friday &#8220;the Senate intelligence committee released a report&#8221;:http://www.nytimes.com/2006/09/08/washington/09intelcnd.html showing that there was no link between Saddam Hussein and 9/11. That isn&#8217;t news. What is news is the details: that Saddam actually <em>distrusted</em> Al Qaeda and tried to <em>capture</em> Zarqawi. The simple truth is that terrorist organizations are a threat to any government, even ones we have disagreements with.</p>
-<p>If that doesn&#8217;t make you sick, here&#8217;s another one that I haven&#8217;t heard mentioned yet. Sometime next year the number of U.S. soldiers killed in Iraq will <em>surpass the civilian deaths on September 11th</em>. (September 11th = 2973, Iraq as of today = 2661)</p>
-<p>The level of incompetence in our President, Cheney, Rumsfeld, and their advisors reaches new heights. What can we do? Five years ago we were uneducated and scared, and even two years later we could easily be led by fear alone. Now, just stay angry. Change starts in November.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2006/09/five_years_later.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 2.363 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-01-06 12:54:51 -->
+<!-- Dynamic page generated in 0.334 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-04-14 14:03:49 -->

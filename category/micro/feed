@@ -12,163 +12,170 @@
 	<atom:link href="http://www.manton.org/category/micro/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Wed, 06 Jan 2016 17:11:57 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<generator>http://wordpress.org/?v=4.3.3</generator>
 	<item>
 		<title></title>
-		<link>http://www.manton.org/2016/01/3323.html</link>
-		<comments>http://www.manton.org/2016/01/3323.html#comments</comments>
-		<pubDate>Wed, 06 Jan 2016 17:11:57 +0000</pubDate>
+		<link>http://www.manton.org/2016/04/3865.html</link>
+		<comments>http://www.manton.org/2016/04/3865.html#comments</comments>
+		<pubDate>Thu, 14 Apr 2016 16:32:25 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Snippets]]></category>
+		<category><![CDATA[newlibraries]]></category>
 
-		<guid isPermaLink="false">http://www.manton.org/?p=3323</guid>
-		<description><![CDATA[Not a good start to the day. I&#8217;ve been preoccupied and frustrated by this Twitter 10k news, which I&#8217;ll blog more about later. Also had a dentist appointment.]]></description>
-				<content:encoded><![CDATA[<p>Not a good start to the day. I&#8217;ve been preoccupied and frustrated by this <a href="http://www.manton.org/2016/01/twitters-10k-limit.html">Twitter 10k news</a>, which I&#8217;ll blog more about later. Also had a dentist appointment.</p>
+		<guid isPermaLink="false">http://www.manton.org/2016/04/3865.html</guid>
+		<description><![CDATA[My commute to find new libraries is getting a little ridiculous. This morning I&#8217;m south at Pleasant Hill Branch. A shame these nice windows overlook a busy street and gas station.]]></description>
+				<content:encoded><![CDATA[<p>My commute to find new libraries is getting a little ridiculous. This morning I&#8217;m south at <a href="http://library.austintexas.gov/pleasant-hill-branch">Pleasant Hill Branch</a>. A shame these nice windows overlook a busy street and gas station.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/01/3323.html/feed</wfw:commentRss>
+			<wfw:commentRss>http://www.manton.org/2016/04/3865.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title></title>
-		<link>http://www.manton.org/2016/01/3316.html</link>
-		<comments>http://www.manton.org/2016/01/3316.html#comments</comments>
-		<pubDate>Tue, 05 Jan 2016 16:49:15 +0000</pubDate>
+		<link>http://www.manton.org/2016/04/3863.html</link>
+		<comments>http://www.manton.org/2016/04/3863.html#comments</comments>
+		<pubDate>Thu, 14 Apr 2016 14:46:28 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Snippets]]></category>
 
-		<guid isPermaLink="false">http://www.manton.org/?p=3316</guid>
-		<description><![CDATA[Created a new WordPress blog for something today. Going to be tinkering with it throughout the week until it feels ready to launch.]]></description>
-				<content:encoded><![CDATA[<p>Created a new WordPress blog for something today. Going to be tinkering with it throughout the week until it feels ready to launch.</p>
+		<guid isPermaLink="false">http://www.manton.org/?p=3863</guid>
+		<description><![CDATA[Finally working on a project that is all Swift and storyboards, which I&#8217;ve long ignored. Feel like I&#8217;m relearning iOS development.]]></description>
+				<content:encoded><![CDATA[<p>Finally working on a project that is all Swift and storyboards, which I&#8217;ve long ignored. Feel like I&#8217;m relearning iOS development.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/01/3316.html/feed</wfw:commentRss>
+			<wfw:commentRss>http://www.manton.org/2016/04/3863.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title></title>
-		<link>http://www.manton.org/2016/01/3314.html</link>
-		<comments>http://www.manton.org/2016/01/3314.html#comments</comments>
-		<pubDate>Tue, 05 Jan 2016 16:00:00 +0000</pubDate>
+		<link>http://www.manton.org/2016/04/3861.html</link>
+		<comments>http://www.manton.org/2016/04/3861.html#comments</comments>
+		<pubDate>Thu, 14 Apr 2016 05:10:48 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Snippets]]></category>
 
-		<guid isPermaLink="false">http://www.manton.org/?p=3314</guid>
-		<description><![CDATA[Switched to only drinking tea over the holidays. Today&#8217;s the first day with the kids back to school — in theory I have the whole day to work uninterrupted — so made myself an iced coffee to get started. Maybe coffee will be a weekly instead of daily thing for me going forward.]]></description>
-				<content:encoded><![CDATA[<p>Switched to only drinking tea over the holidays. Today&#8217;s the first day with the kids back to school — in theory I have the whole day to work uninterrupted — so made myself an iced coffee to get started. Maybe coffee will be a weekly instead of daily thing for me going forward.</p>
+		<guid isPermaLink="false">http://www.manton.org/?p=3861</guid>
+		<description><![CDATA[Switching back and forth between a few NBA games on an amazing night for basketball. Curry hits his 400th 3-pointer, Warriors reach 73 wins, and Kobe puts up 60 points for his final game. (Oh, and the Spurs rest 6 players and win anyway.)]]></description>
+				<content:encoded><![CDATA[<p>Switching back and forth between a few NBA games on an amazing night for basketball. Curry hits his 400th 3-pointer, Warriors reach 73 wins, and Kobe puts up 60 points for his final game. (Oh, and the Spurs rest 6 players and win anyway.)</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/01/3314.html/feed</wfw:commentRss>
+			<wfw:commentRss>http://www.manton.org/2016/04/3861.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title></title>
-		<link>http://www.manton.org/2016/01/3307.html</link>
-		<comments>http://www.manton.org/2016/01/3307.html#comments</comments>
-		<pubDate>Mon, 04 Jan 2016 17:53:07 +0000</pubDate>
+		<link>http://www.manton.org/2016/04/3856.html</link>
+		<comments>http://www.manton.org/2016/04/3856.html#comments</comments>
+		<pubDate>Wed, 13 Apr 2016 16:52:19 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Snippets]]></category>
+		<category><![CDATA[newlibraries]]></category>
 
-		<guid isPermaLink="false">http://www.manton.org/?p=3307</guid>
-		<description><![CDATA[Noticed that LongPosts.com is gone. I only had one meaningful post there, so I&#8217;ve moved it over to my blog, filed under December 22nd, 2012. The web is fragile.]]></description>
-				<content:encoded><![CDATA[<p>Noticed that LongPosts.com is gone. I only had one meaningful post there, so I&#8217;ve moved it over to my blog, filed under <a href="http://www.manton.org/2012/12/rambling-about-twitter-archives.html">December 22nd, 2012</a>. The web is fragile.</p>
+		<guid isPermaLink="false">http://www.manton.org/2016/04/3856.html</guid>
+		<description><![CDATA[It&#8217;s a rainy morning in Austin and I&#8217;ve headed all the way out to Leander to visit the Leander Public Library. Very nice building, with plenty of desks for working, and an attached used bookstore. Only four days left of #newlibraries.]]></description>
+				<content:encoded><![CDATA[<p>It&#8217;s a rainy morning in Austin and I&#8217;ve headed all the way out to Leander to visit the <a href="https://www.leandertx.gov/library/">Leander Public Library</a>. Very nice building, with plenty of desks for working, and an attached used bookstore. Only four days left of <a href="http://www.manton.org/tag/newlibraries/">#newlibraries</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/01/3307.html/feed</wfw:commentRss>
+			<wfw:commentRss>http://www.manton.org/2016/04/3856.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title></title>
-		<link>http://www.manton.org/2016/01/3288.html</link>
-		<comments>http://www.manton.org/2016/01/3288.html#comments</comments>
-		<pubDate>Mon, 04 Jan 2016 16:54:32 +0000</pubDate>
+		<link>http://www.manton.org/2016/04/3852.html</link>
+		<comments>http://www.manton.org/2016/04/3852.html#comments</comments>
+		<pubDate>Tue, 12 Apr 2016 17:03:37 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Snippets]]></category>
+		<category><![CDATA[newlibraries]]></category>
 
-		<guid isPermaLink="false">http://www.manton.org/?p=3288</guid>
-		<description><![CDATA[Increasingly frustrated to type on the iPad Pro. The software keyboard changes depending on whether it&#8217;s an updated app (with support for iPad multitasking), and the number keys and punctuation all seem mixed up or unreliable.]]></description>
-				<content:encoded><![CDATA[<p>Increasingly frustrated to type on the iPad Pro. The software keyboard changes depending on whether it&#8217;s an updated app (with support for iPad multitasking), and the number keys and punctuation all seem mixed up or unreliable.</p>
+		<guid isPermaLink="false">http://www.manton.org/2016/04/3852.html</guid>
+		<description><![CDATA[Doing a little writing from the Bee Cave Public Library at the Hill Country Galleria outdoor shopping mall. Love the idea of having a library integrated into a place that so many people walk around.]]></description>
+				<content:encoded><![CDATA[<p>Doing a little writing from the <a href="http://www.beecavetexas.com/city-government/library">Bee Cave Public Library</a> at the Hill Country Galleria outdoor shopping mall. Love the idea of having a library integrated into a place that so many people walk around.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/01/3288.html/feed</wfw:commentRss>
+			<wfw:commentRss>http://www.manton.org/2016/04/3852.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title></title>
-		<link>http://www.manton.org/2016/01/3282.html</link>
-		<comments>http://www.manton.org/2016/01/3282.html#comments</comments>
-		<pubDate>Sun, 03 Jan 2016 19:11:00 +0000</pubDate>
+		<link>http://www.manton.org/2016/04/3850.html</link>
+		<comments>http://www.manton.org/2016/04/3850.html#comments</comments>
+		<pubDate>Mon, 11 Apr 2016 16:23:23 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Snippets]]></category>
+		<category><![CDATA[newlibraries]]></category>
 
-		<guid isPermaLink="false">http://www.manton.org/2016/01/3282.html</guid>
-		<description><![CDATA[I&#8217;ve been working on the first few posts for 2016, and stumbled into a bit of nostalgia reading posts from 10+ years ago. Such a clear reminder of how important it is to have a blog, even if some are short microblog posts like this one.]]></description>
-				<content:encoded><![CDATA[<p>I&#8217;ve been working on the first few posts for 2016, and stumbled into a bit of nostalgia reading posts from 10+ years ago. Such a clear reminder of how important it is to have a blog, even if some are short microblog posts like this one.</p>
+		<guid isPermaLink="false">http://www.manton.org/2016/04/3850.html</guid>
+		<description><![CDATA[Starting the final week of 30 days of libraries with coffee at Seventh Flag, then working from Twin Oaks Branch. When I was growing up, Twin Oaks was my closest library, but they&#8217;ve recently moved and have a brand new building. Very nice space.]]></description>
+				<content:encoded><![CDATA[<p>Starting the final week of <a href="http://www.manton.org/tag/newlibraries">30 days of libraries</a> with coffee at Seventh Flag, then working from <a href="http://library.austintexas.gov/twin-oaks-branch">Twin Oaks Branch</a>. When I was growing up, Twin Oaks was my closest library, but they&#8217;ve recently moved and have a brand new building. Very nice space.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/01/3282.html/feed</wfw:commentRss>
+			<wfw:commentRss>http://www.manton.org/2016/04/3850.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title></title>
-		<link>http://www.manton.org/2015/12/3280.html</link>
-		<comments>http://www.manton.org/2015/12/3280.html#comments</comments>
-		<pubDate>Thu, 31 Dec 2015 20:56:49 +0000</pubDate>
+		<link>http://www.manton.org/2016/04/3843.html</link>
+		<comments>http://www.manton.org/2016/04/3843.html#comments</comments>
+		<pubDate>Sun, 10 Apr 2016 11:48:36 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Snippets]]></category>
 
-		<guid isPermaLink="false">http://www.manton.org/?p=3280</guid>
-		<description><![CDATA[Happy New Year! We just posted episode 213 of Core Intuition.]]></description>
-				<content:encoded><![CDATA[<p>Happy New Year! We just posted <a href="http://coreint.org/213">episode 213 of Core Intuition</a>.</p>
+		<guid isPermaLink="false">http://www.manton.org/?p=3843</guid>
+		<description><![CDATA[Sorry it&#8217;s a few days late, but Core Intuition 227 is now out. We follow up on the iPhone SE and Typewriter Mode, then discuss hybrid native/HTML layout, producing screencast videos, and Kickstarter.]]></description>
+				<content:encoded><![CDATA[<p>Sorry it&#8217;s a few days late, but <a href="http://coreint.org/227">Core Intuition 227</a> is now out. We follow up on the iPhone SE and Typewriter Mode, then discuss hybrid native/HTML layout, producing screencast videos, and Kickstarter.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/12/3280.html/feed</wfw:commentRss>
+			<wfw:commentRss>http://www.manton.org/2016/04/3843.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title></title>
-		<link>http://www.manton.org/2015/12/3278.html</link>
-		<comments>http://www.manton.org/2015/12/3278.html#comments</comments>
-		<pubDate>Wed, 30 Dec 2015 15:48:23 +0000</pubDate>
+		<link>http://www.manton.org/2016/04/3839.html</link>
+		<comments>http://www.manton.org/2016/04/3839.html#comments</comments>
+		<pubDate>Sat, 09 Apr 2016 21:13:45 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Snippets]]></category>
+		<category><![CDATA[newlibraries]]></category>
 
-		<guid isPermaLink="false">http://www.manton.org/?p=3278</guid>
-		<description><![CDATA[Star Wars seems a good time to get back into comics. Browsed around in Comixology and also picked up a Marvel Unlimited subscription to catch up on the new Star Wars series.]]></description>
-				<content:encoded><![CDATA[<p>Star Wars seems a good time to get back into comics. Browsed around in Comixology and also picked up a Marvel Unlimited subscription to catch up on <a href="http://marvel.com/comics/series/19242/star_wars_2015_-_present">the new Star Wars series</a>.</p>
+		<guid isPermaLink="false">http://www.manton.org/?p=3839</guid>
+		<description><![CDATA[Lake Travis Community Library is another beautiful library, with tables to work at inside that overlook the pond, as well as seating outside on the patio. First library I&#8217;ve been to where you can pour a cup of free coffee.]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.laketravislibrary.org/">Lake Travis Community Library</a> is another beautiful library, with tables to work at inside that overlook the pond, as well as seating outside on the patio. First library I&#8217;ve been to where you can pour a cup of free coffee.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/12/3278.html/feed</wfw:commentRss>
+			<wfw:commentRss>http://www.manton.org/2016/04/3839.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title></title>
-		<link>http://www.manton.org/2015/12/3276.html</link>
-		<comments>http://www.manton.org/2015/12/3276.html#comments</comments>
-		<pubDate>Thu, 24 Dec 2015 19:39:44 +0000</pubDate>
+		<link>http://www.manton.org/2016/04/3838.html</link>
+		<comments>http://www.manton.org/2016/04/3838.html#comments</comments>
+		<pubDate>Fri, 08 Apr 2016 19:37:45 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Snippets]]></category>
+		<category><![CDATA[newlibraries]]></category>
 
-		<guid isPermaLink="false">http://www.manton.org/?p=3276</guid>
-		<description><![CDATA[Just in time for the holidays, we posted Core Intuition 212. Daniel and I talk about the iTunes Connect shutdown, the Slack API and new fund, and web app pricing.]]></description>
-				<content:encoded><![CDATA[<p>Just in time for the holidays, we posted <a href="http://coreint.org/212">Core Intuition 212</a>. Daniel and I talk about the iTunes Connect shutdown, the Slack API and new fund, and web app pricing.</p>
+		<guid isPermaLink="false">http://www.manton.org/2016/04/3838.html</guid>
+		<description><![CDATA[Busy day so I&#8217;m off my morning routine of getting out of the house to focus on writing. After 20 days, actually a little burned out on visiting a new library every day. Nevertheless, here I am near Oak Hill to work from Hampton Branch. Nice oak tree and gazebo out front.]]></description>
+				<content:encoded><![CDATA[<p>Busy day so I&#8217;m off my morning routine of getting out of the house to focus on writing. After 20 days, actually a little burned out on visiting a new library every day. Nevertheless, here I am near Oak Hill to work from <a href="http://library.austintexas.gov/hampton-branch-at-oak-hill">Hampton Branch</a>. Nice oak tree and gazebo out front.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/12/3276.html/feed</wfw:commentRss>
+			<wfw:commentRss>http://www.manton.org/2016/04/3838.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title></title>
-		<link>http://www.manton.org/2015/12/3272.html</link>
-		<comments>http://www.manton.org/2015/12/3272.html#comments</comments>
-		<pubDate>Mon, 21 Dec 2015 15:38:46 +0000</pubDate>
+		<link>http://www.manton.org/2016/04/3837.html</link>
+		<comments>http://www.manton.org/2016/04/3837.html#comments</comments>
+		<pubDate>Thu, 07 Apr 2016 16:39:39 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Snippets]]></category>
+		<category><![CDATA[newlibraries]]></category>
 
-		<guid isPermaLink="false">http://www.manton.org/?p=3272</guid>
-		<description><![CDATA[Finally saw Star Wars: The Force Awakens yesterday, and woke up today still thinking about it. Very happy to have gone 4 days without spoilers.]]></description>
-				<content:encoded><![CDATA[<p>Finally saw <em>Star Wars: The Force Awakens</em> yesterday, and woke up today still thinking about it. Very happy to have gone 4 days without spoilers.</p>
+		<guid isPermaLink="false">http://www.manton.org/2016/04/3837.html</guid>
+		<description><![CDATA[At the Round Rock Public Library this morning, catching up on email and chat with the iPad Pro before I need to run some errands. Realized today that I&#8217;ve been using the iPad Pro so much, I haven&#8217;t left the house with my MacBook Pro in a week.]]></description>
+				<content:encoded><![CDATA[<p>At the <a href="http://www.roundrocktexas.gov/departments/library/">Round Rock Public Library</a> this morning, catching up on email and chat with the iPad Pro before I need to run some errands. Realized today that I&#8217;ve been using the iPad Pro so much, I haven&#8217;t left the house with my MacBook Pro in a week.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/12/3272.html/feed</wfw:commentRss>
+			<wfw:commentRss>http://www.manton.org/2016/04/3837.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 2.494 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-01-06 12:55:51 -->
+<!-- Dynamic page generated in 0.314 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-04-14 12:27:23 -->

@@ -12,12 +12,64 @@
 	<atom:link href="http://www.manton.org/tag/swift/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Wed, 06 Jan 2016 17:11:57 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<generator>http://wordpress.org/?v=4.3.3</generator>
 	<item>
+		<title>Core Intuition 225</title>
+		<link>http://www.manton.org/2016/03/core-intuition-225.html</link>
+		<comments>http://www.manton.org/2016/03/core-intuition-225.html#comments</comments>
+		<pubDate>Thu, 24 Mar 2016 21:44:00 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[iphone5se]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[swift]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3774</guid>
+		<description><![CDATA[Episode 225 of Core Intuition is out now. We talk about the new iPhone and iPad news from Monday’s Apple event, plus Swift. From the show notes: Manton orders his dream phone, the iPhone SE. Daniel reflects on the growing allure of Swift, and the two discuss the risks of either adopting new technologies too [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.coreint.org/2016/03/episode-225-keep-your-eyes-open/">Episode 225 of Core Intuition</a> is out now. We talk about the new iPhone and iPad news from Monday’s Apple event, plus Swift. From the show notes:</p>
+<blockquote><p>
+  Manton orders his dream phone, the iPhone SE. Daniel reflects on the growing allure of Swift, and the two discuss the risks of either adopting new technologies too soon, or holding on to the past for too long.
+</p></blockquote>
+<p>Also there&#8217;s this line from Daniel in the podcast that I like:</p>
+<blockquote><p>
+  We have to be tuned into the future <em>and</em> tuned into the past to really do great work.
+</p></blockquote>
+<p>We pull in some history from Daniel&#8217;s time at Apple, and from our experience building Mac apps in the 1990s and early 2000s, and how it relates to the current Swift transition. Hope you enjoy it.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/03/core-intuition-225.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Tim Cook, Swift, and the return of blogs</title>
+		<link>http://www.manton.org/2016/01/tim-cook-swift-and-the-return-of-blogs.html</link>
+		<comments>http://www.manton.org/2016/01/tim-cook-swift-and-the-return-of-blogs.html#comments</comments>
+		<pubDate>Tue, 26 Jan 2016 15:17:26 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[swift]]></category>
+		<category><![CDATA[timcook]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3439</guid>
+		<description><![CDATA[Rob Rhyne wrote an essay last week that caught my attention, on Tim Cook and the incredible pace of new major OS versions at Apple: “Still think Apple isn’t innovating enough under Tim Cook? Don’t let an app developer hear that talk—they want a vacation, and the end of 2015 showed no signs of relief.” [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://rd2.io/2016/01/tim-cooks-apple/">Rob Rhyne wrote an essay last week</a> that caught my attention, on Tim Cook and the incredible pace of new major OS versions at Apple:</p>
+<blockquote><p>
+  “Still think Apple isn’t innovating enough under Tim Cook? Don’t let an app developer hear that talk—they want a vacation, and the end of 2015 showed no signs of relief.”
+</p></blockquote>
+<p>But I found it significant for another reason too: Rob hadn’t blogged on that site in over 2 years. He picked it up as if no time had been lost, hitting the ground running with a great post.</p>
+<p>He’s not the only one starting to blog more. Matt Gallagher just <a href="http://cocoawithlove.com/blog/2016/01/25/a-new-era-for-cocoa-with-love.html">rebooted Cocoa with Love</a> after 4 years since his last post. Swift was a good excuse to resume writing, but he had wanted to continue the site anyway.</p>
+<p>Most of my favorite blogs have new posts every day, or at least once a week. New posts bring more links and traffic, giving the blog life and momentum.</p>
+<p>There’s no single correct way to blog, though. Blogs are forgiving. If you’ve neglected your blog for a while, you don’t owe anyone an apology. Just hit command-N in your favorite text editor and start writing.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/01/tim-cook-swift-and-the-return-of-blogs.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Core Intuition 210</title>
 		<link>http://www.manton.org/2015/12/core-intuition-210.html</link>
 		<comments>http://www.manton.org/2015/12/core-intuition-210.html#comments</comments>
@@ -193,5 +245,5 @@
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 2.100 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-01-06 13:19:28 -->
+<!-- Dynamic page generated in 0.321 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-04-14 14:58:58 -->

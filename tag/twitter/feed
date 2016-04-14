@@ -12,287 +12,297 @@
 	<atom:link href="http://www.manton.org/tag/twitter/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Wed, 06 Jan 2016 17:11:57 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<generator>http://wordpress.org/?v=4.3.3</generator>
 	<item>
-		<title>Twitter&#8217;s 10k limit</title>
-		<link>http://www.manton.org/2016/01/twitters-10k-limit.html</link>
-		<comments>http://www.manton.org/2016/01/twitters-10k-limit.html#comments</comments>
-		<pubDate>Tue, 05 Jan 2016 20:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Technology]]></category>
-		<category><![CDATA[facebook]]></category>
-		<category><![CDATA[microblogging]]></category>
-		<category><![CDATA[starwars]]></category>
-		<category><![CDATA[twitter]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=3321</guid>
-		<description><![CDATA[First, Twitter experimented with changing the timeline, so it&#8217;s not strictly reverse-chronological. Then, they renamed Favorites to Likes. Soon, they will remove the 140-character limit, becoming Facebook, and the circle will be complete: &#8220;The current plan is reportedly to show just the first 140 characters in the news feed and then allow readers to click [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>First, Twitter experimented with changing the timeline, so it&#8217;s not strictly reverse-chronological. Then, they renamed Favorites to Likes. Soon, <a href="http://mashable.com/2016/01/05/twitter-character-limit-10000/">they will remove the 140-character limit</a>, becoming Facebook, and the circle will be complete:</p>
-<blockquote><p>
-  &#8220;The current plan is reportedly to show just the first 140 characters in the news feed and then allow readers to click to expand the tweet and see the other 9,860 remaining characters. The new option may launch later this quarter.&#8221;
-</p></blockquote>
-<p>The learner is now the master. Welcome to the dark side.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/01/twitters-10k-limit.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Stars vs. hearts and Twitter&#8217;s decline</title>
-		<link>http://www.manton.org/2015/11/stars-vs-hearts-and-twitters-decline.html</link>
-		<comments>http://www.manton.org/2015/11/stars-vs-hearts-and-twitters-decline.html#comments</comments>
-		<pubDate>Mon, 09 Nov 2015 18:05:01 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[User Experience]]></category>
-		<category><![CDATA[dorsey]]></category>
-		<category><![CDATA[facebook]]></category>
-		<category><![CDATA[stars]]></category>
-		<category><![CDATA[twitter]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=3155</guid>
-		<description><![CDATA[In an essay about Twitter written in 2014, Ben Thompson described why he believed in the service: &#8220;I think this actually gets to the problem with Twitter: the initial concept was so good, and so perfectly fit such a large market, that they never needed to go through the process of achieving product market fit. [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>In <a href="https://stratechery.com/2014/twitter-market/">an essay about Twitter written in 2014</a>, Ben Thompson described why he believed in the service:</p>
-<blockquote><p>
-  &#8220;I think this actually gets to the problem with Twitter: the initial concept was <em>so good</em>, and so perfectly fit such a large market, that they never needed to go through the process of achieving product market fit. It just happened, and they’ve been riding that match for going on eight years.&#8221;
-</p></blockquote>
-<p>I&#8217;ve always thought the same thing. That Twitter started out so good, with such strong core features, that those basic features have carried it through all the years of missteps and inaction. But it&#8217;s not just that the features are &#8220;good&#8221; (although they are); it&#8217;s that they are <em>unique</em>.</p>
-<p>Listening to the <a href="http://www.relay.fm/connected/64">Connected podcast</a> the other day, Federico Viticci and Myke Hurley made the statement that only nerds care about Twitter changing stars to hearts, favorites to likes. I was nodding in agreement until I talked to my daughter. She also didn&#8217;t understand why they would change away from stars, and she&#8217;s been on Twitter less than a year.</p>
-<p>It&#8217;s not just nerds. Many new Twitter users recognize the subtle difference implied with hearts. But I realized that there&#8217;s something even more important about what this change says. Why is my daughter even on Twitter, in addition to Snapchat, Instagram, Facebook, and Vine? Because — even if most people can&#8217;t pin down exactly what makes it special — everyone knows Twitter is different and interesting.</p>
-<p>All Twitter has going for it is its uniqueness. The timeline user experience, the retweets and favorites, the hashtag, and the short 140 character posts. Changing any of those key strengths to be just like every other social network means they&#8217;re watering down their own potential impact. Eventually that approach will produce a bland product that has no unique qualities.</p>
-<p>We&#8217;ve already seen the timeline experience significantly altered. Promoted tweets, &#8220;while you were away&#8221;, inline conversation threads, and Twitter cards. Twitter in 2015 looks a lot more like Facebook than it did a few years ago, to everyone not using third-party Twitter apps.</p>
-<p>Growing the user base is fine. But making Twitter more accessible to new users won&#8217;t do any good if you lose the much larger base of passionate users who have loved the product for years <em>because it&#8217;s unique</em>. You&#8217;re not going to beat Facebook by becoming even more like Facebook. If that&#8217;s Twitter&#8217;s strategy, then the service is already in decline.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/11/stars-vs-hearts-and-twitters-decline.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Jack Dorsey to lead Twitter again</title>
-		<link>http://www.manton.org/2015/10/jack-dorsey-to-lead-twitter-again.html</link>
-		<comments>http://www.manton.org/2015/10/jack-dorsey-to-lead-twitter-again.html#comments</comments>
-		<pubDate>Mon, 05 Oct 2015 22:05:16 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Technology]]></category>
-		<category><![CDATA[dorsey]]></category>
-		<category><![CDATA[ev]]></category>
-		<category><![CDATA[microblogging]]></category>
-		<category><![CDATA[openweb]]></category>
-		<category><![CDATA[tweetbot]]></category>
-		<category><![CDATA[twitter]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=3091</guid>
-		<description><![CDATA[Three years ago today I posted my last personal tweet. That time and distance away from mainstream social networking has given me a new perspective on the importance of independent microblogging. It has shaped where I write and what tools I build. But Twitter remains as fascinating as ever. Just a few weeks ago, the [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="https://twitter.com/manton/status/254228056657494016">Three years ago today</a> I posted my last personal tweet. That time and distance away from mainstream social networking has given me a new perspective on the importance of independent microblogging. It has shaped <a href="http://www.manton.org/category/micro">where I write</a> and what tools I build.</p>
-<p>But Twitter remains as fascinating as ever. Just a few weeks ago, <a href="http://www.telegraph.co.uk/technology/twitter/11891887/adam-bain-interview-twitter-jack-dorsey.html">the board seemed unsure</a> about letting Jack Dorsey split his time between Twitter and Square:</p>
-<blockquote><p>
-  &#8220;The responsibilities of running Square, which Dorsey reportedly refuses to give up, may now stand in the way of a Steve <a href="http://www.telegraph.co.uk/technology/steve-jobs/">Jobs-esque</a> return as Twitter’s full time chief executive. In June, its board took the unusual step of publicly declaring that it would only consider candidates &#8216;who are in a position to make a full-time commitment to Twitter&#8217;, a <a href="http://www.telegraph.co.uk/technology/twitter/11691834/Jack-Dorsey-will-have-to-quit-as-Square-boss-to-take-charge-of-Twitter.html">thinly-veiled reference to Dorsey’s preoccupations</a>.&#8221;
-</p></blockquote>
-<p>Then they <a href="http://recode.net/2015/09/30/sources-jack-dorsey-to-be-named-permanent-twitter-ceo/">backed away from that</a>:</p>
-<blockquote><p>
-  &#8220;That declaration, as it seems to have turned out, has been a largely empty one. The idea that Dorsey might return gained steam among people both inside and outside the company over the past few months even though he had no intention of leaving Square. He even referred to the companies as his two children when discussing the dilemma, according to a source.&#8221;
-</p></blockquote>
-<p>Today they officially announced that Jack will return to lead Twitter. Of all the recent articles, my favorite <a href="http://recode.net/2015/10/02/why-jack-dorsey-is-ready-to-save-twitter/">is this one from Recode</a>, a long profile on Jack&#8217;s role and changing attitude:</p>
-<blockquote><p>
-  &#8220;He seems to be a completely different man than the one who returned to Twitter in March 2011 as executive chairman and product czar. Former colleagues recall a man looking for payback for his 2008 ouster; loyalty was key, and many who were loyal to Twitter’s other co-founder, Ev Williams, were booted from the company. Back then, Dorsey would routinely sit in on meetings without saying a word. When he did speak, his contributions were so abstract that few understood what he was talking about. In some cases, he’d simply write a single word or two up on the whiteboard.&#8221;
-</p></blockquote>
-<p>And it goes on, showing how Jack has matured as a leader. Everyone will be watching what he does, and how Twitter evolves. Every article written about an upcoming Twitter feature will mention Jack&#8217;s involvement, no matter how insignificant. He&#8217;s a big part of the story now.</p>
-<p><a href="https://medium.com/@ev/why-i-m-glad-jack-is-back-at-twitter-9bbda2ae5dca">Ev also wrote</a> about the official announcement:</p>
-<blockquote><p>
-  &#8220;Twitter is bigger and more important to the world than we ever dreamed when we started. And it still has incredible, unrealized potential. It will not be easy to unlock it. But we have thousands of smart, creative people working every day to make the company great. And Jack has already demonstrated the ability to inspire the team and think boldly about the next phase of Twitter.&#8221;
-</p></blockquote>
-<p>The greatest challenge for Jack will be figuring out how to take whatever those thousands of employees are working on and turn it into actual user-facing features that ship to customers. Federico Viticci, <a href="https://www.macstories.net/reviews/tweetbot-4-review-bigger-bot/">reviewing the new Tweetbot 4 release</a> last week, wrote about how Tapbots has built something more ambitious than the official Twitter for iPad app, even though Twitter has a much bigger team:</p>
-<blockquote><p>
-  &#8220;On the other hand, Twitter for iPad – long ignored by the company – has emerged again <a href="https://www.macstories.net/news/twitter-aims-to-unify-ios-apps-updates-its-ipad-app/">with a stretched-up iPhone layout</a> presented in the name of &#8216;consistency&#8217;. It&#8217;s a grim landscape, devoid of the excitement and curiosity that surrounded Twitter clients five years ago.&#8221;
-</p></blockquote>
-<p>I still run <a href="http://tweetmarker.net/">Tweet Marker</a>, which was created during that period of innovation that Federico refers to, but my focus now is on indie microblogging and the open web. I&#8217;m content to watch Twitter from the sidelines and wish Jack the best of luck.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/10/jack-dorsey-to-lead-twitter-again.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>I will return to Twitter when&#8230;</title>
-		<link>http://www.manton.org/2015/08/i-will-return-to-twitter-when.html</link>
-		<comments>http://www.manton.org/2015/08/i-will-return-to-twitter-when.html#comments</comments>
-		<pubDate>Fri, 14 Aug 2015 19:24:38 +0000</pubDate>
+		<title>Time to rethink blog comments</title>
+		<link>http://www.manton.org/2016/03/time-to-rethink-blog-comments.html</link>
+		<comments>http://www.manton.org/2016/03/time-to-rethink-blog-comments.html#comments</comments>
+		<pubDate>Thu, 24 Mar 2016 18:24:00 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Weblogs]]></category>
-		<category><![CDATA[api]]></category>
-		<category><![CDATA[openweb]]></category>
-		<category><![CDATA[rss]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[civilcomments]]></category>
+		<category><![CDATA[comments]]></category>
+		<category><![CDATA[community]]></category>
 		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[webmention]]></category>
 
-		<guid isPermaLink="false">http://www.manton.org/?p=2944</guid>
-		<description><![CDATA[As I&#8217;m catching up on some news, two posts today about Twitter caught me eye. First, very big news via Federico Viticci, that full tweet search is available even to third-party apps. Twitter&#8217;s limited search was the main reason I originally built Tweet Library. It&#8217;s fantastic that this data is now more easily available. But [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>As I&#8217;m catching up on some news, two posts today about Twitter caught me eye. First, very big news via Federico Viticci, that full tweet search <a href="https://blog.twitter.com/2015/full-archive-search-api">is available even to third-party apps</a>. Twitter&#8217;s limited search was the main reason I originally built <a href="http://appstore.com/tweetlibrary">Tweet Library</a>. It&#8217;s fantastic that this data is now more easily available.</p>
-<p>But it was this opening paragraph from <a href="http://www.macworld.com/article/2970341/web-social/twitter-on-the-mac-do-your-job-or-get-out-of-the-way.html">Jason Snell&#8217;s article on Macworld</a> about Twitter neglecting the Mac version that got me thinking:</p>
+		<guid isPermaLink="false">http://www.manton.org/?p=3769</guid>
+		<description><![CDATA[Twitter has lost some of what made it special for communities 5 years ago. I&#8217;ve noticed a few trends: Twitter’s 140-character limit and easy retweeting encourage and amplify negative tweets. Sincerity is less common. Everything is an opportunity for a joke. Widely followed, long-time Twitter users don’t find the joy they used to when interacting [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Twitter has lost some of what made it special for communities 5 years ago. I&#8217;ve noticed a few trends:</p>
+<ul>
+<li>Twitter’s 140-character limit and easy retweeting encourage and amplify negative tweets. Sincerity is less common. Everything is an opportunity for a joke.</li>
+<li>Widely followed, long-time Twitter users don’t find the joy they used to when interacting with followers. Some have retreated to private Slack channels, at the cost of public discussion and approachability.</li>
+<li>Developers have never completely forgiven Twitter for crippling the API. This doesn’t directly impact most users anymore, but it’s a backdrop that gives every new Twitter feature a tone of distrust. Progress is slow.</li>
+</ul>
+<p>Meanwhile, blog comments have slowly been killed off over that same period. The rise of social networks, combined with the technical problems of fighting blog comment spam, pushed most bloggers to prefer answering questions on Twitter.</p>
+<p><a href="http://beckyhansmeyer.com/2016/03/07/follow-up-the-nuances-of-online-discussion/">Becky Hansmeyer writes about</a> the intersection of these problems — that some Twitter users avoid public discussion, but most blogs no longer have comments to fall back on — by pointing to <a href="http://blog.bellebethcooper.com/online-relationships.html">a post from Belle Beth Cooper</a>:</p>
 <blockquote><p>
-  &#8220;Three years ago this month Twitter <a href="http://www.macworld.com/article/1168183/twitter_hands_down_new_strict_rules_for_third_party_developers.html">broke its covenant with the third-party developers</a> who helped fuel its initial growth and create some of its most innovative features. The message was clear: Twitter was in charge of its own platform, and while other Twitter apps would be tolerated, it would only be in limited fashion and for a limited time.&#8221;
+  “Belle’s post really resonated with me because it reminded me of something I think about a lot: when an ever-increasing number of blogs and media outlets are disabling comment sections, where do decent, thoughtful people bring their discussions? I only offer readers one way to contact me on this site, and it’s via Twitter. But what if, like Belle, you no longer use Twitter (or never did in the first place)?”
 </p></blockquote>
-<p>It was around this time, nearly 3 years ago, that I posted my last tweet. My bet with <a href="http://bitsplitting.org/">Daniel</a> is over whether I will return to Twitter within 5 years. People ask if I&#8217;ll come back sooner, and if I did, what it would take. I&#8217;ve often struggled to articulate those conditions, because I think we are seeing <a href="http://www.manton.org/2015/07/ev-on-twitter-third-party-devs.html">slow but consistent progress</a> to unwind the developer-hostile decisions made a few years ago. It may be that in a couple years the environment will be much improved, but there won&#8217;t be any single decision that &#8220;fixed&#8221; it, or it may be that Twitter is doomed to have changing leadership and there will never be any guarantees.</p>
-<p>There is one thing, though. There is one change that was made while rolling out the version 1.1 Twitter API: they removed support for unauthenticated RSS feeds of user tweets or timelines. If they reversed that one decision, the next day I would be back on Twitter.</p>
-<p>I can pick out a single feature like this, among every other improvement that third-party developers would love to see, because the combination of removing RSS and at the same time locking down the API — those changes together best represent the move away from the open web. Any other incremental improvement short of unauthenticated RSS, no matter how welcome, isn&#8217;t enough.</p>
+<p>We didn’t realized how much we lost when we turned our backs on blog comments years ago. Just look at <a href="https://red-sweater.com/blog/181/the-cocoa-carbon-advantage#comments">one of Daniel Jalkut&#8217;s blog posts from 10 years ago</a>, which he and I discuss on an upcoming episode of Core Intuition. 53 comments! And they&#8217;re all preserved along with the original content. That&#8217;s difficult to do when comments are spread across Twitter and easily lost.</p>
+<p>It’s time to take what we’ve since learned from social networks and apply it the openness of cross-site replies. That’s why I want to support <a href="https://indiewebcamp.com/Webmention">Webmention</a>. As Becky mentions, <a href="https://www.civilcomments.com/">Civil Comments</a> look great too. I think we can encourage both in parallel: distributed comments like Webmention for sites that can support it <em>and</em> better centralized comments like Civil.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/08/i-will-return-to-twitter-when.html/feed</wfw:commentRss>
+			<wfw:commentRss>http://www.manton.org/2016/03/time-to-rethink-blog-comments.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Riposte push server crowdfunding</title>
-		<link>http://www.manton.org/2015/08/riposte-push-server-crowdfunding.html</link>
-		<comments>http://www.manton.org/2015/08/riposte-push-server-crowdfunding.html#comments</comments>
-		<pubDate>Tue, 04 Aug 2015 16:54:15 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Technology]]></category>
-		<category><![CDATA[adn]]></category>
-		<category><![CDATA[riposte]]></category>
-		<category><![CDATA[servers]]></category>
-		<category><![CDATA[twitter]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=2938</guid>
-		<description><![CDATA[Back in April, the App.net app Riposte was removed from sale. Riposte wasn&#8217;t just the best client for App.net; I think it held its own against even the best Twitter apps, too. The push notification server for Riposte (and its messaging app complement, Whisper) was to keep running for some months and then shut down [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="http://blog.jaredsinclair.com/post/116294584510/riposte-the-appnet-app-permanently-removed-from">Back in April</a>, the App.net app Riposte was removed from sale. Riposte wasn&#8217;t just the best client for App.net; I think it held its own against even the best Twitter apps, too. The push notification server for Riposte (and its messaging app complement, Whisper) was to keep running for some months and then shut down this summer.</p>
-<p>Even if App.net is slowly fading away, like many users I still have Riposte on my home screen. I cross-post all <a href="http://www.manton.org/category/micro">my microblog posts</a> from this blog to App.net. When I get replies and mentions on App.net, I like to see them as push notifications in Riposte. I can reply in the app easily, or skim through the timeline to see what else is going on.</p>
-<p>Now the developers have launched a <a href="https://app.moonclerk.com/pay/q2j4zmciz4e">crowdfunding campaign</a> to keep the Riposte server running. Their goal is a modest $500 per year to cover AWS hosting and time to keep everything running smoothly. Even if you&#8217;re not very active on App.net anymore, consider donating as a thank-you for everything Riposte did for App.net, and for what it did to advance the state of UI design in social networking apps.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/08/riposte-push-server-crowdfunding.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Two weeks notice: Core Int 192</title>
-		<link>http://www.manton.org/2015/07/two-weeks-notice-core-int-192.html</link>
-		<comments>http://www.manton.org/2015/07/two-weeks-notice-core-int-192.html#comments</comments>
-		<pubDate>Fri, 31 Jul 2015 17:02:02 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Podcasts]]></category>
-		<category><![CDATA[2weeks]]></category>
-		<category><![CDATA[coreint]]></category>
-		<category><![CDATA[podcast]]></category>
-		<category><![CDATA[twitter]]></category>
-		<category><![CDATA[vitalsource]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=2928</guid>
-		<description><![CDATA[Continuing from last week’s Core Intuition, today Daniel and I talk more about how things are going with the final days of my job winding down. We then take the second half of the show to catch up on recent news around Twitter’s leadership. From the show notes: “Daniel and Manton acknowledge celebration as a [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Continuing from last week’s Core Intuition, today Daniel and I talk more about how things are going with the final days of my job winding down. We then take the second half of the show to catch up on recent news around Twitter’s leadership.</p>
-<p>From the show notes:</p>
-<blockquote><p>
-  “Daniel and Manton acknowledge celebration as a survival tactic, discuss the urgency of making ends meet as an indie, and examine changes underway at Twitter with interim CEO Jack Dorsey.”
-</p></blockquote>
-<p>You can listen or subscribe at the <a href="http://coreint.org/192">Core Intuition web site</a>. Special thanks to returning sponsor <a href="http://cocoaconf.com/">CocoaConf</a>. They’ve got conferences coming up in Boston and San Jose, and then Yosemite National Park next year.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/07/two-weeks-notice-core-int-192.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Embrace cross-posting</title>
-		<link>http://www.manton.org/2015/07/embrace-cross-posting.html</link>
-		<comments>http://www.manton.org/2015/07/embrace-cross-posting.html#comments</comments>
-		<pubDate>Fri, 17 Jul 2015 18:00:26 +0000</pubDate>
+		<title>Blog when you disagree</title>
+		<link>http://www.manton.org/2016/03/blog-when-you-disagree.html</link>
+		<comments>http://www.manton.org/2016/03/blog-when-you-disagree.html#comments</comments>
+		<pubDate>Mon, 14 Mar 2016 19:16:20 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Weblogs]]></category>
-		<category><![CDATA[crosspost]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[opinions]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[writing]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3707</guid>
+		<description><![CDATA[The echo chamber. We only follow people who we already agree with. We only jump on the bandwagon of snark and ridicule when it’s already the accepted narrative, and thus safe to be part of the mob. But sometimes you&#8217;ll find an area where you aren&#8217;t completely in line with the crowd’s opinion. There’s a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The echo chamber. We only follow people who we already agree with. We only jump on the bandwagon of snark and ridicule when it’s already the accepted narrative, and thus safe to be part of the mob.</p>
+<p>But sometimes you&#8217;ll find an area where you aren&#8217;t completely in line with the crowd’s opinion. There’s a topic that keeps coming up for which you have something to add. The default story is missing an important angle.</p>
+<p>When you disagree, that’s what you should write about, and you should post it to your blog. 140 characters thrown against wave after wave of mainstream opinion tweets will be drowned out. A blog post isn’t a cheap opinion; it’s a statement that what you think matters.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/03/blog-when-you-disagree.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The evolution of linkblogging</title>
+		<link>http://www.manton.org/2016/03/the-evolution-of-linkblogging.html</link>
+		<comments>http://www.manton.org/2016/03/the-evolution-of-linkblogging.html#comments</comments>
+		<pubDate>Thu, 03 Mar 2016 17:54:53 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[linkblogging]]></category>
+		<category><![CDATA[microblogging]]></category>
 		<category><![CDATA[rss]]></category>
 		<category><![CDATA[snippets]]></category>
 		<category><![CDATA[twitter]]></category>
 
-		<guid isPermaLink="false">http://www.manton.org/?p=2857</guid>
-		<description><![CDATA[When App.net was first taking off, many microbloggers struggled with how to decide where to post their short-form writing. Should they post some topics to Twitter and others to App.net? Should they cross-post everything to both services? At the time, there was an informal consensus that cross-posting was a cheat. It couldn’t take advantage of [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>When App.net was first taking off, many microbloggers struggled with how to decide where to post their short-form writing. Should they post some topics to Twitter and others to App.net? Should they cross-post everything to both services? At the time, there was an informal consensus that cross-posting was a cheat. It couldn’t take advantage of each platform’s strengths, and followers might often see the same post twice.</p>
-<p>I now believe that cross-posting is a good thing. Photos, as one example, are frequently cross-posted to both Instagram and Facebook. Tweets can be sent to Twitter <a href="http://www.manton.org/2015/06/more-quick-blogging-workflows.html">as well as our own blogs</a>. Many apps like Instagram or Foursquare support and even encourage cross-posting. It’s good for developers because it helps spread knowledge of the publishing app, and it’s good for writers because it means there are multiple copies of our content.</p>
-<p><a href="http://www.manton.org/2015/07/sneak-peek-screenshot.html">It’s no secret</a> that I’m building a microblog aggregation and publishing service. The goal is for us to get back to our roots with blogging — to write on our own web sites first, not as an afterthought to Twitter. Cross-posting is an important bootstrap for that.</p>
-<p>If you don’t have a blog, <em>start one today</em>. It takes minutes to set up, and hardly any more time to wire up automatic tweeting <a href="http://www.manton.org/2015/06/microblogging-with-wordpress.html">via IFTTT from your RSS feed</a>. Start with cross-posting and see if something interesting evolves from there.</p>
+		<guid isPermaLink="false">http://www.manton.org/?p=3616</guid>
+		<description><![CDATA[In my posts about defining what makes a microblog post and guidelines for RSS, I talked a little about links but didn&#8217;t explore linkblogging. While many blog authors post primarily long essays, shorter link blogs are a common approach for bloggers who want to post new content several times a day. Essentially two types of [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>In my posts about <a href="http://www.manton.org/2014/09/defining-a-microblog-post.html">defining what makes a microblog post</a> and <a href="http://www.manton.org/2015/11/rss-for-microblogs.html">guidelines for RSS</a>, I talked a little about links but didn&#8217;t explore linkblogging. While many blog authors post primarily long essays, shorter link blogs are a common approach for bloggers who want to post new content several times a day.</p>
+<p>Essentially two types of link blogs have evolved since the early days of blogging. The most traditional link blog can be seen in <a href="http://scripting.com/#linksTab">Dave Winer&#8217;s posts</a> (click on the Links tab). These are links with a very short commentary. Many tweets are like this. In a way, this format is the purest form of microblogging.</p>
+<p>The second type of link blog starts to fall outside the limits of microblogging. Instead of just including a URL, authors use a quote from the linked material as the foundation for the post. The majority of <a href="http://daringfireball.net/">Daring Fireball</a> posts adopt this format. While John Gruber is known for his full essays, those longer posts are infrequent today. He keeps his site active by linking to other interesting essays and tacking on his own brief opinion.</p>
+<p>Daring Fireball has become so successful that Gruber&#8217;s approach to linkblogging has been copied by many other sites. <a href="http://macstories.net/">MacStories</a>, <a href="http://sixcolors.com/">Six Colors</a>, <a href="http://onefoottsunami.com/">One Foot Tsunami</a>, <a href="http://verynicewebsite.net/">John Moltz&#8217;s Very Nice Web Site</a>, and <a href="http://marco.org/">Marco Arment&#8217;s blog</a> are just a handful that follow this pattern. All of these sites post the occasional essay, but most blog posts link away to an external site in the RSS item, not back to their own site.</p>
+<p>At a technical level, this difference can best be seen in the RSS feed&#8217;s &lt;link&gt; and &lt;guid&gt; elements. These elements will contain URLs that either link back to the main site, or link away to an external site.</p>
+<p>Here is where this evolving approach to link blogs starts to break down. Let&#8217;s take an example from Six Colors, one of my favorite sites. (I recommend <a href="https://sixcolors.com/subscribe/">subscribing</a>. The members-only secret podcast with Jason and Dan Moren is really fun, and the email magazine is great too.)</p>
+<p>In a <a href="http://sixcolors.com/link/2015/09/hulu-unlocks-the-albatross/">link post about Hulu&#8217;s pricing</a>, Jason Snell actually writes <em>4 paragraphs</em> of commentary (plus a footnote). This is more like an essay than a short link post that points to the external site.</p>
+<p>Another example is when <a href="https://www.macstories.net/linked/twitter-launches-moments/">MacStories linked to Twitter&#8217;s launch of Moments</a>. A few paragraphs of quoted text, <em>5 paragraphs</em> of MacStories commentary. The commentary is as important or even more important to read than whatever Federico is linking to.</p>
+<p>Sometimes we read sites like MacStories, Six Colors, or Daring Fireball more for the commentary than for what is being linked to. But when using an RSS reader, there is too much confusion about where an item&#8217;s link goes when clicked if the site&#8217;s feed isn&#8217;t consistent about linking everything back to its own site.</p>
+<p>And in fact Jason Snell acknowledges this problem by offering two separate RSS feeds: the default one, with a mix of links back to Six Colors for essays and pointed elsewhere for link posts; and another feed with everything linking back to Six Colors, where the commentary lives. He also attempts to minimize confusion on his own site by giving each type of post its own icon in the site design.</p>
+<p>The less clear-cut the distinction between essays and link posts, the more confusion we introduce to readers. In some ways, this mixed approach really <em>only</em> works for Daring Fireball, because his feature essays are so long, and so obviously different in format to the rest of the link posts.</p>
+<p>Good conventions for blogging have been at a standstill for years. While part of the appeal of indie blogging is there&#8217;s no one &#8220;right&#8221; way to do it, and authors can have a strong voice and design that isn&#8217;t controlled by a platform vendor, we must accept that Twitter has taken off because it has a great user experience compared to blogs. It’s effortless to tweet and the timeline is consistent. For blogging to improve and thrive, it should have just as straightforward a user experience as social networks wherever possible.</p>
+<p>Luckily, RSS already has everything we need for clients to visually distinguish between link posts and regular ones. If the &lt;link&gt; element points to a domain other than the one for the site, it’s probably a link post. If the &lt;link&gt; and site domain match, it’s a full post.</p>
+<p>I’ve adopted this in my new microblogging platform by exposing the domain in the UI itself, at the end of the title or microblog post whenever it’s a link post. If it’s a full post, the link isn’t added. And for either type of post, the timestamp links back to whatever was in the &lt;link&gt;.</p>
+<p>Here’s a screenshot from one of Dave’s posts. Note that the link was <em>not</em> in the RSS text. It was added by my app automatically:</p>
+<p><center><img src="http://www.manton.org/images/2016/snippets_linkblog.png" width="550" height="105" alt="linkblog example" border="0" /></center></p>
+<p>This has been a long post, but it boils down to two simple recommendations:</p>
+<ul>
+<li>If you’re a blog author and you’re adding any significant commentary, the RSS feed should point back to your site.</li>
+<li>If you’re an RSS client developer, the difference between link posts and full posts should be exposed in the UI.</li>
+</ul>
+<p>I believe that adopting these will bring more consistency to blogging. Users won’t need to hover over links, or guess what will happen on a click or tap. It’s a small change that will make reading blogs a little better.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/07/embrace-cross-posting.html/feed</wfw:commentRss>
+			<wfw:commentRss>http://www.manton.org/2016/03/the-evolution-of-linkblogging.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Ev on Twitter third-party devs</title>
-		<link>http://www.manton.org/2015/07/ev-on-twitter-third-party-devs.html</link>
-		<comments>http://www.manton.org/2015/07/ev-on-twitter-third-party-devs.html#comments</comments>
-		<pubDate>Fri, 17 Jul 2015 15:25:39 +0000</pubDate>
+		<title>Concerned about user-generated content</title>
+		<link>http://www.manton.org/2016/03/concerned-about-user-generated-content.html</link>
+		<comments>http://www.manton.org/2016/03/concerned-about-user-generated-content.html#comments</comments>
+		<pubDate>Wed, 02 Mar 2016 17:00:03 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Business]]></category>
-		<category><![CDATA[api]]></category>
-		<category><![CDATA[ev]]></category>
-		<category><![CDATA[platforms]]></category>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[abuse]]></category>
+		<category><![CDATA[microblogging]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[snippets]]></category>
 		<category><![CDATA[twitter]]></category>
 
-		<guid isPermaLink="false">http://www.manton.org/?p=2855</guid>
-		<description><![CDATA[Business Insider quotes Evan Williams on the developer-hostile attitude of previous Twitter management: “The API denial was, ‘One of our strategic errors we had to wind down over time,’ Evans explained. ‘It wasn’t a win/win for developers, users, and the company.’” Just acknowledging this publicly is progress. It’s now been almost 3 years since my [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="http://www.businessinsider.com/evan-williams-on-twitter-and-developers-2015-7">Business Insider quotes Evan Williams</a> on the developer-hostile attitude of previous Twitter management:</p>
-<blockquote><p>
-  “The API denial was, ‘One of our strategic errors we had to wind down over time,’ Evans explained. ‘It wasn’t a win/win for developers, users, and the company.’”
-</p></blockquote>
-<p>Just acknowledging this publicly is progress. It’s now been almost 3 years since my last tweet. I don’t expect to return to Twitter, but I’m still very interested in whether there&#8217;ll be a noticeable change in direction from the new CEO.</p>
+		<guid isPermaLink="false">http://www.manton.org/?p=3610</guid>
+		<description><![CDATA[On the latest Under the Radar podcast, Marco Arment and David Smith talk about ways to make your app more robust. That includes tips for scaling your app with a lot of data, and also dealing with potentially hostile user data. It’s that last point that I’ve been thinking the most about lately. With the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>On the latest <a href="https://www.relay.fm/radar/16">Under the Radar podcast</a>, Marco Arment and David Smith talk about ways to make your app more robust. That includes tips for scaling your app with a lot of data, and also dealing with potentially hostile user data. It’s that last point that I’ve been thinking the most about lately.</p>
+<p>With the experience of building Tumblr and Instapaper, Marco is clearly now hesitant to ship app features that accept arbitrary user-generated content, because a small indie company just doesn’t have the resources to deal with spam and abuse. Instead, he suggests outsourcing whenever possible. For example, letting Apple accept and reject podcasts, and basing the Overcast podcast directory search on that already-vetted list.</p>
+<p>Let’s say you’re building a Twitter-like service. As we all know, hate is widespread on Twitter. At times, it seems impossible to even have a G-rated Twitter experience. But the problem is less that users can publish terrible tweets, and more that it is so easy to be <em>exposed to those tweets</em> with search, trending topics, retweets, and replies.</p>
+<p>As I work on my microblogging project, I’m trying to be aware of these points in the platform where bad content can leak out. So I don’t have global search or trending topics. I also don’t make it easy to stumble upon random users. But I do have replies, which by default will currently go out as push notifications if you have the iPhone app installed. It’s that area that I should focus my attention.</p>
+<p>Two options that come to mind for minimizing abuse in replies:</p>
+<ul>
+<li>Don’t allow replies from people you aren’t following. This solves the problem, but it comes at the expense of discussion. It removes the accessibility that many people love about Twitter’s asynchronous following model.</li>
+<li>Quarantine or attempt to classify replies so they don’t bubble up in your timeline or as notifications by default. This would be like an over-aggressive email spam filter. Difficult to get right and possibly routed around by clever microbloggers.</li>
+</ul>
+<p>After listening to Marco and David, and reviewing the full scope of what I’ve been trying to build, I’m pretty concerned about this. I’m looking at <a href="https://akismet.com/">Akismet</a>, and other metrics internal to my app for judging content and suspicious user accounts, but I may be a little in over my head on this issue.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/07/ev-on-twitter-third-party-devs.html/feed</wfw:commentRss>
+			<wfw:commentRss>http://www.manton.org/2016/03/concerned-about-user-generated-content.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Microblog timelines, Project Lightning, and River.js</title>
-		<link>http://www.manton.org/2015/06/microblog-timelines-project-lightning-and-river-js.html</link>
-		<comments>http://www.manton.org/2015/06/microblog-timelines-project-lightning-and-river-js.html#comments</comments>
-		<pubDate>Mon, 22 Jun 2015 13:42:23 +0000</pubDate>
+		<title>River5 and twtxt</title>
+		<link>http://www.manton.org/2016/02/river5-and-twtxt.html</link>
+		<comments>http://www.manton.org/2016/02/river5-and-twtxt.html#comments</comments>
+		<pubDate>Wed, 10 Feb 2016 17:08:50 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Weblogs]]></category>
-		<category><![CDATA[riverjs]]></category>
+		<category><![CDATA[json]]></category>
+		<category><![CDATA[microblogging]]></category>
+		<category><![CDATA[river5]]></category>
 		<category><![CDATA[rss]]></category>
+		<category><![CDATA[snippets]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3510</guid>
+		<description><![CDATA[Two new microblog-related services have launched. This week, Dave Winer announced River5: “So I decided it was time to do a restart of my JavaScript RSS aggregator, and it&#8217;s now ready for Node users &#8212; it&#8217;s called River5. [&#8230;] This is a foundation for developers to build on, but it&#8217;s also possible for an adventurous [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Two new microblog-related services have launched. This week, <a href="http://scripting.com/liveblog/users/davewiner/2016/02/09/0995.html">Dave Winer announced River5</a>:</p>
+<blockquote><p>
+  “So I decided it was time to do a restart of my JavaScript RSS aggregator, and it&#8217;s now ready for Node users &#8212; it&#8217;s called <a href="https://github.com/scripting/river5">River5</a>. [&#8230;] This is a foundation for developers to build on, but it&#8217;s also possible for an adventurous user to set up their own rivers.”
+</p></blockquote>
+<p>River5 is built on a few XML and JSON formats, including River.js. I’m pretty interested in River.js as a format for aggregating multiple feeds together, so I’ve supported it in my new microblog platform. As a next-generation RSS, though, I prefer the proposal I wrote about in a post called <a href="http://www.manton.org/2015/11/rss-for-microblogs.html">RSS for microblogs</a>.</p>
+<p>Next up is <a href="https://github.com/buckket/twtxt">twtxt</a>, which attempts to recreate Twitter as a distributed, command-line based system with self-hosted text files:</p>
+<blockquote><p>
+  “Instead of signing up at a closed and/or regulated microblogging platform, getting your status updates out with twtxt is as easy as putting them in a publicly accessible text file. The URL pointing to this file is your identity, your account. twtxt then tracks these text files, like a feedreader, and builds your unique timeline out of them, depending on which files you track.”
+</p></blockquote>
+<p>I’m less sure what to think of twtxt. The simple plaintext format is nice, but we already have a good infrastructure for this with RSS. And <a href="http://www.manton.org/2016/01/inline-links-in-microblog-posts.html">as I’ve noted before</a>, having HTML in RSS with inline styles and links is nice for microblogs, and it’s not clear to me whether that would fit well with twtxt.</p>
+<p>If you want to start an indie microblog, my suggestion remains to use existing blog software that can generate simple RSS feeds. Short posts, no titles. This is a widely-deployed format that we can continue to work with for years to come.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/02/river5-and-twtxt.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Algorithmic timeline now rolling out</title>
+		<link>http://www.manton.org/2016/02/algorithmic-timeline-now-rolling-out.html</link>
+		<comments>http://www.manton.org/2016/02/algorithmic-timeline-now-rolling-out.html#comments</comments>
+		<pubDate>Wed, 10 Feb 2016 16:33:07 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
 		<category><![CDATA[snippets]]></category>
 		<category><![CDATA[timelines]]></category>
 		<category><![CDATA[twitter]]></category>
 
-		<guid isPermaLink="false">http://www.manton.org/?p=2765</guid>
-		<description><![CDATA[I said that one important facet to microblogging is the timeline experience. This is a basic foundation to Twitter’s success, although they continue to de-emphasize or twist it. Their upcoming Project Lightning will attempt to curate and deliver tweets to you that are important regardless of who you’re following. From Mat Honan’s scoop on the [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="http://www.manton.org/2015/06/more-quick-blogging-workflows.html">I said</a> that one important facet to microblogging is the timeline experience. This is a basic foundation to Twitter’s success, although they continue to de-emphasize or twist it. Their upcoming Project Lightning will attempt to curate and deliver tweets to you that are important regardless of who you’re following. <a href="http://www.buzzfeed.com/mathonan/twitters-top-secret-project-lightning-revealed">From Mat Honan’s scoop</a> on the project for Buzz Feed:</p>
+		<guid isPermaLink="false">http://www.manton.org/?p=3508</guid>
+		<description><![CDATA[Dan Moren reports that Twitter is rolling out their algorithmic timeline, where tweets aren&#8217;t strictly reverse-chronological. It is opt-in for now, and likely won&#8217;t apply to third-party clients: &#8220;I’d also guess that third-party clients won’t be able to implement this for a while, if ever. So users of Tweetbot, Twitterrific, and others won’t really have [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://sixcolors.com/link/2016/02/twitter-launches-algorithmic-timeline-as-an-opt-in-feature/">Dan Moren reports</a> that Twitter is rolling out their algorithmic timeline, where tweets aren&#8217;t strictly reverse-chronological. It is opt-in for now, and likely won&#8217;t apply to third-party clients:</p>
 <blockquote><p>
-  “Launch one of these events and you’ll see a visually driven, curated collection of tweets. A team of editors, working under Katie Jacobs Stanton, who runs Twitter’s global media operations, will select what it thinks are the best and most relevant tweets and package them into a collection.”
+  &#8220;I’d also guess that third-party clients won’t be able to implement this for a while, if ever. So users of Tweetbot, Twitterrific, and others won’t really have a substantively different experience.&#8221;
 </p></blockquote>
-<p><a href="http://www.wired.com/2015/06/twitter-project-lightning-timeline/">David Pierce wrote for Wired</a> with further speculation on what it could mean for Twitter. David starts with the premise that Twitter is basically full of junk:</p>
-<blockquote><p>
-  “Sure, yes, everyone’s Twitter is different—that’s one of the service’s best aspects, that you can follow anyone you want and see whatever you want. Unfortunately, this only works if everyone on Twitter isn’t terrible most of the time. They are.”
-</p></blockquote>
-<p>The essay continues, describing Project Lightning as the death of the Twitter timeline as we know it:</p>
-<blockquote><p>
-  “With this change, Twitter doesn’t have to look like an endlessly flowing, context-free stream of tweets; instead, you can see a hand-curated set of tweets, links, images, and videos related to what’s happening right now. You see one at a time, swiping through them until you get to the end. And there’s an end!”
-</p></blockquote>
-<p>Since I haven’t seen this new feature, I can’t tell whether it’s a major shift in how Twitter is used. <a href="http://www.macstories.net/linked/twitters-project-lightning/">Federico Viticci is optimistic</a> about it:</p>
-<blockquote><p>
-  “This is another example of Twitter moving beyond Legacy Twitter and the belief that Twitter is still only a timeline of tweets in chronological order. The company has been enhancing the service with media improvements and design changes aimed at making Twitter less static – the opposite of a traditional timeline. If anything, they&#8217;ve been moving <em>too slowly</em> in this area.”
-</p></blockquote>
-<p>I agree with Federico on the value of curation and surfacing great content. But also the timeline must remain at the heart of Twitter, just as a reverse-chronological list of posts has been on every blog home page since the term weblog was coined 18 years ago.</p>
-<p>Dave Winer calls these timelines “rivers”, and last week <a href="http://scripting.com/2015/06/19/riverbrowserOpenSourceRelease.html">he open-sourced a browser</a> for the River.js timeline files. Formatted as JSONP, you can think of River.js as conceptually the same as an RSS feed, except that it’s easy to display with HTML using only JavaScript.</p>
-<p>I plan to fully support outputting River.js in the project I’m working on. For the last few years, Twitter has had a monopoly on the timeline. We need to break that up. The first step is <a href="http://www.manton.org/2015/06/microblogging-with-wordpress.html">encouraging microblogs everywhere</a>, and the next step is to build tools that embrace the timeline experience. If you’d like to see my take on this, please <a href="http://eepurl.com/6vVvj">sign up on the project announce list</a>.</p>
+<p>I don&#8217;t see the setting in my Twitter account yet. As a user, I hardly care, because I don&#8217;t read the Twitter timeline directly anyway. But I&#8217;ll be watching how people react to this and how it might affect my own microblogging plans.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/06/microblog-timelines-project-lightning-and-river-js.html/feed</wfw:commentRss>
+			<wfw:commentRss>http://www.manton.org/2016/02/algorithmic-timeline-now-rolling-out.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Why Ello isn’t enough</title>
-		<link>http://www.manton.org/2015/06/why-ello-isnt-enough.html</link>
-		<comments>http://www.manton.org/2015/06/why-ello-isnt-enough.html#comments</comments>
-		<pubDate>Sun, 21 Jun 2015 21:33:07 +0000</pubDate>
+		<title>Matt Gemmell on Twitter ads</title>
+		<link>http://www.manton.org/2016/01/matt-gemmell-on-twitter-ads.html</link>
+		<comments>http://www.manton.org/2016/01/matt-gemmell-on-twitter-ads.html#comments</comments>
+		<pubDate>Tue, 26 Jan 2016 21:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Weblogs]]></category>
-		<category><![CDATA[blogs]]></category>
-		<category><![CDATA[ello]]></category>
-		<category><![CDATA[fonts]]></category>
-		<category><![CDATA[iphone]]></category>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[ads]]></category>
 		<category><![CDATA[social]]></category>
 		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[wordpress]]></category>
 
-		<guid isPermaLink="false">http://www.manton.org/?p=2758</guid>
-		<description><![CDATA[Last week, to not much fanfare at all because nearly everyone had already lost interest, Ello shipped their iPhone app. Credit to them for attempting to build a new social network, because this is extremely difficult. But it seems to me that Ello is a bust. They needed a more compelling pitch than simply “no [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Last week, to not much fanfare at all because nearly everyone had already lost interest, <a href="http://ello.co/">Ello</a> shipped their iPhone app. Credit to them for attempting to build a new social network, because this is extremely difficult. But it seems to me that Ello is a bust. They needed a more compelling pitch than simply “no ads”.</p>
-<p>(I’ve heard some people joke about Ello’s monospaced font, but I kind of love that about Ello. If you want to differentiate yourself, design isn’t a bad place to start.)</p>
-<p>App.net was — and likely will be for many more years — the most successful attempt to compete with Twitter and Facebook. If they fell short, despite how many things they got right, how can another clone of existing social networks hope to do any better?</p>
-<p>I wish I could cheer Ello on. Spend enough time clicking around on Ello and you discover a niche but fascinating community, full of beautiful art and photos. It’s just that after so many months, there’s still not even a mention of an official API on the <a href="https://ello.co/wtf/resources/feature-list/">planned features page</a>.</p>
-<p>The next great social platform can’t be yet another centralized system. It has to be more distributed and more open even than App.net. It has to focus on writing and bloggers and embrace what is good about the web. Ello doesn’t do any of these things.</p>
+		<guid isPermaLink="false">http://www.manton.org/?p=3447</guid>
+		<description><![CDATA[Matt Gemmell has started including shorter posts on his blog. Today he writes about Twitter’s decision to not show ads to some popular users: &#8220;There are problems with that approach, the main one being the tacit admission that their ads are detrimental. If you’re rewarding people by reducing the hostility of their experience, maybe just [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Matt Gemmell has <a href="http://mattgemmell.com/briefly/">started including shorter posts</a> on his blog. <a href="http://mattgemmell.com/tiered-social-media/">Today he writes</a> about Twitter’s decision to not show ads to some popular users:</p>
+<blockquote><p>
+  &#8220;There are problems with that approach, the main one being the tacit admission that their ads are detrimental. If you’re rewarding people by reducing the hostility of their experience, maybe just fix the experience for everyone, and find something positive to charge for instead.&#8221;
+</p></blockquote>
+<p>Ads are the worst. I don’t know if it’s possible to build a large-scale social network like Twitter or Facebook without being mostly ad-supported, but I&#8217;d like to believe it is. WordPress.com — which has elements of a social network, even though we don’t consider it one — might be the closest successful attempt.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/06/why-ello-isnt-enough.html/feed</wfw:commentRss>
+			<wfw:commentRss>http://www.manton.org/2016/01/matt-gemmell-on-twitter-ads.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Long-form writing as a filter</title>
+		<link>http://www.manton.org/2016/01/long-form-writing-as-a-filter.html</link>
+		<comments>http://www.manton.org/2016/01/long-form-writing-as-a-filter.html#comments</comments>
+		<pubDate>Mon, 25 Jan 2016 14:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[essays]]></category>
+		<category><![CDATA[microblogging]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[writing]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3429</guid>
+		<description><![CDATA[Soroush Khanlou, looking for more new blogs to read, makes a great point that the process of blogging leads to better writing: “Opening my RSS reading and finding 30 unread items makes me happy. Opening Twitter and seeing 150 new tweets feels like work. I&#8217;m not sure why that is. I think Twitter has become [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Soroush Khanlou, looking for <a href="http://khanlou.com/2016/01/a-call-for-blogs/">more new blogs to read</a>, makes a great point that the process of blogging leads to better writing:</p>
+<blockquote><p>
+  “Opening my RSS reading and finding 30 unread items makes me happy. Opening Twitter and seeing 150 new tweets feels like work. I&#8217;m not sure why that is. I think Twitter has become more negative, and the ease of posting quick bursts makes posting negative stuff easy. With blogging, writing something long requires time, words, and an argument. Even the passing thought of ‘should I post this’ creates a filter that lets only better <em>stuff</em> through.”
+</p></blockquote>
+<p>I think there’s something to that. It’s often only after writing our thoughts down that we fully understand how we feel about a topic.</p>
+<p>And here’s where I bring this back to microblogging. Because when starting a post, we don&#8217;t always know whether it will be long or short. How often have you seen a series of tweets that in hindsight even the author would agree should have been a blog post?</p>
+<p>This is less of a problem if instead of tweeting you start out with the intention of posting to your own site. Short post can stay short, and posts requiring more words can naturally expand to a full essay.</p>
+<p>I don’t think that our short-form, seemingly unimportant writing should exclusively be on centralized networks. If it’s worth the time to write something — whether a thoughtful essay or a fleeting one-off microblog post — then it’s worth owning and publishing at your own domain name.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/01/long-form-writing-as-a-filter.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Ignoring follower counts</title>
+		<link>http://www.manton.org/2016/01/ignoring-follower-counts.html</link>
+		<comments>http://www.manton.org/2016/01/ignoring-follower-counts.html#comments</comments>
+		<pubDate>Wed, 20 Jan 2016 21:09:00 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[followers]]></category>
+		<category><![CDATA[stats]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3398</guid>
+		<description><![CDATA[I&#8217;ve said before that there&#8217;s something about the 140-character limit that brings out both the best and worst in people. Nick Harris hints at this while writing about taking a break from Twitter: &#8220;But largely ignoring the Twitter Noise Machine – particularly when my timeline becomes the Twitter Hate Machine – is going to be [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;ve said before that there&#8217;s something about the 140-character limit that brings out both the best and worst in people. <a href="https://nickharris.wordpress.com/2016/01/20/twitter/">Nick Harris hints at this</a> while writing about taking a break from Twitter:</p>
+<blockquote><p>
+  &#8220;But largely ignoring the Twitter Noise Machine – particularly when my timeline becomes the Twitter Hate Machine – is going to be good for me.&#8221;
+</p></blockquote>
+<p>He also talks about the obsession with stats and follower counts, which <a href="http://inessential.com/2016/01/20/nick_on_twitter">Brent Simmons picks up on</a> and carries further:</p>
+<blockquote><p>
+  &#8220;I did have Google Analytics for a few months in 2014 when I was doing sponsorships. I spent too much time looking at the numbers and trying to make them go up. But no amount of going-up is ever satisfying: I just wanted more.&#8221;
+</p></blockquote>
+<p>When designing my new microblogging platform, I made a conscious decision to <em>not even show follower counts</em>. You can get the followers from the API, but I didn&#8217;t want to have the numbers right in your face when viewing someone&#8217;s profile. It&#8217;s too easy for us to make a judgement based on how many followers they have, and so miss out on whatever they have to say.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/01/ignoring-follower-counts.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Here&#8217;s a Twitter feed</title>
+		<link>http://www.manton.org/2016/01/fine-heres-a-twitter-feed.html</link>
+		<comments>http://www.manton.org/2016/01/fine-heres-a-twitter-feed.html#comments</comments>
+		<pubDate>Tue, 19 Jan 2016 14:30:00 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[adn]]></category>
+		<category><![CDATA[crosspost]]></category>
+		<category><![CDATA[ifttt]]></category>
+		<category><![CDATA[indiewebcamp]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3380</guid>
+		<description><![CDATA[Whenever someone says &#8220;I don&#8217;t read RSS&#8221;, I actually hear &#8220;I don&#8217;t read Manton&#8217;s blog&#8221;. I could give plenty of reasons why they&#8217;re missing out by ignoring RSS — it&#8217;s still the best way to keep up with bloggers you like who aren&#8217;t linked or retweeted often enough to bubble up on Twitter — but [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Whenever someone says &#8220;I don&#8217;t read RSS&#8221;, I actually hear &#8220;I don&#8217;t read Manton&#8217;s blog&#8221;. I could give plenty of reasons why they&#8217;re missing out by ignoring RSS — it&#8217;s still the best way to keep up with bloggers you like who aren&#8217;t linked or retweeted often enough to bubble up on Twitter — but some people won&#8217;t be convinced.</p>
+<p>Over three years ago I stopped posting to Twitter. I know it was the right move on principle because there was a real cost in exposure, with fewer people actively keeping up with what I&#8217;ve been working on. <a href="http://www.manton.org/2014/05/core_intuition_136.html">As I&#8217;ve said before</a>: it wouldn’t mean anything if it didn’t cost me anything.</p>
+<p>And yet, many people get their news from Twitter. Since I started <a href="http://www.manton.org/category/micro">microblogging on my own site</a>, I&#8217;ve had time to reflect on the roll of indie microblogging and cross-posting. I think the <a href="http://indiewebcamp.com/POSSE">IndieWebCamp has it right</a>: publish on your own site, syndicate elsewhere. I wrote more back in July <a href="http://www.manton.org/2015/07/embrace-cross-posting.html">about cross-posting</a>.</p>
+<p>Most importantly, as I work on a microblog publishing platform of my own, how can I develop a solid cross-posting feature if I don&#8217;t actively use it myself? <a href="http://www.manton.org/2015/06/microblogging-with-wordpress.html">I&#8217;ve recommended IFTTT</a> to beta testers, but only by using it myself can I know where the gaps in functionality are.</p>
+<p>So I&#8217;ve been experimenting. All of my posts now go out to the Twitter account @manton2. This was an account I created 6 years ago for testing. Except for a few of the first tweets, I&#8217;ve cleared out the test content and given it a new life.</p>
+<p>It&#8217;s worth noting some advantages and disadvantages to this:</p>
+<ul>
+<li>I can write at my domain name and own my content, but have it automatically sent to Twitter for folks who are there. Unlike how I&#8217;ve been treating these cross-posts to App.net, I&#8217;m not sure whether I will stay engaged and answer replies on Twitter. We&#8217;ll see.</li>
+<li>Most of my microblog posts are around 200 characters. These will get truncated on Twitter, with a link back to my site. Full essays get a nicer title and link. I&#8217;ll continue to improve this.</li>
+<li>I&#8217;m effectively starting over with zero followers, compared to the 5000 followers I left @manton with. I have no plans to resume using my original account, though. Think of the &#8220;2&#8221; in @manton2 as a reminder that this is a mirror of my posts, and an imperfect one.</li>
+</ul>
+<p>You can follow <a href="http://twitter.com/manton2">@manton2 on Twitter</a>. Thanks for reading.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/01/fine-heres-a-twitter-feed.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 2.703 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-01-06 12:40:36 -->
+<!-- Dynamic page generated in 0.363 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-04-14 14:56:33 -->

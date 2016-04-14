@@ -12,12 +12,120 @@
 	<atom:link href="http://www.manton.org/tag/coffee/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Wed, 06 Jan 2016 17:11:57 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<generator>http://wordpress.org/?v=4.3.3</generator>
 	<item>
+		<title>Coffee shops in Portland</title>
+		<link>http://www.manton.org/2016/04/coffee-shops-in-portland.html</link>
+		<comments>http://www.manton.org/2016/04/coffee-shops-in-portland.html#comments</comments>
+		<pubDate>Fri, 01 Apr 2016 19:21:17 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[coffee]]></category>
+		<category><![CDATA[lattes]]></category>
+		<category><![CDATA[microblogging]]></category>
+		<category><![CDATA[portland]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3812</guid>
+		<description><![CDATA[Following a similar pattern as my 30 days of coffee shops, my friend Jon Hays has started mapping out a challenge to hit a month of coffee shops in Portland. The twist on his visits will be to focus mostly on the east side of Portland, and to only have lattes. First post: Cathedral Coffee. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Following a similar pattern as <a href="http://www.manton.org/coffee-shops-austin">my 30 days of coffee shops</a>, my friend Jon Hays has started mapping out a challenge to hit a month of coffee shops in Portland. The twist on his visits will be to focus mostly on the east side of Portland, and to only have lattes. First post: <a href="http://jonhays.me/2016/04/01/cathedral-coffee/">Cathedral Coffee</a>.</p>
+<p>Jon is documenting the coffee shop visits on <a href="http://jonhays.me/">his new microblog</a>. An indie microblog is a great framework for posting this kind of thing, without the overhead and pressure that many people feel when faced with writing full-length blog posts.</p>
+<p>See also: <a href="https://aaronparecki.com/tag/500lattes">the 500 latte photos</a> project by Aron Parecki, which looks like it wrapped up at a (still impressive) 312 lattes; and <a href="http://www.tinychallenges.com/">Tiny Challenges</a>, a site and podcast from Daniel Steinberg and Jaimee Newberry about trying something new each day for a month.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/04/coffee-shops-in-portland.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Core Intuition 224</title>
+		<link>http://www.manton.org/2016/03/core-intuition-224.html</link>
+		<comments>http://www.manton.org/2016/03/core-intuition-224.html#comments</comments>
+		<pubDate>Fri, 18 Mar 2016 21:11:33 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[amazonecho]]></category>
+		<category><![CDATA[coffee]]></category>
+		<category><![CDATA[coreint]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3728</guid>
+		<description><![CDATA[We posted episode 224 of Core Intuition today. From the show notes: &#8220;Manton and Daniel discuss Apple’s revelation that Cookie Monster uses an iPhone, consider the Amazon Echo as the next big technology platform, and catch up with Manton’s successful 30 days of Austin coffee challenge.&#8221; I like this episode because it touches a little [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We posted <a href="http://www.coreint.org/2016/03/episode-224-its-good-enough-for-cookie-monster/">episode 224 of Core Intuition today</a>. From the show notes:</p>
+<blockquote><p>
+  &#8220;Manton and Daniel discuss Apple’s revelation that Cookie Monster uses an iPhone, consider the Amazon Echo as the next big technology platform, and catch up with Manton’s successful 30 days of Austin coffee challenge.&#8221;
+</p></blockquote>
+<p>I like this episode because it touches a little on tech industry and business themes that we weren&#8217;t planning to talk about, so it captures whatever our gut feelings were on those topics. And as we talk about at the end of the show, I did end up wrapping up the coffee shop visits today. I&#8217;ve updated <a href="http://www.manton.org/coffee-shops-austin">the coffee shop page on this site</a> with the final list.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/03/core-intuition-224.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Is this even possible?</title>
+		<link>http://www.manton.org/2016/02/is-this-even-possible.html</link>
+		<comments>http://www.manton.org/2016/02/is-this-even-possible.html#comments</comments>
+		<pubDate>Sat, 27 Feb 2016 21:08:33 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[austin]]></category>
+		<category><![CDATA[coffee]]></category>
+		<category><![CDATA[coreint]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3580</guid>
+		<description><![CDATA[When I tell people that I&#8217;ve started going to a new coffee shop every day for a month — and importantly, one which I&#8217;ve never been to before after living my whole life in Austin, with no duplicates or separate locations from a coffee chain — they usually ask: are you going to run out of [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>When I tell people that <a href="http://www.manton.org/coffee-shops-austin">I&#8217;ve started going to a new coffee shop every day</a> for a month — and importantly, one which I&#8217;ve never been to before after living my whole life in Austin, with no duplicates or separate locations from a coffee chain — they usually ask: are you going to run out of places to go? At the beginning I didn&#8217;t know. And that has made it a particularly fun challenge, because <em>doing something that you know is possible is boring</em>.</p>
+<p>I&#8217;ve never been interested in building an iOS app that someone else has already done. I&#8217;ve never been excited to write a blog post that is just a rephrasing of someone else&#8217;s idea. Starting a new project with a unique twist, even a minor one, is what makes our job as developers and writers fun.</p>
+<p>And it&#8217;s easy to take a simple idea and build it into a more advanced project. <a href="http://www.coreint.org/2016/02/episode-221-in-the-zone-of-programming/">On the latest Core Intuition</a>, Daniel continues to suggest ways to add layers to my coffee trips, from adding photos, to publishing future locations ahead of time so that anyone can stop by and join me for a coffee. (I&#8217;m going to be doing this.)</p>
+<p>Now at day 10, I can more easily answer the original question, though. I have 16 suggested coffee shops in the queue, so if I visit all of those, I&#8217;ll only need 4 more places to hit 30 new coffee shops in 30 days. A few of these might seem like borderline cheats — a donut shop, or a food truck to pick up a Thai iced coffee — but being exposed to new places I would never otherwise go is the whole point.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/02/is-this-even-possible.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>New coffee shops, week 1</title>
+		<link>http://www.manton.org/2016/02/new-coffee-shops-week-1.html</link>
+		<comments>http://www.manton.org/2016/02/new-coffee-shops-week-1.html#comments</comments>
+		<pubDate>Wed, 24 Feb 2016 21:14:10 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[coffee]]></category>
+		<category><![CDATA[environment]]></category>
+		<category><![CDATA[home]]></category>
+		<category><![CDATA[work]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3559</guid>
+		<description><![CDATA[I’ve now wrapped up the first week of my attempt to visit a new coffee shop I’ve never been to, every day for a month. To track the progress, I’ve created a web page with all the visits so far, the coffee shops I hope to try soon, and also a bunch of places I’ve [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I’ve now wrapped up the first week of my attempt to visit a new coffee shop I’ve never been to, every day for a month. To track the progress, I’ve <a href="http://www.manton.org/coffee-shops-austin">created a web page</a> with all the visits so far, the coffee shops I hope to try soon, and also a bunch of places I’ve already been over the years (and so which are disqualified from this endeavor).</p>
+<p>This has required a little more planning than I expected. I’ll be going to all corners of the city to not repeat myself for a full 30 days. Even then, I’ll have to broaden my search to include more traditional cafes and donut shops too.</p>
+<p>I’ve also realized that I need to do a better job of ordering something unique when it’s on the menu, or asking for a recommendation. After all, the point is to get out of the house more often — to take a break from the isolated work-from-home environment, be exposed to something new, even if it’s just a simple drink or view outside, and get back to my current projects refreshed.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/02/new-coffee-shops-week-1.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Core Intuition 220</title>
+		<link>http://www.manton.org/2016/02/core-intuition-220.html</link>
+		<comments>http://www.manton.org/2016/02/core-intuition-220.html#comments</comments>
+		<pubDate>Fri, 19 Feb 2016 17:09:34 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[coffee]]></category>
+		<category><![CDATA[fbi]]></category>
+		<category><![CDATA[kickstarter]]></category>
+		<category><![CDATA[printers]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3529</guid>
+		<description><![CDATA[On this week&#8217;s Core Int: &#8220;Daniel orders a Brother, Apple defies the FBI, Manton continues to struggle with his Kickstarter, and the two discuss using structure and constraints to encourage tackling new goals.&#8221; I like this episode because it has a mix of serious and fun topics. Toward the end of the episode we talk [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>On <a href="http://www.coreint.org/2016/02/episode-220-keep-creating-random-goals/">this week&#8217;s Core Int</a>:</p>
+<blockquote><p>
+  &#8220;Daniel orders a Brother, Apple defies the FBI, Manton continues to struggle with his Kickstarter, and the two discuss using structure and constraints to encourage tackling new goals.&#8221;
+</p></blockquote>
+<p>I like this episode because it has a mix of serious and fun topics. Toward the end of the episode we talk about my new goal of trying a new coffee shop once a day for a month.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/02/core-intuition-220.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>200 MB free</title>
 		<link>http://www.manton.org/2013/12/200_mb_free.html</link>
 		<comments>http://www.manton.org/2013/12/200_mb_free.html#comments</comments>
@@ -83,5 +191,5 @@
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 2.341 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-01-06 13:40:40 -->
+<!-- Dynamic page generated in 0.323 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-04-14 15:00:16 -->

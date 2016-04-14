@@ -12,12 +12,89 @@
 	<atom:link href="http://www.manton.org/tag/iphone/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Wed, 06 Jan 2016 17:11:57 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<generator>http://wordpress.org/?v=4.3.3</generator>
 	<item>
+		<title>Apple Watch is slow&#8230; for now</title>
+		<link>http://www.manton.org/2016/02/apple-watch-is-slow-for-now.html</link>
+		<comments>http://www.manton.org/2016/02/apple-watch-is-slow-for-now.html#comments</comments>
+		<pubDate>Sun, 28 Feb 2016 21:20:01 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[applewatch]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[performance]]></category>
+		<category><![CDATA[snowboarding]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3587</guid>
+		<description><![CDATA[Dan Moren wrote an essay for Six Colors last week about why slowness is such a problem for the Apple Watch: “The stale data and the lack of speed means that either you have to stare at your Watch for several seconds and hope the data updates; or tap on the complication to load the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://sixcolors.com/2016/02/why-slowness-is-killing-the-apple-watch/">Dan Moren wrote an essay for Six Colors last week</a> about why slowness is such a problem for the Apple Watch:</p>
+<blockquote><p>
+  “The stale data and the lack of speed means that either you have to stare at your Watch for several seconds and hope the data updates; or tap on the complication to load the Watch app, which as we all know takes a good long while as well; or simply give up and pull out your phone. [&#8230;] It’s not just that the Apple Watch is slow; it’s that it’s slow <em>while promising to be faster</em>.”
+</p></blockquote>
+<p>Both Dan and Jason Snell followed up on this topic in the latest Six Colors subscriber podcast. The problem, they recognized, is that the first Apple Watch tried to do too much. Apple should instead focus on a few core features and make them fast.</p>
+<p>Which features? I still use the Apple Watch every single day, and I use it for just three things: telling the time, tracking fitness (including reminding me to stand up), and glancing at notifications.</p>
+<p>Some people have stopped wearing their watch every day. Again, <a href="http://www.manton.org/2016/01/apple-watch-still-pretty-great.html">that&#8217;s fine</a>. Curtis Herbert was falling into that category, until he went snowboarding with friends and realized how useful the Apple Watch is when you can’t get to your phone or tap buttons. <a href="http://blog.curtisherbert.com/apple-watch-makes-the-perfect-snowboarding-companion/">In an article about the snowboarding trip</a>, Curtis says the Apple Watch’s problems are solvable in future versions:</p>
+<blockquote><p>
+  “Siri on the Watch will get faster. The battery situation will improve. The Watch as a whole will get faster. We&#8217;re spoiled by iPhone speeds and sometimes forget just how long it took us to get there, and the crap we dealt with until then.”
+</p></blockquote>
+<p>I’m not worried about the future of the watch either. Our early expectations were much too high — in contrast with the first iPhone, which exceeded all hopes because it was seemingly from the future already — and it will take a couple more years to catch up to where we’d all like the watch to be. In the meantime, the watch is useful today, even slow-ish.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/02/apple-watch-is-slow-for-now.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Lightweight universal apps</title>
+		<link>http://www.manton.org/2016/01/lightweight-universal-apps.html</link>
+		<comments>http://www.manton.org/2016/01/lightweight-universal-apps.html#comments</comments>
+		<pubDate>Sun, 17 Jan 2016 14:35:12 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[apps]]></category>
+		<category><![CDATA[ipad]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[iphone6s]]></category>
+		<category><![CDATA[universal]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3388</guid>
+		<description><![CDATA[When the iPad first shipped, many developers embraced completely separate apps for iPhone and iPad. The argument was that they were different platforms and deserved special design attention (and separate revenue). I never bought this argument, and eventually — with the iPhone 6 Plus and multiple screen sizes — everyone agreed that it just made [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>When the iPad first shipped, many developers embraced completely separate apps for iPhone and iPad. The argument was that they were different platforms and deserved special design attention (and separate revenue). I never bought this argument, and eventually — with the iPhone 6 Plus and multiple screen sizes — everyone agreed that it just made more sense to use universal apps.</p>
+<p>At the same time, there&#8217;s a parallel argument that an app on the iPad shouldn&#8217;t just be a &#8220;scaled up&#8221; version of the iPhone. That if you can&#8217;t invest the time to do a universal app properly, don&#8217;t bother.</p>
+<p>The redesigned Twitter iOS app was a great example of this. <a href="https://www.macstories.net/news/twitter-aims-to-unify-ios-apps-updates-its-ipad-app/">It was widely mocked</a> for it&#8217;s poor use of space on the iPad.</p>
+<p>With the iPad Pro and widespread iPad multitasking, I think this changes again. An iPad app that is designed exactly the same as its iPhone version is still very useful in slide-over and split screen. In fact, for many &#8220;iPad&#8221; apps I use every day on the iPad Pro, I use them in their compact layout <em>more often</em> than full screen.</p>
+<p>My next app was designed for the iPhone. I spent some time trying to rework it with split views for the iPad Pro, but I just can&#8217;t justify the work right now to finish that effort. I&#8217;m going to ship it as a &#8220;lightweight&#8221; universal app anyway, though, so that it&#8217;s available in slide-over. To me, that&#8217;s a worthwhile compromise, significantly better than no offering on the iPad at all.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/01/lightweight-universal-apps.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>A8 or A9 for the iPhone 6C</title>
+		<link>http://www.manton.org/2016/01/a8-or-a9-for-the-iphone-6c.html</link>
+		<comments>http://www.manton.org/2016/01/a8-or-a9-for-the-iphone-6c.html#comments</comments>
+		<pubDate>Wed, 13 Jan 2016 22:34:31 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[iphone6c]]></category>
+		<category><![CDATA[rumors]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3366</guid>
+		<description><![CDATA[I&#8217;ve talked about my hope for a new 4-inch iPhone several times on Core Intuition, and a few times on this weblog, like here and here. The rumors keep growing, and Stephen Hackett has written out his thoughts on a potential iPhone 6C: “The easy assumption is that the 6C would replace the aging 5S [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;ve talked about my hope for a new 4-inch iPhone several times on <a href="http://www.coreint.org/">Core Intuition</a>, and a few times on this weblog, like <a href="http://www.manton.org/2015/11/4-inch-iphone-rumors.html">here</a> and <a href="http://www.manton.org/2015/07/matt-bonner-and-the-iphone-6.html">here</a>. The rumors keep growing, and <a href="http://www.512pixels.net/blog/2016/1/thoughts-on-an-iphone-6c">Stephen Hackett has written out his thoughts</a> on a potential iPhone 6C:</p>
+<blockquote><p>
+  “The easy assumption is that the 6C would replace the aging 5S as the free-or-very-cheap option, but the recurring rumor of the 6C being powered by the A9 makes me think this may slide in roughly where the iPhone 6/6 Plus currently sits in the lineup.”
+</p></blockquote>
+<p>I&#8217;d love to see an A9, but I&#8217;m not counting on it. I think an A8 is fine too, mostly matching the internals of the latest iPod Touch. This wouldn&#8217;t be competitive with the iPhone 6S but it would still be a great upgrade from the iPhone 5S, which is the primary phone for anyone (like me) who still clings to the 4-inch design.</p>
+<p>The larger 4.7-inch and 5.5-inch designs will remain the top of the line iPhones for years to come. The 6C doesn&#8217;t need to change that; it&#8217;s not a peer to the larger phones. It just needs to clean up all the money Apple&#8217;s left on the table from customers who want a smaller phone. I&#8217;ll buy one right away.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/01/a8-or-a9-for-the-iphone-6c.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Wrap-up thoughts on the TV web</title>
 		<link>http://www.manton.org/2015/09/wrap-up-thoughts-on-the-tv-web.html</link>
 		<comments>http://www.manton.org/2015/09/wrap-up-thoughts-on-the-tv-web.html#comments</comments>
@@ -192,92 +269,8 @@
 			<wfw:commentRss>http://www.manton.org/2014/01/launch_center_pro.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
-		<item>
-		<title>Apple’s misunderstood ad</title>
-		<link>http://www.manton.org/2013/12/apples_misunderstood_ad.html</link>
-		<comments>http://www.manton.org/2013/12/apples_misunderstood_ad.html#comments</comments>
-		<pubDate>Tue, 17 Dec 2013 05:32:59 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Technology]]></category>
-		<category><![CDATA[ads]]></category>
-		<category><![CDATA[apple]]></category>
-		<category><![CDATA[iphone]]></category>
-		<category><![CDATA[tv]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2013/12/apples_misunderstood_ad.html</guid>
-		<description><![CDATA[Apple has produced some amazing ads over the years. 1984, introducing the original Mac; the Think Different campaign; and one of my favorite this year, about photos. Their new ad “Misunderstood” is also great. Federico Viticci has a rundown of the details and how brilliantly it unfolds. I first noticed the video via Neven Mrgan, [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Apple has produced some amazing ads over the years. 1984, introducing the original Mac; the Think Different campaign; and one of my favorite this year, <a href="http://www.youtube.com/watch?v=NoVW62mwSQQ">about photos</a>.</p>
-<p>Their new ad “Misunderstood” is also great. <a href="http://www.macstories.net/news/apple-airs-iphone-5s-holiday-commercial-featuring-airplay/">Federico Viticci has a rundown</a> of the details and how brilliantly it unfolds. I first noticed the video via Neven Mrgan, who had <a href="https://alpha.app.net/mrgan/post/17528712">this to say on App.net</a>:</p>
-<blockquote><p>
-  “Apple’s new ad (‘Misunderstood’) is technically perfect: <a href="https://www.youtube.com/watch?v=ImlmVqH_5HM">https://www.youtube.com/watch?v=ImlmVqH_5HM</a> …but I have to say it doesn’t quite ring true to me. Kids use iPhones to shut out the family and hang out within their own social circle (and that’s ok).”
-</p></blockquote>
-<p>He’s right. My daughters will likely escape to Instagram and various chat apps to connect with their friends through the holidays. But also I think ads like this work so well not because they represent reality, not because they’re true, but because we want them to be.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/12/apples_misunderstood_ad.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Searching abandoned apps</title>
-		<link>http://www.manton.org/2013/04/searching_abandoned_apps.html</link>
-		<comments>http://www.manton.org/2013/04/searching_abandoned_apps.html#comments</comments>
-		<pubDate>Mon, 08 Apr 2013 17:34:22 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Technology]]></category>
-		<category><![CDATA[appstore]]></category>
-		<category><![CDATA[iphone]]></category>
-		<category><![CDATA[nicemohawk]]></category>
-		<category><![CDATA[old]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2013/04/searching_abandoned_apps.html</guid>
-		<description><![CDATA[Ben Lachman has some good suggestions after my post and David Smith’s on what to do with abandoned apps, saying that apps should be more clearly labelled as “abandoned”. Which device you’re using could also have an impact on search results: “Search results could be weighted by the device you are using quite heavily. Just [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="http://nicemohawk.com/blog/2013/03/making-the-app-store-a-nicer-place/">Ben Lachman has some good suggestions</a> after <a href="http://www.manton.org/2013/03/app_store_old_app.html">my post</a> and <a href="http://david-smith.org/blog/2013/03/21/purging-the-back-catalog/">David Smith’s</a> on what to do with abandoned apps, saying that apps should be more clearly labelled as “abandoned”. Which device you’re using could also have an impact on search results:</p>
-<blockquote><p>
-  “Search results could be weighted by the device you are using quite heavily. Just like how on iPhone you don’t see iPad-only apps when searching the app store; on iPhone 5 you should be very unlikely to see apps that only support 3.5-inch screens.”
-</p></blockquote>
-<p>Makes sense to me. Also check out his comment at the end, that kids these days may have a very difficult time revisiting the classic apps from today, 20 years from now.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/04/searching_abandoned_apps.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Three ADN clients for iPhone</title>
-		<link>http://www.manton.org/2013/03/three_adn_clients.html</link>
-		<comments>http://www.manton.org/2013/03/three_adn_clients.html#comments</comments>
-		<pubDate>Mon, 25 Mar 2013 18:32:26 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[User Experience]]></category>
-		<category><![CDATA[adn]]></category>
-		<category><![CDATA[ipad]]></category>
-		<category><![CDATA[iphone]]></category>
-		<category><![CDATA[review]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2013/03/three_adn_clients.html</guid>
-		<description><![CDATA[Lots of new people are joining App.net. If you’re one of them, welcome! In this post I’m going to briefly review 3 of the most popular iPhone clients: Netbot, Felix, and Riposte. You can’t really go wrong with any of these three apps. And if you’re looking for a Mac client, my current favorite is [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Lots of new people are joining App.net. If you’re one of them, welcome! In this post I’m going to briefly review 3 of the most popular iPhone clients: <a href="http://tapbots.com/software/netbot/">Netbot</a>, <a href="http://tigerbears.com/felix/">Felix</a>, and <a href="http://riposteapp.net/">Riposte</a>. You can’t really go wrong with any of these three apps. And if you’re looking for a Mac client, my current favorite is <a href="http://kiwi-app.net/">Kiwi</a>.</p>
-<p><img src="http://www.manton.org/images/2013/adn_netbot.png" alt="Netbot" border="0" width="180" height="259" style="float:right; padding: 5px;" /></p>
-<p><strong>Netbot</strong> is nearly identical to Tweetbot. It shares most of the same source and all of the same UI design. That common heritage is great because it’s familiar to fans of Tweetbot, and it allowed Tapbots to launch onto App.net in a big way, leapfrogging all other clients that were under development at that time.</p>
-<p>But the familiar design is a double-edged sword. Not just because the App.net API will evolve and diverge from the Twitter API, but because if you switch between both Tweetbot and Netbot often, you may need to be careful that you remember which app you’re posting from. This was a problem for me since I no longer post to Twitter, and the last thing I wanted to do was accidentally leave a new post there after a 5-month absence.</p>
-<p>All the usual features you’d expect are present in Netbot: timeline, mentions, private messages, multiple accounts, and sync with Stream Marker. It even has an iPad version, which you may want to pick up even if you chose a different primary app on the iPhone.</p>
-<p>Netbot also has one big feature that most App.net clients don’t have: post search. This is not part of the core App.net API. Tapbots rolled their own search server so that they could offer this feature inside the app.</p>
-<p><em>Sidenote plug: if you want search for all the posts from anyone you’re following, and your own posts, consider my web app <a href="http://watermark.io/">Watermark</a>. You can subscribe on the web or <a href="https://itunes.apple.com/app/watermark-mobile/id566886320?ls=1&amp;mt=8">in the iPhone version</a>.</em></p>
-<p><img src="http://www.manton.org/images/2013/adn_felix.png" alt="Felix" border="0" width="180" height="259" style="float:right; padding: 5px;" /></p>
-<p><strong>Felix</strong> is possibly the most mature and actively maintained of the App.net-exclusive apps. You can tell <a href="https://alpha.app.net/billkunz">from his App.net posts</a> that the developer is passionate about App.net and determined to keep making his app better.</p>
-<p>The current version supports all the basic features as well as push notifications, narrow inline image previews that take the full width of the screen, iCloud sync for drafts, starred conversations, and a brand new feature in version 1.5: collapsing posts you don’t want to see, similar to Twitterrific 5’s muffling. The only omission is that it does not yet support multiple accounts.</p>
-<p>Felix is also unique in that it is the only one of these 3 apps that is not free. The other apps are counting on the <a href="http://blog.app.net/2012/09/27/announcing-the-app-net-developer-incentive-program/">Developer Incentive Program</a> to send them a check each month instead of relying on traditional sales. Felix is a good value at $5, though, and the price shouldn’t stop you from trying it out, especially as it is a very small amount compared to the paid App.net subscription itself.</p>
-<p>There are a number of gestures in Felix. One interesting shortcut — which may also be familiar to users of Twitterrific 5 — is swipe right to quickly start a reply. I personally found that this breaks the illusion of gestures as direct manipulation, though. Since swiping to the left pulls forward the conversation, doing the reverse swipe should go back to the timeline. (<strong>Update:</strong> There’s actually a setting in Felix to switch this behavior.)</p>
-<p>Felix also added a clever trick in its post composition window. You can swipe the text view to move the selection cursor one character over, or use two fingers to swipe across an entire word at a time. This saves a lot of time tapping-and-holding and fiddling with the magnifying glass. Felix is packed with little details and shortcuts like this.</p>
-<p><img src="http://www.manton.org/images/2013/adn_riposte.png" alt="Riposte" border="0" width="180" height="259" style="float:right; padding: 5px;" /></p>
-<p><strong>Riposte</strong> is beautifully done, with a clear design and a simple left/right gesture system to navigate through anything in the app. By default, there is no toolbar or tabs; everything is full-screen. Following Netbot’s lead, the developers of Riposte have decided to make their app free, and they have <a href="http://riposteapp.net/why-were-free.html">written up some thoughts on why</a>.</p>
-<p>Multiple accounts are handled well and it’s easy to switch between them. Like Felix and Netbot, push notifications are supported. Riposte uses large square inline images. It’s got a great interactions view that shows users who have recently followed you or starred your posts.</p>
-<p>Riposte mirrors Felix’s compose text view gestures, and Riposte was the first to introduce 2-finger swipes in that text view. I love that both apps now support these gestures about equally, and hope to see many more apps steal this feature soon.</p>
-<p>Since it doesn’t have tabs, switching between timeline, mentions, global stream, and other views is done through a slide-out panel, <a href="http://kenyarmosh.com/ios-pattern-slide-out-navigation/">popularized in early apps</a> like Facebook, Path, and Sparrow, and now very common everywhere, including my own Twitter app <a href="http://www.riverfold.com/software/tweetlibrary/">Tweet Library</a>. It’s a swipe and a tap instead of the single tap of Netbot or Felix, but it is space-efficient and fits the flow of gestures in Riposte.</p>
-<p>While Riposte holds its own against the competition, I think it will be chosen most not for its features but for its design. The striking full-screen look and consistent, discoverable gestures make this app feel great. It also has probably the most readable conversation view of any app I’ve used, where the focused post appears immediately and then is surrounded with the full conversation using smaller text. That design is even maintained in HTML email when sending a conversation from the app.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/03/three_adn_clients.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 2.212 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-01-06 13:18:45 -->
+<!-- Dynamic page generated in 0.339 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-04-14 14:56:42 -->

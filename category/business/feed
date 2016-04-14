@@ -12,12 +12,139 @@
 	<atom:link href="http://www.manton.org/category/business/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Wed, 06 Jan 2016 17:11:57 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<generator>http://wordpress.org/?v=4.3.3</generator>
 	<item>
+		<title>Miitomo and Wii Transfer</title>
+		<link>http://www.manton.org/2016/03/miitomo-and-wii-transfer.html</link>
+		<comments>http://www.manton.org/2016/03/miitomo-and-wii-transfer.html#comments</comments>
+		<pubDate>Thu, 31 Mar 2016 17:08:27 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[miis]]></category>
+		<category><![CDATA[miitomo]]></category>
+		<category><![CDATA[nintendo]]></category>
+		<category><![CDATA[timetable]]></category>
+		<category><![CDATA[wiitransfer]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2016/03/miitomo-and-wii-transfer.html</guid>
+		<description><![CDATA[On episode 18 of my Timetable podcast, which I just published this morning, I mention the new Nintendo game Miitomo. Federico Viticci also wrote about it today: I’ve been keeping an eye on Miitomo – I still don&#8217;t completely understand it, but I&#8217;m intrigued by the premise of a friend-based network with mini-games and the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://timetable.manton.org/2016/03/episode-18-waiting-for-the-se/">On episode 18</a> of my Timetable podcast, which I just published this morning, I mention the new Nintendo game Miitomo. Federico Viticci <a href="https://www.macstories.net/linked/miitomo-for-ios-goes-live-internationally/">also wrote about it today</a>:</p>
+<blockquote><p>
+  <a href="https://www.macstories.net/?s=Miitomo">I’ve been keeping an eye on Miitomo</a> – I still don&#8217;t completely understand it, but I&#8217;m intrigued by the premise of a friend-based network with mini-games and the ability to collect coins. Those coins can then be used to claim rewards and redeem other Nintendo-related content such as games and customizations. I&#8217;m curious to see how Miitomo will perform outside of Japan.
+</p></blockquote>
+<p>For a several years between 2006 and 2010, I sold and actively worked on a little Mac app called <a href="http://www.riverfold.com/software/wiitransfer/">Wii Transfer</a>. It was the first time I realized that I could make a living selling Mac software, even though it didn&#8217;t always have great sales consistently by itself. To this day, one of the features I’m most proud to have ever written is the Mii export, which could sync Mii data over Bluetooth from the Wii remotes and render it to let you save your Miis as PNG files on your Mac.</p>
+<p>I’ve often mused on Core Intuition that I stopped selling the app too soon. At one point I worked on a companion app to the Nintendo DS with similar themes, but didn’t ship it. And I considered building a version for iOS just with the Mii functionality.</p>
+<p><a href="http://www.manton.org/2012/05/saying_goodbye_to.html">From a blog post in 2012</a>, announcing that Wii Transfer would no longer be available:</p>
+<blockquote><p>
+  I’m retiring Wii Transfer to focus on my other apps. It’s not that it doesn’t sell; it still does. It’s just that it’s not an app I actually use anymore. By officially shelving the whole project, I hope to remove a psychological burden of sorts — to no longer worry that I’m ignoring an active product.
+</p></blockquote>
+<p>I&#8217;ll never know if it was a missed opportunity — a mistake for the direction of my indie business to stop selling something that people liked — or the right call to refocus around what I actually cared about. In any case, I&#8217;m glad Nintendo is doing something new with Miis. As I play with Miitomo, there&#8217;s a part of me that regrets not doing more with Nintendo-compatible software while I had a competitive head start.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/03/miitomo-and-wii-transfer.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Getting press</title>
+		<link>http://www.manton.org/2016/03/getting-press.html</link>
+		<comments>http://www.manton.org/2016/03/getting-press.html#comments</comments>
+		<pubDate>Fri, 25 Mar 2016 21:32:44 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[kickstarter]]></category>
+		<category><![CDATA[marketing]]></category>
+		<category><![CDATA[promotion]]></category>
+		<category><![CDATA[rando]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2016/03/getting-press.html</guid>
+		<description><![CDATA[As I mentioned when I first linked to Studio Neat’s Obi project on Kickstarter, I enjoyed the Thoroughly Considered podcast that came out of that endeavor. It’s now one of my favorites. On the latest show, Dan and Tom and Myke talk about the press: getting press for your product, communicating with press folks, and [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>As I mentioned when <a href="http://www.manton.org/2015/10/core-intuition-202-and-thoroughly-considered-and-stickers.html">I first linked to Studio Neat’s Obi project on Kickstarter</a>, I enjoyed the Thoroughly Considered podcast that came out of that endeavor. It’s now one of my favorites.</p>
+<p>On <a href="https://www.relay.fm/tc/10">the latest show</a>, Dan and Tom and Myke talk about the press: getting press for your product, communicating with press folks, and the impact of being featured in the press. Because Studio Neat makes physical products and not just software, their take on these topics is always good.</p>
+<p>While I’ve blogged from time to time about the press, there’s a lot that I get wrong or don’t make time for. I was impressed with David Barnard’s promotion for <a href="http://randoapp.co/">Rando</a>, a new iPhone app that was a joint venture with David, designer <a href="https://twitter.com/rickmesser">Rick Messer</a>, and <a href="http://jonhays.me/">Jonathan Hays</a> and Ryan DeVore from Silverpine Software. The app got a lot of great press coverage. Even the reviewers who weren&#8217;t convinced they&#8217;d use the app couldn’t help but recommend that readers download it. Not just because of its novelty, but because David framed the app with such a clear story.</p>
+<p>Self-promotion is hard for many of us. I try to remind myself that journalists <em>want something interesting to write about</em>. The community as a whole benefits when writers have good stories and developers have good traffic to their apps.</p>
+<p>One of the approaches I’ve been trying with my upcoming microblog platform is to write about related topics for months before the project is officially announced. It’s great because these are things I would want to write about anyway, regardless of having an app to promote, and so the heightened level of interest from beta testers and bloggers is like a bonus. Now I just have to actually ship the product while the timing is right.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/03/getting-press.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Typed.com progress updates</title>
+		<link>http://www.manton.org/2016/02/typed-com-progress-updates.html</link>
+		<comments>http://www.manton.org/2016/02/typed-com-progress-updates.html#comments</comments>
+		<pubDate>Thu, 11 Feb 2016 15:21:36 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[ghost]]></category>
+		<category><![CDATA[microblogging]]></category>
+		<category><![CDATA[rss]]></category>
+		<category><![CDATA[titles]]></category>
+		<category><![CDATA[typed]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3514</guid>
+		<description><![CDATA[The folks at Realmac have been blogging about their progress with Typed.com, a new blogging platform that successfully raised $120k on Indiegogo last year. In the latest monthly report, they announce a new free tier: “With this new free tier, people can sign-up, use the service, take their time. They can blog for free, for [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The folks at Realmac have been <a href="http://blog.typed.com/">blogging about their progress with Typed.com</a>, a new blogging platform that successfully raised $120k on Indiegogo last year. In the <a href="http://blog.typed.com/posts/typed-monthly-report-january-2016">latest monthly report</a>, they announce a new free tier:</p>
+<blockquote><p>
+  “With this new free tier, people can sign-up, use the service, take their time. They can blog for free, for as long as they want, and when they need or want the extra features we offer they can upgrade to a paid account. We also think this will be free marketing for the service, the more blog out there that are hosted with Typed.com then more people will find out about the service.”
+</p></blockquote>
+<p>This blog is in the spirit of <a href="https://open.buffer.com/">Buffer’s open blog</a> or <a href="https://ghost.baremetrics.com/">Ghost’s Baremetrics reports</a>. It’s especially great to see a company sharing numbers when they know they still have a lot of growth ahead of them to get where they want to be.</p>
+<p>If you’d like to start a new blog but aren’t sure where to host it, <a href="http://www.typed.com/">check it out</a>. Typed.com has a well-designed admin UI that is refreshingly simple compared to much of the more bloated web software out there.</p>
+<p>It’s also possible to use Typed.com as a microblog. I pointed to <a href="http://www.manton.org/2015/07/microblogging-with-typed-com.html">some tips for this last year</a>. Since the title of a post can’t be blank on Typed.com, I suggest using a date/time for the title. My new microblog platform is smart about treating those kind of short posts correctly when reading from an RSS feed.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/02/typed-com-progress-updates.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Panic 2015 updates</title>
+		<link>http://www.manton.org/2016/01/panic-2015-updates.html</link>
+		<comments>http://www.manton.org/2016/01/panic-2015-updates.html#comments</comments>
+		<pubDate>Wed, 27 Jan 2016 15:27:03 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[coda]]></category>
+		<category><![CDATA[panic]]></category>
+		<category><![CDATA[versions]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3449</guid>
+		<description><![CDATA[There’s a lot of great stuff in Panic’s 2015 report, but I’m especially struck with how well they executed on updates. This is something that successful companies get right, and which I still struggle with: continuing to make each app just a little better, with bug fixes throughout the year, instead of getting completely sidetracked [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>There’s a lot of great stuff in <a href="https://panic.com/blog/the-2015-panic-report/">Panic’s 2015 report</a>, but I’m especially struck with how well they executed on updates. This is something that successful companies get right, and which I still struggle with: continuing to make each app just a little better, with bug fixes throughout the year, instead of getting completely sidetracked with new projects. Cabel writes:</p>
+<blockquote><p>
+  “Not only did we release great things, but I feel we demonstrated dramatic dedication to our apps — we released the most high-quality, bug-free updates in our history.”
+</p></blockquote>
+<p>The product update grid that accompanies the report really underscores this:</p>
+<p><center><img src="http://www.manton.org/images/2016/panic_updates.png" width="500" height="436" alt="Panic versions" /></center></p>
+<p>Congratulations, Panic. I’ve been using the new Coda for iOS on my iPad Pro and it’s excellent.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/01/panic-2015-updates.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>iAd setback</title>
+		<link>http://www.manton.org/2016/01/iad-setback.html</link>
+		<comments>http://www.manton.org/2016/01/iad-setback.html#comments</comments>
+		<pubDate>Sat, 16 Jan 2016 13:59:49 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[developers]]></category>
+		<category><![CDATA[iads]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3384</guid>
+		<description><![CDATA[I was confused at first by Apple&#8217;s iAd announcement to developers. I read it as iAd completely shutting down, but apparently it&#8217;s just the &#8220;app network&#8221;. Still, it&#8217;s a welcome setback for those of us who were never fans of iAd. John Gruber doesn&#8217;t think Apple&#8217;s heart is really in it: &#8220;When iAd launched, its [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I was confused at first by <a href="https://developer.apple.com/news/?id=01152016a">Apple&#8217;s iAd announcement to developers</a>. I read it as iAd completely shutting down, but apparently it&#8217;s just the &#8220;app network&#8221;. Still, it&#8217;s a welcome setback for those of us who were never fans of iAd.</p>
+<p><a href="http://daringfireball.net/linked/2016/01/15/iad">John Gruber</a> doesn&#8217;t think Apple&#8217;s heart is really in it:</p>
+<blockquote><p>
+  &#8220;When iAd launched, its biggest advocate among Apple’s leadership was Scott Forstall. In some ways I’m surprised it took this long for them to pull the plug. After Forstall, I don’t think anyone’s heart was in this.&#8221;
+</p></blockquote>
+<p>I agree. Back in 2010, I said that <a href="http://www.manton.org/2010/09/i_hope_iad.html">I hope iAd fails</a>. It seemed at odds with Apple&#8217;s focus as a product company, not to mention <a href="http://www.manton.org/2015/09/iad-hypocrisy.html">hypocritical</a> for a company with ad-blocking APIs. Apple and third-party developers should be united in encouraging users to pay for apps; iAd is a distraction from that.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/01/iad-setback.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Too late to save the MAS?</title>
 		<link>http://www.manton.org/2015/12/too-late-to-save-the-mas.html</link>
 		<comments>http://www.manton.org/2015/12/too-late-to-save-the-mas.html#comments</comments>
@@ -166,129 +293,8 @@
 			<wfw:commentRss>http://www.manton.org/2015/07/two-weeks-notice-health-insurance.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
-		<item>
-		<title>Two weeks notice: accounting</title>
-		<link>http://www.manton.org/2015/07/two-weeks-notice-accounting.html</link>
-		<comments>http://www.manton.org/2015/07/two-weeks-notice-accounting.html#comments</comments>
-		<pubDate>Wed, 29 Jul 2015 17:15:15 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Business]]></category>
-		<category><![CDATA[2weeks]]></category>
-		<category><![CDATA[banks]]></category>
-		<category><![CDATA[baremetrics]]></category>
-		<category><![CDATA[salary]]></category>
-		<category><![CDATA[subscriptions]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=2910</guid>
-		<description><![CDATA[Bookkeepers, accountants, lawyers&#8230; I should get one of those at some point. Instead I seem to waste time moving from one accounting app to another — Xero, QuickBooks Online, Less Accounting — hoping that the next one will solve everything. Then I go back to tweaking monthly revenue summaries in Numbers because it turns out that [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Bookkeepers, accountants, lawyers&#8230; I should get one of those at some point. Instead I seem to waste time moving from one accounting app to another — Xero, QuickBooks Online, <a href="https://lessaccounting.com/">Less Accounting</a> — hoping that the next one will solve everything. Then I go back to tweaking monthly revenue summaries in Numbers because it turns out that spreadsheets are still pretty useful <a href="http://sixcolors.com/post/2015/07/numbered-days-freelance-accounting-with-apples-spreadsheet/">for this sort of thing</a>.</p>
-<p>This year I did sign up for what has turned out to be a game-changing app for my business: <a href="https://baremetrics.com/">Baremetrics</a>. I dragged my feet subscribing because it starts at $79/month, but it&#8217;s worth it. The way it breaks down which of your web subscriptions — in my case Searchpath, Watermark, and Tweet Marker — is the most profitable or has the highest customer churn or best average lifetime value&#8230; It was just eye-opening to me and led to finally taking some action to invest in the products that are doing well.</p>
-<p>I still have a lot to figure out with this. The one thing I am doing right, on the advice of several folks over the years, is paying myself the same amount once a month from my business checking account, as if it was a normal salary. This helps in forecasting how much income I need in the near-term to keep enough padding in the bank to cover the slow months. It also makes sure I don’t spend everything too quickly.</p>
-<p>We haven’t traditionally had the most strict budget. It’s easy to get lazy with finances at a regular job where you seemingly have a never-ending paycheck supply. The freelance or indie software world is quite different. I’m learning quickly.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/07/two-weeks-notice-accounting.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Two weeks notice: press reviews</title>
-		<link>http://www.manton.org/2015/07/two-weeks-notice-press-reviews.html</link>
-		<comments>http://www.manton.org/2015/07/two-weeks-notice-press-reviews.html#comments</comments>
-		<pubDate>Tue, 28 Jul 2015 17:36:07 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Business]]></category>
-		<category><![CDATA[2weeks]]></category>
-		<category><![CDATA[architecture]]></category>
-		<category><![CDATA[press]]></category>
-		<category><![CDATA[reviews]]></category>
-		<category><![CDATA[snippets]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=2908</guid>
-		<description><![CDATA[I need to set aside some time to contact folks in the press about my new project. I can tell just explaining the app to my friends that it’s confusing to understand on first glance. It’s different enough from existing social networks that it requires a high-level explanation for why I designed the architecture this [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>I need to set aside some time to contact folks in the press about my new project. I can tell just explaining the app to my friends that it’s confusing to understand on first glance. It’s different enough from existing social networks that it requires a high-level explanation for why I designed the architecture this way.</p>
-<p>The short answer is that I wanted to build something open and extensible. Something that embraced the open web. By necessity that makes the concept a little more geeky than what has come before it. Having reviews of the product out in the wild even before the app is fully released may help get people thinking about what to expect.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/07/two-weeks-notice-press-reviews.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Two weeks notice: moving too fast</title>
-		<link>http://www.manton.org/2015/07/two-weeks-notice-moving-too-fast.html</link>
-		<comments>http://www.manton.org/2015/07/two-weeks-notice-moving-too-fast.html#comments</comments>
-		<pubDate>Sun, 26 Jul 2015 04:48:36 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Business]]></category>
-		<category><![CDATA[2weeks]]></category>
-		<category><![CDATA[beta]]></category>
-		<category><![CDATA[invite]]></category>
-		<category><![CDATA[snippets]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=2891</guid>
-		<description><![CDATA[For the first time in weeks, we had nothing going on this morning and could sleep in. After a late breakfast I worked on implementing a better trial for my new product, letting the business model advice I mentioned yesterday sink in. Ryan Irelan, who founded Mijingo to create books and video courses for developers, [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>For the first time in weeks, we had nothing going on this morning and could sleep in. After a late breakfast I worked on implementing a better trial for my new product, letting the <a href="http://www.manton.org/2015/07/two-weeks-notice-your-business-model-is-wrong.html">business model advice I mentioned yesterday</a> sink in.</p>
-<p>Ryan Irelan, who founded <a href="https://mijingo.com/">Mijingo</a> to create books and video courses for developers, <a href="http://ryanirelan.com/2015/07/24/mijingo-mistakes.html">wrote today</a>:</p>
-<blockquote><p>
-  &#8220;One of my biggest mistakes in my first several months of running Mijingo full-time is that I was going too fast.&#8221;
-</p></blockquote>
-<p>I probably needed to hear that. I&#8217;m increasingly worried about launching this new project either half-baked or too late, so I&#8217;ve been trying to ramp up the hours I dedicate to it each week. But I&#8217;m scrambling to quickly change fairly major aspects of it. It may be better to slow down to make sure I still have the bigger picture correct.</p>
-<p>We&#8217;ll be traveling some in August, so that rules out releasing anything brand new before the trip. I&#8217;m thinking my focus leading up to that is to send this to the subscribers of my <a href="http://eepurl.com/6vVvj">beta announce list</a> first. Both the free parts and paid plans will be open as if it was a finished product, but it will just be limited to an invite-only group. Based on that feedback I&#8217;ll know how close it really is to shipping for everyone.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/07/two-weeks-notice-moving-too-fast.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Two weeks notice: your business model is wrong</title>
-		<link>http://www.manton.org/2015/07/two-weeks-notice-your-business-model-is-wrong.html</link>
-		<comments>http://www.manton.org/2015/07/two-weeks-notice-your-business-model-is-wrong.html#comments</comments>
-		<pubDate>Fri, 24 Jul 2015 22:31:32 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Business]]></category>
-		<category><![CDATA[2weeks]]></category>
-		<category><![CDATA[bugs]]></category>
-		<category><![CDATA[snippets]]></category>
-		<category><![CDATA[vitalsource]]></category>
-		<category><![CDATA[zoom]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=2885</guid>
-		<description><![CDATA[How is it Friday already? I have just one week left at my regular job. In addition to looking at documentation, I talked on a video call with the lead engineer who will take over a couple of my projects. We went over my current bug list (exactly 13 lucky tickets in Jira) and reviewed a [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>How is it Friday already? I have just one week left at my regular job. In addition to <a href="http://www.manton.org/2015/07/two-weeks-notice-writing-documentation.html">looking at documentation</a>, I talked on a video call with the lead engineer who will take over a couple of my projects. We went over my current bug list (exactly 13 lucky tickets in Jira) and reviewed a few of the trickier outstanding issues.</p>
-<p>Nothing like walking through old code, even at a high level, to discover so much outdated cruft that could be redesigned or cleared out. There’s always a little bit of regret: if only I had fixed this one last problem before leaving, or smoothed over this one confusing part of the web UI. But that’s a slippery slope that could go on indefinitely. Web software in particular is evolving and never fully complete.</p>
-<p>Meanwhile, I continue to get great feedback on my new <a href="http://www.riverfold.com/">Riverfold</a> project from the very early beta testers. Bug reports, new ideas, and sometimes a series of questions that basically ends up as: you’re charging the wrong users, what if you tried <em>this completely different way to make money</em> instead?</p>
-<p>While I don’t think there’s any direct competition for what I’m building, there are a lot of related services. I’d count even parts of Tumblr and WordPress among the services that are both complementary and in a similar theme to what I want to do. Tumblr makes money primarily through ads. WordPress has ads but (I expect) makes more money through their upgrades: paid custom domains, VaultPress backup, and premium themes.</p>
-<p>When choosing a business model for my app, I’ve also been inspired by GitHub’s simplicity. Free for open source projects, which allows you to get a feel for how the entire system works as long as you don’t need private repositories. Paid for organizations, scaling up based on how many projects you have. The success of my project will hang on whether I can mix some of all these models without confusing potential new customers.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/07/two-weeks-notice-your-business-model-is-wrong.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Two weeks notice: new products</title>
-		<link>http://www.manton.org/2015/07/two-weeks-notice-new-products.html</link>
-		<comments>http://www.manton.org/2015/07/two-weeks-notice-new-products.html#comments</comments>
-		<pubDate>Thu, 23 Jul 2015 02:40:07 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Business]]></category>
-		<category><![CDATA[2weeks]]></category>
-		<category><![CDATA[clipstart]]></category>
-		<category><![CDATA[mac]]></category>
-		<category><![CDATA[snippets]]></category>
-		<category><![CDATA[sunlit]]></category>
-		<category><![CDATA[webapps]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=2881</guid>
-		<description><![CDATA[Tonight I worked on some bug fixes to one of the new apps I hope to ship for Riverfold Software. I have just a handful of beta users, but got some good feedback and bug reports last week, things I want to address before opening it up to more users. When I think of the [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Tonight I worked on some bug fixes to one of the new apps I hope to ship for Riverfold Software. I have just a handful of beta users, but got some good feedback and bug reports last week, things I want to address before opening it up to more users.</p>
-<p>When I think of the in-progress apps that I can ship soon to help increase revenue, there are really only 2:</p>
-<ul>
-<li>Clipstart 2.0, which will be renamed Sunlit for Mac, to complement the iPhone version.</li>
-<li>Unannounced microblogging-related web app, which may also come with iPhone and Mac apps.</li>
-</ul>
-<p>The problem with Sunlit for Mac is that I’m requiring 10.11 El Capitan. So no matter how much progress I make on it, I can’t ship it until Apple releases their next version of Mac OS X. I want to chip away at the new features, but I can’t spend all of my time on it yet. I need to focus attention on projects that have a chance of bringing in additional revenue in the very near future, not by the end of the year.</p>
-<p>So the microblogging app — the one I worked on tonight — keeps coming to the front. Since it’s mostly a web app, it has the least number of external API and App Store dependencies that would hold it up. I can ship the core functionality whenever it’s ready. The sooner I get it out the door, the sooner I’ll know if it’s something I can count on as business income.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/07/two-weeks-notice-new-products.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 3.847 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-01-06 12:52:28 -->
+<!-- Dynamic page generated in 0.358 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-04-14 14:01:47 -->

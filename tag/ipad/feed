@@ -12,12 +12,134 @@
 	<atom:link href="http://www.manton.org/tag/ipad/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Wed, 06 Jan 2016 17:11:57 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<generator>http://wordpress.org/?v=4.3.3</generator>
 	<item>
+		<title>Patience and impatience in the tech industry</title>
+		<link>http://www.manton.org/2016/04/patience-and-impatience-in-the-tech-industry.html</link>
+		<comments>http://www.manton.org/2016/04/patience-and-impatience-in-the-tech-industry.html#comments</comments>
+		<pubDate>Mon, 11 Apr 2016 17:01:31 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[amazon]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[echo]]></category>
+		<category><![CDATA[ipad]]></category>
+		<category><![CDATA[stevejobs]]></category>
+		<category><![CDATA[tablets]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2016/04/patience-and-impatience-in-the-tech-industry.html</guid>
+		<description><![CDATA[There&#8217;s a great line from an iPad Pro article by Ben Brooks, where he&#8217;s discussing how Steve Jobs was always conscious of shipping only Apple&#8217;s best work: The key difference between Gates and Jobs isn’t the vision, it’s the patience, or if you prefer the unwillingness to ship something which isn’t great. I&#8217;ve been thinking [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>There&#8217;s a great line from <a href="https://brooksreview.net/2016/04/vision-2/">an iPad Pro article by Ben Brooks</a>, where he&#8217;s discussing how Steve Jobs was always conscious of shipping only Apple&#8217;s best work:</p>
+<blockquote><p>
+  The key difference between Gates and Jobs isn’t the vision, it’s the patience, or if you prefer the unwillingness to ship something which isn’t great.
+</p></blockquote>
+<p>I&#8217;ve been thinking about the time just before the iPad was announced. We didn&#8217;t know what form it would take, how much it would cost, or even what OS it would run. At the time, I <em>even wanted it to run Mac OS X</em>. From one of <a href="http://www.manton.org/2008/01/give_us_a.html">my blog posts in 2008</a>:</p>
+<blockquote><p>
+  The primary market for a Mac tablet is the millions of people who look at the <a href="http://www.wacom.com/cintiq/">Wacom Cintiq</a> and drool. An Apple tablet has to run full Mac OS X because it has to run Photoshop, Acorn, and Painter.
+</p></blockquote>
+<p>It&#8217;s easy in hindsight to say how wrong I was, that of course it should run iOS. And today I&#8217;d agree; iOS 9 on the iPad is great. But I thought a tablet would be particularly good for artists, and basing it on the Mac would be the only way to hit the ground running with a stylus and mature graphics software.</p>
+<p>That brings us back to patience, and how Apple <a href="http://www.macworld.com/article/1151235/apple_rolls.html">rolls</a> and iterates. It has taken 6 years from the original iPad introduction to the iPad Pros we have today that fulfill what I had hoped a tablet could be. Was it worth the wait? Yes. But that&#8217;s a long time, and a more impatient company might&#8217;ve taken a different path to get here, and they wouldn&#8217;t have been wrong.</p>
+<p>I&#8217;m not actually thinking about Microsoft here, but Amazon. Amazon is so impatient not just with hardware development but everything else that even overnight delivery for their customers isn&#8217;t fast enough.</p>
+<p>When I pre-ordered the Amazon Echo <a href="http://www.manton.org/2015/06/amazon-echo.html">on a whim a year ago</a>, I&#8217;m not sure that Amazon really had any idea what they were doing, whether it would flop or succeed, or if anyone would understand it. A year later, they own the market for this kind of device and it&#8217;s spread by word of mouth because the product is <em>good</em>. If Apple ever makes an Echo competitor it will be years from now and only because someone else proved the idea first.</p>
+<p>Patience is good, and I&#8217;m glad that Apple has a great balance between innovating on brand new products and perfecting existing concepts. But I&#8217;m also glad that not every company is as patient as Apple. I think the industry makes better progress when some companies aren&#8217;t afraid to ship something half-baked too early.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/04/patience-and-impatience-in-the-tech-industry.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>What&#8217;s next after 30 days of coffee</title>
+		<link>http://www.manton.org/2016/03/whats-next-after-30-days-of-coffee.html</link>
+		<comments>http://www.manton.org/2016/03/whats-next-after-30-days-of-coffee.html#comments</comments>
+		<pubDate>Sat, 19 Mar 2016 19:07:22 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[ipad]]></category>
+		<category><![CDATA[newlibraries]]></category>
+		<category><![CDATA[working]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2016/03/whats-next-after-30-days-of-coffee.html</guid>
+		<description><![CDATA[Yesterday I wrapped up my endeavor to visit a new coffee shop every day for a month, making sure it was a place that I had never been to before. Every day I published a short microblog post about my visit. As I was nearing the end of the 30 days, I felt a little [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Yesterday I wrapped up my <a href="http://www.manton.org/coffee-shops-austin">endeavor to visit a new coffee shop every day for a month</a>, making sure it was a place that I had never been to before. Every day I published a short microblog post about my visit. As I was nearing the end of the 30 days, I felt a little bummed out that it would be coming to an end. It was a lot of fun and gave my day a good structure.</p>
+<p>I knew right away that I wanted to fill the <em>next</em> 30 days with something else, but probably not with drink or food again. I had a few ideas, including one outside that will be be better when the weather gets warmer. For this next month, though, I&#8217;ve decided to work from libraries.</p>
+<p>So that’s where I am right now. Day 1 of 30, sitting in a comfy chair typing on my iPad at the Cedar Park Public Library. It&#8217;s a nice space and they even have an &#8220;internet cafe&#8221; outside the main books section. I&#8217;ll be trying to follow the same routine as before: morning out of the house for writing, afternoon usually back at my desk for coding. And as before, I&#8217;ll blog each day and <a href="http://www.manton.org/tag/newlibraries">tag all the blog posts</a>. Here we go!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/03/whats-next-after-30-days-of-coffee.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>iPad thoughts for 2016</title>
+		<link>http://www.manton.org/2016/01/ipad-thoughts-for-2016.html</link>
+		<comments>http://www.manton.org/2016/01/ipad-thoughts-for-2016.html#comments</comments>
+		<pubDate>Thu, 21 Jan 2016 19:42:59 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[extensions]]></category>
+		<category><![CDATA[ios9]]></category>
+		<category><![CDATA[ipad]]></category>
+		<category><![CDATA[ipadpro]]></category>
+		<category><![CDATA[pencil]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3413</guid>
+		<description><![CDATA[Over the holidays, or while on any vacation, I usually use iOS more often than my Mac. It&#8217;s easier to quickly catch up on email or fun stuff like Instagram without getting too pulled away from what matters: spending time with family and friends. So as I use iOS, I&#8217;ve been thinking about what might [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Over the holidays, or while on any vacation, I usually use iOS more often than my Mac. It&#8217;s easier to quickly catch up on email or fun stuff like Instagram without getting too pulled away from what matters: spending time with family and friends. So as I use iOS, I&#8217;ve been thinking about what might make the iPad better.</p>
+<p>Last year <a href="http://blog.jaredsinclair.com/post/133180873570/saving-the-ipad">Jared Sinclair blogged about</a> some of the problems with the iPad, with ideas for &#8220;saving&#8221; it. The most interesting of these was his suggestion of a &#8220;Gatekeeper for iOS&#8221;, where iOS apps could easily be side-loaded onto iOS without Apple&#8217;s approval:</p>
+<blockquote><p>
+  “These apps would be just as secure as apps published on the App Store. I recommend that Gatekeeper iOS apps be subject to the same API restrictions, privacy permissions, and sandboxing as apps distributed on the iOS App Store”
+</p></blockquote>
+<p>Daniel and I discussed this on <a href="http://coreint.org/207">Core Intuition episode 207</a>. We acknowledged that as great as it would be, this compromise of Gatekeeper apps being subject to API restrictions might not be possible. The whole point of Gatekeeper is to leave Apple out of the distribution process, so there would be no place to impose such restrictions except at the API level. Still, I&#8217;d welcome any kind of side-loading.</p>
+<p>Most Mac developers have wanted a Gatekeeper-like solution for iOS since the very beginning of the iPhone. Back in 2011, <a href="http://www.manton.org/2011/02/30_of_the.html">I wrote a post</a> about Apple&#8217;s 30% cut and the lack of side-loading for iOS:</p>
+<blockquote><p>
+  &#8220;Apple’s tight control over iOS has always been troubling. If there’s no way to install an app on the device without Apple’s approval, then Apple can make or break any business that builds for the platform. It’s an added risk for the thousands of tiny development shops for which the iPhone and iPad are otherwise perfect.&#8221;
+</p></blockquote>
+<p>But side-loading isn&#8217;t really holding back the iPad. What&#8217;s holding it back is the slow pace of progress in UI improvements. For example, the home screen remains virtually unchanged since iOS 3, and on the iPad Pro the classic grid of large app icons looks more like the <a href="http://apple.wikia.com/wiki/Parental_Controls">Simple Finder</a> than a way to manage and launch productivity apps.</p>
+<p>More key areas of the UI need to take inspiration from iPad multitasking. While split-view and slide-over aren&#8217;t perfect, they&#8217;re <em>something</em>. Likewise for iOS extensions, which were such a step forward that we were willing to overlook the UI clunkiness. These new features helped <a href="http://www.speirs.org/blog/2015/12/22/all-in-on-ipad-pro">Fraser Speirs switch to an iPad Pro full time</a>:</p>
+<blockquote><p>
+  &#8220;The introduction of multitasking in iOS 9 has made a significant difference to the way I work on iOS. I don’t need to rehearse the actual features here but suffice to say that I now find iOS extremely easy to get almost any task done.&#8221;
+</p></blockquote>
+<p>I&#8217;d like to see Apple experiment more. To not be afraid to try something new with the UI and ship it, as long as they still follow up and refine it.</p>
+<p>Here&#8217;s a great feature idea to take multitasking further, from <a href="http://www.512pixels.net/blog/2015/12/2016-wishlist-ios">Stephen Hackett’s iOS wishlist</a>:</p>
+<blockquote><p>
+  &#8220;I&#8217;d like Apple to work on some way to share text and images between apps that are side-by-side. If I&#8217;m working in a text editor, I&#8217;d like to send a selected portion right into Slack, without having to worry about a share extension or dropping back to copy and paste to get the job done.&#8221;
+</p></blockquote>
+<p>Nilay Patel, in a <a href="http://www.theverge.com/2015/12/28/10676272/2015-apples-year-in-beta">2015 wrap-up for The Verge</a>, wrote that Apple has been setting the groundwork for new platforms, and that this year they will have to iterate and improve on what they&#8217;ve started. He sees the iPad Pro in particular as a step forward without a clear defining feature:</p>
+<blockquote><p>
+  &#8220;There&#8217;s a chance we&#8217;ll all be using huge iPads as our primary computers one day, but to get there the iPad Pro has to do something so much better than a MacBook that all the things it does worse seem irrelevant. What is that thing?&#8221;
+</p></blockquote>
+<p>That missing &#8220;thing&#8221; is clear to me: the Apple Pencil is the best stylus that has ever been made for a device — tablet, desktop, or standalone display. It&#8217;s so good that I assumed I would sell my retina iPad Mini and use the iPad Pro exclusively.</p>
+<p>That hasn&#8217;t happened. I realized when making the choice of <a href="http://www.manton.org/2015/12/3255.html">which iPad to take downtown the other week</a> that the Mini is still my favorite size. I hope as part of the next phase to Apple&#8217;s iPad platform that the Pencil makes it down to the rest of the iPads. It&#8217;s important that developers can count on the common availability of the stylus, just as we can count on multitasking and app extensions to set the pace of UI progress for the platform.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/01/ipad-thoughts-for-2016.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Lightweight universal apps</title>
+		<link>http://www.manton.org/2016/01/lightweight-universal-apps.html</link>
+		<comments>http://www.manton.org/2016/01/lightweight-universal-apps.html#comments</comments>
+		<pubDate>Sun, 17 Jan 2016 14:35:12 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[apps]]></category>
+		<category><![CDATA[ipad]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[iphone6s]]></category>
+		<category><![CDATA[universal]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3388</guid>
+		<description><![CDATA[When the iPad first shipped, many developers embraced completely separate apps for iPhone and iPad. The argument was that they were different platforms and deserved special design attention (and separate revenue). I never bought this argument, and eventually — with the iPhone 6 Plus and multiple screen sizes — everyone agreed that it just made [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>When the iPad first shipped, many developers embraced completely separate apps for iPhone and iPad. The argument was that they were different platforms and deserved special design attention (and separate revenue). I never bought this argument, and eventually — with the iPhone 6 Plus and multiple screen sizes — everyone agreed that it just made more sense to use universal apps.</p>
+<p>At the same time, there&#8217;s a parallel argument that an app on the iPad shouldn&#8217;t just be a &#8220;scaled up&#8221; version of the iPhone. That if you can&#8217;t invest the time to do a universal app properly, don&#8217;t bother.</p>
+<p>The redesigned Twitter iOS app was a great example of this. <a href="https://www.macstories.net/news/twitter-aims-to-unify-ios-apps-updates-its-ipad-app/">It was widely mocked</a> for it&#8217;s poor use of space on the iPad.</p>
+<p>With the iPad Pro and widespread iPad multitasking, I think this changes again. An iPad app that is designed exactly the same as its iPhone version is still very useful in slide-over and split screen. In fact, for many &#8220;iPad&#8221; apps I use every day on the iPad Pro, I use them in their compact layout <em>more often</em> than full screen.</p>
+<p>My next app was designed for the iPhone. I spent some time trying to rework it with split views for the iPad Pro, but I just can&#8217;t justify the work right now to finish that effort. I&#8217;m going to ship it as a &#8220;lightweight&#8221; universal app anyway, though, so that it&#8217;s available in slide-over. To me, that&#8217;s a worthwhile compromise, significantly better than no offering on the iPad at all.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/01/lightweight-universal-apps.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Six Colors and the iPad Pro</title>
 		<link>http://www.manton.org/2015/11/six-colors-and-the-ipad-pro.html</link>
 		<comments>http://www.manton.org/2015/11/six-colors-and-the-ipad-pro.html#comments</comments>
@@ -207,93 +329,8 @@
 			<wfw:commentRss>http://www.manton.org/2012/11/ipad_mini.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
-		<item>
-		<title>iPad Pro is the new iPod Photo</title>
-		<link>http://www.manton.org/2011/07/ipad_pro_is.html</link>
-		<comments>http://www.manton.org/2011/07/ipad_pro_is.html#comments</comments>
-		<pubDate>Tue, 12 Jul 2011 23:00:42 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Technology]]></category>
-		<category><![CDATA[apple]]></category>
-		<category><![CDATA[ipad]]></category>
-		<category><![CDATA[ipod]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2011/07/ipad_pro_is.html</guid>
-		<description><![CDATA[I&#8217;m fascinated with the iPad &#8220;3&#8221; rumors because on the surface they make so little sense. Apple just shipped the iPad 2, no competitors can match it, and demand is strong. Why mess with a good thing so soon? But it almost fits when you give it a name like &#8220;Pro&#8221; (or iPad Retina, or [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>I&#8217;m fascinated with the iPad &#8220;3&#8221; rumors because on the surface they make so little sense. Apple just shipped the iPad 2, no competitors can match it, and demand is strong. Why mess with a good thing so soon?</p>
-<p>But it almost fits when <a href="http://daringfireball.net/linked/2011/07/11/ipad-pro">you give it a name like &#8220;Pro&#8221;</a> (or iPad Retina, or whatever). This isn&#8217;t a replacement for the current iPad; it&#8217;s another layer to the product lineup. And like the awkwardly-named iPod Photo from 2004, I bet the iPad Pro is meant to be temporary. It&#8217;s a way to sell a high-end, over-priced and over-pixeled iPad before the technology is cheap enough for the masses. A year or two from now, the Retina Display will be available in all iPads, and the &#8220;Pro&#8221; name will fade away, just like iPod Photo did when all iPods got a color screen.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2011/07/ipad_pro_is.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>The Daily</title>
-		<link>http://www.manton.org/2011/05/the_daily.html</link>
-		<comments>http://www.manton.org/2011/05/the_daily.html#comments</comments>
-		<pubDate>Tue, 24 May 2011 21:54:47 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[User Experience]]></category>
-		<category><![CDATA[daily]]></category>
-		<category><![CDATA[ebooks]]></category>
-		<category><![CDATA[ipad]]></category>
-		<category><![CDATA[newspapers]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2011/05/the_daily.html</guid>
-		<description><![CDATA[&#8220;David Barnard chimes in&#8221;:http://davidbarnard.com/post/5649151852/orchestrating-magic on The Daily: &#8220;The carousel is a fun bit of UI (at least in theory, it&#8217;s still a bit laggy and jittery for my taste), but there&#8217;s just no way to quickly deliver enough content to make the carousel usable. The front page and table of contents, on the other hand, [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>&#8220;David Barnard chimes in&#8221;:http://davidbarnard.com/post/5649151852/orchestrating-magic on The Daily:</p>
-<blockquote><p>&#8220;The carousel is a fun bit of UI (at least in theory, it&#8217;s still a bit laggy and jittery for my taste), but there&#8217;s just no way to quickly deliver enough content to make the carousel usable. The front page and table of contents, on the other hand, could likely be fully delivered in the 4-5 seconds from the launch of the app to the end of the launch animation. Sending users directly to the front page (or potentially a redesigned table of contents, but I wont get into that) will make it feel as though the app has been magically filled with content.&#8221;</p></blockquote>
-<p>David makes some great points. Put another way, if some of their design decisions were too ambitious for their technical plumbing to keep up with, they should update the design and optimize it for speed. With such a mainstream app, though, you can&#8217;t really win. I&#8217;m sure if it was only fast and not fancy, it would have been criticized as too bland.</p>
-<p>The initial criticism of &#8220;The Daily&#8221;:http://www.thedaily.com/ always seemed overblown to me. It&#8217;s not perfect, but they got some of the difficult things right: navigation that makes sense, original content, good layout, clear subscription model.</p>
-<p>Off and on for the first few weeks, I would read several articles each day in The Daily. There were a couple crashes and glitches, but nothing that made the app unusable. If no one else had been complaining, I&#8217;m not sure I would have noticed anything so wrong it was worth mentioning.</p>
-<p>They can make it faster and polish up the rough edges over a few subsequent bug fix releases. And maybe enough of the fundamentals are right that they can get pretty far even without the design changes David suggests.</p>
-<p>Now that I&#8217;ve &#8220;written a few e-book apps&#8221;:http://www.vitalsource.com/, I can say with certainty that getting the basics right is more challenging than it looks. Other traditional companies moving their content to the iPad have launched much farther off-course than The Daily.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2011/05/the_daily.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>First drafts on iPad</title>
-		<link>http://www.manton.org/2011/04/first_drafts_on.html</link>
-		<comments>http://www.manton.org/2011/04/first_drafts_on.html#comments</comments>
-		<pubDate>Wed, 06 Apr 2011 02:08:24 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Weblogs]]></category>
-		<category><![CDATA[blogs]]></category>
-		<category><![CDATA[ipad]]></category>
-		<category><![CDATA[writing]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2011/04/first_drafts_on.html</guid>
-		<description><![CDATA[&#8220;Iain Broome&#8221;:http://writeforyourlife.net/writing-ipad-review on iPad writing, via &#8220;John Chandler&#8221;:http://byjohnchandler.com/: &#8220;I can, and do, write regularly with my iPad. But, to be perfectly honest, I rarely use it to edit, because I find it kind of clumsy to move the cursor around the screen with my finger. However, the iPad is a marvellous first draft machine.&#8221; Most [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>&#8220;Iain Broome&#8221;:http://writeforyourlife.net/writing-ipad-review on iPad writing, via &#8220;John Chandler&#8221;:http://byjohnchandler.com/:</p>
-<blockquote><p>&#8220;I can, and do, write regularly with my iPad. But, to be perfectly honest, I rarely use it to edit, because I find it kind of clumsy to move the cursor around the screen with my finger. However, the iPad is a marvellous first draft machine.&#8221;</p></blockquote>
-<p>Most of my blog posts start life on the iPad too. I write them in Simplenote, sync with the Mac to finish the post if it needs editing, then copy to MarsEdit to publish. It&#8217;s not completely smooth, but it&#8217;s a workflow that wasn&#8217;t even possible a year ago.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2011/04/first_drafts_on.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>iPad 2 (and tweets)</title>
-		<link>http://www.manton.org/2011/03/ipad_2_and.html</link>
-		<comments>http://www.manton.org/2011/03/ipad_2_and.html#comments</comments>
-		<pubDate>Fri, 04 Mar 2011 14:06:23 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Events]]></category>
-		<category><![CDATA[apple]]></category>
-		<category><![CDATA[ipad]]></category>
-		<category><![CDATA[tweetlibrary]]></category>
-		<category><![CDATA[tweets]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2011/03/ipad_2_and.html</guid>
-		<description><![CDATA[I couldn&#8217;t be more excited about the iPad 2. Yes, &#8220;most of it was expected&#8221;:http://twitter.com/manton/status/42597189645639680, but faster and more memory is exactly what the iPad needs. I&#8217;ll be getting it on day 1 and can&#8217;t wait to give Tweet Library a try on the new hardware. During the announcement I collected 70 tweets that I [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>I couldn&#8217;t be more excited about the iPad 2. Yes, &#8220;most of it was expected&#8221;:http://twitter.com/manton/status/42597189645639680, but faster and more memory is exactly what the iPad needs. I&#8217;ll be getting it on day 1 and can&#8217;t wait to give Tweet Library a try on the new hardware.</p>
-<p>During the announcement I collected 70 tweets that I thought captured the event. You can &#8220;view them on tweetlibrary.com&#8221;:http://tweetlibrary.com/manton/ipad2event.</p>
-<p>Speaking of Tweet Library, Apple just approved version 1.2.2. It fixes a handful of bugs and adds a few new things, like block and report spam, for those of you using it as your main Twitter client. Check out the &#8220;full release notes&#8221;:http://www.riverfold.com/software/tweetlibrary/releasenotes/ or view it &#8220;in the App Store&#8221;:http://itunes.apple.com/us/app/tweet-library/id365768793?mt=8.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2011/03/ipad_2_and.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 2.306 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-01-06 13:16:00 -->
+<!-- Dynamic page generated in 0.372 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-04-14 13:55:48 -->

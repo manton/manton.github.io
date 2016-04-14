@@ -12,12 +12,42 @@
 	<atom:link href="http://www.manton.org/tag/wiitransfer/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Wed, 06 Jan 2016 17:11:57 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<generator>http://wordpress.org/?v=4.3.3</generator>
 	<item>
+		<title>Miitomo and Wii Transfer</title>
+		<link>http://www.manton.org/2016/03/miitomo-and-wii-transfer.html</link>
+		<comments>http://www.manton.org/2016/03/miitomo-and-wii-transfer.html#comments</comments>
+		<pubDate>Thu, 31 Mar 2016 17:08:27 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[miis]]></category>
+		<category><![CDATA[miitomo]]></category>
+		<category><![CDATA[nintendo]]></category>
+		<category><![CDATA[timetable]]></category>
+		<category><![CDATA[wiitransfer]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2016/03/miitomo-and-wii-transfer.html</guid>
+		<description><![CDATA[On episode 18 of my Timetable podcast, which I just published this morning, I mention the new Nintendo game Miitomo. Federico Viticci also wrote about it today: I’ve been keeping an eye on Miitomo – I still don&#8217;t completely understand it, but I&#8217;m intrigued by the premise of a friend-based network with mini-games and the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://timetable.manton.org/2016/03/episode-18-waiting-for-the-se/">On episode 18</a> of my Timetable podcast, which I just published this morning, I mention the new Nintendo game Miitomo. Federico Viticci <a href="https://www.macstories.net/linked/miitomo-for-ios-goes-live-internationally/">also wrote about it today</a>:</p>
+<blockquote><p>
+  <a href="https://www.macstories.net/?s=Miitomo">I’ve been keeping an eye on Miitomo</a> – I still don&#8217;t completely understand it, but I&#8217;m intrigued by the premise of a friend-based network with mini-games and the ability to collect coins. Those coins can then be used to claim rewards and redeem other Nintendo-related content such as games and customizations. I&#8217;m curious to see how Miitomo will perform outside of Japan.
+</p></blockquote>
+<p>For a several years between 2006 and 2010, I sold and actively worked on a little Mac app called <a href="http://www.riverfold.com/software/wiitransfer/">Wii Transfer</a>. It was the first time I realized that I could make a living selling Mac software, even though it didn&#8217;t always have great sales consistently by itself. To this day, one of the features I’m most proud to have ever written is the Mii export, which could sync Mii data over Bluetooth from the Wii remotes and render it to let you save your Miis as PNG files on your Mac.</p>
+<p>I’ve often mused on Core Intuition that I stopped selling the app too soon. At one point I worked on a companion app to the Nintendo DS with similar themes, but didn’t ship it. And I considered building a version for iOS just with the Mii functionality.</p>
+<p><a href="http://www.manton.org/2012/05/saying_goodbye_to.html">From a blog post in 2012</a>, announcing that Wii Transfer would no longer be available:</p>
+<blockquote><p>
+  I’m retiring Wii Transfer to focus on my other apps. It’s not that it doesn’t sell; it still does. It’s just that it’s not an app I actually use anymore. By officially shelving the whole project, I hope to remove a psychological burden of sorts — to no longer worry that I’m ignoring an active product.
+</p></blockquote>
+<p>I&#8217;ll never know if it was a missed opportunity — a mistake for the direction of my indie business to stop selling something that people liked — or the right call to refocus around what I actually cared about. In any case, I&#8217;m glad Nintendo is doing something new with Miis. As I play with Miitomo, there&#8217;s a part of me that regrets not doing more with Nintendo-compatible software while I had a competitive head start.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/03/miitomo-and-wii-transfer.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Podcast interviews and the new Riverfold</title>
 		<link>http://www.manton.org/2015/09/podcast-interviews-and-the-new-riverfold.html</link>
 		<comments>http://www.manton.org/2015/09/podcast-interviews-and-the-new-riverfold.html#comments</comments>
@@ -233,80 +263,8 @@
 			<wfw:commentRss>http://www.manton.org/2008/10/campaign_monitor.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
-		<item>
-		<title>Tracking sales referrers</title>
-		<link>http://www.manton.org/2008/09/tracking_sales_referrers.html</link>
-		<comments>http://www.manton.org/2008/09/tracking_sales_referrers.html#comments</comments>
-		<pubDate>Tue, 16 Sep 2008 00:12:30 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Programming]]></category>
-		<category><![CDATA[referrers]]></category>
-		<category><![CDATA[riverfold]]></category>
-		<category><![CDATA[sales]]></category>
-		<category><![CDATA[wiitransfer]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2008/09/tracking_sales_referrers.html</guid>
-		<description><![CDATA[The primary way to track marketing and word-of-mouth about your product is to look at web site referrers. Easy. Just install &#8220;Mint&#8221;:http://www.haveamint.com/ and you&#8217;re done. But not all referrers are created equal. A prominent link on Digg might lead to sales or it might lead to dozens of &#8220;wish it was free&#8221; comments on your [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>The primary way to track marketing and word-of-mouth about your product is to look at web site referrers. Easy. Just install &#8220;Mint&#8221;:http://www.haveamint.com/ and you&#8217;re done.</p>
-<p>But not all referrers are created equal. A prominent link on Digg might lead to sales or it might lead to dozens of &#8220;wish it was free&#8221; comments on your blog. To really judge the effectiveness of referrers (and in turn give a better idea about where resources should be placed in the future) take it one step further to track the initial referrer link all the way through to purchase. You want to know where the customer first learned about your product.</p>
-<p>This isn&#8217;t a new idea and I&#8217;m certainly not the first to do it. Wil Shipley spoke at length about this technique during &#8220;his C4 talk&#8221;:http://www.viddler.com/explore/rentzsch/videos/4/ in 2007, in the context of online advertising. In talking with other developers it became clear to me that most people don&#8217;t do this, even though it can be achieved in about a dozen lines of code.</p>
-<p>The basics are pretty simple:</p>
-<ul>
-<li>When a link comes in to your site, see if a special cookie is set. I called mine &#8220;WiiTransferRef&#8221;.</p>
-</li>
-<li>
-<p>If the cookie is set, you have a repeat visitor. Nothing to do at this point.</p>
-</li>
-<li>
-<p>If the cookie is missing, this user is likely visiting your site for the first time. Put the referrer value in the cookie.</p>
-</li>
-<li>
-<p>After a purchase is complete, check for this cookie and add an entry to the database with the referrer value and timestamp for the order.</p>
-</li>
-</ul>
-<p>You can add more intelligence as suits your requirements and available time, but the basics don&#8217;t need to be any more complex than this. For bonus points and slightly improved security, you could add a database entry that tracks the referrer value and use the cookie as a session that simply points to that row, updating the database to show completed orders, but I chose not to do that to keep the database uncluttered.</p>
-<p>Here&#8217;s the PHP source for my main product page:</p>
-<pre><code><?php
-
-$val = $_COOKIE['WiiTransferRef'];
-
-$ref = $_SERVER['HTTP_REFERER'];
-
-if (empty ($val) &#038;&#038; (!empty ($ref))) {
-
-setcookie ("WiiTransferRef", $ref, time() + (3600 * 24 * 30));
-
-}
-
-?></code></pre>
-<p>And then the source for the final &#8220;thanks!&#8221; page after a purchase is complete:</p>
-<pre><code><?php
-
-$val = $_COOKIE['WiiTransferRef'];
-
-if (!empty ($val)) {
-
-mysql_connect ("db.hostname.com", "user", "pass");
-
-mysql_select_db ("dbname");
-
-$sql = sprintf("INSERT INTO referrers (url, created_at) VALUES ('%s', now())",
-
-mysql_real_escape_string ($val));
-
-mysql_query ($sql);
-
-}
-
-?></code></pre>
-<p>Note that because I am using simple PayPal buttons, not all customers actually reach the last page, because they can ignore the &#8220;return to seller&#8221; link after a completed transaction and instead go wherever they chose. This limitation goes away if you have rolled your own store or used something like &#8220;PotionStore&#8221;:http://www.potionfactory.com/potionstore.</p>
-<p>I&#8217;ve been tracking these for over a year now. I&#8217;ll share some stats about what I&#8217;ve learned in a future blog post.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2008/09/tracking_sales_referrers.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 1.771 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-01-06 13:19:40 -->
+<!-- Dynamic page generated in 0.364 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-04-14 15:00:29 -->

@@ -12,12 +12,219 @@
 	<atom:link href="http://www.manton.org/tag/podcast/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Wed, 06 Jan 2016 17:11:57 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<generator>http://wordpress.org/?v=4.3.3</generator>
 	<item>
+		<title>Timetable episodes 19 and 20</title>
+		<link>http://www.manton.org/2016/04/timetable-episodes-19-and-20.html</link>
+		<comments>http://www.manton.org/2016/04/timetable-episodes-19-and-20.html#comments</comments>
+		<pubDate>Wed, 06 Apr 2016 20:29:53 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[kickstarter]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[snippets]]></category>
+		<category><![CDATA[timetable]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3835</guid>
+		<description><![CDATA[I published 2 new Timetable episodes this week, with a shared theme around Kickstarter projects. They&#8217;re both just 5-6 minutes long. Episode 19 is about how I finally sat down to record a video for my upcoming Kickstarter project. I still have editing to do, but I&#8217;m already feeling a lot better about actually launching [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I published 2 new <a href="http://timetable.fm/">Timetable</a> episodes this week, with a shared theme around Kickstarter projects. They&#8217;re both just 5-6 minutes long.</p>
+<p><a href="http://timetable.manton.org/2016/04/episode-19-kickstarter-recording/">Episode 19</a> is about how I finally sat down to record a video for my upcoming Kickstarter project. I still have editing to do, but I&#8217;m already feeling a lot better about actually launching this.</p>
+<p><a href="http://timetable.manton.org/2016/04/episode-20-kickstarter-rewards/">Episode 20</a> continues the discussion of Kickstarter, starting with my reaction after receiving the art book from <a href="http://blog.loish.net/">Loish</a> yesterday. I was really impressed with how well it was produced. Anytime I see something of such high quality I&#8217;m inspired to do a better job with my own work.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/04/timetable-episodes-19-and-20.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Tickets for Release Notes 2016</title>
+		<link>http://www.manton.org/2016/04/tickets-for-release-notes-2016.html</link>
+		<comments>http://www.manton.org/2016/04/tickets-for-release-notes-2016.html#comments</comments>
+		<pubDate>Mon, 04 Apr 2016 16:14:25 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[conference]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[releasenotes]]></category>
+		<category><![CDATA[trains]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2016/04/tickets-for-release-notes-2016.html</guid>
+		<description><![CDATA[I&#8217;m registered for the Release Notes conference, coming up later this year in Indianapolis. This will be the only conference I attend this year outside of another ticketless WWDC week. If you didn&#8217;t go last year and want to know more about it, check out the web site or listen to episode 151 of their [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;m registered for the <a href="https://releasenotes.tv/conference/">Release Notes conference</a>, coming up later this year in Indianapolis. This will be the only conference I attend this year outside of another ticketless WWDC week. If you didn&#8217;t go last year and want to know more about it, check out the web site or <a href="https://releasenotes.tv/151-our-2-0-1/">listen to episode 151 of their podcast</a>.</p>
+<p>One of my favorite blog posts on this site from last year was <a href="http://www.manton.org/2015/10/release-notes-2015.html">my review of the conference</a>, because I think it both described the conference itself and also captured that inspired feeling you get when you&#8217;re heading off to the airport and your head is buzzing with ideas. And because it&#8217;s a blog, where I allow myself to be informal, it also has the meandering narrative of the everyday — a stop for coffee, a conversation with an Uber driver. My memory of the conference wouldn&#8217;t be complete without those things.</p>
+<p>I&#8217;m looking forward to visiting Indianapolis again. I may also look at flying into Chicago and taking the train down, then flying out. Sounds like some people did that last year, and I think it would make a great start considering the venue at Union Station. We&#8217;ll see if the schedule works out.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/04/tickets-for-release-notes-2016.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Core Intuition 225</title>
+		<link>http://www.manton.org/2016/03/core-intuition-225.html</link>
+		<comments>http://www.manton.org/2016/03/core-intuition-225.html#comments</comments>
+		<pubDate>Thu, 24 Mar 2016 21:44:00 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[iphone5se]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[swift]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3774</guid>
+		<description><![CDATA[Episode 225 of Core Intuition is out now. We talk about the new iPhone and iPad news from Monday’s Apple event, plus Swift. From the show notes: Manton orders his dream phone, the iPhone SE. Daniel reflects on the growing allure of Swift, and the two discuss the risks of either adopting new technologies too [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.coreint.org/2016/03/episode-225-keep-your-eyes-open/">Episode 225 of Core Intuition</a> is out now. We talk about the new iPhone and iPad news from Monday’s Apple event, plus Swift. From the show notes:</p>
+<blockquote><p>
+  Manton orders his dream phone, the iPhone SE. Daniel reflects on the growing allure of Swift, and the two discuss the risks of either adopting new technologies too soon, or holding on to the past for too long.
+</p></blockquote>
+<p>Also there&#8217;s this line from Daniel in the podcast that I like:</p>
+<blockquote><p>
+  We have to be tuned into the future <em>and</em> tuned into the past to really do great work.
+</p></blockquote>
+<p>We pull in some history from Daniel&#8217;s time at Apple, and from our experience building Mac apps in the 1990s and early 2000s, and how it relates to the current Swift transition. Hope you enjoy it.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/03/core-intuition-225.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Two new episodes</title>
+		<link>http://www.manton.org/2016/03/two-new-episodes.html</link>
+		<comments>http://www.manton.org/2016/03/two-new-episodes.html#comments</comments>
+		<pubDate>Fri, 11 Mar 2016 21:54:21 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[timetable]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3700</guid>
+		<description><![CDATA[We posted episode 223 of Core Intuition today. From the show notes: &#8220;Daniel and Manton discuss strategies for filing and organizing bugs. They talk about the expected iPad and iPhone announcements at Apple’s March 21 event, and they follow up on discussion about apps that delight and take their own problem domains seriously.&#8221; I also [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We posted <a href="http://www.coreint.org/2016/03/episode-223-every-little-nuanced-problem/">episode 223 of Core Intuition</a> today. From the show notes:</p>
+<blockquote><p>
+  &#8220;Daniel and Manton discuss strategies for filing and organizing bugs. They talk about the expected iPad and iPhone announcements at Apple’s March 21 event, and they follow up on discussion about apps that delight and take their own problem domains seriously.&#8221;
+</p></blockquote>
+<p>I also posted <a href="http://timetable.manton.org/2016/03/episode-16-dont-panic/">episode 16 of Timetable</a>. On this quick 3-minute show, I talk about trying not to panic when things go wrong, with a couple examples from this week.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/03/two-new-episodes.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Concerned about user-generated content</title>
+		<link>http://www.manton.org/2016/03/concerned-about-user-generated-content.html</link>
+		<comments>http://www.manton.org/2016/03/concerned-about-user-generated-content.html#comments</comments>
+		<pubDate>Wed, 02 Mar 2016 17:00:03 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[abuse]]></category>
+		<category><![CDATA[microblogging]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[snippets]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3610</guid>
+		<description><![CDATA[On the latest Under the Radar podcast, Marco Arment and David Smith talk about ways to make your app more robust. That includes tips for scaling your app with a lot of data, and also dealing with potentially hostile user data. It’s that last point that I’ve been thinking the most about lately. With the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>On the latest <a href="https://www.relay.fm/radar/16">Under the Radar podcast</a>, Marco Arment and David Smith talk about ways to make your app more robust. That includes tips for scaling your app with a lot of data, and also dealing with potentially hostile user data. It’s that last point that I’ve been thinking the most about lately.</p>
+<p>With the experience of building Tumblr and Instapaper, Marco is clearly now hesitant to ship app features that accept arbitrary user-generated content, because a small indie company just doesn’t have the resources to deal with spam and abuse. Instead, he suggests outsourcing whenever possible. For example, letting Apple accept and reject podcasts, and basing the Overcast podcast directory search on that already-vetted list.</p>
+<p>Let’s say you’re building a Twitter-like service. As we all know, hate is widespread on Twitter. At times, it seems impossible to even have a G-rated Twitter experience. But the problem is less that users can publish terrible tweets, and more that it is so easy to be <em>exposed to those tweets</em> with search, trending topics, retweets, and replies.</p>
+<p>As I work on my microblogging project, I’m trying to be aware of these points in the platform where bad content can leak out. So I don’t have global search or trending topics. I also don’t make it easy to stumble upon random users. But I do have replies, which by default will currently go out as push notifications if you have the iPhone app installed. It’s that area that I should focus my attention.</p>
+<p>Two options that come to mind for minimizing abuse in replies:</p>
+<ul>
+<li>Don’t allow replies from people you aren’t following. This solves the problem, but it comes at the expense of discussion. It removes the accessibility that many people love about Twitter’s asynchronous following model.</li>
+<li>Quarantine or attempt to classify replies so they don’t bubble up in your timeline or as notifications by default. This would be like an over-aggressive email spam filter. Difficult to get right and possibly routed around by clever microbloggers.</li>
+</ul>
+<p>After listening to Marco and David, and reviewing the full scope of what I’ve been trying to build, I’m pretty concerned about this. I’m looking at <a href="https://akismet.com/">Akismet</a>, and other metrics internal to my app for judging content and suspicious user accounts, but I may be a little in over my head on this issue.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/03/concerned-about-user-generated-content.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Charles Perry&#8217;s microblog</title>
+		<link>http://www.manton.org/2016/02/charles-perrys-microblog.html</link>
+		<comments>http://www.manton.org/2016/02/charles-perrys-microblog.html#comments</comments>
+		<pubDate>Sun, 07 Feb 2016 17:02:21 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[kickstarter]]></category>
+		<category><![CDATA[microblogging]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[timetable]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3502</guid>
+		<description><![CDATA[Charles Perry has started a microblog. On the balance of what he should post to Twitter and what he should post to his own site first, he writes: &#8220;Most of the things I write on Twitter are snippets of conversations or other thoughts that I don’t necessarily want to preserve. Those will stay on Twitter. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Charles Perry has started a microblog. On the balance of what he should post to Twitter and what he should post to his own site first, <a href="http://dazeend.org/2016/02/dazeend-org-microblog/">he writes</a>:</p>
+<blockquote><p>
+  &#8220;Most of the things I write on Twitter are snippets of conversations or other thoughts that I don’t necessarily want to preserve. Those will stay on Twitter. But some microposts—is that a thing?—I think are of interest on their own. These I plan to post to the DazeEnd.org microblog and mirror to Twitter. That should allow me to preserve and archive my thoughts on my own website and use Twitter just for distribution.&#8221;
+</p></blockquote>
+<p>I was really happy to see these posts show up in my RSS reader. There&#8217;s some momentum around indie microblogging right now. You should start one too.</p>
+<p>Here are some more of my posts on the topic:</p>
+<ul>
+<li><a href="http://www.manton.org/2015/04/how-to-start-a-microblog.html">How to start a microblog</a>. Overview of the basics, with a few suggestions for where to start.</li>
+<li><a href="http://www.manton.org/2015/06/microblogging-with-wordpress.html">Microblogging with WordPress</a>. Still mostly accurate, although I don&#8217;t use IFTTT anymore. I&#8217;ve written my own cross-posting code and baked it into my new app.</li>
+<li><a href="http://www.manton.org/2015/07/embrace-cross-posting.html">Embrace cross-posting</a>. My early thoughts on cross-posting. Also see <a href="http://www.manton.org/2016/01/fine-heres-a-twitter-feed.html">the post about returning to Twitter</a>.</li>
+<li><a href="http://www.manton.org/2015/11/rss-for-microblogs.html">RSS for microblogs</a>. Suggestions for simplifying our RSS feeds, and a proposal for JSON.</li>
+<li><a href="http://www.manton.org/category/weblogs/">Weblogs category from my blog</a>. All the posts primarily about weblogs or microblogging.</li>
+</ul>
+<p>Listeners of my new Timetable podcast also know that I&#8217;m writing a short book about independent microblogging. You can hear a little about this <a href="http://timetable.manton.org/2016/01/episode-9-not-just-an-app/">on episode 9</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/02/charles-perrys-microblog.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Microphone and microcast details</title>
+		<link>http://www.manton.org/2016/02/microphone-and-microcast-details.html</link>
+		<comments>http://www.manton.org/2016/02/microphone-and-microcast-details.html#comments</comments>
+		<pubDate>Tue, 02 Feb 2016 15:36:22 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[ferrite]]></category>
+		<category><![CDATA[microcast]]></category>
+		<category><![CDATA[microphones]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[timetable]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3477</guid>
+		<description><![CDATA[A few weeks ago I started a new short-form podcast called Timetable. Each episode is 3-5 minutes. It has been really fun to record the show because I can try new things without investing too much time. One goal from the very beginning was to record from iOS so that I could easily record outside [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>A few weeks ago I started a new short-form podcast called <a href="http://timetable.fm/">Timetable</a>. Each episode is 3-5 minutes. It has been really fun to record the show because I can try new things without investing too much time.</p>
+<p>One goal from the very beginning was to record from iOS so that I could easily record outside the house. I wanted not just the flexibility to be away from my computer, but a stereo microphone that could capture some of the surrounding environment, to give it a more informal feel. (I’m actually cheating in some cases and using multiple tracks, to make editing easier, but I think the effect works. All the episodes have been exported to mono so far, though.)</p>
+<p>I ordered <a href="http://www.amazon.com/gp/product/B0072DKYFO">this cheap iPhone microphone</a> for testing — only $10 when I ordered it! — and figured after some experiments with my iPhone 4S, I would invest in something new. I liked it enough that I’m still using the mic with my 5S via a Lightning cable adapter. I’m also using a foam pop filter that I already had from a previous old mic.</p>
+<p><center><img src="http://www.manton.org/images/2016/microphone_with_filter.jpg" width="550" height="244" alt="Microphone" border="0" /></center></p>
+<p>This may be the single best value in a tech gadget I’ve ever purchased. Total cost for producing the podcast:</p>
+<ul>
+<li><a href="http://www.amazon.com/gp/product/B0072DKYFO">Microphone</a>: $10</li>
+<li><a href="https://itunes.apple.com/us/app/ferrite-recording-studio/id1018780185?mt=8">Ferrite</a>: $20</li>
+<li><a href="https://itunes.apple.com/us/app/workflow-powerful-automation/id915249334?mt=8">Workflow</a>: $3 (for MP3 conversion)</li>
+<li>Domain name: $120 (.fm domains are expensive)</li>
+</ul>
+<p>I certainly didn’t invent the idea of a “microcast”. There are other good short podcasts, such as <a href="http://bitesize.tech/">Bite Size Tech</a>. But I’m happy to see even more people trying out the idea. <a href="http://soitscometothis.net/">Michael</a> even started a new podcast called <a href="http://soitscometothis.net/microcast/">Driftwood</a> to chronicle the development of <a href="https://github.com/LK64076007A/driftwood">his Jekyll template</a> for microcasts.</p>
+<p>Ferrite also continues to impress. It’s a very high quality iOS app and is competitive with Mac multi-track audio editors. For a good introduction, check out <a href="https://sixcolors.com/post/2015/11/editing-podcasts-on-ios-with-ferrite/">Jason Snell’s review</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/02/microphone-and-microcast-details.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Timetable episode 5</title>
+		<link>http://www.manton.org/2016/01/timetable-episode-5.html</link>
+		<comments>http://www.manton.org/2016/01/timetable-episode-5.html#comments</comments>
+		<pubDate>Wed, 13 Jan 2016 17:34:34 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[stamps]]></category>
+		<category><![CDATA[stickers]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3359</guid>
+		<description><![CDATA[I just published episode 5 of my new short-format podcast, Timetable. I&#8217;m having a lot of fun with this. Producing an episode that&#8217;s only 5 minutes long means I can experiment without investing too much time. As I was listening to some other podcasts this week talk about the Twitter news, it occurred to me [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I just published <a href="http://timetable.manton.org/2016/01/episode-5-mailing-stickers/">episode 5</a> of my new short-format podcast, Timetable. I&#8217;m having a <em>lot</em> of fun with this. Producing an episode that&#8217;s only 5 minutes long means I can experiment without investing too much time.</p>
+<p>As I was listening to some other podcasts this week talk about <a href="http://www.manton.org/2016/01/twitters-10k-limit.html">the Twitter news</a>, it occurred to me how important it is to have a good mix of podcasts, just as it is with blogging. Many of the most popular Apple-related podcasts hit the same news stories each week and have nearly the same opinion. Don&#8217;t get me wrong; I listen to a bunch of them and they&#8217;re great. But it&#8217;s a reminder to me that for Timetable, and especially for <a href="http://coreint.org/">Core Intuition</a>, not to be afraid of having a more contrarian role when it&#8217;s appropriate.</p>
+<p>There&#8217;s nothing controversial in the latest episode of <a href="http://timetable.manton.org/">Timetable</a>, though. Just me talking about getting some stamps to finally send out <a href="https://twitter.com/riverfold/status/651509114284044288">stickers</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/01/timetable-episode-5.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Core Intuition 211 and fallback plans</title>
 		<link>http://www.manton.org/2015/12/core-intuition-211-and-fallback-plans.html</link>
 		<comments>http://www.manton.org/2015/12/core-intuition-211-and-fallback-plans.html#comments</comments>
@@ -68,188 +275,8 @@
 			<wfw:commentRss>http://www.manton.org/2015/12/core-intuition-210.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
-		<item>
-		<title>Core Intuition 206</title>
-		<link>http://www.manton.org/2015/11/core-intuition-206.html</link>
-		<comments>http://www.manton.org/2015/11/core-intuition-206.html#comments</comments>
-		<pubDate>Sat, 14 Nov 2015 15:03:25 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Podcasts]]></category>
-		<category><![CDATA[coreint]]></category>
-		<category><![CDATA[ipadpro]]></category>
-		<category><![CDATA[macappstore]]></category>
-		<category><![CDATA[podcast]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=3173</guid>
-		<description><![CDATA[Yesterday we published episode 206 of Core Intuition. From the show notes: &#8220;Daniel returns from Amsterdam to find Mac App Store issues abound. Manton buys an iPad Pro but has to wait for the Pencil. The two discuss the Mac App Store’s 6-year failure to evolve substantially, and dig into the emotional highs and lows [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Yesterday we published <a href="http://coreint.org/206">episode 206 of Core Intuition</a>. From the show notes:</p>
-<blockquote><p>
-  &#8220;Daniel returns from Amsterdam to find Mac App Store issues abound. Manton buys an iPad Pro but has to wait for the Pencil. The two discuss the Mac App Store’s 6-year failure to evolve substantially, and dig into the emotional highs and lows of enjoying and surviving Apple’s platform constraints.&#8221;
-</p></blockquote>
-<p>I really love how this episode turned out. It hits on several themes that have run through our show since the very first episode: a little tech news, some high-level coding talk, a bit of business analysis, and wrapped up with just how we <em>feel</em> right now about being indie developers. I hope you enjoy it.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/11/core-intuition-206.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Marco&#8217;s mic review and the quality trade-off</title>
-		<link>http://www.manton.org/2015/09/marcos-mic-review-and-the-quality-trade-off.html</link>
-		<comments>http://www.manton.org/2015/09/marcos-mic-review-and-the-quality-trade-off.html#comments</comments>
-		<pubDate>Tue, 08 Sep 2015 20:48:44 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Podcasts]]></category>
-		<category><![CDATA[coreint]]></category>
-		<category><![CDATA[macs]]></category>
-		<category><![CDATA[microphones]]></category>
-		<category><![CDATA[podcast]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=3014</guid>
-		<description><![CDATA[Marco&#8217;s review of his favorite microphones is comprehensive. You can&#8217;t go wrong by following his advice. I recorded my first podcast 10 years ago, and Daniel and I are about to hit 200 episodes of Core Intuition, yet I still learned a few new things from reading Marco&#8217;s review. As with most things, though, it&#8217;s [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="http://www.marco.org/podcasting-microphones">Marco&#8217;s review of his favorite microphones</a> is comprehensive. You can&#8217;t go wrong by following his advice. I recorded my first podcast <a href="http://www.manton.org/2005/08/trains_podcast.html">10 years ago</a>, and Daniel and I are about to hit 200 episodes of <a href="http://coreint.org/">Core Intuition</a>, yet I still learned a few new things from reading Marco&#8217;s review.</p>
-<p>As with most things, though, it&#8217;s a personal choice too. Take this part:</p>
-<blockquote><p>
-  &#8220;If you’re just getting started with podcasting, a USB mic is good enough. If you’re established and looking to upgrade your production quality, or if you just love gear like me, you’ll likely find the jump to XLR worthwhile.&#8221;
-</p></blockquote>
-<p>I did the opposite of this. For years I used an XLR mic along with a chain of two additional audio devices: the M-Audio FireWire Solo for getting the audio into the Mac, and the PreSonus TubePRE preamp for boosting the signal. This produced a nice sound and gave me knobs to fiddle with, but the extra complexity was just not worth it. I now use a simple USB mic and prefer it. (It&#8217;s the Rode Podcaster, which gets a mediocre endorsement in Marco&#8217;s review.)</p>
-<p>This kind of &#8220;downgrading&#8221; is a common pattern with me and computers. I used to run a Mac Pro with 2 external Cinema Displays. Now I exclusively use a 13-inch retina MacBook Pro without a monitor.</p>
-<p>In both cases — Macs and microphones — I find the trade-off worth it. If I want to work from a coffee shop, it&#8217;s the same resolution display, so I don&#8217;t need to change how I use Xcode. If I travel and need to record a podcast, it&#8217;s the same as if I was home, so I don&#8217;t need to risk messing up my audio settings. You give up some performance and flexibility, but in exchange you get the simplicity of having the same setup no matter where you are. And best of all: no more cables all over my desk.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/09/marcos-mic-review-and-the-quality-trade-off.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Two weeks notice: Core Int 192</title>
-		<link>http://www.manton.org/2015/07/two-weeks-notice-core-int-192.html</link>
-		<comments>http://www.manton.org/2015/07/two-weeks-notice-core-int-192.html#comments</comments>
-		<pubDate>Fri, 31 Jul 2015 17:02:02 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Podcasts]]></category>
-		<category><![CDATA[2weeks]]></category>
-		<category><![CDATA[coreint]]></category>
-		<category><![CDATA[podcast]]></category>
-		<category><![CDATA[twitter]]></category>
-		<category><![CDATA[vitalsource]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=2928</guid>
-		<description><![CDATA[Continuing from last week’s Core Intuition, today Daniel and I talk more about how things are going with the final days of my job winding down. We then take the second half of the show to catch up on recent news around Twitter’s leadership. From the show notes: “Daniel and Manton acknowledge celebration as a [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Continuing from last week’s Core Intuition, today Daniel and I talk more about how things are going with the final days of my job winding down. We then take the second half of the show to catch up on recent news around Twitter’s leadership.</p>
-<p>From the show notes:</p>
-<blockquote><p>
-  “Daniel and Manton acknowledge celebration as a survival tactic, discuss the urgency of making ends meet as an indie, and examine changes underway at Twitter with interim CEO Jack Dorsey.”
-</p></blockquote>
-<p>You can listen or subscribe at the <a href="http://coreint.org/192">Core Intuition web site</a>. Special thanks to returning sponsor <a href="http://cocoaconf.com/">CocoaConf</a>. They’ve got conferences coming up in Boston and San Jose, and then Yosemite National Park next year.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/07/two-weeks-notice-core-int-192.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Very busy (and the watch)</title>
-		<link>http://www.manton.org/2015/03/very-busy-and-the-watch.html</link>
-		<comments>http://www.manton.org/2015/03/very-busy-and-the-watch.html#comments</comments>
-		<pubDate>Tue, 10 Mar 2015 17:25:54 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Events]]></category>
-		<category><![CDATA[apple]]></category>
-		<category><![CDATA[podcast]]></category>
-		<category><![CDATA[staple]]></category>
-		<category><![CDATA[watch]]></category>
-		<category><![CDATA[work]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=2483</guid>
-		<description><![CDATA[Yesterday this weblog turned 13 years old. I don’t usually miss the anniversary; it’s a nice time to reflect on what I’m writing about here. But I’ve been incredibly busy this year, working on a range of things from real work to side projects to family stuff. Over the weekend I also helped out at [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Yesterday this weblog turned 13 years old. I don’t usually miss the anniversary; it’s a nice time to reflect on what I’m writing about here. But I’ve been incredibly busy this year, working on a range of things from real work to side projects to family stuff.</p>
-<p>Over the weekend I also helped out at the annual <a href="http://www.staple-austin.org/">STAPLE!</a> comics show in Austin. This is always a great time to check out what independent artists are up to, and as usual I came away inspired to get back into drawing.</p>
-<p>I’ll have a longer write-up about yesterday’s Apple event soon. I have a very negative opinion about the $10k Apple Watch Edition — not because it’s expensive, but because of what focusing on the super rich says about Apple’s priorities. Daniel and I talked about this at length on <a href="http://coreint.org/174">Core Intuition episode 174</a> a couple weeks ago.</p>
-<p>Overall the event was great, though. I’m looking forward to pre-ordering a watch and getting into development. Leaning toward the 42mm Sport, with blue band and an extra classic buckle.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/03/very-busy-and-the-watch.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Core Intuition Jobs</title>
-		<link>http://www.manton.org/2014/02/core_intuition_jobs.html</link>
-		<comments>http://www.manton.org/2014/02/core_intuition_jobs.html#comments</comments>
-		<pubDate>Fri, 21 Feb 2014 21:44:19 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Podcasts]]></category>
-		<category><![CDATA[coreint]]></category>
-		<category><![CDATA[jobs]]></category>
-		<category><![CDATA[podcast]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2014/02/core_intuition_jobs.html</guid>
-		<description><![CDATA[This week we launched the Core Intuition Jobs site on episode 125 of the podcast. The idea was to create a job board focused only around Mac and iOS developers. The 24 jobs already listed there all talk about Objective-C, Cocoa, ARC, or Xcode, so you don’t need to weed through a giant list of [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>This week we launched the <a href="http://jobs.coreint.org/">Core Intuition Jobs</a> site on <a href="http://www.coreint.org/2014/02/episode-125-never-feeling-relaxed-again/">episode 125 of the podcast</a>. The idea was to create a job board focused only around Mac and iOS developers. The 24 jobs already listed there all talk about Objective-C, Cocoa, ARC, or Xcode, so you don’t need to weed through a giant list of thousands of irrelevant jobs. There are some really great companies in the list.</p>
-<p>We’ve also added <a href="http://jobs.coreint.org/rss.xml">an RSS feed</a>, so you can see when new jobs are posted, and we’ll be rolling out <a href="https://twitter.com/coreintjobs">@coreintjobs</a> on Twitter and <a href="https://alpha.app.net/coreintjobs">App.net</a> soon. Even if you’re not actively looking for a new position, subscribing to the feed or following @coreintjobs is a great way to see some of the amazing work being done in the Cocoa community.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/02/core_intuition_jobs.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>David Smith’s apps at 5 years</title>
-		<link>http://www.manton.org/2013/11/david_smiths_apps.html</link>
-		<comments>http://www.manton.org/2013/11/david_smiths_apps.html#comments</comments>
-		<pubDate>Mon, 11 Nov 2013 16:18:11 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Business]]></category>
-		<category><![CDATA[davidsmith]]></category>
-		<category><![CDATA[feedwrangler]]></category>
-		<category><![CDATA[podcast]]></category>
-		<category><![CDATA[underscore]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2013/11/david_smiths_apps.html</guid>
-		<description><![CDATA[David Smith wrote last week on the 5-year anniversary of shipping his first iPhone app. I started following David’s work in the middle this story — after he had started the Developing Perspective podcast, but before he created Check the Weather and Feed Wrangler — so it’s especially great to see such a nice, reflective [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="http://david-smith.org/blog/2013/11/08/five-years-in-the-app-store/">David Smith wrote last week</a> on the 5-year anniversary of shipping his first iPhone app. I started following David’s work in the middle this story — after he had started the Developing Perspective podcast, but before he created Check the Weather and Feed Wrangler — so it’s especially great to see such a nice, reflective post that fills in the earlier apps. On launching and scaling Feed Wrangler:</p>
-<blockquote><p>
-  “In retrospect, it was one of the toughest challenges and most trying times of my career. The relentless dual-pronged attack of late nights and urgent work made it crushing physically and psychologically. Now that things have settled down, I can look back and be glad that I went through it. The kind of things you learn in that kind of crucible can’t be easily recreated.”
-</p></blockquote>
-<p>I could read these kind of posts every day. Also last week, when Gus Mueller announced that he was selling VoodooPad, I remembered as I was <a href="http://www.coreint.org/2013/11/episode-112-it-wasnt-done-enough/">talking with Daniel on Core Intuition 112</a> that Gus’s similar <a href="http://www.gusmueller.com/blog/archives/2005/12/25.html">blog post from 2005</a> is still interesting and relevant today.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/11/david_smiths_apps.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>5 years of Core Int</title>
-		<link>http://www.manton.org/2013/05/5_years_of.html</link>
-		<comments>http://www.manton.org/2013/05/5_years_of.html#comments</comments>
-		<pubDate>Thu, 30 May 2013 04:46:23 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Podcasts]]></category>
-		<category><![CDATA[coreint]]></category>
-		<category><![CDATA[danieljalkut]]></category>
-		<category><![CDATA[podcast]]></category>
-		<category><![CDATA[wwdc]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2013/05/5_years_of.html</guid>
-		<description><![CDATA[Today is the 5th anniversary of Core Intuition. I’m really proud of what Daniel and I have been able to do with it. In our first episode, we set up a basic structure for the show — the length, segments, and theme music — and we’ve stuck to it for 91 episodes. About the only [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Today is the 5th anniversary of <a href="http://coreint.org/">Core Intuition</a>. I’m really proud of what Daniel and I have been able to do with it. In our first episode, we set up a basic structure for the show — the length, segments, and theme music — and we’ve stuck to it for 91 episodes.</p>
-<p>About the only significant change was when we added sponsors last year, allowing us to take the podcast weekly. Since then we’ve actually recorded the bulk of the episodes. Sponsorships pretty easily exceeded my expectations, and I’m very thankful to all the small and large companies alike who have helped support the show.</p>
-<p><a href="http://coreint.org/91">Today’s episode</a> covers my recent server move to Linode, which I’ll write more about here later, and a question about the mix of developers at WWDC. Maybe it’s fitting that our first episode was also about WWDC. I like that every year, when the podcast gets a little older, the timing works out such that we’ll likely be revisiting similar, pre-conference topics. Because these couple weeks, leading up to and including WWDC, really define the best part of being a Mac or iOS developer.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/05/5_years_of.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>CocoaConf and Core Intuition 83</title>
-		<link>http://www.manton.org/2013/04/cocoaconf_and_core.html</link>
-		<comments>http://www.manton.org/2013/04/cocoaconf_and_core.html#comments</comments>
-		<pubDate>Thu, 04 Apr 2013 14:36:19 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Events]]></category>
-		<category><![CDATA[cocoaconf]]></category>
-		<category><![CDATA[conferences]]></category>
-		<category><![CDATA[coreint]]></category>
-		<category><![CDATA[podcast]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2013/04/cocoaconf_and_core.html</guid>
-		<description><![CDATA[We just posted episode 83 of Core Intuition, with a preview of my trip up to Dallas for CocoaConf this weekend, and a discussion of Safari extensions, WWDC videos, Michael Jurewitz’s blog posts, his return to Apple, and more. It looks like you can still attend CocoaConf if you grab a ticket today before they [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>We just posted <a href="http://www.coreint.org/2013/04/episode-83-this-weeks-lofty-goal/">episode 83 of Core Intuition</a>, with a preview of my trip up to Dallas for CocoaConf this weekend, and a discussion of Safari extensions, WWDC videos, Michael Jurewitz’s blog posts, his return to Apple, and more.</p>
-<p>It looks like you can still attend CocoaConf if you grab a ticket today before they close registration. <a href="http://cocoaconf.com/dallas-2013/home">Check out the web site</a> for details on the Dallas event.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/04/cocoaconf_and_core.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 2.730 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-01-06 12:47:02 -->
+<!-- Dynamic page generated in 2.050 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-04-14 13:56:45 -->

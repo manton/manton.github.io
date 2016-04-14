@@ -12,12 +12,37 @@
 	<atom:link href="http://www.manton.org/tag/sxsw/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Wed, 06 Jan 2016 17:11:57 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<generator>http://wordpress.org/?v=4.3.3</generator>
 	<item>
+		<title>SXSW and designing for Apple Watch</title>
+		<link>http://www.manton.org/2016/03/sxsw-and-designing-for-apple-watch.html</link>
+		<comments>http://www.manton.org/2016/03/sxsw-and-designing-for-apple-watch.html#comments</comments>
+		<pubDate>Tue, 15 Mar 2016 18:15:50 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[applewatch]]></category>
+		<category><![CDATA[news]]></category>
+		<category><![CDATA[sxsw]]></category>
+		<category><![CDATA[weblogs]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2016/03/sxsw-and-designing-for-apple-watch.html</guid>
+		<description><![CDATA[As I mention on the latest episode of Timetable, I haven’t attended SXSW in several years. I still think it&#8217;s right for me to skip it, but then sometimes I&#8217;ll hear about UX and iOS panels going on at SXSW, and I&#8217;ll remember some of the great parts of the conference that I do miss. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>As I mention on the <a href="http://timetable.manton.org/2016/03/episode-17-spring-break/">latest episode of Timetable</a>, I haven’t attended SXSW in several years. I still think it&#8217;s right for me to skip it, but then sometimes I&#8217;ll hear about UX and iOS panels going on at SXSW, and I&#8217;ll remember some of the great parts of the conference that I do miss.</p>
+<p>Conrad Stoll spoke on a panel at SXSW this year about his experience building Apple Watch apps. He&#8217;s had a few great blog posts recently, about both Apple Watch user interface design and also one <a href="http://conradstoll.com/blog/2016/3/6/designing-in-swift">on designing in Swift</a>. For planning <a href="http://conradstoll.com/blog/2016/3/13/wrist-ux-designing-for-apple-w">what features to include in your watch app</a>:</p>
+<blockquote><p>
+  “When it&#8217;s time to gather around a whiteboard and start designing your Apple Watch app, draw all of your features and start discussing some of your least obvious ones. It’s very likely that one of them represents a better use case for the watch. If you start with the secondary features you might realize that focusing there can actually improve the utility of your overall product.”
+</p></blockquote>
+<p>Blogs like Conrad’s are a great reason to keep using RSS. He’s not posting every day so you may forget to check the site, or miss the links on Twitter if they aren’t tweeted or retweeted when you happen to be paying attention. The best way to guarantee you won’t miss it is to subscribe in an RSS reader.</p>
+<p>There’s a related side discussion on <a href="https://overcast.fm/+FPVnxtHDM">the Bill Simmons podcast</a> about reading headlines instead of full articles. There’s too much information out there, and it moves too quickly, so we’ve trained ourselves to just scan headlines and comment on Twitter without going deep. That leads to increasingly ridiculous click-bait titles as publishers try to grab our attention. The only way to fight back against that trend is to slow down and read a few thoughtful essays in RSS, or work through the queue in Instapaper.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/03/sxsw-and-designing-for-apple-watch.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>A great developer can come from anywhere</title>
 		<link>http://www.manton.org/2015/10/a-great-developer-can-come-from-anywhere.html</link>
 		<comments>http://www.manton.org/2015/10/a-great-developer-can-come-from-anywhere.html#comments</comments>
@@ -254,32 +279,8 @@
 			<wfw:commentRss>http://www.manton.org/2010/03/check_in_here.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
-		<item>
-		<title>Cuts in Core Intuition</title>
-		<link>http://www.manton.org/2008/09/cuts_in_core.html</link>
-		<comments>http://www.manton.org/2008/09/cuts_in_core.html#comments</comments>
-		<pubDate>Tue, 30 Sep 2008 02:21:12 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Podcasts]]></category>
-		<category><![CDATA[coreint]]></category>
-		<category><![CDATA[politics]]></category>
-		<category><![CDATA[sxsw]]></category>
-		<category><![CDATA[ted]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2008/09/cuts_in_core.html</guid>
-		<description><![CDATA[When producing &#8220;Core Intuition&#8221;:http://www.coreint.org/ we generally record more than we need, giving us flexibility to cut out the rambling tangents, technical errors, and frequent &#8220;uhms&#8221; that threaten to destroy any kind of pacing or interest in the show. The decision of what to leave out is just as important as the original source work &#8212; [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>When producing &#8220;Core Intuition&#8221;:http://www.coreint.org/ we generally record more than we need, giving us flexibility to cut out the rambling tangents, technical errors, and frequent &#8220;uhms&#8221; that threaten to destroy any kind of pacing or interest in the show. The decision of what to leave out is just as important as the original source work &mdash; being able to recognize the best parts that add value vs. the fluff that can be dropped to make the whole thing stronger. It&#8217;s that way with any product, not just podcasts.</p>
-<p>For episode 8, posted this morning, we ended up recording even more than usual, so we cut a batch of insignificant things but also a few good points in an effort to bring the podcast down to something closer to 30 minutes. I wanted to gather a few of those lost topics here.</p>
-<p><b>Politics</b>. We recorded the show Friday before the first presidential debate, so it only made sense to discuss the campaign. Core Intuition started before the Democratic primaries were officially over, during which time Daniel and I were quite vocal on Twitter and blogs about the election. It still surprises me that we haven&#8217;t let politics get into the show. Probably for the best.</p>
-<p><b>SXSW</b>. I talked more about the SXSW Interactive festival, from its beginnings in the 1990s as a multimedia show to the current mix of web, social media, and design. Some of the most interesting talks in the last couple of years trended away away from &#8220;5 experts on a panel&#8221; sessions to more formal talks, by speakers who love SXSW and don&#8217;t want to see it fall into mediocrity. While it&#8217;s not a developer conference, there has been a steady attendance increase from web application developers and even Mac developers.</p>
-<p><b>TED</b>. Daniel commented on the 20-minute sessions at &#8220;TED&#8221;:http://www.ted.com/, and how any conference would benefit from this focused approach. Imagine how much more useful sessions at WWDC would be if the speakers cruised through their technical slides in 20 minutes and then left much more time for Q&amp;A.</p>
-<p>So those were a few of the segments we left out. The final show included a wrap-up of the C4 conference, insight from Daniel&#8217;s &#8220;Shush&#8221; iPhone app, and rants on Google Android and user experience. &#8220;Check it out&#8221;:http://www.coreint.org/.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2008/09/cuts_in_core.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 3.800 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-01-06 13:21:45 -->
+<!-- Dynamic page generated in 0.398 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-04-14 15:03:05 -->

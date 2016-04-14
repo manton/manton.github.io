@@ -12,12 +12,70 @@
 	<atom:link href="http://www.manton.org/tag/stevejobs/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Wed, 06 Jan 2016 17:11:57 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<generator>http://wordpress.org/?v=4.3.3</generator>
 	<item>
+		<title>Patience and impatience in the tech industry</title>
+		<link>http://www.manton.org/2016/04/patience-and-impatience-in-the-tech-industry.html</link>
+		<comments>http://www.manton.org/2016/04/patience-and-impatience-in-the-tech-industry.html#comments</comments>
+		<pubDate>Mon, 11 Apr 2016 17:01:31 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[amazon]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[echo]]></category>
+		<category><![CDATA[ipad]]></category>
+		<category><![CDATA[stevejobs]]></category>
+		<category><![CDATA[tablets]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2016/04/patience-and-impatience-in-the-tech-industry.html</guid>
+		<description><![CDATA[There&#8217;s a great line from an iPad Pro article by Ben Brooks, where he&#8217;s discussing how Steve Jobs was always conscious of shipping only Apple&#8217;s best work: The key difference between Gates and Jobs isn’t the vision, it’s the patience, or if you prefer the unwillingness to ship something which isn’t great. I&#8217;ve been thinking [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>There&#8217;s a great line from <a href="https://brooksreview.net/2016/04/vision-2/">an iPad Pro article by Ben Brooks</a>, where he&#8217;s discussing how Steve Jobs was always conscious of shipping only Apple&#8217;s best work:</p>
+<blockquote><p>
+  The key difference between Gates and Jobs isn’t the vision, it’s the patience, or if you prefer the unwillingness to ship something which isn’t great.
+</p></blockquote>
+<p>I&#8217;ve been thinking about the time just before the iPad was announced. We didn&#8217;t know what form it would take, how much it would cost, or even what OS it would run. At the time, I <em>even wanted it to run Mac OS X</em>. From one of <a href="http://www.manton.org/2008/01/give_us_a.html">my blog posts in 2008</a>:</p>
+<blockquote><p>
+  The primary market for a Mac tablet is the millions of people who look at the <a href="http://www.wacom.com/cintiq/">Wacom Cintiq</a> and drool. An Apple tablet has to run full Mac OS X because it has to run Photoshop, Acorn, and Painter.
+</p></blockquote>
+<p>It&#8217;s easy in hindsight to say how wrong I was, that of course it should run iOS. And today I&#8217;d agree; iOS 9 on the iPad is great. But I thought a tablet would be particularly good for artists, and basing it on the Mac would be the only way to hit the ground running with a stylus and mature graphics software.</p>
+<p>That brings us back to patience, and how Apple <a href="http://www.macworld.com/article/1151235/apple_rolls.html">rolls</a> and iterates. It has taken 6 years from the original iPad introduction to the iPad Pros we have today that fulfill what I had hoped a tablet could be. Was it worth the wait? Yes. But that&#8217;s a long time, and a more impatient company might&#8217;ve taken a different path to get here, and they wouldn&#8217;t have been wrong.</p>
+<p>I&#8217;m not actually thinking about Microsoft here, but Amazon. Amazon is so impatient not just with hardware development but everything else that even overnight delivery for their customers isn&#8217;t fast enough.</p>
+<p>When I pre-ordered the Amazon Echo <a href="http://www.manton.org/2015/06/amazon-echo.html">on a whim a year ago</a>, I&#8217;m not sure that Amazon really had any idea what they were doing, whether it would flop or succeed, or if anyone would understand it. A year later, they own the market for this kind of device and it&#8217;s spread by word of mouth because the product is <em>good</em>. If Apple ever makes an Echo competitor it will be years from now and only because someone else proved the idea first.</p>
+<p>Patience is good, and I&#8217;m glad that Apple has a great balance between innovating on brand new products and perfecting existing concepts. But I&#8217;m also glad that not every company is as patient as Apple. I think the industry makes better progress when some companies aren&#8217;t afraid to ship something half-baked too early.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/04/patience-and-impatience-in-the-tech-industry.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Tesla Model 3</title>
+		<link>http://www.manton.org/2016/04/tesla-model-3.html</link>
+		<comments>http://www.manton.org/2016/04/tesla-model-3.html#comments</comments>
+		<pubDate>Sat, 02 Apr 2016 16:15:47 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[elonmusk]]></category>
+		<category><![CDATA[model3]]></category>
+		<category><![CDATA[preorders]]></category>
+		<category><![CDATA[stevejobs]]></category>
+		<category><![CDATA[tesla]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2016/04/tesla-model-3.html</guid>
+		<description><![CDATA[John Gruber, writing about the Tesla Model 3 unveiling: The crowd enthusiasm was palpable. Tesla took over 115,000 pre-orders before anyone had even seen the car. That is trust — and rather incredible for a car that they don’t intend to ship until the end of next year. At the beginning of the presentation, Elon [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>John Gruber, <a href="http://daringfireball.net/linked/2016/04/01/tesla-model-3">writing about the Tesla Model 3</a> unveiling:</p>
+<blockquote><p>
+  The crowd enthusiasm was palpable. <a href="http://www.theguardian.com/technology/2016/apr/01/tesla-model-3-pre-orders-stack-up-as-elon-musk-unveils-lower-priced-car">Tesla took over 115,000 pre-orders</a> before anyone had even seen the car. That is trust — and rather incredible for a car that they don’t intend to ship until the end of next year.
+</p></blockquote>
+<p>At the beginning of the presentation, Elon Musk references his “master plan” blog post, where he outlined Tesla’s plan to start with the luxury market and then use that money to build a less expensive car, and then use that to build an even more affordable car. <a href="https://www.teslamotors.com/blog/secret-tesla-motors-master-plan-just-between-you-and-me">That blog post</a> was <em>10 years ago</em>.</p>
+<p>Vision takes time to execute. It&#8217;s incredible to reflect on the scope of what Elon Musk’s companies have accomplished. As <a href="http://www.manton.org/2015/02/elon-musk.html">I wrote about last year</a>, Elon will be admired by my kids&#8217; generation in the same way that mine was inspired by Steve Jobs.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/04/tesla-model-3.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Scott Knaster visits the Steve Jobs movie office</title>
 		<link>http://www.manton.org/2015/10/scott-knaster-visits-the-steve-jobs-movie-office.html</link>
 		<comments>http://www.manton.org/2015/10/scott-knaster-visits-the-steve-jobs-movie-office.html#comments</comments>
@@ -165,5 +223,5 @@
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 4.150 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-01-06 13:25:05 -->
+<!-- Dynamic page generated in 0.319 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-04-14 13:56:16 -->

@@ -12,12 +12,107 @@
 	<atom:link href="http://www.manton.org/tag/writing/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Wed, 06 Jan 2016 17:11:57 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<generator>http://wordpress.org/?v=4.3.3</generator>
 	<item>
+		<title>30 days of libraries, week 1</title>
+		<link>http://www.manton.org/2016/03/30-days-of-libraries-week-1.html</link>
+		<comments>http://www.manton.org/2016/03/30-days-of-libraries-week-1.html#comments</comments>
+		<pubDate>Sun, 27 Mar 2016 16:09:03 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[ipadpro]]></category>
+		<category><![CDATA[newlibraries]]></category>
+		<category><![CDATA[routine]]></category>
+		<category><![CDATA[working]]></category>
+		<category><![CDATA[writing]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2016/03/30-days-of-libraries-week-1.html</guid>
+		<description><![CDATA[After wrapping up 30 days of new coffee shops, last week I started visiting a library every day to work. Libraries and coffee shops don&#8217;t have that much in common, but they do share a couple basic traits that are necessary for working on a laptop or iPad: wi-fi and tables. In fact, I&#8217;ve found [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>After wrapping up <a href="http://www.manton.org/coffee-shops-austin">30 days of new coffee shops</a>, last week <a href="http://www.manton.org/2016/03/whats-next-after-30-days-of-coffee.html">I started visiting a library every day</a> to work. Libraries and coffee shops don&#8217;t have that much in common, but they do share a couple basic traits that are necessary for working on a laptop or iPad: wi-fi and tables. In fact, I&#8217;ve found that it&#8217;s even easier to find an open table or couch in a library than in a busy coffee shop.</p>
+<p>So far, so good. In the first week, I&#8217;ve visited <a href="http://www.manton.org/2016/03/whats-next-after-30-days-of-coffee.html">Cedar Park Public Library</a>, <a href="http://www.manton.org/2016/03/3741.html">Wells Branch Community Library</a>, <a href="http://www.manton.org/2016/03/3744.html">Little Walnut Creek Branch</a>, <a href="http://www.manton.org/2016/03/3759.html">North Village Branch</a>, <a href="http://www.manton.org/2016/03/3765.html">Old Quarry Branch</a>, <a href="http://www.manton.org/2016/03/3768.html">Howson Branch</a>, <a href="http://www.manton.org/2016/03/3776.html">Westbank Community Library</a>, and <a href="http://www.manton.org/2016/03/3783.html">Yarborough Branch</a>.</p>
+<p>I also heard from readers who wanted to see more than the text microblog posts I did for coffee shops, so I&#8217;ve been trying to take more photos. These photos are tagged with <a href="http://www.manton.org/tag/newlibraries">#newlibraries</a> too, so they&#8217;ll show up together with the library text posts. (Photos can be browsed over the web, but they don&#8217;t show up in the default RSS feed. The microblog posts also have <a href="http://www.manton.org/snippets.xml">their own feed</a>.)</p>
+<p>As I mention on <a href="http://timetable.manton.org/2016/02/episode-15-leap-year/">episode 15 of Timetable</a>, working out of the house in the morning helped provide some structure to the work day. I&#8217;d use the morning for writing blog posts and catching up on email, and the afternoon to focus on code. For libraries, I&#8217;m going one step further and <em>only bringing the iPad Pro with me</em>. This means that I&#8217;m using a small range of apps — Editorial, Mail, Safari, Slack — and reinforces the idea that I&#8217;m supposed to be writing.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/03/30-days-of-libraries-week-1.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Blog when you disagree</title>
+		<link>http://www.manton.org/2016/03/blog-when-you-disagree.html</link>
+		<comments>http://www.manton.org/2016/03/blog-when-you-disagree.html#comments</comments>
+		<pubDate>Mon, 14 Mar 2016 19:16:20 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[opinions]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[writing]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3707</guid>
+		<description><![CDATA[The echo chamber. We only follow people who we already agree with. We only jump on the bandwagon of snark and ridicule when it’s already the accepted narrative, and thus safe to be part of the mob. But sometimes you&#8217;ll find an area where you aren&#8217;t completely in line with the crowd’s opinion. There’s a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The echo chamber. We only follow people who we already agree with. We only jump on the bandwagon of snark and ridicule when it’s already the accepted narrative, and thus safe to be part of the mob.</p>
+<p>But sometimes you&#8217;ll find an area where you aren&#8217;t completely in line with the crowd’s opinion. There’s a topic that keeps coming up for which you have something to add. The default story is missing an important angle.</p>
+<p>When you disagree, that’s what you should write about, and you should post it to your blog. 140 characters thrown against wave after wave of mainstream opinion tweets will be drowned out. A blog post isn’t a cheap opinion; it’s a statement that what you think matters.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/03/blog-when-you-disagree.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Long-form writing as a filter</title>
+		<link>http://www.manton.org/2016/01/long-form-writing-as-a-filter.html</link>
+		<comments>http://www.manton.org/2016/01/long-form-writing-as-a-filter.html#comments</comments>
+		<pubDate>Mon, 25 Jan 2016 14:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[essays]]></category>
+		<category><![CDATA[microblogging]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[writing]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3429</guid>
+		<description><![CDATA[Soroush Khanlou, looking for more new blogs to read, makes a great point that the process of blogging leads to better writing: “Opening my RSS reading and finding 30 unread items makes me happy. Opening Twitter and seeing 150 new tweets feels like work. I&#8217;m not sure why that is. I think Twitter has become [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Soroush Khanlou, looking for <a href="http://khanlou.com/2016/01/a-call-for-blogs/">more new blogs to read</a>, makes a great point that the process of blogging leads to better writing:</p>
+<blockquote><p>
+  “Opening my RSS reading and finding 30 unread items makes me happy. Opening Twitter and seeing 150 new tweets feels like work. I&#8217;m not sure why that is. I think Twitter has become more negative, and the ease of posting quick bursts makes posting negative stuff easy. With blogging, writing something long requires time, words, and an argument. Even the passing thought of ‘should I post this’ creates a filter that lets only better <em>stuff</em> through.”
+</p></blockquote>
+<p>I think there’s something to that. It’s often only after writing our thoughts down that we fully understand how we feel about a topic.</p>
+<p>And here’s where I bring this back to microblogging. Because when starting a post, we don&#8217;t always know whether it will be long or short. How often have you seen a series of tweets that in hindsight even the author would agree should have been a blog post?</p>
+<p>This is less of a problem if instead of tweeting you start out with the intention of posting to your own site. Short post can stay short, and posts requiring more words can naturally expand to a full essay.</p>
+<p>I don’t think that our short-form, seemingly unimportant writing should exclusively be on centralized networks. If it’s worth the time to write something — whether a thoughtful essay or a fleeting one-off microblog post — then it’s worth owning and publishing at your own domain name.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/01/long-form-writing-as-a-filter.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>WordPress drafts workflow</title>
+		<link>http://www.manton.org/2016/01/wordpress-drafts-workflow.html</link>
+		<comments>http://www.manton.org/2016/01/wordpress-drafts-workflow.html#comments</comments>
+		<pubDate>Sat, 09 Jan 2016 17:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[drafts]]></category>
+		<category><![CDATA[editorial]]></category>
+		<category><![CDATA[marsedit]]></category>
+		<category><![CDATA[wordpress]]></category>
+		<category><![CDATA[writing]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3340</guid>
+		<description><![CDATA[Since moving to WordPress, I haven&#8217;t changed much with how I write blog posts. But there are more tools available now, so I thought I&#8217;d revisit my workflow. The key is being able to work on a blog post from any device and any text editor. I have a Notes folder on Dropbox that I [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Since <a href="http://www.manton.org/2014/09/thank-you-movable-type.html">moving to WordPress</a>, I haven&#8217;t changed much with how I write blog posts. But there are more tools available now, so I thought I&#8217;d revisit my workflow.</p>
+<p>The key is being able to work on a blog post from any device and any text editor. I have a Notes folder on Dropbox that I use for draft blog posts and notes about other projects. When I have an idea for a post, I create a new note there and either start writing it, or leave a link, quoted text, or a few topic ideas to come back to later.</p>
+<p>On the iPhone, I use Editorial. On the iPad, I use Byword, since Editorial hasn&#8217;t been updated for the iPad Pro yet. And on my Mac, I use Justnotes. All of these sync from the same Dropbox folder. They are plain text files, so I can edit from anywhere and they&#8217;ll survive platform and hosting changes over the years.</p>
+<p>If I&#8217;m on my Mac, when I finish a post I&#8217;ll preview it in Marked and then copy it into MarsEdit for posting. On iOS, I&#8217;ll copy it into the WordPress iOS app. For microblog posts from iOS, I use an unreleased iPhone app that&#8217;s part of the microblogging stuff I&#8217;ve been working on.</p>
+<p>I&#8217;ve also been using the <a href="http://manton.org/2015/12/wordpress-podcast-and-calypso.html">Calypso-based</a> WordPress UI a lot lately. I usually work on several blog posts at once, and if a few are ready to go at once, I schedule them to go out later in the day or over the next couple of days. WordPress&#8217;s web UI makes keeping track of scheduled posts pretty nice.</p>
+<p>It hasn&#8217;t been all perfect switching between multiple apps, though. I noticed today that some of my new posts, which I always write in Markdown, were converted to HTML for publishing (likely by Calypso on WordPress.com). But for the most part, no regrets switching over to WordPress. The added flexibility and future-proofing have been good.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/01/wordpress-drafts-workflow.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Six Colors and the iPad Pro</title>
 		<link>http://www.manton.org/2015/11/six-colors-and-the-ipad-pro.html</link>
 		<comments>http://www.manton.org/2015/11/six-colors-and-the-ipad-pro.html#comments</comments>
@@ -138,5 +233,5 @@
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 2.064 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-01-06 13:16:04 -->
+<!-- Dynamic page generated in 0.314 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-04-14 14:59:46 -->

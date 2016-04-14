@@ -12,12 +12,61 @@
 	<atom:link href="http://www.manton.org/tag/titles/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Wed, 06 Jan 2016 17:11:57 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<generator>http://wordpress.org/?v=4.3.3</generator>
 	<item>
+		<title>Typed.com progress updates</title>
+		<link>http://www.manton.org/2016/02/typed-com-progress-updates.html</link>
+		<comments>http://www.manton.org/2016/02/typed-com-progress-updates.html#comments</comments>
+		<pubDate>Thu, 11 Feb 2016 15:21:36 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[ghost]]></category>
+		<category><![CDATA[microblogging]]></category>
+		<category><![CDATA[rss]]></category>
+		<category><![CDATA[titles]]></category>
+		<category><![CDATA[typed]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3514</guid>
+		<description><![CDATA[The folks at Realmac have been blogging about their progress with Typed.com, a new blogging platform that successfully raised $120k on Indiegogo last year. In the latest monthly report, they announce a new free tier: “With this new free tier, people can sign-up, use the service, take their time. They can blog for free, for [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The folks at Realmac have been <a href="http://blog.typed.com/">blogging about their progress with Typed.com</a>, a new blogging platform that successfully raised $120k on Indiegogo last year. In the <a href="http://blog.typed.com/posts/typed-monthly-report-january-2016">latest monthly report</a>, they announce a new free tier:</p>
+<blockquote><p>
+  “With this new free tier, people can sign-up, use the service, take their time. They can blog for free, for as long as they want, and when they need or want the extra features we offer they can upgrade to a paid account. We also think this will be free marketing for the service, the more blog out there that are hosted with Typed.com then more people will find out about the service.”
+</p></blockquote>
+<p>This blog is in the spirit of <a href="https://open.buffer.com/">Buffer’s open blog</a> or <a href="https://ghost.baremetrics.com/">Ghost’s Baremetrics reports</a>. It’s especially great to see a company sharing numbers when they know they still have a lot of growth ahead of them to get where they want to be.</p>
+<p>If you’d like to start a new blog but aren’t sure where to host it, <a href="http://www.typed.com/">check it out</a>. Typed.com has a well-designed admin UI that is refreshingly simple compared to much of the more bloated web software out there.</p>
+<p>It’s also possible to use Typed.com as a microblog. I pointed to <a href="http://www.manton.org/2015/07/microblogging-with-typed-com.html">some tips for this last year</a>. Since the title of a post can’t be blank on Typed.com, I suggest using a date/time for the title. My new microblog platform is smart about treating those kind of short posts correctly when reading from an RSS feed.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/02/typed-com-progress-updates.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Dave on short blog posts</title>
+		<link>http://www.manton.org/2016/01/dave-on-short-blog-posts.html</link>
+		<comments>http://www.manton.org/2016/01/dave-on-short-blog-posts.html#comments</comments>
+		<pubDate>Mon, 11 Jan 2016 17:03:33 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[microblogging]]></category>
+		<category><![CDATA[rss]]></category>
+		<category><![CDATA[scriptingnews]]></category>
+		<category><![CDATA[titles]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3346</guid>
+		<description><![CDATA[Dave Winer gives 3 reasons why you should be posting short items to your blog, including: &#8220;Maybe your blogging software doesn&#8217;t support short items? Don&#8217;t worry, if people post more short items the software will adjust.&#8221; I&#8217;m counting on this. I have a separate RSS feed for microblog posts, and it doesn&#8217;t look great in [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://scripting.com/liveblog/users/davewiner/2016/01/11/0832.html">Dave Winer gives 3 reasons</a> why you should be posting short items to your blog, including:</p>
+<blockquote><p>
+  &#8220;Maybe your blogging software doesn&#8217;t support short items? Don&#8217;t worry, if people post more short items the software will adjust.&#8221;
+</p></blockquote>
+<p>I&#8217;m counting on this. I have a <a href="http://www.manton.org/snippets.xml">separate RSS feed for microblog posts</a>, and it doesn&#8217;t look great in some news readers because the title is blank. Some folks have asked whether I should include a fake title there — the first few words of the post, or a timestamp. But the RSS spec is clear that title is optional. Only by breaking things a little will RSS readers improve to gracefully support title-less short posts.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/01/dave-on-short-blog-posts.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Medium.com updates</title>
 		<link>http://www.manton.org/2015/10/medium-com-updates.html</link>
 		<comments>http://www.manton.org/2015/10/medium-com-updates.html#comments</comments>
@@ -55,5 +104,5 @@
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 2.279 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-01-06 13:20:33 -->
+<!-- Dynamic page generated in 0.326 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-04-14 15:03:01 -->

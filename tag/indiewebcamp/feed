@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manton Reece &#187; indiewebcamp</title>
+	<atom:link href="http://www.manton.org/tag/indiewebcamp/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<item>
+		<title>Micropub and the quiet IndieWebCamp revolution</title>
+		<link>http://www.manton.org/2016/01/micropub-and-the-quiet-indiewebcamp-revolution.html</link>
+		<comments>http://www.manton.org/2016/01/micropub-and-the-quiet-indiewebcamp-revolution.html#comments</comments>
+		<pubDate>Fri, 29 Jan 2016 15:07:05 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[indiewebcamp]]></category>
+		<category><![CDATA[micropub]]></category>
+		<category><![CDATA[silos]]></category>
+		<category><![CDATA[webmention]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3463</guid>
+		<description><![CDATA[There’s new activity at the W3C around independent blogging, with new proposals recently posted as working drafts. Helped by a push from the IndieWebCamp, two of the highlights include: Micropub: Simple format for adding content to your site from native apps. Webmention: Modern replacement for Pingback/Trackback, for handling cross-site replies. I want to support these [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>There’s new activity at the W3C around independent blogging, with new proposals recently posted as working drafts. Helped by a push from the <a href="http://indiewebcamp.com/">IndieWebCamp</a>, two of the highlights include:</p>
+<ul>
+<li><a href="https://www.w3.org/TR/2016/WD-micropub-20160128/">Micropub</a>: Simple format for adding content to your site from native apps.</li>
+<li><a href="https://www.w3.org/TR/webmention/">Webmention</a>: Modern replacement for Pingback/Trackback, for handling cross-site replies.</li>
+</ul>
+<p>I want to support these in my new web app. At launch, I hope to allow Micropub POSTs alongside the classic XML-RPC Blogger API (and my own native JSON API).</p>
+<p>And of course the IndieWebCamp is also known for <a href="http://indiewebcamp.com/POSSE">POSSE</a>: publish on your own site, syndicate elsewhere. That strategy has helped me refine <a href="http://www.manton.org/2016/01/fine-heres-a-twitter-feed.html">my own cross-posting</a>.</p>
+<p>I don’t think it’s my imagination that <a href="http://www.manton.org/2016/01/tim-cook-swift-and-the-return-of-blogs.html">more and more</a> people are blogging again. Now’s the time to resume your blog, <a href="http://www.manton.org/2015/04/how-to-start-a-microblog.html">start a microblog</a>, and take back the future of the web <a href="http://scripting.com/liveblog/users/davewiner/2016/01/07/0801.html">from silos</a>. If we can roll some of these new standards into what we’re building and writing about, the open web will be on the right track.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/01/micropub-and-the-quiet-indiewebcamp-revolution.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Here&#8217;s a Twitter feed</title>
+		<link>http://www.manton.org/2016/01/fine-heres-a-twitter-feed.html</link>
+		<comments>http://www.manton.org/2016/01/fine-heres-a-twitter-feed.html#comments</comments>
+		<pubDate>Tue, 19 Jan 2016 14:30:00 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[adn]]></category>
+		<category><![CDATA[crosspost]]></category>
+		<category><![CDATA[ifttt]]></category>
+		<category><![CDATA[indiewebcamp]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3380</guid>
+		<description><![CDATA[Whenever someone says &#8220;I don&#8217;t read RSS&#8221;, I actually hear &#8220;I don&#8217;t read Manton&#8217;s blog&#8221;. I could give plenty of reasons why they&#8217;re missing out by ignoring RSS — it&#8217;s still the best way to keep up with bloggers you like who aren&#8217;t linked or retweeted often enough to bubble up on Twitter — but [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Whenever someone says &#8220;I don&#8217;t read RSS&#8221;, I actually hear &#8220;I don&#8217;t read Manton&#8217;s blog&#8221;. I could give plenty of reasons why they&#8217;re missing out by ignoring RSS — it&#8217;s still the best way to keep up with bloggers you like who aren&#8217;t linked or retweeted often enough to bubble up on Twitter — but some people won&#8217;t be convinced.</p>
+<p>Over three years ago I stopped posting to Twitter. I know it was the right move on principle because there was a real cost in exposure, with fewer people actively keeping up with what I&#8217;ve been working on. <a href="http://www.manton.org/2014/05/core_intuition_136.html">As I&#8217;ve said before</a>: it wouldn’t mean anything if it didn’t cost me anything.</p>
+<p>And yet, many people get their news from Twitter. Since I started <a href="http://www.manton.org/category/micro">microblogging on my own site</a>, I&#8217;ve had time to reflect on the roll of indie microblogging and cross-posting. I think the <a href="http://indiewebcamp.com/POSSE">IndieWebCamp has it right</a>: publish on your own site, syndicate elsewhere. I wrote more back in July <a href="http://www.manton.org/2015/07/embrace-cross-posting.html">about cross-posting</a>.</p>
+<p>Most importantly, as I work on a microblog publishing platform of my own, how can I develop a solid cross-posting feature if I don&#8217;t actively use it myself? <a href="http://www.manton.org/2015/06/microblogging-with-wordpress.html">I&#8217;ve recommended IFTTT</a> to beta testers, but only by using it myself can I know where the gaps in functionality are.</p>
+<p>So I&#8217;ve been experimenting. All of my posts now go out to the Twitter account @manton2. This was an account I created 6 years ago for testing. Except for a few of the first tweets, I&#8217;ve cleared out the test content and given it a new life.</p>
+<p>It&#8217;s worth noting some advantages and disadvantages to this:</p>
+<ul>
+<li>I can write at my domain name and own my content, but have it automatically sent to Twitter for folks who are there. Unlike how I&#8217;ve been treating these cross-posts to App.net, I&#8217;m not sure whether I will stay engaged and answer replies on Twitter. We&#8217;ll see.</li>
+<li>Most of my microblog posts are around 200 characters. These will get truncated on Twitter, with a link back to my site. Full essays get a nicer title and link. I&#8217;ll continue to improve this.</li>
+<li>I&#8217;m effectively starting over with zero followers, compared to the 5000 followers I left @manton with. I have no plans to resume using my original account, though. Think of the &#8220;2&#8221; in @manton2 as a reminder that this is a mirror of my posts, and an imperfect one.</li>
+</ul>
+<p>You can follow <a href="http://twitter.com/manton2">@manton2 on Twitter</a>. Thanks for reading.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/01/fine-heres-a-twitter-feed.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.335 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-04-14 14:09:31 -->

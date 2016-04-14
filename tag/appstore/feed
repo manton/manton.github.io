@@ -12,12 +12,59 @@
 	<atom:link href="http://www.manton.org/tag/appstore/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Wed, 06 Jan 2016 17:11:57 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<generator>http://wordpress.org/?v=4.3.3</generator>
 	<item>
+		<title>Cute release notes</title>
+		<link>http://www.manton.org/2016/02/cute-release-notes.html</link>
+		<comments>http://www.manton.org/2016/02/cute-release-notes.html#comments</comments>
+		<pubDate>Wed, 03 Feb 2016 19:42:49 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[releasenotes]]></category>
+		<category><![CDATA[tweetlibrary]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3483</guid>
+		<description><![CDATA[Ben Brooks takes on the trend of cute stories inside of release notes: “With disturbingly increasing frequency, companies are deciding to let their marketing departments handle their release notes instead of the engineering team or product manager.” I agree. These were fun at first, but the release notes don’t need to be entertainment. They should [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://brooksreview.net/2016/01/release-notes/">Ben Brooks takes on</a> the trend of cute stories inside of release notes:</p>
+<blockquote><p>
+  “With disturbingly increasing frequency, companies are deciding to let their marketing departments handle their release notes instead of the engineering team or product manager.”
+</p></blockquote>
+<p>I agree. These were fun at first, but the release notes don’t need to be entertainment. They should be a summary of what changed, with bullet points for key changes. (A single “bug fixes” line is also not helpful.)</p>
+<p>I personally like to start each line with a clear statement: “Fixed &lt;something&gt;” or “Added &lt;this feature&gt;” or “Improved &lt;something else&gt; by &lt;doing this&gt;”. You can see this in <a href="http://www.riverfold.com/software/tweetlibrary/releasenotes/">the history of my Tweet Library release notes</a>, for example.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/02/cute-release-notes.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>iAd setback</title>
+		<link>http://www.manton.org/2016/01/iad-setback.html</link>
+		<comments>http://www.manton.org/2016/01/iad-setback.html#comments</comments>
+		<pubDate>Sat, 16 Jan 2016 13:59:49 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[developers]]></category>
+		<category><![CDATA[iads]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3384</guid>
+		<description><![CDATA[I was confused at first by Apple&#8217;s iAd announcement to developers. I read it as iAd completely shutting down, but apparently it&#8217;s just the &#8220;app network&#8221;. Still, it&#8217;s a welcome setback for those of us who were never fans of iAd. John Gruber doesn&#8217;t think Apple&#8217;s heart is really in it: &#8220;When iAd launched, its [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I was confused at first by <a href="https://developer.apple.com/news/?id=01152016a">Apple&#8217;s iAd announcement to developers</a>. I read it as iAd completely shutting down, but apparently it&#8217;s just the &#8220;app network&#8221;. Still, it&#8217;s a welcome setback for those of us who were never fans of iAd.</p>
+<p><a href="http://daringfireball.net/linked/2016/01/15/iad">John Gruber</a> doesn&#8217;t think Apple&#8217;s heart is really in it:</p>
+<blockquote><p>
+  &#8220;When iAd launched, its biggest advocate among Apple’s leadership was Scott Forstall. In some ways I’m surprised it took this long for them to pull the plug. After Forstall, I don’t think anyone’s heart was in this.&#8221;
+</p></blockquote>
+<p>I agree. Back in 2010, I said that <a href="http://www.manton.org/2010/09/i_hope_iad.html">I hope iAd fails</a>. It seemed at odds with Apple&#8217;s focus as a product company, not to mention <a href="http://www.manton.org/2015/09/iad-hypocrisy.html">hypocritical</a> for a company with ad-blocking APIs. Apple and third-party developers should be united in encouraging users to pay for apps; iAd is a distraction from that.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/01/iad-setback.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Phil Schiller and the App Store</title>
 		<link>http://www.manton.org/2015/12/phil-schiller-and-the-app-store.html</link>
 		<comments>http://www.manton.org/2015/12/phil-schiller-and-the-app-store.html#comments</comments>
@@ -217,51 +264,8 @@
 			<wfw:commentRss>http://www.manton.org/2014/02/ending_the_app.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
-		<item>
-		<title>Tweet Library 2.4</title>
-		<link>http://www.manton.org/2013/10/tweet_library_24.html</link>
-		<comments>http://www.manton.org/2013/10/tweet_library_24.html#comments</comments>
-		<pubDate>Thu, 31 Oct 2013 15:42:38 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Programming]]></category>
-		<category><![CDATA[appstore]]></category>
-		<category><![CDATA[ios]]></category>
-		<category><![CDATA[tweetlibrary]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2013/10/tweet_library_24.html</guid>
-		<description><![CDATA[The latest version of Tweet Library was approved by Apple last night. It features an updated design for iOS 7, a new app icon, and a bunch of bug fixes. I also dropped the price to $4.99, universal for both iPhone and iPad, and it’s a free upgrade for all existing customers. The App Store [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>The latest version of Tweet Library was approved by Apple last night. It features an updated design for iOS 7, a new app icon, and a bunch of bug fixes. I also dropped the price to $4.99, universal for both iPhone and iPad, and it’s a free upgrade for all existing customers.</p>
-<p>The App Store screenshots weren’t updated yet, so I put together <a href="http://sunlit.io/manton/tweetlibrary24">some screenshots using Sunlit here</a>.</p>
-<p>I’m pretty happy with how this release turned out, but there’s still more work to do. I’ll be following up this release with some additional improvements specifically for iOS 7 soon. You can grab version 2.4 <a href="http://itunes.apple.com/app/tweet-library/id365768793?mt=8">from the App Store here</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/10/tweet_library_24.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Searching abandoned apps</title>
-		<link>http://www.manton.org/2013/04/searching_abandoned_apps.html</link>
-		<comments>http://www.manton.org/2013/04/searching_abandoned_apps.html#comments</comments>
-		<pubDate>Mon, 08 Apr 2013 17:34:22 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Technology]]></category>
-		<category><![CDATA[appstore]]></category>
-		<category><![CDATA[iphone]]></category>
-		<category><![CDATA[nicemohawk]]></category>
-		<category><![CDATA[old]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2013/04/searching_abandoned_apps.html</guid>
-		<description><![CDATA[Ben Lachman has some good suggestions after my post and David Smith’s on what to do with abandoned apps, saying that apps should be more clearly labelled as “abandoned”. Which device you’re using could also have an impact on search results: “Search results could be weighted by the device you are using quite heavily. Just [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="http://nicemohawk.com/blog/2013/03/making-the-app-store-a-nicer-place/">Ben Lachman has some good suggestions</a> after <a href="http://www.manton.org/2013/03/app_store_old_app.html">my post</a> and <a href="http://david-smith.org/blog/2013/03/21/purging-the-back-catalog/">David Smith’s</a> on what to do with abandoned apps, saying that apps should be more clearly labelled as “abandoned”. Which device you’re using could also have an impact on search results:</p>
-<blockquote><p>
-  “Search results could be weighted by the device you are using quite heavily. Just like how on iPhone you don’t see iPad-only apps when searching the app store; on iPhone 5 you should be very unlikely to see apps that only support 3.5-inch screens.”
-</p></blockquote>
-<p>Makes sense to me. Also check out his comment at the end, that kids these days may have a very difficult time revisiting the classic apps from today, 20 years from now.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/04/searching_abandoned_apps.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 3.355 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-01-06 12:48:52 -->
+<!-- Dynamic page generated in 0.336 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-04-14 14:58:10 -->

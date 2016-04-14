@@ -12,256 +12,279 @@
 	<atom:link href="http://www.manton.org/category/technology/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Wed, 06 Jan 2016 17:11:57 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<generator>http://wordpress.org/?v=4.3.3</generator>
 	<item>
-		<title>DNS consolidation</title>
-		<link>http://www.manton.org/2016/01/dns-consolidation.html</link>
-		<comments>http://www.manton.org/2016/01/dns-consolidation.html#comments</comments>
-		<pubDate>Wed, 06 Jan 2016 13:35:38 +0000</pubDate>
+		<title>Patience and impatience in the tech industry</title>
+		<link>http://www.manton.org/2016/04/patience-and-impatience-in-the-tech-industry.html</link>
+		<comments>http://www.manton.org/2016/04/patience-and-impatience-in-the-tech-industry.html#comments</comments>
+		<pubDate>Mon, 11 Apr 2016 17:01:31 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
-		<category><![CDATA[dns]]></category>
-		<category><![CDATA[hosting]]></category>
-		<category><![CDATA[ssl]]></category>
+		<category><![CDATA[amazon]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[echo]]></category>
+		<category><![CDATA[ipad]]></category>
+		<category><![CDATA[stevejobs]]></category>
+		<category><![CDATA[tablets]]></category>
 
-		<guid isPermaLink="false">http://www.manton.org/?p=3312</guid>
-		<description><![CDATA[Feels like years in the making, but I&#8217;ve finally moved all my domain names to a single provider: DNSimple. The last 3 domains went through toward the end of 2015. They were .io domains, and required calling Network Solutions to unlock. (I own 13 domains, and don&#8217;t plan to add any more for a very [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Feels like years in the making, but I&#8217;ve finally moved all my domain names to a single provider: DNSimple. The last 3 domains went through toward the end of 2015. They were .io domains, and required calling Network Solutions to unlock. (I own 13 domains, and don&#8217;t plan to add any more for a very long time.)</p>
-<p>I&#8217;ve found that the simplicity of having these kind of things consolidated in one place really improves keeping up with hosting and renewals. It&#8217;s the same reason I moved all my private projects to GitHub, even though it would cost more per month. It means less to worry about, so more time for coding.</p>
-<p>Since I&#8217;ve often been thinking about <a href="http://www.manton.org/2012/07/permanence.html">the lack of permanence on the web</a>, I also want to be more proactive about extending my domain registrations. I renewed manton.org until 2021.</p>
-<p>If you&#8217;re interested in using DNSimple, use <a href="https://dnsimple.com/r/9fc1dd2e59824b">this referral link</a> for a month free. All my SSL certificates are there too, although I&#8217;m keeping an eye on <a href="https://letsencrypt.org/">Let&#8217;s Encrypt</a>.</p>
+		<guid isPermaLink="false">http://www.manton.org/2016/04/patience-and-impatience-in-the-tech-industry.html</guid>
+		<description><![CDATA[There&#8217;s a great line from an iPad Pro article by Ben Brooks, where he&#8217;s discussing how Steve Jobs was always conscious of shipping only Apple&#8217;s best work: The key difference between Gates and Jobs isn’t the vision, it’s the patience, or if you prefer the unwillingness to ship something which isn’t great. I&#8217;ve been thinking [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>There&#8217;s a great line from <a href="https://brooksreview.net/2016/04/vision-2/">an iPad Pro article by Ben Brooks</a>, where he&#8217;s discussing how Steve Jobs was always conscious of shipping only Apple&#8217;s best work:</p>
+<blockquote><p>
+  The key difference between Gates and Jobs isn’t the vision, it’s the patience, or if you prefer the unwillingness to ship something which isn’t great.
+</p></blockquote>
+<p>I&#8217;ve been thinking about the time just before the iPad was announced. We didn&#8217;t know what form it would take, how much it would cost, or even what OS it would run. At the time, I <em>even wanted it to run Mac OS X</em>. From one of <a href="http://www.manton.org/2008/01/give_us_a.html">my blog posts in 2008</a>:</p>
+<blockquote><p>
+  The primary market for a Mac tablet is the millions of people who look at the <a href="http://www.wacom.com/cintiq/">Wacom Cintiq</a> and drool. An Apple tablet has to run full Mac OS X because it has to run Photoshop, Acorn, and Painter.
+</p></blockquote>
+<p>It&#8217;s easy in hindsight to say how wrong I was, that of course it should run iOS. And today I&#8217;d agree; iOS 9 on the iPad is great. But I thought a tablet would be particularly good for artists, and basing it on the Mac would be the only way to hit the ground running with a stylus and mature graphics software.</p>
+<p>That brings us back to patience, and how Apple <a href="http://www.macworld.com/article/1151235/apple_rolls.html">rolls</a> and iterates. It has taken 6 years from the original iPad introduction to the iPad Pros we have today that fulfill what I had hoped a tablet could be. Was it worth the wait? Yes. But that&#8217;s a long time, and a more impatient company might&#8217;ve taken a different path to get here, and they wouldn&#8217;t have been wrong.</p>
+<p>I&#8217;m not actually thinking about Microsoft here, but Amazon. Amazon is so impatient not just with hardware development but everything else that even overnight delivery for their customers isn&#8217;t fast enough.</p>
+<p>When I pre-ordered the Amazon Echo <a href="http://www.manton.org/2015/06/amazon-echo.html">on a whim a year ago</a>, I&#8217;m not sure that Amazon really had any idea what they were doing, whether it would flop or succeed, or if anyone would understand it. A year later, they own the market for this kind of device and it&#8217;s spread by word of mouth because the product is <em>good</em>. If Apple ever makes an Echo competitor it will be years from now and only because someone else proved the idea first.</p>
+<p>Patience is good, and I&#8217;m glad that Apple has a great balance between innovating on brand new products and perfecting existing concepts. But I&#8217;m also glad that not every company is as patient as Apple. I think the industry makes better progress when some companies aren&#8217;t afraid to ship something half-baked too early.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/01/dns-consolidation.html/feed</wfw:commentRss>
+			<wfw:commentRss>http://www.manton.org/2016/04/patience-and-impatience-in-the-tech-industry.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Twitter&#8217;s 10k limit</title>
-		<link>http://www.manton.org/2016/01/twitters-10k-limit.html</link>
-		<comments>http://www.manton.org/2016/01/twitters-10k-limit.html#comments</comments>
-		<pubDate>Tue, 05 Jan 2016 20:00:00 +0000</pubDate>
+		<title>Tesla Model 3</title>
+		<link>http://www.manton.org/2016/04/tesla-model-3.html</link>
+		<comments>http://www.manton.org/2016/04/tesla-model-3.html#comments</comments>
+		<pubDate>Sat, 02 Apr 2016 16:15:47 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
-		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[elonmusk]]></category>
+		<category><![CDATA[model3]]></category>
+		<category><![CDATA[preorders]]></category>
+		<category><![CDATA[stevejobs]]></category>
+		<category><![CDATA[tesla]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2016/04/tesla-model-3.html</guid>
+		<description><![CDATA[John Gruber, writing about the Tesla Model 3 unveiling: The crowd enthusiasm was palpable. Tesla took over 115,000 pre-orders before anyone had even seen the car. That is trust — and rather incredible for a car that they don’t intend to ship until the end of next year. At the beginning of the presentation, Elon [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>John Gruber, <a href="http://daringfireball.net/linked/2016/04/01/tesla-model-3">writing about the Tesla Model 3</a> unveiling:</p>
+<blockquote><p>
+  The crowd enthusiasm was palpable. <a href="http://www.theguardian.com/technology/2016/apr/01/tesla-model-3-pre-orders-stack-up-as-elon-musk-unveils-lower-priced-car">Tesla took over 115,000 pre-orders</a> before anyone had even seen the car. That is trust — and rather incredible for a car that they don’t intend to ship until the end of next year.
+</p></blockquote>
+<p>At the beginning of the presentation, Elon Musk references his “master plan” blog post, where he outlined Tesla’s plan to start with the luxury market and then use that money to build a less expensive car, and then use that to build an even more affordable car. <a href="https://www.teslamotors.com/blog/secret-tesla-motors-master-plan-just-between-you-and-me">That blog post</a> was <em>10 years ago</em>.</p>
+<p>Vision takes time to execute. It&#8217;s incredible to reflect on the scope of what Elon Musk’s companies have accomplished. As <a href="http://www.manton.org/2015/02/elon-musk.html">I wrote about last year</a>, Elon will be admired by my kids&#8217; generation in the same way that mine was inspired by Steve Jobs.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/04/tesla-model-3.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>512 Pixels on YouTube</title>
+		<link>http://www.manton.org/2016/03/512-pixels-on-youtube.html</link>
+		<comments>http://www.manton.org/2016/03/512-pixels-on-youtube.html#comments</comments>
+		<pubDate>Wed, 30 Mar 2016 15:57:16 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[history]]></category>
+		<category><![CDATA[imac]]></category>
+		<category><![CDATA[ipod]]></category>
+		<category><![CDATA[nostalgia]]></category>
+		<category><![CDATA[youtube]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2016/03/512-pixels-on-youtube.html</guid>
+		<description><![CDATA[Stephen Hackett loves old Macs. (And iPhones and iPods and Newtons.) His fascination with old Apple hardware and the passion to share it with a larger audience — many of whom weren&#8217;t around for the dark days when Apple was doomed — is one of the things I love most about reading 512 Pixels. He&#8217;s [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Stephen Hackett loves old Macs. (And iPhones and iPods and Newtons.) His fascination with old Apple hardware and the passion to share it with a larger audience — many of whom weren&#8217;t around for the dark days when Apple was doomed — is one of the things I love most about reading <a href="http://www.512pixels.net/">512 Pixels</a>.</p>
+<p>He&#8217;s slowly been expanding into video production with <a href="https://www.youtube.com/channel/UCZzXBTOSdtmOz9_VMYffr4g">a channel on YouTube</a>. The latest video covers the iPod Shuffle, the tiny iPod without a screen that Apple still sells. At just $49, it&#8217;s not much more expensive than a long USB-C cable and may be the best bargain in Apple&#8217;s lineup after the $399 iPhone SE. <a href="http://www.512pixels.net/blog/2016/3/the-history-of-the-ipod-shuffle">Stephen writes</a> about the original Shuffle:</p>
+<blockquote><p>
+  The first Shuffle was built like a glorified USB thumb drive. This new player was smaller than a pack of chewing gum, and built around the concept of shuffling your music. There was no need for a screen or a true clickwheel. If you wanted to listen to music in order, the switch on the back could be set to continuous playback.
+</p></blockquote>
+<p>Ah, nostalgia. One of the reasons I blog at all, and have been for 14 years now, isn&#8217;t so much for today&#8217;s audience but tomorrow&#8217;s. Even the most mundane blog posts take on new significance with a few years&#8217; distance. Old technical topics have surprisingly poor representation on today&#8217;s web, as linkrot sets in.</p>
+<p>I&#8217;m looking forward to what else Stephen has planned. I know <a href="https://www.relay.fm/connected/83">from the Connected podcast</a> that lately he has been trying to collect all the different original iMac colors. (Two other podcasts that are worth a listen for an additional trip down memory lane: <a href="http://therecord.co/">The Record</a> and <a href="http://simplebeep.com/">Simple Beep</a>.)</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/03/512-pixels-on-youtube.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Sticking with the big iPad Pro</title>
+		<link>http://www.manton.org/2016/03/sticking-with-the-big-ipad-pro.html</link>
+		<comments>http://www.manton.org/2016/03/sticking-with-the-big-ipad-pro.html#comments</comments>
+		<pubDate>Wed, 23 Mar 2016 16:05:06 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[appleevent]]></category>
+		<category><![CDATA[applepencil]]></category>
+		<category><![CDATA[ipadpro]]></category>
+		<category><![CDATA[keyboard]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2016/03/sticking-with-the-big-ipad-pro.html</guid>
+		<description><![CDATA[I’ve been conflicted about which iPad Pro to use ever since the 10-inch rumors started. If both sizes had been available right away, I think I would have bought the smaller version. Small is convenient; I still really like and use even the iPad Mini. But there was only one iPad Pro when the Apple [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I’ve been conflicted about which iPad Pro to use ever since the 10-inch rumors started. If both sizes had been available right away, I think I would have bought the smaller version. Small is convenient; I still really like and use even the iPad Mini. But there was only one iPad Pro when the Apple Pencil was introduced, so I bought that one.</p>
+<p>Luckily the 13-inch iPad Pro still has some nice benefits. More room for split-view apps, of course, but also 4 GB of RAM compared to the new iPad Pro’s 2 GB. <a href="https://www.macstories.net/linked/the-9-7-inch-ipad-pro-has-2-gb-of-ram/">Federico Viticci</a> is sticking with the big one:</p>
+<blockquote><p>
+  2 GB of RAM was one of the first things I heard about the new device yesterday, and part of the reason why <a href="https://www.macstories.net/roundups/the-9-7-inch-ipad-pro-our-complete-overview/">I’m going to stick with the 12.9-inch Pro</a>. In addition to a more comfortable iOS experience, I like knowing that I&#8217;m using the most powerful iPad hardware currently available (I don&#8217;t count the camera as essential to what I need to do on an iPad).
+</p></blockquote>
+<p>I realized this week that I was wasting time wondering which iPad is the best for me. It’s the ol&#8217; <a href="https://en.wikipedia.org/wiki/The_Paradox_of_Choice">paradox of choice</a>. So to cement the decision, I went by the Apple Store yesterday and picked up a Smart Keyboard for the 13-inch. I’ve been meaning to get one for months, and now that I have it, it makes even less sense to trade in my iPad for a different one. (The keyboard really does transform the iPad. It&#8217;s great.)</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/03/sticking-with-the-big-ipad-pro.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>iPhone SE sales potential</title>
+		<link>http://www.manton.org/2016/03/iphone-se-sales-potential.html</link>
+		<comments>http://www.manton.org/2016/03/iphone-se-sales-potential.html#comments</comments>
+		<pubDate>Tue, 22 Mar 2016 19:01:16 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[iphone5se]]></category>
+		<category><![CDATA[stats]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3761</guid>
+		<description><![CDATA[John Gruber runs down the list of yesterday’s Apple announcements. On the iPhone SE, he recognizes that it’s a great device especially in the short term, before the iPhone 7 is released: If you listen to my podcast, you know how ambivalent I remain about the physical size of the 4.7-inch iPhone 6 and 6S. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://daringfireball.net/2016/03/thoughts_and_observations_loop_you_in">John Gruber runs down the list</a> of yesterday’s Apple announcements. On the iPhone SE, he recognizes that it’s a great device especially in the short term, before the iPhone 7 is released:</p>
+<blockquote><p>
+  If you listen to my podcast, you know how ambivalent I remain about the physical size of the 4.7-inch iPhone 6 and 6S. I was really hoping that the iPhone SE would effectively have iPhone 6S specs — CPU and GPU performance, and similar camera quality. That seems to be exactly what Apple delivered. I honestly think this is the phone I’m going to use for the next six months.
+</p></blockquote>
+<p><a href="https://sixcolors.com/post/2016/03/tea-and-scones-in-cupertino-an-apple-event-recap/">Jason Snell follows up</a> on the Dan Moren post <a href="http://www.manton.org/2016/03/apple-event-non-product-focus.html">I linked to</a> by also covering the new products. Highlighting the sales potential for the iPhone SE, Jason writes:</p>
+<blockquote><p>
+  In the past year, Apple has sold 30 million 4” iPhones, out of around 230 million total. That’s only 13 percent of the total, but it’s still a very large number of phones—and this, during a year when the most modern four-inch iPhone Apple sells was introduced in the fall of 2013. Is there room for the iPhone SE to be 20 percent of Apple’s total iPhone sales? I think so.
+</p></blockquote>
+<p>I keep thinking about the iPhone SE price: $399 for essentially the power of a 6S, which is $649. That’s just a great value. I’ve said on Core Intuition recently that while the 6S and upcoming 7 will always remain the most popular phone, I think the SE could hold its own with the 6S Plus in units sold. Now I wonder if it could even surpass it.</p>
+<p>According to <a href="https://david-smith.org/iosversionstats/">David Smith’s stats</a>, the Plus versions represent about 15% of active devices 4-inch or bigger. That share goes up to about 20% if you exclude older devices no longer for sale, like the 5 and 5C. That seems about right to me. If you sat around an Apple Store and watched 10 people buy iPhones, I’d be surprised if more than a couple were the Plus. Starting next week, a couple of those iPhones could be the SE, too.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/03/iphone-se-sales-potential.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Apple event non-product focus</title>
+		<link>http://www.manton.org/2016/03/apple-event-non-product-focus.html</link>
+		<comments>http://www.manton.org/2016/03/apple-event-non-product-focus.html#comments</comments>
+		<pubDate>Mon, 21 Mar 2016 20:30:32 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[applewatch]]></category>
+		<category><![CDATA[environment]]></category>
+		<category><![CDATA[health]]></category>
+		<category><![CDATA[iphone5se]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3752</guid>
+		<description><![CDATA[Dan Moren writes for Six Colors about the structure for the 1-hour Apple event today, of which only about half the time was spent on new products: &#8220;If the Apple-FBI fight isn’t yet about public opinion, it probably will be if the matter ends up going to Congress. So it’s no surprise that Tim Cook [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://sixcolors.com/post/2016/03/apple-shifts-focuses-from-small-products-to-big-issues/">Dan Moren writes for Six Colors</a> about the structure for the 1-hour Apple event today, of which only about half the time was spent on new products:</p>
+<blockquote><p>
+  &#8220;If the Apple-FBI fight isn’t yet about public opinion, it probably will be if the matter ends up going to Congress. So it’s no surprise that Tim Cook is going to use his bully pulpit to push Apple’s track record on the welfare of its customers and the world at large, rather than how many products it’s sold and how much money it’s made.&#8221;
+</p></blockquote>
+<p>I&#8217;d like to see this continue at future events. Leave the record sales numbers for the finance call, and instead focus on what good Apple is doing <em>because</em> they are big, not just <em>how</em> they are big. Even though I own some Apple stock, I do not personally care that much about the precise magnitude of iPhone shipments this quarter.</p>
+<p>As for the new products, nothing to complain about. Since the $10,000 Apple Watch Edition didn&#8217;t get a $50-dollar price drop like the Apple Watch Sport did, guess I&#8217;ll skip that purchase and get an iPhone SE instead.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/03/apple-event-non-product-focus.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Ulysses iOS missing Dropbox support</title>
+		<link>http://www.manton.org/2016/03/ulysses-ios-missing-dropbox-support.html</link>
+		<comments>http://www.manton.org/2016/03/ulysses-ios-missing-dropbox-support.html#comments</comments>
+		<pubDate>Fri, 11 Mar 2016 17:13:46 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[dropbox]]></category>
+		<category><![CDATA[icloud]]></category>
+		<category><![CDATA[sync]]></category>
+		<category><![CDATA[ulysses]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3698</guid>
+		<description><![CDATA[After I blogged about Ulysses for Mac, a couple people told me that an iPad version was coming soon and that it was great. That new version shipped this week. I put down $20 immediately even before reading the positive MacStories review by David Chartier. Unfortunately I can&#8217;t use it much because it has no [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>After I <a href="http://www.manton.org/2016/01/finally-trying-ulysses.html">blogged about Ulysses for Mac</a>, a couple people told me that an iPad version was coming soon and that it was great. That new version shipped this week. I put down $20 <a href="http://benb.me/snippets/737">immediately</a> even before reading <a href="https://www.macstories.net/reviews/review-ulysses-2-5-for-ipad-and-now-iphone/">the positive MacStories review by David Chartier</a>.</p>
+<p>Unfortunately I can&#8217;t use it much because it has no native Dropbox support. For a market that has literally <a href="http://brettterpstra.com/ios-text-editors/">many dozens of Dropbox text editors</a>, I didn&#8217;t consider that Ulysses would ship without something so integral to my writing workflow.</p>
+<p>(The Mac version doesn’t have this problem because of the concept of “External Folders”. I simply add my Dropbox notes folder to Ulysses on my Mac and everything syncs.)</p>
+<p>Last month I wrote a post called <a href="http://www.manton.org/2016/02/icloud-is-too-opaque.html">iCloud is too opaque</a>, in which I made an argument against having important text files and photos synced to a backend that allows no visibility when things go wrong, and no compatibility with other apps. Ulysses for iOS falls into this trap. Its use of iCloud is private to the app, unlike iCloud Drive or Dropbox which are accessible from other apps.</p>
+<p>I know I’m not the only one who feels this way. <a href="http://ulyssesapp.com/faq/#ios-sync_external_files">The FAQ</a> for Ulysses spends considerable space trying to explain away their lack of Dropbox support, even attempting to pin the issue on Dropbox instead of Ulysses itself.</p>
+<p>The Soulmen, makers of Ulysses, are talented designers and developers, and I’m typing this in Ulysses for Mac because their app has a great mix of features and attention to detail. I respect that they’ve grown the company to 11 people already. But closed syncing solutions aren’t a good choice for exclusivity. Having cross-platform syncing across competing Twitter apps is why I created Tweet Marker, so you can be sure I want the same for my text documents.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.manton.org/2016/03/ulysses-ios-missing-dropbox-support.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Concerned about user-generated content</title>
+		<link>http://www.manton.org/2016/03/concerned-about-user-generated-content.html</link>
+		<comments>http://www.manton.org/2016/03/concerned-about-user-generated-content.html#comments</comments>
+		<pubDate>Wed, 02 Mar 2016 17:00:03 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[abuse]]></category>
 		<category><![CDATA[microblogging]]></category>
-		<category><![CDATA[starwars]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[snippets]]></category>
 		<category><![CDATA[twitter]]></category>
 
-		<guid isPermaLink="false">http://www.manton.org/?p=3321</guid>
-		<description><![CDATA[First, Twitter experimented with changing the timeline, so it&#8217;s not strictly reverse-chronological. Then, they renamed Favorites to Likes. Soon, they will remove the 140-character limit, becoming Facebook, and the circle will be complete: &#8220;The current plan is reportedly to show just the first 140 characters in the news feed and then allow readers to click [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>First, Twitter experimented with changing the timeline, so it&#8217;s not strictly reverse-chronological. Then, they renamed Favorites to Likes. Soon, <a href="http://mashable.com/2016/01/05/twitter-character-limit-10000/">they will remove the 140-character limit</a>, becoming Facebook, and the circle will be complete:</p>
-<blockquote><p>
-  &#8220;The current plan is reportedly to show just the first 140 characters in the news feed and then allow readers to click to expand the tweet and see the other 9,860 remaining characters. The new option may launch later this quarter.&#8221;
-</p></blockquote>
-<p>The learner is now the master. Welcome to the dark side.</p>
+		<guid isPermaLink="false">http://www.manton.org/?p=3610</guid>
+		<description><![CDATA[On the latest Under the Radar podcast, Marco Arment and David Smith talk about ways to make your app more robust. That includes tips for scaling your app with a lot of data, and also dealing with potentially hostile user data. It’s that last point that I’ve been thinking the most about lately. With the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>On the latest <a href="https://www.relay.fm/radar/16">Under the Radar podcast</a>, Marco Arment and David Smith talk about ways to make your app more robust. That includes tips for scaling your app with a lot of data, and also dealing with potentially hostile user data. It’s that last point that I’ve been thinking the most about lately.</p>
+<p>With the experience of building Tumblr and Instapaper, Marco is clearly now hesitant to ship app features that accept arbitrary user-generated content, because a small indie company just doesn’t have the resources to deal with spam and abuse. Instead, he suggests outsourcing whenever possible. For example, letting Apple accept and reject podcasts, and basing the Overcast podcast directory search on that already-vetted list.</p>
+<p>Let’s say you’re building a Twitter-like service. As we all know, hate is widespread on Twitter. At times, it seems impossible to even have a G-rated Twitter experience. But the problem is less that users can publish terrible tweets, and more that it is so easy to be <em>exposed to those tweets</em> with search, trending topics, retweets, and replies.</p>
+<p>As I work on my microblogging project, I’m trying to be aware of these points in the platform where bad content can leak out. So I don’t have global search or trending topics. I also don’t make it easy to stumble upon random users. But I do have replies, which by default will currently go out as push notifications if you have the iPhone app installed. It’s that area that I should focus my attention.</p>
+<p>Two options that come to mind for minimizing abuse in replies:</p>
+<ul>
+<li>Don’t allow replies from people you aren’t following. This solves the problem, but it comes at the expense of discussion. It removes the accessibility that many people love about Twitter’s asynchronous following model.</li>
+<li>Quarantine or attempt to classify replies so they don’t bubble up in your timeline or as notifications by default. This would be like an over-aggressive email spam filter. Difficult to get right and possibly routed around by clever microbloggers.</li>
+</ul>
+<p>After listening to Marco and David, and reviewing the full scope of what I’ve been trying to build, I’m pretty concerned about this. I’m looking at <a href="https://akismet.com/">Akismet</a>, and other metrics internal to my app for judging content and suspicious user accounts, but I may be a little in over my head on this issue.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/01/twitters-10k-limit.html/feed</wfw:commentRss>
+			<wfw:commentRss>http://www.manton.org/2016/03/concerned-about-user-generated-content.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Lighter, faster mobile web</title>
-		<link>http://www.manton.org/2016/01/lighter-faster-mobile-web.html</link>
-		<comments>http://www.manton.org/2016/01/lighter-faster-mobile-web.html#comments</comments>
-		<pubDate>Tue, 05 Jan 2016 18:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Technology]]></category>
-		<category><![CDATA[amp]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[mobile]]></category>
-		<category><![CDATA[web]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=3310</guid>
-		<description><![CDATA[Speaking of the health of the open web, Maciej Cegłowski gave a talk on web page bloat at the Web Directions conference, and he put the slides and notes online (via Daring Fireball). It&#8217;s fun to read and there are many great points, but I want to focus on Accelerated Mobile Pages: “The AMP project [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Speaking of <a href="http://www.manton.org/2016/01/hyperlinks-and-saving-the-web">the health of the open web</a>, Maciej Cegłowski gave a talk on web page bloat at the Web Directions conference, and he put <a href="http://idlewords.com/talks/website_obesity.htm">the slides and notes online</a> (via <a href="http://daringfireball.net/linked/2016/01/02/website-obesity-crisis">Daring Fireball</a>). It&#8217;s fun to read and there are many great points, but I want to focus on Accelerated Mobile Pages:</p>
-<blockquote><p>
-  “The AMP project is ostentatiously open source, and all kinds of publishers have signed on. Out of an abundance of love for the mobile web, Google has volunteered to run the infrastructure, especially the user tracking parts of it.”
-</p></blockquote>
-<p>Sarcasm aside, I think Google&#8217;s involvement is mostly transparent, and I was hopeful about it when <a href="http://www.manton.org/2015/11/accelerated-mobile-pages-from-google.html">I wrote about this in November</a>. Google wants the web to be fast. A faster web includes more ad impressions and is more competitive with native mobile apps. I don&#8217;t think this disqualifies Google from proposing this project.</p>
-<p><a href="http://highscalability.com/blog/2015/12/14/does-amp-counter-an-existential-threat-to-google.html">High Scalability has a long article</a> exploring AMP:</p>
-<blockquote><p>
-  “Google needs an open and rich ecosystem of knowledge. If that’s not there then Google search won’t be relevant. Which is Google’s direct self-interest, which is also the same objective of the publisher. Publishers need access to an open ecosystem of distribution. Otherwise they’ll have a harder time building audiences if they have to appeal to closed platforms. Yes, Google is a private company that has business interests, but that philosophy and that core similar objective is something very important when considering Google’s role in AMP.”
-</p></blockquote>
-<p>I&#8217;m willing to give Google the benefit of the doubt on AMP. The alternatives are too focused on specific platforms and so even less available to the rest of the web.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/01/lighter-faster-mobile-web.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Apple Watch still pretty great</title>
-		<link>http://www.manton.org/2016/01/apple-watch-still-pretty-great.html</link>
-		<comments>http://www.manton.org/2016/01/apple-watch-still-pretty-great.html#comments</comments>
-		<pubDate>Mon, 04 Jan 2016 13:00:08 +0000</pubDate>
+		<title>Apple Watch is slow&#8230; for now</title>
+		<link>http://www.manton.org/2016/02/apple-watch-is-slow-for-now.html</link>
+		<comments>http://www.manton.org/2016/02/apple-watch-is-slow-for-now.html#comments</comments>
+		<pubDate>Sun, 28 Feb 2016 21:20:01 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
 		<category><![CDATA[applewatch]]></category>
-		<category><![CDATA[fitness]]></category>
-		<category><![CDATA[notifications]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[performance]]></category>
+		<category><![CDATA[snowboarding]]></category>
 
-		<guid isPermaLink="false">http://www.manton.org/?p=3283</guid>
-		<description><![CDATA[Stephen Hackett posted an Apple Watch follow-up recently. He has mostly stopped wearing it: &#8220;The Apple Watch can do a lot of neat things, and I miss its fitness tracking, but so much of it just doesn&#8217;t fit my lifestyle anymore. It&#8217;s not super useful for work, apps are still miserably slow and at times, [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="http://www.512pixels.net/blog/2015/12/apple-watch-follow-up">Stephen Hackett posted</a> an Apple Watch follow-up recently. He has mostly stopped wearing it:</p>
+		<guid isPermaLink="false">http://www.manton.org/?p=3587</guid>
+		<description><![CDATA[Dan Moren wrote an essay for Six Colors last week about why slowness is such a problem for the Apple Watch: “The stale data and the lack of speed means that either you have to stare at your Watch for several seconds and hope the data updates; or tap on the complication to load the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://sixcolors.com/2016/02/why-slowness-is-killing-the-apple-watch/">Dan Moren wrote an essay for Six Colors last week</a> about why slowness is such a problem for the Apple Watch:</p>
 <blockquote><p>
-  &#8220;The Apple Watch can do a lot of neat things, and I miss its fitness tracking, but so much of it just doesn&#8217;t fit my lifestyle anymore. It&#8217;s not super useful for work, apps are still miserably slow and at times, its an additional distraction.&#8221;
+  “The stale data and the lack of speed means that either you have to stare at your Watch for several seconds and hope the data updates; or tap on the complication to load the Watch app, which as we all know takes a good long while as well; or simply give up and pull out your phone. [&#8230;] It’s not just that the Apple Watch is slow; it’s that it’s slow <em>while promising to be faster</em>.”
 </p></blockquote>
-<p>The Apple Watch is a very personal device. It&#8217;s okay that it&#8217;s not for everyone. There&#8217;s no network effect; the watch isn&#8217;t better or worse if other people don&#8217;t use it. And it&#8217;s even okay if most of the apps are too slow to bother with. Fitness tracking, notifications, the time — for me, those 3 simple features are enough.</p>
-<p><a href="https://www.caseyliss.com/2015/12/17/apple-watch-revisited">Casey Liss also writes</a> that notifications have been one of the most important features, letting him keep his iPhone ringer off:</p>
+<p>Both Dan and Jason Snell followed up on this topic in the latest Six Colors subscriber podcast. The problem, they recognized, is that the first Apple Watch tried to do too much. Apple should instead focus on a few core features and make them fast.</p>
+<p>Which features? I still use the Apple Watch every single day, and I use it for just three things: telling the time, tracking fitness (including reminding me to stand up), and glancing at notifications.</p>
+<p>Some people have stopped wearing their watch every day. Again, <a href="http://www.manton.org/2016/01/apple-watch-still-pretty-great.html">that&#8217;s fine</a>. Curtis Herbert was falling into that category, until he went snowboarding with friends and realized how useful the Apple Watch is when you can’t get to your phone or tap buttons. <a href="http://blog.curtisherbert.com/apple-watch-makes-the-perfect-snowboarding-companion/">In an article about the snowboarding trip</a>, Curtis says the Apple Watch’s problems are solvable in future versions:</p>
 <blockquote><p>
-  “The Apple Watch has allowed my iPhone to transition from being a <em>personal</em> device to being a <em>private</em> one. That’s a really profound change. More so than I expected.”
+  “Siri on the Watch will get faster. The battery situation will improve. The Watch as a whole will get faster. We&#8217;re spoiled by iPhone speeds and sometimes forget just how long it took us to get there, and the crap we dealt with until then.”
 </p></blockquote>
-<p>Once every couple of months, I leave the house in a hurry and forget to put my Apple Watch on. I survive without it, of course, but I do miss it. After not wearing a watch for most of my life, it&#8217;s weird now if I don&#8217;t have the Apple Watch with me. I expect to use it for years to come.</p>
+<p>I’m not worried about the future of the watch either. Our early expectations were much too high — in contrast with the first iPhone, which exceeded all hopes because it was seemingly from the future already — and it will take a couple more years to catch up to where we’d all like the watch to be. In the meantime, the watch is useful today, even slow-ish.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/01/apple-watch-still-pretty-great.html/feed</wfw:commentRss>
+			<wfw:commentRss>http://www.manton.org/2016/02/apple-watch-is-slow-for-now.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Phil Schiller and the App Store</title>
-		<link>http://www.manton.org/2015/12/phil-schiller-and-the-app-store.html</link>
-		<comments>http://www.manton.org/2015/12/phil-schiller-and-the-app-store.html#comments</comments>
-		<pubDate>Thu, 17 Dec 2015 15:49:34 +0000</pubDate>
+		<title>iPhone SE (no 5)</title>
+		<link>http://www.manton.org/2016/02/iphone-se-no-5.html</link>
+		<comments>http://www.manton.org/2016/02/iphone-se-no-5.html#comments</comments>
+		<pubDate>Fri, 26 Feb 2016 19:57:20 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
-		<category><![CDATA[apple]]></category>
-		<category><![CDATA[appstore]]></category>
-		<category><![CDATA[leadership]]></category>
-		<category><![CDATA[mas]]></category>
-		<category><![CDATA[rejections]]></category>
+		<category><![CDATA[9to5mac]]></category>
+		<category><![CDATA[daringfireball]]></category>
+		<category><![CDATA[iphone5se]]></category>
+		<category><![CDATA[iphone6s]]></category>
 
-		<guid isPermaLink="false">http://www.manton.org/?p=3261</guid>
-		<description><![CDATA[Apple announced some leadership changes today, including that Phil Schiller will now lead the App Store on Apple&#8217;s various platforms: &#8220;With added responsibility for the App Store, Phil Schiller will focus on strategies to extend the ecosystem Apple customers have come to love when using their iPhone, iPad, Mac, Apple Watch and Apple TV. Phil [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="http://www.apple.com/pr/library/2015/12/17Apple-Names-Jeff-Williams-Chief-Operating-Officer.html">Apple announced</a> some leadership changes today, including that Phil Schiller will now lead the App Store on Apple&#8217;s various platforms:</p>
+		<guid isPermaLink="false">http://www.manton.org/?p=3573</guid>
+		<description><![CDATA[Mark Gurman of 9to5Mac reports that the new 4-inch iPhone will be called simply “iPhone SE”, not “5SE”. As I said before, I don’t really care what it’s called, but this is good news nevertheless. John Gruber adds: “Isn’t it more accurate to think of this as an iPhone 6S in a 4-inch body than [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://9to5mac.com/2016/02/26/apple-iphone-se-4-inch-2016/">Mark Gurman of 9to5Mac reports</a> that the new 4-inch iPhone will be called simply “iPhone SE”, not “5SE”. <a href="http://www.manton.org/2016/01/iphone-5se.html">As I said before</a>, I don’t really care what it’s called, but this is good news nevertheless.</p>
+<p><a href="http://daringfireball.net/linked/2016/02/26/9to5mac-se">John Gruber adds</a>:</p>
 <blockquote><p>
-  &#8220;With added responsibility for the App Store, Phil Schiller will focus on strategies to extend the ecosystem Apple customers have come to love when using their iPhone, iPad, Mac, Apple Watch and Apple TV. Phil now leads nearly all developer-related functions at Apple, in addition to his other marketing responsibilities including Worldwide Product Marketing, international marketing, education and business marketing.&#8221;
+  “Isn’t it more accurate to think of this as an iPhone 6S in a 4-inch body than as an iPhone 5S with ‘upgraded internals’? Other than the display, aren’t the ‘internals’ the defining characteristics of any iPhone?”
 </p></blockquote>
-<p>You may remember that Phil Schiller has gotten involved in controversial App Store rejections in the past, going back to 2009. See <a href="https://daringfireball.net/2009/08/phil_schiller_app_store">this post from Daring Fireball</a> about Ninjawords, and another article <a href="http://techcrunch.com/2009/08/15/phil-schiller-is-a-man-on-a-mission-to-save-the-app-store/">at Techcrunch by MG Siegler</a>.</p>
-<p>On recent episodes of <a href="http://coreint.org/">Core Intuition</a>, and in <a href="http://www.manton.org/2015/12/too-late-to-save-the-mas.html">a blog post</a>, I&#8217;ve argued that Apple can&#8217;t just make small improvements to the Mac App Store anymore. The time for slow iteration is over; now they have to make big changes to get developers back. I&#8217;d like to believe that putting Phil in charge is exactly that kind of first big step.</p>
-<p><strong>Update:</strong> Less optimistically, though, there was <a href="http://weblog.rogueamoeba.com/2012/06/08/in-response-to-mr-schiller/">this post in 2012 from Rogue Amoeba</a>.</p>
+<p>I agree with John. Other than the screen size, this phone will feel a lot like an iPhone 6S. And because I love the smaller size, I personally think it will have the <em>best</em> of both the 5S and 6S.</p>
+<p>Prediction: this phone is going to be much more popular than people expect. I won’t be surprised if it takes the 6S Plus’s spot as the 2nd most popular iPhone.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/12/phil-schiller-and-the-app-store.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Six Colors and the iPad Pro</title>
-		<link>http://www.manton.org/2015/11/six-colors-and-the-ipad-pro.html</link>
-		<comments>http://www.manton.org/2015/11/six-colors-and-the-ipad-pro.html#comments</comments>
-		<pubDate>Wed, 18 Nov 2015 04:33:58 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Technology]]></category>
-		<category><![CDATA[ipad]]></category>
-		<category><![CDATA[ipadpro]]></category>
-		<category><![CDATA[keyboard]]></category>
-		<category><![CDATA[sixcolors]]></category>
-		<category><![CDATA[writing]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=3185</guid>
-		<description><![CDATA[Jason Snell has posted his initial thoughts on using the iPad Pro: &#8220;What the past few days have taught me is that if I needed to switch from Mac to iPad, if I had a compelling reason, I could absolutely do it. I can edit podcasts, write articles, edit spreadsheets, generate charts and graphs, edit [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Jason Snell has posted <a href="https://sixcolors.com/post/2015/11/ipad-pro-new-tricks-for-old-dogs/">his initial thoughts on using the iPad Pro</a>:</p>
-<blockquote><p>
-  &#8220;What the past few days have taught me is that if I needed to switch from Mac to iPad, if I had a compelling reason, I could absolutely do it. I <a href="https://sixcolors.com/post/2015/11/editing-podcasts-on-ios-with-ferrite/">can edit podcasts</a>, write articles, edit spreadsheets, generate charts and graphs, edit photos, build web sites, transfer files via FTP, and more.&#8221;
-</p></blockquote>
-<p>I don&#8217;t think Jason got an Apple Pencil or Smart Keyboard, although maybe he&#8217;ll have one of each in time for his full review. If you&#8217;ve enjoyed reading Six Colors as much as I have over the last year, <a href="https://sixcolors.com/subscribe/">consider subscribing too</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/11/six-colors-and-the-ipad-pro.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>4-inch iPhone rumors</title>
-		<link>http://www.manton.org/2015/11/4-inch-iphone-rumors.html</link>
-		<comments>http://www.manton.org/2015/11/4-inch-iphone-rumors.html#comments</comments>
-		<pubDate>Fri, 13 Nov 2015 18:19:48 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Technology]]></category>
-		<category><![CDATA[clockwise]]></category>
-		<category><![CDATA[iphone6c]]></category>
-		<category><![CDATA[ipodtouch]]></category>
-		<category><![CDATA[podcasts]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=3169</guid>
-		<description><![CDATA[In the spirit of replying to podcast topics with blog posts, I have some comments after listening to a recent Clockwise. It was another great episode, featuring hosts Jason Snell and Dan Moren, and guests Christina Warren and Susie Ochs. The panel was split on the likelihood of a new 4-inch iPhone from Apple. Apple [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>In the spirit of <a href="http://www.manton.org/2015/11/stars-vs-hearts-and-twitters-decline.html">replying to podcast topics with blog posts</a>, I have some comments after listening to a recent <a href="http://www.relay.fm/clockwise/111">Clockwise</a>. It was another great episode, featuring hosts Jason Snell and Dan Moren, and guests Christina Warren and Susie Ochs.</p>
-<p>The panel was split on the likelihood of a new 4-inch iPhone from Apple. Apple is a company of patterns, so it seems counterintuitive that they&#8217;d release a new phone in the Winter or Spring instead of the Fall. But doing so has a couple of nice advantages: first, you can bump up an otherwise slow sales quarter with a new product; and second, you don&#8217;t hurt sales of the primary iPhones (the 6S and 6S Plus) by confusing buyers with another choice. Customers perfectly happy with their iPhone 6 from last year, and who were planning on buying a 6S as a natural upgrade, now would be faced with an unexpected choice in screen size if the 4-inch phone had been announced alongside the 6S.</p>
-<p>Everyone also seems to forget about <a href="http://www.apple.com/ipod-touch/">the newest 4-inch iPod Touch</a>. It went on sale in July, features an A8 processor, better camera than the iPhone 5S, and sells for only $199. It&#8217;s easy to imagine Apple basing a new 4-inch iPhone on this design, reusing both the screen and many of the internal components from the iPod Touch.</p>
-<p>Apple has sold a lot of iPhone 6 and 6S phones. But there are also a lot of 4-inch devices out in the world: of course the iPhone 5, 5C, and 5S, but also every iPod Touch sold in the last few years. There are many people who would love to replace their old phone with a new one that&#8217;s better and faster, but not bigger.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/11/4-inch-iphone-rumors.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Accelerated Mobile Pages from Google</title>
-		<link>http://www.manton.org/2015/11/accelerated-mobile-pages-from-google.html</link>
-		<comments>http://www.manton.org/2015/11/accelerated-mobile-pages-from-google.html#comments</comments>
-		<pubDate>Mon, 02 Nov 2015 16:22:50 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Technology]]></category>
-		<category><![CDATA[amp]]></category>
-		<category><![CDATA[apple]]></category>
-		<category><![CDATA[facebook]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[wordpress]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=3135</guid>
-		<description><![CDATA[The project technical overview for AMP has the goals and basic info. In a nutshell, the new format encourages a return to more bare-bones HTML, with some added functionality for common web patterns. On the balance between bloated ad platforms and user experience: &#8220;Embedding an ad or analytics often implies giving up control of what [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="https://www.ampproject.org/how-it-works/">The project technical overview for AMP</a> has the goals and basic info. In a nutshell, the new format encourages a return to more bare-bones HTML, with some added functionality for common web patterns. On the balance between bloated ad platforms and user experience:</p>
-<blockquote><p>
-  &#8220;Embedding an ad or analytics often implies giving up control of what eventually happens to a site because they can typically inject any JavaScript they want into pages. AMP HTML does not allow this. We realize that both ads and analytics are an important element of monetization on the web, and so we need to support them: our goal is to realign monetization with great user experience.&#8221;
-</p></blockquote>
-<p>Instead, &#8220;tracking pixels&#8221; are used for analytics. These should be easily skipped by ad blockers, but apps that support AMP will need to use a custom web view anyway, where ad blockers on iOS aren&#8217;t allowed. This may continue to limit the appeal of Safari View Controller.</p>
-<p><a href="http://www.wired.com/2015/10/googles-got-plan-make-mobile-web-less-slow/">Wired covers the announcement</a> and describes how AMP might be integrated into Twitter and other native apps:</p>
-<blockquote><p>
-  &#8220;One surprise beneficiary of AMP may be Twitter. While it’s not a publisher per se, it’s becoming an increasingly important player in news, most recently with the launch of <a href="http://www.wired.com/2015/10/meet-moments-twitters-new-feature/">its Moments feature</a>, which makes news easier to follow on Twitter by organizing Tweets in a chronological, coherent timeline. Now, Twitter will automatically load any articles that are compatible with AMP as AMP files, meaning they will benefit from the same speed inside the Twitter app.&#8221;
-</p></blockquote>
-<p>There&#8217;s <a href="https://github.com/ampproject/amphtml">more on GitHub</a>. On the surface this seems like a more open approach than Facebook Instant Articles or maybe even Apple News Format (which is <a href="https://developer.apple.com/library/ios/documentation/General/Conceptual/Apple_News_Format_Ref/index.html">finally public</a>). That <a href="https://vip.wordpress.com/2015/10/07/mobile-web/">WordPress is supporting AMP</a> is a good sign.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/11/accelerated-mobile-pages-from-google.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Apps on the new Apple TV</title>
-		<link>http://www.manton.org/2015/10/apps-on-the-new-apple-tv.html</link>
-		<comments>http://www.manton.org/2015/10/apps-on-the-new-apple-tv.html#comments</comments>
-		<pubDate>Sat, 31 Oct 2015 20:00:21 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Technology]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=3132</guid>
-		<description><![CDATA[We&#8217;ve had fun since Friday exploring the App Store on the Apple TV. There are a lot of expected apps but also some nice surprises. The only app that&#8217;s really missing for us is Sling TV. As soon as that ships, we&#8217;ll no longer need the Roku. I love apps that use full-screen photos to [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>We&#8217;ve had fun since Friday exploring the App Store on the Apple TV. There are a lot of expected apps but also some nice surprises. The only app that&#8217;s really missing for us is <a href="https://www.sling.com/">Sling TV</a>. As soon as that ships, we&#8217;ll no longer need the Roku.</p>
-<p>I love apps that use full-screen photos to take advantage of the big screen — obviously games and streaming video, but even apps like Airbnb. <a href="http://conradstoll.com/blog/2015/10/30/introducing-picturesque-national-parks-image-trivia-game-for-apple-tv">Conrad Stoll also released a new game</a> called Picturesque, where you try to identify photos of national parks in a time limit that varies by difficulty:</p>
-<blockquote><p>
-  &#8220;It&#8217;s always exciting when you can build a product that bridges different hobbies and interest. Picturesque combines my work as an iOS developer with my passions for <a href="http://conradstoll.com/blog/2014/1/5/forward-climbing-mountains">Backpacking</a> and <a href="http://cnstoll.500px.com/john_muir">Photography</a>. I&#8217;m happy for the result to be both my first game and my first foray into this new platform.&#8221;
-</p></blockquote>
-<p>It&#8217;s also great to see <a href="http://www.spaceageapp.com/">Space Age</a> make the jump to the Apple TV. We&#8217;ve been playing a few games that are free downloads because we had already purchased them on iOS, including Oceanhorn and Crossy Road.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/10/apps-on-the-new-apple-tv.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Gravity and the App Store</title>
-		<link>http://www.manton.org/2015/10/gravity-and-the-app-store.html</link>
-		<comments>http://www.manton.org/2015/10/gravity-and-the-app-store.html#comments</comments>
-		<pubDate>Wed, 28 Oct 2015 20:50:25 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Technology]]></category>
-		<category><![CDATA[3dtouch]]></category>
-		<category><![CDATA[apple]]></category>
-		<category><![CDATA[appstore]]></category>
-		<category><![CDATA[rejections]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=3115</guid>
-		<description><![CDATA[Dan Moren, writing at Six Colors about the rejected app Gravity: &#8220;Really, what Apple needs is a small group within the App Store review team to flag apps that are pushing the envelope in smart, respectful ways; work with those apps’ developers; and present overall recommendations to App Store leadership—perhaps even reporting directly to Eddy [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Dan Moren, <a href="https://sixcolors.com/link/2015/10/tales-of-an-app-store-rejection-gravity/">writing at Six Colors</a> about the rejected app Gravity:</p>
-<blockquote><p>
-  &#8220;Really, what Apple needs is a small group within the App Store review team to flag apps that are <a href="https://sixcolors.com/post/2014/10/apple-ios-widgets-cant-calculate/">pushing the envelope</a> in smart, respectful ways; work with those apps’ developers; and present overall recommendations to App Store leadership—perhaps even reporting directly to Eddy Cue.&#8221;
-</p></blockquote>
-<p>I love this idea. It would both minimize unfair app rejections <em>and</em> help innovative apps bubble up to the featured sections in the App Store.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/10/gravity-and-the-app-store.html/feed</wfw:commentRss>
+			<wfw:commentRss>http://www.manton.org/2016/02/iphone-se-no-5.html/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 2.677 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-01-06 12:37:28 -->
+<!-- Dynamic page generated in 0.351 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-04-14 13:49:56 -->
