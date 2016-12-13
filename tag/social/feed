@@ -8,19 +8,71 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; social</title>
+	<title>social &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/social/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
+		<title>Fake news and Instagram</title>
+		<link>http://www.manton.org/2016/11/fake-news-and-instagram.html</link>
+		<pubDate>Tue, 22 Nov 2016 17:14:46 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[instagram]]></category>
+		<category><![CDATA[news]]></category>
+		<category><![CDATA[social]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4484</guid>
+		<description><![CDATA[Twitter has retweets. Facebook has sharing. But Instagram has no built-in reposting. On Instagram, there&#8217;s no instantaneous way to share someone else&#8217;s post to all of your followers. The first version of Instagram was built by a very small team. They&#8217;ve always grown slowly and expanded the UI thoughtfully. I think the lack of a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Twitter has retweets. Facebook has sharing. But Instagram has no built-in reposting. On Instagram, there&#8217;s no instantaneous way to share someone else&#8217;s post to all of your followers.</p>
+<p>The first version of Instagram was built by a very small team. They&#8217;ve always grown slowly and expanded the UI thoughtfully. I think the lack of a repost feature was deliberate.</p>
+<p>When you have to put a little work into posting, you take it more seriously. I wonder if <a href="http://www.manton.org/2016/11/todays-social-networks-are-broken.html">fake news</a> would have spread so quickly on Facebook if it was a little more difficult to share an article before you&#8217;ve read more than the headline.</p>
+<p>It&#8217;s not easy to build software that encourages good behavior. When I look at my Instagram timeline I see beautiful photos, hand-drawn art, and snapshots of everyday life. I see the very best of the world. It&#8217;s not the full truth, but it&#8217;s all true.</p>
+<p>Instagram was no accident. The only question: was it unique to photos, or can the same quality be applied to microblogging?</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Today&#8217;s social networks are broken</title>
+		<link>http://www.manton.org/2016/11/todays-social-networks-are-broken.html</link>
+		<pubDate>Fri, 18 Nov 2016 16:02:47 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[openweb]]></category>
+		<category><![CDATA[snippets]]></category>
+		<category><![CDATA[social]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4471</guid>
+		<description><![CDATA[Brent Simmons has left Twitter, frustrated with the diminishing value of the service, Twitter&#8217;s inability to deal with harassment, and more: And then it was part of the system that helped elect a fascist President. This tipped it over for me: it’s no longer worth my participation. The shitheads can have it. Facebook has also [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://inessential.com/2016/11/09/on_leaving_twitter">Brent Simmons has left Twitter</a>, frustrated with the diminishing value of the service, Twitter&#8217;s inability to deal with harassment, and more:</p>
+<blockquote><p>
+  And then it was part of the system that helped elect a fascist President. This tipped it over for me: it’s no longer worth my participation. The shitheads can have it.
+</p></blockquote>
+<p>Facebook has also been in the news for <a href="http://mashable.com/2016/11/09/facebook-kill-news-feed-trump/">its role in letting fake news spread</a>. Ben Thompson has <a href="https://stratechery.com/2016/fake-news/">a long essay this week on it</a>:</p>
+<blockquote><p>
+  I get why top-down solutions are tempting: fake news and filter bubbles are in front of our face, and wouldn’t it be better if Facebook fixed them? The problem is the assumption that whoever wields that top-down power will just so happen to have the same views I do. What, though, if they don’t?
+</p></blockquote>
+<p>Maybe. Though while we should debate how to balance Facebook&#8217;s enormous power, there should be a parallel effort to move away from the centralized publishing model that gave Facebook that power.</p>
+<p>Facebook has confused itself into thinking it is the whole internet, and so the principles of a free press that apply to the open web, also must apply to Facebook. No. While Facebook has a great responsibility to do the right thing, because they are so big, Facebook is just a web site.</p>
+<p>I want Facebook to improve. I want Twitter to improve. But I can do very little to effect change at those companies, and some problems are so fundamental as to be essentially unfixable. The web wasn&#8217;t supposed to be like this, with all the power and all the writing concentrated into so few sites.</p>
+<p>It&#8217;s time for a new social network that brings discoverability and community without the baggage of an ad-driven network that must grow to a billion users. A social network that embraces the open web, and freedom of expression, while preserving a clean timeline that can&#8217;t be interrupted by harassment.</p>
+<p>Not just one new social network. I hope that many developers will work on products that encourage independent publishing again.</p>
+<p>It&#8217;s going to take time to build. That&#8217;s why I started working on <a href="http://snippets.today/">Snippets.today</a> 2 years ago. I&#8217;ve made great progress, but I&#8217;ve also drifted, unfocused, uncommitted to finishing it, as if I knew something was missing.</p>
+<p>Something <em>was</em> missing. The election results have made that clear. I was thinking big, but not big enough. The way forward must include both a decentralized publishing platform and the tools to encourage a safe community.</p>
+<p>If you&#8217;d like to know when the beta is finally ready, please <a href="http://eepurl.com/6vVvj">subscribe to the announce list</a>. Thank you.</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>Matt Gemmell on Twitter ads</title>
 		<link>http://www.manton.org/2016/01/matt-gemmell-on-twitter-ads.html</link>
-		<comments>http://www.manton.org/2016/01/matt-gemmell-on-twitter-ads.html#comments</comments>
 		<pubDate>Tue, 26 Jan 2016 21:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -37,13 +89,10 @@
 </p></blockquote>
 <p>Ads are the worst. I don’t know if it’s possible to build a large-scale social network like Twitter or Facebook without being mostly ad-supported, but I&#8217;d like to believe it is. WordPress.com — which has elements of a social network, even though we don’t consider it one — might be the closest successful attempt.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/01/matt-gemmell-on-twitter-ads.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Why Ello isn’t enough</title>
 		<link>http://www.manton.org/2015/06/why-ello-isnt-enough.html</link>
-		<comments>http://www.manton.org/2015/06/why-ello-isnt-enough.html#comments</comments>
 		<pubDate>Sun, 21 Jun 2015 21:33:07 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Weblogs]]></category>
@@ -62,11 +111,9 @@
 <p>I wish I could cheer Ello on. Spend enough time clicking around on Ello and you discover a niche but fascinating community, full of beautiful art and photos. It’s just that after so many months, there’s still not even a mention of an official API on the <a href="https://ello.co/wtf/resources/feature-list/">planned features page</a>.</p>
 <p>The next great social platform can’t be yet another centralized system. It has to be more distributed and more open even than App.net. It has to focus on writing and bloggers and embrace what is good about the web. Ello doesn’t do any of these things.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/06/why-ello-isnt-enough.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.330 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 14:57:19 -->
+<!-- Dynamic page generated in 0.286 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 14:45:30 -->

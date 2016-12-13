@@ -8,19 +8,18 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; sync</title>
+	<title>sync &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/sync/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
 		<title>Ulysses iOS missing Dropbox support</title>
 		<link>http://www.manton.org/2016/03/ulysses-ios-missing-dropbox-support.html</link>
-		<comments>http://www.manton.org/2016/03/ulysses-ios-missing-dropbox-support.html#comments</comments>
 		<pubDate>Fri, 11 Mar 2016 17:13:46 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -38,13 +37,10 @@
 <p>I know I’m not the only one who feels this way. <a href="http://ulyssesapp.com/faq/#ios-sync_external_files">The FAQ</a> for Ulysses spends considerable space trying to explain away their lack of Dropbox support, even attempting to pin the issue on Dropbox instead of Ulysses itself.</p>
 <p>The Soulmen, makers of Ulysses, are talented designers and developers, and I’m typing this in Ulysses for Mac because their app has a great mix of features and attention to detail. I respect that they’ve grown the company to 11 people already. But closed syncing solutions aren’t a good choice for exclusivity. Having cross-platform syncing across competing Twitter apps is why I created Tweet Marker, so you can be sure I want the same for my text documents.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/03/ulysses-ios-missing-dropbox-support.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Tweet Library 2.7 and promising features</title>
 		<link>http://www.manton.org/2015/01/tweet-library-2-7-and-promising-features.html</link>
-		<comments>http://www.manton.org/2015/01/tweet-library-2-7-and-promising-features.html#comments</comments>
 		<pubDate>Wed, 21 Jan 2015 17:55:45 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -61,13 +57,10 @@
 <p>I also view it as a sort of parting &#8220;thank you&#8221; to my customers. It&#8217;s just the right thing to do to wrap up the app. <a href="http://www.panic.com/blog/the-future-of-unison/">Panic did the same thing</a> when they stopped selling Unison, releasing a major free update at the same time.</p>
 <p>If you&#8217;re interested in picking up a copy of Tweet Library before it&#8217;s too late, you can <a href="http://appstore.com/tweetlibrary">buy it on the App Store for $4.99</a>. The new version should ship in early February.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/01/tweet-library-2-7-and-promising-features.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>iCloud sync narrative</title>
 		<link>http://www.manton.org/2013/03/icloud_sync_narrative.html</link>
-		<comments>http://www.manton.org/2013/03/icloud_sync_narrative.html#comments</comments>
 		<pubDate>Thu, 28 Mar 2013 14:41:43 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -84,13 +77,10 @@
 <p>I learned a lot by reading this. Also <a href="http://inessential.com/2013/03/27/why_developers_shouldnt_use_icloud_sy">check out the post from Brent Simmons</a> on why controlling your own web services is so important.</p>
 <p>Pretty sure we hit a tipping point in the <em>iCloud just doesn’t work</em> narrative this week. Whether that judgement is fair or not, Apple should drop everything to focus on making iCloud totally robust in time for WWDC. (And I say that even though I use neither Core Data nor iCloud, and probably never will.)</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/03/icloud_sync_narrative.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Replacements for Google Reader</title>
 		<link>http://www.manton.org/2013/03/replacements_for_google.html</link>
-		<comments>http://www.manton.org/2013/03/replacements_for_google.html#comments</comments>
 		<pubDate>Sat, 16 Mar 2013 16:30:07 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -106,13 +96,10 @@
 <p>Luckily many great developers are now on this. <a href="http://feedwrangler.net/">Feed Wrangler</a> from David Smith, hopes for a <a href="http://bitsplitting.org/2013/03/13/netnewswire-cloud/">possible NetNewsWire Cloud</a>, more <a href="https://twitter.com/shauninman/statuses/312187680832229377">interest in Fever</a>, and other established web apps like <a href="http://www.newsblur.com/">NewsBlur</a> and <a href="http://www.feedly.com/">Feedly</a>.  As Marco Arment said, this <a href="http://www.marco.org/2013/03/13/google-reader-sunset">could end up being a great thing</a> for innovation in blogs and RSS again.</p>
 <p>But just because I’m going to watch on the sidelines for the server sync part of RSS, doesn’t mean I’m going to completely skip building better RSS support into my own products. There’s a lot I’d like to do with client-side RSS support in Watermark.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/03/replacements_for_google.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Push-based sync</title>
 		<link>http://www.manton.org/2011/07/pushbased_sync.html</link>
-		<comments>http://www.manton.org/2011/07/pushbased_sync.html#comments</comments>
 		<pubDate>Fri, 01 Jul 2011 16:13:37 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -131,13 +118,10 @@
 <p>Too complicated. The new system, recently rolled out in Bookshelf for iPhone and iPad, syncs so much more efficiently and quickly that conflicts don&#8217;t need the same emphasis. We can throw away a bunch of code and simplify the user interface.</p>
 <p>I&#8217;ve yet to do anything with iCloud except read the release notes and sit through a couple WWDC sessions, but we&#8217;re going to have a fantastic platform if it can deliver the same speed and reliability of Push Notifications. Guy&#8217;s post is the first I&#8217;ve seen to connect the dots, capturing how well-positioned Apple is to use this plumbing for all sorts of stuff.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2011/07/pushbased_sync.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Tweet Marker</title>
 		<link>http://www.manton.org/2011/06/tweet_marker.html</link>
-		<comments>http://www.manton.org/2011/06/tweet_marker.html#comments</comments>
 		<pubDate>Fri, 03 Jun 2011 13:53:04 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -157,11 +141,9 @@
 <p>Send me an email or find me in person next week if you have any feedback.</p>
 <p><em>Update:</em> This post has been updated to reflect the service name change from Tweetmarks to Tweet Marker.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2011/06/tweet_marker.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.388 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 14:56:31 -->
+<!-- Dynamic page generated in 0.277 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 15:24:15 -->

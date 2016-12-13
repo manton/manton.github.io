@@ -8,19 +8,18 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; api</title>
+	<title>api &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/api/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
 		<title>I will return to Twitter when&#8230;</title>
 		<link>http://www.manton.org/2015/08/i-will-return-to-twitter-when.html</link>
-		<comments>http://www.manton.org/2015/08/i-will-return-to-twitter-when.html#comments</comments>
 		<pubDate>Fri, 14 Aug 2015 19:24:38 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Weblogs]]></category>
@@ -40,13 +39,10 @@
 <p>There is one thing, though. There is one change that was made while rolling out the version 1.1 Twitter API: they removed support for unauthenticated RSS feeds of user tweets or timelines. If they reversed that one decision, the next day I would be back on Twitter.</p>
 <p>I can pick out a single feature like this, among every other improvement that third-party developers would love to see, because the combination of removing RSS and at the same time locking down the API — those changes together best represent the move away from the open web. Any other incremental improvement short of unauthenticated RSS, no matter how welcome, isn&#8217;t enough.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/08/i-will-return-to-twitter-when.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Ev on Twitter third-party devs</title>
 		<link>http://www.manton.org/2015/07/ev-on-twitter-third-party-devs.html</link>
-		<comments>http://www.manton.org/2015/07/ev-on-twitter-third-party-devs.html#comments</comments>
 		<pubDate>Fri, 17 Jul 2015 15:25:39 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -63,13 +59,10 @@
 </p></blockquote>
 <p>Just acknowledging this publicly is progress. It’s now been almost 3 years since my last tweet. I don’t expect to return to Twitter, but I’m still very interested in whether there&#8217;ll be a noticeable change in direction from the new CEO.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/07/ev-on-twitter-third-party-devs.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>The risk of a small platform</title>
 		<link>http://www.manton.org/2014/05/the_risk_of.html</link>
-		<comments>http://www.manton.org/2014/05/the_risk_of.html#comments</comments>
 		<pubDate>Wed, 07 May 2014 22:24:51 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -98,13 +91,10 @@
 <p>I assume that App.net chose not to do this so they wouldn’t compete with developers. After all, the service was founded on the idea that developers should be respected and given every opportunity to succeed. Finding the right balance to showcase the platform with first-party apps without stepping on developers is not always easy. We can argue about which missteps were the most costly, but the founders never wavered on their original principles and they promoted every app that launched on the platform. That means something.</p>
 <p>As for outrage not lasting long on the internet, Marco’s totally right. I just <a href="http://www.manton.org/2014/05/would_i_go_back.html">don’t forget that easily</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/05/the_risk_of.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Tweet Marker now paid-only</title>
 		<link>http://www.manton.org/2013/11/tweet_marker_now.html</link>
-		<comments>http://www.manton.org/2013/11/tweet_marker_now.html#comments</comments>
 		<pubDate>Fri, 29 Nov 2013 16:09:40 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -123,13 +113,10 @@
 <p>You can learn more at <a href="https://api.tweetmarker.net/developers/">tweetmarker.net/developers/</a>.</p>
 <p><strong>Update:</strong> To be clear, this post is only for developers. There&#8217;s a <a href="https://api.tweetmarker.net/subscribe">$1/month subscription</a> for end users but it is optional.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/11/tweet_marker_now.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Twitter API v1.1</title>
 		<link>http://www.manton.org/2013/03/twitter_api_v11.html</link>
-		<comments>http://www.manton.org/2013/03/twitter_api_v11.html#comments</comments>
 		<pubDate>Wed, 20 Mar 2013 18:19:14 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -145,13 +132,10 @@
 <p>I don’t like having my release schedule dictated by others, but that’s life as a Twitter developer. And why I no longer post there.</p>
 <p>This matters today because Twitter is running an API <a href="https://dev.twitter.com/blog/api-v1-retirement-update">blackout test</a>. Tweet Library will not be able to load new tweets this afternoon for about an hour (3pm PST) while v1 is unavailable. I’ll post again here and from <a href="https://alpha.app.net/riverfold">@riverfold on App.net</a> when the new version of Tweet Library is shipped off to Apple and live in the App Store.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/03/twitter_api_v11.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Twitter lock-in</title>
 		<link>http://www.manton.org/2012/08/twitter_lockin.html</link>
-		<comments>http://www.manton.org/2012/08/twitter_lockin.html#comments</comments>
 		<pubDate>Tue, 21 Aug 2012 17:47:28 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -178,13 +162,10 @@
 </ul>
 <p>These are anti-competitive and unworkable. So I’ve decided to spin off Tweet Marker Plus, my paid web-based app that builds on top of the Tweet Marker sync engine. I’ll relaunch it with a new name, slowly introducing new features that aren’t tied exclusively to Twitter. For a hint of where it’s going, you can <a href="https://alpha.app.net/manton">follow me on App.net</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2012/08/twitter_lockin.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Tweet Marker Plus and API v2</title>
 		<link>http://www.manton.org/2012/04/tweet_marker_plus.html</link>
-		<comments>http://www.manton.org/2012/04/tweet_marker_plus.html#comments</comments>
 		<pubDate>Mon, 02 Apr 2012 18:48:23 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -215,13 +196,10 @@
 <p>Tweet Marker Plus is $2/month. You can sign up today at &#8220;tweetmarker.net/plus&#8221;:http://tweetmarker.net/plus. Also check out &#8220;the screencast&#8221;:http://www.riverfold.com/software/tweetmarker/.</p>
 <p>The API documentation has moved to Github and is &#8220;also available now&#8221;:https://github.com/manton/tweetmarker/.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2012/04/tweet_marker_plus.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Twitter app chance</title>
 		<link>http://www.manton.org/2011/07/twitter_app_chance.html</link>
-		<comments>http://www.manton.org/2011/07/twitter_app_chance.html#comments</comments>
 		<pubDate>Thu, 14 Jul 2011 16:45:46 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -242,13 +220,10 @@
 <p>I think that&#8217;s doubly true today. More annoyed, but also more determined to plug holes in the platform, from archiving to syncing. I couldn&#8217;t be more excited about the developers who are building in &#8220;Tweet Marker&#8221;:http://tweetmarker.net/ support.</p>
 <p>And there&#8217;s always a chance, a feeling that something big is just around the corner. That if I don&#8217;t add that one feature, or open up that new API, I&#8217;ll miss the tipping point that makes Tweet Library really take off.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2011/07/twitter_app_chance.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>FAQ for Tweet Marker</title>
 		<link>http://www.manton.org/2011/06/faq_for_tweet.html</link>
-		<comments>http://www.manton.org/2011/06/faq_for_tweet.html#comments</comments>
 		<pubDate>Mon, 13 Jun 2011 19:59:56 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -275,13 +250,10 @@
 <p>I&#8217;m working on an example project for Mac and iOS. In the meantime, remember that it uses OAuth Echo, which is what most Twitter apps should already be using to post to Twitpic and Yfrog. Just change the URL to use the Tweet Marker server and include the tweet status ID in the POST body. To retrieve the value, it&#8217;s just a GET request without authentication. &#8220;See the docs&#8221;:http://tweetmarker.net/ for more.</p>
 <p><em>Update:</em> I reworded the part above about whether the service will be free, since I don&#8217;t control how third-party clients will make this feature available to their users. I also updated it to reflect the service name change from Tweetmarks to Tweet Marker.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2011/06/faq_for_tweet.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Twitter&#8217;s platform at 5 years</title>
 		<link>http://www.manton.org/2011/03/twitters_platform_at.html</link>
-		<comments>http://www.manton.org/2011/03/twitters_platform_at.html#comments</comments>
 		<pubDate>Sat, 19 Mar 2011 13:23:30 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -303,11 +275,9 @@
 <p>Many people during SXSW asked me what this means for Tweet Library. Is Tweet Library a mainstream Twitter client? It has all the basic features of a normal client, but no, not really. It&#8217;s meant to be something more, something unique that solves problems no one else is working on, least of all Twitter.</p>
 <p>I&#8217;m a little discouraged, but not enough to stop. I owe it to my customers to finish what I started: to fix bugs, add new features, polish the rough edges, and make Tweet Library the best app on the Twitter platform.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2011/03/twitters_platform_at.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.355 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 15:03:13 -->
+<!-- Dynamic page generated in 0.299 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 14:43:58 -->

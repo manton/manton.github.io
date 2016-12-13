@@ -8,19 +8,18 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; marketing</title>
+	<title>marketing &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/marketing/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
 		<title>Getting press</title>
 		<link>http://www.manton.org/2016/03/getting-press.html</link>
-		<comments>http://www.manton.org/2016/03/getting-press.html#comments</comments>
 		<pubDate>Fri, 25 Mar 2016 21:32:44 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -37,13 +36,10 @@
 <p>Self-promotion is hard for many of us. I try to remind myself that journalists <em>want something interesting to write about</em>. The community as a whole benefits when writers have good stories and developers have good traffic to their apps.</p>
 <p>One of the approaches I’ve been trying with my upcoming microblog platform is to write about related topics for months before the project is officially announced. It’s great because these are things I would want to write about anyway, regardless of having an app to promote, and so the heightened level of interest from beta testers and bloggers is like a bonus. Now I just have to actually ship the product while the timing is right.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/03/getting-press.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Marketing, mission, movement</title>
 		<link>http://www.manton.org/2015/08/marketing-mission-movement.html</link>
-		<comments>http://www.manton.org/2015/08/marketing-mission-movement.html#comments</comments>
 		<pubDate>Fri, 21 Aug 2015 14:10:33 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -60,13 +56,10 @@
 <p>And unlike a one-way press release, a community is inherently two-way. Every mention of the idea is both marketing <em>and</em> feedback. Someone blogs about how they&#8217;re excited for the product, but also how they wish it had a certain missing feature. Someone in the press writes a review, but also with a pros and cons list.</p>
 <p>This cycle means the product gets better. And if we&#8217;re thoughtful in that first approach to marketing copy, then every blog post, review, and tweet that follows is laced with a little part of our mission statement.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/08/marketing-mission-movement.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Building Slack</title>
 		<link>http://www.manton.org/2014/03/building_slack.html</link>
-		<comments>http://www.manton.org/2014/03/building_slack.html#comments</comments>
 		<pubDate>Mon, 03 Mar 2014 18:05:46 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -82,13 +75,10 @@
 </p></blockquote>
 <p>It’s long but there’s a lot of good stuff in it on marketing and building a product people need.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/03/building_slack.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Inside product hype</title>
 		<link>http://www.manton.org/2013/04/inside_product_hype.html</link>
-		<comments>http://www.manton.org/2013/04/inside_product_hype.html#comments</comments>
 		<pubDate>Wed, 24 Apr 2013 16:01:30 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -106,13 +96,10 @@
 </p></blockquote>
 <p>Sure, it’s over the top. This style wouldn’t work if I said it. But the certainty — that the product’s success is guaranteed, and now we’re just haggling over how big a success it will be — does make me want to know more about what they’re building.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/04/inside_product_hype.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Making time for marketing</title>
 		<link>http://www.manton.org/2012/11/making_time_for.html</link>
-		<comments>http://www.manton.org/2012/11/making_time_for.html#comments</comments>
 		<pubDate>Fri, 09 Nov 2012 17:27:09 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -131,13 +118,10 @@
 </p></blockquote>
 <p>In the last week I’ve taken a couple steps in the right direction. I’ve finally redesigned the <a href="http://watermark.io/">Watermark home page</a> around a simpler marketing statement of what the app is about. And as discussed on <a href="http://coreint.org/64">the recent Core Intuition</a>, I switched from PayPal to Stripe in an effort to make payment smoother and subscriptions easier to track. There’s still a lot to do, but I hope to make even more time for marketing before the year is up.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2012/11/making_time_for.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Carousel</title>
 		<link>http://www.manton.org/2011/06/carousel.html</link>
-		<comments>http://www.manton.org/2011/06/carousel.html#comments</comments>
 		<pubDate>Wed, 15 Jun 2011 20:37:44 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -158,11 +142,9 @@
 <blockquote><p>&#8220;People want to be part of ideas. Being part of a company who builds a successful product is cool&#8230; but being part of an idea is a lot more attractive. If you can build a business where both your employees and your customers think they&#8217;re part of an idea, you&#8217;ve created something special.&#8221;</p></blockquote>
 <p>If you can extract the core idea from a great product, everything that comes next can be matched to the idea, so the product has a clear path for new features. Building a story around it &mdash; something that sticks, and having the resources to tell that story properly &mdash; takes a lot of work. I&#8217;m inspired when I see others do it well, and it&#8217;s an art I hope to make time for.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2011/06/carousel.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.325 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 15:00:11 -->
+<!-- Dynamic page generated in 0.255 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 14:41:09 -->

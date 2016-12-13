@@ -8,19 +8,42 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; daringfireball</title>
+	<title>daringfireball &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/daringfireball/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
+		<title>Lightning headphones in the box</title>
+		<link>http://www.manton.org/2016/08/lightning-headphones-in-the-box.html</link>
+		<pubDate>Mon, 01 Aug 2016 15:08:28 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[daringfireball]]></category>
+		<category><![CDATA[headphones]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[lightning]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4154</guid>
+		<description><![CDATA[John Gruber has an article outlining the 5 (or 6) most likely options for what headphones Apple should include with the new Lightning-only iPhone. His hope is on wireless: My hope is that they ship wireless ear buds. When Apple eliminates ports, they tend to do so in favor of wireless technology. Pushing wireless as [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://daringfireball.net/2016/07/jack_off">John Gruber has an article</a> outlining the 5 (<a href="http://daringfireball.net/linked/2016/07/30/option-6">or 6</a>) most likely options for what headphones Apple should include with the new Lightning-only iPhone. His hope is on wireless:</p>
+<blockquote><p>
+  My hope is that they ship wireless ear buds. When Apple eliminates ports, they tend to do so in favor of wireless technology. Pushing wireless as the default would solve the problem of listening to audio while charging the device, too.
+</p></blockquote>
+<p>Maybe. I’m not in any hurry to see a Bluetooth-dominated headphone world, and I&#8217;m not sure Apple Support is either. Wired headphones work every single time you plug them in.</p>
+<p>As Gruber points out, wireless headphones are also an upsell opportunity. While cheap Bluetooth headphones can be found, Apple&#8217;s Beats are $100 more expensive for wireless. Seems like this extra cost would unnecessarily eat into their margins.</p>
+<p>Of course, I have no idea what Apple will do. I just know what I think they <em>should</em> do.</p>
+<p>Apple should include Lightning ear buds in the box, and an adapter for older headphones. I don’t expect they will do this forever — the first year would be enough. But this small gesture of including an adapter would mostly erase the negative reviews and user frustration for Apple’s biggest repeat customers: not me, because I intend to keep my iPhone SE for a while, but for everyone who buys a new iPhone each year.</p>
+<p>Removing the 3.5mm headphone jack will be the first time Apple has removed a major feature on the iPhone. They can spin Lightning as an improvement all they want; customers with existing headphones will be annoyed. Including an adapter would minimize the inconvenience at launch, without locking Apple in to any long-term technical compromise.</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>iPhone SE (no 5)</title>
 		<link>http://www.manton.org/2016/02/iphone-se-no-5.html</link>
-		<comments>http://www.manton.org/2016/02/iphone-se-no-5.html#comments</comments>
 		<pubDate>Fri, 26 Feb 2016 19:57:20 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -39,13 +62,10 @@
 <p>I agree with John. Other than the screen size, this phone will feel a lot like an iPhone 6S. And because I love the smaller size, I personally think it will have the <em>best</em> of both the 5S and 6S.</p>
 <p>Prediction: this phone is going to be much more popular than people expect. I won’t be surprised if it takes the 6S Plus’s spot as the 2nd most popular iPhone.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/02/iphone-se-no-5.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>iPad Mini</title>
 		<link>http://www.manton.org/2012/11/ipad_mini.html</link>
-		<comments>http://www.manton.org/2012/11/ipad_mini.html#comments</comments>
 		<pubDate>Fri, 09 Nov 2012 16:43:37 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -62,13 +82,10 @@
 </p></blockquote>
 <p>As I said on <a href="http://coreint.org/64">the last Core Intuition</a>, it’s even more of an easy switch for me since I never upgraded to the iPad 3. The iPad Mini has essentially been my only iPad for the last week. I’m using it more, and taking it places that I would’ve have bothered with before. My new favorite Apple device.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2012/11/ipad_mini.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>10 years of Daring Fireball</title>
 		<link>http://www.manton.org/2012/08/10_years_of.html</link>
-		<comments>http://www.manton.org/2012/08/10_years_of.html#comments</comments>
 		<pubDate>Mon, 13 Aug 2012 22:28:09 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Weblogs]]></category>
@@ -123,13 +140,10 @@
 </p></blockquote>
 <p>Congrats John. Here’s to the next 10 years.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2012/08/10_years_of.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Brent on baked blogs</title>
 		<link>http://www.manton.org/2011/03/brent_on_baked.html</link>
-		<comments>http://www.manton.org/2011/03/brent_on_baked.html#comments</comments>
 		<pubDate>Mon, 21 Mar 2011 14:51:04 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Weblogs]]></category>
@@ -145,11 +159,9 @@
 <p>I couldn&#8217;t agree more with Brent&#8217;s advice, and in fact I ran this blog on Radio Userland for its first couple of years. In addition to performance, static files are portable. I can pick up this site and move it anywhere. The old web is fragile, and as web sites age, being able to permanently host them somewhere cheap and stable is going to become a big deal.</p>
 <p>I hope a modern equivalent to Movable Type emerges eventually. For now, I&#8217;m thankful that the only time I have to worry about a web site outage is when a Dreamhost sysadmin trips over a power cord.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2011/03/brent_on_baked.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.295 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 14:56:50 -->
+<!-- Dynamic page generated in 0.254 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 14:53:40 -->

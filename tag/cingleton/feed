@@ -8,19 +8,18 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; cingleton</title>
+	<title>cingleton &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/cingleton/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
 		<title>Core Intuition 159</title>
 		<link>http://www.manton.org/2014/10/core-intuition-159.html</link>
-		<comments>http://www.manton.org/2014/10/core-intuition-159.html#comments</comments>
 		<pubDate>Thu, 16 Oct 2014 15:50:59 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Podcasts]]></category>
@@ -33,13 +32,10 @@
 		<description><![CDATA[Daniel and I just published Core Intuition 159. It&#8217;s an episode of endings: the last Çingleton, no more Macworld Expo, and shutting down Glassboard. Along the way we discuss indie development, making a decision in public, and the reward and challenge of taking on something truly big.]]></description>
 				<content:encoded><![CDATA[<p>Daniel and I just published <a href="http://coreint.org/159">Core Intuition 159</a>. It&#8217;s an episode of endings: the last Çingleton, no more Macworld Expo, and shutting down Glassboard. Along the way we discuss indie development, making a decision in public, and the reward and challenge of taking on something truly big.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/10/core-intuition-159.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>iPhone 6 Plus and iPod</title>
 		<link>http://www.manton.org/2014/10/iphone-6-plus-and-ipod.html</link>
-		<comments>http://www.manton.org/2014/10/iphone-6-plus-and-ipod.html#comments</comments>
 		<pubDate>Mon, 13 Oct 2014 20:26:06 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -56,13 +52,10 @@
 </p></blockquote>
 <p>I&#8217;ve talked about skipping this phone generation on <a href="http://coreint.org/">the podcast</a> a few times. I already got out of the yearly updates when I kept the 4S forever and then got the 5C instead of the 5S. After seeing the 6 Plus in person at the Apple Store and with everyone who had one at Çingleton, I&#8217;m pretty comfortable with my decision. But I&#8217;d strongly consider replacing my iPad Mini with a 5.5-inch iPod Touch.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/10/iphone-6-plus-and-ipod.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Why we built Sunlit</title>
 		<link>http://www.manton.org/2014/01/why_we_built.html</link>
-		<comments>http://www.manton.org/2014/01/why_we_built.html#comments</comments>
 		<pubDate>Wed, 15 Jan 2014 23:24:49 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -82,13 +75,10 @@
 <p>Sharing a single photo has been done a hundred times on iOS. Instagram was an important app to nail the timeline UI, and <a href="http://favd.net/">Favd</a> is currently my favorite way to post and browse new photos (it’s really great). But hardly anyone has even attempted to tackle photo curation, group sharing, and publishing, let alone gotten it right. Sunlit 1.0 is our first pass at this and we couldn’t be more excited about trying to solve a new problem with photos.</p>
 <p>They say you should spend money on experiences — on memories, not things. Sunlit helps you put those memories together, share them as a group, and rediscover them when it matters. The first version <a href="http://sunlit.io/">will ship tomorrow</a>. I hope you like it.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/01/why_we_built.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Your name</title>
 		<link>http://www.manton.org/2013/12/your_name.html</link>
-		<comments>http://www.manton.org/2013/12/your_name.html#comments</comments>
 		<pubDate>Sun, 15 Dec 2013 19:56:16 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Events]]></category>
@@ -108,13 +98,10 @@
 <p><img src="http://www.manton.org/images/2013/cingleton_christina_warren.jpg" width="600" height="123" alt="Christina Warren at Cingleton 3" align="center" /></p>
 <p>Daniel Jalkut and I talked more about the general themes of Çingleton a couple months ago, on <a href="http://www.coreint.org/2013/10/episode-110-always-go-for-the-cheap-one/">Core Intuition episode 110</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/12/your_name.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Tweet Library price cut</title>
 		<link>http://www.manton.org/2012/10/tweet_library_price.html</link>
-		<comments>http://www.manton.org/2012/10/tweet_library_price.html#comments</comments>
 		<pubDate>Thu, 18 Oct 2012 19:14:58 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -134,11 +121,9 @@
 </p></blockquote>
 <p>Pricing is something I am still very fascinated by, especially this constant pull between how we value our own software and how pragmatic we want to be as a business. I’m going to let Tweet Library sit at $4.99 for a month, and if revenue is not obviously greater than what it would have been, I’ll bump it back to $10 or a middle-ground $7.99.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2012/10/tweet_library_price.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.326 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 15:03:31 -->
+<!-- Dynamic page generated in 0.273 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 14:42:58 -->

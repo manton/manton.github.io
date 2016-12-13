@@ -8,19 +8,89 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; echo</title>
+	<title>echo &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/echo/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
+		<title>Core Intuition 248</title>
+		<link>http://www.manton.org/2016/09/core-intuition-248.html</link>
+		<pubDate>Thu, 01 Sep 2016 16:57:17 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[echo]]></category>
+		<category><![CDATA[europe]]></category>
+		<category><![CDATA[siri]]></category>
+		<category><![CDATA[taxes]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4252</guid>
+		<description><![CDATA[This week on Core Intuition, Daniel and I talked about recent Apple news: Daniel and Manton react to the European Union’s €13B retroactive tax demand to Apple, talk about the impact of tax laws on indies and small companies, and weigh in on Apple’s purported AI and machine learning triumphs. Finally they catch up on [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://coreint.org/248">This week on Core Intuition</a>, Daniel and I talked about recent Apple news:</p>
+<blockquote><p>
+  Daniel and Manton react to the European Union’s €13B retroactive tax demand to Apple, talk about the impact of tax laws on indies and small companies, and weigh in on Apple’s purported AI and machine learning triumphs. Finally they catch up on their ambitions to be more productive as the busy summer transitions to fall.
+</p></blockquote>
+<p>I wondered whether Apple is so obsessed with privacy that they are blinded to what is possible with more computation and extensibility in the cloud. I judge their efforts not only by the remarkable work the Siri team has done, and by what Google and Amazon are building, but also by Apple&#8217;s own gold standard: the <a href="https://www.youtube.com/watch?v=QRH8eimU_20">Knowledge Navigator video</a> from 1987. That vision is too ambitious for one company to develop all the pieces for. We eventually need <a href="http://www.manton.org/2016/05/wanting-an-open-voice-assistant-platform.html">a more open Siri platform</a> to get us there.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Wanting an open voice assistant platform</title>
+		<link>http://www.manton.org/2016/05/wanting-an-open-voice-assistant-platform.html</link>
+		<pubDate>Thu, 19 May 2016 14:23:09 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[echo]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[openweb]]></category>
+		<category><![CDATA[siri]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3932</guid>
+		<description><![CDATA[I’ve owned an Amazon Echo since it first shipped and it’s great. I also use Siri and like it, though I use it less often for the kind of random questions I might ask Alexa. But after watching yesterday’s Google I/O keynote, I can’t help but feel that eventually Google is going to be far [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I’ve owned an Amazon Echo <a href="http://www.manton.org/2015/06/amazon-echo.html">since it first shipped</a> and it’s great. I also use Siri and like it, though I use it less often for the kind of random questions I might ask Alexa. But after watching yesterday’s Google I/O keynote, I can’t help but feel that eventually Google is going to be far ahead of Amazon and Apple in this space.</p>
+<p><a href="http://daringfireball.net/linked/2016/05/18/google-io-2016">Here’s John Gruber</a> writing at Daring Fireball about the keynote:</p>
+<blockquote><p>
+  Google is clearly the best at this voice-driven assistant stuff. Pichai claimed that in their own competitive analysis, Google Assistant is “an order of magnitude” ahead of competing assistants (read: Siri and Alexa). That sounds about right.
+</p></blockquote>
+<p>The problem with a voice assistant is that the better it gets, the more you want it to do. You continue to ask it more complicated questions, pushing at the limits of the assistant’s capabilities.</p>
+<p>Only Google has the expertise in web services and the massive amount of data to keep going beyond basic questions. I expect both Siri and Alexa will hit brick walls that Google will get past, especially in conversational queries that let the user drill down below the most popular, superficial facts.</p>
+<p>That is, unless Apple can open up Siri. Not just plugging in new trigger keywords like Alexa’s “skills” API (which would be a good start), but maybe a complete way to extend Siri with third-party code that feels seamless to the user. Surfacing voice-enabled apps automatically through natural queries might be on the same scale of app discoverability as we saw when the App Store launched.</p>
+<p>As Ben Thompson lays out well <a href="https://stratechery.com/2016/googles-go-to-market-gap/">in today’s essay</a>, Google faces a different internet than the open web on which they built their search engine. The default for all these new platforms — from Facebook to Siri to the App Store — is to be closed. There’s a narrow window, right now, for someone to take the lead on creating an open voice assistant standard built on the open web.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Siri and Core Intuition 228</title>
+		<link>http://www.manton.org/2016/04/siri-and-core-intuition-228.html</link>
+		<pubDate>Fri, 15 Apr 2016 18:48:28 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[echo]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[siri]]></category>
+		<category><![CDATA[tech]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2016/04/siri-and-core-intuition-228.html</guid>
+		<description><![CDATA[We posted episode 228 of Core Intuition this week. From the show notes: Daniel and Manton discuss the iPhone SE’s evident popularity, touch on the challenges of designing for extremes in screen size, and bemoan some of Siri’s shortcomings when compared to competitors. The two also discuss tax time as an indie software developer, weigh [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We posted <a href="http://www.coreint.org/2016/04/episode-228-ticket-to-california/">episode 228 of Core Intuition</a> this week. From the show notes:</p>
+<blockquote><p>
+  Daniel and Manton discuss the iPhone SE’s evident popularity, touch on the challenges of designing for extremes in screen size, and bemoan some of Siri’s shortcomings when compared to competitors. The two also discuss tax time as an indie software developer, weigh the merits of heading to SF for WWDC, and finally delve into some deep reflections about the psychology of not shipping in too long.
+</p></blockquote>
+<p>We talked a lot about Siri and the Amazon Echo — the problems with both and where voice software may be headed. After we recorded, <a href="http://bitsplitting.org/2016/04/14/distance-based-reminders/">Daniel wrote a great post</a> with additional ideas for using Siri with distance-based reminders, for example the ability to ask Siri while driving &#8220;remind me in 15 miles to get gas&#8221;:</p>
+<blockquote><p>
+  How would this be solved? By introducing a notion of distance-relative reminders in iOS and by extension in Siri. In the same way that Siri allows you set a reminder for a <em>specific time</em> or for a <em>relative time from now</em>, it should offer the same functionality for distance.
+</p></blockquote>
+<p>I hope you enjoy the podcast. I&#8217;ve been thinking lately that maybe the secret with Core Intuition is that it’s not actually a developer podcast. It’s a tech podcast with <em>major</em> tangents into software development and business.</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>Patience and impatience in the tech industry</title>
 		<link>http://www.manton.org/2016/04/patience-and-impatience-in-the-tech-industry.html</link>
-		<comments>http://www.manton.org/2016/04/patience-and-impatience-in-the-tech-industry.html#comments</comments>
 		<pubDate>Mon, 11 Apr 2016 17:01:31 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -47,13 +117,10 @@
 <p>When I pre-ordered the Amazon Echo <a href="http://www.manton.org/2015/06/amazon-echo.html">on a whim a year ago</a>, I&#8217;m not sure that Amazon really had any idea what they were doing, whether it would flop or succeed, or if anyone would understand it. A year later, they own the market for this kind of device and it&#8217;s spread by word of mouth because the product is <em>good</em>. If Apple ever makes an Echo competitor it will be years from now and only because someone else proved the idea first.</p>
 <p>Patience is good, and I&#8217;m glad that Apple has a great balance between innovating on brand new products and perfecting existing concepts. But I&#8217;m also glad that not every company is as patient as Apple. I think the industry makes better progress when some companies aren&#8217;t afraid to ship something half-baked too early.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/04/patience-and-impatience-in-the-tech-industry.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Amazon Echo</title>
 		<link>http://www.manton.org/2015/06/amazon-echo.html</link>
-		<comments>http://www.manton.org/2015/06/amazon-echo.html#comments</comments>
 		<pubDate>Wed, 17 Jun 2015 00:07:07 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -74,11 +141,9 @@
 <p>Because it&#8217;s so effortless to play music now, I&#8217;ve uploaded some tracks from iTunes to the Amazon cloud via their music uploader. (Remember when we wanted DRM-free music? This is a concrete reason why.) And since we have an Amazon Prime membership, I&#8217;ve discovered that we have a significant amount of good music in the cloud already.</p>
 <p>I&#8217;m looking forward to Apple Music and will probably subscribe, but I&#8217;ve realized after having the Echo for a while that Amazon is quietly sitting on something pretty special. They should do more with music — I didn’t realize until now that they even had a dedicated iOS music app — and more to build and promote their service. Music is in their &#8220;DNA&#8221; just as much as it&#8217;s in Apple&#8217;s. After all, Amazon&#8217;s 2nd offering after books was music CDs.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/06/amazon-echo.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.293 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 13:55:46 -->
+<!-- Dynamic page generated in 0.260 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 14:53:50 -->

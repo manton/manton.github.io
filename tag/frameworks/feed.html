@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>frameworks &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/frameworks/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:15:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Rewriting in Rails 5</title>
+		<link>http://www.manton.org/2016/09/rewriting-in-rails-5.html</link>
+		<pubDate>Sat, 10 Sep 2016 14:52:28 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[dhh]]></category>
+		<category><![CDATA[ember]]></category>
+		<category><![CDATA[frameworks]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[rails]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4281</guid>
+		<description><![CDATA[I&#8217;ve been doing Ruby on Rails work again. Although my indie web projects are all Sinatra, I generally recommend to clients that Rails is the way to go. Rails will be easier for them if someone else ever needs to take over the project. I don&#8217;t like using 2 products that do the same thing, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;ve been doing Ruby on Rails work again. Although my indie web projects are all Sinatra, I generally recommend to clients that Rails is the way to go. Rails will be easier for them if someone else ever needs to take over the project.</p>
+<p>I don&#8217;t like using 2 products that do the same thing, though. That&#8217;s why I consolidated my web app hosting to Linode, and my source code to GitHub. Why should I switch between 2 frameworks, especially since Rails has matured so well? I&#8217;m enjoying Rails 5.</p>
+<p>David Heinemeier Hansson said <a href="https://interviews.slashdot.org/story/16/08/30/1759216/the-slashdot-interview-with-ruby-on-rails-creator-david-heinemeier-hansson">in an interview on Slashdot</a>, about the rise of JavaScript front-end frameworks:</p>
+<blockquote><p>
+  But it seems like that&#8217;s one of the lessons people have to learn by themselves. Just try to string things together on your own a few times and you&#8217;ll quickly get an appreciation for what Rails provides as a backend framework. We&#8217;ve had tons of programmers try just that and come back for refuge.
+</p></blockquote>
+<p>It struck home because I&#8217;ve had some regrets with choosing Ember.js for my new app. Part of that is my own lack of experience with the framework. But also I&#8217;m no longer convinced that the heavily JavaScript-based view layout of something like Ember.js is better than <a href="https://github.com/turbolinks/turbolinks">Turbolinks</a>, for example. I plan to rewrite my app in Rails and more classic Ajax at the earliest opportunity.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Using Ember.js</title>
+		<link>http://www.manton.org/2014/09/using-ember-js.html</link>
+		<pubDate>Fri, 05 Sep 2014 22:43:15 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[ember]]></category>
+		<category><![CDATA[frameworks]]></category>
+		<category><![CDATA[javascript]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2235.html</guid>
+		<description><![CDATA[Brent Simmons isn&#8217;t totally convinced about the new crop of JavaScript frameworks: &#8220;Part of me thinks those frameworks are overkill (even jQuery), and that writing regular-old JavaScript to do what you want is not that onerous a thing, and will make for leaner, better code.&#8221; This was how I felt when I built Watermark. It [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://inessential.com/2014/09/05/dave_on_javascript_apps">Brent Simmons isn&#8217;t totally convinced</a> about the new crop of JavaScript frameworks:</p>
+<blockquote><p>
+  &#8220;Part of me thinks those frameworks are overkill (even jQuery), and that writing regular-old JavaScript to do what you want is not that onerous a thing, and will make for leaner, better code.&#8221;
+</p></blockquote>
+<p>This was how I felt when I built <a href="http://watermark.io/">Watermark</a>. It uses jQuery and Bootstrap, but otherwise it&#8217;s pretty old-fashioned JavaScript. Even the parts that are Ajax just fetch and insert HTML that has been rendered by the server. There&#8217;s not much to do in the client.</p>
+<p>For my latest project I&#8217;m using <a href="http://emberjs.com/">Ember.js</a>. I want this app to be <em>very</em> fast, and I think putting more work on the web browser is the way to do it. I only know the basics of the framework so far, but already I like it. It feels lightweight to use, even if the actual JavaScript include is fairly large.</p>
+<p>And 100k is really not that big of a deal anymore. You don&#8217;t want bloat for no reason. But look at a popular site like twitter.com and you&#8217;ll see several JavaScript files between 200k and 500k each. They get cached and no one complains about performance.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>RubyCocoa</title>
+		<link>http://www.manton.org/2006/07/rubycocoa.html</link>
+		<pubDate>Mon, 17 Jul 2006 03:08:55 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[cocoa]]></category>
+		<category><![CDATA[frameworks]]></category>
+		<category><![CDATA[mac]]></category>
+		<category><![CDATA[objective-c]]></category>
+		<category><![CDATA[ruby]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2006/07/rubycocoa.html</guid>
+		<description><![CDATA[I write Mac software, but over the last year I&#8217;ve increasingly been building Ruby on Rails web apps as well. Today I finally took a look at &#8220;RubyCocoa&#8221;:http://www.rubycocoa.com/. I wanted to whip up a quick Cocoa app that would involve some text parsing, and a dynamic scripting language like Ruby is a much better fit [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I write Mac software, but over the last year I&#8217;ve increasingly been building Ruby on Rails web apps as well. Today I finally took a look at &#8220;RubyCocoa&#8221;:http://www.rubycocoa.com/. I wanted to whip up a quick Cocoa app that would involve some text parsing, and a dynamic scripting language like Ruby is a much better fit for text processing than C, C++, or Objective-C.</p>
+<p>It turns out RubyCocoa works amazingly well. I have only scratched the surface with a small test app, but I was blown away by its ease-of-use, Xcode integration, example projects, and apparent maturity. You have full access to AppKit from Ruby-based controllers and views, and a single NIB file can even reference both Objective-C and Ruby classes. Fantastic stuff.</p>
+<p>I don&#8217;t know if it&#8217;s ready for commercial software use yet. For distribution, I tested including the RubyCocoa.framework inside the application package and the app launches and runs correctly on a system without the full RubyCocoa install. There may be issues with requiring a recent version of Ruby, but otherwise it&#8217;s a fully native app.</p>
+<p>My only disappointment was in the Objective-C calling conventions. There are two versions to choose from: a style using underscores to separate named values, and a slightly easier Ruby syntax using symbols and extra parameters. Here they are:</p>
+<p><em>Objective-C:</em></p>
+<p><code>[my_window setFrame:r display:YES animate:YES]</code></p>
+<p><em>Ruby Underscores:</em></p>
+<p><code>my_window.setFrame_display_animate(r, true, true)</code></p>
+<p><em>Ruby Symbols:</em></p>
+<p><code>my_window.setFrame(r, :display, true, :animate, true)</code></p>
+<p>In my opinion, a better approach would be to take advantage of Ruby&#8217;s trick of allowing the last parameter to be a hash supplied without the curly braces. This feels more readable to me and more closely matches the Objective-C equivalent.</p>
+<p><em>Better:</em></p>
+<p><code>my_window.setFrame(r, :display => true, :animate => true)</code></p>
+<p>In any case, that&#8217;s a minor complaint and doesn&#8217;t take much away from the beauty of writing native Mac apps in Ruby.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.277 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 16:15:43 -->

@@ -8,19 +8,42 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; plans</title>
+	<title>plans &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/plans/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
+		<title>Proving Marco&#8217;s 10-year plan</title>
+		<link>http://www.manton.org/2016/08/proving-marcos-10-year-plan.html</link>
+		<pubDate>Wed, 03 Aug 2016 16:21:47 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[indie]]></category>
+		<category><![CDATA[marco]]></category>
+		<category><![CDATA[plans]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4162</guid>
+		<description><![CDATA[Erik Person wants to prove Marco Arment’s claim that indie success just requires working hard for 10 years: Proving whether he is right or wrong is pretty hard to do. Maybe it’s all hard work. Maybe it’s pure luck. Hell, maybe it only takes five years of hard work, and Marco just kind of sucks [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://thaterikperson.com/10-year-challenge">Erik Person wants to prove</a> Marco Arment’s claim that indie success just requires <a href="https://twitter.com/marcoarment/status/654375561696047104">working hard for 10 years</a>:</p>
+<blockquote><p>
+  Proving whether he is right or wrong is pretty hard to do. Maybe it’s all hard work. Maybe it’s pure luck. Hell, maybe it only takes five years of hard work, and Marco just kind of sucks at it. Either way, I’m going to try to prove it. And not by convincing you with some incredibly efficacious essay. Rather, I’m going to start my 10 years of hard work today.
+</p></blockquote>
+<p>In a follow-up post, <a href="https://thaterikperson.com/ten-year-update">6 months later</a>:</p>
+<blockquote><p>
+  In the past six months, I’ve managed to change quite a few things. The biggest change was leaving my job at the end of May. After several months of trying to work on projects in the evenings and weekends, I decided it was necessary to go full-time on the projects if I wanted to see any real progress.
+</p></blockquote>
+<p>I’ve subscribed to Erik’s blog and look forward to following his progress. I hope he blogs more often about how it’s going. If you look at <a href="https://marco.org/2011/08/">Marco’s blog even 5 years ago</a>, he was usually blogging every day. (By the way, “blog more often” is my advice to nearly everyone, including myself.)</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>Tweet Marker now paid-only</title>
 		<link>http://www.manton.org/2013/11/tweet_marker_now.html</link>
-		<comments>http://www.manton.org/2013/11/tweet_marker_now.html#comments</comments>
 		<pubDate>Fri, 29 Nov 2013 16:09:40 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -39,13 +62,10 @@
 <p>You can learn more at <a href="https://api.tweetmarker.net/developers/">tweetmarker.net/developers/</a>.</p>
 <p><strong>Update:</strong> To be clear, this post is only for developers. There&#8217;s a <a href="https://api.tweetmarker.net/subscribe">$1/month subscription</a> for end users but it is optional.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/11/tweet_marker_now.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>New tiers for Watermark</title>
 		<link>http://www.manton.org/2013/11/new_tiers_for.html</link>
-		<comments>http://www.manton.org/2013/11/new_tiers_for.html#comments</comments>
 		<pubDate>Thu, 07 Nov 2013 13:32:32 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -63,11 +83,9 @@
 <p>If 1 year isn’t long enough, there’s a new unlimited plan for $10/month. Every tweet or App.net post in the system for your account will be kept forever. After a year or two it becomes a really massive and interesting search database, tailored just to your account.</p>
 <p>The new tiered plans are live now for new accounts, and I’ll be rolling out a method for switching between plans for current customers soon. You can <a href="http://watermark.io/">learn more about Watermark here</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/11/new_tiers_for.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.288 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 15:07:09 -->
+<!-- Dynamic page generated in 0.241 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 14:36:48 -->

@@ -8,19 +8,18 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; sunlit</title>
+	<title>sunlit &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/sunlit/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
 		<title>Two weeks notice: new products</title>
 		<link>http://www.manton.org/2015/07/two-weeks-notice-new-products.html</link>
-		<comments>http://www.manton.org/2015/07/two-weeks-notice-new-products.html#comments</comments>
 		<pubDate>Thu, 23 Jul 2015 02:40:07 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -42,13 +41,10 @@
 <p>The problem with Sunlit for Mac is that I’m requiring 10.11 El Capitan. So no matter how much progress I make on it, I can’t ship it until Apple releases their next version of Mac OS X. I want to chip away at the new features, but I can’t spend all of my time on it yet. I need to focus attention on projects that have a chance of bringing in additional revenue in the very near future, not by the end of the year.</p>
 <p>So the microblogging app — the one I worked on tonight — keeps coming to the front. Since it’s mostly a web app, it has the least number of external API and App Store dependencies that would hold it up. I can ship the core functionality whenever it’s ready. The sooner I get it out the door, the sooner I’ll know if it’s something I can count on as business income.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/07/two-weeks-notice-new-products.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Retiring App.net support for Sunlit</title>
 		<link>http://www.manton.org/2015/07/retiring-app-net-support-for-sunlit.html</link>
-		<comments>http://www.manton.org/2015/07/retiring-app-net-support-for-sunlit.html#comments</comments>
 		<pubDate>Mon, 20 Jul 2015 18:00:34 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -68,13 +64,10 @@
 </p></blockquote>
 <p>This vision didn’t pan out. But I’m proud that we gave it a shot and put a lot of effort into the platform even after others had given up on it. Now that we’ve finished this “reset”, of sorts, we’ll move forward to build other features we always wanted in Sunlit.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/07/retiring-app-net-support-for-sunlit.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Core Intuition 169</title>
 		<link>http://www.manton.org/2015/01/core-intuition-169.html</link>
-		<comments>http://www.manton.org/2015/01/core-intuition-169.html#comments</comments>
 		<pubDate>Fri, 23 Jan 2015 14:00:19 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Podcasts]]></category>
@@ -86,13 +79,10 @@
 		<description><![CDATA[Last night we published episode 169 of Core Intuition. As we&#8217;ve done on a couple recent episodes, we let this one run for an hour with a discussion of App Store revenue, sales charts, and progress on our own projects. Sunlit 1.3, the update I mention in the podcast, is complete now and submitted to [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>Last night we published <a href="http://www.coreint.org/2015/01/episode-169-shame-driven-development/">episode 169 of Core Intuition</a>. As we&#8217;ve done on a couple recent episodes, we let this one run for an hour with a discussion of App Store revenue, sales charts, and progress on our own projects. <a href="http://sunlit.io/">Sunlit</a> 1.3, the update I mention in the podcast, is complete now and submitted to Apple for review.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/01/core-intuition-169.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Preservation State and App Stories</title>
 		<link>http://www.manton.org/2014/05/preservation_state_and.html</link>
-		<comments>http://www.manton.org/2014/05/preservation_state_and.html#comments</comments>
 		<pubDate>Tue, 27 May 2014 19:11:06 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Podcasts]]></category>
@@ -105,13 +95,10 @@
 				<content:encoded><![CDATA[<p>I was the guest on 2 podcasts recently. First, <a href="http://preservationstate.com/027-a-manton-reece-nerd-pocket/">on Preservation State with Philip Mozolak and Christopher Radliff</a>, we talked for an hour about App.net, Beats Music, and more. It was fun to do a longer podcast that’s free to kind of meander through different topics, and I think we covered a lot.</p>
 <p>Next, <a href="http://www.appstorypodcast.com/apps/sunlit">on App Stories</a>, Vic Hudson interviewed me about how Sunlit came to be. We talk about App.net, design choices in Sunlit, and the future for the app. There’s a lot in there that I’ve never talked about before. Hope you enjoy these episodes!</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/05/preservation_state_and.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Sunlit 1.2</title>
 		<link>http://www.manton.org/2014/05/sunlit_12.html</link>
-		<comments>http://www.manton.org/2014/05/sunlit_12.html#comments</comments>
 		<pubDate>Thu, 08 May 2014 19:47:26 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -127,13 +114,10 @@
 <p>Some people may ask why we chose Flickr instead of creating our own user accounts system, or simply having no registration. To support publishing, it helps to have some unique username for a user, and a secure way to authenticate them on the server. It won’t surprise anyone to hear that <em>a lot</em> of people have Yahoo accounts. With a redesigned web and mobile experience, plus 1 TB of free photo storage, Yahoo’s giving Flickr something of a new resurgence. There’s a lot we could build on the Flickr API.</p>
 <p>At the same time, Sunlit’s App.net support is a powerful differentiator and we’ll continue to improve it. It lets you own your data, share it with other apps like Ohai, and sync to multiple users. I still believe in the App.net API and user community; it’s too good a platform to give up on.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/05/sunlit_12.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>The risk of a small platform</title>
 		<link>http://www.manton.org/2014/05/the_risk_of.html</link>
-		<comments>http://www.manton.org/2014/05/the_risk_of.html#comments</comments>
 		<pubDate>Wed, 07 May 2014 22:24:51 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -162,13 +146,10 @@
 <p>I assume that App.net chose not to do this so they wouldn’t compete with developers. After all, the service was founded on the idea that developers should be respected and given every opportunity to succeed. Finding the right balance to showcase the platform with first-party apps without stepping on developers is not always easy. We can argue about which missteps were the most costly, but the founders never wavered on their original principles and they promoted every app that launched on the platform. That means something.</p>
 <p>As for outrage not lasting long on the internet, Marco’s totally right. I just <a href="http://www.manton.org/2014/05/would_i_go_back.html">don’t forget that easily</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/05/the_risk_of.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Prompt for push notifications</title>
 		<link>http://www.manton.org/2014/02/prompt_for_push.html</link>
-		<comments>http://www.manton.org/2014/02/prompt_for_push.html#comments</comments>
 		<pubDate>Fri, 28 Feb 2014 16:40:04 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -184,13 +165,10 @@
 </p></blockquote>
 <p>I agree. For <a href="http://sunlit.io/">Sunlit</a>, we only prompt to enable push notifications after you’ve chosen to enable sharing for a story. While it might be useful to have push notifications for everyone, by waiting until we <em>really</em> need it, most users are never bothered with the alert. And it forced us to focus on specific and valuable uses of notifications, such as sending a push notification when someone subscribes to your shared story.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/02/prompt_for_push.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Podcast appearances and slides</title>
 		<link>http://www.manton.org/2014/02/podcast_appearances_and.html</link>
-		<comments>http://www.manton.org/2014/02/podcast_appearances_and.html#comments</comments>
 		<pubDate>Tue, 25 Feb 2014 18:30:02 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Podcasts]]></category>
@@ -210,13 +188,10 @@
 </p></blockquote>
 <p>If you enjoy <a href="http://www.coreint.org/">Core Intuition</a>, I think you’ll really like Release Notes. Let me know if you have any feedback on the show.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/02/podcast_appearances_and.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Sunlit 1.1</title>
 		<link>http://www.manton.org/2014/02/sunlit_11.html</link>
-		<comments>http://www.manton.org/2014/02/sunlit_11.html#comments</comments>
 		<pubDate>Fri, 14 Feb 2014 21:00:09 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -245,13 +220,10 @@
 <p><img src="http://www.manton.org/images/2014/sunlit_dropbox_flickr.png" width="600" height="336" alt="Sunlit v1.1" /></p>
 <p><a href="https://itunes.apple.com/app/sunlit/id690924901?mt=8">Sunlit is available in the App store</a> as a free download. If you like it, pay just $4.99 to unlock the full app, and leave a review in the App Store to help others discover the app. Thanks!</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/02/sunlit_11.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Launch Center Pro and Sunlit</title>
 		<link>http://www.manton.org/2014/01/launch_center_pro.html</link>
-		<comments>http://www.manton.org/2014/01/launch_center_pro.html#comments</comments>
 		<pubDate>Thu, 30 Jan 2014 23:20:17 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -266,11 +238,9 @@
 <p>Jonathan has <a href="http://jonathanhays.me/2014/01/28/the-schemes-of-sunlit/">the full rundown on the URL schemes</a> that Sunlit supports and why we think they’re important. You can also use the Action Composer inside Launch Center Pro to access these actions without having to type them in.</p>
 <p>And just today, <a href="http://www.macstories.net/reviews/launch-center-pro-for-ipad-review/">Launch Center Pro for iPad shipped</a>. Check it out and explore <a href="http://actions.contrast.co">some of the many apps</a> like <a href="http://sunlit.io/">Sunlit</a> that are supported.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/01/launch_center_pro.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.337 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 15:01:07 -->
+<!-- Dynamic page generated in 0.285 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 14:42:52 -->

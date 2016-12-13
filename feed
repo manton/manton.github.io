@@ -12,192 +12,176 @@
 	<atom:link href="http://www.manton.org/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 15:09:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
-		<title></title>
-		<link>http://www.manton.org/2016/04/3865.html</link>
-		<comments>http://www.manton.org/2016/04/3865.html#comments</comments>
-		<pubDate>Thu, 14 Apr 2016 16:32:25 +0000</pubDate>
+		<title>Where I post everything</title>
+		<link>http://www.manton.org/2016/12/where-i-post-everything.html</link>
+		<pubDate>Tue, 13 Dec 2016 15:09:38 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Snippets]]></category>
-		<category><![CDATA[newlibraries]]></category>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[feed]]></category>
+		<category><![CDATA[microblog]]></category>
+		<category><![CDATA[photos]]></category>
+		<category><![CDATA[rss]]></category>
 
-		<guid isPermaLink="false">http://www.manton.org/2016/04/3865.html</guid>
-		<description><![CDATA[My commute to find new libraries is getting a little ridiculous. This morning I&#8217;m south at Pleasant Hill Branch. A shame these nice windows overlook a busy street and gas station.]]></description>
-				<content:encoded><![CDATA[<p>My commute to find new libraries is getting a little ridiculous. This morning I&#8217;m south at <a href="http://library.austintexas.gov/pleasant-hill-branch">Pleasant Hill Branch</a>. A shame these nice windows overlook a busy street and gas station.</p>
+		<guid isPermaLink="false">http://www.manton.org/?p=4555</guid>
+		<description><![CDATA[My content is all on this blog or linked from it, but if you&#8217;re following RSS feeds or Twitter it&#8217;s not as obvious where everything is posted. Here&#8217;s a summary to clear things up. Microblog posts: Posted here and in a special RSS feed. Also automatically cross-posted to Twitter and App.net, with some occasional truncation. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>My content is all on this blog or linked from it, but if you&#8217;re following RSS feeds or Twitter it&#8217;s not as obvious where everything is posted. Here&#8217;s a summary to clear things up.</p>
+<p><strong>Microblog posts:</strong> Posted here and in <a href="http://www.manton.org/snippets.xml">a special RSS feed</a>. Also automatically cross-posted to <a href="https://twitter.com/manton2">Twitter</a> and App.net, with some occasional truncation.</p>
+<p><strong>Longer posts:</strong> Posted here and in <a href="http://www.manton.org/rss.xml">the default RSS feed</a>. Also automatically cross-posted to Twitter and App.net with the title and link. Twitter cross-posting is handled by my upcoming <a href="http://micro.blog/">Micro.blog</a> platform.</p>
+<p><strong>Photos:</strong> Posted <a href="https://www.instagram.com/manton/">to Instagram</a> and then copied here <a href="http://www.manton.org/2016/03/blogging-your-photos.html">using this workflow</a>. They don&#8217;t show up in either of the RSS feeds above. They&#8217;re not cross-posted to Twitter.</p>
+<p><strong>Timetable:</strong> Posted to <a href="http://timetable.fm/">timetable.fm</a> which has its own feed. Discoverable in your favorite podcast client.</p>
+<p><strong>Core Intuition:</strong> Posted to <a href="http://www.coreint.org/">coreint.org</a>. I&#8217;ll usually post a link here on the blog for each new episode.</p>
+<p><strong>All posts:</strong> Switching to WordPress brought a new global RSS feed, but I redirect it to the longer posts for now. There&#8217;s a new <a href="http://www.manton.org/everything.xml">everything RSS feed</a> which contains all posts: microblog, full posts, and photos. Enjoy!</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/04/3865.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title></title>
-		<link>http://www.manton.org/2016/04/3863.html</link>
-		<comments>http://www.manton.org/2016/04/3863.html#comments</comments>
-		<pubDate>Thu, 14 Apr 2016 14:46:28 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Snippets]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=3863</guid>
-		<description><![CDATA[Finally working on a project that is all Swift and storyboards, which I&#8217;ve long ignored. Feel like I&#8217;m relearning iOS development.]]></description>
-				<content:encoded><![CDATA[<p>Finally working on a project that is all Swift and storyboards, which I&#8217;ve long ignored. Feel like I&#8217;m relearning iOS development.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/04/3863.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title></title>
-		<link>http://www.manton.org/2016/04/3861.html</link>
-		<comments>http://www.manton.org/2016/04/3861.html#comments</comments>
-		<pubDate>Thu, 14 Apr 2016 05:10:48 +0000</pubDate>
+		<link>http://www.manton.org/2016/12/4553.html</link>
+		<pubDate>Tue, 13 Dec 2016 14:47:57 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Snippets]]></category>
 
-		<guid isPermaLink="false">http://www.manton.org/?p=3861</guid>
-		<description><![CDATA[Switching back and forth between a few NBA games on an amazing night for basketball. Curry hits his 400th 3-pointer, Warriors reach 73 wins, and Kobe puts up 60 points for his final game. (Oh, and the Spurs rest 6 players and win anyway.)]]></description>
-				<content:encoded><![CDATA[<p>Switching back and forth between a few NBA games on an amazing night for basketball. Curry hits his 400th 3-pointer, Warriors reach 73 wins, and Kobe puts up 60 points for his final game. (Oh, and the Spurs rest 6 players and win anyway.)</p>
+		<guid isPermaLink="false">http://www.manton.org/?p=4553</guid>
+		<description><![CDATA[AirPods ready to order. I&#8217;ll pass for now. Bluetooth still has downsides to me, and my iPhone SE has a perfectly reliable headphone jack.]]></description>
+				<content:encoded><![CDATA[<p>AirPods ready to order. I&#8217;ll pass for now. Bluetooth still has downsides to me, and my iPhone SE has a perfectly reliable headphone jack.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/04/3861.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
-		<title>Leander Public Library</title>
-		<link>http://www.manton.org/2016/04/leander-public-library.html</link>
-		<comments>http://www.manton.org/2016/04/leander-public-library.html#comments</comments>
-		<pubDate>Thu, 14 Apr 2016 01:04:04 +0000</pubDate>
+		<title></title>
+		<link>http://www.manton.org/2016/12/4551.html</link>
+		<pubDate>Tue, 13 Dec 2016 13:42:44 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Snippets]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4551</guid>
+		<description><![CDATA[Starting the day off with my pre-holiday morning work routine: iced coffee and &#8220;My Shot&#8221; from the Hamilton mixtape.]]></description>
+				<content:encoded><![CDATA[<p>Starting the day off with my pre-holiday morning work routine: iced coffee and &#8220;My Shot&#8221; from the Hamilton mixtape.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title></title>
+		<link>http://www.manton.org/2016/12/4549.html</link>
+		<pubDate>Mon, 12 Dec 2016 20:40:56 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Snippets]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4549</guid>
+		<description><![CDATA[Worked at the new WeWork location at the Domain this morning. Nice place. Back home and just published an episode of my Timetable podcast.]]></description>
+				<content:encoded><![CDATA[<p>Worked at the new WeWork location at the Domain this morning. Nice place. Back home and just published an episode of my Timetable podcast.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title></title>
+		<link>http://www.manton.org/2016/12/4546.html</link>
+		<pubDate>Sun, 11 Dec 2016 16:04:48 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Snippets]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4546</guid>
+		<description><![CDATA[Now that I&#8217;ve been cross-posting Instagram photos to my blog for a while, finally fixed the CSS on small screens.]]></description>
+				<content:encoded><![CDATA[<p>Now that I&#8217;ve been cross-posting <a href="http://www.manton.org/category/photos">Instagram photos to my blog</a> for a while, finally fixed the CSS on small screens.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Next year&#8217;s Christmas trees</title>
+		<link>http://www.manton.org/2016/12/next-years-christmas-trees.html</link>
+		<pubDate>Sun, 11 Dec 2016 01:20:09 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Photos]]></category>
 		<category><![CDATA[instagram]]></category>
-		<category><![CDATA[newlibraries]]></category>
 
-		<guid isPermaLink="false">http://www.manton.org/?p=3858</guid>
-		<description><![CDATA[]]></description>
-				<content:encoded><![CDATA[<p><img src="http://www.manton.org/images/2016/leander_public_library.jpg" width="500" height="500" alt="Leander Public Library"></p>
+		<guid isPermaLink="false">http://www.manton.org/?p=4542</guid>
+		<description><![CDATA[At the Elgin Christmas tree farm.]]></description>
+				<content:encoded><![CDATA[<p><img src="http://www.manton.org/images/2016/next_years_christmas_trees.jpg" width="500" height="500" alt="Next year's Christmas trees"></p>
+<p>At the Elgin Christmas tree farm.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/04/leander-public-library.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
-		<title></title>
-		<link>http://www.manton.org/2016/04/3856.html</link>
-		<comments>http://www.manton.org/2016/04/3856.html#comments</comments>
-		<pubDate>Wed, 13 Apr 2016 16:52:19 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Snippets]]></category>
-		<category><![CDATA[newlibraries]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2016/04/3856.html</guid>
-		<description><![CDATA[It&#8217;s a rainy morning in Austin and I&#8217;ve headed all the way out to Leander to visit the Leander Public Library. Very nice building, with plenty of desks for working, and an attached used bookstore. Only four days left of #newlibraries.]]></description>
-				<content:encoded><![CDATA[<p>It&#8217;s a rainy morning in Austin and I&#8217;ve headed all the way out to Leander to visit the <a href="https://www.leandertx.gov/library/">Leander Public Library</a>. Very nice building, with plenty of desks for working, and an attached used bookstore. Only four days left of <a href="http://www.manton.org/tag/newlibraries/">#newlibraries</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/04/3856.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Bee Cave Public Library</title>
-		<link>http://www.manton.org/2016/04/bee-cave-public-library.html</link>
-		<comments>http://www.manton.org/2016/04/bee-cave-public-library.html#comments</comments>
-		<pubDate>Wed, 13 Apr 2016 01:35:11 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Photos]]></category>
-		<category><![CDATA[instagram]]></category>
-		<category><![CDATA[newlibraries]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=3853</guid>
-		<description><![CDATA[]]></description>
-				<content:encoded><![CDATA[<p><img src="http://www.manton.org/images/2016/bee_cave_public_library.jpg" width="500" height="500" alt="Bee Cave Public Library"></p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/04/bee-cave-public-library.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title></title>
-		<link>http://www.manton.org/2016/04/3852.html</link>
-		<comments>http://www.manton.org/2016/04/3852.html#comments</comments>
-		<pubDate>Tue, 12 Apr 2016 17:03:37 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Snippets]]></category>
-		<category><![CDATA[newlibraries]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2016/04/3852.html</guid>
-		<description><![CDATA[Doing a little writing from the Bee Cave Public Library at the Hill Country Galleria outdoor shopping mall. Love the idea of having a library integrated into a place that so many people walk around.]]></description>
-				<content:encoded><![CDATA[<p>Doing a little writing from the <a href="http://www.beecavetexas.com/city-government/library">Bee Cave Public Library</a> at the Hill Country Galleria outdoor shopping mall. Love the idea of having a library integrated into a place that so many people walk around.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/04/3852.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Patience and impatience in the tech industry</title>
-		<link>http://www.manton.org/2016/04/patience-and-impatience-in-the-tech-industry.html</link>
-		<comments>http://www.manton.org/2016/04/patience-and-impatience-in-the-tech-industry.html#comments</comments>
-		<pubDate>Mon, 11 Apr 2016 17:01:31 +0000</pubDate>
+		<title>Apple Maps adds ChargePoint</title>
+		<link>http://www.manton.org/2016/12/apple-maps-adds-chargepoint.html</link>
+		<pubDate>Fri, 09 Dec 2016 20:16:52 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
-		<category><![CDATA[amazon]]></category>
-		<category><![CDATA[apple]]></category>
-		<category><![CDATA[echo]]></category>
-		<category><![CDATA[ipad]]></category>
-		<category><![CDATA[stevejobs]]></category>
-		<category><![CDATA[tablets]]></category>
+		<category><![CDATA[cars]]></category>
+		<category><![CDATA[electric]]></category>
+		<category><![CDATA[maps]]></category>
+		<category><![CDATA[travel]]></category>
 
-		<guid isPermaLink="false">http://www.manton.org/2016/04/patience-and-impatience-in-the-tech-industry.html</guid>
-		<description><![CDATA[There&#8217;s a great line from an iPad Pro article by Ben Brooks, where he&#8217;s discussing how Steve Jobs was always conscious of shipping only Apple&#8217;s best work: The key difference between Gates and Jobs isn’t the vision, it’s the patience, or if you prefer the unwillingness to ship something which isn’t great. I&#8217;ve been thinking [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>There&#8217;s a great line from <a href="https://brooksreview.net/2016/04/vision-2/">an iPad Pro article by Ben Brooks</a>, where he&#8217;s discussing how Steve Jobs was always conscious of shipping only Apple&#8217;s best work:</p>
+		<guid isPermaLink="false">http://www.manton.org/?p=4540</guid>
+		<description><![CDATA[A few of years ago we took a vacation to New York City and Montreal. We were taking the subway so often, I switched to Google Maps for its transit directions. I&#8217;ve been using Google Maps exclusively ever since. Until now, there were very few reasons to go back to Apple Maps. Apple has been [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>A few of years ago we took a vacation to New York City and Montreal. We were taking the subway so often, I switched to Google Maps for its transit directions. I&#8217;ve been using Google Maps exclusively ever since.</p>
+<p>Until now, there were very few reasons to go back to Apple Maps. Apple has been playing catch-up. <a href="https://blog.asmartbear.com/complex-decisions.html">Why use a product</a> that is only adding features from a competitor, but not anything new?</p>
+<p>This week Apple rolled out a unique feature that&#8217;s interesting to me: ChargePoint integration to find charging locations for electric cars. Ryan Christoffel covers it <a href="https://www.macstories.net/linked/apple-maps-adds-chargepoint-integration/">at MacStories</a>:</p>
 <blockquote><p>
-  The key difference between Gates and Jobs isn’t the vision, it’s the patience, or if you prefer the unwillingness to ship something which isn’t great.
+  Having spent several years building partnerships to ensure its data won&#8217;t lead any drivers astray, Apple has more recently been able to focus on integrating data that&#8217;s less important, but still quite useful. A few months ago we saw the company <a href="https://www.macstories.net/linked/parkopedia-and-apple-strike-maps-deal/">team up with Parkopedia</a> to improve parking data, and now charging stations are a natural next step.
 </p></blockquote>
-<p>I&#8217;ve been thinking about the time just before the iPad was announced. We didn&#8217;t know what form it would take, how much it would cost, or even what OS it would run. At the time, I <em>even wanted it to run Mac OS X</em>. From one of <a href="http://www.manton.org/2008/01/give_us_a.html">my blog posts in 2008</a>:</p>
-<blockquote><p>
-  The primary market for a Mac tablet is the millions of people who look at the <a href="http://www.wacom.com/cintiq/">Wacom Cintiq</a> and drool. An Apple tablet has to run full Mac OS X because it has to run Photoshop, Acorn, and Painter.
-</p></blockquote>
-<p>It&#8217;s easy in hindsight to say how wrong I was, that of course it should run iOS. And today I&#8217;d agree; iOS 9 on the iPad is great. But I thought a tablet would be particularly good for artists, and basing it on the Mac would be the only way to hit the ground running with a stylus and mature graphics software.</p>
-<p>That brings us back to patience, and how Apple <a href="http://www.macworld.com/article/1151235/apple_rolls.html">rolls</a> and iterates. It has taken 6 years from the original iPad introduction to the iPad Pros we have today that fulfill what I had hoped a tablet could be. Was it worth the wait? Yes. But that&#8217;s a long time, and a more impatient company might&#8217;ve taken a different path to get here, and they wouldn&#8217;t have been wrong.</p>
-<p>I&#8217;m not actually thinking about Microsoft here, but Amazon. Amazon is so impatient not just with hardware development but everything else that even overnight delivery for their customers isn&#8217;t fast enough.</p>
-<p>When I pre-ordered the Amazon Echo <a href="http://www.manton.org/2015/06/amazon-echo.html">on a whim a year ago</a>, I&#8217;m not sure that Amazon really had any idea what they were doing, whether it would flop or succeed, or if anyone would understand it. A year later, they own the market for this kind of device and it&#8217;s spread by word of mouth because the product is <em>good</em>. If Apple ever makes an Echo competitor it will be years from now and only because someone else proved the idea first.</p>
-<p>Patience is good, and I&#8217;m glad that Apple has a great balance between innovating on brand new products and perfecting existing concepts. But I&#8217;m also glad that not every company is as patient as Apple. I think the industry makes better progress when some companies aren&#8217;t afraid to ship something half-baked too early.</p>
+<p>I rarely need this — and the ChargePoint app itself has more detail, such as how many spots are actually available — but I&#8217;m excited about it as a new feature. I hope that it represents a fundamental improvement across the maps platform. I&#8217;m putting Apple Maps back on my home screen for a while.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/04/patience-and-impatience-in-the-tech-industry.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title></title>
-		<link>http://www.manton.org/2016/04/3850.html</link>
-		<comments>http://www.manton.org/2016/04/3850.html#comments</comments>
-		<pubDate>Mon, 11 Apr 2016 16:23:23 +0000</pubDate>
+		<link>http://www.manton.org/2016/12/4538.html</link>
+		<pubDate>Fri, 09 Dec 2016 18:19:24 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Snippets]]></category>
-		<category><![CDATA[newlibraries]]></category>
 
-		<guid isPermaLink="false">http://www.manton.org/2016/04/3850.html</guid>
-		<description><![CDATA[Starting the final week of 30 days of libraries with coffee at Seventh Flag, then working from Twin Oaks Branch. When I was growing up, Twin Oaks was my closest library, but they&#8217;ve recently moved and have a brand new building. Very nice space.]]></description>
-				<content:encoded><![CDATA[<p>Starting the final week of <a href="http://www.manton.org/tag/newlibraries">30 days of libraries</a> with coffee at Seventh Flag, then working from <a href="http://library.austintexas.gov/twin-oaks-branch">Twin Oaks Branch</a>. When I was growing up, Twin Oaks was my closest library, but they&#8217;ve recently moved and have a brand new building. Very nice space.</p>
+		<guid isPermaLink="false">http://www.manton.org/?p=4538</guid>
+		<description><![CDATA[Posted episode 30 of my short podcast, Timetable. Still don&#8217;t have a consistent schedule for this. Maybe Monday and Friday would be good.]]></description>
+				<content:encoded><![CDATA[<p>Posted episode 30 of my short podcast, Timetable. Still don&#8217;t have a consistent schedule for this. Maybe Monday and Friday would be good.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/04/3850.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
-		<title>Doll house Little Free Library</title>
-		<link>http://www.manton.org/2016/04/doll-house-little-free-library.html</link>
-		<comments>http://www.manton.org/2016/04/doll-house-little-free-library.html#comments</comments>
-		<pubDate>Mon, 11 Apr 2016 02:20:25 +0000</pubDate>
+		<title>Fake news as propaganda</title>
+		<link>http://www.manton.org/2016/12/fake-news-as-propaganda.html</link>
+		<pubDate>Fri, 09 Dec 2016 16:20:19 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Photos]]></category>
-		<category><![CDATA[instagram]]></category>
-		<category><![CDATA[newlibraries]]></category>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[fakenews]]></category>
+		<category><![CDATA[hillary]]></category>
+		<category><![CDATA[microblogging]]></category>
+		<category><![CDATA[twitter]]></category>
 
-		<guid isPermaLink="false">http://www.manton.org/?p=3845</guid>
-		<description><![CDATA[For the 3rd Sunday in a row, I&#8217;ve taken a break from visiting a normal library and instead found a Little Free Library to exchange a book at. They&#8217;re all very unique, often made by hand. This one was made from a doll house, which opens both from the bottom front and roof for two [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><img src="http://www.manton.org/images/2016/doll_house_little_free_library.jpg" width="500" height="500" alt="Doll house Little Free Library"></p>
-<p>For the 3rd Sunday in a row, I&#8217;ve taken a break from visiting a normal library and instead found a Little Free Library to exchange a book at. They&#8217;re all very unique, often made by hand. This one was made from a doll house, which opens both from the bottom front and roof for two floors of books.</p>
+		<guid isPermaLink="false">http://www.manton.org/?p=4536</guid>
+		<description><![CDATA[In yesterday&#8217;s essay about Twitter, I also linked to my post on Instagram&#8217;s lack of native reposts. Jason Brennan has written a follow-up about fake news and propaganda, exploring what we can learn and apply to microblogging: Aside from the normal reasons propaganda exists, it exists on social networks like Facebook and Twitter because it [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.manton.org/2016/12/twitter-at-10-years.html">In yesterday&#8217;s essay about Twitter</a>, I also linked to my post on Instagram&#8217;s lack of native reposts. <a href="http://nearthespeedoflight.com/article/2016_12_02_fake_news_on_social_networks">Jason Brennan has written a follow-up</a> about fake news and propaganda, exploring what we can learn and apply to microblogging:</p>
+<blockquote><p>
+  Aside from the normal reasons propaganda exists, it exists on social networks like Facebook and Twitter because it <em>can exist</em> on those networks. It’s <em>profitable</em> and <em>useful</em> for the parties manufacturing and disseminating it. To Facebook and Twitter, upon whose networks it propagates, it doesn’t really matter what the information is so long as it <em>engages</em> users. Facebook’s apathy to propaganda is regularly exploited.
+</p></blockquote>
+<p>Hillary Clinton also connected fake news and propaganda <a href="https://www.washingtonpost.com/news/powerpost/wp/2016/12/08/hillary-clinton-attacks-fake-news-in-post-election-appearance-on-capitol-hill/">in a speech this week</a>:</p>
+<blockquote><p>
+  Let me just mention briefly one threat in particular that should concern all Americans, Democrats, Republicans and independents alike, especially those who serve in our Congress: the epidemic of malicious fake news and false propaganda that flooded social media over the past year. It’s now clear that so-called fake news can have real-world consequences.
+</p></blockquote>
+<p>The internet is at a crossroads. Entrepreneurs love free speech, scale, and money, but those don&#8217;t always align in a good way. As much talk as there is of <em>making an impact</em>, very few leaders in Silicon Valley seem to think deeply about consequences.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/04/doll-house-little-free-library.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
+		<item>
+		<title>Core Intuition 262</title>
+		<link>http://www.manton.org/2016/12/core-intuition-262.html</link>
+		<pubDate>Thu, 08 Dec 2016 18:07:01 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[consulting]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[failure]]></category>
+		<category><![CDATA[goals]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4533</guid>
+		<description><![CDATA[We published episode 262 of Core Intuition today. It&#8217;s December already, so we&#8217;ve inevitably been thinking about unfinished projects as the year wraps up. From the show notes: Daniel and Manton talk about coping with disappointment of failing to achieve goals in an expected length of time, recognize the differing demands of building software for [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We published <a href="http://coreint.org/262">episode 262 of Core Intuition</a> today. It&#8217;s December already, so we&#8217;ve inevitably been thinking about unfinished projects as the year wraps up. From the show notes:</p>
+<blockquote><p>
+  Daniel and Manton talk about coping with disappointment of failing to achieve goals in an expected length of time, recognize the differing demands of building software for different markets, and talk about tricks for managing lack of enthusiasm for finishing projects. Finally, they answer a listener question about how to get started with consulting, and planning for maintaining a suitable income when you “quit your day job.”
+</p></blockquote>
+<p>Thanks as always for listening to the show.</p>
+]]></content:encoded>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.356 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 11:32:30 -->
+<!-- Dynamic page generated in 0.276 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 11:55:35 -->

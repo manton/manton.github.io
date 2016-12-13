@@ -8,19 +8,89 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; web</title>
+	<title>web &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/web/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
+		<title>Workflow update for web APIs</title>
+		<link>http://www.manton.org/2016/10/workflow-update-for-web-apis.html</link>
+		<pubDate>Wed, 19 Oct 2016 14:34:50 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[apis]]></category>
+		<category><![CDATA[automation]]></category>
+		<category><![CDATA[github]]></category>
+		<category><![CDATA[web]]></category>
+		<category><![CDATA[workflow]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4384</guid>
+		<description><![CDATA[Federico Viticci has an overview and examples for the latest Workflow for iOS release, which adds more advanced features for calling into web APIs. It looks great: For those who are only partially familiar with the terminology, this means that Workflow can communicate with the majority of modern services that come with a web API. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://www.macstories.net/ios/workflow-update-brings-ability-to-interact-with-any-web-api/">Federico Viticci has an overview</a> and examples for the latest Workflow for iOS release, which adds more advanced features for calling into web APIs. It looks great:</p>
+<blockquote><p>
+  For those who are only partially familiar with the terminology, this means that Workflow can communicate with the majority of modern services that come with a web API. If you&#8217;ve never worked with web APIs before, it&#8217;ll take you a few hours of reading and experiments with dictionaries, token authentications, form requests, and file uploads to get the gist of how it works. But, the Workflow team has managed to make what tends to be a visually unintuitive programming task – assembling dictionaries and structuring <a href="http://www.json.org/">JSON</a> – as simple and attractive as possible, abstracting many of the complexities that web developers have to deal with in desktop IDEs and command-line tools.
+</p></blockquote>
+<p>Here&#8217;s another nice example of automatically creating GitHub Gists, <a href="https://www.jordanmerrick.com/posts/workflow-and-apis/">from Jordan Merrick</a>:</p>
+<blockquote><p>
+  <a href="https://workflow.is/workflows/f401a725d68c476d8d95a90abcc36b5d">This is a workflow</a> I’ve always wanted to create, and the new API support makes it possible. <a href="https://gist.github.com/discover">Gists</a> are great to share small pieces of text information, such as code snippets or scripts. This action extension workflow accepts files of any type (though they must be text-based) and creates a <a href="https://gist.github.com/jordanmerrick/9f619c0aaffffd5bb46fad71e73e1477">gist</a> using the <a href="https://developer.github.com/v3/gists/">GitHub API</a>.
+</p></blockquote>
+<p>Workflow can now take over many web tasks that previously required either writing scripts or depending on hosted solutions like IFTTT and Zapier. Like <a href="http://www.manton.org/2016/03/blogging-your-photos.html">my workflow for posting photos to my blog</a>, it&#8217;s a natural tool for web publishing and microblogging.</p>
+<p>I&#8217;d also love to see a Mac version of Workflow one day. I do some limited automation on my Mac, but AppleScript and Automator aren&#8217;t as easy to use or as well-maintained as Workflow.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Paying for web content</title>
+		<link>http://www.manton.org/2016/09/paying-for-web-content.html</link>
+		<pubDate>Fri, 16 Sep 2016 20:29:23 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[animation]]></category>
+		<category><![CDATA[paywalls]]></category>
+		<category><![CDATA[subscriptions]]></category>
+		<category><![CDATA[web]]></category>
+		<category><![CDATA[writing]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4291</guid>
+		<description><![CDATA[I subscribe to a lot of web applications for my indie business, from hosting to invoicing and reporting services. But I also pay for web content when it&#8217;s compelling enough. Here are some web sites with writing and art that I think are worth supporting directly: New York Times. Still the best reporting on the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I subscribe to <a href="http://www.manton.org/2014/04/17_services_for.html">a lot of web applications</a> for my indie business, from hosting to invoicing and reporting services. But I also pay for web <em>content</em> when it&#8217;s compelling enough. Here are some web sites with writing and art that I think are worth supporting directly:</p>
+<p><a href="http://www.nytimes.com/"><strong>New York Times.</strong></a> Still the best reporting on the 2016 presidential campaign. While I usually use RSS for news and blogs, I check the New York Times manually each morning to see what is happening in the world. <em>$10/month.</em></p>
+<p><a href="http://insider.espn.com/"><strong>ESPN Insider.</strong></a> Extra articles to supplement what I read during NBA season. Seemed easy to justify as an expense for my podcast <a href="http://technicalfoul.fm/">Technical Foul</a> with Ben Thompson. Also comes with the ESPN print magazine. <em>$39/year.</em></p>
+<p><a href="https://club.macstories.net/"><strong>Club MacStories.</strong></a> I&#8217;ve enjoyed reading MacStories for years, and the club subscription adds a bunch of great content in a weekly newsletter. You also get occasional book downloads such as for Federico Viticci&#8217;s new <a href="https://www.macstories.net/stories/ios-10-the-macstories-review/">epic iOS 10 review</a>. <em>$5/month.</em></p>
+<p><a href="https://sixcolors.com/subscribe/"><strong>Six Colors.</strong></a> Jason Snell wasted no time after leaving Macworld. Seemingly overnight, Six Colors has become an important site for Apple fans. Jason and Dan Moren talk informally about current work, travel, writing, and tools on their secret podcast for subscribers. There&#8217;s also a monthly email magazine. <em>$6/month.</em></p>
+<p><a href="https://stratechery.com/membership/"><strong>Stratechery.</strong></a> Thoughtful analysis of current news and trends from Ben Thompson, delivered Monday through Thursday via email or RSS for subscribers. Great depth to stories about tech company business models and where the industry is going. Helps pay for his NBA League Pass subscription. <em>$10/month.</em></p>
+<p><a href="https://itsoncraft.com/"><strong>Craft.</strong></a> An archive of sketches, rough animation, and preproduction artwork from animated films. It&#8217;s like an expanded version of behind-the-scenes DVD extras and art books. Initially subscribed for the rough animation for the beautiful film Song of the Sea. <em>$6/month.</em></p>
+<p>Before the web dominated all publishing, it was normal to pay for the newspaper and maybe a few print magazines. Then we entered a period where everything had to be free. Now, paying for content is useful again. The sites above have figured something out about building an audience and creating good content.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>View source on the decentralized web</title>
+		<link>http://www.manton.org/2016/04/view-source-on-the-decentralized-web.html</link>
+		<pubDate>Fri, 15 Apr 2016 15:34:26 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[distributed]]></category>
+		<category><![CDATA[internetarchive]]></category>
+		<category><![CDATA[ipfs]]></category>
+		<category><![CDATA[permanence]]></category>
+		<category><![CDATA[web]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2016/04/view-source-on-the-decentralized-web.html</guid>
+		<description><![CDATA[Brewster Kahle has a post at the Internet Archive about getting back to the &#8220;view source&#8221; feature that made early web development so much more accessible than it is today. He thinks it can be achieved on top of a distributed web where all the HTML and JavaScript files are delivered to the browser: The [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://blog.archive.org/2016/04/05/getting-back-to-view-source-on-the-web-the-movable-web-decentralized-web/">Brewster Kahle has a post at the Internet Archive</a> about getting back to the &#8220;view source&#8221; feature that made early web development so much more accessible than it is today. He thinks it can be achieved on top of a distributed web where all the HTML and JavaScript files are delivered to the browser:</p>
+<blockquote><p>
+  The decentralized web works by having a p2p distribution of the files that make up the website, and then the website runs in your browser. By being completely portable, the website has all the pieces it needs: text, programs, and data. It can all be versioned, archived, and examined.
+</p></blockquote>
+<p>He mentions IPFS in particular, which <a href="http://www.manton.org/2015/09/web-history-and-ipfs.html">I&#8217;ve written about before</a>. The bottom line is that static HTML sites are more portable. They more naturally evolve not just from host to host as necessary, but also to a possible distributed future web. That&#8217;s why that — even though I still use and recommend WordPress — I have a <a href="http://www.manton.org/2015/09/complete-mirror-of-this-blog.html">static mirror of my site too</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>App review for the fast web</title>
 		<link>http://www.manton.org/2016/02/app-review-for-the-fast-web.html</link>
-		<comments>http://www.manton.org/2016/02/app-review-for-the-fast-web.html#comments</comments>
 		<pubDate>Tue, 23 Feb 2016 19:56:30 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -40,13 +110,10 @@
 <p>Google’s competing Accelerated Mobile Pages has problems too, as I mentioned in the last half of <a href="http://www.manton.org/2016/01/twitter-and-the-cost-of-links.html">this post about the cost of links</a>. Although unlike Facebook, which wants to trap content behind their own platform, AMP is at least more open and useful to the larger web.</p>
 <p>I hate to say it but neither Instant Articles nor AMP are really good enough. I think we need a third standard for super-fast web pages. (Or do we? Maybe the web is okay as-is if we <a href="http://idlewords.com/talks/website_obesity.htm">fight page bloat</a>.)</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/02/app-review-for-the-fast-web.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Lighter, faster mobile web</title>
 		<link>http://www.manton.org/2016/01/lighter-faster-mobile-web.html</link>
-		<comments>http://www.manton.org/2016/01/lighter-faster-mobile-web.html#comments</comments>
 		<pubDate>Tue, 05 Jan 2016 18:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -68,13 +135,10 @@
 </p></blockquote>
 <p>I&#8217;m willing to give Google the benefit of the doubt on AMP. The alternatives are too focused on specific platforms and so even less available to the rest of the web.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/01/lighter-faster-mobile-web.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Core Intuition and ATP this week</title>
 		<link>http://www.manton.org/2015/09/core-intuition-and-atp-this-week.html</link>
-		<comments>http://www.manton.org/2015/09/core-intuition-and-atp-this-week.html#comments</comments>
 		<pubDate>Fri, 18 Sep 2015 20:25:57 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -88,13 +152,10 @@
 				<content:encoded><![CDATA[<p>On <a href="http://coreint.org/198">this week&#8217;s Core Intuition</a>, Daniel and I spend the whole show talking about the Apple TV. The first half is about the Apple TV dev kit lottery, and the second half is about whether we need the web on our TVs.</p>
 <p>There&#8217;s also a good discussion on the Accidental Tech Podcast about this. Here&#8217;s <a href="https://overcast.fm/+CdR7CP78/1:15:38">an Overcast link about halfway into the episode</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/09/core-intuition-and-atp-this-week.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Web history and IPFS</title>
 		<link>http://www.manton.org/2015/09/web-history-and-ipfs.html</link>
-		<comments>http://www.manton.org/2015/09/web-history-and-ipfs.html#comments</comments>
 		<pubDate>Fri, 11 Sep 2015 16:51:32 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -116,13 +177,10 @@
 </p></blockquote>
 <p>I took some time to read through what it can do, and I&#8217;d like to support it for the publishing platform that&#8217;s in my new microblogging project. I don&#8217;t know if it&#8217;s technically feasible yet, but I love that someone is trying to solve this. We just have to start somewhere.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/09/web-history-and-ipfs.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Core Intuition with Brent Simmons</title>
 		<link>http://www.manton.org/2014/10/core-intuition-with-brent-simmons.html</link>
-		<comments>http://www.manton.org/2014/10/core-intuition-with-brent-simmons.html#comments</comments>
 		<pubDate>Fri, 24 Oct 2014 13:03:34 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Podcasts]]></category>
@@ -140,13 +198,10 @@
 </p></blockquote>
 <p>Hope you all enjoy the episode. It was great to have Brent on the show.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/10/core-intuition-with-brent-simmons.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Design in grayscale</title>
 		<link>http://www.manton.org/2013/04/design_in_grayscale.html</link>
-		<comments>http://www.manton.org/2013/04/design_in_grayscale.html#comments</comments>
 		<pubDate>Tue, 09 Apr 2013 13:16:22 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[User Experience]]></category>
@@ -163,13 +218,10 @@
 </p></blockquote>
 <p>These days I also start everything with <a href="http://twitter.github.io/bootstrap/">Bootstrap</a>, which adds great defaults for layout, buttons, and text. It makes everything looks better, right away. It’s not a replacement for a designer, but it does save hours (or days) of getting the basics up and running.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/04/design_in_grayscale.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Subscription change, new features</title>
 		<link>http://www.manton.org/2012/07/subscription_change_new.html</link>
-		<comments>http://www.manton.org/2012/07/subscription_change_new.html#comments</comments>
 		<pubDate>Sat, 07 Jul 2012 12:11:06 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -189,108 +241,9 @@
 <p><a href="http://tweetmarker.net/plus/account">The screenshots linked on the account page</a> include an example of how collections work.</p>
 <p>As a bonus for Mac users, there&#8217;s also a new menubar search app. This little Mac app hides in the menubar and gives quick access to searching your Tweet Marker Plus timeline and archive. <a href="http://www.riverfold.com/software/tweetmarker/screenshots/menu_search.png">Here&#8217;s a screenshot</a> of what version 1.0 looks like.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2012/07/subscription_change_new.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>iCloud vs. the web</title>
-		<link>http://www.manton.org/2012/04/icloud_vs_the.html</link>
-		<comments>http://www.manton.org/2012/04/icloud_vs_the.html#comments</comments>
-		<pubDate>Mon, 16 Apr 2012 14:24:51 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Programming]]></category>
-		<category><![CDATA[icloud]]></category>
-		<category><![CDATA[syncing]]></category>
-		<category><![CDATA[todo]]></category>
-		<category><![CDATA[tweetmarker]]></category>
-		<category><![CDATA[web]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2012/04/icloud_vs_the.html</guid>
-		<description><![CDATA[&#8220;This MacStories article&#8221;:http://www.macstories.net/stories/iclouds-first-six-months-the-developers-weigh-in/ covers the progress that developers have made adopting iCloud over the last 6 months. Over the next 6 months, we should have an even better appreciation for what iCloud is and isn&#8217;t good for. For iOS backups and iTunes Match, iCloud is fantastic. For private, app-specific data that doesn&#8217;t make any sense [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>&#8220;This MacStories article&#8221;:http://www.macstories.net/stories/iclouds-first-six-months-the-developers-weigh-in/ covers the progress that developers have made adopting iCloud over the last 6 months. Over the next 6 months, we should have an even better appreciation for what iCloud is and isn&#8217;t good for.</p>
-<p>For iOS backups and iTunes Match, iCloud is fantastic. For private, app-specific data that doesn&#8217;t make any sense away from a single developer&#8217;s native Mac and iOS apps, it&#8217;s also excellent. There&#8217;s no question that using Macs, iPhones, and iPads today is a significantly better experience thanks to iCloud.</p>
-<p>But there are two fundamental limitations in iCloud that make it inappropriate for a bunch of syncing uses:</p>
-<ul>
-<li>No way to access it from other platforms or web apps.</p>
-</li>
-<li>
-<p>No way to share data between apps from different developers.</p>
-</li>
-</ul>
-<p>I don&#8217;t expect Apple to change this. Again, for what iCloud was made for, these limitations are fine. It simply means that iCloud cannot replace web APIs that <em>do</em> solve these two problems.</p>
-<p>&#8220;Here&#8217;s what I wrote&#8221;:http://www.manton.org/2011/06/faq_for_tweet_marker.html not long after announcing the Tweet Marker API:</p>
-<blockquote><p>&#8220;The primary goal with Tweet Marker is to enable different Twitter apps to work together. iCloud is designed for storage and syncing only between apps from the same developer, so it&#8217;s not appropriate as a replacement architecture for Tweet Marker.&#8221;</p></blockquote>
-<p>Think back to the so-called Web 2.0, which gave us web services to access previously closed-off data. This eventually led to truly dominant syncing APIs like Dropbox, Simplenote, and Instapaper. At the same time, we all have more devices than ever before. Syncing exploded on iOS in text editors and note taking apps. Without a proper shared file system between apps, or even an event or scripting system, these iOS apps looked to web APIs as the only way to communicate.</p>
-<p>That has turned out wonderfully. With web APIs as the only solution, we see more compatibility between apps and more web services popping up all the time. If you create a new web app, it&#8217;s dead without an API. Every success of the modern web, from Flickr to Twitter, has an API that is available from any platform.</p>
-<p>So then what about iCloud? If Web 2.0 made data more accessible, iCloud takes that same data and&#8230; keeps it closed. It&#8217;s a step forward on user convenience and a step back on interoperability.</p>
-<p>If you&#8217;re a developer considering iCloud support, just make sure your data fits there. Ask yourself if your data is all about your app, or <em>if it&#8217;s bigger than your app</em>. Developers who are willing to take a risk on building an open API instead of iCloud could see new opportunities: web-based views of their data, compatibility with other apps, and syncing on the Mac outside of the App Store.</p>
-<p>A couple years ago, &#8220;Shawn Blanc said about cloud syncing&#8221;:http://shawnblanc.net/2010/08/sans-cloud/:</p>
-<blockquote><p>&#8220;And my next wish? A cloud-based service like Instapaper, but for to-do items. I want it to be available in apps like Tweetie, Reeder, and more, so when I click on &#8216;Do Later&#8217; it sends the link or item of note into a running to-do list (that syncs with Things, of course).&#8221;</p></blockquote>
-<p>Imagine if Things or OmniFocus or another tasks app opened up a slice of their private syncing API to make the Instapaper of to-do inboxes. Now take other APIs for all of the useful apps we use. Not just to-do apps as Shawn mentions, but RSS, photos, blog drafts, sketches, and more.</p>
-<p>What I wrote above about Tweet Marker is still very much true. Since then, Tweet Marker has become the standard for last-read syncing between Twitter apps, with support for 15 apps and many more in development. I want to see more syncing platforms like this. Let&#8217;s think big and make apps work together.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2012/04/icloud_vs_the.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Holiday bundles and no-brainer promotions</title>
-		<link>http://www.manton.org/2010/12/holiday_bundles_and.html</link>
-		<comments>http://www.manton.org/2010/12/holiday_bundles_and.html#comments</comments>
-		<pubDate>Fri, 17 Dec 2010 21:31:49 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Business]]></category>
-		<category><![CDATA[bundles]]></category>
-		<category><![CDATA[design]]></category>
-		<category><![CDATA[mac]]></category>
-		<category><![CDATA[web]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2010/12/holiday_bundles_and.html</guid>
-		<description><![CDATA[Two new bundles were announced this week: &#8220;The Indie Mac Gift Pack&#8221;:https://indiemacgiftpack.com/ (6 great Mac apps for $60) and the &#8220;Fusion Ads Holiday Bundle&#8221;:https://fusionads.net/bundle/ (an assortment of web design-related apps, icons, and more for $79). I love apps in both of these bundles and recommend you check them out, buy what you need, or gift [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Two new bundles were announced this week: &#8220;The Indie Mac Gift Pack&#8221;:https://indiemacgiftpack.com/ (6 great Mac apps for $60) and the &#8220;Fusion Ads Holiday Bundle&#8221;:https://fusionads.net/bundle/ (an assortment of web design-related apps, icons, and more for $79). I love apps in both of these bundles and recommend you check them out, buy what you need, or gift them to a friend. There&#8217;s a fear among many developers that a bundle can cheapen the healthy Mac software market, but both these bundles avoid that with a higher price and the feel of being put together carefully.</p>
-<p>As a comparison, here&#8217;s a &#8220;Macworld article on holiday bundles from 2009&#8221;:http://www.macworld.com/article/145005/2009/12/holiday_bundles.html. That collection seems kind of random despite several good apps in the list.</p>
-<p>And sales for the Indie Mac Gift Pack are split evenly to the developers, so we know it&#8217;ll be a nice revenue boost for them during the holidays. From the FAQ:</p>
-<blockquote><p>&#8220;Hey&#8230; you&#8217;re ripping these developers off, aren&#8217;t you?&#8221; &#8230; &#8220;No&#8230; we ARE these developers. Our six small companies decided to band together and do a promotion, to see if it works for us. We&#8217;re splitting all the proceeds evenly. There&#8217;s no middleman here.&#8221;</p></blockquote>
-<p>I&#8217;ve never participated in a bundle, but after some of the &#8220;MacHeist controversy&#8221;:http://homepage.mac.com/simx/technonova/reports/from_the_mouths_of_developers.html I developed a set of rules that I run Riverfold promotions on. These are the easy things that I can always say &#8220;yes&#8221; to without much thought:</p>
-<p><em>Coupons are great.</em> My coupons rarely expire and I don&#8217;t care if sites like &#8220;retailmenot.com&#8221;:http://www.retailmenot.com/ keep a list of them. Saving a few bucks might be the difference between someone buying my software and not.</p>
-<p><em>Giving out software to bloggers is great.</em> Inspired by &#8220;Wil Shipley&#8217;s C4 talk&#8221;:http://www.viddler.com/explore/rentzsch/videos/4/, I&#8217;ve &#8220;blogged about this&#8221;:http://www.manton.org/2008/04/wii_transfer_serial.html. Apple employees get free licenses too.</p>
-<p><em>Small promotions are great.</em> I freely give out copies to small sites that want to give away licenses of my software to encourage people to post comments. I think readers interpret these (correctly) as software developers doing something generous for a small site, instead of the gut reaction when you see software listed on MacZot or MacUpdate Promo (&#8220;are sales so bad they had to sell their software for half price?&#8221;).</p>
-<p><em>Charity is great</em>. I loved being a part of &#8220;Indie+Relief&#8221;:http://www.indierelief.com/, the Pan-Mass Challenge auctions, and other bundles that go directly to a cause. Just like smaller promotions, these are good for users (deals on software), good for developers (helps with marketing), good for charity (donated money), and good for the software market (these aren&#8217;t developers who are making a sacrifice because their sales aren&#8217;t doing well &mdash; it&#8217;s charity).</p>
-<p>Now that I&#8217;ve seen a bundle like the &#8220;Indie Mac Gift Pack&#8221;:https://indiemacgiftpack.com/, I think I can more clearly judge a unique bundle opportunity when it comes along. Does it minimize the middleman? Does it respect the individual apps as peers? Does it use the total bundle price to underscore the value of software rather than cheapen it? Then it&#8217;s probably a good deal for everyone.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2010/12/holiday_bundles_and.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Essays about the web</title>
-		<link>http://www.manton.org/2007/04/essays_about_the.html</link>
-		<comments>http://www.manton.org/2007/04/essays_about_the.html#comments</comments>
-		<pubDate>Mon, 09 Apr 2007 06:20:38 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[User Experience]]></category>
-		<category><![CDATA[ajax]]></category>
-		<category><![CDATA[backpack]]></category>
-		<category><![CDATA[flickr]]></category>
-		<category><![CDATA[ical]]></category>
-		<category><![CDATA[microsoft]]></category>
-		<category><![CDATA[ui]]></category>
-		<category><![CDATA[web]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2007/04/essays_about_the.html</guid>
-		<description><![CDATA[Paul Graham thinks &#8220;Microsoft and desktop apps are dead&#8221;:http://www.paulgraham.com/microsoft.html: &#8220;Gmail also showed how much you could do with web-based software, if you took advantage of what later came to be called &#8216;Ajax.&#8217; And that was the second cause of Microsoft&#8217;s death: everyone can see the desktop is over. It now seems inevitable that applications will [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Paul Graham thinks &#8220;Microsoft and desktop apps are dead&#8221;:http://www.paulgraham.com/microsoft.html:</p>
-<blockquote><p>&#8220;Gmail also showed how much you could do with web-based software, if you took advantage of what later came to be called &#8216;Ajax.&#8217; And that was the second cause of Microsoft&#8217;s death: everyone can see the desktop is over. It now seems inevitable that applications will live on the web &#8212; not just email, but everything, right up to Photoshop. Even Microsoft sees that now.&#8221;</p></blockquote>
-<p>He&#8217;s definitely off the mark with that statement. Luckily &#8220;Martin Pilkington has a counter-rant&#8221;:http://pilky.mcubedsw.com/index.php?/site/the_desktop_is_here_to_stay/:</p>
-<blockquote><p>&#8220;There seems to be a slightly delusional section of web developers who seem to believe that in a few years time all of our applications and data will be online, while our computers run little more than a browser. Of course this is complete bull.&#8221;</p></blockquote>
-<p>As someone who builds both desktop software and web apps, I&#8217;m very much interested in what happens in the middle. Next generation Mac software in particular can mix local HTML interfaces, web services, and syncing with a traditional rich UI to build something that is the best of both offline and online worlds.</p>
-<p>I had an interesting conversation with &#8220;Willie Abrams&#8221;:http://willie.tumblr.com/ the other day about why the Flickr UI is better than iPhoto, even if you take away all the social parts of Flickr. The reason is that Flickr introduces extra layouts specific to certain types of activities, such as the excellent calendar view for archives. Another example of a web app UI innovation is the Backpack reminder UI that &#8220;John Gruber recently wrote about&#8221;:http://daringfireball.net/2007/03/deal_with_it.</p>
-<p>Web apps are usually able to iterate on features and interfaces much quicker than desktop software, but that doesn&#8217;t make web apps inherently better. Put another way, iCal sucks because it hasn&#8217;t been seriously updated in 5 years.</p>
-<p>I have other thoughts on this topic, but already I&#8217;ve extended this blog post 3 paragraphs more than intended.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2007/04/essays_about_the.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.349 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 14:57:07 -->
+<!-- Dynamic page generated in 0.292 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 14:38:50 -->

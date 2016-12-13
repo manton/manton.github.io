@@ -8,19 +8,18 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; ipod</title>
+	<title>ipod &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/ipod/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
 		<title>512 Pixels on YouTube</title>
 		<link>http://www.manton.org/2016/03/512-pixels-on-youtube.html</link>
-		<comments>http://www.manton.org/2016/03/512-pixels-on-youtube.html#comments</comments>
 		<pubDate>Wed, 30 Mar 2016 15:57:16 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -40,13 +39,10 @@
 <p>Ah, nostalgia. One of the reasons I blog at all, and have been for 14 years now, isn&#8217;t so much for today&#8217;s audience but tomorrow&#8217;s. Even the most mundane blog posts take on new significance with a few years&#8217; distance. Old technical topics have surprisingly poor representation on today&#8217;s web, as linkrot sets in.</p>
 <p>I&#8217;m looking forward to what else Stephen has planned. I know <a href="https://www.relay.fm/connected/83">from the Connected podcast</a> that lately he has been trying to collect all the different original iMac colors. (Two other podcasts that are worth a listen for an additional trip down memory lane: <a href="http://therecord.co/">The Record</a> and <a href="http://simplebeep.com/">Simple Beep</a>.)</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/03/512-pixels-on-youtube.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>True cost of the Apple Watch</title>
 		<link>http://www.manton.org/2015/04/true-cost-of-the-apple-watch.html</link>
-		<comments>http://www.manton.org/2015/04/true-cost-of-the-apple-watch.html#comments</comments>
 		<pubDate>Mon, 13 Apr 2015 14:20:35 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -65,13 +61,10 @@
 <p>The 5C unlocked is $450, which drops the total price with watch to $800. And really, it’s a non-issue, since nearly everyone excited about the watch already has an iPhone.</p>
 <p>When Apple shipped the first iPod, it required a <em>Mac</em>. Later they supported Windows, and today the iPod Touch is completely untethered and requires no computer. I expect we’ll see a similar transition with the watch becoming increasingly more useful as a standalone device, but there’s no rush to get there.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/04/true-cost-of-the-apple-watch.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>iPhone 6 Plus and iPod</title>
 		<link>http://www.manton.org/2014/10/iphone-6-plus-and-ipod.html</link>
-		<comments>http://www.manton.org/2014/10/iphone-6-plus-and-ipod.html#comments</comments>
 		<pubDate>Mon, 13 Oct 2014 20:26:06 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -88,13 +81,10 @@
 </p></blockquote>
 <p>I&#8217;ve talked about skipping this phone generation on <a href="http://coreint.org/">the podcast</a> a few times. I already got out of the yearly updates when I kept the 4S forever and then got the 5C instead of the 5S. After seeing the 6 Plus in person at the Apple Store and with everyone who had one at Çingleton, I&#8217;m pretty comfortable with my decision. But I&#8217;d strongly consider replacing my iPad Mini with a 5.5-inch iPod Touch.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/10/iphone-6-plus-and-ipod.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>iPad Pro is the new iPod Photo</title>
 		<link>http://www.manton.org/2011/07/ipad_pro_is.html</link>
-		<comments>http://www.manton.org/2011/07/ipad_pro_is.html#comments</comments>
 		<pubDate>Tue, 12 Jul 2011 23:00:42 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -107,11 +97,9 @@
 				<content:encoded><![CDATA[<p>I&#8217;m fascinated with the iPad &#8220;3&#8221; rumors because on the surface they make so little sense. Apple just shipped the iPad 2, no competitors can match it, and demand is strong. Why mess with a good thing so soon?</p>
 <p>But it almost fits when <a href="http://daringfireball.net/linked/2011/07/11/ipad-pro">you give it a name like &#8220;Pro&#8221;</a> (or iPad Retina, or whatever). This isn&#8217;t a replacement for the current iPad; it&#8217;s another layer to the product lineup. And like the awkwardly-named iPod Photo from 2004, I bet the iPad Pro is meant to be temporary. It&#8217;s a way to sell a high-end, over-priced and over-pixeled iPad before the technology is cheap enough for the masses. A year or two from now, the Retina Display will be available in all iPads, and the &#8220;Pro&#8221; name will fade away, just like iPod Photo did when all iPods got a color screen.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2011/07/ipad_pro_is.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.302 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 14:56:09 -->
+<!-- Dynamic page generated in 0.255 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 15:10:27 -->

@@ -8,19 +8,39 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; news</title>
+	<title>news &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/news/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
+		<title>Fake news and Instagram</title>
+		<link>http://www.manton.org/2016/11/fake-news-and-instagram.html</link>
+		<pubDate>Tue, 22 Nov 2016 17:14:46 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[instagram]]></category>
+		<category><![CDATA[news]]></category>
+		<category><![CDATA[social]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4484</guid>
+		<description><![CDATA[Twitter has retweets. Facebook has sharing. But Instagram has no built-in reposting. On Instagram, there&#8217;s no instantaneous way to share someone else&#8217;s post to all of your followers. The first version of Instagram was built by a very small team. They&#8217;ve always grown slowly and expanded the UI thoughtfully. I think the lack of a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Twitter has retweets. Facebook has sharing. But Instagram has no built-in reposting. On Instagram, there&#8217;s no instantaneous way to share someone else&#8217;s post to all of your followers.</p>
+<p>The first version of Instagram was built by a very small team. They&#8217;ve always grown slowly and expanded the UI thoughtfully. I think the lack of a repost feature was deliberate.</p>
+<p>When you have to put a little work into posting, you take it more seriously. I wonder if <a href="http://www.manton.org/2016/11/todays-social-networks-are-broken.html">fake news</a> would have spread so quickly on Facebook if it was a little more difficult to share an article before you&#8217;ve read more than the headline.</p>
+<p>It&#8217;s not easy to build software that encourages good behavior. When I look at my Instagram timeline I see beautiful photos, hand-drawn art, and snapshots of everyday life. I see the very best of the world. It&#8217;s not the full truth, but it&#8217;s all true.</p>
+<p>Instagram was no accident. The only question: was it unique to photos, or can the same quality be applied to microblogging?</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>SXSW and designing for Apple Watch</title>
 		<link>http://www.manton.org/2016/03/sxsw-and-designing-for-apple-watch.html</link>
-		<comments>http://www.manton.org/2016/03/sxsw-and-designing-for-apple-watch.html#comments</comments>
 		<pubDate>Tue, 15 Mar 2016 18:15:50 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[User Experience]]></category>
@@ -39,13 +59,10 @@
 <p>Blogs like Conrad’s are a great reason to keep using RSS. He’s not posting every day so you may forget to check the site, or miss the links on Twitter if they aren’t tweeted or retweeted when you happen to be paying attention. The best way to guarantee you won’t miss it is to subscribe in an RSS reader.</p>
 <p>There’s a related side discussion on <a href="https://overcast.fm/+FPVnxtHDM">the Bill Simmons podcast</a> about reading headlines instead of full articles. There’s too much information out there, and it moves too quickly, so we’ve trained ourselves to just scan headlines and comment on Twitter without going deep. That leads to increasingly ridiculous click-bait titles as publishers try to grab our attention. The only way to fight back against that trend is to slow down and read a few thoughtful essays in RSS, or work through the queue in Instapaper.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/03/sxsw-and-designing-for-apple-watch.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Types of news readers</title>
 		<link>http://www.manton.org/2015/06/types-of-news-readers.html</link>
-		<comments>http://www.manton.org/2015/06/types-of-news-readers.html#comments</comments>
 		<pubDate>Fri, 26 Jun 2015 15:30:58 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Weblogs]]></category>
@@ -58,13 +75,10 @@
 		<description><![CDATA[Brent Simmons describes how he sees news readers as falling into 3 general types: casual newspaper, productivity, and river of news. This matches my thinking as well. We need all of these different apps, although it’s the third category that I’m currently fascinated with. I wrote a little about timelines and River.js earlier this week.]]></description>
 				<content:encoded><![CDATA[<p><a href="http://inessential.com/2015/06/23/varieties_of_news_readers">Brent Simmons describes</a> how he sees news readers as falling into 3 general types: casual newspaper, productivity, and river of news. This matches my thinking as well. We need all of these different apps, although it’s the third category that I’m currently fascinated with. I wrote a little <a href="http://www.manton.org/2015/06/microblog-timelines-project-lightning-and-river-js.html">about timelines and River.js earlier this week</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/06/types-of-news-readers.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Apple News and RSS</title>
 		<link>http://www.manton.org/2015/06/apple-news-and-rss.html</link>
-		<comments>http://www.manton.org/2015/06/apple-news-and-rss.html#comments</comments>
 		<pubDate>Mon, 15 Jun 2015 19:25:24 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Weblogs]]></category>
@@ -81,13 +95,10 @@
 </p></blockquote>
 <p>Any technology that invokes “amplifier” in a review is something I want to pay attention to. I used the same word in the closing paragraph of <a href="http://manton.org/2013/08/waiting_for_appnets.html">my pitch for App.net</a>. That service is fading away now, of course, but it’s just another reminder that even the most well-intentioned platforms are dangerous if they distract us from controlling our own content and hosting it at a custom domain.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/06/apple-news-and-rss.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>River of news</title>
 		<link>http://www.manton.org/2008/09/river_of_news.html</link>
-		<comments>http://www.manton.org/2008/09/river_of_news.html#comments</comments>
 		<pubDate>Mon, 22 Sep 2008 16:24:48 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -103,11 +114,9 @@
 <p>Since coming back from C4 I&#8217;d been fighting a cold, which developed into a cough and sinus infection and fever and whatever worse. I finally hit the doctor up last week and just unplugged, checking email twice a day for emergencies only. I spent the rest of the day sleeping, reading, and with family &mdash; a self-imposed vacation for my brain as much as my body.</p>
 <p>Four days later I&#8217;m feeling quite a bit better, and trying to think about what changes to make in my schedule so as to not wind up insane or dead before I&#8217;m 35. But even as I say that I acknowledge that it&#8217;s stretching the truth, because I&#8217;ve never been happier.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2008/09/river_of_news.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.318 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 15:04:34 -->
+<!-- Dynamic page generated in 0.272 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 14:44:14 -->

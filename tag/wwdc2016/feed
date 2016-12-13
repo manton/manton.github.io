@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>wwdc2016 &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/wwdc2016/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title></title>
+		<link>http://www.manton.org/2016/06/4046.html</link>
+		<pubDate>Sat, 18 Jun 2016 16:25:00 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Snippets]]></category>
+		<category><![CDATA[wwdc2016]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4046</guid>
+		<description><![CDATA[Thought I&#8217;d try Xcode 8 with one of my current projects, then quickly reconsidered in the face of Swift 3.0 syntax errors. Probably going to sit out some of these early betas.]]></description>
+				<content:encoded><![CDATA[<p>Thought I&#8217;d try Xcode 8 with one of my current projects, then quickly reconsidered in the face of Swift 3.0 syntax errors. Probably going to sit out some of these early betas.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Podcast thoughts on WWDC</title>
+		<link>http://www.manton.org/2016/06/podcast-thoughts-on-wwdc.html</link>
+		<pubDate>Sat, 18 Jun 2016 12:55:13 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[interview]]></category>
+		<category><![CDATA[macstories]]></category>
+		<category><![CDATA[timetable]]></category>
+		<category><![CDATA[wwdc]]></category>
+		<category><![CDATA[wwdc2016]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4044</guid>
+		<description><![CDATA[I&#8217;m back from San Francisco, catching up on everything I missed while traveling. I recorded a few podcast episodes during WWDC week, both my own and an interview. On Core Intuition, Daniel and I talked right after the keynote about the morning&#8217;s announcements. From the show notes: Manton and Daniel react to the 2016 WWDC [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;m back from San Francisco, catching up on everything I missed while traveling. I recorded a few podcast episodes during WWDC week, both my own and an interview.</p>
+<p><a href="http://www.coreint.org/2016/06/episode-237-wwdc-2016/">On Core Intuition</a>, Daniel and I talked right after the keynote about the morning&#8217;s announcements. From the show notes:</p>
+<blockquote><p>
+  Manton and Daniel react to the 2016 WWDC keynote. [&#8230;] iMessage and Siri extensibility, Continuity improvements, Apple Pay for the web, Apple’s keynote diversity, and more.
+</p></blockquote>
+<p>In the middle of the week, <a href="https://soundcloud.com/user-907896436/motiv-manton-normalized">I talked with John Voorhees of MacStories</a> about WWDC news but also a lot about microblogging. It may be the most I&#8217;ve shared about my latest project, all in one place.</p>
+<p>Yesterday, I recorded a <a href="http://timetable.manton.org/2016/06/episode-24-san-francisco-reset/">short episode of Timetable</a>. I wanted to capture what the trip to San Francisco each year means to me, outside of the conference itself. I find the week a good opportunity to reset and think about where my focus should be across my projects.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title></title>
+		<link>http://www.manton.org/2016/06/4042.html</link>
+		<pubDate>Tue, 14 Jun 2016 23:27:03 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Snippets]]></category>
+		<category><![CDATA[wwdc2016]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4042</guid>
+		<description><![CDATA[Live-streaming all the WWDC sessions is a remarkable improvement. Thanks Apple.]]></description>
+				<content:encoded><![CDATA[<p>Live-streaming all the WWDC sessions is a remarkable improvement. Thanks Apple.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title></title>
+		<link>http://www.manton.org/2016/06/4040.html</link>
+		<pubDate>Tue, 14 Jun 2016 21:56:24 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Snippets]]></category>
+		<category><![CDATA[wwdc2016]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4040</guid>
+		<description><![CDATA[Wandering around the Financial District to find the Transamerica Redwood Park. Beautiful spot to take a break from thinking about new iOS APIs.]]></description>
+				<content:encoded><![CDATA[<p>Wandering around the Financial District to find the Transamerica Redwood Park. Beautiful spot to take a break from thinking about new iOS APIs.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title></title>
+		<link>http://www.manton.org/2016/06/4038.html</link>
+		<pubDate>Tue, 14 Jun 2016 20:22:02 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Snippets]]></category>
+		<category><![CDATA[wwdc2016]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4038</guid>
+		<description><![CDATA[Recording from San Francisco entirely on iOS didn&#8217;t go exactly according to plan, but we published episode 237 of Core Int. We&#8217;ll follow up next week on whatever we missed.]]></description>
+				<content:encoded><![CDATA[<p>Recording from San Francisco entirely on iOS didn&#8217;t go exactly according to plan, but we published <a href="http://www.coreint.org/">episode 237 of Core Int</a>. We&#8217;ll follow up next week on whatever we missed.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Finals, game 5</title>
+		<link>http://www.manton.org/2016/06/finals-game-5.html</link>
+		<pubDate>Tue, 14 Jun 2016 01:00:11 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Photos]]></category>
+		<category><![CDATA[instagram]]></category>
+		<category><![CDATA[wwdc2016]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4089</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[<p><img src="http://www.manton.org/images/2016/finals_game_.jpg" width="500" height="500" alt="Finals, game 5" /></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title></title>
+		<link>http://www.manton.org/2016/06/4036.html</link>
+		<pubDate>Mon, 13 Jun 2016 22:14:06 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Snippets]]></category>
+		<category><![CDATA[wwdc2016]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4036</guid>
+		<description><![CDATA[Thought I could edit Core Intuition real quick before grabbing lunch and then heading to the game in Oakland, but it&#8217;s not realistic. Good news is that in attempting to, I checked out the WeWork space on Market to work for a little while. We&#8217;ll get the WWDC episode out sometime in the morning.]]></description>
+				<content:encoded><![CDATA[<p>Thought I could edit Core Intuition real quick before grabbing lunch and then heading to the game in Oakland, but it&#8217;s not realistic. Good news is that in attempting to, I checked out the WeWork space on Market to work for a little while. We&#8217;ll get the WWDC episode out sometime in the morning.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title></title>
+		<link>http://www.manton.org/2016/06/4034.html</link>
+		<pubDate>Mon, 13 Jun 2016 19:52:58 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Snippets]]></category>
+		<category><![CDATA[wwdc2016]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4034</guid>
+		<description><![CDATA[I would&#8217;ve been happy just with the watchOS and macOS (!) changes, so pretty great to see all the new iOS APIs. About to record an episode of Core Intuition.]]></description>
+				<content:encoded><![CDATA[<p>I would&#8217;ve been happy just with the watchOS and macOS (!) changes, so pretty great to see all the new iOS APIs. About to record an episode of Core Intuition.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title></title>
+		<link>http://www.manton.org/2016/06/4032.html</link>
+		<pubDate>Mon, 13 Jun 2016 16:57:52 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Snippets]]></category>
+		<category><![CDATA[wwdc2016]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4032</guid>
+		<description><![CDATA[Big news day already and WWDC hasn&#8217;t even started. LinkedIn acquired by Microsoft, Storehouse shutting down&#8230; I&#8217;m at AltConf for the morning and looking forward to the keynote.]]></description>
+				<content:encoded><![CDATA[<p>Big news day already and WWDC hasn&#8217;t even started. LinkedIn acquired by Microsoft, Storehouse shutting down&#8230; I&#8217;m at AltConf for the morning and looking forward to the keynote.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title></title>
+		<link>http://www.manton.org/2016/06/4030.html</link>
+		<pubDate>Sun, 12 Jun 2016 21:28:04 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Snippets]]></category>
+		<category><![CDATA[wwdc2016]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4030</guid>
+		<description><![CDATA[Beautiful day at The Presidio. I&#8217;m here to check out the Pinocchio exhibit at the Walt Disney Family Museum and stumbled on to the Off the Grid Picnic with a bunch of food trucks.]]></description>
+				<content:encoded><![CDATA[<p>Beautiful day at The Presidio. I&#8217;m here to check out the Pinocchio exhibit at the Walt Disney Family Museum and stumbled on to the Off the Grid Picnic with a bunch of food trucks.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.282 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 14:38:22 -->

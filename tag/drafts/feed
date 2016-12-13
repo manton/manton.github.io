@@ -8,19 +8,18 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; drafts</title>
+	<title>drafts &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/drafts/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
 		<title>Finally trying Ulysses</title>
 		<link>http://www.manton.org/2016/01/finally-trying-ulysses.html</link>
-		<comments>http://www.manton.org/2016/01/finally-trying-ulysses.html#comments</comments>
 		<pubDate>Thu, 21 Jan 2016 15:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -42,13 +41,10 @@
 </p></blockquote>
 <p>I can already tell that Ulysses is a great app. Looking forward to <a href="http://ulyssesapp.com/blog/2015/12/ulysses-iphone-beta/">the upcoming universal version</a> with support for the iPad Pro, too.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/01/finally-trying-ulysses.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>WordPress drafts workflow</title>
 		<link>http://www.manton.org/2016/01/wordpress-drafts-workflow.html</link>
-		<comments>http://www.manton.org/2016/01/wordpress-drafts-workflow.html#comments</comments>
 		<pubDate>Sat, 09 Jan 2016 17:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Weblogs]]></category>
@@ -67,13 +63,10 @@
 <p>I&#8217;ve also been using the <a href="http://manton.org/2015/12/wordpress-podcast-and-calypso.html">Calypso-based</a> WordPress UI a lot lately. I usually work on several blog posts at once, and if a few are ready to go at once, I schedule them to go out later in the day or over the next couple of days. WordPress&#8217;s web UI makes keeping track of scheduled posts pretty nice.</p>
 <p>It hasn&#8217;t been all perfect switching between multiple apps, though. I noticed today that some of my new posts, which I always write in Markdown, were converted to HTML for publishing (likely by Calypso on WordPress.com). But for the most part, no regrets switching over to WordPress. The added flexibility and future-proofing have been good.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/01/wordpress-drafts-workflow.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>More with Typed.com</title>
 		<link>http://www.manton.org/2015/07/more-with-typed-com.html</link>
-		<comments>http://www.manton.org/2015/07/more-with-typed-com.html#comments</comments>
 		<pubDate>Sat, 11 Jul 2015 15:57:17 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Weblogs]]></category>
@@ -90,13 +83,10 @@
 </p></blockquote>
 <p>I’ve been using Editorial as my default iOS text editor for a while. I have a “Notes” folder on Dropbox that I use like Simplenote, but driven from <a href="http://www.selfcoded.com/justnotes/">Justnotes</a> on the Mac and accessible via Editorial or any iOS editor. But I’ve just barely scratched the surface of what is possible with Editorial. It’s one of those rare apps that is fine for new users, but which also contains a great depth of features when you’re ready to explore underneath the initial layer of its UI.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/07/more-with-typed-com.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Microblogging with Typed.com</title>
 		<link>http://www.manton.org/2015/07/microblogging-with-typed-com.html</link>
-		<comments>http://www.manton.org/2015/07/microblogging-with-typed-com.html#comments</comments>
 		<pubDate>Thu, 02 Jul 2015 21:05:03 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Weblogs]]></category>
@@ -119,13 +109,10 @@
 </p></blockquote>
 <p>He details a way to send short microblog posts to Typed.com by using Drafts and Editorial. Check out the full post for his JavaScript and Python scripts linking these apps together on iOS. I’m really looking forward to Typed.com’s official launch.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/07/microblogging-with-typed-com.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>More quick blogging workflows</title>
 		<link>http://www.manton.org/2015/06/more-quick-blogging-workflows.html</link>
-		<comments>http://www.manton.org/2015/06/more-quick-blogging-workflows.html#comments</comments>
 		<pubDate>Sat, 20 Jun 2015 15:07:10 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Weblogs]]></category>
@@ -146,11 +133,9 @@
 <p>Also this week, Ben Brooks has switched his core Twitter posting to go through WordPress. He has a <a href="http://benb.me/">standalone microblog at benb.me</a> where the posts live. They go out to Twitter automatically via IFTTT. Posting to a blog first and then Twitter second seems like a simple idea, but it is extremely powerful. Years from now you end up with an archive of all your short-form writing at your own domain. Not as an afterthought, but as the <em>default</em>.</p>
 <p>The great thing about blogging is there’s no one correct way to do this stuff. I’m really happy to see these solutions from Seth and Ben, and I know other folks are working on similar workflows.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/06/more-quick-blogging-workflows.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.304 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 14:57:49 -->
+<!-- Dynamic page generated in 0.252 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 14:40:43 -->

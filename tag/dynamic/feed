@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>dynamic &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/dynamic/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Core Intuition 234 and Vapor</title>
+		<link>http://www.manton.org/2016/05/core-intuition-234-and-vapor.html</link>
+		<pubDate>Fri, 27 May 2016 20:34:57 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[dynamic]]></category>
+		<category><![CDATA[ruby]]></category>
+		<category><![CDATA[swift]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3949</guid>
+		<description><![CDATA[We published Core Intuition 234 today, with a follow-up discussion on Swift, working toward software releases, and more. From the show notes: Daniel and Manton talk about the question of Swift’s dependence on Objective-C’s dynamism, how it should or will evolve, and their differences in philosophy about Swift and Objective-C. They also take stock of [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We published <a href="http://www.coreint.org/2016/05/episode-234-make-swift-great-again/">Core Intuition 234</a> today, with a follow-up discussion on Swift, working toward software releases, and more. From the show notes:</p>
+<blockquote><p>
+  Daniel and Manton talk about the question of Swift’s dependence on Objective-C’s dynamism, how it should or will evolve, and their differences in philosophy about Swift and Objective-C. They also take stock of release discipline and managing customer disappointment with an app’s progress. Finally, they talk about the importance and difficulty of winding down old products.
+</p></blockquote>
+<p>One of the points I brought up on the show — and which I&#8217;ve hinted at <a href="http://www.manton.org/2016/05/apples-mindset-on-swift-dynamic-features.html">here on the blog before</a> — is that web developers will push Swift to become more dynamic. There&#8217;s a long history of building web server frameworks like Ruby on Rails that depend on dynamically routing requests to controllers and views, and flexible models that automatically adapt from your database schema. These features tend to get messy when faced with a more static, strongly-typed language.</p>
+<p>There is good work being done in the Swift web community already, though. Today I spent some time building a sample app with <a href="http://qutheory.io/">Vapor</a>, which is probably the closest I&#8217;ve seen someone get to the usability of existing web frameworks. I&#8217;m a little more optimistic now that we might eventually have a single language for server code and native apps.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Swift and sharp knives</title>
+		<link>http://www.manton.org/2016/05/swift-and-sharp-knives.html</link>
+		<pubDate>Mon, 23 May 2016 15:36:35 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[dhh]]></category>
+		<category><![CDATA[dynamic]]></category>
+		<category><![CDATA[ruby]]></category>
+		<category><![CDATA[swift]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3936</guid>
+		<description><![CDATA[David Heinemeier Hansson has a great post today about Ruby’s advanced dynamic features. Some people would criticize Ruby (and Rails) for including “sharp knives in its drawer of features”, but David argues that it’s a worthwhile tradeoff to give developers such power and flexibility: There’s nothing programmatically in Ruby to stop you using its sharp [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://m.signalvnoise.com/provide-sharp-knives-cc0a22bf7934">David Heinemeier Hansson has a great post today</a> about Ruby’s advanced dynamic features. Some people would criticize Ruby (and Rails) for including “sharp knives in its drawer of features”, but David argues that it’s a worthwhile tradeoff to give developers such power and flexibility:</p>
+<blockquote><p>
+  There’s nothing programmatically in Ruby to stop you using its sharp knives to cut ties with reason. We enforce such good senses by convention, by nudges, and through education. Not by banning sharp knives from the kitchen and insisting everyone use spoons to slice tomatoes.
+</p></blockquote>
+<p>Given the <a href="http://mjtsai.com/blog/2016/05/21/dynamic-swift-2/">recent discussions</a> from the Apple community, I couldn’t stop thinking of Swift as I read David’s post. I wouldn’t go as far as saying that Swift is a dull knife; there is a lot to like about the language, and I feel reasonably productive in it now. But David’s “paternalism” line nevertheless rings true to me, that the Swift compiler is trying to protect us from ourselves.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Apple&#8217;s mindset on Swift dynamic features</title>
+		<link>http://www.manton.org/2016/05/apples-mindset-on-swift-dynamic-features.html</link>
+		<pubDate>Sun, 15 May 2016 16:50:08 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[dynamic]]></category>
+		<category><![CDATA[macworld]]></category>
+		<category><![CDATA[nextstep]]></category>
+		<category><![CDATA[objc]]></category>
+		<category><![CDATA[swift]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3927</guid>
+		<description><![CDATA[I let myself go off into a bit of a Swift rant on the latest Core Intuition. I’ve been doing a lot of Swift development recently. The more I use it, the more conflicted I am. I really love some parts of the language, but it’s not what I would have asked for as a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I let myself go off into a bit of a Swift rant on <a href="http://coreint.org/232">the latest Core Intuition</a>. I’ve been doing a lot of Swift development recently. The more I use it, the more conflicted I am. I really love some parts of the language, but it’s not what I would have asked for as a successor to Objective-C 2.0.</p>
+<p>Remember when Steve Jobs came back to Apple and compared NeXTSTEP to constructing a building by starting out on the 20th floor, with so much of the foundation and common patterns already taken care of for you? Cocoa allowed apps to be built significantly faster than before. Steve said <a href="https://www.youtube.com/watch?v=4QrX047-v-s">at Macworld Expo in 1997</a> that the goal was to &#8220;eliminate 80% of the code that every developer has to write for their app.&#8221;</p>
+<p>Swift is not like that. Swift’s priorities are correctness and stability. These have more indirect benefits to developer productivity than we saw going from Carbon to Cocoa.</p>
+<p>When <a href="https://marco.org/2016/04/21/brent-performance">Marco Arment wrote about Swift</a> last month, he mentioned wanting a language designed for high-level apps:</p>
+<blockquote><p>
+  Objective-C wasn’t much better for this, but I think we could’ve done better than Swift if the most important goal in Swift was maximizing real-world developer productivity when writing modern Mac and iOS apps. Swift does a little of that, but gives up a lot to also serve lower-level, more clever, language-geekier goals.
+</p></blockquote>
+<p>This weekend, <a href="http://inessential.com/2016/05/14/the_tension_of_swift">Brent Simmons has a new post</a> about the loss of dynamic features in “pure” Swift:</p>
+<blockquote><p>
+  What makes me nervous is Swift’s emphasis on type safety and on compile-time resolution. As long as we also have what we need from Objective-C, then that’s fine — then we still get xibs and storyboards, the Responder Chain, and so on.
+</p></blockquote>
+<p>I hope Brent’s right that this will be a core part of Swift 4. Leaning on the Objective-C runtime feels like a temporary solution because it only exists on the Mac and iOS. Great web frameworks like Ruby on Rails, for example, can’t be built without relying on a more dynamic language. (And to me a great promise for Swift is being able to use it everywhere.)</p>
+<p><a href="http://indiestack.com/2016/05/brents-swift-tension/">Daniel Jalkut followed up</a> with a more optimistic post. He thinks Apple is on top of this, even as he acknowledges the clash between existing frameworks and the new language:</p>
+<blockquote><p>
+  Some major design priorities of the Swift language, namely type safety and compile time dependency binding, are at odds with the design priorities of 20 years of evolution in Apple’s frameworks. How and if that disparity will be reckoned by Apple remains to be seen.
+</p></blockquote>
+<p>I think it’s telling that the “dynamic” keyword isn’t even mentioned in the main language guide. Anything related to Objective-C is off in a <a href="https://developer.apple.com/library/ios/documentation/Swift/Conceptual/BuildingCocoaApps/InteractingWithObjective-CAPIs.html#//apple_ref/doc/uid/TP40014216-CH4-ID35">separate set of documentation</a>, which includes discouraging statements such as “Requiring dynamic dispatch is rarely necessary” and “use of the performSelector APIs is discouraged”. For Swift to thrive in the future, as a great language for newcomers and long-time Mac developers, Apple will have to compromise on that mindset.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.324 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 14:57:30 -->

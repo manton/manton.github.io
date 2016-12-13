@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>twitterrific &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/twitterrific/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:15:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Navigation controllers on the Mac</title>
+		<link>http://www.manton.org/2016/04/navigation-controllers-on-the-mac.html</link>
+		<pubDate>Tue, 05 Apr 2016 15:43:47 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[chameleon]]></category>
+		<category><![CDATA[ios]]></category>
+		<category><![CDATA[mac]]></category>
+		<category><![CDATA[navcontrollers]]></category>
+		<category><![CDATA[twitterrific]]></category>
+		<category><![CDATA[uikit]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2016/04/navigation-controllers-on-the-mac.html</guid>
+		<description><![CDATA[Brent Simmons has a good post about the pros and cons of bringing UIKit to the Mac. On the differences between iOS and Mac development, though, one point did stand out for me: And there are things Macs don’t have at all — navigation controllers, for instance, since they don’t make sense in a context [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://inessential.com/2016/04/01/uikit_for_macs">Brent Simmons has a good post</a> about the pros and cons of bringing UIKit to the Mac. On the differences between iOS and Mac development, though, one point did stand out for me:</p>
+<blockquote><p>
+  And there are things Macs don’t have at all — navigation controllers, for instance, since they don’t make sense in a context where you can just show the hierarchy via multiple panes.
+</p></blockquote>
+<p>Brent&#8217;s right that most Mac apps don&#8217;t need navigation controllers. I don&#8217;t think I&#8217;d have any use for them in my Mac app, <a href="http://www.riverfold.com/software/clipstart/">Clipstart</a>, for example. But navigation controllers are becoming more common in Mac apps, starting with Twitter apps especially. I expect an important part of Iconfactory&#8217;s work on <a href="http://chameleonproject.org/">the Chameleon framework</a> to bring Twitterrific to the Mac was supporting navigation controllers.</p>
+<p>I&#8217;ll always consider myself a Mac developer first, even though most of what I do these days is on iOS and for the web. I&#8217;d definitely welcome UIKit for Mac. I&#8217;m getting closer to announcing a new iPhone app and web platform, and while I have a Mac version in development too, I can&#8217;t justify the time right now to finish it. UIKit for Mac would make that decision much easier.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Tweetbot + Twitterrific</title>
+		<link>http://www.manton.org/2011/08/tweetbot_twitterrific.html</link>
+		<pubDate>Sun, 28 Aug 2011 15:41:54 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[tweetbot]]></category>
+		<category><![CDATA[tweetmarker]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[twitterrific]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2011/08/tweetbot_twitterrific.html</guid>
+		<description><![CDATA[The second app to support &#8220;Tweet Marker&#8221;:http://tweetmarker.net/ has arrived, and it&#8217;s a great one: &#8220;Tweetbot&#8221;:http://tapbots.com/software/tweetbot/. I love using Tweetbot on the iPhone and Twitterrific on the Mac and iPad. Seeing these apps work together just makes for a better Twitter experience. Here are a few tips to keep in mind while using apps that support [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The second app to support &#8220;Tweet Marker&#8221;:http://tweetmarker.net/ has arrived, and it&#8217;s a great one: &#8220;Tweetbot&#8221;:http://tapbots.com/software/tweetbot/. I love using Tweetbot on the iPhone and Twitterrific on the Mac and iPad. Seeing these apps work together just makes for a better Twitter experience.</p>
+<p>Here are a few tips to keep in mind while using apps that support Tweet Marker:</p>
+<p><em>Turn it on!</em> First things first: enable Tweet Marker in both apps on every device you plan to use Twitter on. MacStories has a good summary of this (with screenshots) for &#8220;their coverage of Twitterrific&#8221;:http://www.macstories.net/mac/twitterrific-4-3-syncs-timeline-position-with-tweet-marker/ and &#8220;again for Tweetbot&#8221;:http://www.macstories.net/news/tweetbot-1-6-gets-tweet-marker-timeline-sync/.</p>
+<p><em>What syncs?</em> Only the main timeline and mentions sync between the apps. While working with these developers, we made a decision to change how Twitter lists sync after Twitterrific had already shipped. So while both apps think they are syncing lists, the format on the server is not compatible between the two. A future version should fix this.</p>
+<p><em>How to switch apps?</em> Most apps take the approach of saving the last-read position when the app is quit or sent to the background, and restoring it again when it is launched or brought to the front. You may need to change your default habits a little to get the most accurate behavior. When you know you are going to switch apps, just close your active Twitter client first before opening the next one. It may also help to wait for the app to download new tweets before scrolling or interacting with it.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Hosting for Tweet Marker</title>
+		<link>http://www.manton.org/2011/08/hosting_for_tweet.html</link>
+		<pubDate>Tue, 16 Aug 2011 03:06:05 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[heroku]]></category>
+		<category><![CDATA[sinatra]]></category>
+		<category><![CDATA[tweetmarker]]></category>
+		<category><![CDATA[twitterrific]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2011/08/hosting_for_tweet.html</guid>
+		<description><![CDATA[Today was day 7 of the &#8220;first app&#8221;:http://twitterrific.com/ to ship with Tweet Marker support. Overall, things have been working great. I thought I&#8217;d write a little bit about my hosting experience so far. First, the good news: the service is up and fast. Twitterrific is sending a lot of traffic, even with the preference off [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Today was day 7 of the &#8220;first app&#8221;:http://twitterrific.com/ to ship with Tweet Marker support. Overall, things have been working great. I thought I&#8217;d write a little bit about my hosting experience so far.</p>
+<p>First, the good news: the service is up and fast. Twitterrific is sending a lot of traffic, even with the preference off by default, but the server app is architected in such a way that things are zipping along nicely. Performance is especially important on the iPhone, where a Twitter client might be saving state on quit and any lag would be pretty obvious. Non-trivial server work, such as hitting the Twitter API, is done in the background using Resque, and the queue size there is usually small too.</p>
+<p>There have been two distinct problems, though. Each was a good opportunity to improve the system.</p>
+<p>On the first day, the background queue stalled and the requests piled up, so much so that my Redis instance ran out of memory and clients started receiving errors. I upgraded Redis, restarted the app, and bumped up the number of processes to quickly catch up on the backlog. Although it hasn&#8217;t resulted in errors since, it has delayed some requests on 2 more occasions after launch. I also adjusted how I&#8217;m collecting statistics to further improve performance.</p>
+<p>More recently, I&#8217;ve noticed some sporadic SSL errors when Tweet Marker tries to verify the user account via Twitter. I added more wait-and-retry logic, and I&#8217;m keeping an eye on this to kick the background script if necessary. There have been no errors in the last couple days.</p>
+<p>I still think it was the right decision to host on Heroku. Although I am manually monitoring the server for general health (need to automate this badly), everything is less work than I would do with a colocated box or VPS. The biggest cost is that at the last minute I upgraded to Heroku&#8217;s dedicated PostgreSQL database. I&#8217;m still evaluating that, but I would rather launch with too much horsepower and scale it down later, than not enough.</p>
+<p>Again, thanks for your support. It is a little nerve-racking because I know that &#8220;other people&#8221;:http://www.iconfactory.com/ are depending on Tweet Marker being up and performing well. This is a different experience for me than working at a &#8220;larger company&#8221;:http://www.vitalsource.com/ with a dedicated system administrator, and also different than server backends for my Riverfold products, where it is only my own customers who will be disappointed if I fail.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.287 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 16:15:51 -->

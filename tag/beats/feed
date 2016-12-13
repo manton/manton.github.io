@@ -8,19 +8,18 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; beats</title>
+	<title>beats &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/beats/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
 		<title>Apple Music and free Beats 1</title>
 		<link>http://www.manton.org/2015/06/apple-music-and-free-beats-1.html</link>
-		<comments>http://www.manton.org/2015/06/apple-music-and-free-beats-1.html#comments</comments>
 		<pubDate>Tue, 30 Jun 2015 17:49:27 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Music]]></category>
@@ -43,13 +42,10 @@
 </p></blockquote>
 <p>Beats 1 is one of the more interesting aspects of Apple Music to me. I just signed up for the trial and plan to continue at the $15/month family subscription.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/06/apple-music-and-free-beats-1.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Apple needs Beats Music</title>
 		<link>http://www.manton.org/2014/05/apple_needs_beats.html</link>
-		<comments>http://www.manton.org/2014/05/apple_needs_beats.html#comments</comments>
 		<pubDate>Fri, 09 May 2014 12:57:12 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Music]]></category>
@@ -76,13 +72,10 @@
 </p></blockquote>
 <p>However, I agree with Gruber that on the surface this potential acquisition doesn’t really seem Apple-like. It would be unusual for them to acquire a high-profile brand. As much as I’d love to see the Beats Music team join Apple to improve iTunes and the App Store, I’ll be a little surprised if it actually happens. Maybe they have something else in mind that we can’t see yet.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/05/apple_needs_beats.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Ending the App Store top 200</title>
 		<link>http://www.manton.org/2014/02/ending_the_app.html</link>
-		<comments>http://www.manton.org/2014/02/ending_the_app.html#comments</comments>
 		<pubDate>Fri, 07 Feb 2014 19:40:44 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -106,13 +99,10 @@
 <p>Apple will need to ramp up their staff to do this, but if a new company like Beats can do it, surely a company as huge as Apple can also try. And they’ll have help from app fans everywhere. Writers are already doing this: see Federico Viticci’s <a href="http://www.macstories.net/roundups/my-must-have-ipad-apps-2013-edition/">must-have iPad apps of 2013</a> (could easily be an app playlist) or all the <a href="http://thesweetsetup.com/apps/best-photo-editing-app-iphone/">photo apps mentioned on The Sweet Setup</a> (favorite photo apps playlist) or TechHive’s <a href="http://www.techhive.com/article/2091807/use-these-budgeting-apps-for-more-money-fewer-problems.html">5 apps for budgeting</a> (my playlist would’ve added <a href="http://nothirst.com/moneywell/ipad/">MoneyWell</a>).</p>
 <p>Apple shouldn’t wait until Thursday to feature a few great apps. Feature apps <em>all the time</em>. They’re on the right track with some of the “best of” sections in the store, and with the “Near Me” feature. Go a little further and it will make all the difference to bubble up great apps, and let the junk in the App Store fade away. For the first time I can imagine the store without a top 200 at all, and it looks amazing.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/02/ending_the_app.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>We love music</title>
 		<link>http://www.manton.org/2014/02/we_love_music.html</link>
-		<comments>http://www.manton.org/2014/02/we_love_music.html#comments</comments>
 		<pubDate>Thu, 06 Feb 2014 17:32:42 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Music]]></category>
@@ -130,11 +120,9 @@
 <p>I’d like to see Apple get back to doing fewer things and doing them well. That means no TV or smartwatch. They need more product categories like photography, which they excel at. The iPhone camera is the best, the built-in Photos and Camera apps are great, and there’s a rich layer of third-party apps to fill in additional features. <a href="http://www.youtube.com/watch?v=NoVW62mwSQQ">Apple’s photos ad</a> perfectly captures this.</p>
 <p>Apple, fall in love with the next product category and lead us there. We’re ready for the next thing you <em>love</em>, not the next thing that Wall Street assumes everyone wants.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/02/we_love_music.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.342 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 15:01:41 -->
+<!-- Dynamic page generated in 0.266 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 14:42:40 -->

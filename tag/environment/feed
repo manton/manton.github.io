@@ -8,19 +8,39 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; environment</title>
+	<title>environment &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/environment/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
+		<title>Apple apologists</title>
+		<link>http://www.manton.org/2016/10/apple-apologists.html</link>
+		<pubDate>Tue, 04 Oct 2016 15:42:35 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[environment]]></category>
+		<category><![CDATA[headphones]]></category>
+		<category><![CDATA[samsung]]></category>
+		<category><![CDATA[stevejobs]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4320</guid>
+		<description><![CDATA[The hardest transition for fans of Apple Computer from the 1990s is realizing that Apple no longer needs us to defend the company. If I&#8217;m sometimes critical of Apple, both here and on Core Intuition, it&#8217;s because they&#8217;re the largest tech company in the world. I will always hold Apple to a very high standard [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The hardest transition for fans of Apple Computer from the 1990s is realizing that Apple <em>no longer needs us to defend the company</em>. If I&#8217;m sometimes critical of Apple, both here and on <a href="http://www.coreint.org/">Core Intuition</a>, it&#8217;s because they&#8217;re the largest tech company in the world.</p>
+<p>I will always hold Apple to a very high standard of excellence. They&#8217;ve earned it. When airline flight attendants tell passengers to turn their <a href="http://pxlnv.com/linklog/galaxy-note-7-faa/">Samsung Galaxy Note 7 phones off</a> along with the usual warnings about oxygen masks and life vests, we shrug and laugh because it&#8217;s Samsung. From Apple, we expect higher quality and attention to detail, not shortcuts.</p>
+<p>Steve Jobs has been gone for 5 years, but the spirit of building insanely great products is well-rooted at Apple. Apple employees are doing incredible, passionate work.</p>
+<p>And yet the company itself hardly resembles the struggling computer maker of 20 years ago. Apple is a giant corporation now. Unlike its employees, who have the best intentions, giant corporations are by default selfish, arrogant, and rarely courageous.</p>
+<p>Apple does a lot of good for the world. I doubt there&#8217;s another company even approaching Apple&#8217;s size that <a href="http://www.apple.com/environment/">does as much</a>, from renewable energy to safer materials to workplace diversity. But that good doesn&#8217;t absolve them of criticism.</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>Apple event non-product focus</title>
 		<link>http://www.manton.org/2016/03/apple-event-non-product-focus.html</link>
-		<comments>http://www.manton.org/2016/03/apple-event-non-product-focus.html#comments</comments>
 		<pubDate>Mon, 21 Mar 2016 20:30:32 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -39,13 +59,10 @@
 <p>I&#8217;d like to see this continue at future events. Leave the record sales numbers for the finance call, and instead focus on what good Apple is doing <em>because</em> they are big, not just <em>how</em> they are big. Even though I own some Apple stock, I do not personally care that much about the precise magnitude of iPhone shipments this quarter.</p>
 <p>As for the new products, nothing to complain about. Since the $10,000 Apple Watch Edition didn&#8217;t get a $50-dollar price drop like the Apple Watch Sport did, guess I&#8217;ll skip that purchase and get an iPhone SE instead.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/03/apple-event-non-product-focus.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>New coffee shops, week 1</title>
 		<link>http://www.manton.org/2016/02/new-coffee-shops-week-1.html</link>
-		<comments>http://www.manton.org/2016/02/new-coffee-shops-week-1.html#comments</comments>
 		<pubDate>Wed, 24 Feb 2016 21:14:10 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Personal]]></category>
@@ -60,11 +77,9 @@
 <p>This has required a little more planning than I expected. I’ll be going to all corners of the city to not repeat myself for a full 30 days. Even then, I’ll have to broaden my search to include more traditional cafes and donut shops too.</p>
 <p>I’ve also realized that I need to do a better job of ordering something unique when it’s on the menu, or asking for a recommendation. After all, the point is to get out of the house more often — to take a break from the isolated work-from-home environment, be exposed to something new, even if it’s just a simple drink or view outside, and get back to my current projects refreshed.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/02/new-coffee-shops-week-1.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.317 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 13:59:05 -->
+<!-- Dynamic page generated in 0.243 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 14:59:34 -->

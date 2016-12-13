@@ -8,19 +8,18 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; bugs</title>
+	<title>bugs &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/bugs/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
 		<title>Two weeks notice: unfinished work</title>
 		<link>http://www.manton.org/2015/07/two-weeks-notice-unfinished-work.html</link>
-		<comments>http://www.manton.org/2015/07/two-weeks-notice-unfinished-work.html#comments</comments>
 		<pubDate>Fri, 31 Jul 2015 17:42:03 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -39,13 +38,10 @@
 <p>I think I’m going to let this be the final post to wrap up the “two weeks notice” series. I’ve accomplished a lot but there is still plenty left, especially <a href="http://www.manton.org/2015/07/two-weeks-notice-new-products.html">shipping new products</a>. It’s been good to force myself to write every day, so I’ll keep that going with the usual full posts and <a href="http://www.manton.org/category/micro">microblog posts</a>.</p>
 <p>You can find all 14 posts under <a href="http://www.manton.org/tag/2weeks">the tag “2weeks”</a>. Thanks for reading.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/07/two-weeks-notice-unfinished-work.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Two weeks notice: your business model is wrong</title>
 		<link>http://www.manton.org/2015/07/two-weeks-notice-your-business-model-is-wrong.html</link>
-		<comments>http://www.manton.org/2015/07/two-weeks-notice-your-business-model-is-wrong.html#comments</comments>
 		<pubDate>Fri, 24 Jul 2015 22:31:32 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -63,13 +59,10 @@
 <p>While I don’t think there’s any direct competition for what I’m building, there are a lot of related services. I’d count even parts of Tumblr and WordPress among the services that are both complementary and in a similar theme to what I want to do. Tumblr makes money primarily through ads. WordPress has ads but (I expect) makes more money through their upgrades: paid custom domains, VaultPress backup, and premium themes.</p>
 <p>When choosing a business model for my app, I’ve also been inspired by GitHub’s simplicity. Free for open source projects, which allows you to get a feel for how the entire system works as long as you don’t need private repositories. Paid for organizations, scaling up based on how many projects you have. The success of my project will hang on whether I can mix some of all these models without confusing potential new customers.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/07/two-weeks-notice-your-business-model-is-wrong.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Wil Shipley on bugs</title>
 		<link>http://www.manton.org/2008/09/wil_shipley_on.html</link>
-		<comments>http://www.manton.org/2008/09/wil_shipley_on.html#comments</comments>
 		<pubDate>Mon, 22 Sep 2008 18:59:47 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[User Experience]]></category>
@@ -84,13 +77,10 @@
 <blockquote><p>&#8220;The measure of a man cannot be whether he ever makes mistakes, because he will make mistakes. It&#8217;s what he does in response to his mistakes. The same is true of companies.&#8221;</p></blockquote>
 <p>I&#8217;ve been thinking about mistakes and bugs as I beta test &#8220;Sifter&#8221;:http://www.sifterapp.com/. Since it&#8217;s not ready for launch yet I won&#8217;t comment on it specifically, except to say that despite many bug systems becoming very mature (in some cases, too mature) every developer still has a different set of needs. There will always be a new bug system promising to fix all your problems, and for many of us we have to keep reminding ourselves not to code our own. Been there done that.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2008/09/wil_shipley_on.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Core Intuition 6</title>
 		<link>http://www.manton.org/2008/08/core_intuition_6.html</link>
-		<comments>http://www.manton.org/2008/08/core_intuition_6.html#comments</comments>
 		<pubDate>Thu, 07 Aug 2008 05:15:06 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Podcasts]]></category>
@@ -104,13 +94,10 @@
 <p>Speaking of people who wrote MarsEdit, our sixth episode of &#8220;Core Intuition&#8221;:http://www.coreint.org/ is out. Daniel and I spend a good chunk of the show on bug tracking, thoughts on running a software business while preparing for a new baby, staying inspired and getting distracted, and a bunch more. Plus we put out a call for good artists to contact us.</p>
 <p>We had a lot of fun with the show and I hope you enjoy listening to it. If you have feedback, send an email or &#8220;post a comment on Daniel&#8217;s blog&#8221;:http://www.red-sweater.com/blog/544/core_intuition_6.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2008/08/core_intuition_6.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Wii Transfer takes over internet</title>
 		<link>http://www.manton.org/2007/01/wii_transfer_takes.html</link>
-		<comments>http://www.manton.org/2007/01/wii_transfer_takes.html#comments</comments>
 		<pubDate>Sun, 28 Jan 2007 06:40:35 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -131,11 +118,9 @@
 <p>At one point on Tuesday when sales were coming in, every time I received a PayPal notification email I literally groaned. &#8220;Stop buying this software until I can make it work reliably,&#8221; I would say to the computer. The thing that got me through was that all customers who sent in support email were extremely helpful and patient. The other good news is that with version 2.1.1, it&#8217;s looking pretty solid, and the next update should wrap up any remaining fringe issues.</p>
 <p>To everyone who gave Wii Transfer a try, thanks! I think you&#8217;ll like what comes next.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2007/01/wii_transfer_takes.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.299 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 15:01:03 -->
+<!-- Dynamic page generated in 0.276 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 15:07:46 -->

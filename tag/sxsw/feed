@@ -8,19 +8,18 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; sxsw</title>
+	<title>sxsw &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/sxsw/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
 		<title>SXSW and designing for Apple Watch</title>
 		<link>http://www.manton.org/2016/03/sxsw-and-designing-for-apple-watch.html</link>
-		<comments>http://www.manton.org/2016/03/sxsw-and-designing-for-apple-watch.html#comments</comments>
 		<pubDate>Tue, 15 Mar 2016 18:15:50 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[User Experience]]></category>
@@ -39,13 +38,10 @@
 <p>Blogs like Conrad’s are a great reason to keep using RSS. He’s not posting every day so you may forget to check the site, or miss the links on Twitter if they aren’t tweeted or retweeted when you happen to be paying attention. The best way to guarantee you won’t miss it is to subscribe in an RSS reader.</p>
 <p>There’s a related side discussion on <a href="https://overcast.fm/+FPVnxtHDM">the Bill Simmons podcast</a> about reading headlines instead of full articles. There’s too much information out there, and it moves too quickly, so we’ve trained ourselves to just scan headlines and comment on Twitter without going deep. That leads to increasingly ridiculous click-bait titles as publishers try to grab our attention. The only way to fight back against that trend is to slow down and read a few thoughtful essays in RSS, or work through the queue in Instapaper.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/03/sxsw-and-designing-for-apple-watch.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>A great developer can come from anywhere</title>
 		<link>http://www.manton.org/2015/10/a-great-developer-can-come-from-anywhere.html</link>
-		<comments>http://www.manton.org/2015/10/a-great-developer-can-come-from-anywhere.html#comments</comments>
 		<pubDate>Wed, 21 Oct 2015 21:43:27 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -79,13 +75,10 @@
 <p>Rewind a handful of years, back to that day at SXSW when I could name plenty of developers who had more attention and success in our community than Marco Arment. You can be damn sure that didn&#8217;t discourage him from taking Instapaper from an &#8220;in my spare time&#8221; niche app to the top of the News section on the App Store.</p>
 <p>I&#8217;ll never accept the implied negativity in the &#8220;that&#8217;s fine for Marco&#8221; argument. I&#8217;ll never accept that we should be <em>jealous</em> of another developer&#8217;s success instead of <em>inspired</em> by it to do our best work.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/10/a-great-developer-can-come-from-anywhere.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>12 years of blogging</title>
 		<link>http://www.manton.org/2014/03/12_years_of.html</link>
-		<comments>http://www.manton.org/2014/03/12_years_of.html#comments</comments>
 		<pubDate>Sun, 09 Mar 2014 22:37:10 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Weblogs]]></category>
@@ -101,13 +94,10 @@
 </p></blockquote>
 <p>That was September 2002. It feels like it has really taken until 10.9 Mavericks (with tags and Finder tabs) for that to change.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/03/12_years_of.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Kevin Lynch at Apple</title>
 		<link>http://www.manton.org/2013/03/kevin_lynch_at.html</link>
-		<comments>http://www.manton.org/2013/03/kevin_lynch_at.html#comments</comments>
 		<pubDate>Wed, 20 Mar 2013 08:38:25 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -129,13 +119,10 @@
 <p>Was he wrong about Flash? Yes. But I choose to view his move to Apple as an indication that he was at the wrong company more than that he was completely wrong-headed. Maybe it was time for something new, a course correction back to the earlier part of his career. Skepticism about this hire is fine, but to treat him as an outsider is to forget the other great things he’s worked on. Once you’ve built Mac software, no matter how long ago, you’ll always be one of us.</p>
 <p>I hope Apple sees it that way too. Because if Apple is confident of anything, it’s that they can’t get stuck in one old way of thinking, can’t discount good people because of one unforgivable bad idea. That Apple is able to brush aside the Flash debate as yesterday’s news — even accept as a VP someone who was at the heart of that debate, and on the wrong side — shows to me that they’re only looking forward.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/03/kevin_lynch_at.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Aaron Swartz</title>
 		<link>http://www.manton.org/2013/01/aaron_swartz.html</link>
-		<comments>http://www.manton.org/2013/01/aaron_swartz.html#comments</comments>
 		<pubDate>Tue, 15 Jan 2013 15:03:52 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Personal]]></category>
@@ -169,13 +156,10 @@
 </p></blockquote>
 <p>Such a loss. For more links, <a href="http://watermark.io/collections/manton/aaronswartz1986-2013">I started a collection of tweets</a> when my timeline woke up to the news of Aaron’s death.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/01/aaron_swartz.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>10 years and 37signals</title>
 		<link>http://www.manton.org/2012/03/10_years_and.html</link>
-		<comments>http://www.manton.org/2012/03/10_years_and.html#comments</comments>
 		<pubDate>Fri, 09 Mar 2012 23:28:08 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[User Experience]]></category>
@@ -190,13 +174,10 @@
 <blockquote><p>&#8220;Ernest and Jason really get it &#8212; I hope they inspire some designers to think about web sites in a new way, and finally start focusing on usability and page load time and cut the fancy graphics, roll-overs, and animations.&#8221;</p></blockquote>
 <p>This was a couple years before they reinvented themselves as a software company with Basecamp. As the &#8220;new Basecamp launches this week&#8221;:http://37signals.com/svn/posts/3129-launch-the-all-new-basecamp, it&#8217;s fascinating to think back on how far 37signals has come. The web is bigger now and more complex. Subscription web apps are everywhere. But I think the focus on performance that drove Jason Fried and his original co-founders to promote simple design in that SXSW panel a decade ago is still very much at the heart of what 37signals does.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2012/03/10_years_and.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>SXSW 2012 and Twitter API innovation</title>
 		<link>http://www.manton.org/2011/09/sxsw_2012_and.html</link>
-		<comments>http://www.manton.org/2011/09/sxsw_2012_and.html#comments</comments>
 		<pubDate>Thu, 01 Sep 2011 15:06:43 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Events]]></category>
@@ -212,13 +193,10 @@
 <p>We need WWDC as the single place. No matter how great the smaller conferences are, WWDC is the big one, the one you don&#8217;t miss. And so it is with SXSW.</p>
 <p>I believe SXSW 2012 is going to be fascinating to watch. A couple years past when everyone already thought it was too big, 2012 could see real turnover. Some previous attendees will skip it, and many new people will speak for the first time. I want to see that conference, to find out what its themes and focus will be, and hopefully &#8220;our talk&#8221;:http://panelpicker.sxsw.com/ideas/view/11867 can be part of it.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2011/09/sxsw_2012_and.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>SXSW conflict</title>
 		<link>http://www.manton.org/2011/04/sxsw_conflict.html</link>
-		<comments>http://www.manton.org/2011/04/sxsw_conflict.html#comments</comments>
 		<pubDate>Mon, 11 Apr 2011 01:58:17 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Comics]]></category>
@@ -231,13 +209,10 @@
 				<content:encoded><![CDATA[<p>I&#8217;m still working on a longer post about SXSW 2011 &mdash; yes, a month late &mdash; but until that&#8217;s ready, here&#8217;s a drawing I made after the conference.</p>
 <p><a href="http://gowalla.com/spots/9225"><img src="http://www.manton.org/images/2011/sxsw_conflict.png" width="500" height="396" border="0" alt="SXSW drawing" /></a></p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2011/04/sxsw_conflict.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Wayback</title>
 		<link>http://www.manton.org/2011/03/wayback.html</link>
-		<comments>http://www.manton.org/2011/03/wayback.html#comments</comments>
 		<pubDate>Wed, 09 Mar 2011 13:11:45 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Events]]></category>
@@ -254,13 +229,10 @@
 <p>The full text is &#8220;available on the Wayback Machine&#8221;:http://replay.waybackmachine.org/200102040700/http://www.evhead.com/longer/2200706_essays.asp. I wish more CEOs blogged with even half the sincerity.</p>
 <p>SXSW Interactive starts this weekend. When Evan wrote the above, the conference was a few rooms along a single hallway. Now it&#8217;s a monster conference, spread across multiple venues, with a speaker database so dense I don&#8217;t even know where to start. Still, I&#8217;ll be there and hope to catch up with any of y&#8217;all making it to Austin.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2011/03/wayback.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Check in here</title>
 		<link>http://www.manton.org/2010/03/check_in_here.html</link>
-		<comments>http://www.manton.org/2010/03/check_in_here.html#comments</comments>
 		<pubDate>Tue, 09 Mar 2010 14:11:02 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Events]]></category>
@@ -276,11 +248,9 @@
 <p>This is one of Gowalla&#8217;s best features. I also prefer its design, and the playful personality they&#8217;ve baked into the app. While I agree with Jeff that there doesn&#8217;t need to be one winner, I&#8217;m not interested in checking in with more than one application every time I visit a spot, so I use Gowalla exclusively. And because I have friends at Gowalla, I want them to succeed.</p>
 <p>My message to Foursquare users who are coming into town for SXSW: Gowalla is an Austin-based company and they are &#8220;doing fun stuff for SXSW&#8221;:http://gowalla.com/sxsw. Why not give Gowalla a try for the weekend?</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2010/03/check_in_here.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.398 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 15:03:05 -->
+<!-- Dynamic page generated in 0.287 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 14:54:41 -->

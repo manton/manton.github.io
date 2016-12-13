@@ -8,19 +8,42 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; urls</title>
+	<title>urls &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/urls/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
+		<title>Fixing AMP</title>
+		<link>http://www.manton.org/2016/11/fixing-amp.html</link>
+		<pubDate>Mon, 21 Nov 2016 21:21:23 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[amp]]></category>
+		<category><![CDATA[applenews]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[mobile]]></category>
+		<category><![CDATA[urls]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4480</guid>
+		<description><![CDATA[When I first wrote about Accelerated Mobile Pages, there wasn&#8217;t a true implementation. Now we see how Google is rolling this out, and it has problems. John Gruber uses Ars Technica as an example: On desktop browsers, these URLs do get redirected to Ars’s website. But on mobile they don’t. Share from one mobile device [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.manton.org/2015/11/accelerated-mobile-pages-from-google.html">When I first wrote about Accelerated Mobile Pages</a>, there wasn&#8217;t a true implementation. Now we see how Google is rolling this out, and it has problems. <a href="https://daringfireball.net/linked/2016/10/21/google-amp">John Gruber</a> uses Ars Technica as an example:</p>
+<blockquote><p>
+  On desktop browsers, these URLs do get redirected to Ars’s website. But on mobile they don’t. Share from one mobile device to another and nobody ever leaves google.com. Why would any website turn their entire mobile audience — a majority share of their total audience, for many sites today — over to Google?
+</p></blockquote>
+<p>Maybe this is inherent in how AMP works, and we should have predicted it. If Google&#8217;s AMP implementation must run in browsers, will there always be a layer of JavaScript and custom URLs that hide the original web site?</p>
+<p>I&#8217;d prefer if Google added AMP support directly to Chrome. While it would be a much more limited rollout, it would feel more natural, with fewer drawbacks for publishers.</p>
+<p>Competing news platform Apple News isn&#8217;t problem-free either. The <code>apple.news://</code> shared links also add a redirect, with inconsistent behavior since not all platforms and countries even support Apple News. Apple News is an RSS reader that&#8217;s designed like a closed platform.</p>
+<p>I want the web to be faster. Breaking links should not be part of the solution.</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>Microblog links</title>
 		<link>http://www.manton.org/2014/09/microblog-links.html</link>
-		<comments>http://www.manton.org/2014/09/microblog-links.html#comments</comments>
 		<pubDate>Wed, 17 Sep 2014 17:19:25 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Weblogs]]></category>
@@ -48,13 +71,10 @@
 <p>Whereas a full blog post would often contain multiple links. Certainly a lot of what is posted to Twitter and Facebook is just a single link with short commentary.</p>
 <p>I also noticed recently that Dave Winer&#8217;s <a href="http://radio3.io/">Radio3</a> includes links in the text when tweeting, but in the RSS feed the text and the link are split out. The URL goes in the RSS item&#8217;s link tag. While this is easy enough to support in tools, it&#8217;s surprising if you consider the link part of the content, not metadata. (I also expect inline HTML links to become even more common.)</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/09/microblog-links.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Tweet Library 2.5 and consolidation</title>
 		<link>http://www.manton.org/2014/04/tweet_library_25.html</link>
-		<comments>http://www.manton.org/2014/04/tweet_library_25.html#comments</comments>
 		<pubDate>Wed, 23 Apr 2014 17:09:35 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -75,13 +95,10 @@
 <p>But I do need to start consolidating my work on Tweet Library and <a href="http://watermark.io/">Watermark</a>, because the apps share so many concepts around archiving and search. To that end, this week I&#8217;m retiring tweetlibrary.com as a way to browse and publish collections. The site will now redirect to a special landing page on Watermark. Published collections from Tweet Library also go to a public page on Watermark.</p>
 <p>It was a tough decision to change the tweetlibrary.com URLs, but maintaining separate web apps that are so similar made everything more complicated, holding back what I could build. Having a single web codebase (Watermark) will ultimately let me improve both Tweet Library and Watermark more quickly.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/04/tweet_library_25.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Launch Center Pro and Sunlit</title>
 		<link>http://www.manton.org/2014/01/launch_center_pro.html</link>
-		<comments>http://www.manton.org/2014/01/launch_center_pro.html#comments</comments>
 		<pubDate>Thu, 30 Jan 2014 23:20:17 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -96,13 +113,10 @@
 <p>Jonathan has <a href="http://jonathanhays.me/2014/01/28/the-schemes-of-sunlit/">the full rundown on the URL schemes</a> that Sunlit supports and why we think they’re important. You can also use the Action Composer inside Launch Center Pro to access these actions without having to type them in.</p>
 <p>And just today, <a href="http://www.macstories.net/reviews/launch-center-pro-for-ipad-review/">Launch Center Pro for iPad shipped</a>. Check it out and explore <a href="http://actions.contrast.co">some of the many apps</a> like <a href="http://sunlit.io/">Sunlit</a> that are supported.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/01/launch_center_pro.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Ugly reminders</title>
 		<link>http://www.manton.org/2009/02/ugly_reminders.html</link>
-		<comments>http://www.manton.org/2009/02/ugly_reminders.html#comments</comments>
 		<pubDate>Fri, 27 Feb 2009 16:02:25 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Personal]]></category>
@@ -120,13 +134,10 @@
 <p>Others will say that you shouldn&#8217;t mix such different projects under the same brand, and that makes a lot of sense. But I also know it to be true that if you want to build a strong blog following, you should stick to one subject and become a respected voice in that field, and I didn&#8217;t do that either. I made a conscious decision with my personal blog to keep it loose and cover several different things that I am passionate about, and because of that I&#8217;ll likely never have tens of thousands of readers as other popular Mac development blogs have.</p>
 <p>So maybe one day Riverfold will sell something other than Mac software. When that time comes, it won&#8217;t matter what the URLs are, but until then, the /software/ URL won&#8217;t let me ever forget that I have other things in mind.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2009/02/ugly_reminders.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Learning from Rails design</title>
 		<link>http://www.manton.org/2007/06/learning_from_rails.html</link>
-		<comments>http://www.manton.org/2007/06/learning_from_rails.html#comments</comments>
 		<pubDate>Mon, 04 Jun 2007 05:46:43 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -223,11 +234,9 @@ SEL method = NSSelectorFromString (sel_name);
 <p>This convention has also allowed me to simplify all the URLs that Wii Transfer uses. Other examples include &#8220;/covers/search/U2&#8221; or &#8220;/artists/show/5&#8221;. I&#8217;ve eliminated a bunch of code, and it fits nicely with how I serve application resources and the start of a HTML template system.</p>
 <p>Could it be taken further? Sure. I remember in the Mac OS 9 days building a web interface for a product using only compiled AppleScript scripts stored in the resource fork. Lately, folks like &#8220;Gus Mueller&#8221;:http://gusmueller.com/blog/ and Adobe&#8217;s Lightroom team have been doing interesting things with &#8220;embedding Lua&#8221;:http://www.sqlabs.net/blog/2006/01/adobe-lightroom-and-lua.html. I don&#8217;t want that level of extensibility yet, but it seems like a logical next generation when I outgrow even this new web architecture in Wii Transfer.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2007/06/learning_from_rails.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.299 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 15:04:14 -->
+<!-- Dynamic page generated in 0.259 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 14:53:11 -->

@@ -8,19 +8,71 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; indiewebcamp</title>
+	<title>indiewebcamp &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/indiewebcamp/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
+		<title>Tim Berners-Lee&#8217;s Solid</title>
+		<link>http://www.manton.org/2016/08/tim-berners-lees-solid.html</link>
+		<pubDate>Fri, 12 Aug 2016 18:53:12 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[indiewebcamp]]></category>
+		<category><![CDATA[ipfs]]></category>
+		<category><![CDATA[microblogging]]></category>
+		<category><![CDATA[microformats]]></category>
+		<category><![CDATA[openweb]]></category>
+		<category><![CDATA[solid]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4174</guid>
+		<description><![CDATA[I’ve written about IPFS before, but Solid (from Tim Berners-Lee himself, among other MIT folks) is another new proposal for a more distributed web. I wasn’t familiar with it until reading this article at Digital Trends, which first makes the case for independent content vs. the big centralized platforms: Now a handful of companies own [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I’ve <a href="http://www.manton.org/2015/09/web-history-and-ipfs.html">written about IPFS</a> before, but <a href="https://solid.mit.edu/">Solid</a> (from Tim Berners-Lee himself, among other MIT folks) is another new proposal for a more distributed web. I wasn’t familiar with it until reading <a href="http://www.digitaltrends.com/web/ways-to-decentralize-the-web/">this article at Digital Trends</a>, which first makes the case for independent content vs. the big centralized platforms:</p>
+<blockquote><p>
+  Now a handful of companies own vast swaths of web activity – Facebook for social networking, Google for searching, eBay for auctions – and quite literally own the data their users have provided and generated. This gives these companies unprecedented power over us, and gives them such a competitive advantage that it’s pretty silly to think you’re going to start up a business that’s going to beat them at their own game.
+</p></blockquote>
+<p>The article continues with the types of data you might share in a Solid application:</p>
+<blockquote><p>
+  For example, you might keep your personal information in one or several pods: the sort of data about yourself that you put into your Facebook profile; a list of your friends, family, and colleagues; your banking information; maps of where you’ve traveled; some health information. That way if someone built a new social networking application—perhaps to compete head-on with Facebook, or, more likely, to offer specialized services to people with shared interests—you could join by giving it permission to access the appropriate information in your pod.
+</p></blockquote>
+<p>One of the showcase applications is called Client-Integrated Micro-Blogging Architecture, surely named mostly for its pronounceable acronym. From the <a href="https://github.com/linkeddata/cimba">CIMBA project site</a>:</p>
+<blockquote><p>
+  CIMBA is a privacy-friendly, decentralized microblogging application that runs in your browser. It is built using the latest HTML5 technologies and Web standards. With CIMBA, people get a microblogging app that behaves like Twitter, built entirely out of parts they can control.
+</p></blockquote>
+<p>Solid and CIMBA are built on the <a href="http://www.w3.org/TR/ldp/">Linked Data Platform</a>, which in turn is based off of RDF. I’m admittedly biased against RDF, because it often brings with it an immediate sense of over-engineering — too abstracted, solving too many problems at once. I’m glad to see this activity around a distributed web, and I’ll be following Solid, but I also continue to believe that the simple microformats and APIs from the <a href="https://indieweb.org/">IndieWebCamp</a> are the best place to start.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>An open Twitter starts with the web</title>
+		<link>http://www.manton.org/2016/07/an-open-twitter-starts-with-the-web.html</link>
+		<pubDate>Sat, 23 Jul 2016 15:40:34 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[indiewebcamp]]></category>
+		<category><![CDATA[openweb]]></category>
+		<category><![CDATA[rss]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[wordpress]]></category>
+		<category><![CDATA[xmpp]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2016/07/an-open-twitter-starts-with-the-web.html</guid>
+		<description><![CDATA[Dave Winer wants an open alternative to Twitter: I want it to be friendly to Twitter, because as a user and a shareholder, and a developer who uses their platform, I want to see it thrive. But I also strongly believe we need the open system, the Central Park to Twitter&#8217;s condo buildings on Fifth [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Dave Winer wants <a href="http://scripting.com/2016/07/22/1400.html">an open alternative to Twitter</a>:</p>
+<blockquote><p>
+  I want it to be friendly to Twitter, because as a user and a shareholder, and a developer who uses their platform, I want to see it thrive. But I also strongly believe we need the open system, the <a href="http://scripting.com/2016/06/18/1324.html">Central Park</a> to Twitter&#8217;s condo buildings on Fifth Ave and Central Park West.
+</p></blockquote>
+<p>John Biesnecker, reading Dave&#8217;s post, <a href="https://gist.github.com/biesnecker/d585c1ba395ffa5c8148128372aa8e2e">suggested XMPP</a> because it&#8217;s an open standard and federated. But as great as XMPP is for messaging, it seems too different from the web; it would be like starting over. The nice thing about building on independent microblogs is that we can leverage the existing open web infrastructure: all the WordPress installs, RSS feeds, and new work from the <a href="https://indieweb.org/">IndieWebCamp</a>.</p>
+<p>That&#8217;s what I&#8217;ve tried to do for <a href="http://snippets.today/">Snippets.today</a>. Learn from the UI innovations of Twitter — the fast timeline experience, the effortless posting — but without skipping the important first step of independent web publishing.</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>Micropub and the quiet IndieWebCamp revolution</title>
 		<link>http://www.manton.org/2016/01/micropub-and-the-quiet-indiewebcamp-revolution.html</link>
-		<comments>http://www.manton.org/2016/01/micropub-and-the-quiet-indiewebcamp-revolution.html#comments</comments>
 		<pubDate>Fri, 29 Jan 2016 15:07:05 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Weblogs]]></category>
@@ -40,13 +92,10 @@
 <p>And of course the IndieWebCamp is also known for <a href="http://indiewebcamp.com/POSSE">POSSE</a>: publish on your own site, syndicate elsewhere. That strategy has helped me refine <a href="http://www.manton.org/2016/01/fine-heres-a-twitter-feed.html">my own cross-posting</a>.</p>
 <p>I don’t think it’s my imagination that <a href="http://www.manton.org/2016/01/tim-cook-swift-and-the-return-of-blogs.html">more and more</a> people are blogging again. Now’s the time to resume your blog, <a href="http://www.manton.org/2015/04/how-to-start-a-microblog.html">start a microblog</a>, and take back the future of the web <a href="http://scripting.com/liveblog/users/davewiner/2016/01/07/0801.html">from silos</a>. If we can roll some of these new standards into what we’re building and writing about, the open web will be on the right track.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/01/micropub-and-the-quiet-indiewebcamp-revolution.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Here&#8217;s a Twitter feed</title>
 		<link>http://www.manton.org/2016/01/fine-heres-a-twitter-feed.html</link>
-		<comments>http://www.manton.org/2016/01/fine-heres-a-twitter-feed.html#comments</comments>
 		<pubDate>Tue, 19 Jan 2016 14:30:00 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Weblogs]]></category>
@@ -60,7 +109,7 @@
 		<description><![CDATA[Whenever someone says &#8220;I don&#8217;t read RSS&#8221;, I actually hear &#8220;I don&#8217;t read Manton&#8217;s blog&#8221;. I could give plenty of reasons why they&#8217;re missing out by ignoring RSS — it&#8217;s still the best way to keep up with bloggers you like who aren&#8217;t linked or retweeted often enough to bubble up on Twitter — but [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>Whenever someone says &#8220;I don&#8217;t read RSS&#8221;, I actually hear &#8220;I don&#8217;t read Manton&#8217;s blog&#8221;. I could give plenty of reasons why they&#8217;re missing out by ignoring RSS — it&#8217;s still the best way to keep up with bloggers you like who aren&#8217;t linked or retweeted often enough to bubble up on Twitter — but some people won&#8217;t be convinced.</p>
 <p>Over three years ago I stopped posting to Twitter. I know it was the right move on principle because there was a real cost in exposure, with fewer people actively keeping up with what I&#8217;ve been working on. <a href="http://www.manton.org/2014/05/core_intuition_136.html">As I&#8217;ve said before</a>: it wouldn’t mean anything if it didn’t cost me anything.</p>
-<p>And yet, many people get their news from Twitter. Since I started <a href="http://www.manton.org/category/micro">microblogging on my own site</a>, I&#8217;ve had time to reflect on the roll of indie microblogging and cross-posting. I think the <a href="http://indiewebcamp.com/POSSE">IndieWebCamp has it right</a>: publish on your own site, syndicate elsewhere. I wrote more back in July <a href="http://www.manton.org/2015/07/embrace-cross-posting.html">about cross-posting</a>.</p>
+<p>And yet, many people get their news from Twitter. Since I started <a href="http://www.manton.org/category/micro">microblogging on my own site</a>, I&#8217;ve had time to reflect on the role of indie microblogging and cross-posting. I think the <a href="http://indiewebcamp.com/POSSE">IndieWebCamp has it right</a>: publish on your own site, syndicate elsewhere. I wrote more back in July <a href="http://www.manton.org/2015/07/embrace-cross-posting.html">about cross-posting</a>.</p>
 <p>Most importantly, as I work on a microblog publishing platform of my own, how can I develop a solid cross-posting feature if I don&#8217;t actively use it myself? <a href="http://www.manton.org/2015/06/microblogging-with-wordpress.html">I&#8217;ve recommended IFTTT</a> to beta testers, but only by using it myself can I know where the gaps in functionality are.</p>
 <p>So I&#8217;ve been experimenting. All of my posts now go out to the Twitter account @manton2. This was an account I created 6 years ago for testing. Except for a few of the first tweets, I&#8217;ve cleared out the test content and given it a new life.</p>
 <p>It&#8217;s worth noting some advantages and disadvantages to this:</p>
@@ -71,11 +120,9 @@
 </ul>
 <p>You can follow <a href="http://twitter.com/manton2">@manton2 on Twitter</a>. Thanks for reading.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/01/fine-heres-a-twitter-feed.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.335 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 14:09:31 -->
+<!-- Dynamic page generated in 0.254 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 14:36:18 -->

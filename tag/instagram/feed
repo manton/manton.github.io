@@ -8,189 +8,161 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; instagram</title>
+	<title>instagram &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/instagram/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 15:09:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
-		<title>Leander Public Library</title>
-		<link>http://www.manton.org/2016/04/leander-public-library.html</link>
-		<comments>http://www.manton.org/2016/04/leander-public-library.html#comments</comments>
-		<pubDate>Thu, 14 Apr 2016 01:04:04 +0000</pubDate>
+		<title>Next year&#8217;s Christmas trees</title>
+		<link>http://www.manton.org/2016/12/next-years-christmas-trees.html</link>
+		<pubDate>Sun, 11 Dec 2016 01:20:09 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Photos]]></category>
 		<category><![CDATA[instagram]]></category>
-		<category><![CDATA[newlibraries]]></category>
 
-		<guid isPermaLink="false">http://www.manton.org/?p=3858</guid>
+		<guid isPermaLink="false">http://www.manton.org/?p=4542</guid>
+		<description><![CDATA[At the Elgin Christmas tree farm.]]></description>
+				<content:encoded><![CDATA[<p><img src="http://www.manton.org/images/2016/next_years_christmas_trees.jpg" width="500" height="500" alt="Next year's Christmas trees"></p>
+<p>At the Elgin Christmas tree farm.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Campus tour last week</title>
+		<link>http://www.manton.org/2016/12/campus-tour-last-week.html</link>
+		<pubDate>Mon, 05 Dec 2016 23:34:11 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Photos]]></category>
+		<category><![CDATA[instagram]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4523</guid>
+		<description><![CDATA[University of Texas at Austin.]]></description>
+				<content:encoded><![CDATA[<p><img src="http://www.manton.org/images/2016/campus_tour_last_week.jpg" width="500" height="500" alt="Campus tour last week"></p>
+<p>University of Texas at Austin.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Walking around TCU</title>
+		<link>http://www.manton.org/2016/11/walking-around-tcu.html</link>
+		<pubDate>Thu, 24 Nov 2016 04:41:40 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Photos]]></category>
+		<category><![CDATA[instagram]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4488</guid>
+		<description><![CDATA[Frog Fountain.]]></description>
+				<content:encoded><![CDATA[<p><img src="http://www.manton.org/images/2016/walking_around_tcu.jpg" width="500" height="500" alt="Walking around TCU"></p>
+<p>Frog Fountain.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Fake news and Instagram</title>
+		<link>http://www.manton.org/2016/11/fake-news-and-instagram.html</link>
+		<pubDate>Tue, 22 Nov 2016 17:14:46 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[instagram]]></category>
+		<category><![CDATA[news]]></category>
+		<category><![CDATA[social]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4484</guid>
+		<description><![CDATA[Twitter has retweets. Facebook has sharing. But Instagram has no built-in reposting. On Instagram, there&#8217;s no instantaneous way to share someone else&#8217;s post to all of your followers. The first version of Instagram was built by a very small team. They&#8217;ve always grown slowly and expanded the UI thoughtfully. I think the lack of a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Twitter has retweets. Facebook has sharing. But Instagram has no built-in reposting. On Instagram, there&#8217;s no instantaneous way to share someone else&#8217;s post to all of your followers.</p>
+<p>The first version of Instagram was built by a very small team. They&#8217;ve always grown slowly and expanded the UI thoughtfully. I think the lack of a repost feature was deliberate.</p>
+<p>When you have to put a little work into posting, you take it more seriously. I wonder if <a href="http://www.manton.org/2016/11/todays-social-networks-are-broken.html">fake news</a> would have spread so quickly on Facebook if it was a little more difficult to share an article before you&#8217;ve read more than the headline.</p>
+<p>It&#8217;s not easy to build software that encourages good behavior. When I look at my Instagram timeline I see beautiful photos, hand-drawn art, and snapshots of everyday life. I see the very best of the world. It&#8217;s not the full truth, but it&#8217;s all true.</p>
+<p>Instagram was no accident. The only question: was it unique to photos, or can the same quality be applied to microblogging?</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Election Day</title>
+		<link>http://www.manton.org/2016/11/election-day.html</link>
+		<pubDate>Tue, 08 Nov 2016 18:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Photos]]></category>
+		<category><![CDATA[instagram]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4449</guid>
 		<description><![CDATA[]]></description>
-				<content:encoded><![CDATA[<p><img src="http://www.manton.org/images/2016/leander_public_library.jpg" width="500" height="500" alt="Leander Public Library"></p>
+				<content:encoded><![CDATA[<p><img src="http://www.manton.org/images/2016/election_day.jpg" width="500" height="500" alt="Election Day" /></p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/04/leander-public-library.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
-		<title>Bee Cave Public Library</title>
-		<link>http://www.manton.org/2016/04/bee-cave-public-library.html</link>
-		<comments>http://www.manton.org/2016/04/bee-cave-public-library.html#comments</comments>
-		<pubDate>Wed, 13 Apr 2016 01:35:11 +0000</pubDate>
+		<title>Pink clouds</title>
+		<link>http://www.manton.org/2016/11/pink-clouds.html</link>
+		<pubDate>Mon, 07 Nov 2016 00:36:49 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Photos]]></category>
 		<category><![CDATA[instagram]]></category>
-		<category><![CDATA[newlibraries]]></category>
 
-		<guid isPermaLink="false">http://www.manton.org/?p=3853</guid>
+		<guid isPermaLink="false">http://www.manton.org/?p=4432</guid>
 		<description><![CDATA[]]></description>
-				<content:encoded><![CDATA[<p><img src="http://www.manton.org/images/2016/bee_cave_public_library.jpg" width="500" height="500" alt="Bee Cave Public Library"></p>
+				<content:encoded><![CDATA[<p><img src="http://www.manton.org/images/2016/pink_clouds.jpg" width="500" height="500" alt="Pink clouds" /></p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/04/bee-cave-public-library.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
-		<title>Doll house Little Free Library</title>
-		<link>http://www.manton.org/2016/04/doll-house-little-free-library.html</link>
-		<comments>http://www.manton.org/2016/04/doll-house-little-free-library.html#comments</comments>
-		<pubDate>Mon, 11 Apr 2016 02:20:25 +0000</pubDate>
+		<title>Rainy morning at the book festival</title>
+		<link>http://www.manton.org/2016/11/rainy-morning-at-the-book-festival.html</link>
+		<pubDate>Sun, 06 Nov 2016 00:09:37 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Photos]]></category>
 		<category><![CDATA[instagram]]></category>
-		<category><![CDATA[newlibraries]]></category>
 
-		<guid isPermaLink="false">http://www.manton.org/?p=3845</guid>
-		<description><![CDATA[For the 3rd Sunday in a row, I&#8217;ve taken a break from visiting a normal library and instead found a Little Free Library to exchange a book at. They&#8217;re all very unique, often made by hand. This one was made from a doll house, which opens both from the bottom front and roof for two [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><img src="http://www.manton.org/images/2016/doll_house_little_free_library.jpg" width="500" height="500" alt="Doll house Little Free Library"></p>
-<p>For the 3rd Sunday in a row, I&#8217;ve taken a break from visiting a normal library and instead found a Little Free Library to exchange a book at. They&#8217;re all very unique, often made by hand. This one was made from a doll house, which opens both from the bottom front and roof for two floors of books.</p>
+		<guid isPermaLink="false">http://www.manton.org/?p=4427</guid>
+		<description><![CDATA[From the Texas State Capitol.]]></description>
+				<content:encoded><![CDATA[<p><img src="http://www.manton.org/images/2016/rainy_morning_book_festival.jpg" width="500" height="500" alt="Rainy morning at the book festival"></p>
+<p>From the Texas State Capitol.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/04/doll-house-little-free-library.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
-		<title>Pond view at Lake Travis Community Library</title>
-		<link>http://www.manton.org/2016/04/pond-view-at-lake-travis-community-library.html</link>
-		<comments>http://www.manton.org/2016/04/pond-view-at-lake-travis-community-library.html#comments</comments>
-		<pubDate>Sat, 09 Apr 2016 21:42:37 +0000</pubDate>
+		<title>Hotel Emma library</title>
+		<link>http://www.manton.org/2016/10/hotel-emma-library.html</link>
+		<pubDate>Sun, 30 Oct 2016 17:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Photos]]></category>
 		<category><![CDATA[instagram]]></category>
-		<category><![CDATA[newlibraries]]></category>
 
-		<guid isPermaLink="false">http://www.manton.org/?p=3841</guid>
+		<guid isPermaLink="false">http://www.manton.org/?p=4414</guid>
+		<description><![CDATA[At the Pearl.]]></description>
+				<content:encoded><![CDATA[<p><img src="http://www.manton.org/images/2016/hotel_emma_library.jpg" width="500" height="500" alt="Hotel Emma library" /></p>
+<p>At <a href="http://www.atpearl.com/">the Pearl</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Landa Library</title>
+		<link>http://www.manton.org/2016/10/landa-library.html</link>
+		<pubDate>Sat, 29 Oct 2016 20:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Photos]]></category>
+		<category><![CDATA[instagram]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4411</guid>
+		<description><![CDATA[From the weekend in San Antonio.]]></description>
+				<content:encoded><![CDATA[<p><img src="http://www.manton.org/images/2016/landa_library.jpg" width="500" height="500" alt="Landa Library" /></p>
+<p>From the weekend in San Antonio.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Table of cubes</title>
+		<link>http://www.manton.org/2016/10/table-of-cubes.html</link>
+		<pubDate>Sat, 22 Oct 2016 17:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Photos]]></category>
+		<category><![CDATA[instagram]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4397</guid>
 		<description><![CDATA[]]></description>
-				<content:encoded><![CDATA[<p><img src="http://www.manton.org/images/2016/pond_view_lake_travis_community_library.jpg" width="500" height="500" alt="Pond view at Lake Travis Community Library" /></p>
+				<content:encoded><![CDATA[<p><img src="http://www.manton.org/images/2016/table_of_cubes.jpg" width="500" height="500" alt="Table of cubes" /></p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/04/pond-view-at-lake-travis-community-library.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Sculpture outside Ruiz Branch</title>
-		<link>http://www.manton.org/2016/04/sculpture-outside-ruiz-branch.html</link>
-		<comments>http://www.manton.org/2016/04/sculpture-outside-ruiz-branch.html#comments</comments>
-		<pubDate>Tue, 05 Apr 2016 00:24:07 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Photos]]></category>
-		<category><![CDATA[instagram]]></category>
-		<category><![CDATA[newlibraries]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=3824</guid>
-		<description><![CDATA[]]></description>
-				<content:encoded><![CDATA[<p><img src="http://www.manton.org/images/2016/sculpture_outside_ruiz_branch.jpg" width="500" height="500" alt="Sculpture outside Ruiz Branch"></p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/04/sculpture-outside-ruiz-branch.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Books rule</title>
-		<link>http://www.manton.org/2016/04/books-rule.html</link>
-		<comments>http://www.manton.org/2016/04/books-rule.html#comments</comments>
-		<pubDate>Mon, 04 Apr 2016 01:22:40 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Photos]]></category>
-		<category><![CDATA[instagram]]></category>
-		<category><![CDATA[newlibraries]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=3820</guid>
-		<description><![CDATA[]]></description>
-				<content:encoded><![CDATA[<p><img src="http://www.manton.org/images/2016/books_rule.jpg" width="500" height="500" alt="Books rule" /></p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/04/books-rule.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Working from Laura Bush Community Library</title>
-		<link>http://www.manton.org/2016/03/working-from-laura-bush-community-library.html</link>
-		<comments>http://www.manton.org/2016/03/working-from-laura-bush-community-library.html#comments</comments>
-		<pubDate>Tue, 29 Mar 2016 16:20:31 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Photos]]></category>
-		<category><![CDATA[instagram]]></category>
-		<category><![CDATA[newlibraries]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=3799</guid>
-		<description><![CDATA[]]></description>
-				<content:encoded><![CDATA[<p><img src="http://www.manton.org/images/2016/working_from_laura_bush_community_library.jpg" width="500" height="500" alt="Working from Laura Bush Community Library" /></p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/03/working-from-laura-bush-community-library.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Take a book, return a book</title>
-		<link>http://www.manton.org/2016/03/take-a-book-return-a-book.html</link>
-		<comments>http://www.manton.org/2016/03/take-a-book-return-a-book.html#comments</comments>
-		<pubDate>Sun, 27 Mar 2016 21:19:40 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Photos]]></category>
-		<category><![CDATA[instagram]]></category>
-		<category><![CDATA[newlibraries]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=3788</guid>
-		<description><![CDATA[]]></description>
-				<content:encoded><![CDATA[<p><img src="http://www.manton.org/images/2016/take_book_return_book.jpg" width="500" height="500" alt="Take a book, return a book" /></p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/03/take-a-book-return-a-book.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Westbank Community Library</title>
-		<link>http://www.manton.org/2016/03/westbank-community-library.html</link>
-		<comments>http://www.manton.org/2016/03/westbank-community-library.html#comments</comments>
-		<pubDate>Fri, 25 Mar 2016 20:30:27 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Photos]]></category>
-		<category><![CDATA[instagram]]></category>
-		<category><![CDATA[newlibraries]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=3777</guid>
-		<description><![CDATA[]]></description>
-				<content:encoded><![CDATA[<p><img src="http://www.manton.org/images/2016/westbank_community_library.jpg" width="500" height="500" alt="Westbank Community Library" /></p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/03/westbank-community-library.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Charging my car at the library</title>
-		<link>http://www.manton.org/2016/03/charging-my-car-at-the-library.html</link>
-		<comments>http://www.manton.org/2016/03/charging-my-car-at-the-library.html#comments</comments>
-		<pubDate>Thu, 24 Mar 2016 20:07:28 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Photos]]></category>
-		<category><![CDATA[instagram]]></category>
-		<category><![CDATA[newlibraries]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=3771</guid>
-		<description><![CDATA[At the Howson Branch.]]></description>
-				<content:encoded><![CDATA[<p><img src="http://www.manton.org/images/2016/charging_my_car_library.jpg" width="500" height="500" alt="Charging my car at the library" /></p>
-<p>At the Howson Branch.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/03/charging-my-car-at-the-library.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.328 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 13:49:31 -->
+<!-- Dynamic page generated in 0.258 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 12:40:59 -->

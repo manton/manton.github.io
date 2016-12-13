@@ -8,19 +8,18 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; crosspost</title>
+	<title>crosspost &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/crosspost/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
 		<title>Here&#8217;s a Twitter feed</title>
 		<link>http://www.manton.org/2016/01/fine-heres-a-twitter-feed.html</link>
-		<comments>http://www.manton.org/2016/01/fine-heres-a-twitter-feed.html#comments</comments>
 		<pubDate>Tue, 19 Jan 2016 14:30:00 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Weblogs]]></category>
@@ -34,7 +33,7 @@
 		<description><![CDATA[Whenever someone says &#8220;I don&#8217;t read RSS&#8221;, I actually hear &#8220;I don&#8217;t read Manton&#8217;s blog&#8221;. I could give plenty of reasons why they&#8217;re missing out by ignoring RSS — it&#8217;s still the best way to keep up with bloggers you like who aren&#8217;t linked or retweeted often enough to bubble up on Twitter — but [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>Whenever someone says &#8220;I don&#8217;t read RSS&#8221;, I actually hear &#8220;I don&#8217;t read Manton&#8217;s blog&#8221;. I could give plenty of reasons why they&#8217;re missing out by ignoring RSS — it&#8217;s still the best way to keep up with bloggers you like who aren&#8217;t linked or retweeted often enough to bubble up on Twitter — but some people won&#8217;t be convinced.</p>
 <p>Over three years ago I stopped posting to Twitter. I know it was the right move on principle because there was a real cost in exposure, with fewer people actively keeping up with what I&#8217;ve been working on. <a href="http://www.manton.org/2014/05/core_intuition_136.html">As I&#8217;ve said before</a>: it wouldn’t mean anything if it didn’t cost me anything.</p>
-<p>And yet, many people get their news from Twitter. Since I started <a href="http://www.manton.org/category/micro">microblogging on my own site</a>, I&#8217;ve had time to reflect on the roll of indie microblogging and cross-posting. I think the <a href="http://indiewebcamp.com/POSSE">IndieWebCamp has it right</a>: publish on your own site, syndicate elsewhere. I wrote more back in July <a href="http://www.manton.org/2015/07/embrace-cross-posting.html">about cross-posting</a>.</p>
+<p>And yet, many people get their news from Twitter. Since I started <a href="http://www.manton.org/category/micro">microblogging on my own site</a>, I&#8217;ve had time to reflect on the role of indie microblogging and cross-posting. I think the <a href="http://indiewebcamp.com/POSSE">IndieWebCamp has it right</a>: publish on your own site, syndicate elsewhere. I wrote more back in July <a href="http://www.manton.org/2015/07/embrace-cross-posting.html">about cross-posting</a>.</p>
 <p>Most importantly, as I work on a microblog publishing platform of my own, how can I develop a solid cross-posting feature if I don&#8217;t actively use it myself? <a href="http://www.manton.org/2015/06/microblogging-with-wordpress.html">I&#8217;ve recommended IFTTT</a> to beta testers, but only by using it myself can I know where the gaps in functionality are.</p>
 <p>So I&#8217;ve been experimenting. All of my posts now go out to the Twitter account @manton2. This was an account I created 6 years ago for testing. Except for a few of the first tweets, I&#8217;ve cleared out the test content and given it a new life.</p>
 <p>It&#8217;s worth noting some advantages and disadvantages to this:</p>
@@ -45,13 +44,10 @@
 </ul>
 <p>You can follow <a href="http://twitter.com/manton2">@manton2 on Twitter</a>. Thanks for reading.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/01/fine-heres-a-twitter-feed.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Silos as shortcuts</title>
 		<link>http://www.manton.org/2016/01/silos-as-shortcuts.html</link>
-		<comments>http://www.manton.org/2016/01/silos-as-shortcuts.html#comments</comments>
 		<pubDate>Fri, 15 Jan 2016 21:56:00 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Weblogs]]></category>
@@ -74,13 +70,10 @@
 </p></blockquote>
 <p>I&#8217;ve been thinking a lot about this too. For beta users of my new product, I&#8217;ve been telling people to use IFTTT to wire up cross-posting to Twitter. But that&#8217;s another step that will be confusing to people — an opportunity to lose interest and give up. Cross-posting should be a core feature.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/01/silos-as-shortcuts.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Embrace cross-posting</title>
 		<link>http://www.manton.org/2015/07/embrace-cross-posting.html</link>
-		<comments>http://www.manton.org/2015/07/embrace-cross-posting.html#comments</comments>
 		<pubDate>Fri, 17 Jul 2015 18:00:26 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Weblogs]]></category>
@@ -96,11 +89,9 @@
 <p><a href="http://www.manton.org/2015/07/sneak-peek-screenshot.html">It’s no secret</a> that I’m building a microblog aggregation and publishing service. The goal is for us to get back to our roots with blogging — to write on our own web sites first, not as an afterthought to Twitter. Cross-posting is an important bootstrap for that.</p>
 <p>If you don’t have a blog, <em>start one today</em>. It takes minutes to set up, and hardly any more time to wire up automatic tweeting <a href="http://www.manton.org/2015/06/microblogging-with-wordpress.html">via IFTTT from your RSS feed</a>. Start with cross-posting and see if something interesting evolves from there.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/07/embrace-cross-posting.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.300 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 15:00:49 -->
+<!-- Dynamic page generated in 0.255 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 14:44:07 -->

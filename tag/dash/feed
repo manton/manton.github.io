@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>dash &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/dash/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Kapeli&#8217;s reputation</title>
+		<link>http://www.manton.org/2016/10/kapelis-reputation.html</link>
+		<pubDate>Tue, 11 Oct 2016 16:46:46 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[dash]]></category>
+		<category><![CDATA[kapeli]]></category>
+		<category><![CDATA[rejections]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4355</guid>
+		<description><![CDATA[I&#8217;ve been using Dash more and more over the last month, but I realized with all this controversy that I had never actually bothered to pay for the app. Whoops! The trial reminds you every once in a while, but otherwise it&#8217;s pretty usable without paying, and I&#8217;m lazy. Kapeli&#8217;s iOS revenue has vanished, but [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;ve been using <a href="https://kapeli.com/dash">Dash</a> more and more over the last month, but I realized with <a href="http://daringfireball.net/2016/10/apple_dash_controversy">all this controversy</a> that I had never actually bothered to pay for the app. Whoops! The trial reminds you every once in a while, but otherwise it&#8217;s pretty usable without paying, and I&#8217;m lazy.</p>
+<p>Kapeli&#8217;s iOS revenue has vanished, but the developer still has his direct Mac sales. So I set out to finally buy a copy of the Mac version.</p>
+<p>And then during checkout, sending him my name and contact info, I hesitated. Do I trust this developer? Is he trying to do the right thing for customers, as every indication from his public blog posts and tweets about Dash show, or is he a scammer, conducting fraudulent activity in the App Store as Apple accuses?</p>
+<p>That&#8217;s the damage Apple has done in going to the press and smearing him. They&#8217;ve destroyed the goodwill he had in the community from his well-respected app. I always want to give people the benefit of the doubt, yet I hesitated.</p>
+<p>At the Çingleton conference in 2013, Christina Warren talked about building a reputation for herself. One of the slides <a href="http://www.manton.org/2013/12/your_name.html">will stick with me for a long time</a>: &#8220;All I have is my name,&#8221; she said, so she couldn&#8217;t risk attaching her name to something she didn&#8217;t believe in.</p>
+<p>Kapeli developer Bogdan Popescu has made some mistakes. There&#8217;s a lot of smoke, but I still believe there&#8217;s no fire, no actual fraudulent activity orchestrated by Bogdan himself. That hasn&#8217;t stopped Apple from burning his reputation to the ground.</p>
+<p>As long as Apple has <a href="http://www.manton.org/2016/10/apples-control-over-app-hosting.html">so much control over app distribution</a>, so much power over an iOS developer&#8217;s business and reputation, then Apple&#8217;s treatment of and communication with developers has to be perfect. <a href="http://mjtsai.com/blog/2016/10/10/apple-and-kapeli-respond/">Michael Tsai covers</a> some of the ways Apple mishandled this. The fallout in the developer community has been more severe than is warranted from the incomplete and misleading facts in Apple&#8217;s statement.</p>
+<p>I finished checking out and paid for Dash. It&#8217;s a great app.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Apple&#8217;s control over app hosting</title>
+		<link>http://www.manton.org/2016/10/apples-control-over-app-hosting.html</link>
+		<pubDate>Thu, 06 Oct 2016 20:44:22 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[curation]]></category>
+		<category><![CDATA[dash]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[rejections]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4333</guid>
+		<description><![CDATA[High-profile app rejections aren&#8217;t as common as they once were, so it&#8217;s even more shocking when an entire developer account is banned from the App Store. Dash from Kapeli ran into this after trying to migrate an account: Today I called them and they confirmed my account migration went through and that everything is okay [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>High-profile app rejections aren&#8217;t as common as they once were, so it&#8217;s even more shocking when an entire developer account is banned from the App Store. <a href="https://blog.kapeli.com/apple-removed-dash-from-the-app-store">Dash from Kapeli ran into this</a> after trying to migrate an account:</p>
+<blockquote><p>
+  Today I called them and they confirmed my account migration went through and that everything is okay as far as they can tell. A few hours ago I received a “Notice of Termination” email, saying that my account was terminated due to fraudulent conduct.
+</p></blockquote>
+<p><a href="http://inessential.com/2016/10/06/apples_judicial_system">Brent Simmons writes</a> about the lack of transparency and minimal appeal process:</p>
+<blockquote><p>
+  While this is legal, and within Apple’s rights, it’s not what we’ve come to expect from a moral judicial system. No matter what the context, we expect that the accused see the evidence against them, we expect avenues for appeal to be made available, and we expect proportional penalties.
+</p></blockquote>
+<p>I hope this misunderstanding with Dash will be cleared up soon. But issues like this will never completely go away until Apple separates app distribution from curation. As long as there is a centralized, tightly-controlled system for installing iOS apps, mistakes will happen.</p>
+<p>Imagine instead if the App Store worked more like the web. Google dominates search, but they can&#8217;t shut down your web site. If you try to game the system, Google can remove you from search and limit your exposure. Likewise, developers should be able to distribute iOS apps with minimal involvement from Apple, yet apps that haven&#8217;t passed formal review won&#8217;t be searchable without a direct link, won&#8217;t ever be featured, and won&#8217;t show up in the top 100 lists.</p>
+<p>A more open system for app distribution would cleanly solve several problems with the App Store. Apple would be more free to remove clutter from search results without necessarily purging apps from the store. And there would be a natural temporary consequence for suspected fraudulent behavior: simply demote the app, delisting it from search and featured collections.</p>
+<p>Apple should focus on highlighting the best apps within a system that lets the app review team make occasional mistakes. There shouldn&#8217;t be such an easy toggle that wipes out an indie developer&#8217;s business.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.250 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 14:53:25 -->

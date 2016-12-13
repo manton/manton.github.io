@@ -8,19 +8,42 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; applepencil</title>
+	<title>applepencil &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/applepencil/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
+		<title>Taking the Apple Pencil with you</title>
+		<link>http://www.manton.org/2016/04/taking-the-apple-pencil-with-you.html</link>
+		<pubDate>Sat, 16 Apr 2016 16:59:36 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[applepencil]]></category>
+		<category><![CDATA[ipad]]></category>
+		<category><![CDATA[sketchbook]]></category>
+		<category><![CDATA[stylus]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2016/04/taking-the-apple-pencil-with-you.html</guid>
+		<description><![CDATA[One of the best pieces of advice that I never followed very well is that if you want to be a better artist, always have a sketchbook with you. That’s why I’ve been so excited about the Apple Pencil, since it transforms the tablet you might already have with you into a great sketchbook too. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>One of the best pieces of advice that I never followed very well is that if you want to be a better artist, always have a sketchbook with you. That’s why I’ve been so excited about the Apple Pencil, since it transforms the tablet you might already have with you into a great sketchbook too. There&#8217;s only one problem: you have to actual remember to bring the Apple Pencil everywhere.</p>
+<p>Myke Hurley gave <a href="http://mykewasright.com/post/142625337481/apple-pencil-hacks">an overview on his blog</a> about some of the additions he&#8217;s purchased to customize his Apple Pencil, like a clip, stickers, and this loop to hold it to the iPad Pro:</p>
+<blockquote><p>
+  Wherever my iPad Pro goes, I want the Pencil to be with it. So to make sure I didn’t have yet another thing to remember, I decided that I had to find a way to attach the Pencil to the iPad. And that’s when I came across the <a href="http://www.cultpens.com/i/q/LC22369/leuchtturm1917-pen-loop">Leuchtturm1917 Pen Loop</a>.
+</p></blockquote>
+<p>And on <a href="http://daringfireball.net/thetalkshow/2016/04/12/ep-151">the latest The Talk Show</a>, Serenity Caldwell shares the tip of buying a $2 Micron pen and snapping off the clip to use on the Apple Pencil. <a href="https://twitter.com/DogRoomProds/status/669209496720416769">See this tweet</a> for what it looks like.</p>
+<p>Lately I had been carrying the iPad Pro around <a href="http://www.manton.org/2016/04/3815.html">without a bag</a>. This also meant leaving my Apple Pencil at home. While I don&#8217;t use my Apple Pencil every day, <em>I want to</em>. With a bag I can carry the iPad more easily and also always have a spot for headphones and the Apple Pencil.</p>
+<p>I ordered the Tom Bihn <a href="https://www.tombihn.com/collections/briefcases-and-messenger-bags/products/daylight-briefcase">Daylight Briefcase</a> and I&#8217;ve been using it all week. You can see it in <a href="http://www.manton.org/2016/04/bee-cave-public-library.html">this photo</a> I took while setting up to work at a library the other day. I haven&#8217;t used a messenger-style bag in a long time, maybe in forever. (Apple handed out one to WWDC attendees years ago before they transitioned to the jackets phase of WWDC of freebies, but I gave most of my bags away.)</p>
+<p>So far I&#8217;m really enjoying having a bag that doesn’t feel oversized for the iPad Pro. It&#8217;s much smaller than my full backpack. I expect that it will be perfect not just around town but also for traveling light.</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>Sticking with the big iPad Pro</title>
 		<link>http://www.manton.org/2016/03/sticking-with-the-big-ipad-pro.html</link>
-		<comments>http://www.manton.org/2016/03/sticking-with-the-big-ipad-pro.html#comments</comments>
 		<pubDate>Wed, 23 Mar 2016 16:05:06 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -38,11 +61,9 @@
 </p></blockquote>
 <p>I realized this week that I was wasting time wondering which iPad is the best for me. It’s the ol&#8217; <a href="https://en.wikipedia.org/wiki/The_Paradox_of_Choice">paradox of choice</a>. So to cement the decision, I went by the Apple Store yesterday and picked up a Smart Keyboard for the 13-inch. I’ve been meaning to get one for months, and now that I have it, it makes even less sense to trade in my iPad for a different one. (The keyboard really does transform the iPad. It&#8217;s great.)</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/03/sticking-with-the-big-ipad-pro.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.288 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 13:58:53 -->
+<!-- Dynamic page generated in 0.251 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 15:02:26 -->

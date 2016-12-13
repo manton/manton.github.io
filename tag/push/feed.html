@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>push &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/push/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:15:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Prompt for push notifications</title>
+		<link>http://www.manton.org/2014/02/prompt_for_push.html</link>
+		<pubDate>Fri, 28 Feb 2014 16:40:04 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[notifications]]></category>
+		<category><![CDATA[push]]></category>
+		<category><![CDATA[sunlit]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/02/prompt_for_push.html</guid>
+		<description><![CDATA[David Smith says to not bother the user with alerts on first launch: “I have just sorted through the App Store and settled on trying out your app. I open it up and you immediately ask if you can send me Push Notifications? I have no context about what these are going to be used [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>David Smith says to <a href="http://david-smith.org/blog/2014/02/28/please-dont-push-me/">not bother the user with alerts on first launch</a>:</p>
+<blockquote><p>
+  “I have just sorted through the App Store and settled on trying out your app. I open it up and you immediately ask if you can send me Push Notifications? I have no context about what these are going to be used for or why they might be useful to me.”
+</p></blockquote>
+<p>I agree. For <a href="http://sunlit.io/">Sunlit</a>, we only prompt to enable push notifications after you’ve chosen to enable sharing for a story. While it might be useful to have push notifications for everyone, by waiting until we <em>really</em> need it, most users are never bothered with the alert. And it forced us to focus on specific and valuable uses of notifications, such as sending a push notification when someone subscribes to your shared story.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Push-based sync</title>
+		<link>http://www.manton.org/2011/07/pushbased_sync.html</link>
+		<pubDate>Fri, 01 Jul 2011 16:13:37 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[bookshelf]]></category>
+		<category><![CDATA[icloud]]></category>
+		<category><![CDATA[notes]]></category>
+		<category><![CDATA[push]]></category>
+		<category><![CDATA[sync]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2011/07/pushbased_sync.html</guid>
+		<description><![CDATA[&#8220;Guy English writes about iCloud&#8221;:http://kickingbear.com/blog/archives/202 and the magic glue (Push Notifications&#8217; persistent connection) that makes it work: &#8220;Each of these new features tickle the persistent &#8216;push&#8217; connection and trigger some action on the device. The short-form state may be transmitted immediately and set on any connected device within moments. Document syncing is likely to trigger [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>&#8220;Guy English writes about iCloud&#8221;:http://kickingbear.com/blog/archives/202 and the magic glue (Push Notifications&#8217; persistent connection) that makes it work:</p>
+<blockquote><p>&#8220;Each of these new features tickle the persistent &#8216;push&#8217; connection and trigger some action on the device. The short-form state may be transmitted immediately and set on any connected device within moments. Document syncing is likely to trigger a negotiation process to compare the state on any one device with The Truth stored on Apple servers and replace the document on the device with the latest revision &mdash; this has the advantage of limiting the window between syncing where conflicts are most likely to occur.&#8221;</p></blockquote>
+<p>Sync speed matters. The first note sharing server I built for VitalSource years ago assumed a lot of offline time, and despite &#8220;my blogging in 2007 that it was&#8221;:http://www.manton.org/2007/01/bookshelf_note_sharing.html &#8220;magic&#8221;, in practice it could take 5-10 minutes before all your computers got their act together to get a set of highlights completely synced. With that kind of lag, note edits might happen on a client in the meantime, so we remembered conflicts everywhere and had a UI for resolving them.</p>
+<p>Too complicated. The new system, recently rolled out in Bookshelf for iPhone and iPad, syncs so much more efficiently and quickly that conflicts don&#8217;t need the same emphasis. We can throw away a bunch of code and simplify the user interface.</p>
+<p>I&#8217;ve yet to do anything with iCloud except read the release notes and sit through a couple WWDC sessions, but we&#8217;re going to have a fantastic platform if it can deliver the same speed and reliability of Push Notifications. Guy&#8217;s post is the first I&#8217;ve seen to connect the dots, capturing how well-positioned Apple is to use this plumbing for all sorts of stuff.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.292 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 16:17:47 -->

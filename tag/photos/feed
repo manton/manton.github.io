@@ -8,19 +8,41 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; photos</title>
+	<title>photos &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/photos/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 15:09:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
+		<title>Where I post everything</title>
+		<link>http://www.manton.org/2016/12/where-i-post-everything.html</link>
+		<pubDate>Tue, 13 Dec 2016 15:09:38 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[feed]]></category>
+		<category><![CDATA[microblog]]></category>
+		<category><![CDATA[photos]]></category>
+		<category><![CDATA[rss]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4555</guid>
+		<description><![CDATA[My content is all on this blog or linked from it, but if you&#8217;re following RSS feeds or Twitter it&#8217;s not as obvious where everything is posted. Here&#8217;s a summary to clear things up. Microblog posts: Posted here and in a special RSS feed. Also automatically cross-posted to Twitter and App.net, with some occasional truncation. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>My content is all on this blog or linked from it, but if you&#8217;re following RSS feeds or Twitter it&#8217;s not as obvious where everything is posted. Here&#8217;s a summary to clear things up.</p>
+<p><strong>Microblog posts:</strong> Posted here and in <a href="http://www.manton.org/snippets.xml">a special RSS feed</a>. Also automatically cross-posted to <a href="https://twitter.com/manton2">Twitter</a> and App.net, with some occasional truncation.</p>
+<p><strong>Longer posts:</strong> Posted here and in <a href="http://www.manton.org/rss.xml">the default RSS feed</a>. Also automatically cross-posted to Twitter and App.net with the title and link. Twitter cross-posting is handled by my upcoming <a href="http://micro.blog/">Micro.blog</a> platform.</p>
+<p><strong>Photos:</strong> Posted <a href="https://www.instagram.com/manton/">to Instagram</a> and then copied here <a href="http://www.manton.org/2016/03/blogging-your-photos.html">using this workflow</a>. They don&#8217;t show up in either of the RSS feeds above. They&#8217;re not cross-posted to Twitter.</p>
+<p><strong>Timetable:</strong> Posted to <a href="http://timetable.fm/">timetable.fm</a> which has its own feed. Discoverable in your favorite podcast client.</p>
+<p><strong>Core Intuition:</strong> Posted to <a href="http://www.coreint.org/">coreint.org</a>. I&#8217;ll usually post a link here on the blog for each new episode.</p>
+<p><strong>All posts:</strong> Switching to WordPress brought a new global RSS feed, but I redirect it to the longer posts for now. There&#8217;s a new <a href="http://www.manton.org/everything.xml">everything RSS feed</a> which contains all posts: microblog, full posts, and photos. Enjoy!</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>Photo blogging follow-up</title>
 		<link>http://www.manton.org/2016/03/photo-blogging-follow-up.html</link>
-		<comments>http://www.manton.org/2016/03/photo-blogging-follow-up.html#comments</comments>
 		<pubDate>Sun, 20 Mar 2016 15:17:45 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Photography]]></category>
@@ -41,13 +63,10 @@
 </p></blockquote>
 <p>Of course, Federico has written many times about Workflow. He has an article about <a href="https://www.macstories.net/ios/publishing-articles-to-wordpress-with-workflow-on-ios/">using Workflow to post to WordPress</a>, and tips and example workflows in the MacStories Club email. His podcast <a href="https://www.relay.fm/canvas">Canvas</a> with Fraser Speirs also routinely discusses workflows.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/03/photo-blogging-follow-up.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Blogging your photos</title>
 		<link>http://www.manton.org/2016/03/blogging-your-photos.html</link>
-		<comments>http://www.manton.org/2016/03/blogging-your-photos.html#comments</comments>
 		<pubDate>Tue, 08 Mar 2016 18:16:45 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Photography]]></category>
@@ -75,13 +94,10 @@
 <p>It’s not bad. You can <a href="https://workflow.is/workflows/75265d33bcd64c4d8485b2644de7df17">see the workflow here</a>. I’ve uploaded a bunch of my most recent Instagram photos this way. I’m not sure whether I’ll go back and mirror all the old ones.</p>
 <p>These photos live under a new <a href="http://www.manton.org/category/photos">Photos category</a>. I’ve excluded this category from the main RSS feed that I use for cross-posting, so they won’t automatically go to Twitter. You can continue to <a href="https://www.instagram.com/manton/">follow me on Instagram</a> if you prefer that.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/03/blogging-your-photos.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Instagram hits 400 million users</title>
 		<link>http://www.manton.org/2015/09/instagram-hits-400-million-users.html</link>
-		<comments>http://www.manton.org/2015/09/instagram-hits-400-million-users.html#comments</comments>
 		<pubDate>Wed, 23 Sep 2015 14:34:12 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -98,13 +114,10 @@
 </p></blockquote>
 <p>Impressive growth, but it fits. Instagram has crafted a user experience that encourages thoughtful posts and never feels overwhelming in the way a Twitter or Facebook timeline can be. If Instagram was a paid product, I bet Instagram&#8217;s <a href="https://baremetrics.com/academy/saas-churn">churn rate</a> would be the lowest of any of the big social networks. They did it with a small team and weren&#8217;t afraid to grow slowly.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/09/instagram-hits-400-million-users.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Google Photos</title>
 		<link>http://www.manton.org/2015/06/google-photos.html</link>
-		<comments>http://www.manton.org/2015/06/google-photos.html#comments</comments>
 		<pubDate>Thu, 04 Jun 2015 16:20:39 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Photography]]></category>
@@ -125,13 +138,10 @@
 <p>Some of the random searches that work out of the box to filter my photos: “beach”, “trains”, “New York City”, “Oregon and 2013”, “road trip”, “party”, “basketball”, “Christmas tree”. I never saw a demo or tutorial for how to use Google Photos; I just type stuff in and it mostly works, discovering photos and events. And on top of that, there’s also the automatic stories and collages, which is something we always wanted to build for <a href="http://sunlit.io/">Sunlit</a>.</p>
 <p>My family photos are the most important files I have on my computer, and I very rarely share any photos of my kids publicly. But ironically I’m willing to overlook some of the privacy concerns around this exactly <em>because</em> the photos are so valuable to me. I want multiple copies in the cloud, and I want the power of search that Google has built.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/06/google-photos.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Write locally, mirror globally</title>
 		<link>http://www.manton.org/2014/04/write_locally_mirror.html</link>
-		<comments>http://www.manton.org/2014/04/write_locally_mirror.html#comments</comments>
 		<pubDate>Wed, 30 Apr 2014 19:22:01 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Weblogs]]></category>
@@ -154,13 +164,10 @@
 <p>Unlike a distributed platform that works at the level of raw data, like BitTorrent, this new system should work natively with well-understood common files: text, photos, video, and the glue (usually HTML, Markdown, or JSON) that makes a collection meaningful. Instead of yet another generic sync system, it’s a platform that understands publishing, with adapters to flow content into each mirror’s native storage.</p>
 <p>If you accept that this is something worth doing, then every place we put our content must be classified as either an original source or a mirror. And this brings us back to Twitter. Because while I think the next 5 years for Twitter will be strong, I’m not convinced that it will last 50 years. Therefore, Twitter cannot be an original source of data; it must be just one of several mirrors for micro-blogging.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/04/write_locally_mirror.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>We love music</title>
 		<link>http://www.manton.org/2014/02/we_love_music.html</link>
-		<comments>http://www.manton.org/2014/02/we_love_music.html#comments</comments>
 		<pubDate>Thu, 06 Feb 2014 17:32:42 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Music]]></category>
@@ -178,13 +185,10 @@
 <p>I’d like to see Apple get back to doing fewer things and doing them well. That means no TV or smartwatch. They need more product categories like photography, which they excel at. The iPhone camera is the best, the built-in Photos and Camera apps are great, and there’s a rich layer of third-party apps to fill in additional features. <a href="http://www.youtube.com/watch?v=NoVW62mwSQQ">Apple’s photos ad</a> perfectly captures this.</p>
 <p>Apple, fall in love with the next product category and lead us there. We’re ready for the next thing you <em>love</em>, not the next thing that Wall Street assumes everyone wants.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/02/we_love_music.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>No coincidence</title>
 		<link>http://www.manton.org/2014/01/no_coincidence.html</link>
-		<comments>http://www.manton.org/2014/01/no_coincidence.html#comments</comments>
 		<pubDate>Fri, 17 Jan 2014 15:13:21 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -209,13 +213,10 @@
 <p>It seems like a big coincidence that both apps shipped with a similar set of features, but now I realize why it happened. Sure, it’s funny that the release days were identical, and not a few days or weeks apart. But the general timing shouldn’t be at all surprising, because <em>this is an idea whose time has come</em>. There are photo “album”-type apps popping up all over the App Store, such as Cluster, Albumatic, and Heyday, all of which Apple has featured. Plus there are web-based apps like Exposure and Medium, which was recently updated with great photo support as well.</p>
 <p>It’s no coincidence; it’s just a good idea. And it’s a huge market: everyone who loves writing and taking photos. That understanding gives me a lot of confidence to double down on our plans for Sunlit 1.1, 1.2, and after. 2014 is going to be an awesome year for sharing stories.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/01/no_coincidence.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Why we built Sunlit</title>
 		<link>http://www.manton.org/2014/01/why_we_built.html</link>
-		<comments>http://www.manton.org/2014/01/why_we_built.html#comments</comments>
 		<pubDate>Wed, 15 Jan 2014 23:24:49 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -235,13 +236,10 @@
 <p>Sharing a single photo has been done a hundred times on iOS. Instagram was an important app to nail the timeline UI, and <a href="http://favd.net/">Favd</a> is currently my favorite way to post and browse new photos (it’s really great). But hardly anyone has even attempted to tackle photo curation, group sharing, and publishing, let alone gotten it right. Sunlit 1.0 is our first pass at this and we couldn’t be more excited about trying to solve a new problem with photos.</p>
 <p>They say you should spend money on experiences — on memories, not things. Sunlit helps you put those memories together, share them as a group, and rediscover them when it matters. The first version <a href="http://sunlit.io/">will ship tomorrow</a>. I hope you like it.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/01/why_we_built.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Quality photos</title>
 		<link>http://www.manton.org/2014/01/quality_photos.html</link>
-		<comments>http://www.manton.org/2014/01/quality_photos.html#comments</comments>
 		<pubDate>Thu, 02 Jan 2014 15:03:57 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -262,36 +260,9 @@
 <p>We don’t use our DSLR every day. It’s for big events, birthdays, school performances, and the iPhone suffices for the rest of the time. But it’s worth every penny and more, to look back on these photos years later and know we have captured them at their best.</p>
 <p>Photos are also at the heart of my new app, <a href="http://sunlit.io/">Sunlit</a>. We’ll be shipping soon. Enter your email address on the site to be notified when it hits the App Store.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/01/quality_photos.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Photo filters</title>
-		<link>http://www.manton.org/2013/07/photo_filters.html</link>
-		<comments>http://www.manton.org/2013/07/photo_filters.html#comments</comments>
-		<pubDate>Sat, 06 Jul 2013 19:14:55 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Programming]]></category>
-		<category><![CDATA[imore]]></category>
-		<category><![CDATA[instagram]]></category>
-		<category><![CDATA[photos]]></category>
-		<category><![CDATA[rands]]></category>
-		<category><![CDATA[sunlit]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2013/07/photo_filters.html</guid>
-		<description><![CDATA[Rene Ritchie has a nice comparison of black and white filters in iOS 7 and third-party apps: “To create the comparison, I took the screenshots posted on Apple.com, isolated the unfiltered image, loaded it into the other apps, applied their filters, and then took screenshots of the resulting images.” I&#8217;ve been working on an iOS [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="http://www.imore.com/ios-7-vs-instagram-vs-google-vs-twitter-black-white-photo-filter-comparison">Rene Ritchie has a nice comparison of black and white filters</a> in iOS 7 and third-party apps:</p>
-<blockquote><p>
-  “To create the comparison, I took the screenshots posted on Apple.com, isolated the unfiltered image, loaded it into the other apps, applied their filters, and then took screenshots of the resulting images.”
-</p></blockquote>
-<p>I&#8217;ve been working on an iOS 7 app that&#8217;s partly <em>about</em> photos, though not actually a camera app, and I always thought it&#8217;d benefit from a single great black and white filter. Not as one of a dozen filters, but as the only filter in the app — something strikingly different that would be noticed. iOS 7&#8217;s built-in filters and apps like <a href="http://www.pacifichelm.com/cameranoir/">Camera Noir</a> have made me reconsider. Why reinvent the wheel when so much good work is being done on filters by other developers?</p>
-<p>Related, the <a href="http://www.randsinrepose.com/archives/2012/12/09/how_i_instagram.html">excellent mobile photo workflow by Rands</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/07/photo_filters.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.350 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 15:02:48 -->
+<!-- Dynamic page generated in 0.301 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 12:18:31 -->

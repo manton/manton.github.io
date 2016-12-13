@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>kapeli &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/kapeli/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Core Intuition 254 and Kapeli wrap-up</title>
+		<link>http://www.manton.org/2016/10/core-intuition-254-and-kapeli-wrap-up.html</link>
+		<pubDate>Sun, 16 Oct 2016 22:43:45 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[kapeli]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[rejections]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4370</guid>
+		<description><![CDATA[On Friday, Daniel and I recorded and published episode 254 of Core Intuition: Daniel and Manton dive into Apple’s controversial suspension of Dash developer Kapeli’s App Store account, and respond to listener Q&#38;A about whether non-sandboxed apps are at risk of removal from the Mac App Store. Covering sensitive subjects like Kapeli&#8217;a suspension is difficult [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>On Friday, Daniel and I recorded and published <a href="http://www.coreint.org/2016/10/episode-254-it-blew-up-in-this-case/">episode 254 of Core Intuition</a>:</p>
+<blockquote><p>
+  Daniel and Manton dive into Apple’s controversial suspension of Dash developer Kapeli’s App Store account, and respond to listener Q&amp;A about whether non-sandboxed apps are at risk of removal from the Mac App Store.
+</p></blockquote>
+<p>Covering sensitive subjects like Kapeli&#8217;a suspension is difficult in a podcast format where you can&#8217;t perfectly prepare your thoughts. Did I go too far defending Bogdan Popescu? Did I not go far enough?</p>
+<p>Maybe we&#8217;ll know with some distance from this topic whether we reacted fairly. But I don&#8217;t think I overstated how important a moment this was for the App Store — both <a href="http://www.manton.org/2016/10/kapelis-reputation.html">Apple&#8217;s influence</a> over the narrative and <a href="http://www.manton.org/2016/10/kapelis-suspension-is-a-test-for-apple.html">as a test</a> for their power in the store. Unfortunately the story still has a very unsatisfying ending.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Kapeli&#8217;s suspension is a test for Apple</title>
+		<link>http://www.manton.org/2016/10/kapelis-suspension-is-a-test-for-apple.html</link>
+		<pubDate>Wed, 12 Oct 2016 18:56:52 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[community]]></category>
+		<category><![CDATA[kapeli]]></category>
+		<category><![CDATA[rejections]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4357</guid>
+		<description><![CDATA[Since my post yesterday about what I viewed as the unwarranted smearing of Kapeli&#8217;s reputation, I&#8217;ve received a lot of good feedback. I&#8217;ve also seen many comments from developers who had an incomplete view of the facts. This isn&#8217;t surprising, since Apple&#8217;s own statement to the press seems to have left out details, either for [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Since <a href="http://www.manton.org/2016/10/kapelis-reputation.html">my post yesterday</a> about what I viewed as the unwarranted smearing of Kapeli&#8217;s reputation, I&#8217;ve received a lot of good feedback. I&#8217;ve also seen many comments from developers who had an incomplete view of the facts. This isn&#8217;t surprising, since Apple&#8217;s own statement to the press seems to have left out details, either for privacy reasons or to make a stronger case.</p>
+<p>I&#8217;m not an investigative journalist. I know a lot about what happened, but not everything. I&#8217;m not going to try to &#8220;get to the bottom&#8221; of the truth. Kapeli developer Bogdan Popescu emailed me yesterday after my post had been published, and as tempting as it might have been to ask him more questions, ultimately this is between him and Apple. I&#8217;m a blogger and podcaster, so I&#8217;d rather stick to the larger themes.</p>
+<p>How do we move forward as a community? Two points:</p>
+<ol>
+<li>We must err on the side of defending indie developers, even when it looks bad. Apple&#8217;s a big corporation and <a href="http://www.manton.org/2016/10/apple-apologists.html">they don&#8217;t need our help</a>.</li>
+<li>We should hold Apple accountable when they overreach, even when they have the best intentions. I agree with <a href="http://www.imore.com/solving-dash">Rene Ritchie&#8217;s post</a> that despite such a bad situation, it&#8217;s still within Apple&#8217;s power to fix this.</li>
+</ol>
+<p>Matt Drance had <a href="https://twitter.com/drance/status/785634596150849536">a series of tweets</a> that get to the heart of how we react as a community. If it turns out that Bogdan did submit fraudulent reviews, then okay. But if Apple eventually reinstates his developer account, I want to be able to say I stood up for his side of the story, even if I risked being wrong.</p>
+<p>It&#8217;s easy to defend someone who is obviously innocent. It&#8217;s harder when they make mistakes, but in areas unrelated to the crime. In that way, this App Store &#8220;rejection&#8221; is unique. It may be the most important test we&#8217;ve seen of Apple&#8217;s power in the store.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Kapeli&#8217;s reputation</title>
+		<link>http://www.manton.org/2016/10/kapelis-reputation.html</link>
+		<pubDate>Tue, 11 Oct 2016 16:46:46 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[dash]]></category>
+		<category><![CDATA[kapeli]]></category>
+		<category><![CDATA[rejections]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4355</guid>
+		<description><![CDATA[I&#8217;ve been using Dash more and more over the last month, but I realized with all this controversy that I had never actually bothered to pay for the app. Whoops! The trial reminds you every once in a while, but otherwise it&#8217;s pretty usable without paying, and I&#8217;m lazy. Kapeli&#8217;s iOS revenue has vanished, but [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;ve been using <a href="https://kapeli.com/dash">Dash</a> more and more over the last month, but I realized with <a href="http://daringfireball.net/2016/10/apple_dash_controversy">all this controversy</a> that I had never actually bothered to pay for the app. Whoops! The trial reminds you every once in a while, but otherwise it&#8217;s pretty usable without paying, and I&#8217;m lazy.</p>
+<p>Kapeli&#8217;s iOS revenue has vanished, but the developer still has his direct Mac sales. So I set out to finally buy a copy of the Mac version.</p>
+<p>And then during checkout, sending him my name and contact info, I hesitated. Do I trust this developer? Is he trying to do the right thing for customers, as every indication from his public blog posts and tweets about Dash show, or is he a scammer, conducting fraudulent activity in the App Store as Apple accuses?</p>
+<p>That&#8217;s the damage Apple has done in going to the press and smearing him. They&#8217;ve destroyed the goodwill he had in the community from his well-respected app. I always want to give people the benefit of the doubt, yet I hesitated.</p>
+<p>At the Çingleton conference in 2013, Christina Warren talked about building a reputation for herself. One of the slides <a href="http://www.manton.org/2013/12/your_name.html">will stick with me for a long time</a>: &#8220;All I have is my name,&#8221; she said, so she couldn&#8217;t risk attaching her name to something she didn&#8217;t believe in.</p>
+<p>Kapeli developer Bogdan Popescu has made some mistakes. There&#8217;s a lot of smoke, but I still believe there&#8217;s no fire, no actual fraudulent activity orchestrated by Bogdan himself. That hasn&#8217;t stopped Apple from burning his reputation to the ground.</p>
+<p>As long as Apple has <a href="http://www.manton.org/2016/10/apples-control-over-app-hosting.html">so much control over app distribution</a>, so much power over an iOS developer&#8217;s business and reputation, then Apple&#8217;s treatment of and communication with developers has to be perfect. <a href="http://mjtsai.com/blog/2016/10/10/apple-and-kapeli-respond/">Michael Tsai covers</a> some of the ways Apple mishandled this. The fallout in the developer community has been more severe than is warranted from the incomplete and misleading facts in Apple&#8217;s statement.</p>
+<p>I finished checking out and paid for Dash. It&#8217;s a great app.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.243 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 14:57:17 -->

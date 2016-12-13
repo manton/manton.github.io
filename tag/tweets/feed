@@ -8,19 +8,18 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; tweets</title>
+	<title>tweets &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/tweets/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
 		<title>Nimoy’s last tweet</title>
 		<link>http://www.manton.org/2015/03/nimoys-last-tweet.html</link>
-		<comments>http://www.manton.org/2015/03/nimoys-last-tweet.html#comments</comments>
 		<pubDate>Mon, 30 Mar 2015 19:40:04 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Personal]]></category>
@@ -37,13 +36,10 @@
 </p></blockquote>
 <p>Beautiful. He left behind <a href="http://en.wikipedia.org/wiki/Leonard_Nimoy">much to be remembered by</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/03/nimoys-last-tweet.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Twitter or RSS</title>
 		<link>http://www.manton.org/2014/05/twitter_or_rss.html</link>
-		<comments>http://www.manton.org/2014/05/twitter_or_rss.html#comments</comments>
 		<pubDate>Thu, 22 May 2014 17:25:58 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Weblogs]]></category>
@@ -59,13 +55,10 @@
 </p></blockquote>
 <p>It’s a great point. If you had to choose between only reading Twitter or only reading weblogs, which would you choose? Losing Twitter would be a bummer for a lot people, but losing weblogs would <em>decimate the web</em>. We should do more to strengthen weblogs and RSS because they are the foundation for so much of the most important writing on the web.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/05/twitter_or_rss.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Where to archive your tweets</title>
 		<link>http://www.manton.org/2013/01/where_to_archive.html</link>
-		<comments>http://www.manton.org/2013/01/where_to_archive.html#comments</comments>
 		<pubDate>Mon, 21 Jan 2013 22:22:15 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -85,13 +78,10 @@
 <p><strong>To import into Watermark</strong>, also download the archive from Twitter and put it on Dropbox. You can put it anywhere, either in Apps → Watermark if you’ve already authorized Watermark to use Dropbox (for export), or in Documents or anywhere else. Then sign in to Watermark and click Account → “Upload all your tweets” to select the file.</p>
 <p>Watermark is good if you want to expand your archive beyond just your own tweets. It indexes tweets from everyone you are following, creating a huge searchable archive over time. My own account in Watermark now has about 400,000 tweets indexed. Sign up or <a href="http://watermark.io/">learn more at watermark.io</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/01/where_to_archive.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>iPad 2 (and tweets)</title>
 		<link>http://www.manton.org/2011/03/ipad_2_and.html</link>
-		<comments>http://www.manton.org/2011/03/ipad_2_and.html#comments</comments>
 		<pubDate>Fri, 04 Mar 2011 14:06:23 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Events]]></category>
@@ -106,13 +96,10 @@
 <p>During the announcement I collected 70 tweets that I thought captured the event. You can &#8220;view them on tweetlibrary.com&#8221;:http://tweetlibrary.com/manton/ipad2event.</p>
 <p>Speaking of Tweet Library, Apple just approved version 1.2.2. It fixes a handful of bugs and adds a few new things, like block and report spam, for those of you using it as your main Twitter client. Check out the &#8220;full release notes&#8221;:http://www.riverfold.com/software/tweetlibrary/releasenotes/ or view it &#8220;in the App Store&#8221;:http://itunes.apple.com/us/app/tweet-library/id365768793?mt=8.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2011/03/ipad_2_and.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>EE tweets</title>
 		<link>http://www.manton.org/2010/10/ee_tweets.html</link>
-		<comments>http://www.manton.org/2010/10/ee_tweets.html#comments</comments>
 		<pubDate>Sat, 02 Oct 2010 17:53:12 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Weblogs]]></category>
@@ -125,11 +112,9 @@
 				<content:encoded><![CDATA[<p>I submitted my new iPad app to Apple earlier this week. It hasn&#8217;t been reviewed yet, but Ryan Irelan has been using the beta to curate a &#8220;collection of ExpressionEngine conference tweets over on the EE Insider blog&#8221;:http://eeinsider.com/blog/eeci-tweet-collection/. The app may still only be in the hands of my friends and beta testers, but it&#8217;s great to see how it could be used in the real world.</p>
 <p>So that&#8217;s one feature of the app: grouping tweets together around topics, events, conferences, categories, whatever, and then publishing them with one click so they can be shared with friends and indexed by Google. There&#8217;s more of course. I&#8217;ll be getting the marketing web site up soon, and a screencast too, hopefully before the app is approved! Although I&#8217;m quick to complain about App Store review delays, in this case I&#8217;m counting on a week delay so that I can get my act together.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2010/10/ee_tweets.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.296 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 14:59:58 -->
+<!-- Dynamic page generated in 0.264 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 15:04:54 -->

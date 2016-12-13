@@ -8,19 +8,18 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; design</title>
+	<title>design &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/design/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
 		<title>Watch form over function</title>
 		<link>http://www.manton.org/2015/09/watch-form-over-function.html</link>
-		<comments>http://www.manton.org/2015/09/watch-form-over-function.html#comments</comments>
 		<pubDate>Fri, 04 Sep 2015 14:08:36 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[User Experience]]></category>
@@ -34,13 +33,10 @@
 <p>Surprisingly, this might be Apple showing they can still choose a functional user experience over purely beautiful form and design. Square looks worse but it&#8217;s just more practical for reading text. The digital crown is a better fit for scrolling vertically.</p>
 <p>It&#8217;s rare in the modern era of Apple (post-2000 or so) for the company to sacrifice beauty for usability. The iPhone is always thin at the expense of battery life. Mac scroll bars are hidden in the name of cleanliness. The new MacBook has a single new cable type which no one owns peripherals for. But with the Apple Watch, I think they built something with a foundation that could last for years, despite its initial awkwardness, and square was the right call.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/09/watch-form-over-function.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Fun apps don’t need clean code</title>
 		<link>http://www.manton.org/2015/07/fun-apps-dont-need-clean-code.html</link>
-		<comments>http://www.manton.org/2015/07/fun-apps-dont-need-clean-code.html#comments</comments>
 		<pubDate>Mon, 06 Jul 2015 13:23:08 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -56,13 +52,10 @@
 </p></blockquote>
 <p>Most programmers try to improve their code a little from one project to the next. But obsessing about how the <em>code</em> looks and how it’s structured might mean that you’re not spending enough time worrying about the things that matter even more: what the <em>app</em> looks like and what it does (and ever shipping it).</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/07/fun-apps-dont-need-clean-code.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Multiplane</title>
 		<link>http://www.manton.org/2013/06/multiplane.html</link>
-		<comments>http://www.manton.org/2013/06/multiplane.html#comments</comments>
 		<pubDate>Mon, 17 Jun 2013 21:22:59 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Animation]]></category>
@@ -85,13 +78,10 @@
 <p>Each plane is painted flat as if on glass. There can be no text drop shadows, no textures, without ruining the effect. And the result of this strict metaphor is equally valuable: there are no drop shadows to distract or obscure an app’s real content.</p>
 <p>Disney’s multiplane camera, first in a dedicated rig and then recreated in software, lasted for decades, until the era of 3D computer animation. iOS 7’s new look won’t last that long, but the core concepts should carry Apple for years. I really like where they’re headed.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/06/multiplane.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Design in grayscale</title>
 		<link>http://www.manton.org/2013/04/design_in_grayscale.html</link>
-		<comments>http://www.manton.org/2013/04/design_in_grayscale.html#comments</comments>
 		<pubDate>Tue, 09 Apr 2013 13:16:22 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[User Experience]]></category>
@@ -108,13 +98,10 @@
 </p></blockquote>
 <p>These days I also start everything with <a href="http://twitter.github.io/bootstrap/">Bootstrap</a>, which adds great defaults for layout, buttons, and text. It makes everything looks better, right away. It’s not a replacement for a designer, but it does save hours (or days) of getting the basics up and running.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/04/design_in_grayscale.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Bootstrap CSS</title>
 		<link>http://www.manton.org/2012/05/bootstrap_css.html</link>
-		<comments>http://www.manton.org/2012/05/bootstrap_css.html#comments</comments>
 		<pubDate>Mon, 07 May 2012 14:07:58 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[User Experience]]></category>
@@ -129,13 +116,10 @@
 				<content:encoded><![CDATA[<p>I&#8217;ve been using <a href="http://twitter.github.com/bootstrap/">Twitter&#8217;s Bootstrap</a> in an internal project at VitalSource for a few months, and over the weekend I finally switched to using the CSS framework in Tweet Marker too. The layout now works in more browsers and provides a much better foundation for design changes. It also allowed me to integrate <a href="http://www.eyecon.ro/bootstrap-datepicker/">this excellent date picker</a>.</p>
 <p><a href="http://www.riverfold.com/software/tweetmarker/dates.html">Here&#8217;s a short screencast video</a> showing the date picker in a new browsing feature in Tweet Marker Plus. I&#8217;m very happy with how this turned out — both the look and functionality. On the server the date ranges are implemented with a Sphinx query, so they can be combined with search terms to help find old tweets.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2012/05/bootstrap_css.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Holiday bundles and no-brainer promotions</title>
 		<link>http://www.manton.org/2010/12/holiday_bundles_and.html</link>
-		<comments>http://www.manton.org/2010/12/holiday_bundles_and.html#comments</comments>
 		<pubDate>Fri, 17 Dec 2010 21:31:49 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -157,13 +141,10 @@
 <p><em>Charity is great</em>. I loved being a part of &#8220;Indie+Relief&#8221;:http://www.indierelief.com/, the Pan-Mass Challenge auctions, and other bundles that go directly to a cause. Just like smaller promotions, these are good for users (deals on software), good for developers (helps with marketing), good for charity (donated money), and good for the software market (these aren&#8217;t developers who are making a sacrifice because their sales aren&#8217;t doing well &mdash; it&#8217;s charity).</p>
 <p>Now that I&#8217;ve seen a bundle like the &#8220;Indie Mac Gift Pack&#8221;:https://indiemacgiftpack.com/, I think I can more clearly judge a unique bundle opportunity when it comes along. Does it minimize the middleman? Does it respect the individual apps as peers? Does it use the total bundle price to underscore the value of software rather than cheapen it? Then it&#8217;s probably a good deal for everyone.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2010/12/holiday_bundles_and.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>New blog design</title>
 		<link>http://www.manton.org/2009/11/new_blog_design.html</link>
-		<comments>http://www.manton.org/2009/11/new_blog_design.html#comments</comments>
 		<pubDate>Wed, 25 Nov 2009 04:08:20 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Weblogs]]></category>
@@ -177,13 +158,10 @@
 <p>I&#8217;ll still post about things that have nothing to do with software. I don&#8217;t want to give that up, and some of my favorite posts wouldn&#8217;t exist if I stuck to programming or business topics. Some non-software favorites I found while surfing &#8220;the archives&#8221;:http://www.manton.org/archives.html include &#8220;Ollie Johnston died&#8221;:http://www.manton.org/2008/04/ollie_johnston.html, &#8220;Perfection&#8221;:http://www.manton.org/2005/08/perfection.html, &#8220;The Great Scott&#8221;:http://www.manton.org/2005/02/the_great_scott.html, &#8220;Bush veto&#8221;:http://www.manton.org/2007/11/bush_veto.html, and &#8220;50,136 words&#8221;:http://www.manton.org/2005/12/50136_words.html. But hopefully by unifying things a little it&#8217;ll be more consistent, and encourage visitors coming to my blog for the first time to also buy some Mac software.</p>
 <p>Thanks for your support over the years. Even when the referrers dry up and the click-throughs aren&#8217;t worth graphing, I&#8217;ll still write here, and maybe every once in a while it&#8217;ll be something good.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2009/11/new_blog_design.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>It&#8217;s like iTunes for&#8230;</title>
 		<link>http://www.manton.org/2009/07/its_like_itunes.html</link>
-		<comments>http://www.manton.org/2009/07/its_like_itunes.html#comments</comments>
 		<pubDate>Thu, 23 Jul 2009 19:26:55 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[User Experience]]></category>
@@ -198,13 +176,10 @@
 <p>&#8220;Clipstart&#8221;:http://www.riverfold.com/software/clipstart/ goes out of its way to do something different, by twisting the traditional source list a little to promote tags as the most important part of the UI. At first I feared that some customers would find it worse, that the UI would fail and I would be forced to become more iTunes-ish for the next version. But I think only by trying something different can you hope to be better. I&#8217;ve been using Clipstart to manage my movies all year and the tag-focused UI really works, especially when you start building up your library and can search and find related tags across all your videos.</p>
 <p>I released Clipstart 1.1.1 a few days ago with a bunch of bug fixes, and an &#8220;iPhone 3GS giveaway&#8221;:http://www.riverfold.com/software/clipstart/press/3gs.html too.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2009/07/its_like_itunes.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Better software, less support</title>
 		<link>http://www.manton.org/2009/02/better_software_less.html</link>
-		<comments>http://www.manton.org/2009/02/better_software_less.html#comments</comments>
 		<pubDate>Sat, 07 Feb 2009 13:26:41 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -233,13 +208,10 @@
 <p>On a few occasions this has hurt my ability to add features, but on others it forces me to see a user interface problem from a new angle, something I wouldn&#8217;t have done if I hadn&#8217;t had these limits to work in.</p>
 <p>Limiting features in an app does not come naturally to me, but the more I embrace it, the more value I see in it. I &#8220;tweeted a bonus side effect&#8221;:http://twitter.com/manton/status/1177252437 to this approach last week: &#8220;Maybe another reason why simple software succeeds: customers see in it all the possible features to come, implemented just right for them.&#8221;</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2009/02/better_software_less.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Small icons</title>
 		<link>http://www.manton.org/2008/12/small_icons.html</link>
-		<comments>http://www.manton.org/2008/12/small_icons.html#comments</comments>
 		<pubDate>Thu, 11 Dec 2008 14:02:14 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Art]]></category>
@@ -253,11 +225,9 @@
 <p>Some of these are just pixel-by-pixel drawings, with slight gradients in places. For other parts of the user interface I used vectors in Photoshop, which gives a nice anti-aliased look that is important for some types of shapes, but for really small icons and widgets it&#8217;s pretty satisfying to just poke at things &#8220;fat bits&#8221;:http://www.google.com/search?q=fat+bits+macpaint style.</p>
 <p>&#8220;Gus Mueller&#8221;:http://gusmueller.com/blog/ pointed out that I should be using PDFs or drawing them in code to be ready for resolution independence. He&#8217;s right of course. Maybe Apple will announce a device at Macworld that will make that task seem more practical.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2008/12/small_icons.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.352 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 15:01:28 -->
+<!-- Dynamic page generated in 0.302 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 14:54:55 -->

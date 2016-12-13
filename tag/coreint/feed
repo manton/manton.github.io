@@ -8,248 +8,258 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; coreint</title>
+	<title>coreint &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/coreint/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 15:09:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
-		<title>Podcasts, showing up every week, and why 2.0 succeeds</title>
-		<link>http://www.manton.org/2016/03/podcasts-showing-up-every-week-and-why-2-0-succeeds.html</link>
-		<comments>http://www.manton.org/2016/03/podcasts-showing-up-every-week-and-why-2-0-succeeds.html#comments</comments>
-		<pubDate>Mon, 28 Mar 2016 16:49:00 +0000</pubDate>
+		<title>Core Intuition 262</title>
+		<link>http://www.manton.org/2016/12/core-intuition-262.html</link>
+		<pubDate>Thu, 08 Dec 2016 18:07:01 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Podcasts]]></category>
-		<category><![CDATA[consistency]]></category>
+		<category><![CDATA[consulting]]></category>
 		<category><![CDATA[coreint]]></category>
-		<category><![CDATA[podcasting]]></category>
-		<category><![CDATA[versions]]></category>
-		<category><![CDATA[working]]></category>
+		<category><![CDATA[failure]]></category>
+		<category><![CDATA[goals]]></category>
 
-		<guid isPermaLink="false">http://www.manton.org/2016/03/podcasts-showing-up-every-week-and-why-2-0-succeeds.html</guid>
-		<description><![CDATA[When I went to Open Coffee Club during SXSW week, I met several company founders and investors in Austin, and one was also an iOS developer. I usually do a poor job of promoting my own work in person, but I somehow managed to plug my Core Intuition podcast. He hadn’t heard of the show [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>When I went to <a href="http://opencoffeeaustin.org/">Open Coffee Club</a> during SXSW week, I met several company founders and investors in Austin, and one was also an iOS developer. I usually do a poor job of promoting my own work in person, but I somehow managed to plug my <a href="http://coreint.org/">Core Intuition podcast</a>.</p>
-<p>He hadn’t heard of the show before, and when he pulled it up to subscribe his comment was something like: “wow, you’ve been doing this for a long time”. It’s true. Daniel and I started the podcast in 2008. We only have 225 episodes, because we published episodes less frequently back in the old days, but I’ve always been proud of our consistency with the show format going back to the very beginning.</p>
-<p>And it made me wonder: is there another Mac or iOS developer-focused tech podcast that has such a long history? Or really, many tech podcasts at all? The ones that come to mind are <a href="https://daringfireball.net/thetalkshow/">The Talk Show</a>, which started in 2007, and <a href="https://twit.tv/shows/this-week-in-tech">This Week in Tech</a>, which started in 2005.</p>
-<p>It&#8217;s another reminder to me that a big part of success is consistently showing up to work. If you&#8217;re always starting over, you can&#8217;t build on anything and take it further. The secret with the &#8220;version 2.0&#8221; of most apps isn&#8217;t that it has new features; it&#8217;s just that it exists at all.</p>
-<p>In a couple months, just as WWDC is about to roll around, we’ll celebrate our 8th anniversary of recording Core Intuition. Our audience keeps growing, which is amazing, but there are still a lot of people who have never heard of the show. If you like what we&#8217;ve been doing, consider telling a friend, or posting a tweet or blog post about the show.</p>
-<p>We expanded to 2 sponsors per episode this year because we wanted to grow the podcast — to commit more time and resources to both recording and to companion web sites like <a href="http://jobs.coreint.org/">the jobs site</a>. I think 2016 will be a great year and I&#8217;m happy that Core Intuition is a key part of helping me stay independent. Thanks for your support!</p>
+		<guid isPermaLink="false">http://www.manton.org/?p=4533</guid>
+		<description><![CDATA[We published episode 262 of Core Intuition today. It&#8217;s December already, so we&#8217;ve inevitably been thinking about unfinished projects as the year wraps up. From the show notes: Daniel and Manton talk about coping with disappointment of failing to achieve goals in an expected length of time, recognize the differing demands of building software for [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We published <a href="http://coreint.org/262">episode 262 of Core Intuition</a> today. It&#8217;s December already, so we&#8217;ve inevitably been thinking about unfinished projects as the year wraps up. From the show notes:</p>
+<blockquote><p>
+  Daniel and Manton talk about coping with disappointment of failing to achieve goals in an expected length of time, recognize the differing demands of building software for different markets, and talk about tricks for managing lack of enthusiasm for finishing projects. Finally, they answer a listener question about how to get started with consulting, and planning for maintaining a suitable income when you “quit your day job.”
+</p></blockquote>
+<p>Thanks as always for listening to the show.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/03/podcasts-showing-up-every-week-and-why-2-0-succeeds.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
-		<title>Core Intuition 225</title>
-		<link>http://www.manton.org/2016/03/core-intuition-225.html</link>
-		<comments>http://www.manton.org/2016/03/core-intuition-225.html#comments</comments>
-		<pubDate>Thu, 24 Mar 2016 21:44:00 +0000</pubDate>
+		<title>Thanks to our Core Int listeners</title>
+		<link>http://www.manton.org/2016/11/thanks-to-our-core-int-listeners.html</link>
+		<pubDate>Thu, 24 Nov 2016 18:09:26 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[applescript]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[mac]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[thanksgiving]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4491</guid>
+		<description><![CDATA[Yesterday we published episode 260 of Core Intuition. From the show notes: Daniel and Manton discuss Sal Soghoian’s sudden departure from Apple, and what it may mean for Apple’s future ambitions with automation. Then they react to Apple’s alleged decision to abandon their line of AirPort branded routers, and bemoan the loss of yet another [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Yesterday we published <a href="http://www.coreint.org/2016/11/episode-260-invitation-to-failure/">episode 260</a> of Core Intuition. From the show notes:</p>
+<blockquote><p>
+  Daniel and Manton discuss Sal Soghoian’s sudden departure from Apple, and what it may mean for Apple’s future ambitions with automation. Then they react to Apple’s alleged decision to abandon their line of AirPort branded routers, and bemoan the loss of yet another “just buy the Apple one” peripheral option
+</p></blockquote>
+<p>I liked the topics for our show this week because it allowed us to not just talk about AppleScript as it exists today, but also to reflect on what life developing scriptable apps was like in the early days of AppleScript. It&#8217;s always fun to think back on 1990s Mac development.</p>
+<p>Many of our listeners are celebrating Thanksgiving today. To all of our listeners, whether you&#8217;ve listened since the beginning in 2008 or just recently discovered the podcast, thank you so much for giving our show a chance and for being part of the community. Daniel and I still feel incredibly lucky that we get to chat every week about Apple news and our work as indie developers.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Core Intuition 259 transcript</title>
+		<link>http://www.manton.org/2016/11/core-intuition-259-transcript.html</link>
+		<pubDate>Thu, 17 Nov 2016 14:50:15 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Politics]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[podcasts]]></category>
+		<category><![CDATA[transcript]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4463</guid>
+		<description><![CDATA[Daniel and I covered a few topics on Core Intuition 259 yesterday, but the closing segment about the Apple design book — and indirectly, the election — was particularly interesting to me. I decided to transcribe part of the conversation. Here it is, lightly edited. Daniel: Alright Manton, I know what a fan you are of lavish [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><em>Daniel and I covered a few topics on <a href="http://coreint.org/259">Core Intuition 259</a> yesterday, but the closing segment about the Apple design book — and indirectly, the election — was particularly interesting to me. I decided to transcribe part of the conversation. Here it is, lightly edited.</em></p>
+<p><strong>Daniel:</strong></p>
+<p>Alright Manton, I know what a fan you are of lavish Apple products designed for the rich. [laughter] I know therefore you have probably already placed a pre-order for the Apple Book Edition.</p>
+<p><strong>Manton:</strong></p>
+<p>Is the Edition the $300 one?</p>
+<p><strong>Daniel:</strong></p>
+<p>Yeah, the $300 one is the Edition. The $200 one is the Edition Lite. [more laughter]</p>
+<p><strong>Manton:</strong></p>
+<p>So Apple announced this book yesterday, and I believe orders are being accepted today. It&#8217;s just this very beautiful, well-produced &#8220;we worked 8 years on this&#8221; book of essentially product photos.</p>
+<p>And I think there&#8217;s an introduction with Jony Ive. There&#8217;s a video from him that is a classic Jony Ive video about a product.</p>
+<p>I&#8217;ve blogged about this a little bit, and actually talked about this on my microcast, <a href="http://timetable.manton.org/2016/11/episode-27-something-was-missing/">Timetable</a>. Red flags are going off for me with this product for a few reasons.</p>
+<p>The first is, we&#8217;re a week out from the election. A lot of us are bummed out and trying to make sense of the world, and Apple releases a book of product photos. It seems out of touch. I don&#8217;t understand why they did this right now.</p>
+<p>And the other thing, I just hit on something that bothered me about this book. I have a lot of books in this house. Bookshelves and bookshelves full of books. My wife hates the fact that I have every book that I&#8217;ve ever bought. I have a lot of books and I have a lot of art books. In a previous life I wanted to an artist, an animator. I have a lot of art books.</p>
+<p>And so this is right up my alley, right? I love old stuff. I love art books. Why don&#8217;t I want to buy this?</p>
+<p>And I think the reason is, unlike most art books, which are about&#8230; They&#8217;re about the artist as much as the art. And this book is just photos of iMacs.</p>
+<p>This isn&#8217;t about the designers. And maybe there&#8217;s something in the book that I&#8217;m missing. That when I hold it I&#8217;ll say, &#8220;Oh, this book is amazing.&#8221; But I feel like this book is not quite right. It&#8217;s not about the designers.</p>
+<p>I want to know about the designers at Apple, and why they made their choices. I don&#8217;t need this well-lit photo of the inside of a Mac Mini. There&#8217;s something missing with what they&#8217;ve done here.</p>
+<p><strong>Daniel:</strong></p>
+<p>You know, I agree with you. What you said just now is interesting to me in a few different ways. One of them is — and I know people are going to think I&#8217;m crazy for even imagining that this could possibly happen in the wake of a U.S. presidential election — but one of my instincts the day after the election, believe it or not, was actually going to Apple.com to see if Apple had some kind of commemoration or acknowledgement.</p>
+<p>And I realized&#8230; That&#8217;s my passionate, emotional side. Because Apple has been that company on so many issues of national or global importance.</p>
+<p>And I get it. Even if I see it as a catastrophic thing for the country and for the world, I get it that it is seen as a partisan issue, and that a lot of people would agree it would be not only poor business, but maybe poor taste to take a stand on Apple.com.</p>
+<p>But that&#8217;s the kind of feeling I&#8217;ve had from this company over the years. I wasn&#8217;t surprised not to see something there, but that sensitivity to the current state of affairs in the world, while maybe not driving them to put something on their home page overtly in support of one direction or another&#8230; I can see how they could maybe have made an effort to come up with something that somehow spoke to the issue without taking a side. They could have done that.</p>
+<p>And I&#8217;m not faulting them for not doing that. But your comment about the possible poor timing of releasing this right after the election, it drives it home for me that doing something like that with the home page would have reflected a level of consciousness about what&#8217;s going on — their being sympathetic or even empathic to the situation.</p>
+<p>Releasing a self-gratifying, expensive art book certainly does not speak to sensitivity about the national and global implications of the election. Nor should it have to. But by doing it the very week of the election, it does sort of tip the sales toward insensitivity.</p>
+<p><strong>Manton:</strong></p>
+<p>Right. So we had the election. A lot of people are trying to make sense of it. Like you said, you went to Apple. &#8220;Is Apple going to say anything?&#8221; Reload, reload. No, they&#8217;re not going to say anything. &#8220;Is Apple going to say anything next week?&#8221;</p>
+<p>The first thing they said, not about the election but the first thing they publicly said was, &#8220;We have this beautiful book.&#8221;</p>
+<p>Yes, they didn&#8217;t mean it that way. They didn&#8217;t mean it as a reaction to the election. They&#8217;ve had this thing planned for years. But it doesn&#8217;t feel right.</p>
+<p>I don&#8217;t want to take away anything from the designers at Apple and the people that worked on this book, because they do great work. The products in this book <em>are</em> amazing. They do deserve to be celebrated and talked about. But the timing does not feel right.</p>
+<p>And like I said before, I think the substance of this book is also wrong. I want to be careful not to criticize too much, because I&#8217;m sensitive to this. I don&#8217;t want to just bash this book. It doesn&#8217;t feel like the book we need about design at Apple. Because there&#8217;s no text in it!</p>
+<p>It celebrates objects and machines but it doesn&#8217;t celebrate people. The people are one of the most important things about design at Apple. It doesn&#8217;t seem right.</p>
+<p>I had never thought after the election, &#8220;What would Apple say? Would they put something on their web site?&#8221; I hadn&#8217;t thought of that until you just mentioned it.</p>
+<p><a href="https://www.buzzfeed.com/johnpaczkowski/read-tim-cooks-email-to-apple-employees-after-donald-trumps">Tim Cook did send a letter</a> to Apple employees, an email. It wasn&#8217;t really partisan, but it was kind of saying, &#8220;We know some of y&#8217;all are having trouble.&#8221;</p>
+<p>I don&#8217;t know how he phrased it. But the sense of it was, &#8220;We&#8217;re moving forward together. We&#8217;re going to be together. That&#8217;s how we get through everything as a company.&#8221;</p>
+<p>That was private to Apple employees. They didn&#8217;t say anything publicly. To say something publicly would have been difficult. This is kind of a cheat, but I&#8217;m just going to say it: it would have taken courage to say something about the election publicly. I&#8217;m using that word very deliberately.</p>
+<p>Come on, Apple. Forget about the stupid headphone jack. If you want to be courageous, take a stand on something you believe in. Do it.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Core Intuition 254 and Kapeli wrap-up</title>
+		<link>http://www.manton.org/2016/10/core-intuition-254-and-kapeli-wrap-up.html</link>
+		<pubDate>Sun, 16 Oct 2016 22:43:45 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[kapeli]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[rejections]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4370</guid>
+		<description><![CDATA[On Friday, Daniel and I recorded and published episode 254 of Core Intuition: Daniel and Manton dive into Apple’s controversial suspension of Dash developer Kapeli’s App Store account, and respond to listener Q&#38;A about whether non-sandboxed apps are at risk of removal from the Mac App Store. Covering sensitive subjects like Kapeli&#8217;a suspension is difficult [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>On Friday, Daniel and I recorded and published <a href="http://www.coreint.org/2016/10/episode-254-it-blew-up-in-this-case/">episode 254 of Core Intuition</a>:</p>
+<blockquote><p>
+  Daniel and Manton dive into Apple’s controversial suspension of Dash developer Kapeli’s App Store account, and respond to listener Q&amp;A about whether non-sandboxed apps are at risk of removal from the Mac App Store.
+</p></blockquote>
+<p>Covering sensitive subjects like Kapeli&#8217;a suspension is difficult in a podcast format where you can&#8217;t perfectly prepare your thoughts. Did I go too far defending Bogdan Popescu? Did I not go far enough?</p>
+<p>Maybe we&#8217;ll know with some distance from this topic whether we reacted fairly. But I don&#8217;t think I overstated how important a moment this was for the App Store — both <a href="http://www.manton.org/2016/10/kapelis-reputation.html">Apple&#8217;s influence</a> over the narrative and <a href="http://www.manton.org/2016/10/kapelis-suspension-is-a-test-for-apple.html">as a test</a> for their power in the store. Unfortunately the story still has a very unsatisfying ending.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Core Intuition 253 and Google</title>
+		<link>http://www.manton.org/2016/10/core-intuition-253-and-google.html</link>
+		<pubDate>Thu, 06 Oct 2016 15:11:56 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Podcasts]]></category>
 		<category><![CDATA[coreint]]></category>
-		<category><![CDATA[iphone5se]]></category>
-		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[omni]]></category>
+		<category><![CDATA[pricing]]></category>
+		<category><![CDATA[releasenotes]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4331</guid>
+		<description><![CDATA[We posted Core Intuition episode 253 this morning. From the show notes: Manton and Daniel discuss Manton&#8217;s experience at the Release Notes conference, talk about the rationale for supporting what might be considered edge-case behaviors in apps, and dig deeper into questions of freemium pricing, reflecting on the Omni Group&#8217;s pertinent announcements. Finally they talk [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We posted <a href="http://www.coreint.org/2016/10/episode-253-great-to-have-an-excuse/">Core Intuition episode 253</a> this morning. From the show notes:</p>
+<blockquote><p>
+  Manton and Daniel discuss Manton&#8217;s experience at the Release Notes conference, talk about the rationale for supporting what might be considered edge-case behaviors in apps, and dig deeper into questions of freemium pricing, reflecting on the Omni Group&#8217;s pertinent announcements. Finally they talk briefly about Google&#8217;s latest announcements and what their competition means to Apple.
+</p></blockquote>
+<p>Google must be doing something right with their announcements, because yesterday my son told me he wants to get a Pixel when it&#8217;s time to replace his iPhone 5S. And as much as I love our Amazon Echo, I can see Google Home taking off if it&#8217;s well-integrated with existing Google services.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Core Intuition 248</title>
+		<link>http://www.manton.org/2016/09/core-intuition-248.html</link>
+		<pubDate>Thu, 01 Sep 2016 16:57:17 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[echo]]></category>
+		<category><![CDATA[europe]]></category>
+		<category><![CDATA[siri]]></category>
+		<category><![CDATA[taxes]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4252</guid>
+		<description><![CDATA[This week on Core Intuition, Daniel and I talked about recent Apple news: Daniel and Manton react to the European Union’s €13B retroactive tax demand to Apple, talk about the impact of tax laws on indies and small companies, and weigh in on Apple’s purported AI and machine learning triumphs. Finally they catch up on [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://coreint.org/248">This week on Core Intuition</a>, Daniel and I talked about recent Apple news:</p>
+<blockquote><p>
+  Daniel and Manton react to the European Union’s €13B retroactive tax demand to Apple, talk about the impact of tax laws on indies and small companies, and weigh in on Apple’s purported AI and machine learning triumphs. Finally they catch up on their ambitions to be more productive as the busy summer transitions to fall.
+</p></blockquote>
+<p>I wondered whether Apple is so obsessed with privacy that they are blinded to what is possible with more computation and extensibility in the cloud. I judge their efforts not only by the remarkable work the Siri team has done, and by what Google and Amazon are building, but also by Apple&#8217;s own gold standard: the <a href="https://www.youtube.com/watch?v=QRH8eimU_20">Knowledge Navigator video</a> from 1987. That vision is too ambitious for one company to develop all the pieces for. We eventually need <a href="http://www.manton.org/2016/05/wanting-an-open-voice-assistant-platform.html">a more open Siri platform</a> to get us there.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Supertop podcast</title>
+		<link>http://www.manton.org/2016/08/supertop-podcast.html</link>
+		<pubDate>Wed, 31 Aug 2016 14:53:05 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[castro]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[supertop]]></category>
+		<category><![CDATA[vesper]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4247</guid>
+		<description><![CDATA[Everyone who builds blogging software should have a blog. Everyone who builds podcasting software should probably have a podcast, too. (And sometimes, like for Marco Arment, even a few podcasts.) So I was happy to see Supertop start a podcast recently to talk about the Castro 2 launch and other thoughts on being a 2-person [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Everyone who builds blogging software should have a blog. Everyone who builds podcasting software should probably have a podcast, too. (And sometimes, like for Marco Arment, even <a href="http://atp.fm/">a</a> <a href="https://www.relay.fm/radar">few</a> <a href="https://www.relay.fm/topfour">podcasts</a>.)</p>
+<p>So I was happy to see <a href="http://supertop.co/">Supertop</a> start a podcast recently to talk about the Castro 2 launch and other thoughts on being a 2-person indie shop. <a href="https://castro.fm/episode/HaPv6C">Episode 3</a> features Brent Simmons:</p>
+<blockquote><p>
+  Pádraig and Oisín are joined by Brent Simmons to discuss indie app development in the wake of Vesper shutting down.
+</p></blockquote>
+<p>One subject I&#8217;m glad they touched on is the special challenge for a company that needs to support multiple salaries, but isn&#8217;t big enough yet to actually have significant revenue like a large company. <a href="http://www.coreint.org/2016/08/episode-247-maybe-there-is-hope/">Last week</a>, Daniel and I talked about the balance of loving being independent but also knowing that one day you want to expand to support a small team. It&#8217;s not easy.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Core Int 242, Swift, and verified Twitter</title>
+		<link>http://www.manton.org/2016/07/core-int-242-swift-and-verified-twitter.html</link>
+		<pubDate>Thu, 21 Jul 2016 19:28:54 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[objc]]></category>
 		<category><![CDATA[swift]]></category>
+		<category><![CDATA[twitter]]></category>
 
-		<guid isPermaLink="false">http://www.manton.org/?p=3774</guid>
-		<description><![CDATA[Episode 225 of Core Intuition is out now. We talk about the new iPhone and iPad news from Monday’s Apple event, plus Swift. From the show notes: Manton orders his dream phone, the iPhone SE. Daniel reflects on the growing allure of Swift, and the two discuss the risks of either adopting new technologies too [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="http://www.coreint.org/2016/03/episode-225-keep-your-eyes-open/">Episode 225 of Core Intuition</a> is out now. We talk about the new iPhone and iPad news from Monday’s Apple event, plus Swift. From the show notes:</p>
+		<guid isPermaLink="false">http://www.manton.org/?p=4141</guid>
+		<description><![CDATA[From the show notes for today&#8217;s episode: Manton reacts to negatively to the Swift 3 decision to disallows subclassing by default, while Daniel tries to see the bright side. The two discuss Twitter’s new invitation to apply for @verified status, and Daniel’s attempt to do so. And they quickly touch base on the upcoming Apple-sponsored [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>From the show notes for <a href="http://coreint.org/242">today&#8217;s episode</a>:</p>
 <blockquote><p>
-  Manton orders his dream phone, the iPhone SE. Daniel reflects on the growing allure of Swift, and the two discuss the risks of either adopting new technologies too soon, or holding on to the past for too long.
+  Manton reacts to negatively to the Swift 3 decision to disallows subclassing by default, while Daniel tries to see the bright side. The two discuss Twitter’s new invitation to apply for @verified status, and Daniel’s attempt to do so. And they quickly touch base on the upcoming Apple-sponsored reality show, “Planet of the Apps.”
 </p></blockquote>
-<p>Also there&#8217;s this line from Daniel in the podcast that I like:</p>
-<blockquote><p>
-  We have to be tuned into the future <em>and</em> tuned into the past to really do great work.
-</p></blockquote>
-<p>We pull in some history from Daniel&#8217;s time at Apple, and from our experience building Mac apps in the 1990s and early 2000s, and how it relates to the current Swift transition. Hope you enjoy it.</p>
+<p>Believe it or not, I was kind of holding back a little in my Swift ranting. But it was the most critical I&#8217;ve been on the show. And it&#8217;s totally okay for you to disagree! Maybe even <em>good for the platform</em> if you do.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/03/core-intuition-225.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
-		<title>Core Intuition 224</title>
-		<link>http://www.manton.org/2016/03/core-intuition-224.html</link>
-		<comments>http://www.manton.org/2016/03/core-intuition-224.html#comments</comments>
-		<pubDate>Fri, 18 Mar 2016 21:11:33 +0000</pubDate>
+		<title>Pre-announcing Snippets.today</title>
+		<link>http://www.manton.org/2016/07/pre-announcing-snippets-today.html</link>
+		<pubDate>Thu, 14 Jul 2016 20:08:45 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Podcasts]]></category>
-		<category><![CDATA[amazonecho]]></category>
-		<category><![CDATA[coffee]]></category>
+				<category><![CDATA[Business]]></category>
 		<category><![CDATA[coreint]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=3728</guid>
-		<description><![CDATA[We posted episode 224 of Core Intuition today. From the show notes: &#8220;Manton and Daniel discuss Apple’s revelation that Cookie Monster uses an iPhone, consider the Amazon Echo as the next big technology platform, and catch up with Manton’s successful 30 days of Austin coffee challenge.&#8221; I like this episode because it touches a little [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>We posted <a href="http://www.coreint.org/2016/03/episode-224-its-good-enough-for-cookie-monster/">episode 224 of Core Intuition today</a>. From the show notes:</p>
-<blockquote><p>
-  &#8220;Manton and Daniel discuss Apple’s revelation that Cookie Monster uses an iPhone, consider the Amazon Echo as the next big technology platform, and catch up with Manton’s successful 30 days of Austin coffee challenge.&#8221;
-</p></blockquote>
-<p>I like this episode because it touches a little on tech industry and business themes that we weren&#8217;t planning to talk about, so it captures whatever our gut feelings were on those topics. And as we talk about at the end of the show, I did end up wrapping up the coffee shop visits today. I&#8217;ve updated <a href="http://www.manton.org/coffee-shops-austin">the coffee shop page on this site</a> with the final list.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/03/core-intuition-224.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Two new episodes</title>
-		<link>http://www.manton.org/2016/03/two-new-episodes.html</link>
-		<comments>http://www.manton.org/2016/03/two-new-episodes.html#comments</comments>
-		<pubDate>Fri, 11 Mar 2016 21:54:21 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Podcasts]]></category>
-		<category><![CDATA[coreint]]></category>
-		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[email]]></category>
+		<category><![CDATA[snippets]]></category>
 		<category><![CDATA[timetable]]></category>
 
-		<guid isPermaLink="false">http://www.manton.org/?p=3700</guid>
-		<description><![CDATA[We posted episode 223 of Core Intuition today. From the show notes: &#8220;Daniel and Manton discuss strategies for filing and organizing bugs. They talk about the expected iPad and iPhone announcements at Apple’s March 21 event, and they follow up on discussion about apps that delight and take their own problem domains seriously.&#8221; I also [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>We posted <a href="http://www.coreint.org/2016/03/episode-223-every-little-nuanced-problem/">episode 223 of Core Intuition</a> today. From the show notes:</p>
-<blockquote><p>
-  &#8220;Daniel and Manton discuss strategies for filing and organizing bugs. They talk about the expected iPad and iPhone announcements at Apple’s March 21 event, and they follow up on discussion about apps that delight and take their own problem domains seriously.&#8221;
-</p></blockquote>
-<p>I also posted <a href="http://timetable.manton.org/2016/03/episode-16-dont-panic/">episode 16 of Timetable</a>. On this quick 3-minute show, I talk about trying not to panic when things go wrong, with a couple examples from this week.</p>
+		<guid isPermaLink="false">http://www.manton.org/?p=4121</guid>
+		<description><![CDATA[Earlier this week I sent an email to subscribers of the announce list for my microblogging project. These are people who signed up, wanting to hear more about what the project was and when the beta would be available. I talked about this on Core Intuition 241 today. Some people signed up a year ago, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Earlier this week <a href="http://eepurl.com/b42G0T">I sent an email</a> to subscribers of the announce list for my microblogging project. These are people who <a href="http://eepurl.com/6vVvj">signed up</a>, wanting to hear more about what the project was and when the beta would be available.</p>
+<p>I talked about this on <a href="http://coreint.org/241">Core Intuition 241</a> today. Some people signed up a year ago, and the longer I went without sending an email, the more nervous I became that I was missing an opportunity to sustain interest in the project. I was stuck on the idea that the first email to the list had to be when there was a product to either test or pay for.</p>
+<p>These decisions of when to release a product, what to write about, how to communicate new ideas without overwhelming potential customers — they seem so monumental, but the truth is it just doesn&#8217;t matter that much. When the feedback started rolling in over email, I quickly realized that I was worried for nothing. People were excited and supportive.</p>
+<p>I have a lot of work to do over the next couple of weeks before it&#8217;s ready to open up to real users. As I&#8217;ve talked about a few times on <a href="http://timetable.fm/">my Timetable podcast</a>, I&#8217;m planning a Kickstarter project to complement the web app. I&#8217;ll be sharing more soon.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/03/two-new-episodes.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
-		<title>Is this even possible?</title>
-		<link>http://www.manton.org/2016/02/is-this-even-possible.html</link>
-		<comments>http://www.manton.org/2016/02/is-this-even-possible.html#comments</comments>
-		<pubDate>Sat, 27 Feb 2016 21:08:33 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Personal]]></category>
-		<category><![CDATA[austin]]></category>
-		<category><![CDATA[coffee]]></category>
-		<category><![CDATA[coreint]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=3580</guid>
-		<description><![CDATA[When I tell people that I&#8217;ve started going to a new coffee shop every day for a month — and importantly, one which I&#8217;ve never been to before after living my whole life in Austin, with no duplicates or separate locations from a coffee chain — they usually ask: are you going to run out of [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>When I tell people that <a href="http://www.manton.org/coffee-shops-austin">I&#8217;ve started going to a new coffee shop every day</a> for a month — and importantly, one which I&#8217;ve never been to before after living my whole life in Austin, with no duplicates or separate locations from a coffee chain — they usually ask: are you going to run out of places to go? At the beginning I didn&#8217;t know. And that has made it a particularly fun challenge, because <em>doing something that you know is possible is boring</em>.</p>
-<p>I&#8217;ve never been interested in building an iOS app that someone else has already done. I&#8217;ve never been excited to write a blog post that is just a rephrasing of someone else&#8217;s idea. Starting a new project with a unique twist, even a minor one, is what makes our job as developers and writers fun.</p>
-<p>And it&#8217;s easy to take a simple idea and build it into a more advanced project. <a href="http://www.coreint.org/2016/02/episode-221-in-the-zone-of-programming/">On the latest Core Intuition</a>, Daniel continues to suggest ways to add layers to my coffee trips, from adding photos, to publishing future locations ahead of time so that anyone can stop by and join me for a coffee. (I&#8217;m going to be doing this.)</p>
-<p>Now at day 10, I can more easily answer the original question, though. I have 16 suggested coffee shops in the queue, so if I visit all of those, I&#8217;ll only need 4 more places to hit 30 new coffee shops in 30 days. A few of these might seem like borderline cheats — a donut shop, or a food truck to pick up a Thai iced coffee — but being exposed to new places I would never otherwise go is the whole point.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/02/is-this-even-possible.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Core Intuition 218</title>
-		<link>http://www.manton.org/2016/02/core-intuition-218.html</link>
-		<comments>http://www.manton.org/2016/02/core-intuition-218.html#comments</comments>
-		<pubDate>Fri, 05 Feb 2016 13:00:00 +0000</pubDate>
+		<title>Podcast thoughts on WWDC</title>
+		<link>http://www.manton.org/2016/06/podcast-thoughts-on-wwdc.html</link>
+		<pubDate>Sat, 18 Jun 2016 12:55:13 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Podcasts]]></category>
 		<category><![CDATA[coreint]]></category>
-		<category><![CDATA[passwords]]></category>
-		<category><![CDATA[searchpath]]></category>
+		<category><![CDATA[interview]]></category>
+		<category><![CDATA[macstories]]></category>
+		<category><![CDATA[timetable]]></category>
+		<category><![CDATA[wwdc]]></category>
+		<category><![CDATA[wwdc2016]]></category>
 
-		<guid isPermaLink="false">http://www.manton.org/?p=3492</guid>
-		<description><![CDATA[On this week’s Core Intuition: “Manton and Daniel talk about Apple’s current and future stock price, and their potential to branch out into other technologies such as virtual reality. They discuss Facebook’s shuttering of Parse and the implications for iOS developers and Facebook’s PR. Finally, they respond to listener Q&#38;A about getting up to speed [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>On <a href="http://coreint.org/218">this week’s Core Intuition</a>:</p>
+		<guid isPermaLink="false">http://www.manton.org/?p=4044</guid>
+		<description><![CDATA[I&#8217;m back from San Francisco, catching up on everything I missed while traveling. I recorded a few podcast episodes during WWDC week, both my own and an interview. On Core Intuition, Daniel and I talked right after the keynote about the morning&#8217;s announcements. From the show notes: Manton and Daniel react to the 2016 WWDC [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;m back from San Francisco, catching up on everything I missed while traveling. I recorded a few podcast episodes during WWDC week, both my own and an interview.</p>
+<p><a href="http://www.coreint.org/2016/06/episode-237-wwdc-2016/">On Core Intuition</a>, Daniel and I talked right after the keynote about the morning&#8217;s announcements. From the show notes:</p>
 <blockquote><p>
-  “Manton and Daniel talk about Apple’s current and future stock price, and their potential to branch out into other technologies such as virtual reality. They discuss Facebook’s shuttering of Parse and the implications for iOS developers and Facebook’s PR. Finally, they respond to listener Q&amp;A about getting up to speed on using and implementing your own web services.”
+  Manton and Daniel react to the 2016 WWDC keynote. [&#8230;] iMessage and Siri extensibility, Continuity improvements, Apple Pay for the web, Apple’s keynote diversity, and more.
 </p></blockquote>
-<p>Toward the end of the show, I also discuss my approach to password-less accounts for <a href="http://searchpath.io/">Searchpath</a> and my not-quite-released latest web app. While still far from perfect, I think getting away from passwords is an important next step for apps. Passwords are just too annoying for users to keep track of and enter, and a potential security issue and headache for system administrators.</p>
+<p>In the middle of the week, <a href="https://soundcloud.com/user-907896436/motiv-manton-normalized">I talked with John Voorhees of MacStories</a> about WWDC news but also a lot about microblogging. It may be the most I&#8217;ve shared about my latest project, all in one place.</p>
+<p>Yesterday, I recorded a <a href="http://timetable.manton.org/2016/06/episode-24-san-francisco-reset/">short episode of Timetable</a>. I wanted to capture what the trip to San Francisco each year means to me, outside of the conference itself. I find the week a good opportunity to reset and think about where my focus should be across my projects.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/02/core-intuition-218.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>New podcast: Timetable</title>
-		<link>http://www.manton.org/2016/01/new-podcast-timetable.html</link>
-		<comments>http://www.manton.org/2016/01/new-podcast-timetable.html#comments</comments>
-		<pubDate>Mon, 11 Jan 2016 21:34:12 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Podcasts]]></category>
-		<category><![CDATA[coreint]]></category>
-		<category><![CDATA[microblog]]></category>
-		<category><![CDATA[microcast]]></category>
-		<category><![CDATA[podcasts]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=3350</guid>
-		<description><![CDATA[I&#8217;m launching a new podcast today. For a while I&#8217;ve felt like there could be something interesting in a very short podcast, where I talk a little about what I&#8217;m working on or thinking about throughout the week. Each episode is going to be just 3-5 minutes. It&#8217;s called Timetable. I&#8217;ve published 3 episodes, and [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>I&#8217;m launching a new podcast today. For a while I&#8217;ve felt like there could be something interesting in a very short podcast, where I talk a little about what I&#8217;m working on or thinking about throughout the week. Each episode is going to be just 3-5 minutes.</p>
-<p>It&#8217;s called <a href="http://timetable.manton.org/">Timetable</a>. I&#8217;ve published 3 episodes, and have a 4th that will go out later today. I think of it as a &#8220;microcast&#8221;, complementing the informal nature of my microblog posts. And just as I have longer essays on my weblog, of course I&#8217;ll continue to explore larger topics for indie Mac and iOS developers on <a href="http://coreint.org/">Core Intuition</a> with Daniel Jalkut.</p>
-<p>If you check it out, let me know what you think at <a href="mailto:manton@manton.org">manton@manton.org</a>. Thanks!</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/01/new-podcast-timetable.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Core Intuition 211 and fallback plans</title>
-		<link>http://www.manton.org/2015/12/core-intuition-211-and-fallback-plans.html</link>
-		<comments>http://www.manton.org/2015/12/core-intuition-211-and-fallback-plans.html#comments</comments>
-		<pubDate>Fri, 18 Dec 2015 16:52:28 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Podcasts]]></category>
-		<category><![CDATA[coreint]]></category>
-		<category><![CDATA[kazu]]></category>
-		<category><![CDATA[podcast]]></category>
-		<category><![CDATA[techtalk]]></category>
-		<category><![CDATA[tvos]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=3268</guid>
-		<description><![CDATA[Today on Core Intuition, Daniel and I talk about my time at the tvOS Tech Talk and the recent executive changes at Apple. From the show notes: &#8220;Manton and Daniel discuss Apple TV development challenges, Apple’s executive team shakeup and its impact on the App Stores, and keeping a good attitude about successes and shortcomings [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="http://coreint.org/211">Today on Core Intuition</a>, Daniel and I talk about my time at the tvOS Tech Talk and the recent executive changes at Apple. From the show notes:</p>
-<blockquote><p>
-  &#8220;Manton and Daniel discuss Apple TV development challenges, Apple’s executive team shakeup and its impact on the App Stores, and keeping a good attitude about successes and shortcomings as an ambitious indie developer.&#8221;
-</p></blockquote>
-<p>We wrap up the show with a conversation about taking risks and setting the right priorities for an indie business. Along the way I mention <a href="http://twitter.com/boltcity/status/6672228351">this tweet from Kazu Kibuishi</a>, which I misquoted slightly. Here&#8217;s the actual text:</p>
-<blockquote><p>
-  &#8220;A professor once told me that &#8216;if you have a fallback, you will fall back.&#8217; I have found this to be true.&#8221;
-</p></blockquote>
-<p>If you enjoy the show, consider letting a friend know about it, or leaving a mini review on Twitter or iTunes. Thanks!</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/12/core-intuition-211-and-fallback-plans.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Core Intuition 210</title>
-		<link>http://www.manton.org/2015/12/core-intuition-210.html</link>
-		<comments>http://www.manton.org/2015/12/core-intuition-210.html#comments</comments>
-		<pubDate>Sat, 12 Dec 2015 21:32:56 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Podcasts]]></category>
-		<category><![CDATA[coreint]]></category>
-		<category><![CDATA[podcast]]></category>
-		<category><![CDATA[swift]]></category>
-		<category><![CDATA[wordpress]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=3253</guid>
-		<description><![CDATA[On the latest Core Intuition, we talk about open source Swift, it&#8217;s potential for web server frameworks, and more about blogging tools. From the show notes: &#8220;Daniel and Manton react to Swift’s open-sourcing, and the extent to which it adds momentum to the language and increases its appeal. They also discuss the open-sourcing of Microsoft’s [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>On the <a href="http://www.coreint.org/2015/12/episode-210-they-pushed-it-to-github/">latest Core Intuition</a>, we talk about open source Swift, it&#8217;s potential for web server frameworks, and more about blogging tools. From the show notes:</p>
-<blockquote><p>
-  &#8220;Daniel and Manton react to Swift’s open-sourcing, and the extent to which it adds momentum to the language and increases its appeal. They also discuss the open-sourcing of Microsoft’s MarsEdit-esque blog editor, Windows Live Writer.&#8221;
-</p></blockquote>
-<p>There were also a few new jobs posted to <a href="http://jobs.coreint.org/">jobs.coreint.org</a> yesterday. Check them out if you&#8217;re considering a change for 2016, or just curious what is out there for Objective-C and Swift jobs.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/12/core-intuition-210.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Swift and Core Intuition 209</title>
-		<link>http://www.manton.org/2015/12/swift-and-core-intuition-209.html</link>
-		<comments>http://www.manton.org/2015/12/swift-and-core-intuition-209.html#comments</comments>
-		<pubDate>Thu, 03 Dec 2015 21:13:51 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Programming]]></category>
-		<category><![CDATA[coreint]]></category>
-		<category><![CDATA[opensource]]></category>
-		<category><![CDATA[servers]]></category>
-		<category><![CDATA[swift]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=3225</guid>
-		<description><![CDATA[Like many developers, I&#8217;ve spent the morning looking over the Swift open source release. I continue to be intrigued and look forward to working Swift into more of my routine. On today&#8217;s Core Intuition, Daniel and I talked about Swift for about half of the 50-minute episode. We recorded the episode yesterday afternoon, before the [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Like many developers, I&#8217;ve spent the morning looking over the <a href="https://swift.org/">Swift open source release</a>. I continue to be intrigued and look forward to working Swift into more of my routine.</p>
-<p>On <a href="http://www.coreint.org/2015/12/episode-209-we-need-a-grand-gesture/">today&#8217;s Core Intuition</a>, Daniel and I talked about Swift for about half of the 50-minute episode. We recorded the episode yesterday afternoon, before the open source announcement, so we&#8217;ll be following up next week on everything that has changed. I bet there will be some more progress in Swift web server frameworks by then, too.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/12/swift-and-core-intuition-209.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.354 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 14:59:52 -->
+<!-- Dynamic page generated in 0.304 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 12:46:28 -->

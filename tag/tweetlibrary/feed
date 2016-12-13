@@ -8,19 +8,18 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; tweetlibrary</title>
+	<title>tweetlibrary &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/tweetlibrary/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
 		<title>Cute release notes</title>
 		<link>http://www.manton.org/2016/02/cute-release-notes.html</link>
-		<comments>http://www.manton.org/2016/02/cute-release-notes.html#comments</comments>
 		<pubDate>Wed, 03 Feb 2016 19:42:49 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -37,13 +36,10 @@
 <p>I agree. These were fun at first, but the release notes don’t need to be entertainment. They should be a summary of what changed, with bullet points for key changes. (A single “bug fixes” line is also not helpful.)</p>
 <p>I personally like to start each line with a clear statement: “Fixed &lt;something&gt;” or “Added &lt;this feature&gt;” or “Improved &lt;something else&gt; by &lt;doing this&gt;”. You can see this in <a href="http://www.riverfold.com/software/tweetlibrary/releasenotes/">the history of my Tweet Library release notes</a>, for example.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/02/cute-release-notes.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Developing for the iPad Pro</title>
 		<link>http://www.manton.org/2015/11/developing-for-the-ipad-pro.html</link>
-		<comments>http://www.manton.org/2015/11/developing-for-the-ipad-pro.html#comments</comments>
 		<pubDate>Fri, 13 Nov 2015 19:19:01 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -64,13 +60,10 @@
 <p>The key to iPad Pro support is actually less about auto layout (although that&#8217;s helpful too), and more about split views and size classes. For a modern app, this is an easy transition. But Tweet Library was written for iOS 4. Back then, UISplitViewController was extremely underpowered. I had used MGSplitViewController instead, which I&#8217;ve modified over the years to adapt to multiple screen sizes from the iPhone to the iPad. So the first step to real iPad multitasking was to rip out most of the split view code and start over with a clean foundation based on iOS 8/9 and UISplitViewController. Not exactly trivial work that I could knock out in a day, although I tried.</p>
 <p>I remain very optimistic about the iPad Pro, especially <a href="http://www.manton.org/2015/11/the-incomplete-ipad-pro.html">when the Apple Pencil is actually available</a>. From a business standpoint, it also seems like a better investment in time than either the Apple Watch or Apple TV. There are so many platforms and distractions now. If I can&#8217;t focus on a single platform, I want to at least be proactive in saving some attention for the iPad.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/11/developing-for-the-ipad-pro.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Watermark transition plan</title>
 		<link>http://www.manton.org/2015/05/watermark-transition-plan.html</link>
-		<comments>http://www.manton.org/2015/05/watermark-transition-plan.html#comments</comments>
 		<pubDate>Mon, 04 May 2015 14:23:59 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -86,13 +79,10 @@
 <p>You can <a href="http://tweetmarker.net/">learn more about Tweet Marker here</a>. I’ve had to significantly scale out the backend servers this year, including adding a second load balancer, so I’d love your support. The new timeline feature will roll out later in May.</p>
 <p>While I’m happy to keep offering a part of Watermark (now back in Tweet Marker), I have less good news for Tweet Library. I’ve found it very difficult to justify the time to finish the new version. It’s now looking likely that the current version will be the last.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/05/watermark-transition-plan.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Tweet Library 2.7 and promising features</title>
 		<link>http://www.manton.org/2015/01/tweet-library-2-7-and-promising-features.html</link>
-		<comments>http://www.manton.org/2015/01/tweet-library-2-7-and-promising-features.html#comments</comments>
 		<pubDate>Wed, 21 Jan 2015 17:55:45 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -109,13 +99,10 @@
 <p>I also view it as a sort of parting &#8220;thank you&#8221; to my customers. It&#8217;s just the right thing to do to wrap up the app. <a href="http://www.panic.com/blog/the-future-of-unison/">Panic did the same thing</a> when they stopped selling Unison, releasing a major free update at the same time.</p>
 <p>If you&#8217;re interested in picking up a copy of Tweet Library before it&#8217;s too late, you can <a href="http://appstore.com/tweetlibrary">buy it on the App Store for $4.99</a>. The new version should ship in early February.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/01/tweet-library-2-7-and-promising-features.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Winding down my Twitter apps</title>
 		<link>http://www.manton.org/2014/11/winding-down-my-twitter-apps.html</link>
-		<comments>http://www.manton.org/2014/11/winding-down-my-twitter-apps.html#comments</comments>
 		<pubDate>Mon, 24 Nov 2014 14:54:08 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -134,13 +121,10 @@
 <p>I will also continue to host the Tweet Marker API, but starting in January I will be more strict about requiring developers to pay for the service. Many developers have been paying for API access for a year (thank you!), but others have missed or ignored my requests to move to a paid plan. It&#8217;s not fair to the Twitter developers who have been paying for Tweet Marker access if some continue get the API for free.</p>
 <p>Many friends have told me over the years that I have <a href="http://www.riverfold.com/">too many products</a>. But letting any one product go is not easy. There&#8217;s an implicit promise when shipping software that the developer should maintain and improve it for customers. Stopping development on these apps is the right decision and possibly long overdue, but it&#8217;s still difficult. What gives me hope is that it will let me focus on new projects currently in development, which I couldn&#8217;t be more excited about.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/11/winding-down-my-twitter-apps.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Tweet Library 2.6</title>
 		<link>http://www.manton.org/2014/10/tweet-library-2-6.html</link>
-		<comments>http://www.manton.org/2014/10/tweet-library-2-6.html#comments</comments>
 		<pubDate>Fri, 03 Oct 2014 17:47:46 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -155,13 +139,10 @@
 				<content:encoded><![CDATA[<p><a href="http://appstore.com/tweetlibrary">Tweet Library 2.6</a> shipped today after 13 days waiting for review from Apple. This release adds support for the iPhone 6 and iPhone 6 Plus screen sizes, as well as improvements to sharing so that iOS 8 extensions can be used, and a fix for an annoying random crashing bug.</p>
 <p>I also finally dropped iOS 5 and 6 support for this release. I wanted to support the iPad 1 as long as possible because those were my very first customers when I launched Tweet Library 1.0 almost exactly 4 years ago. I hope they got an incredible value out of the app in that time (all upgrades have been free). It feels good to turn a corner and require iOS 7.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/10/tweet-library-2-6.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Core Intuition 156</title>
 		<link>http://www.manton.org/2014/09/core-intuition-156.html</link>
-		<comments>http://www.manton.org/2014/09/core-intuition-156.html#comments</comments>
 		<pubDate>Thu, 25 Sep 2014 17:12:19 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Podcasts]]></category>
@@ -175,13 +156,10 @@
 <p>I&#8217;m now convinced that Apple will have something like a 6C next year to maintain the 4-inch design. It will never have the best camera or longest battery life — that will be reserved for the larger phones — but there will be 3 fully supported sizes with some core modern features like Touch ID and Apple Pay.</p>
 <p>We also talk about updating your app for the new screen sizes and iOS 8. My update to Tweet Library is still waiting for review, but hopefully will be approved soon.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/09/core-intuition-156.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Mlkshk mirror</title>
 		<link>http://www.manton.org/2014/05/mlkshk_mirror.html</link>
-		<comments>http://www.manton.org/2014/05/mlkshk_mirror.html#comments</comments>
 		<pubDate>Thu, 08 May 2014 13:18:12 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -199,13 +177,10 @@
 <p>Now we find out that <a href="http://mlkshk.typepad.com/mlkshk/2014/04/goodbye.html">Mlkshk is shutting down</a>. They are working <a href="https://twitter.com/textfiles/status/463436494364213249">with the Internet Archive</a> to make sure the content is preserved, and they might still find a buyer for the whole service, but as things stand it’s likely that every link to Mlkshk-hosted images will break in September.</p>
 <p>Mlkshk hasn’t been on my radar lately, but it was widely used enough a couple years ago that I added support for its image thumbnails to <a href="http://www.riverfold.com/software/tweetlibrary/">Tweet Library</a>. I hope they can at least find a solution to keep mlkshk.com working as a static site.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/05/mlkshk_mirror.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Twitter ads</title>
 		<link>http://www.manton.org/2014/04/twitter_ads.html</link>
-		<comments>http://www.manton.org/2014/04/twitter_ads.html#comments</comments>
 		<pubDate>Fri, 25 Apr 2014 14:39:17 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -221,13 +196,10 @@
 <p><img src="http://www.manton.org/images/2014/promoted_tweets_dashboard.png" width="600" height="367" alt="Promoted tweets dashboard" border="0" /></p>
 <p>Unfortunately I don’t have an easy way to track this all the way to actual App Store sales. Assuming a 5% conversion on App Store visits, I likely lost a little money. The extra 1800 impressions is nice though, to raise awareness about the app. I’m going to let it run for a week.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/04/twitter_ads.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Tweet Library 2.5 and consolidation</title>
 		<link>http://www.manton.org/2014/04/tweet_library_25.html</link>
-		<comments>http://www.manton.org/2014/04/tweet_library_25.html#comments</comments>
 		<pubDate>Wed, 23 Apr 2014 17:09:35 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -248,11 +220,9 @@
 <p>But I do need to start consolidating my work on Tweet Library and <a href="http://watermark.io/">Watermark</a>, because the apps share so many concepts around archiving and search. To that end, this week I&#8217;m retiring tweetlibrary.com as a way to browse and publish collections. The site will now redirect to a special landing page on Watermark. Published collections from Tweet Library also go to a public page on Watermark.</p>
 <p>It was a tough decision to change the tweetlibrary.com URLs, but maintaining separate web apps that are so similar made everything more complicated, holding back what I could build. Having a single web codebase (Watermark) will ultimately let me improve both Tweet Library and Watermark more quickly.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/04/tweet_library_25.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.334 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 14:59:40 -->
+<!-- Dynamic page generated in 0.293 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 15:04:53 -->

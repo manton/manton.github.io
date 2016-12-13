@@ -8,19 +8,18 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; business</title>
+	<title>business &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/business-2/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
 		<title>Release Notes 2015</title>
 		<link>http://www.manton.org/2015/10/release-notes-2015.html</link>
-		<comments>http://www.manton.org/2015/10/release-notes-2015.html#comments</comments>
 		<pubDate>Mon, 26 Oct 2015 17:52:51 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Events]]></category>
@@ -43,13 +42,10 @@
 <p>David Smith mentioned in his talk at Release Notes that he used to want to do everything. Have a best selling app, win a design award, be admired by his peers, and other goals that many of us share. It was only when he set out with a more singular focus — judging every decision by whether it moved his business forward so he could continue to support his family — that all the other secondary goals started taking care of themselves as well. It was a great talk and something I needed to hear.</p>
 <p>As a community we&#8217;re ambitious. We want to build something amazing and we want to make a positive impact on the world. But this week was also a reminder to me that it&#8217;s okay to be more focused, to tackle niche vertical apps, or make small boring decisions that will help our business. It&#8217;s okay, even as we want to do more, to slow down and be proud and content with the path that we&#8217;re on.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/10/release-notes-2015.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>The Focus Course</title>
 		<link>http://www.manton.org/2015/06/the-focus-course.html</link>
-		<comments>http://www.manton.org/2015/06/the-focus-course.html#comments</comments>
 		<pubDate>Wed, 24 Jun 2015 00:17:50 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Books]]></category>
@@ -66,13 +62,10 @@
 </p></blockquote>
 <p>I love the scope of this. It sounds like he put everything into it.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/06/the-focus-course.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Luck being indie</title>
 		<link>http://www.manton.org/2014/10/luck-being-indie.html</link>
-		<comments>http://www.manton.org/2014/10/luck-being-indie.html#comments</comments>
 		<pubDate>Wed, 08 Oct 2014 15:02:19 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -89,13 +82,10 @@
 <p>Reminds me of the book <a href="http://www.amazon.com/gp/product/1118249755/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1118249755&amp;linkCode=as2&amp;tag=mantonorg&amp;linkId=Q2MNQOANOEQSNRP2">Get Lucky</a> by Lane Becker and Thor Muller. Like half the business books I&#8217;ve bought, I never finished reading the whole thing, but it&#8217;s in the stack on my bedside table and I pick it up every once in a while and read something new. I love the book&#8217;s premise and they&#8217;ve got some great stories.</p>
 <p>Most of life is a series of random opportunities. Knowing which ones to skip and which to double-down on makes all the difference.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/10/luck-being-indie.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>$10 iPad apps</title>
 		<link>http://www.manton.org/2010/06/10_ipad_apps.html</link>
-		<comments>http://www.manton.org/2010/06/10_ipad_apps.html#comments</comments>
 		<pubDate>Thu, 24 Jun 2010 05:39:56 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -141,13 +131,10 @@
 <blockquote><p>&#8220;More of their customers notice and demand great design and polish. More sales come from people who have heard of your product first and seek it out by name. Many of these apps are priced above $0.99. These are unlikely to have giant bursts of sales, and hardly any will come close to matching the revenue of the high-profile success stories, but they have a much greater chance of building sustained, long-term income.&#8221;</p></blockquote>
 <p>We&#8217;re three months into the iPad, just passed 3 million devices sold, and not every app has dropped to near-free. I think $10 iPad apps in particular are going to remain pretty common.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2010/06/10_ipad_apps.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>It&#8217;s okay to ignore the iPhone</title>
 		<link>http://www.manton.org/2009/09/its_okay_to.html</link>
-		<comments>http://www.manton.org/2009/09/its_okay_to.html#comments</comments>
 		<pubDate>Fri, 18 Sep 2009 13:02:04 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -168,13 +155,10 @@
 <p>Imagine for a moment that &#8220;Yellow Box for Windows&#8221;:http://www.cocoadev.com/index.pl?YellowBox wasn&#8217;t killed off &mdash; that we could build Windows apps using Cocoa. Should I make my apps cross-platform just because it&#8217;s Objective-C? No. Writing software for a platform I don&#8217;t use would be like still supporting Mac OS X 10.2; there&#8217;s no way I&#8217;m going to boot into that thing to test and fix my app.</p>
 <p>If you&#8217;re a Mac developer, my message to you is the same: just because the iPhone is awesome and runs on Objective-C <em>does not mean you are required to build software for it</em>. Maybe your time would be better spent refining old apps or building new ones on the Mac. Maybe&#8230; the iPhone doesn&#8217;t need you, either.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2009/09/its_okay_to.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Wii Transfer 2.6 and August</title>
 		<link>http://www.manton.org/2008/09/wii_transfer_26.html</link>
-		<comments>http://www.manton.org/2008/09/wii_transfer_26.html#comments</comments>
 		<pubDate>Wed, 03 Sep 2008 02:59:05 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -190,13 +174,10 @@
 <p>While I don&#8217;t expect nearly this level for September, I am nevertheless interested in how far it will drop. Maybe I&#8217;ll post an updated chart at the end of the year.</p>
 <p>For the extra curious, the jumps in September and October of last year were when I released version 2.5 and when I did the MacZOT promotion. December was MacSanta, and somewhere in the middle of there I did the Nintendo Wii giveaway.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2008/09/wii_transfer_26.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>MacSanta 2007 in time for Christmas</title>
 		<link>http://www.manton.org/2007/12/macsanta_2007_in.html</link>
-		<comments>http://www.manton.org/2007/12/macsanta_2007_in.html#comments</comments>
 		<pubDate>Wed, 19 Dec 2007 23:23:31 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -213,13 +194,10 @@
 <p><img src="http://www.manton.org/images/2007/macsanta_coupon.png" alt="MacSanta coupon" border="0" width="270" height="145" style="border: 1px solid lightgray;" /></p>
 <p>On Friday the discount drops to a respectable 10% off for the rest of the month. Happy holidays!</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2007/12/macsanta_2007_in.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Wrapping up the Wii Giveaway</title>
 		<link>http://www.manton.org/2007/12/wrapping_up_the.html</link>
-		<comments>http://www.manton.org/2007/12/wrapping_up_the.html#comments</comments>
 		<pubDate>Wed, 19 Dec 2007 05:41:52 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -238,13 +216,10 @@
 <p>Mistakes? I should have made the whole promotion last just a day or two, and hyped it before launching instead. I also should have required that Twitter users follow Wii before entering, which would have boosted those followers and also greatly simplified tracking submissions (replies were spread over 3 RSS feeds and 33 iChat log transcripts). Relatively minor complaints, though, overall.</p>
 <p>To everyone who provided feedback on the idea, thanks. Maybe next year I&#8217;ll implement some of the more interesting promotion ideas I heard.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2007/12/wrapping_up_the.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Holiday Wii Giveaway and Twitter</title>
 		<link>http://www.manton.org/2007/12/holiday_wii_giveaway.html</link>
-		<comments>http://www.manton.org/2007/12/holiday_wii_giveaway.html#comments</comments>
 		<pubDate>Wed, 05 Dec 2007 05:18:04 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -262,13 +237,10 @@
 <p>So what&#8217;s the solution? For now, a combination of things. I am now tracking every tweet that contains &#8220;wii&#8221; (try it, there are some fun ones), which I will aggregate with the standard replies as well as results from a search on &#8220;Terraminds&#8221;:http://terraminds.com/twitter/ to fill in any of the tweets I missed. It&#8217;s all a bit cumbersome because the tracking results come through IM (luckily iChat transcripts are XML now).</p>
 <p>It feels very fragile, but hopefully I won&#8217;t miss any entries. There&#8217;s no cost to submitting multiple times, so consider sending another @wii tweet next week or entering with the web form to guarantee you&#8217;re in the drawing. If in doubt, re-read the &#8220;last line on the fine print&#8221;:http://www.riverfold.com/software/wiitransfer/giveaway/.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2007/12/holiday_wii_giveaway.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Wii Transfer on macZOT</title>
 		<link>http://www.manton.org/2007/10/wii_transfer_on.html</link>
-		<comments>http://www.manton.org/2007/10/wii_transfer_on.html#comments</comments>
 		<pubDate>Wed, 17 Oct 2007 14:01:45 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -283,11 +255,9 @@
 <p>Lisa at macZOT has been great to work with, letting me set the price (even though I get a small fraction of what a normal sale would be, I felt it was important to do the promotion to its fullest and go below $10), and making sure macZOT pings my backend script so that serial numbers go out to customers right away. I know people can be frustrated if they have to wait to receive the product, and I also have a new serial number lookup form on the site that ties into all of this quite nicely.</p>
 <p>It&#8217;s a fun experiment. If you&#8217;ve been thinking about purchasing Wii Transfer but thought it was too expensive, head over to macZOT to pick up your copy. The &#8220;discussion page&#8221;:http://maczot.com/discuss/?p=563 will probably have some comments too.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2007/10/wii_transfer_on.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.425 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 15:00:02 -->
+<!-- Dynamic page generated in 0.318 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 15:02:46 -->

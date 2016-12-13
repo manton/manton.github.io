@@ -8,19 +8,18 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; netnewswire</title>
+	<title>netnewswire &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/netnewswire/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
 		<title>RSS reading and writing</title>
 		<link>http://www.manton.org/2014/10/rss-reading-and-writing.html</link>
-		<comments>http://www.manton.org/2014/10/rss-reading-and-writing.html#comments</comments>
 		<pubDate>Thu, 09 Oct 2014 03:17:35 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Weblogs]]></category>
@@ -38,13 +37,10 @@
 <p><a href="http://www.red-sweater.com/marsedit/">MarsEdit</a> of course was famously spun off from NetNewsWire. Early versions of NetNewsWire did three things: reading blogs, organizing ideas in a notepad outliner, and writing new blog posts. I think Brent was on to something with combining all these features, but I also totally understand wanting to simplify so that each component is as good as it can be. MarsEdit wouldn&#8217;t be as full-featured and polished today if it hadn&#8217;t been given that room to grow as its own app.</p>
 <p>Also, don&#8217;t miss the last half of <a href="http://coreint.org/158">today&#8217;s Core Intuition</a>. Daniel and I talk at length about microblogging and owning your own content.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/10/rss-reading-and-writing.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>NewsGator and Sepia Labs</title>
 		<link>http://www.manton.org/2014/05/newsgator_and_sepia.html</link>
-		<comments>http://www.manton.org/2014/05/newsgator_and_sepia.html#comments</comments>
 		<pubDate>Mon, 12 May 2014 13:03:21 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -61,13 +57,10 @@
 </p></blockquote>
 <p>There’s plenty more, about the different stages the company went through from Brent’s perspective. I love posts like this. It’s important to capture the history and culture of tech companies, before our memory fades. And it’s not unlike what Brent has done on a bigger scale for his podcast <a href="http://therecord.co">The Record</a> with Chris Parrish.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/05/newsgator_and_sepia.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>NetNewsWire production process</title>
 		<link>http://www.manton.org/2010/04/netnewswire_production_process.html</link>
-		<comments>http://www.manton.org/2010/04/netnewswire_production_process.html#comments</comments>
 		<pubDate>Mon, 19 Apr 2010 02:56:16 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[User Experience]]></category>
@@ -81,13 +74,10 @@
 <p>iPad interface design is also proving to be much more difficult than I thought it would be. Concepts that work on the iPhone don&#8217;t necessarily translate to the larger device, and there are very few iPad apps to draw inspiration from. There&#8217;s no standout app from Apple&#8217;s lineup either, at least not in the way that iTunes 1.0 defined nearly every Mac app to follow. With the exception of some very basic ideas like splitviews collapsing in portrait mode, and a generous sprinkling of popovers, I&#8217;ve yet to see much consistency from new touch apps.</p>
 <p>Apps that have had the biggest influence on me so far: from the iPhone, Birdfeed and Pastebot; and on the iPad, Mail and Twitterrific. Send me a reply &#8220;on Twitter&#8221;:http://twitter.com/manton if you have any other recommendations.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2010/04/netnewswire_production_process.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>New and old posts about NetNewsWire</title>
 		<link>http://www.manton.org/2008/01/new_and_old-2.html</link>
-		<comments>http://www.manton.org/2008/01/new_and_old-2.html#comments</comments>
 		<pubDate>Fri, 11 Jan 2008 19:29:26 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -110,13 +100,10 @@
 <p>2007: &#8220;New software releases (plus screencast)&#8221;:http://www.manton.org/2007/06/new_software_releases.html</p>
 <p>2008: &#8220;New and old posts about NetNewsWire&#8221;:http://www.manton.org/2008/01/new_and_old.html (you&#8217;re reading it!)</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2008/01/new_and_old-2.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>New software releases (plus screencast)</title>
 		<link>http://www.manton.org/2007/06/new_software_releases.html</link>
-		<comments>http://www.manton.org/2007/06/new_software_releases.html#comments</comments>
 		<pubDate>Wed, 06 Jun 2007 01:20:25 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -132,11 +119,9 @@
 				<content:encoded><![CDATA[<p>Today is a good day to release software. &#8220;MarsEdit gets a nice update&#8221;:http://www.red-sweater.com/blog/346/marsedit-12-growl-picasa-and-vox and &#8220;NetNewsWire 3.0&#8221;:http://ranchero.com/?comments=1&amp;postid=1646 ships. At VitalSource we also just released &#8220;Bookshelf 4.6&#8221;:http://www.vitalsource.com/index/bookshelf today, which lays the foundation for media-rich textbooks and adds a highlighter rating UI for any subscribed highlighters you have. This data will bubble up in a few places in the future to allow you to discover people and books, although for now it&#8217;s one-way.</p>
 <p>Here&#8217;s a &#8220;short screencast of the rating interface&#8221;:http://www.manton.org/screencasts/2007/bookshelf_rating.mov (12 seconds, 700k). The star widget is a simple Cocoa control that hits a web service in the background. It was fun to write and surprisingly not very much code.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2007/06/new_software_releases.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.327 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 15:00:04 -->
+<!-- Dynamic page generated in 0.280 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 15:25:14 -->

@@ -8,19 +8,42 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; writing</title>
+	<title>writing &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/writing/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
+		<title>Paying for web content</title>
+		<link>http://www.manton.org/2016/09/paying-for-web-content.html</link>
+		<pubDate>Fri, 16 Sep 2016 20:29:23 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[animation]]></category>
+		<category><![CDATA[paywalls]]></category>
+		<category><![CDATA[subscriptions]]></category>
+		<category><![CDATA[web]]></category>
+		<category><![CDATA[writing]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4291</guid>
+		<description><![CDATA[I subscribe to a lot of web applications for my indie business, from hosting to invoicing and reporting services. But I also pay for web content when it&#8217;s compelling enough. Here are some web sites with writing and art that I think are worth supporting directly: New York Times. Still the best reporting on the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I subscribe to <a href="http://www.manton.org/2014/04/17_services_for.html">a lot of web applications</a> for my indie business, from hosting to invoicing and reporting services. But I also pay for web <em>content</em> when it&#8217;s compelling enough. Here are some web sites with writing and art that I think are worth supporting directly:</p>
+<p><a href="http://www.nytimes.com/"><strong>New York Times.</strong></a> Still the best reporting on the 2016 presidential campaign. While I usually use RSS for news and blogs, I check the New York Times manually each morning to see what is happening in the world. <em>$10/month.</em></p>
+<p><a href="http://insider.espn.com/"><strong>ESPN Insider.</strong></a> Extra articles to supplement what I read during NBA season. Seemed easy to justify as an expense for my podcast <a href="http://technicalfoul.fm/">Technical Foul</a> with Ben Thompson. Also comes with the ESPN print magazine. <em>$39/year.</em></p>
+<p><a href="https://club.macstories.net/"><strong>Club MacStories.</strong></a> I&#8217;ve enjoyed reading MacStories for years, and the club subscription adds a bunch of great content in a weekly newsletter. You also get occasional book downloads such as for Federico Viticci&#8217;s new <a href="https://www.macstories.net/stories/ios-10-the-macstories-review/">epic iOS 10 review</a>. <em>$5/month.</em></p>
+<p><a href="https://sixcolors.com/subscribe/"><strong>Six Colors.</strong></a> Jason Snell wasted no time after leaving Macworld. Seemingly overnight, Six Colors has become an important site for Apple fans. Jason and Dan Moren talk informally about current work, travel, writing, and tools on their secret podcast for subscribers. There&#8217;s also a monthly email magazine. <em>$6/month.</em></p>
+<p><a href="https://stratechery.com/membership/"><strong>Stratechery.</strong></a> Thoughtful analysis of current news and trends from Ben Thompson, delivered Monday through Thursday via email or RSS for subscribers. Great depth to stories about tech company business models and where the industry is going. Helps pay for his NBA League Pass subscription. <em>$10/month.</em></p>
+<p><a href="https://itsoncraft.com/"><strong>Craft.</strong></a> An archive of sketches, rough animation, and preproduction artwork from animated films. It&#8217;s like an expanded version of behind-the-scenes DVD extras and art books. Initially subscribed for the rough animation for the beautiful film Song of the Sea. <em>$6/month.</em></p>
+<p>Before the web dominated all publishing, it was normal to pay for the newspaper and maybe a few print magazines. Then we entered a period where everything had to be free. Now, paying for content is useful again. The sites above have figured something out about building an audience and creating good content.</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>30 days of libraries, week 1</title>
 		<link>http://www.manton.org/2016/03/30-days-of-libraries-week-1.html</link>
-		<comments>http://www.manton.org/2016/03/30-days-of-libraries-week-1.html#comments</comments>
 		<pubDate>Sun, 27 Mar 2016 16:09:03 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Personal]]></category>
@@ -37,13 +60,10 @@
 <p>I also heard from readers who wanted to see more than the text microblog posts I did for coffee shops, so I&#8217;ve been trying to take more photos. These photos are tagged with <a href="http://www.manton.org/tag/newlibraries">#newlibraries</a> too, so they&#8217;ll show up together with the library text posts. (Photos can be browsed over the web, but they don&#8217;t show up in the default RSS feed. The microblog posts also have <a href="http://www.manton.org/snippets.xml">their own feed</a>.)</p>
 <p>As I mention on <a href="http://timetable.manton.org/2016/02/episode-15-leap-year/">episode 15 of Timetable</a>, working out of the house in the morning helped provide some structure to the work day. I&#8217;d use the morning for writing blog posts and catching up on email, and the afternoon to focus on code. For libraries, I&#8217;m going one step further and <em>only bringing the iPad Pro with me</em>. This means that I&#8217;m using a small range of apps — Editorial, Mail, Safari, Slack — and reinforces the idea that I&#8217;m supposed to be writing.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/03/30-days-of-libraries-week-1.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Blog when you disagree</title>
 		<link>http://www.manton.org/2016/03/blog-when-you-disagree.html</link>
-		<comments>http://www.manton.org/2016/03/blog-when-you-disagree.html#comments</comments>
 		<pubDate>Mon, 14 Mar 2016 19:16:20 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Weblogs]]></category>
@@ -58,13 +78,10 @@
 <p>But sometimes you&#8217;ll find an area where you aren&#8217;t completely in line with the crowd’s opinion. There’s a topic that keeps coming up for which you have something to add. The default story is missing an important angle.</p>
 <p>When you disagree, that’s what you should write about, and you should post it to your blog. 140 characters thrown against wave after wave of mainstream opinion tweets will be drowned out. A blog post isn’t a cheap opinion; it’s a statement that what you think matters.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/03/blog-when-you-disagree.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Long-form writing as a filter</title>
 		<link>http://www.manton.org/2016/01/long-form-writing-as-a-filter.html</link>
-		<comments>http://www.manton.org/2016/01/long-form-writing-as-a-filter.html#comments</comments>
 		<pubDate>Mon, 25 Jan 2016 14:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Weblogs]]></category>
@@ -84,13 +101,10 @@
 <p>This is less of a problem if instead of tweeting you start out with the intention of posting to your own site. Short post can stay short, and posts requiring more words can naturally expand to a full essay.</p>
 <p>I don’t think that our short-form, seemingly unimportant writing should exclusively be on centralized networks. If it’s worth the time to write something — whether a thoughtful essay or a fleeting one-off microblog post — then it’s worth owning and publishing at your own domain name.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/01/long-form-writing-as-a-filter.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>WordPress drafts workflow</title>
 		<link>http://www.manton.org/2016/01/wordpress-drafts-workflow.html</link>
-		<comments>http://www.manton.org/2016/01/wordpress-drafts-workflow.html#comments</comments>
 		<pubDate>Sat, 09 Jan 2016 17:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Weblogs]]></category>
@@ -109,13 +123,10 @@
 <p>I&#8217;ve also been using the <a href="http://manton.org/2015/12/wordpress-podcast-and-calypso.html">Calypso-based</a> WordPress UI a lot lately. I usually work on several blog posts at once, and if a few are ready to go at once, I schedule them to go out later in the day or over the next couple of days. WordPress&#8217;s web UI makes keeping track of scheduled posts pretty nice.</p>
 <p>It hasn&#8217;t been all perfect switching between multiple apps, though. I noticed today that some of my new posts, which I always write in Markdown, were converted to HTML for publishing (likely by Calypso on WordPress.com). But for the most part, no regrets switching over to WordPress. The added flexibility and future-proofing have been good.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/01/wordpress-drafts-workflow.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Six Colors and the iPad Pro</title>
 		<link>http://www.manton.org/2015/11/six-colors-and-the-ipad-pro.html</link>
-		<comments>http://www.manton.org/2015/11/six-colors-and-the-ipad-pro.html#comments</comments>
 		<pubDate>Wed, 18 Nov 2015 04:33:58 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -133,13 +144,10 @@
 </p></blockquote>
 <p>I don&#8217;t think Jason got an Apple Pencil or Smart Keyboard, although maybe he&#8217;ll have one of each in time for his full review. If you&#8217;ve enjoyed reading Six Colors as much as I have over the last year, <a href="https://sixcolors.com/subscribe/">consider subscribing too</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/11/six-colors-and-the-ipad-pro.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>John Siracusa’s unbreakable record</title>
 		<link>http://www.manton.org/2015/04/john-siracusas-unbreakable-record.html</link>
-		<comments>http://www.manton.org/2015/04/john-siracusas-unbreakable-record.html#comments</comments>
 		<pubDate>Fri, 17 Apr 2015 17:22:12 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -155,13 +163,10 @@
 <p>That’s kind of how I view John Siracusa’s <a href="http://arstechnica.com/apple/2015/04/after-fifteen-years-ars-says-goodbye-to-john-siracusas-os-x-reviews/">series of Mac OS X reviews on Ars Technica</a>. There have been other excellent reviews about Mac OS X over the years, but the depth and consistency of John’s reviews may always stand apart. If you’re starting today and want to top it, you will have to work for the next 15 years just to be competitive at all.</p>
 <p><a href="http://hypercritical.co/2015/04/15/os-x-reviewed">Congratulations John</a> on a great run. Nothing seems to last forever on the internet — web sites fade away, and some obscure technology isn’t well-covered to begin with — so it’s nice to know that these Mac OS X reviews are at a stable site where we’ll be able to reference them for years to come.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/04/john-siracusas-unbreakable-record.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>The new Day One</title>
 		<link>http://www.manton.org/2012/08/the_new_day.html</link>
-		<comments>http://www.manton.org/2012/08/the_new_day.html#comments</comments>
 		<pubDate>Sat, 04 Aug 2012 06:41:06 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Books]]></category>
@@ -185,13 +190,10 @@
 </p></blockquote>
 <p>I think the best writers know that it matters what their work looks like in a decade, or two decades, whether the writing is private or public. You can see it in everything from permanent URLs to blog topics to what software they use — a conscious effort to create content that lasts.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2012/08/the_new_day.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>First drafts on iPad</title>
 		<link>http://www.manton.org/2011/04/first_drafts_on.html</link>
-		<comments>http://www.manton.org/2011/04/first_drafts_on.html#comments</comments>
 		<pubDate>Wed, 06 Apr 2011 02:08:24 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Weblogs]]></category>
@@ -205,13 +207,10 @@
 <blockquote><p>&#8220;I can, and do, write regularly with my iPad. But, to be perfectly honest, I rarely use it to edit, because I find it kind of clumsy to move the cursor around the screen with my finger. However, the iPad is a marvellous first draft machine.&#8221;</p></blockquote>
 <p>Most of my blog posts start life on the iPad too. I write them in Simplenote, sync with the Mac to finish the post if it needs editing, then copy to MarsEdit to publish. It&#8217;s not completely smooth, but it&#8217;s a workflow that wasn&#8217;t even possible a year ago.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2011/04/first_drafts_on.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Five days, one paragraph</title>
 		<link>http://www.manton.org/2007/11/five_days_one.html</link>
-		<comments>http://www.manton.org/2007/11/five_days_one.html#comments</comments>
 		<pubDate>Tue, 06 Nov 2007 19:34:07 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Books]]></category>
@@ -227,11 +226,9 @@
 <p>I&#8217;ll keep at it, but I did realize that I have to at least partially plan what the story is about. I have only a vague idea in my head, but as I give it some more thought I will probably jot down notes so that when it comes time to write the tweet each day I know a little bit about where it is going. Even so, please don&#8217;t expect greatness from this work of fiction. You will be disappointed.</p>
 <p>On the plus side, I have received feedback (see &#8220;Ryan Irelan&#8217;s post&#8221;:http://www.ryanirelan.com/past/2007/11/03/story-140/) that it would be great for multiple people to contribute. As I said about NaNoWriMo, what makes some of these projects work is the community. I&#8217;d love to open up this concept, and I can turn the web site into more of an aggregator of sorts. If anyone has suggestions, please email me.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2007/11/five_days_one.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.314 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 14:59:46 -->
+<!-- Dynamic page generated in 0.281 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 14:39:10 -->

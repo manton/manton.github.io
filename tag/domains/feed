@@ -8,19 +8,60 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; domains</title>
+	<title>domains &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/domains/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
+		<title>Twitter and .blog</title>
+		<link>http://www.manton.org/2016/07/twitter-and-blog.html</link>
+		<pubDate>Sat, 16 Jul 2016 15:04:07 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[automattic]]></category>
+		<category><![CDATA[companies]]></category>
+		<category><![CDATA[domains]]></category>
+		<category><![CDATA[dotblog]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2016/07/twitter-and-blog.html</guid>
+		<description><![CDATA[Dave Winer has a good comment for anyone questioning the web: So when they tell you they know for sure that the web is dead, or that everyone wants to host their blogs in locked-up silos, or that you can&#8217;t build a great open social net on RSS, you might want to lower your glasses [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://scripting.com/2016/07/14/1382.html">Dave Winer has a good comment</a> for anyone questioning the web:</p>
+<blockquote><p>
+  So when they tell you they know for sure that the web is dead, or that everyone wants to host their blogs in locked-up silos, or that you can&#8217;t build a great open social net on RSS, you might want to lower your glasses down your nose and look out over the top and ask Reallly? Are you sure?? ;-)
+</p></blockquote>
+<p>Nothing is certain in business. For every success, there are many &#8220;sure thing&#8221; failures.</p>
+<p>I posed a question on <a href="http://coreint.org/241">this week&#8217;s Core Intuition</a> as we were talking about Automattic&#8217;s upcoming <a href="https://dotblog.wordpress.com/">.blog</a> domain name registration. The gist of it was: what is more likely to survive for the next 50 years, Twitter or .blog? Twitter is huge, dominating the news and seemingly unstoppable, but social networks don&#8217;t have a great track record. I&#8217;d put my money on a new top-level domain, both because of the vision of empowering users to control their own content and also because domains were designed to last.</p>
+<p>Companies aren&#8217;t exactly <em>designed</em> to fail. But that is their default outcome.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Domain names can always redirect</title>
+		<link>http://www.manton.org/2016/07/domain-names-can-always-redirect.html</link>
+		<pubDate>Thu, 07 Jul 2016 18:55:06 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[domains]]></category>
+		<category><![CDATA[redirecting]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4094</guid>
+		<description><![CDATA[Just noticed this blog post from Fabian Steeg on the value of personal domain names: So the mere decision to use a custom domain for my blog many years ago made it independent of the actual hosting location (wordpress.com or self-hosted) and publishing system (wordpress or my own software). In a way I’ve been referencing [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Just noticed <a href="http://fsteeg.com/notes/owning-your-content-on-the-web">this blog post from Fabian Steeg</a> on the value of personal domain names:</p>
+<blockquote><p>
+  So the mere decision to use a custom domain for my blog many years ago made it independent of the actual hosting location (wordpress.com or self-hosted) and publishing system (wordpress or my own software). In a way I’ve been referencing a system for years that I only now created. Your own domain and URLs really give you a lot of control over your content, even if that content is actually stored elsewhere for years.
+</p></blockquote>
+<p>Strongly agree with this. Having your own domain will future-proof everything you publish.</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>Waiting out trademarks</title>
 		<link>http://www.manton.org/2015/04/waiting-out-trademarks.html</link>
-		<comments>http://www.manton.org/2015/04/waiting-out-trademarks.html#comments</comments>
 		<pubDate>Fri, 03 Apr 2015 16:10:52 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -34,13 +75,10 @@
 <p>I had to fix the tweetmarks.net redirect recently and checked around on some of the old stuff. That domain name I had been so worried about, which I literally lost sleep over? It&#8217;s gone.</p>
 <p>I’m not going to tell you that trademarks don’t matter. Nothing I write on this blog should ever be considered legal advice. But it’s another reminder that there’s enough real stuff to focus on without wasting time on imaginary problems.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/04/waiting-out-trademarks.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Register a domain name</title>
 		<link>http://www.manton.org/2013/03/register_a_domain.html</link>
-		<comments>http://www.manton.org/2013/03/register_a_domain.html#comments</comments>
 		<pubDate>Fri, 29 Mar 2013 17:09:58 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Weblogs]]></category>
@@ -56,13 +94,10 @@
 </p></blockquote>
 <p>Using Facebook or Twitter or LinkedIn exclusively for your content is like an artist who picks their own colors but still stays within the lines of a paint-by-numbers kit. A domain name is your own canvas. The simple act of saying “I own this” makes all the difference for the scope of what you can create.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/03/register_a_domain.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>WiiTransfer.com</title>
 		<link>http://www.manton.org/2007/03/wiitransfercom.html</link>
-		<comments>http://www.manton.org/2007/03/wiitransfercom.html#comments</comments>
 		<pubDate>Fri, 23 Mar 2007 02:52:13 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -80,11 +115,9 @@
 <p>I&#8217;m also finally rolling out a bug fix update tonight (version 2.2.1, &#8220;available here&#8221;:http://www.riverfold.com/software/wiitransfer/). The most important change is that some MP3s that would not play will now work. Some customers never saw this, but for some people a large percentage of their music library was unusable. It turned out to be that certain kinds of embedded cover album artwork in the MP3 would break the Flash player on the Wii. The work-around I used is to load the MP3 into memory and clear all its ID3 tags before sending it over the wire.</p>
 <p>It feels good to be working on Wii Transfer again. The next version is already underway and should make a lot of people happy.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2007/03/wiitransfercom.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.283 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 15:07:29 -->
+<!-- Dynamic page generated in 0.276 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 14:37:54 -->

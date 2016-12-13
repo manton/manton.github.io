@@ -8,19 +8,96 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; facebook</title>
+	<title>facebook &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/facebook/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
+		<title>Fake news and Instagram</title>
+		<link>http://www.manton.org/2016/11/fake-news-and-instagram.html</link>
+		<pubDate>Tue, 22 Nov 2016 17:14:46 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[instagram]]></category>
+		<category><![CDATA[news]]></category>
+		<category><![CDATA[social]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4484</guid>
+		<description><![CDATA[Twitter has retweets. Facebook has sharing. But Instagram has no built-in reposting. On Instagram, there&#8217;s no instantaneous way to share someone else&#8217;s post to all of your followers. The first version of Instagram was built by a very small team. They&#8217;ve always grown slowly and expanded the UI thoughtfully. I think the lack of a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Twitter has retweets. Facebook has sharing. But Instagram has no built-in reposting. On Instagram, there&#8217;s no instantaneous way to share someone else&#8217;s post to all of your followers.</p>
+<p>The first version of Instagram was built by a very small team. They&#8217;ve always grown slowly and expanded the UI thoughtfully. I think the lack of a repost feature was deliberate.</p>
+<p>When you have to put a little work into posting, you take it more seriously. I wonder if <a href="http://www.manton.org/2016/11/todays-social-networks-are-broken.html">fake news</a> would have spread so quickly on Facebook if it was a little more difficult to share an article before you&#8217;ve read more than the headline.</p>
+<p>It&#8217;s not easy to build software that encourages good behavior. When I look at my Instagram timeline I see beautiful photos, hand-drawn art, and snapshots of everyday life. I see the very best of the world. It&#8217;s not the full truth, but it&#8217;s all true.</p>
+<p>Instagram was no accident. The only question: was it unique to photos, or can the same quality be applied to microblogging?</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Indie publishing is about control</title>
+		<link>http://www.manton.org/2016/11/indie-publishing-is-about-control.html</link>
+		<pubDate>Sat, 19 Nov 2016 20:48:39 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[indie]]></category>
+		<category><![CDATA[microblogging]]></category>
+		<category><![CDATA[publishing]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4476</guid>
+		<description><![CDATA[Andy Baio redesigned his blog recently and argued that blogs still matter because of ownership and control. Of course, I agree. And though it may seem far off, there&#8217;s no guarantee that Twitter will outlast our own blogs. Andy writes: Twitter, itself, may be acquired and changed in some terrible way. It’s not hard to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://waxy.org/2016/11/redesigning-waxy-2016-edition/">Andy Baio redesigned his blog recently</a> and argued that blogs still matter because of ownership and control. Of course, I agree. And though it may seem far off, there&#8217;s no guarantee that Twitter will outlast our own blogs. Andy writes:</p>
+<blockquote><p>
+  Twitter, itself, may be acquired and changed in some terrible way. It’s not hard to imagine a post-Verizon Yahoo selling off Tumblr. Medium keeps pivoting, trying to find a successful revenue model. There’s no guarantee any of these platforms will be around in their current state in a year, let alone ten years from now.
+</p></blockquote>
+<p>Ben Brooks <a href="https://brooksreview.net/2016/11/a-new-waxyorg/">followed up</a>:</p>
+<blockquote><p>
+  Having my own site gives me complete control to do whatever I want, whenever I want, however I want. I don’t understand why people ever want it any other way.
+</p></blockquote>
+<p>Words are powerful. Especially right now, why let anyone else have control over the format of our words and how they spread? Having a blog is a statement: our writing exists apart from the whim of an algorithmic news feed.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Today&#8217;s social networks are broken</title>
+		<link>http://www.manton.org/2016/11/todays-social-networks-are-broken.html</link>
+		<pubDate>Fri, 18 Nov 2016 16:02:47 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[openweb]]></category>
+		<category><![CDATA[snippets]]></category>
+		<category><![CDATA[social]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4471</guid>
+		<description><![CDATA[Brent Simmons has left Twitter, frustrated with the diminishing value of the service, Twitter&#8217;s inability to deal with harassment, and more: And then it was part of the system that helped elect a fascist President. This tipped it over for me: it’s no longer worth my participation. The shitheads can have it. Facebook has also [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://inessential.com/2016/11/09/on_leaving_twitter">Brent Simmons has left Twitter</a>, frustrated with the diminishing value of the service, Twitter&#8217;s inability to deal with harassment, and more:</p>
+<blockquote><p>
+  And then it was part of the system that helped elect a fascist President. This tipped it over for me: it’s no longer worth my participation. The shitheads can have it.
+</p></blockquote>
+<p>Facebook has also been in the news for <a href="http://mashable.com/2016/11/09/facebook-kill-news-feed-trump/">its role in letting fake news spread</a>. Ben Thompson has <a href="https://stratechery.com/2016/fake-news/">a long essay this week on it</a>:</p>
+<blockquote><p>
+  I get why top-down solutions are tempting: fake news and filter bubbles are in front of our face, and wouldn’t it be better if Facebook fixed them? The problem is the assumption that whoever wields that top-down power will just so happen to have the same views I do. What, though, if they don’t?
+</p></blockquote>
+<p>Maybe. Though while we should debate how to balance Facebook&#8217;s enormous power, there should be a parallel effort to move away from the centralized publishing model that gave Facebook that power.</p>
+<p>Facebook has confused itself into thinking it is the whole internet, and so the principles of a free press that apply to the open web, also must apply to Facebook. No. While Facebook has a great responsibility to do the right thing, because they are so big, Facebook is just a web site.</p>
+<p>I want Facebook to improve. I want Twitter to improve. But I can do very little to effect change at those companies, and some problems are so fundamental as to be essentially unfixable. The web wasn&#8217;t supposed to be like this, with all the power and all the writing concentrated into so few sites.</p>
+<p>It&#8217;s time for a new social network that brings discoverability and community without the baggage of an ad-driven network that must grow to a billion users. A social network that embraces the open web, and freedom of expression, while preserving a clean timeline that can&#8217;t be interrupted by harassment.</p>
+<p>Not just one new social network. I hope that many developers will work on products that encourage independent publishing again.</p>
+<p>It&#8217;s going to take time to build. That&#8217;s why I started working on <a href="http://snippets.today/">Snippets.today</a> 2 years ago. I&#8217;ve made great progress, but I&#8217;ve also drifted, unfocused, uncommitted to finishing it, as if I knew something was missing.</p>
+<p>Something <em>was</em> missing. The election results have made that clear. I was thinking big, but not big enough. The way forward must include both a decentralized publishing platform and the tools to encourage a safe community.</p>
+<p>If you&#8217;d like to know when the beta is finally ready, please <a href="http://eepurl.com/6vVvj">subscribe to the announce list</a>. Thank you.</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>Buytaert on the open web</title>
 		<link>http://www.manton.org/2016/03/buytaert-on-the-open-web.html</link>
-		<comments>http://www.manton.org/2016/03/buytaert-on-the-open-web.html#comments</comments>
 		<pubDate>Thu, 17 Mar 2016 20:39:31 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Weblogs]]></category>
@@ -37,13 +114,10 @@
 </p></blockquote>
 <p>Matt Mullenweg linked to it <a href="https://ma.tt/2016/03/saving-the-open-web/">and added</a>: “I agree with and endorse basically everything in that post.”</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/03/buytaert-on-the-open-web.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Dave Winer on Instant Articles</title>
 		<link>http://www.manton.org/2016/02/dave-winer-on-instant-articles.html</link>
-		<comments>http://www.manton.org/2016/02/dave-winer-on-instant-articles.html#comments</comments>
 		<pubDate>Wed, 24 Feb 2016 16:46:49 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -59,13 +133,10 @@
 </p></blockquote>
 <p>I guess one question is whether there will be any other RSS readers that support Instant Articles. If we can get some of the benefits of Instant Articles, but outside of Facebook, that is something.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/02/dave-winer-on-instant-articles.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>App review for the fast web</title>
 		<link>http://www.manton.org/2016/02/app-review-for-the-fast-web.html</link>
-		<comments>http://www.manton.org/2016/02/app-review-for-the-fast-web.html#comments</comments>
 		<pubDate>Tue, 23 Feb 2016 19:56:30 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -85,13 +156,10 @@
 <p>Google’s competing Accelerated Mobile Pages has problems too, as I mentioned in the last half of <a href="http://www.manton.org/2016/01/twitter-and-the-cost-of-links.html">this post about the cost of links</a>. Although unlike Facebook, which wants to trap content behind their own platform, AMP is at least more open and useful to the larger web.</p>
 <p>I hate to say it but neither Instant Articles nor AMP are really good enough. I think we need a third standard for super-fast web pages. (Or do we? Maybe the web is okay as-is if we <a href="http://idlewords.com/talks/website_obesity.htm">fight page bloat</a>.)</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/02/app-review-for-the-fast-web.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Parse shutting down</title>
 		<link>http://www.manton.org/2016/01/parse-shutting-down.html</link>
-		<comments>http://www.manton.org/2016/01/parse-shutting-down.html#comments</comments>
 		<pubDate>Thu, 28 Jan 2016 23:20:48 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -109,13 +177,10 @@
 <p>For years I had always heard great things about Parse. I eventually used it for the first time a few months ago on a client project. It’s got a well-designed API, friendly monthly pricing (free for many apps), and it seemed well supported, with new features like tvOS support and a web dashboard redesign rolling out <em>just a month ago</em>.</p>
 <p>Thinking about <a href="https://twitter.com/danielpunkass/status/692845189816123392">this tweet from Daniel Jalkut</a>, I&#8217;ve always advocated for iOS developers to also be good at web services. Customers expect sync everywhere now, and you can do things with your own server that will give you an advantage over competitors who have a simpler, standalone iOS app. But being forced to migrate server data isn’t fun, especially on someone else’s schedule.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/01/parse-shutting-down.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Twitter&#8217;s 10k limit</title>
 		<link>http://www.manton.org/2016/01/twitters-10k-limit.html</link>
-		<comments>http://www.manton.org/2016/01/twitters-10k-limit.html#comments</comments>
 		<pubDate>Tue, 05 Jan 2016 20:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -132,13 +197,10 @@
 </p></blockquote>
 <p>The learner is now the master. Welcome to the dark side.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/01/twitters-10k-limit.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Hyperlinks and saving the web</title>
 		<link>http://www.manton.org/2016/01/hyperlinks-and-saving-the-web.html</link>
-		<comments>http://www.manton.org/2016/01/hyperlinks-and-saving-the-web.html#comments</comments>
 		<pubDate>Tue, 05 Jan 2016 15:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Weblogs]]></category>
@@ -163,13 +225,10 @@
 </p></blockquote>
 <p>This is a great challenge for 2016. Not specifically with Facebook, but with the larger idea of bringing back <a href="http://anildash.com/2012/12/the-web-we-lost.html">the web we lost</a>, retrofitted for today&#8217;s app-centric internet. I hope to spend a good part of the year working on it.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/01/hyperlinks-and-saving-the-web.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Stars vs. hearts and Twitter&#8217;s decline</title>
 		<link>http://www.manton.org/2015/11/stars-vs-hearts-and-twitters-decline.html</link>
-		<comments>http://www.manton.org/2015/11/stars-vs-hearts-and-twitters-decline.html#comments</comments>
 		<pubDate>Mon, 09 Nov 2015 18:05:01 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[User Experience]]></category>
@@ -191,87 +250,9 @@
 <p>We&#8217;ve already seen the timeline experience significantly altered. Promoted tweets, &#8220;while you were away&#8221;, inline conversation threads, and Twitter cards. Twitter in 2015 looks a lot more like Facebook than it did a few years ago, to everyone not using third-party Twitter apps.</p>
 <p>Growing the user base is fine. But making Twitter more accessible to new users won&#8217;t do any good if you lose the much larger base of passionate users who have loved the product for years <em>because it&#8217;s unique</em>. You&#8217;re not going to beat Facebook by becoming even more like Facebook. If that&#8217;s Twitter&#8217;s strategy, then the service is already in decline.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/11/stars-vs-hearts-and-twitters-decline.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Accelerated Mobile Pages from Google</title>
-		<link>http://www.manton.org/2015/11/accelerated-mobile-pages-from-google.html</link>
-		<comments>http://www.manton.org/2015/11/accelerated-mobile-pages-from-google.html#comments</comments>
-		<pubDate>Mon, 02 Nov 2015 16:22:50 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Technology]]></category>
-		<category><![CDATA[amp]]></category>
-		<category><![CDATA[apple]]></category>
-		<category><![CDATA[facebook]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[wordpress]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=3135</guid>
-		<description><![CDATA[The project technical overview for AMP has the goals and basic info. In a nutshell, the new format encourages a return to more bare-bones HTML, with some added functionality for common web patterns. On the balance between bloated ad platforms and user experience: &#8220;Embedding an ad or analytics often implies giving up control of what [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="https://www.ampproject.org/how-it-works/">The project technical overview for AMP</a> has the goals and basic info. In a nutshell, the new format encourages a return to more bare-bones HTML, with some added functionality for common web patterns. On the balance between bloated ad platforms and user experience:</p>
-<blockquote><p>
-  &#8220;Embedding an ad or analytics often implies giving up control of what eventually happens to a site because they can typically inject any JavaScript they want into pages. AMP HTML does not allow this. We realize that both ads and analytics are an important element of monetization on the web, and so we need to support them: our goal is to realign monetization with great user experience.&#8221;
-</p></blockquote>
-<p>Instead, &#8220;tracking pixels&#8221; are used for analytics. These should be easily skipped by ad blockers, but apps that support AMP will need to use a custom web view anyway, where ad blockers on iOS aren&#8217;t allowed. This may continue to limit the appeal of Safari View Controller.</p>
-<p><a href="http://www.wired.com/2015/10/googles-got-plan-make-mobile-web-less-slow/">Wired covers the announcement</a> and describes how AMP might be integrated into Twitter and other native apps:</p>
-<blockquote><p>
-  &#8220;One surprise beneficiary of AMP may be Twitter. While it’s not a publisher per se, it’s becoming an increasingly important player in news, most recently with the launch of <a href="http://www.wired.com/2015/10/meet-moments-twitters-new-feature/">its Moments feature</a>, which makes news easier to follow on Twitter by organizing Tweets in a chronological, coherent timeline. Now, Twitter will automatically load any articles that are compatible with AMP as AMP files, meaning they will benefit from the same speed inside the Twitter app.&#8221;
-</p></blockquote>
-<p>There&#8217;s <a href="https://github.com/ampproject/amphtml">more on GitHub</a>. On the surface this seems like a more open approach than Facebook Instant Articles or maybe even Apple News Format (which is <a href="https://developer.apple.com/library/ios/documentation/General/Conceptual/Apple_News_Format_Ref/index.html">finally public</a>). That <a href="https://vip.wordpress.com/2015/10/07/mobile-web/">WordPress is supporting AMP</a> is a good sign.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/11/accelerated-mobile-pages-from-google.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Instagram hits 400 million users</title>
-		<link>http://www.manton.org/2015/09/instagram-hits-400-million-users.html</link>
-		<comments>http://www.manton.org/2015/09/instagram-hits-400-million-users.html#comments</comments>
-		<pubDate>Wed, 23 Sep 2015 14:34:12 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Technology]]></category>
-		<category><![CDATA[facebook]]></category>
-		<category><![CDATA[instagram]]></category>
-		<category><![CDATA[photos]]></category>
-		<category><![CDATA[scaling]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=3064</guid>
-		<description><![CDATA[From Graham Spencer at MacStories, commenting on the latest Instagram numbers and that the service is only 5 years old: &#8220;But I was really surprised to remember that Facebook acquired Instagram in April 2012, when Instagram had &#8216;only&#8217; 40 million users. If I recall correctly, a lot of people thought Facebook was crazy to buy [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="https://www.macstories.net/news/instagram-hits-400-million-users/">From Graham Spencer</a> at MacStories, commenting on the latest Instagram numbers and that the service is only 5 years old:</p>
-<blockquote><p>
-  &#8220;But I was really surprised to remember that <a href="http://techcrunch.com/2012/04/09/facebook-to-acquire-instagram-for-1-billion/">Facebook acquired Instagram in April 2012</a>, when Instagram had &#8216;only&#8217; 40 million users. If I recall correctly, a lot of people thought Facebook was crazy to buy Instagram for $1 billion. Well, I think Facebook got the last laugh on that one, and as <a href="http://www.forbes.com/sites/kathleenchaykowski/2015/09/22/instagram-hits-400-million-users-soaring-past-twitter/">Forbes points out</a>, Instagram now has more monthly active users than Twitter (316 million).&#8221;
-</p></blockquote>
-<p>Impressive growth, but it fits. Instagram has crafted a user experience that encourages thoughtful posts and never feels overwhelming in the way a Twitter or Facebook timeline can be. If Instagram was a paid product, I bet Instagram&#8217;s <a href="https://baremetrics.com/academy/saas-churn">churn rate</a> would be the lowest of any of the big social networks. They did it with a small team and weren&#8217;t afraid to grow slowly.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/09/instagram-hits-400-million-users.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Facebook</title>
-		<link>http://www.manton.org/2012/05/facebook.html</link>
-		<comments>http://www.manton.org/2012/05/facebook.html#comments</comments>
-		<pubDate>Thu, 31 May 2012 22:07:51 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Technology]]></category>
-		<category><![CDATA[facebook]]></category>
-		<category><![CDATA[gowalla]]></category>
-		<category><![CDATA[zuckerberg]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2012/05/facebook.html</guid>
-		<description><![CDATA[From a great story on Mark Zuckerberg in New York Magazine: “‘Mark has done two things in his twenties,’ a colleague of Zuckerberg says. ‘He has built a global company, and he has grown up.’ The second one made the first possible. When early mistakes risked an employee mutiny, Zuckerberg knuckled down and learned how [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>From a great story on Mark Zuckerberg <a href="http://nymag.com/news/features/mark-zuckerberg-2012-5/">in New York Magazine</a>:</p>
-<blockquote><p>
-  “‘Mark has done two things in his twenties,’ a colleague of Zuckerberg says. ‘He has built a global company, and he has grown up.’ The second one made the first possible. When early mistakes risked an employee mutiny, Zuckerberg knuckled down and learned how to lead.”
-</p></blockquote>
-<p>It covers founding the company, Sean Parker, other execs, the Instagram purchase, and more. I’ve got new respect for what Zuckerberg has accomplished after reading this.</p>
-<p>Several years ago, when Yahoo or Microsoft or whomever was rumored to have offered a billion dollars to buy Facebook, I thought Zuckerberg was foolish and arrogant for not selling the company. I didn’t get how it could be a real business, ever worth more. Looks like I was wrong.</p>
-<p>Of course, the narrative of the last week is that the IPO disappointed, with the stock steadily falling since its debut. But that&#8217;s only relevant if you want a quick win. The long-term view says that Facebook is here to stay, and that the company&#8217;s growth is a reason to celebrate. Not for the service or founders, but for the success of so many great developers and designers who are now part of the public company: Instagram, Gowalla, Push Pop Press, Sofa, and others who are working inside Facebook, trying to build something great.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2012/05/facebook.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.378 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 14:55:33 -->
+<!-- Dynamic page generated in 0.309 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 14:39:04 -->

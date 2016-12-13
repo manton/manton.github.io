@@ -8,19 +8,18 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; sales</title>
+	<title>sales &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/sales/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
 		<title>Feedback about lost sales</title>
 		<link>http://www.manton.org/2009/09/feedback_about_lost.html</link>
-		<comments>http://www.manton.org/2009/09/feedback_about_lost.html#comments</comments>
 		<pubDate>Mon, 21 Sep 2009 22:05:07 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -37,13 +36,10 @@
 <p>Sales have been up the last week, so this worked, right? Maybe not. Clipstart has a review in this month&#8217;s print edition of Macworld, so it&#8217;s possible the sales are up because of that. Or because a couple of my blog posts have been linked more heavily recently. Or for any number of other reasons.</p>
 <p>Unless you measure why the product doesn&#8217;t sell, success will be based on luck and intuition, which only go so far. I&#8217;m looking forward to reading Jason&#8217;s next post.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2009/09/feedback_about_lost.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Better is the best marketing</title>
 		<link>http://www.manton.org/2009/09/better_is_the.html</link>
-		<comments>http://www.manton.org/2009/09/better_is_the.html#comments</comments>
 		<pubDate>Thu, 03 Sep 2009 13:29:47 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -60,13 +56,10 @@
 <p>I hinted at this in &#8220;my last post about new Clipstart features&#8221;:http://www.manton.org/2009/08/clipstart_12_ships.html. When Clipstart 1.0 launched and sales were lower than I had secretly hoped, the feedback was still so encouraging that it was obvious I had to keep rolling out new versions. Release 1.1, a month later. Release 1.2, which is &#8220;shipping today&#8221;:http://www.riverfold.com/software/clipstart/.</p>
 <p>Some products are just easier to sell than others. For Wii Transfer, people enter &#8220;music wii mac&#8221; in Google and then a few minutes later they are clicking the Buy button on my web site. But with Clipstart, even though I believe it to be a superior product, it&#8217;s going to take work and marketing and word-of-mouth and demo coaxing and making it so good that you&#8217;d be nuts to shoot video and not have it installed.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2009/09/better_is_the.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>FastScripts 2.4</title>
 		<link>http://www.manton.org/2009/06/fastscripts_24.html</link>
-		<comments>http://www.manton.org/2009/06/fastscripts_24.html#comments</comments>
 		<pubDate>Sun, 28 Jun 2009 14:10:19 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -80,13 +73,10 @@
 <blockquote><p>&#8220;I have been thinking for some time of eliminating FastScripts Lite. Customers found it confusing to differentiate between the versions, and I found it tedious to artificially maintain two versions. With the new, liberal evaluation terms in FastScripts 2.4, all of the old Lite functionality and much more is now included for free in the full version.</p></blockquote>
 <p>It&#8217;s always a risk to make a pricing or demo limit change. Whether accurate or not, I imagine the financial side of product development as a delicate tower of blocks, where the slightest change could cause your whole sales structure to come crashing down. For that reason I tend to not touch anything if it is working, but I recognize that I am probably holding my business back at the same time by not being more flexible.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2009/06/fastscripts_24.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Tracking sales referrers</title>
 		<link>http://www.manton.org/2008/09/tracking_sales_referrers.html</link>
-		<comments>http://www.manton.org/2008/09/tracking_sales_referrers.html#comments</comments>
 		<pubDate>Tue, 16 Sep 2008 00:12:30 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -152,13 +142,10 @@ mysql_query ($sql);
 <p>Note that because I am using simple PayPal buttons, not all customers actually reach the last page, because they can ignore the &#8220;return to seller&#8221; link after a completed transaction and instead go wherever they chose. This limitation goes away if you have rolled your own store or used something like &#8220;PotionStore&#8221;:http://www.potionfactory.com/potionstore.</p>
 <p>I&#8217;ve been tracking these for over a year now. I&#8217;ll share some stats about what I&#8217;ve learned in a future blog post.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2008/09/tracking_sales_referrers.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>MacSanta 2007 in time for Christmas</title>
 		<link>http://www.manton.org/2007/12/macsanta_2007_in.html</link>
-		<comments>http://www.manton.org/2007/12/macsanta_2007_in.html#comments</comments>
 		<pubDate>Wed, 19 Dec 2007 23:23:31 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -175,13 +162,10 @@ mysql_query ($sql);
 <p><img src="http://www.manton.org/images/2007/macsanta_coupon.png" alt="MacSanta coupon" border="0" width="270" height="145" style="border: 1px solid lightgray;" /></p>
 <p>On Friday the discount drops to a respectable 10% off for the rest of the month. Happy holidays!</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2007/12/macsanta_2007_in.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Foreign sales market</title>
 		<link>http://www.manton.org/2007/08/foreign_sales_market.html</link>
-		<comments>http://www.manton.org/2007/08/foreign_sales_market.html#comments</comments>
 		<pubDate>Fri, 03 Aug 2007 14:28:03 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -199,13 +183,10 @@ mysql_query ($sql);
 <p>At &#8220;VitalSource&#8221;:http://www.vitalsource.com/ last year I wrote a custom Rails web app to manage localization resources for both the Mac and Windows products and deal with the outsource translators, and the takeaway from that experience was definitely to go slowly. It&#8217;s easy to end up with a foreign language version that makes compromises and is potentially less useful to customers than the English version. Depending on the size of the product, localization could take weeks or months, time that might be better spent adding features.</p>
 <p>Back to the real stats. Why are the foreign numbers so high? I think the weak dollar combined with an already relatively inexpensive price makes Wii Transfer even more of an impulse buy in Europe.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2007/08/foreign_sales_market.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>First 75 days of Wii Transfer</title>
 		<link>http://www.manton.org/2007/02/first_75_days.html</link>
-		<comments>http://www.manton.org/2007/02/first_75_days.html#comments</comments>
 		<pubDate>Wed, 28 Feb 2007 03:40:18 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -227,13 +208,10 @@ mysql_query ($sql);
 <p>There are at least a few pirates too. I&#8217;m not too worried about them because &#8220;you can&#8217;t stop pirating&#8221;:http://wilshipley.com/blog/2007/02/piracy-reduction-can-be-source-of.html, and most people are honest. One customer was even nice enough to tell me about a pirated serial number he found.</p>
 <p>To everyone who purchased Wii Transfer, thanks! When I built 1.0, I wasn&#8217;t sure if I would work on it again. Now, several versions later at 2.2, I have a clear roadmap of features (and bugs!) to keep me busy.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2007/02/first_75_days.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>News.com: &#8220;More than 100,000 copies</title>
 		<link>http://www.manton.org/2002/08/newscom_more_than.html</link>
-		<comments>http://www.manton.org/2002/08/newscom_more_than.html#comments</comments>
 		<pubDate>Tue, 27 Aug 2002 16:06:41 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -246,11 +224,9 @@ mysql_query ($sql);
 				<content:encoded><![CDATA[<p><a href="http://rss.com.com/2100-1040-955498.html?type=pt&#038;part=rss&#038;tag=feed&#038;subj=news">News.com</a>: &#8220;More than 100,000 copies of Apple Computer&#8217;s OS X 10.2 operating system were sold worldwide during its first weekend, the company said.&#8221;</p>
 <p>Back in 2001: Microsoft Windows XP sold 300,000 copies over <a href="http://www.internetnews.com/ent-news/article.php/7_918881">its weekend launch</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2002/08/newscom_more_than.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.722 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 15:09:00 -->
+<!-- Dynamic page generated in 0.287 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 15:32:49 -->

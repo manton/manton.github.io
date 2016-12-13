@@ -8,19 +8,18 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; stats</title>
+	<title>stats &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/stats/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
 		<title>iPhone SE sales potential</title>
 		<link>http://www.manton.org/2016/03/iphone-se-sales-potential.html</link>
-		<comments>http://www.manton.org/2016/03/iphone-se-sales-potential.html#comments</comments>
 		<pubDate>Tue, 22 Mar 2016 19:01:16 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -40,13 +39,10 @@
 <p>I keep thinking about the iPhone SE price: $399 for essentially the power of a 6S, which is $649. That’s just a great value. I’ve said on Core Intuition recently that while the 6S and upcoming 7 will always remain the most popular phone, I think the SE could hold its own with the 6S Plus in units sold. Now I wonder if it could even surpass it.</p>
 <p>According to <a href="https://david-smith.org/iosversionstats/">David Smith’s stats</a>, the Plus versions represent about 15% of active devices 4-inch or bigger. That share goes up to about 20% if you exclude older devices no longer for sale, like the 5 and 5C. That seems about right to me. If you sat around an Apple Store and watched 10 people buy iPhones, I’d be surprised if more than a couple were the Plus. Starting next week, a couple of those iPhones could be the SE, too.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/03/iphone-se-sales-potential.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Ignoring follower counts</title>
 		<link>http://www.manton.org/2016/01/ignoring-follower-counts.html</link>
-		<comments>http://www.manton.org/2016/01/ignoring-follower-counts.html#comments</comments>
 		<pubDate>Wed, 20 Jan 2016 21:09:00 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -67,13 +63,10 @@
 </p></blockquote>
 <p>When designing my new microblogging platform, I made a conscious decision to <em>not even show follower counts</em>. You can get the followers from the API, but I didn&#8217;t want to have the numbers right in your face when viewing someone&#8217;s profile. It&#8217;s too easy for us to make a judgement based on how many followers they have, and so miss out on whatever they have to say.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/01/ignoring-follower-counts.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>How I use Twitter</title>
 		<link>http://www.manton.org/2007/11/how_i_use.html</link>
-		<comments>http://www.manton.org/2007/11/how_i_use.html#comments</comments>
 		<pubDate>Sat, 03 Nov 2007 04:20:16 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Weblogs]]></category>
@@ -89,13 +82,10 @@
 <p>So if you follow me on Twitter and wonder why I don&#8217;t return the favor, that is why. You probably have interesting things to say, so say hi to me at some future conference so I can add you to my list. I&#8217;ve actually been thinking about taking it one step further and protecting updates, because I tend to post about what (to this blog) have been traditionally private matters. Jury is still out on that decision.</p>
 <p>The following numbers are interesting, though. I only do very basic Mint stats for this blog (I just care about referrers, not number of readers), but it does make me wonder how many people read this blog. If you&#8217;re reading this, add a comment to this post. (Haha, gotcha! I don&#8217;t have comments.)</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2007/11/how_i_use.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Foreign sales market</title>
 		<link>http://www.manton.org/2007/08/foreign_sales_market.html</link>
-		<comments>http://www.manton.org/2007/08/foreign_sales_market.html#comments</comments>
 		<pubDate>Fri, 03 Aug 2007 14:28:03 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -113,11 +103,9 @@
 <p>At &#8220;VitalSource&#8221;:http://www.vitalsource.com/ last year I wrote a custom Rails web app to manage localization resources for both the Mac and Windows products and deal with the outsource translators, and the takeaway from that experience was definitely to go slowly. It&#8217;s easy to end up with a foreign language version that makes compromises and is potentially less useful to customers than the English version. Depending on the size of the product, localization could take weeks or months, time that might be better spent adding features.</p>
 <p>Back to the real stats. Why are the foreign numbers so high? I think the weak dollar combined with an already relatively inexpensive price makes Wii Transfer even more of an impulse buy in Europe.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2007/08/foreign_sales_market.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.303 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 14:56:18 -->
+<!-- Dynamic page generated in 0.266 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 14:40:51 -->

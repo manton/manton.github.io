@@ -8,19 +8,38 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; work</title>
+	<title>work &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/work/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
+		<title>Client work and new podcasts</title>
+		<link>http://www.manton.org/2016/05/client-work-and-new-podcasts.html</link>
+		<pubDate>Wed, 04 May 2016 14:59:42 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[basketball]]></category>
+		<category><![CDATA[commuting]]></category>
+		<category><![CDATA[nba]]></category>
+		<category><![CDATA[technicalfoul]]></category>
+		<category><![CDATA[timetable]]></category>
+		<category><![CDATA[work]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3908</guid>
+		<description><![CDATA[As I mentioned in my wrap-up post about working from libraries, spending so much time commuting all over the city (and outside the city) had really burned me out. Over the last couple of weeks, I&#8217;ve overcompensated a little and have been working from home almost exclusively. I&#8217;ve also been catching up on client work. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>As I mentioned in <a href="http://www.manton.org/2016/04/libraries-for-30-days-wrap-up.html">my wrap-up post about working from libraries</a>, spending so much time commuting all over the city (and outside the city) had really burned me out. Over the last couple of weeks, I&#8217;ve overcompensated a little and have been working from home almost exclusively. I&#8217;ve also been catching up on client work.</p>
+<p>I recorded <a href="http://timetable.manton.org/2016/05/episode-21-the-right-work-balance/">a new episode of Timetable</a> this morning to try to capture this change in work focus. Talking into the microphone for 5 minutes actually helped me assess where I&#8217;m at with my projects, and what I need to adjust to continue to make this blog and my podcasts a priority.</p>
+<p>And speaking of podcasts, <a href="https://stratechery.com/">Ben Thompson</a> and I published <a href="http://technicalfoul.fm/episode-03-chaos/">episode 3 of Technical Foul</a> last night. We talk a lot about the wild last minute of Spurs/Thunder game 2, which I&#8217;m still thinking about even a couple days later.</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>New coffee shops, week 1</title>
 		<link>http://www.manton.org/2016/02/new-coffee-shops-week-1.html</link>
-		<comments>http://www.manton.org/2016/02/new-coffee-shops-week-1.html#comments</comments>
 		<pubDate>Wed, 24 Feb 2016 21:14:10 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Personal]]></category>
@@ -35,13 +54,10 @@
 <p>This has required a little more planning than I expected. I’ll be going to all corners of the city to not repeat myself for a full 30 days. Even then, I’ll have to broaden my search to include more traditional cafes and donut shops too.</p>
 <p>I’ve also realized that I need to do a better job of ordering something unique when it’s on the menu, or asking for a recommendation. After all, the point is to get out of the house more often — to take a break from the isolated work-from-home environment, be exposed to something new, even if it’s just a simple drink or view outside, and get back to my current projects refreshed.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/02/new-coffee-shops-week-1.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Very busy (and the watch)</title>
 		<link>http://www.manton.org/2015/03/very-busy-and-the-watch.html</link>
-		<comments>http://www.manton.org/2015/03/very-busy-and-the-watch.html#comments</comments>
 		<pubDate>Tue, 10 Mar 2015 17:25:54 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Events]]></category>
@@ -58,13 +74,10 @@
 <p>I’ll have a longer write-up about yesterday’s Apple event soon. I have a very negative opinion about the $10k Apple Watch Edition — not because it’s expensive, but because of what focusing on the super rich says about Apple’s priorities. Daniel and I talked about this at length on <a href="http://coreint.org/174">Core Intuition episode 174</a> a couple weeks ago.</p>
 <p>Overall the event was great, though. I’m looking forward to pre-ordering a watch and getting into development. Leaning toward the 42mm Sport, with blue band and an extra classic buckle.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/03/very-busy-and-the-watch.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Working from coffee shops</title>
 		<link>http://www.manton.org/2013/07/working_from_coffee.html</link>
-		<comments>http://www.manton.org/2013/07/working_from_coffee.html#comments</comments>
 		<pubDate>Wed, 10 Jul 2013 17:39:47 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -95,13 +108,10 @@
 </ul>
 <p>Ben also points to <a href="https://alpha.app.net/cjchilvers/post/7541978">a post from CJ Chilvers</a> about libraries. I worked from my neighborhood library earlier this week — it’s a really nice, quiet environment — but the Austin libraries don’t allow you to bring any drinks inside yet, let alone have an on-site espresso machine. While traveling in Oregon a couple years ago, I remember the <a href="http://www.eugene-or.gov/index.aspx?NID=130">Eugene public library</a> having a really nice cafe and I was immediately jealous.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/07/working_from_coffee.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Spoiled by gatekeepers</title>
 		<link>http://www.manton.org/2012/08/spoiled_by_gatekeepers.html</link>
-		<comments>http://www.manton.org/2012/08/spoiled_by_gatekeepers.html#comments</comments>
 		<pubDate>Thu, 16 Aug 2012 21:16:05 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -117,11 +127,9 @@
 </p></blockquote>
 <p>Just enough separation from customers is healthy — email and tweets, instead of phone calls. But put up too many walls, too much bureaucracy, and you might no longer care who you’re building the software for. You might forget why it has to be great.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2012/08/spoiled_by_gatekeepers.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.302 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 14:59:37 -->
+<!-- Dynamic page generated in 0.285 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 14:57:40 -->

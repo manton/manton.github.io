@@ -8,19 +8,18 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; Music</title>
+	<title>Music &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/category/music/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 15:09:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
 		<title>Deciding who we are</title>
 		<link>http://www.manton.org/2015/07/deciding-who-we-are.html</link>
-		<comments>http://www.manton.org/2015/07/deciding-who-we-are.html#comments</comments>
 		<pubDate>Sun, 12 Jul 2015 21:17:03 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Music]]></category>
@@ -39,13 +38,10 @@
 <p>As kids, we needed encouragement even to pursue our dreams. Too much negative feedback could quickly derail someone with the most hopeful intentions. Society said: if you&#8217;re not good enough today, give up. Tomorrow is hopeless.</p>
 <p>As adults, encouragement from peers is still great, but by now we should have enough experience to realize that defining who we are comes from within first. The line of work, the projects we tackle, the hobbies on the side — we can change any of that with enough determination. Tomorrow anything is possible.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/07/deciding-who-we-are.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Apple Music and free Beats 1</title>
 		<link>http://www.manton.org/2015/06/apple-music-and-free-beats-1.html</link>
-		<comments>http://www.manton.org/2015/06/apple-music-and-free-beats-1.html#comments</comments>
 		<pubDate>Tue, 30 Jun 2015 17:49:27 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Music]]></category>
@@ -68,13 +64,10 @@
 </p></blockquote>
 <p>Beats 1 is one of the more interesting aspects of Apple Music to me. I just signed up for the trial and plan to continue at the $15/month family subscription.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/06/apple-music-and-free-beats-1.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Taylor Swift and the Apple Music trial</title>
 		<link>http://www.manton.org/2015/06/taylor-swift-and-the-apple-music-trial.html</link>
-		<comments>http://www.manton.org/2015/06/taylor-swift-and-the-apple-music-trial.html#comments</comments>
 		<pubDate>Sun, 21 Jun 2015 14:20:44 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Music]]></category>
@@ -92,13 +85,10 @@
 <p>I agree with Taylor. Apple still has a mountain of cash. Seems reasonable for them to use it to launch Apple Music properly and get musicians excited about the service. Usage will be higher during the free trial, so it would be a nice gesture to the music community, even with some kind of reduced royalties.</p>
 <p>Imagine if Apple had launched the Mac App Store with this same model, where users could try apps for free and developers wouldn’t get paid for the first 3 months. Pretty unacceptable.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/06/taylor-swift-and-the-apple-music-trial.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Taylor Swift&#8217;s 1989</title>
 		<link>http://www.manton.org/2014/10/taylor-swifts-1989.html</link>
-		<comments>http://www.manton.org/2014/10/taylor-swifts-1989.html#comments</comments>
 		<pubDate>Mon, 27 Oct 2014 16:47:37 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Music]]></category>
@@ -113,13 +103,10 @@
 </p></blockquote>
 <p>I like <a href="http://www.u2.com/">bands who aren&#8217;t afraid to reinvent themselves</a> because it means they&#8217;re both pushing forward and will also often return to their roots with something stronger. So I pre-ordered Taylor Swift&#8217;s latest and I&#8217;m really enjoying several of the tracks. It&#8217;s good for all of us to occasionally get out of our comfort zone and create something new.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/10/taylor-swifts-1989.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Apple needs Beats Music</title>
 		<link>http://www.manton.org/2014/05/apple_needs_beats.html</link>
-		<comments>http://www.manton.org/2014/05/apple_needs_beats.html#comments</comments>
 		<pubDate>Fri, 09 May 2014 12:57:12 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Music]]></category>
@@ -146,13 +133,10 @@
 </p></blockquote>
 <p>However, I agree with Gruber that on the surface this potential acquisition doesn’t really seem Apple-like. It would be unusual for them to acquire a high-profile brand. As much as I’d love to see the Beats Music team join Apple to improve iTunes and the App Store, I’ll be a little surprised if it actually happens. Maybe they have something else in mind that we can’t see yet.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/05/apple_needs_beats.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>We love music</title>
 		<link>http://www.manton.org/2014/02/we_love_music.html</link>
-		<comments>http://www.manton.org/2014/02/we_love_music.html#comments</comments>
 		<pubDate>Thu, 06 Feb 2014 17:32:42 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Music]]></category>
@@ -170,13 +154,10 @@
 <p>I’d like to see Apple get back to doing fewer things and doing them well. That means no TV or smartwatch. They need more product categories like photography, which they excel at. The iPhone camera is the best, the built-in Photos and Camera apps are great, and there’s a rich layer of third-party apps to fill in additional features. <a href="http://www.youtube.com/watch?v=NoVW62mwSQQ">Apple’s photos ad</a> perfectly captures this.</p>
 <p>Apple, fall in love with the next product category and lead us there. We’re ready for the next thing you <em>love</em>, not the next thing that Wall Street assumes everyone wants.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/02/we_love_music.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Spoiled by iTunes, and the future of music</title>
 		<link>http://www.manton.org/2007/02/spoiled_by_itunes.html</link>
-		<comments>http://www.manton.org/2007/02/spoiled_by_itunes.html#comments</comments>
 		<pubDate>Thu, 08 Feb 2007 05:37:22 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Music]]></category>
@@ -193,13 +174,10 @@
 <p>&#8220;Steve Jobs dropped the bomb&#8221;:http://www.apple.com/hotnews/thoughtsonmusic/ while I was at lunch yesterday, and I furiously read and re-read it and watched the fallout. Blog entries in NetNewsWire lit up like clockwork. As &#8220;I posted to Twitter&#8221;:http://twitter.com/manton, when the balance tips again to user control we&#8217;ll look back at this as a real shift in thinking. And the reason you know it&#8217;s true is because it sounds redundant to say the words.</p>
 <p>But today&#8230; I browsed for music on iTunes and then ordered CDs from Amazon.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2007/02/spoiled_by_itunes.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Goodbye iTMS</title>
 		<link>http://www.manton.org/2007/01/goodbye_itms.html</link>
-		<comments>http://www.manton.org/2007/01/goodbye_itms.html#comments</comments>
 		<pubDate>Thu, 04 Jan 2007 05:36:45 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Music]]></category>
@@ -214,13 +192,10 @@
 <p>No longer. Overnight my music library has become much less valuable, just because I chose to use it in a different way. Almost all the music I&#8217;ve bought in the last couple of years is from iTunes. I created two smart playlists, one to show protected and one not. Apparently of the 5000 songs on this computer, 500 of them are from iTunes. <em>10%.</em></p>
 <p>I&#8217;m not sure what is going to replace my use of iTunes yet, but for now I think I&#8217;ll lean on Amazon Prime&#8217;s free 2-day shipping and just order and rip CDs to good old fashioned high-bitrate MP3s. Too bad, because I do love the iTunes experience. Just gotta keep repeating to myself: text files, JPEGs, and MP3s are forever. Everything else is suspect.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2007/01/goodbye_itms.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Music to drive back to</title>
 		<link>http://www.manton.org/2005/12/music_to_drive.html</link>
-		<comments>http://www.manton.org/2005/12/music_to_drive.html#comments</comments>
 		<pubDate>Thu, 08 Dec 2005 03:43:10 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Music]]></category>
@@ -230,13 +205,10 @@
 				<content:encoded><![CDATA[<p>The U2 concert in Houston a few weeks ago was great. I drove back late at night, with <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=6483093">The Killers album</a> on repeat to keep me awake. In the era of single-click pop song purchases on iTunes, it&#8217;s not often that I buy a full album. Then again, it&#8217;s not often that a band releases an album that has 10 good songs on it.</p>
 <p>The other day I found an old Converse shoe box taped closed, hidden behind some old VHS tapes. Opening it revealed a bunch of CDs I hadn&#8217;t listened to in many, many (many) years. Arrested Development, Pearl Jam, Gals Panic, Rollins Band, The Nixons, Temple of the Dog, Van Halen, Primus, New Order. It&#8217;s fun to think back on what I was doing, how a given song might have effected my mood or my life so long ago. It&#8217;s a lot like video game music: usually catchy, and maybe more importantly, listened to over and over again. I&#8217;m still trying to get a podcast out about that, hopefully before the end of the year.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2005/12/music_to_drive.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>iPods, videos, and U2</title>
 		<link>http://www.manton.org/2005/10/ipods_videos_and.html</link>
-		<comments>http://www.manton.org/2005/10/ipods_videos_and.html#comments</comments>
 		<pubDate>Thu, 13 Oct 2005 19:50:56 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Music]]></category>
@@ -255,11 +227,9 @@
 <p>So buying a U2 music video was a natural choice. The download time was reasonable. I clicked it to full-screen on my Cinema Display and sat down 6 feet away. It actually looked good. 30 frames per second doesn&#8217;t hurt either. I could definitely watch TV shows this way.</p>
 <p>Another interesting tidbit from the Apple event. Disney&#8217;s new CEO Bob Iger was introduced quite warmly by Steve Jobs, and Iger even joked that he still hoped an agreement could be reached between Disney and Pixar for continuing distribution of their films. Sounds like that could happen after all.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2005/10/ipods_videos_and.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.364 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 14:03:07 -->
+<!-- Dynamic page generated in 0.288 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 13:59:07 -->

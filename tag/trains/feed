@@ -8,19 +8,38 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; trains</title>
+	<title>trains &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/trains/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
+		<title>Redesigning Penn Station</title>
+		<link>http://www.manton.org/2016/10/redesigning-penn-station.html</link>
+		<pubDate>Tue, 18 Oct 2016 21:30:59 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[newspapers]]></category>
+		<category><![CDATA[nyc]]></category>
+		<category><![CDATA[pennstation]]></category>
+		<category><![CDATA[trains]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4380</guid>
+		<description><![CDATA[Earlier this year I wrote a post about indie podcasting and the mistake of centralized publishing, comparing it to the lesson from the demolition of Penn Station in New York City. That train station can never be returned to what it was, but the city hasn&#8217;t given up on updating it. Here&#8217;s the New York [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Earlier this year I wrote <a href="http://www.manton.org/2016/05/podcasting-lock-in-and-the-lesson-from-penn-station.html">a post about indie podcasting and the mistake of centralized publishing</a>, comparing it to the lesson from the demolition of Penn Station in New York City. That train station can never be returned to what it was, but the city hasn&#8217;t given up on updating it. <a href="http://www.nytimes.com/interactive/2016/09/30/opinion/penn-station-reborn.html">Here&#8217;s the New York Times</a> with an idea to turn it into a beautiful space again:</p>
+<blockquote><p>
+  Just as the new Amtrak train hall for Farley, designed by Skidmore, Owings and Merrill, reuses the catenary structure of the building’s original trusses to bring in natural light, this plan foresees a sunny public space, open to the street, framing views of Farley, its height dwarfing Grand Central Terminal’s main concourse. It reclads the arena’s facade with double-skin glass, doing away with doors into and out of the building, letting commuters, long lost in the existing warren, know where they are and see where they’re going.
+</p></blockquote>
+<p>It&#8217;s a nice article with photos and diagrams. I hope to see something like this new Penn Station on a future trip to New York City.</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>Tickets for Release Notes 2016</title>
 		<link>http://www.manton.org/2016/04/tickets-for-release-notes-2016.html</link>
-		<comments>http://www.manton.org/2016/04/tickets-for-release-notes-2016.html#comments</comments>
 		<pubDate>Mon, 04 Apr 2016 16:14:25 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Events]]></category>
@@ -36,13 +55,10 @@
 <p>One of my favorite blog posts on this site from last year was <a href="http://www.manton.org/2015/10/release-notes-2015.html">my review of the conference</a>, because I think it both described the conference itself and also captured that inspired feeling you get when you&#8217;re heading off to the airport and your head is buzzing with ideas. And because it&#8217;s a blog, where I allow myself to be informal, it also has the meandering narrative of the everyday — a stop for coffee, a conversation with an Uber driver. My memory of the conference wouldn&#8217;t be complete without those things.</p>
 <p>I&#8217;m looking forward to visiting Indianapolis again. I may also look at flying into Chicago and taking the train down, then flying out. Sounds like some people did that last year, and I think it would make a great start considering the venue at Union Station. We&#8217;ll see if the schedule works out.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/04/tickets-for-release-notes-2016.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Lowline Park</title>
 		<link>http://www.manton.org/2015/12/lowline-park.html</link>
-		<comments>http://www.manton.org/2015/12/lowline-park.html#comments</comments>
 		<pubDate>Mon, 21 Dec 2015 19:17:25 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Personal]]></category>
@@ -60,13 +76,10 @@
 </p></blockquote>
 <p>One of the highlights to our trip to New York City a couple of years ago was the <a href="http://www.thehighline.org/">High Line</a>, a park built from an abandoned elevated freight train line originally scheduled for demolition. As a train fan — I did <a href="http://www.manton.org/2005/08/trains_podcast.html">a podcast episode</a> about trains and animation 10 years ago — I love to see any of these historic lines preserved in a new form.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/12/lowline-park.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Release Notes 2015</title>
 		<link>http://www.manton.org/2015/10/release-notes-2015.html</link>
-		<comments>http://www.manton.org/2015/10/release-notes-2015.html#comments</comments>
 		<pubDate>Mon, 26 Oct 2015 17:52:51 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Events]]></category>
@@ -89,11 +102,9 @@
 <p>David Smith mentioned in his talk at Release Notes that he used to want to do everything. Have a best selling app, win a design award, be admired by his peers, and other goals that many of us share. It was only when he set out with a more singular focus — judging every decision by whether it moved his business forward so he could continue to support his family — that all the other secondary goals started taking care of themselves as well. It was a great talk and something I needed to hear.</p>
 <p>As a community we&#8217;re ambitious. We want to build something amazing and we want to make a positive impact on the world. But this week was also a reminder to me that it&#8217;s okay to be more focused, to tackle niche vertical apps, or make small boring decisions that will help our business. It&#8217;s okay, even as we want to do more, to slow down and be proud and content with the path that we&#8217;re on.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/10/release-notes-2015.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.320 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 15:00:38 -->
+<!-- Dynamic page generated in 0.272 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 14:40:24 -->

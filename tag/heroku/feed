@@ -8,19 +8,18 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; heroku</title>
+	<title>heroku &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/heroku/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
 		<title>Hosting costs and config</title>
 		<link>http://www.manton.org/2012/05/hosting_costs_and.html</link>
-		<comments>http://www.manton.org/2012/05/hosting_costs_and.html#comments</comments>
 		<pubDate>Thu, 03 May 2012 12:47:17 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -44,13 +43,10 @@
 <p>Overall I&#8217;m happy with this setup. It&#8217;s as simple as I could design it. Hosting is not cheap, but I think I can run for the rest of the year with very few changes and mostly fixed costs. I also plan to switch to reserved instance pricing at Amazon, which should be a significant discount.</p>
 <p>If you&#8217;ve made it this far, you probably care enough about servers and Twitter that you should consider signing up for Tweet Marker Plus yourself. Check out <a href="http://tweetmarker.net/plus">the details here.</a></p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2012/05/hosting_costs_and.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Redis-only migration</title>
 		<link>http://www.manton.org/2011/10/redisonly_migration.html</link>
-		<comments>http://www.manton.org/2011/10/redisonly_migration.html#comments</comments>
 		<pubDate>Tue, 25 Oct 2011 20:20:10 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -80,13 +76,10 @@
 <p>I went to work provisioning an EC2 instance. Initially it ran as a Redis slave to the master on Redis To Go. After I felt comfortable with EC2 and had automated backups in place, I added a separate instance on Amazon for the master and switched the app over to it. The cost for 2 &#8220;micro&#8221; instances is about the same as I was paying for Redis To Go, but with much more available memory, hourly backups to S3, and access to the Redis aof log. And my total monthly hosting costs are about half what they were before.</p>
 <p>I&#8217;m hoping to keep this setup for at least the rest of the year and well into next. As the Tweet Marker user base grows, I&#8217;ll bump up to higher-capacity EC2 instances. Heroku continues to be really great, so I don&#8217;t expect to change anything there.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2011/10/redisonly_migration.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Hosting for Tweet Marker</title>
 		<link>http://www.manton.org/2011/08/hosting_for_tweet.html</link>
-		<comments>http://www.manton.org/2011/08/hosting_for_tweet.html#comments</comments>
 		<pubDate>Tue, 16 Aug 2011 03:06:05 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -105,13 +98,10 @@
 <p>I still think it was the right decision to host on Heroku. Although I am manually monitoring the server for general health (need to automate this badly), everything is less work than I would do with a colocated box or VPS. The biggest cost is that at the last minute I upgraded to Heroku&#8217;s dedicated PostgreSQL database. I&#8217;m still evaluating that, but I would rather launch with too much horsepower and scale it down later, than not enough.</p>
 <p>Again, thanks for your support. It is a little nerve-racking because I know that &#8220;other people&#8221;:http://www.iconfactory.com/ are depending on Tweet Marker being up and performing well. This is a different experience for me than working at a &#8220;larger company&#8221;:http://www.vitalsource.com/ with a dedicated system administrator, and also different than server backends for my Riverfold products, where it is only my own customers who will be disappointed if I fail.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2011/08/hosting_for_tweet.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Tweet Marker</title>
 		<link>http://www.manton.org/2011/06/tweet_marker.html</link>
-		<comments>http://www.manton.org/2011/06/tweet_marker.html#comments</comments>
 		<pubDate>Fri, 03 Jun 2011 13:53:04 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -131,11 +121,9 @@
 <p>Send me an email or find me in person next week if you have any feedback.</p>
 <p><em>Update:</em> This post has been updated to reflect the service name change from Tweetmarks to Tweet Marker.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2011/06/tweet_marker.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.305 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 14:58:02 -->
+<!-- Dynamic page generated in 0.252 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 15:29:52 -->

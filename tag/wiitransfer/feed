@@ -8,19 +8,18 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; wiitransfer</title>
+	<title>wiitransfer &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/wiitransfer/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
 		<title>Miitomo and Wii Transfer</title>
 		<link>http://www.manton.org/2016/03/miitomo-and-wii-transfer.html</link>
-		<comments>http://www.manton.org/2016/03/miitomo-and-wii-transfer.html#comments</comments>
 		<pubDate>Thu, 31 Mar 2016 17:08:27 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -44,13 +43,10 @@
 </p></blockquote>
 <p>I&#8217;ll never know if it was a missed opportunity — a mistake for the direction of my indie business to stop selling something that people liked — or the right call to refocus around what I actually cared about. In any case, I&#8217;m glad Nintendo is doing something new with Miis. As I play with Miitomo, there&#8217;s a part of me that regrets not doing more with Nintendo-compatible software while I had a competitive head start.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/03/miitomo-and-wii-transfer.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Podcast interviews and the new Riverfold</title>
 		<link>http://www.manton.org/2015/09/podcast-interviews-and-the-new-riverfold.html</link>
-		<comments>http://www.manton.org/2015/09/podcast-interviews-and-the-new-riverfold.html#comments</comments>
 		<pubDate>Tue, 08 Sep 2015 18:49:29 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Podcasts]]></category>
@@ -68,13 +64,10 @@
 </p></blockquote>
 <p>The other podcast I was on is a new one called <a href="http://consultpodcast.com/post/128140298572/episode-3-manton-reece-david-interviews-manton">Consult</a>. It&#8217;s an interview show all about consulting and client work. I had a good time chatting with host David Kopec about evolving Riverfold Software to <a href="http://www.riverfold.com/consulting/">include consulting</a> while at the same time expanding into a full-time indie business.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/09/podcast-interviews-and-the-new-riverfold.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Justin Williams kills 2 apps</title>
 		<link>http://www.manton.org/2012/08/justin_williams_kills.html</link>
-		<comments>http://www.manton.org/2012/08/justin_williams_kills.html#comments</comments>
 		<pubDate>Fri, 24 Aug 2012 18:50:40 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -91,13 +84,10 @@
 </p></blockquote>
 <p>I felt exactly the same way <a href="http://www.manton.org/2012/05/saying_goodbye_to.html">when I stopped selling Wii Transfer</a> earlier this year. It wasn’t until a month later that I realized how much I had been enjoying that revenue, limited as it had become. I don’t regret it, though. It was the right thing for my potential customers, not to be misled into thinking there would be new versions. And it was the right thing for my focus, working on other projects.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2012/08/justin_williams_kills.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Saying goodbye to Wii Transfer</title>
 		<link>http://www.manton.org/2012/05/saying_goodbye_to.html</link>
-		<comments>http://www.manton.org/2012/05/saying_goodbye_to.html#comments</comments>
 		<pubDate>Tue, 01 May 2012 22:30:04 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -115,13 +105,10 @@
 <p>If anyone is disappointed that Wii Transfer will no longer receive updates, of course I offer refunds. I won&#8217;t be selling or open sourcing the app, preferring instead to continue to support existing customers myself for as long as they want to use the app. And I&#8217;ll keep the automatic bookmark service running that makes setup easy, as well as the Mii rendering service, so nothing breaks.</p>
 <p>I put a lot of work into Wii Transfer over its 5-year lifespan. It&#8217;s not easy saying goodbye, especially to some of the unique things that only Wii Transfer could do, such as exporting Miis as images. Maybe I can bring that back one day. For now, I&#8217;m following the path started by my apps Tweet Library and Clipstart, for which there are many new things still to do.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2012/05/saying_goodbye_to.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Wii Transfer 2.7.2</title>
 		<link>http://www.manton.org/2011/08/wii_transfer_272.html</link>
-		<comments>http://www.manton.org/2011/08/wii_transfer_272.html#comments</comments>
 		<pubDate>Sun, 14 Aug 2011 22:29:50 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -135,13 +122,10 @@
 <p>At some point in a recent update to Safari or Mac OS X, Miis started appearing blank in Wii Transfer. These are rendered in an offscreen window using Flash, then saved as thumbnails in Wii Transfer with the option to export a JPEG. The fix &mdash; for reasons I&#8217;m still not clear on &mdash; was to switch to using NSBitmapImageRep&#8217;s cacheDisplayInRect instead of initWithFocusedViewRect. Needless to say, customers were frustrated that this was no longer working, and I&#8217;m sorry I didn&#8217;t take care of the problem more quickly.</p>
 <p>I&#8217;ve been thinking a lot lately about the future of Wii Transfer and its companion &#8220;@wii&#8221;:http://twitter.com/wii Twitter account. This little Mac app is overdue for a rename and refocused feature set.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2011/08/wii_transfer_272.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Removing features</title>
 		<link>http://www.manton.org/2010/02/removing_features.html</link>
-		<comments>http://www.manton.org/2010/02/removing_features.html#comments</comments>
 		<pubDate>Wed, 03 Feb 2010 20:03:34 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[User Experience]]></category>
@@ -159,13 +143,10 @@
 <blockquote><p>&#8220;Products that don&#8217;t exist yet have a way of attracting new features because everyone sees the potential in something that has no form&#8221;.</p></blockquote>
 <p>I was talking about resisting the urge for everyone on the team to pile on their favorite features before 1.0, but I think this applies to apps with a minimal design as well. A simple app shows promise. A cluttered app with too much going on looks &#8220;done&#8221;, and sends a message that it is mature and maybe going in a different direction than what the user wants. In that way, the irony is that removing features (the <em>wrong</em> features) may actually make an application more appealing to new users.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2010/02/removing_features.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Wii Transfer 2.7</title>
 		<link>http://www.manton.org/2010/01/wii_transfer_27.html</link>
-		<comments>http://www.manton.org/2010/01/wii_transfer_27.html#comments</comments>
 		<pubDate>Wed, 20 Jan 2010 03:43:56 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -179,13 +160,10 @@
 <p>For this release, I sat down with Wii Transfer and a ripped copy of Star Trek, and I just watched it over and over, experimenting with different Flash Video conversion settings and tweaking networking code. I wasn&#8217;t going to release this until I could watch a 2-hour movie without any rebuffering. The quality is never going to be as good as a console or set-top box with dedicated video streaming features &mdash; this is Flash on the Wii we are talking about &mdash; but I&#8217;m happy with what I came up with.</p>
 <p>Wii Transfer is still only $19, and version 2.7 is a free upgrade for any customer who ever bought the application going back to 1.0 over three years ago. Also an important reminder: <em>all sales go to charity starting tomorrow, January 20th</em>, as part of &#8220;Indie Relief&#8221;:http://www.indierelief.com/.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2010/01/wii_transfer_27.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Wii Transfer survey</title>
 		<link>http://www.manton.org/2009/07/wii_transfer_survey.html</link>
-		<comments>http://www.manton.org/2009/07/wii_transfer_survey.html#comments</comments>
 		<pubDate>Thu, 30 Jul 2009 16:01:26 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -204,13 +182,10 @@
 <p><img src="http://www.manton.org/images/2009/wt3survey.png" alt="Survey chart" border="0" width="524" height="270" /></p>
 <p>I used &#8220;Campaign Monitor&#8221;:http://www.campaignmonitor.com/ for sending the newsletter, and as usual I&#8217;m very pleased with how simple they make this. I did a full customer export from my registration database and Campaign Monitor merged it with the existing list from my newsletter last year, weeding out duplicates and removing anyone who had already unsubscribed.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2009/07/wii_transfer_survey.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Family packs</title>
 		<link>http://www.manton.org/2008/10/family_packs.html</link>
-		<comments>http://www.manton.org/2008/10/family_packs.html#comments</comments>
 		<pubDate>Tue, 28 Oct 2008 04:02:40 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -238,13 +213,10 @@
 <p>I think customers buying a family pack are exceptionally honest. They are going out of their way to do the right thing. But at the same time, it needs to be a fair enough price that I&#8217;m not losing anything if a few customers decide to share their &#8220;extra&#8221; serial numbers with a friend.</p>
 <p>In the end I settled on $39 for the 5-copy family pack, essentially double the normal price of $19. The Bento pricing model convinced me that it was doable, even if percentage wise it&#8217;s slightly higher than other products. I&#8217;ll be watching stats over the next month to see how well it works. &#8220;Decisions are temporary&#8221;:https://gettingreal.37signals.com/ch06_Done.php. I&#8217;m not afraid to change the family price or drop it altogether if it doesn&#8217;t meet my expectations.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2008/10/family_packs.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Campaign Monitor</title>
 		<link>http://www.manton.org/2008/10/campaign_monitor.html</link>
-		<comments>http://www.manton.org/2008/10/campaign_monitor.html#comments</comments>
 		<pubDate>Thu, 16 Oct 2008 04:54:10 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -260,11 +232,9 @@
 <p>Unfortunately my hands are tied with yearly. When I put together the Wii giveaway promotion, I specifically told users opting in that it would be about once a year. I did this to encourage people to sign up without wondering if they would be spammed all the time. And also, I doubted that I would have the time to send a newsletter much more often than every year. So it&#8217;s not ideal, but there it is.</p>
 <p>Since then we&#8217;ve recorded 2 more shows. The latest &#8220;Core Intuition&#8221;:http://www.coreint.org/ hits the lifting of the NDA, the iPhone Tech Talk Tour, and Apple&#8217;s stock price.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2008/10/campaign_monitor.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.364 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 15:00:29 -->
+<!-- Dynamic page generated in 0.301 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 14:57:56 -->

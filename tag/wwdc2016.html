@@ -1,0 +1,515 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+
+<!-- Mirrored from www.manton.org/tag/wwdc2016 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 13 Dec 2016 20:38:21 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>wwdc2016 | Manton Reece</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link href="https://github.com/manton" rel="me" />
+<link rel="pingback" href="../xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://www.manton.org/wp-content/themes/twentytwelve/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<link rel='dns-prefetch' href='http://s0.wp.com/' />
+<link rel='dns-prefetch' href='http://s.w.org/' />
+<link rel="alternate" type="application/rss+xml" title="Manton Reece &raquo; Feed" href="../feed" />
+<link rel="alternate" type="application/rss+xml" title="Manton Reece &raquo; Comments Feed" href="../comments/feed" />
+<link rel="alternate" type="application/rss+xml" title="Manton Reece &raquo; wwdc2016 Tag Feed" href="wwdc2016/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.manton.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.1"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='twentytwelve-style-css'  href='../wp-content/themes/twentytwelve/style1c9b.css?ver=4.6.1' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve-ie-css'  href='http://www.manton.org/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='jetpack_css-css'  href='../wp-content/plugins/jetpack/css/jetpack3a05.css?ver=4.2.2' type='text/css' media='all' />
+<script type='text/javascript' src='../wp-includes/js/jquery/jqueryb8ff.js?ver=1.12.4'></script>
+<script type='text/javascript' src='../wp-includes/js/jquery/jquery-migrate.min330a.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='../wp-json/index.html' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.6.1" />
+<style type='text/css'>img#wpstats{display:none}</style><link rel="http://webmention.org/" href="../indexc2e3.html?webmention=endpoint" />
+<link rel="webmention" href="../indexc2e3.html?webmention=endpoint" />
+
+<style id="custom-css-css">#site-navigation{display:none}.site-content article{border-bottom:0;margin-bottom:1em;padding-bottom:1em;word-wrap:normal;-webkit-hyphens:none}.site-content article.format-standard{border-bottom:1px solid lightgray;margin-bottom:2em;padding-bottom:2em}.site-content article.format-status{border-bottom:1px solid #fff;margin-bottom:0;padding-bottom:0}.site-content .category-micro{padding-bottom:.1em}.entry-content blockquote{padding:.7em;font-style:normal;margin-left:20px;border-left:1px solid lightgray;padding-left:15px;padding-right:15px}#colophon{display:none}.avatar{display:none}header.site-header{padding-top:24px;padding-bottom:0}.site-title{padding-left:60px;padding-top:5px;background-image:url(../images/2016/header_me.png);background-size:50px 50px;background-repeat:no-repeat;height:50px;font-family:"Avenir Next";font-weight:lighter}h2 a{font-size:1.2em}.format-status .entry-header{margin-bottom:1em}.format-status .entry-content p{margin-bottom:0}.status_link{font-size:12px;text-decoration:none;color:gray}body{font-family:Avenir, sans-serif}footer{margin-top:0}p{font-size:16px}li#menu-item-3939:after{content:" 🏀"}img{height:100%}</style>
+</head>
+
+<body class="archive tag tag-wwdc2016 tag-1170 single-author">
+<div id="page" class="hfeed site">
+	<header id="masthead" class="site-header" role="banner">
+		<hgroup>
+			<h1 class="site-title"><a href="../index.html" title="Manton Reece" rel="home">Manton Reece</a></h1>
+			<h2 class="site-description"></h2>
+		</hgroup>
+
+		<nav id="site-navigation" class="main-navigation" role="navigation">
+			<h3 class="menu-toggle">Menu</h3>
+			<a class="assistive-text" href="#content" title="Skip to content">Skip to content</a>
+			<div class="nav-menu"><ul><li ><a href="../index.html">Home</a></li><li class="page_item page-item-3547"><a href="../coffee-shops-austin.html">Coffee shops in Austin</a></li><li class="page_item page-item-3882"><a href="../libraries-austin.html">Libraries in Austin</a></li><li class="page_item page-item-3123"><a href="../now.html">What I&#8217;m working on now</a></li></ul></div>
+		</nav><!-- #site-navigation -->
+
+			</header><!-- #masthead -->
+
+	<div id="main" class="wrapper">
+	<section id="primary" class="site-content">
+		<div id="content" role="main">
+
+					<header class="archive-header">
+				<h1 class="archive-title">Tag Archives: <span>wwdc2016</span></h1>
+
+						</header><!-- .archive-header -->
+
+			
+	<article id="post-4046" class="post-4046 post type-post status-publish format-status hentry category-micro tag-wwdc2016 post_format-post-format-status">
+		<div class="entry-header">
+			<img alt='' src='http://1.gravatar.com/avatar/d848ac9a3c64d1b73563895892cb2819?s=48&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/d848ac9a3c64d1b73563895892cb2819?s=96&amp;d=mm&amp;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' />		</div><!-- .entry-header -->
+
+		<div class="entry-content">
+			<p>Thought I&#8217;d try Xcode 8 with one of my current projects, then quickly reconsidered in the face of Swift 3.0 syntax errors. Probably going to sit out some of these early betas.</p>
+ 
+			<a href="../2016/06/4046.html" title="Permalink to " rel="bookmark" class="status_link">&rarr; 2016/06/18 11:25 am</a>
+		</div><!-- .entry-content -->
+
+		<footer class="entry-meta">
+								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+	<article id="post-4044" class="post-4044 post type-post status-publish format-standard hentry category-podcasts tag-coreint tag-interview tag-macstories tag-timetable tag-wwdc tag-wwdc2016">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="../2016/06/podcast-thoughts-on-wwdc.html" rel="bookmark">Podcast thoughts on WWDC</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>I&#8217;m back from San Francisco, catching up on everything I missed while traveling. I recorded a few podcast episodes during WWDC week, both my own and an interview.</p>
+<p><a href="http://www.coreint.org/2016/06/episode-237-wwdc-2016/">On Core Intuition</a>, Daniel and I talked right after the keynote about the morning&#8217;s announcements. From the show notes:</p>
+<blockquote><p>
+  Manton and Daniel react to the 2016 WWDC keynote. [&#8230;] iMessage and Siri extensibility, Continuity improvements, Apple Pay for the web, Apple’s keynote diversity, and more.
+</p></blockquote>
+<p>In the middle of the week, <a href="https://soundcloud.com/user-907896436/motiv-manton-normalized">I talked with John Voorhees of MacStories</a> about WWDC news but also a lot about microblogging. It may be the most I&#8217;ve shared about my latest project, all in one place.</p>
+<p>Yesterday, I recorded a <a href="http://timetable.manton.org/2016/06/episode-24-san-francisco-reset/">short episode of Timetable</a>. I wanted to capture what the trip to San Francisco each year means to me, outside of the conference itself. I find the week a good opportunity to reset and think about where my focus should be across my projects.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="../category/podcasts.html" rel="category tag">Podcasts</a> and tagged <a href="coreint.html" rel="tag">coreint</a>, <a href="interview.html" rel="tag">interview</a>, <a href="macstories.html" rel="tag">macstories</a>, <a href="timetable.html" rel="tag">timetable</a>, <a href="wwdc.html" rel="tag">wwdc</a>, <a href="wwdc2016.html" rel="tag">wwdc2016</a> on <a href="../2016/06/podcast-thoughts-on-wwdc.html" title="7:55 am" rel="bookmark"><time class="entry-date" datetime="2016-06-18T07:55:13+00:00">2016/06/18</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../author/manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+
+	<article id="post-4042" class="post-4042 post type-post status-publish format-status hentry category-micro tag-wwdc2016 post_format-post-format-status">
+		<div class="entry-header">
+			<img alt='' src='http://1.gravatar.com/avatar/d848ac9a3c64d1b73563895892cb2819?s=48&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/d848ac9a3c64d1b73563895892cb2819?s=96&amp;d=mm&amp;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' />		</div><!-- .entry-header -->
+
+		<div class="entry-content">
+			<p>Live-streaming all the WWDC sessions is a remarkable improvement. Thanks Apple.</p>
+ 
+			<a href="../2016/06/4042.html" title="Permalink to " rel="bookmark" class="status_link">&rarr; 2016/06/14 6:27 pm</a>
+		</div><!-- .entry-content -->
+
+		<footer class="entry-meta">
+								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+	<article id="post-4040" class="post-4040 post type-post status-publish format-status hentry category-micro tag-wwdc2016 post_format-post-format-status">
+		<div class="entry-header">
+			<img alt='' src='http://1.gravatar.com/avatar/d848ac9a3c64d1b73563895892cb2819?s=48&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/d848ac9a3c64d1b73563895892cb2819?s=96&amp;d=mm&amp;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' />		</div><!-- .entry-header -->
+
+		<div class="entry-content">
+			<p>Wandering around the Financial District to find the Transamerica Redwood Park. Beautiful spot to take a break from thinking about new iOS APIs.</p>
+ 
+			<a href="../2016/06/4040.html" title="Permalink to " rel="bookmark" class="status_link">&rarr; 2016/06/14 4:56 pm</a>
+		</div><!-- .entry-content -->
+
+		<footer class="entry-meta">
+								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+	<article id="post-4038" class="post-4038 post type-post status-publish format-status hentry category-micro tag-wwdc2016 post_format-post-format-status">
+		<div class="entry-header">
+			<img alt='' src='http://1.gravatar.com/avatar/d848ac9a3c64d1b73563895892cb2819?s=48&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/d848ac9a3c64d1b73563895892cb2819?s=96&amp;d=mm&amp;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' />		</div><!-- .entry-header -->
+
+		<div class="entry-content">
+			<p>Recording from San Francisco entirely on iOS didn&#8217;t go exactly according to plan, but we published <a href="http://www.coreint.org/">episode 237 of Core Int</a>. We&#8217;ll follow up next week on whatever we missed.</p>
+ 
+			<a href="../2016/06/4038.html" title="Permalink to " rel="bookmark" class="status_link">&rarr; 2016/06/14 3:22 pm</a>
+		</div><!-- .entry-content -->
+
+		<footer class="entry-meta">
+								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+	<article id="post-4089" class="post-4089 post type-post status-publish format-standard hentry category-photos tag-instagram tag-wwdc2016">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="../2016/06/finals-game-5.html" rel="bookmark">Finals, game 5</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p><img src="../images/2016/finals_game_.jpg" width="500" height="500" alt="Finals, game 5" /></p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="../category/photos.html" rel="category tag">Photos</a> and tagged <a href="instagram.html" rel="tag">instagram</a>, <a href="wwdc2016.html" rel="tag">wwdc2016</a> on <a href="../2016/06/finals-game-5.html" title="8:00 pm" rel="bookmark"><time class="entry-date" datetime="2016-06-13T20:00:11+00:00">2016/06/13</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../author/manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+
+	<article id="post-4036" class="post-4036 post type-post status-publish format-status hentry category-micro tag-wwdc2016 post_format-post-format-status">
+		<div class="entry-header">
+			<img alt='' src='http://1.gravatar.com/avatar/d848ac9a3c64d1b73563895892cb2819?s=48&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/d848ac9a3c64d1b73563895892cb2819?s=96&amp;d=mm&amp;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' />		</div><!-- .entry-header -->
+
+		<div class="entry-content">
+			<p>Thought I could edit Core Intuition real quick before grabbing lunch and then heading to the game in Oakland, but it&#8217;s not realistic. Good news is that in attempting to, I checked out the WeWork space on Market to work for a little while. We&#8217;ll get the WWDC episode out sometime in the morning.</p>
+ 
+			<a href="../2016/06/4036.html" title="Permalink to " rel="bookmark" class="status_link">&rarr; 2016/06/13 5:14 pm</a>
+		</div><!-- .entry-content -->
+
+		<footer class="entry-meta">
+								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+	<article id="post-4034" class="post-4034 post type-post status-publish format-status hentry category-micro tag-wwdc2016 post_format-post-format-status">
+		<div class="entry-header">
+			<img alt='' src='http://1.gravatar.com/avatar/d848ac9a3c64d1b73563895892cb2819?s=48&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/d848ac9a3c64d1b73563895892cb2819?s=96&amp;d=mm&amp;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' />		</div><!-- .entry-header -->
+
+		<div class="entry-content">
+			<p>I would&#8217;ve been happy just with the watchOS and macOS (!) changes, so pretty great to see all the new iOS APIs. About to record an episode of Core Intuition.</p>
+ 
+			<a href="../2016/06/4034.html" title="Permalink to " rel="bookmark" class="status_link">&rarr; 2016/06/13 2:52 pm</a>
+		</div><!-- .entry-content -->
+
+		<footer class="entry-meta">
+								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+	<article id="post-4032" class="post-4032 post type-post status-publish format-status hentry category-micro tag-wwdc2016 post_format-post-format-status">
+		<div class="entry-header">
+			<img alt='' src='http://1.gravatar.com/avatar/d848ac9a3c64d1b73563895892cb2819?s=48&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/d848ac9a3c64d1b73563895892cb2819?s=96&amp;d=mm&amp;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' />		</div><!-- .entry-header -->
+
+		<div class="entry-content">
+			<p>Big news day already and WWDC hasn&#8217;t even started. LinkedIn acquired by Microsoft, Storehouse shutting down&#8230; I&#8217;m at AltConf for the morning and looking forward to the keynote.</p>
+ 
+			<a href="../2016/06/4032.html" title="Permalink to " rel="bookmark" class="status_link">&rarr; 2016/06/13 11:57 am</a>
+		</div><!-- .entry-content -->
+
+		<footer class="entry-meta">
+								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+	<article id="post-4030" class="post-4030 post type-post status-publish format-status hentry category-micro tag-wwdc2016 post_format-post-format-status">
+		<div class="entry-header">
+			<img alt='' src='http://1.gravatar.com/avatar/d848ac9a3c64d1b73563895892cb2819?s=48&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/d848ac9a3c64d1b73563895892cb2819?s=96&amp;d=mm&amp;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' />		</div><!-- .entry-header -->
+
+		<div class="entry-content">
+			<p>Beautiful day at The Presidio. I&#8217;m here to check out the Pinocchio exhibit at the Walt Disney Family Museum and stumbled on to the Off the Grid Picnic with a bunch of food trucks.</p>
+ 
+			<a href="../2016/06/4030.html" title="Permalink to " rel="bookmark" class="status_link">&rarr; 2016/06/12 4:28 pm</a>
+		</div><!-- .entry-content -->
+
+		<footer class="entry-meta">
+								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+	<article id="post-3980" class="post-3980 post type-post status-publish format-standard hentry category-events tag-ipad tag-microphone tag-podcasting tag-travel tag-wwdc tag-wwdc2016">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="../2016/06/only-taking-my-ipad-pro-to-wwdc.html" rel="bookmark">Only taking my iPad Pro to WWDC</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>I&#8217;ll be in San Francisco for WWDC, although as usual in recent years I won&#8217;t be staying all week. While out there I&#8217;ll be attending AltConf and other events, recording a podcast or two, and catching up on some writing.</p>
+<p>I probably <em>should</em> take my MacBook Pro to code on projects, but I never have time. And I&#8217;ve been working so much lately, I probably need a break from Xcode for a few days. So I&#8217;m going to travel light this time and only take my iPad Pro with me.</p>
+<p>I used my iPad Pro often when working <a href="../coffee-shops-austin.html">from coffee shops</a> and <a href="../libraries-austin.html">libraries</a> earlier this year. I think I have a pretty good sense of what I&#8217;m productive with on it. iPhone and Mac app coding is out, but email, chat, writing blog posts, and even light web site maintenance are all fine, and those are the kind of things I do while traveling.</p>
+<p>That leaves podcast recording as the only question mark, but actually I&#8217;ve recorded every episode of <a href="http://timetable.fm/">Timetable</a> using my iPhone specifically so that I could get used to recording away from my office. I wrote <a href="../2016/02/microphone-and-microcast-details.html">a few months ago</a> about my microphone for Timetable. I&#8217;ll do the same thing when Daniel and I record our WWDC thoughts after the keynote, with editing on the iPad Pro.</p>
+<p>I&#8217;m excited about the conference. I&#8217;m looking forward to catching up with folks, the news from Apple, and — because I won&#8217;t even have my laptop — a bit of a break from the stress of thinking I should be programming.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="../category/events.html" rel="category tag">Events</a> and tagged <a href="ipad.html" rel="tag">ipad</a>, <a href="microphone.html" rel="tag">microphone</a>, <a href="podcasting.html" rel="tag">podcasting</a>, <a href="travel.html" rel="tag">travel</a>, <a href="wwdc.html" rel="tag">wwdc</a>, <a href="wwdc2016.html" rel="tag">wwdc2016</a> on <a href="../2016/06/only-taking-my-ipad-pro-to-wwdc.html" title="11:15 am" rel="bookmark"><time class="entry-date" datetime="2016-06-10T11:15:32+00:00">2016/06/10</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../author/manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+
+	<article id="post-3978" class="post-3978 post type-post status-publish format-status hentry category-micro tag-wwdc2016 post_format-post-format-status">
+		<div class="entry-header">
+			<img alt='' src='http://1.gravatar.com/avatar/d848ac9a3c64d1b73563895892cb2819?s=48&amp;d=mm&amp;r=g' srcset='http://1.gravatar.com/avatar/d848ac9a3c64d1b73563895892cb2819?s=96&amp;d=mm&amp;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' />		</div><!-- .entry-header -->
+
+		<div class="entry-content">
+			<p>Most developers hope we get a Siri API, but I&#8217;m not sure they agree on what that means. It could be a native SDK or it could be a web-based API more like Alexa Skills. The latter seems to better complement Apple&#8217;s weakness in services.</p>
+ 
+			<a href="../2016/06/3978.html" title="Permalink to " rel="bookmark" class="status_link">&rarr; 2016/06/10 8:48 am</a>
+		</div><!-- .entry-content -->
+
+		<footer class="entry-meta">
+								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+		
+		</div><!-- #content -->
+	</section><!-- #primary -->
+
+
+			<div id="secondary" class="widget-area" role="complementary">
+			<aside id="text-3" class="widget widget_text"><h3 class="widget-title">About</h3>			<div class="textwidget">I'm a developer and podcaster living in Austin, TX. I've been blogging for over 14 years. Recently I created <a href="http://micro.blog/">Micro.blog</a>.</div>
+		</aside><aside id="nav_menu-2" class="widget widget_nav_menu"><h3 class="widget-title">Links</h3><div class="menu-links-container"><ul id="menu-links" class="menu"><li id="menu-item-2382" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2382"><a href="mailto:manton@manton.org">manton@manton.org</a></li>
+<li id="menu-item-2384" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2384"><a href="http://instagram.com/manton">instagram.com/manton</a></li>
+<li id="menu-item-2385" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2385"><a href="http://www.riverfold.com/">riverfold.com</a></li>
+<li id="menu-item-3365" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3365"><a href="http://timetable.fm/">timetable.fm</a></li>
+<li id="menu-item-2383" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2383"><a href="http://coreint.org/">coreint.org</a></li>
+<li id="menu-item-3939" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3939"><a href="http://technicalfoul.fm/">technicalfoul.fm</a></li>
+</ul></div></aside><aside id="nav_menu-3" class="widget widget_nav_menu"><h3 class="widget-title">Feeds</h3><div class="menu-feeds-container"><ul id="menu-feeds" class="menu"><li id="menu-item-2624" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2624"><a href="../rss.xml">full posts (RSS)</a></li>
+<li id="menu-item-2625" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2625"><a href="../snippets.xml">microblog posts (RSS)</a></li>
+</ul></div></aside><aside id="categories-2" class="widget widget_categories"><h3 class="widget-title">Categories</h3>		<ul>
+	<li class="cat-item cat-item-9"><a href="../category/animation.html" >Animation</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="../category/art.html" >Art</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="../category/books.html" >Books</a>
+</li>
+	<li class="cat-item cat-item-35"><a href="../category/business.html" >Business</a>
+</li>
+	<li class="cat-item cat-item-71"><a href="../category/comics.html" >Comics</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="../category/events.html" >Events</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="../category/movies.html" >Movies</a>
+</li>
+	<li class="cat-item cat-item-78"><a href="../category/music.html" >Music</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="../category/personal.html" >Personal</a>
+</li>
+	<li class="cat-item cat-item-49"><a href="../category/photography.html" >Photography</a>
+</li>
+	<li class="cat-item cat-item-1118"><a href="../category/photos.html" >Photos</a>
+</li>
+	<li class="cat-item cat-item-81"><a href="../category/podcasts.html" >Podcasts</a>
+</li>
+	<li class="cat-item cat-item-51"><a href="../category/politics.html" >Politics</a>
+</li>
+	<li class="cat-item cat-item-27"><a href="../category/programming.html" >Programming</a>
+</li>
+	<li class="cat-item cat-item-847"><a href="../category/micro.html" >Snippets</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="../category/technology.html" >Technology</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="../category/user_experience.html" >User Experience</a>
+</li>
+	<li class="cat-item cat-item-67"><a href="../category/video_games.html" >Video Games</a>
+</li>
+	<li class="cat-item cat-item-2"><a href="../category/weblogs.html" >Weblogs</a>
+</li>
+		</ul>
+</aside><aside id="text-2" class="widget widget_text"><h3 class="widget-title">Search</h3>			<div class="textwidget"><script type="text/javascript" src="http://js.searchpath.io/v1/manton.org?verify=625401361E"></script></div>
+		</aside><aside id="archives-2" class="widget widget_archive"><h3 class="widget-title">Archives</h3>		<ul>
+			<li><a href='../2016/12.html'>December 2016</a></li>
+	<li><a href='../2016/11.html'>November 2016</a></li>
+	<li><a href='../2016/10.html'>October 2016</a></li>
+	<li><a href='../2016/09.html'>September 2016</a></li>
+	<li><a href='../2016/08.html'>August 2016</a></li>
+	<li><a href='../2016/07.html'>July 2016</a></li>
+	<li><a href='../2016/06.html'>June 2016</a></li>
+	<li><a href='../2016/05.html'>May 2016</a></li>
+	<li><a href='../2016/04.html'>April 2016</a></li>
+	<li><a href='../2016/03.html'>March 2016</a></li>
+	<li><a href='../2016/02.html'>February 2016</a></li>
+	<li><a href='../2016/01.html'>January 2016</a></li>
+	<li><a href='../2015/12.html'>December 2015</a></li>
+	<li><a href='../2015/11.html'>November 2015</a></li>
+	<li><a href='../2015/10.html'>October 2015</a></li>
+	<li><a href='../2015/09.html'>September 2015</a></li>
+	<li><a href='../2015/08.html'>August 2015</a></li>
+	<li><a href='../2015/07.html'>July 2015</a></li>
+	<li><a href='../2015/06.html'>June 2015</a></li>
+	<li><a href='../2015/05.html'>May 2015</a></li>
+	<li><a href='../2015/04.html'>April 2015</a></li>
+	<li><a href='../2015/03.html'>March 2015</a></li>
+	<li><a href='../2015/02.html'>February 2015</a></li>
+	<li><a href='../2015/01.html'>January 2015</a></li>
+	<li><a href='../2014/12.html'>December 2014</a></li>
+	<li><a href='../2014/11.html'>November 2014</a></li>
+	<li><a href='../2014/10.html'>October 2014</a></li>
+	<li><a href='../2014/09.html'>September 2014</a></li>
+	<li><a href='../2014/08.html'>August 2014</a></li>
+	<li><a href='../2014/05.html'>May 2014</a></li>
+	<li><a href='../2014/04.html'>April 2014</a></li>
+	<li><a href='../2014/03.html'>March 2014</a></li>
+	<li><a href='../2014/02.html'>February 2014</a></li>
+	<li><a href='../2014/01.html'>January 2014</a></li>
+	<li><a href='../2013/12.html'>December 2013</a></li>
+	<li><a href='../2013/11.html'>November 2013</a></li>
+	<li><a href='../2013/10.html'>October 2013</a></li>
+	<li><a href='../2013/08.html'>August 2013</a></li>
+	<li><a href='../2013/07.html'>July 2013</a></li>
+	<li><a href='../2013/06.html'>June 2013</a></li>
+	<li><a href='../2013/05.html'>May 2013</a></li>
+	<li><a href='../2013/04.html'>April 2013</a></li>
+	<li><a href='../2013/03.html'>March 2013</a></li>
+	<li><a href='../2013/02.html'>February 2013</a></li>
+	<li><a href='../2013/01.html'>January 2013</a></li>
+	<li><a href='../2012/12.html'>December 2012</a></li>
+	<li><a href='../2012/11.html'>November 2012</a></li>
+	<li><a href='../2012/10.html'>October 2012</a></li>
+	<li><a href='../2012/09.html'>September 2012</a></li>
+	<li><a href='../2012/08.html'>August 2012</a></li>
+	<li><a href='../2012/07.html'>July 2012</a></li>
+	<li><a href='../2012/06.html'>June 2012</a></li>
+	<li><a href='../2012/05.html'>May 2012</a></li>
+	<li><a href='../2012/04.html'>April 2012</a></li>
+	<li><a href='../2012/03.html'>March 2012</a></li>
+	<li><a href='../2012/02.html'>February 2012</a></li>
+	<li><a href='../2011/12.html'>December 2011</a></li>
+	<li><a href='../2011/10.html'>October 2011</a></li>
+	<li><a href='../2011/09.html'>September 2011</a></li>
+	<li><a href='../2011/08.html'>August 2011</a></li>
+	<li><a href='../2011/07.html'>July 2011</a></li>
+	<li><a href='../2011/06.html'>June 2011</a></li>
+	<li><a href='../2011/05.html'>May 2011</a></li>
+	<li><a href='../2011/04.html'>April 2011</a></li>
+	<li><a href='../2011/03.html'>March 2011</a></li>
+	<li><a href='../2011/02.html'>February 2011</a></li>
+	<li><a href='../2011/01.html'>January 2011</a></li>
+	<li><a href='../2010/12.html'>December 2010</a></li>
+	<li><a href='../2010/10.html'>October 2010</a></li>
+	<li><a href='../2010/09.html'>September 2010</a></li>
+	<li><a href='../2010/08.html'>August 2010</a></li>
+	<li><a href='../2010/07.html'>July 2010</a></li>
+	<li><a href='../2010/06.html'>June 2010</a></li>
+	<li><a href='../2010/04.html'>April 2010</a></li>
+	<li><a href='../2010/03.html'>March 2010</a></li>
+	<li><a href='../2010/02.html'>February 2010</a></li>
+	<li><a href='../2010/01.html'>January 2010</a></li>
+	<li><a href='../2009/12.html'>December 2009</a></li>
+	<li><a href='../2009/11.html'>November 2009</a></li>
+	<li><a href='../2009/09.html'>September 2009</a></li>
+	<li><a href='../2009/08.html'>August 2009</a></li>
+	<li><a href='../2009/07.html'>July 2009</a></li>
+	<li><a href='../2009/06.html'>June 2009</a></li>
+	<li><a href='../2009/05.html'>May 2009</a></li>
+	<li><a href='../2009/04.html'>April 2009</a></li>
+	<li><a href='../2009/03.html'>March 2009</a></li>
+	<li><a href='../2009/02.html'>February 2009</a></li>
+	<li><a href='../2009/01.html'>January 2009</a></li>
+	<li><a href='../2008/12.html'>December 2008</a></li>
+	<li><a href='../2008/10.html'>October 2008</a></li>
+	<li><a href='../2008/09.html'>September 2008</a></li>
+	<li><a href='../2008/08.html'>August 2008</a></li>
+	<li><a href='../2008/06.html'>June 2008</a></li>
+	<li><a href='../2008/05.html'>May 2008</a></li>
+	<li><a href='../2008/04.html'>April 2008</a></li>
+	<li><a href='../2008/03.html'>March 2008</a></li>
+	<li><a href='../2008/02.html'>February 2008</a></li>
+	<li><a href='../2008/01.html'>January 2008</a></li>
+	<li><a href='../2007/12.html'>December 2007</a></li>
+	<li><a href='../2007/11.html'>November 2007</a></li>
+	<li><a href='../2007/10.html'>October 2007</a></li>
+	<li><a href='../2007/09.html'>September 2007</a></li>
+	<li><a href='../2007/08.html'>August 2007</a></li>
+	<li><a href='../2007/07.html'>July 2007</a></li>
+	<li><a href='../2007/06.html'>June 2007</a></li>
+	<li><a href='../2007/05.html'>May 2007</a></li>
+	<li><a href='../2007/04.html'>April 2007</a></li>
+	<li><a href='../2007/03.html'>March 2007</a></li>
+	<li><a href='../2007/02.html'>February 2007</a></li>
+	<li><a href='../2007/01.html'>January 2007</a></li>
+	<li><a href='../2006/12.html'>December 2006</a></li>
+	<li><a href='../2006/11.html'>November 2006</a></li>
+	<li><a href='../2006/10.html'>October 2006</a></li>
+	<li><a href='../2006/09.html'>September 2006</a></li>
+	<li><a href='../2006/08.html'>August 2006</a></li>
+	<li><a href='../2006/07.html'>July 2006</a></li>
+	<li><a href='../2006/05.html'>May 2006</a></li>
+	<li><a href='../2006/04.html'>April 2006</a></li>
+	<li><a href='../2006/03.html'>March 2006</a></li>
+	<li><a href='../2006/02.html'>February 2006</a></li>
+	<li><a href='../2006/01.html'>January 2006</a></li>
+	<li><a href='../2005/12.html'>December 2005</a></li>
+	<li><a href='../2005/11.html'>November 2005</a></li>
+	<li><a href='../2005/10.html'>October 2005</a></li>
+	<li><a href='../2005/09.html'>September 2005</a></li>
+	<li><a href='../2005/08.html'>August 2005</a></li>
+	<li><a href='../2005/06.html'>June 2005</a></li>
+	<li><a href='../2005/05.html'>May 2005</a></li>
+	<li><a href='../2005/04.html'>April 2005</a></li>
+	<li><a href='../2005/03.html'>March 2005</a></li>
+	<li><a href='../2005/02.html'>February 2005</a></li>
+	<li><a href='../2005/01.html'>January 2005</a></li>
+	<li><a href='../2004/12.html'>December 2004</a></li>
+	<li><a href='../2004/11.html'>November 2004</a></li>
+	<li><a href='../2004/10.html'>October 2004</a></li>
+	<li><a href='../2004/09.html'>September 2004</a></li>
+	<li><a href='../2004/08.html'>August 2004</a></li>
+	<li><a href='../2004/07.html'>July 2004</a></li>
+	<li><a href='../2004/06.html'>June 2004</a></li>
+	<li><a href='../2004/05.html'>May 2004</a></li>
+	<li><a href='../2004/04.html'>April 2004</a></li>
+	<li><a href='../2004/03.html'>March 2004</a></li>
+	<li><a href='../2004/02.html'>February 2004</a></li>
+	<li><a href='../2004/01.html'>January 2004</a></li>
+	<li><a href='../2003/12.html'>December 2003</a></li>
+	<li><a href='../2003/11.html'>November 2003</a></li>
+	<li><a href='../2003/10.html'>October 2003</a></li>
+	<li><a href='../2003/09.html'>September 2003</a></li>
+	<li><a href='../2003/08.html'>August 2003</a></li>
+	<li><a href='../2003/07.html'>July 2003</a></li>
+	<li><a href='../2003/06.html'>June 2003</a></li>
+	<li><a href='../2003/05.html'>May 2003</a></li>
+	<li><a href='../2003/04.html'>April 2003</a></li>
+	<li><a href='../2003/03.html'>March 2003</a></li>
+	<li><a href='../2003/02.html'>February 2003</a></li>
+	<li><a href='../2003/01.html'>January 2003</a></li>
+	<li><a href='../2002/12.html'>December 2002</a></li>
+	<li><a href='../2002/11.html'>November 2002</a></li>
+	<li><a href='../2002/10.html'>October 2002</a></li>
+	<li><a href='../2002/09.html'>September 2002</a></li>
+	<li><a href='../2002/08.html'>August 2002</a></li>
+	<li><a href='../2002/07.html'>July 2002</a></li>
+	<li><a href='../2002/06.html'>June 2002</a></li>
+	<li><a href='../2002/05.html'>May 2002</a></li>
+	<li><a href='../2002/04.html'>April 2002</a></li>
+	<li><a href='../2002/03.html'>March 2002</a></li>
+		</ul>
+		</aside>		</div><!-- #secondary -->
+		</div><!-- #main .wrapper -->
+	<footer id="colophon" role="contentinfo">
+		<div class="site-info">
+						<a href="http://wordpress.org/" title="Semantic Personal Publishing Platform">Proudly powered by WordPress</a>
+		</div><!-- .site-info -->
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script type='text/javascript' src='../wp-content/themes/twentytwelve/js/navigationa462.html?ver=20140318'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201650'></script>
+<script type='text/javascript' src='../wp-includes/js/wp-embed.min1c9b.js?ver=4.6.1'></script>
+<script type='text/javascript' src='http://stats.wp.com/e-201650.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:4.2.2',blog:'74089361',post:'0',tz:'-6',srv:'www.manton.org'} ]);
+	_stq.push([ 'clickTrackerInit', '74089361', '0' ]);
+</script>
+
+</body>
+
+<!-- Mirrored from www.manton.org/tag/wwdc2016 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 13 Dec 2016 20:38:22 GMT -->
+</html>
+<!-- Dynamic page generated in 0.345 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 12:16:52 -->
+
+<!-- super cache -->

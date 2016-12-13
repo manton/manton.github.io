@@ -8,19 +8,18 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; acorn</title>
+	<title>acorn &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/acorn/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
 		<title>Acorn 5</title>
 		<link>http://www.manton.org/2015/08/acorn-5.html</link>
-		<comments>http://www.manton.org/2015/08/acorn-5.html#comments</comments>
 		<pubDate>Thu, 20 Aug 2015 17:09:06 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -37,13 +36,10 @@
 </p></blockquote>
 <p>Congrats to Gus on another big release. You should <a href="http://flyingmeat.com/acorn/">check it out here</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/08/acorn-5.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Acorn 3</title>
 		<link>http://www.manton.org/2011/04/acorn_3.html</link>
-		<comments>http://www.manton.org/2011/04/acorn_3.html#comments</comments>
 		<pubDate>Mon, 18 Apr 2011 14:43:04 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -62,13 +58,10 @@
 <blockquote><p>&#8220;Just plan, set realistic goals, meet those goals, diversify, save up, add four cups of patience, and have fun. And most importantly- work your ass off. It&#8217;s not difficult, it&#8217;s just not easy. It takes time and patience and hard work.&#8221;</p></blockquote>
 <p>One of the first great blog posts about working for yourself writing Mac software.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2011/04/acorn_3.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Clipstart file actions</title>
 		<link>http://www.manton.org/2009/07/clipstart_file_actions.html</link>
-		<comments>http://www.manton.org/2009/07/clipstart_file_actions.html#comments</comments>
 		<pubDate>Fri, 03 Jul 2009 05:31:08 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -109,13 +102,10 @@
 <p><tt>/usr/bin/osascript /path/to/myscript.sh /path/to/movie.avi</tt></p>
 <p>I did this to not require setting +x on the file, but it also seems to be a more convenient way of processing command line arguments when run from osascript.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2009/07/clipstart_file_actions.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>JSCocoa in Acorn</title>
 		<link>http://www.manton.org/2009/01/jscocoa_in_acorn.html</link>
-		<comments>http://www.manton.org/2009/01/jscocoa_in_acorn.html#comments</comments>
 		<pubDate>Sun, 11 Jan 2009 22:54:52 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -130,13 +120,10 @@
 <p>Gus has been posting to both his personal and company blogs lately. Another neat script over on the Flying Meat blog is &#8220;this one about drop shadows&#8221;:http://flyingmeat.com/blog/archives/2009/01/curved_drop_shadows_in_acorn.html.</p>
 <p>I still get a lot of mileage out of Flying Meat&#8217;s other product, VoodooPad. I&#8217;ll be writing a follow-up to my &#8220;authoring help post&#8221;:http://www.manton.org/2007/01/falling_in_love.html in the next week or so, this time with an example document.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2009/01/jscocoa_in_acorn.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Using Acorn</title>
 		<link>http://www.manton.org/2007/09/using_acorn.html</link>
-		<comments>http://www.manton.org/2007/09/using_acorn.html#comments</comments>
 		<pubDate>Tue, 25 Sep 2007 18:18:40 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[User Experience]]></category>
@@ -155,11 +142,9 @@
 <p>So what&#8217;s missing? After using it for a couple weeks for real work, the only things I am particularly missing are layer groups (totally understand why he left those out for now), Save for Web (which I hear is coming shortly), and Copy Merged (did I miss it?). And the big one: Open/Save for Photoshop files. It doesn&#8217;t need anything fancy in the .psd files, just the same features of a .acorn file to allow a designer to move between the apps if necessary.</p>
 <p>Right as I&#8217;m about to post this, &#8220;Pixelmator finally ships&#8221;:http://www.tuaw.com/2007/09/25/pixelmator-hits-1-0/. I&#8217;ve only spent a few minutes with it, but it also looks pretty competent. Time will tell whether it holds up for real work as well as Acorn has for me.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2007/09/using_acorn.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.333 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 15:05:44 -->
+<!-- Dynamic page generated in 0.280 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 15:20:53 -->

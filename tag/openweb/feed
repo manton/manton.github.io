@@ -8,19 +8,201 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; openweb</title>
+	<title>openweb &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/openweb/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
+		<title>Today&#8217;s social networks are broken</title>
+		<link>http://www.manton.org/2016/11/todays-social-networks-are-broken.html</link>
+		<pubDate>Fri, 18 Nov 2016 16:02:47 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[openweb]]></category>
+		<category><![CDATA[snippets]]></category>
+		<category><![CDATA[social]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4471</guid>
+		<description><![CDATA[Brent Simmons has left Twitter, frustrated with the diminishing value of the service, Twitter&#8217;s inability to deal with harassment, and more: And then it was part of the system that helped elect a fascist President. This tipped it over for me: it’s no longer worth my participation. The shitheads can have it. Facebook has also [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://inessential.com/2016/11/09/on_leaving_twitter">Brent Simmons has left Twitter</a>, frustrated with the diminishing value of the service, Twitter&#8217;s inability to deal with harassment, and more:</p>
+<blockquote><p>
+  And then it was part of the system that helped elect a fascist President. This tipped it over for me: it’s no longer worth my participation. The shitheads can have it.
+</p></blockquote>
+<p>Facebook has also been in the news for <a href="http://mashable.com/2016/11/09/facebook-kill-news-feed-trump/">its role in letting fake news spread</a>. Ben Thompson has <a href="https://stratechery.com/2016/fake-news/">a long essay this week on it</a>:</p>
+<blockquote><p>
+  I get why top-down solutions are tempting: fake news and filter bubbles are in front of our face, and wouldn’t it be better if Facebook fixed them? The problem is the assumption that whoever wields that top-down power will just so happen to have the same views I do. What, though, if they don’t?
+</p></blockquote>
+<p>Maybe. Though while we should debate how to balance Facebook&#8217;s enormous power, there should be a parallel effort to move away from the centralized publishing model that gave Facebook that power.</p>
+<p>Facebook has confused itself into thinking it is the whole internet, and so the principles of a free press that apply to the open web, also must apply to Facebook. No. While Facebook has a great responsibility to do the right thing, because they are so big, Facebook is just a web site.</p>
+<p>I want Facebook to improve. I want Twitter to improve. But I can do very little to effect change at those companies, and some problems are so fundamental as to be essentially unfixable. The web wasn&#8217;t supposed to be like this, with all the power and all the writing concentrated into so few sites.</p>
+<p>It&#8217;s time for a new social network that brings discoverability and community without the baggage of an ad-driven network that must grow to a billion users. A social network that embraces the open web, and freedom of expression, while preserving a clean timeline that can&#8217;t be interrupted by harassment.</p>
+<p>Not just one new social network. I hope that many developers will work on products that encourage independent publishing again.</p>
+<p>It&#8217;s going to take time to build. That&#8217;s why I started working on <a href="http://snippets.today/">Snippets.today</a> 2 years ago. I&#8217;ve made great progress, but I&#8217;ve also drifted, unfocused, uncommitted to finishing it, as if I knew something was missing.</p>
+<p>Something <em>was</em> missing. The election results have made that clear. I was thinking big, but not big enough. The way forward must include both a decentralized publishing platform and the tools to encourage a safe community.</p>
+<p>If you&#8217;d like to know when the beta is finally ready, please <a href="http://eepurl.com/6vVvj">subscribe to the announce list</a>. Thank you.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Tim Berners-Lee&#8217;s Solid</title>
+		<link>http://www.manton.org/2016/08/tim-berners-lees-solid.html</link>
+		<pubDate>Fri, 12 Aug 2016 18:53:12 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[indiewebcamp]]></category>
+		<category><![CDATA[ipfs]]></category>
+		<category><![CDATA[microblogging]]></category>
+		<category><![CDATA[microformats]]></category>
+		<category><![CDATA[openweb]]></category>
+		<category><![CDATA[solid]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4174</guid>
+		<description><![CDATA[I’ve written about IPFS before, but Solid (from Tim Berners-Lee himself, among other MIT folks) is another new proposal for a more distributed web. I wasn’t familiar with it until reading this article at Digital Trends, which first makes the case for independent content vs. the big centralized platforms: Now a handful of companies own [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I’ve <a href="http://www.manton.org/2015/09/web-history-and-ipfs.html">written about IPFS</a> before, but <a href="https://solid.mit.edu/">Solid</a> (from Tim Berners-Lee himself, among other MIT folks) is another new proposal for a more distributed web. I wasn’t familiar with it until reading <a href="http://www.digitaltrends.com/web/ways-to-decentralize-the-web/">this article at Digital Trends</a>, which first makes the case for independent content vs. the big centralized platforms:</p>
+<blockquote><p>
+  Now a handful of companies own vast swaths of web activity – Facebook for social networking, Google for searching, eBay for auctions – and quite literally own the data their users have provided and generated. This gives these companies unprecedented power over us, and gives them such a competitive advantage that it’s pretty silly to think you’re going to start up a business that’s going to beat them at their own game.
+</p></blockquote>
+<p>The article continues with the types of data you might share in a Solid application:</p>
+<blockquote><p>
+  For example, you might keep your personal information in one or several pods: the sort of data about yourself that you put into your Facebook profile; a list of your friends, family, and colleagues; your banking information; maps of where you’ve traveled; some health information. That way if someone built a new social networking application—perhaps to compete head-on with Facebook, or, more likely, to offer specialized services to people with shared interests—you could join by giving it permission to access the appropriate information in your pod.
+</p></blockquote>
+<p>One of the showcase applications is called Client-Integrated Micro-Blogging Architecture, surely named mostly for its pronounceable acronym. From the <a href="https://github.com/linkeddata/cimba">CIMBA project site</a>:</p>
+<blockquote><p>
+  CIMBA is a privacy-friendly, decentralized microblogging application that runs in your browser. It is built using the latest HTML5 technologies and Web standards. With CIMBA, people get a microblogging app that behaves like Twitter, built entirely out of parts they can control.
+</p></blockquote>
+<p>Solid and CIMBA are built on the <a href="http://www.w3.org/TR/ldp/">Linked Data Platform</a>, which in turn is based off of RDF. I’m admittedly biased against RDF, because it often brings with it an immediate sense of over-engineering — too abstracted, solving too many problems at once. I’m glad to see this activity around a distributed web, and I’ll be following Solid, but I also continue to believe that the simple microformats and APIs from the <a href="https://indieweb.org/">IndieWebCamp</a> are the best place to start.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>An open Twitter starts with the web</title>
+		<link>http://www.manton.org/2016/07/an-open-twitter-starts-with-the-web.html</link>
+		<pubDate>Sat, 23 Jul 2016 15:40:34 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[indiewebcamp]]></category>
+		<category><![CDATA[openweb]]></category>
+		<category><![CDATA[rss]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[wordpress]]></category>
+		<category><![CDATA[xmpp]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2016/07/an-open-twitter-starts-with-the-web.html</guid>
+		<description><![CDATA[Dave Winer wants an open alternative to Twitter: I want it to be friendly to Twitter, because as a user and a shareholder, and a developer who uses their platform, I want to see it thrive. But I also strongly believe we need the open system, the Central Park to Twitter&#8217;s condo buildings on Fifth [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Dave Winer wants <a href="http://scripting.com/2016/07/22/1400.html">an open alternative to Twitter</a>:</p>
+<blockquote><p>
+  I want it to be friendly to Twitter, because as a user and a shareholder, and a developer who uses their platform, I want to see it thrive. But I also strongly believe we need the open system, the <a href="http://scripting.com/2016/06/18/1324.html">Central Park</a> to Twitter&#8217;s condo buildings on Fifth Ave and Central Park West.
+</p></blockquote>
+<p>John Biesnecker, reading Dave&#8217;s post, <a href="https://gist.github.com/biesnecker/d585c1ba395ffa5c8148128372aa8e2e">suggested XMPP</a> because it&#8217;s an open standard and federated. But as great as XMPP is for messaging, it seems too different from the web; it would be like starting over. The nice thing about building on independent microblogs is that we can leverage the existing open web infrastructure: all the WordPress installs, RSS feeds, and new work from the <a href="https://indieweb.org/">IndieWebCamp</a>.</p>
+<p>That&#8217;s what I&#8217;ve tried to do for <a href="http://snippets.today/">Snippets.today</a>. Learn from the UI innovations of Twitter — the fast timeline experience, the effortless posting — but without skipping the important first step of independent web publishing.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Mullenweg on Medium and the open web</title>
+		<link>http://www.manton.org/2016/07/mullenweg-on-medium-and-the-open-web.html</link>
+		<pubDate>Sat, 09 Jul 2016 13:45:45 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[medium]]></category>
+		<category><![CDATA[openweb]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4103</guid>
+		<description><![CDATA[Matt Mullenweg comments on whether choosing Medium is a good long-term bet: In making the decision to hitch their horse to Medium’s wagon while fording a river, they’re probably betting on Medium not going out of business, which I agree there’s only like a 10% chance of happening. However I think there is a 97% [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://ma.tt/2016/07/mortgaging-your-sites-future/">Matt Mullenweg comments</a> on whether choosing Medium is a good long-term bet:</p>
+<blockquote><p>
+  In making the decision to hitch their horse to Medium’s wagon while fording a river, they’re probably betting on Medium not going out of business, which I agree there’s only like a 10% chance of happening. However I think there is a 97% chance that Medium’s business model will change in the future because the path they’re on and these publishers are dependent on will not sustain their current costs or the investment they’ve raised.
+</p></blockquote>
+<p>10% chance of going out of business compares poorly to Matt&#8217;s Automattic itself, which <a href="http://www.manton.org/2015/09/complete-mirror-of-this-blog.html">as I&#8217;ve written about before</a> is one of only a couple web publishing companies that I think could last 100 years. If your goal is to write something that many people can read for years to come, why risk it on an uncertain platform?</p>
+<p>There&#8217;s a longer <a href="https://videopress.com/embed/MVF9BxaG">video interview with Matt from WordCamp Europe</a> last month, where he goes into more detail on the role of Medium and WordPress. Highly recommended if you&#8217;re interested in the open web, or just curious how progress is made in the WordPress community.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Wanting an open voice assistant platform</title>
+		<link>http://www.manton.org/2016/05/wanting-an-open-voice-assistant-platform.html</link>
+		<pubDate>Thu, 19 May 2016 14:23:09 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[echo]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[openweb]]></category>
+		<category><![CDATA[siri]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3932</guid>
+		<description><![CDATA[I’ve owned an Amazon Echo since it first shipped and it’s great. I also use Siri and like it, though I use it less often for the kind of random questions I might ask Alexa. But after watching yesterday’s Google I/O keynote, I can’t help but feel that eventually Google is going to be far [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I’ve owned an Amazon Echo <a href="http://www.manton.org/2015/06/amazon-echo.html">since it first shipped</a> and it’s great. I also use Siri and like it, though I use it less often for the kind of random questions I might ask Alexa. But after watching yesterday’s Google I/O keynote, I can’t help but feel that eventually Google is going to be far ahead of Amazon and Apple in this space.</p>
+<p><a href="http://daringfireball.net/linked/2016/05/18/google-io-2016">Here’s John Gruber</a> writing at Daring Fireball about the keynote:</p>
+<blockquote><p>
+  Google is clearly the best at this voice-driven assistant stuff. Pichai claimed that in their own competitive analysis, Google Assistant is “an order of magnitude” ahead of competing assistants (read: Siri and Alexa). That sounds about right.
+</p></blockquote>
+<p>The problem with a voice assistant is that the better it gets, the more you want it to do. You continue to ask it more complicated questions, pushing at the limits of the assistant’s capabilities.</p>
+<p>Only Google has the expertise in web services and the massive amount of data to keep going beyond basic questions. I expect both Siri and Alexa will hit brick walls that Google will get past, especially in conversational queries that let the user drill down below the most popular, superficial facts.</p>
+<p>That is, unless Apple can open up Siri. Not just plugging in new trigger keywords like Alexa’s “skills” API (which would be a good start), but maybe a complete way to extend Siri with third-party code that feels seamless to the user. Surfacing voice-enabled apps automatically through natural queries might be on the same scale of app discoverability as we saw when the App Store launched.</p>
+<p>As Ben Thompson lays out well <a href="https://stratechery.com/2016/googles-go-to-market-gap/">in today’s essay</a>, Google faces a different internet than the open web on which they built their search engine. The default for all these new platforms — from Facebook to Siri to the App Store — is to be closed. There’s a narrow window, right now, for someone to take the lead on creating an open voice assistant standard built on the open web.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Medium subscriptions</title>
+		<link>http://www.manton.org/2016/05/medium-subscriptions.html</link>
+		<pubDate>Fri, 13 May 2016 16:12:05 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[medium]]></category>
+		<category><![CDATA[openweb]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3919</guid>
+		<description><![CDATA[Glenn Fleishman writes for Six Colors about Medium&#8217;s subscription features that will let publishers charge readers: It’s absolutely clear the revenue side is an experiment, and Medium labels it as such all over. There’s no guarantee it will work for its early partners or pan out in the long run. But it’s the only publishing [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://sixcolors.com/post/2016/05/mediums-latest-intriguing-publishing-experiment/">Glenn Fleishman writes for Six Colors</a> about Medium&#8217;s subscription features that will let publishers charge readers:</p>
+<blockquote><p>
+  It’s absolutely clear the revenue side is an experiment, and Medium labels it as such all over. There’s no guarantee it will work for its early partners or pan out in the long run. But it’s the only publishing option that combines so many things in one place without any over-the-top cost or commitment on the part of a periodical.
+</p></blockquote>
+<p>While Medium is certainly doing a lot right, and I still think <a href="http://www.manton.org/2016/01/silos-as-shortcuts.html">it&#8217;s not a bad place to mirror content</a>, the &#8220;long run&#8221; Glenn mentions is really what we should think about when considering Medium. I have no confidence that Medium will last 5-10 years.</p>
+<p>If my whole business was based on blogging, why would I trust Medium to control something so crucial? With iOS development, we have no choice but to use the App Store. Writing on the web isn&#8217;t like that, and voluntarily giving up both control of the publishing platform and 20% of revenue strikes me as very short-sighted.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Podcasting lock-in and the lesson from Penn Station</title>
+		<link>http://www.manton.org/2016/05/podcasting-lock-in-and-the-lesson-from-penn-station.html</link>
+		<pubDate>Thu, 12 May 2016 14:40:07 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[nyc]]></category>
+		<category><![CDATA[openweb]]></category>
+		<category><![CDATA[overcast]]></category>
+		<category><![CDATA[pennstation]]></category>
+		<category><![CDATA[podcasting]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3914</guid>
+		<description><![CDATA[When my family was visiting New York City a couple of years ago, we took a train out of Pennsylvania Station on the way up to Montreal for the second half of our vacation. It was raining a little as we walked from the hotel, but I thought we&#8217;d still have no trouble finding the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>When my family was visiting New York City a couple of years ago, we took a train out of Pennsylvania Station on the way up to Montreal for the second half of our vacation. It was raining a little as we walked from the hotel, but I thought we&#8217;d still have no trouble finding the station. After a few minutes we gave up and had to ask someone where the entrance was.</p>
+<p>We couldn&#8217;t find it because it looked like every other street corner in Manhattan. But it wasn&#8217;t always like that. It used to look like this:</p>
+<p><center><img src="http://www.manton.org/images/2016/penn_station.jpg" width="448" height="350" alt="Pennsylvania Station in the 1910s" /></center></p>
+<p>In the 1960s, facing declining train usage and financial problems, the Pennsylvania Railroad sold the rights to everything above ground and the incredible station pictured above was demolished. It was only afterwards, when it actually happened, that everyone fully realized what they had lost. Determined to not let other beautiful architectural landmarks get destroyed, the city passed a law to restrict similar demolition. Grand Central Terminal was preserved because of the lesson learned from letting Pennsylvania Station go.</p>
+<p>I was thinking about this story — failing to do the right thing, but applying that knowledge to the <em>next</em> thing — while re-reading <a href="https://marco.org/2016/05/07/apple-role-in-podcasting">Marco&#8217;s excellent post on the future of podcasting</a>. In it, he lays out the technical details for how podcasting works today, and makes the case for leaving it alone. I especially like this part, on his determination to keep Overcast a sort of pure MP3 client:</p>
+<blockquote><p>
+  By the way, while I often get pitched on garbage podcast-listening-behavioral-data integrations, <strong>I’m never adding such tracking to Overcast.</strong> Never. The biggest reason I made a free, mass-market podcast app was so I could take stands like this.
+</p></blockquote>
+<p>I should have realized it earlier, but I don&#8217;t think I really connected all of Marco&#8217;s goals with Overcast until Daniel Jalkut and I had him on <a href="http://coreint.org/200">Core Intuition episode 200</a>. We talked about many of these same themes as Marco was finishing up Overcast 2.0.</p>
+<p>There&#8217;s also a great discussion <a href="https://www.relay.fm/upgrade/88">on Upgrade</a> about this. It starts <a href="https://overcast.fm/+DeCngCgj8/43:07">about halfway through</a>.</p>
+<p><a href="https://www.macstories.net/stories/a-podcasting-divergence/">In a response to Marco on MacStories</a>, Federico Viticci writes about the parallel trend in the web industry toward centralized services like Facebook and Medium that allow &#8220;content professionals&#8221; to monetize their writing. In doing so, those writers give up many of the benefits of the open web:</p>
+<blockquote><p>
+  But the great thing about the free and decentralized web is that the aforementioned web platforms are optional and they&#8217;re alternatives to an existing open field where independent makers can do whatever they want. I can own my content, offer my RSS feed to anyone, and resist the temptation of slowing down my website with 10 different JavaScript plugins to monitor what my users do. No one is forcing me to agree to the terms of a platform.
+</p></blockquote>
+<p>While the open web still exists, we really dropped the ball protecting and strengthening it. Fewer people&#8217;s first choice for publishing is to start a web site hosted at their own domain. Like the destruction of Pennsylvania Station, sometimes you only know in hindsight that you&#8217;ve made a mistake. We were so caught up in Twitter and Facebook that we let the open web crumble. I&#8217;m not giving up — I think we can get people excited about blogging and owning their own content again — but it would have been easier if we had realized <a href="http://anildash.com/2012/12/the-web-we-lost.html">what we lost</a> earlier.</p>
+<p>Reading posts like Marco&#8217;s and Federico&#8217;s, and listening to Jason and Myke on Upgrade, I&#8217;m convinced that podcasting will remain open because <em>we know better now</em>. As a community we can learn from the mistakes with the web and the threats of closed platforms, making sure that podcasting is preserved as a simple technology that no one controls.</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>Buytaert on the open web</title>
 		<link>http://www.manton.org/2016/03/buytaert-on-the-open-web.html</link>
-		<comments>http://www.manton.org/2016/03/buytaert-on-the-open-web.html#comments</comments>
 		<pubDate>Thu, 17 Mar 2016 20:39:31 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Weblogs]]></category>
@@ -37,13 +219,10 @@
 </p></blockquote>
 <p>Matt Mullenweg linked to it <a href="https://ma.tt/2016/03/saving-the-open-web/">and added</a>: “I agree with and endorse basically everything in that post.”</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/03/buytaert-on-the-open-web.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Dave Winer on Instant Articles</title>
 		<link>http://www.manton.org/2016/02/dave-winer-on-instant-articles.html</link>
-		<comments>http://www.manton.org/2016/02/dave-winer-on-instant-articles.html#comments</comments>
 		<pubDate>Wed, 24 Feb 2016 16:46:49 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -59,13 +238,10 @@
 </p></blockquote>
 <p>I guess one question is whether there will be any other RSS readers that support Instant Articles. If we can get some of the benefits of Instant Articles, but outside of Facebook, that is something.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/02/dave-winer-on-instant-articles.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Jack Dorsey to lead Twitter again</title>
 		<link>http://www.manton.org/2015/10/jack-dorsey-to-lead-twitter-again.html</link>
-		<comments>http://www.manton.org/2015/10/jack-dorsey-to-lead-twitter-again.html#comments</comments>
 		<pubDate>Mon, 05 Oct 2015 22:05:16 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -102,212 +278,9 @@
 </p></blockquote>
 <p>I still run <a href="http://tweetmarker.net/">Tweet Marker</a>, which was created during that period of innovation that Federico refers to, but my focus now is on indie microblogging and the open web. I&#8217;m content to watch Twitter from the sidelines and wish Jack the best of luck.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/10/jack-dorsey-to-lead-twitter-again.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Complete mirror of this blog</title>
-		<link>http://www.manton.org/2015/09/complete-mirror-of-this-blog.html</link>
-		<comments>http://www.manton.org/2015/09/complete-mirror-of-this-blog.html#comments</comments>
-		<pubDate>Sun, 20 Sep 2015 19:00:33 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Weblogs]]></category>
-		<category><![CDATA[github]]></category>
-		<category><![CDATA[httrack]]></category>
-		<category><![CDATA[mirror]]></category>
-		<category><![CDATA[openweb]]></category>
-		<category><![CDATA[wordpress]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=3061</guid>
-		<description><![CDATA[I&#8217;ve been blogging here for 13 years. If you take any random post from that first year, the majority of the links to other web sites are broken. The default outcome for any site that isn&#8217;t maintained — including the one you&#8217;re reading right now — is for it to vanish. Permanence doesn&#8217;t exist on the [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>I&#8217;ve been blogging here for 13 years. If you take any random post from that first year, the majority of the links to other web sites are broken. The default outcome for any site that isn&#8217;t maintained — including the one you&#8217;re reading right now — is for it to vanish. <a href="http://www.manton.org/2012/07/permanence.html">Permanence</a> doesn&#8217;t exist on the web.</p>
-<p>We can <a href="http://www.manton.org/2015/09/web-history-and-ipfs.html">solve this</a>, but it will take time. For now I think mirroring our writing is a great solution, to guard against domain names expiring and other inevitable failures. But where to mirror to?</p>
-<p>Only 2 companies keep coming to mind: WordPress.com and GitHub. I believe both will last for decades, maybe even 100 years, and both embrace the open web in a way that most other centralized web sites do not.</p>
-<p>Even though I self-host this weblog on WordPress, I&#8217;ve chosen to mirror to GitHub because of their focus on simple, static publishing via <a href="https://pages.github.com/">GitHub Pages</a>. It has the best chance of running for a long time without intervention.</p>
-<p>I exported all of manton.org with the <a href="http://www.httrack.com/">httrack</a> command-line tool and checked it into GitHub, with a CNAME for <a href="http://mirror.manton.org/">mirror.manton.org</a>. It works perfectly. I still need to automate this process so that it updates regularly, but I&#8217;m very happy to finally have a complete mirror for the first time.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/09/complete-mirror-of-this-blog.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Wrap-up thoughts on the TV web</title>
-		<link>http://www.manton.org/2015/09/wrap-up-thoughts-on-the-tv-web.html</link>
-		<comments>http://www.manton.org/2015/09/wrap-up-thoughts-on-the-tv-web.html#comments</comments>
-		<pubDate>Fri, 18 Sep 2015 14:58:39 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Weblogs]]></category>
-		<category><![CDATA[appletv]]></category>
-		<category><![CDATA[iphone]]></category>
-		<category><![CDATA[openweb]]></category>
-		<category><![CDATA[steve]]></category>
-		<category><![CDATA[wap]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=3048</guid>
-		<description><![CDATA[I&#8217;m going to mostly let John Gruber have the last word on the Apple TV vs. the web debate, because I could write about this every day and my readers would run away before I run out of material. I&#8217;m glad John addressed the Mac vs. the command-line argument, though, because it didn&#8217;t seem quite [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>I&#8217;m going to mostly let John Gruber <a href="http://daringfireball.net/linked/2015/09/17/apple-tv-and-the-web">have the last word</a> on the Apple TV vs. the web debate, because I could write about this every day and my readers would run away before I run out of material. I&#8217;m glad John addressed the Mac vs. the command-line argument, though, because it didn&#8217;t seem quite right to me either. He says:</p>
-<blockquote><p>
-  &#8220;The difference is that the command-line-less Mac was intended to <em>replace</em> command-line-based computers. The GUI relegated the command-line interface to a permanent tiny niche. Apple TV and Apple Watch aren’t like that at all — they’re not meant to replace any device you already use to access the open web.&#8221;
-</p></blockquote>
-<p>This is the most hopeful part of the Apple ecosystem as it relates to the web. Apple&#8217;s other platforms really do have a great web experience. Remember when web sites were faster and worked better on a PC than a Mac? If anything, the opposite is true now.</p>
-<p>One of the themes I keep hearing is that a &#8220;web browser&#8221; on a TV will make for a poor user experience, so don&#8217;t bother. I tried to correct that misunderstanding in <a href="http://www.manton.org/2015/09/the-web-without-html.html">this post</a>; it&#8217;s not about standalone Safari, it&#8217;s about web technologies that could be used in native apps. But ignoring that, I think everyone too easily forgets what the mobile web was like before the iPhone.</p>
-<p>Steve Jobs, from the original iPhone introduction:</p>
-<blockquote><p>
-  &#8220;We wanted the best web browser in the world on our phone. Not a baby web browser or a WAP browser — a <em>real</em> browser. [&#8230;] It is the first fully usable HTML browser on a phone.&#8221;
-</p></blockquote>
-<p>That was a breakthrough. I believe the same evolution is possible on tvOS — to include parts of the open web and do it with a great user experience. You can start by weaving it together inside native apps. (I <a href="http://openradar.appspot.com/radar?id=6066362971586560">filed a bug with Apple</a> yesterday with a suggestion. It was marked as a duplicate.)</p>
-<p>The web is at a fascinating, pivotal time right now. It has been shaken up by centralized publishing, closed platforms, and now content blockers. Users no longer value the concepts that made <a href="https://en.wikipedia.org/wiki/Web_2.0">Web 2.0</a> special. The web can still have a strong future, but we have to <em>try something</em>, and we have to try it on every platform we can.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/09/wrap-up-thoughts-on-the-tv-web.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Peace for the web</title>
-		<link>http://www.manton.org/2015/09/peace-for-the-web.html</link>
-		<comments>http://www.manton.org/2015/09/peace-for-the-web.html#comments</comments>
-		<pubDate>Thu, 17 Sep 2015 14:59:36 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Technology]]></category>
-		<category><![CDATA[adblocking]]></category>
-		<category><![CDATA[apple]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[ios9]]></category>
-		<category><![CDATA[openweb]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=3037</guid>
-		<description><![CDATA[I haven&#8217;t paid too much attention to ad blocking until this week, even though I had been running the iOS 9 beta since WWDC. Several content blockers were released yesterday, like Marco Arment&#8217;s new app Peace. Marco writes: &#8220;You won’t believe how fast browsing the web can be without the bloated, privacy-invading junk that too [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>I haven&#8217;t paid too much attention to ad blocking until this week, even though I had been running the iOS 9 beta since WWDC. Several content blockers were released yesterday, like Marco Arment&#8217;s new app <a href="https://peace.land">Peace</a>. Marco writes:</p>
-<blockquote><p>
-  &#8220;You won’t believe how fast browsing the web can be without the bloated, privacy-invading junk that too many publishers force on you <a href="http://www.marco.org/2015/08/11/ad-blocking-ethics">without your knowledge or consent</a>.&#8221;
-</p></blockquote>
-<p>Today, <a href="http://www.theverge.com/2015/9/17/9338963/welcome-to-hell-apple-vs-google-vs-facebook-and-the-slow-death-of-the-web">Nilay Patel has an essay</a> framing the issue as a fight between Apple, Google, and Facebook, with the web as a casualty:</p>
-<blockquote><p>
-  &#8220;And with iOS 9 and content blockers, what you&#8217;re seeing is Apple&#8217;s attempt to fully drive the knife into Google&#8217;s revenue platform. iOS 9 includes a refined search that auto-suggests content and that can search inside apps, pulling content away from Google and users away from the web, it allows users to block ads, and it offers publishers salvation in the form of Apple News, inside of which Apple will happily display (unblockable!) ads, and even sell them on publishers&#8217; behalf for just a 30 percent cut.&#8221;
-</p></blockquote>
-<p>I&#8217;m conflicted on this. I hate ads, and I think good publishers can adapt, but I&#8217;m also concerned that some progress we&#8217;ve made in native apps and user experience could be offset by steps <em>back</em> in open platforms. The health of the open web is more important than any one company, including Apple.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/09/peace-for-the-web.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>The web without HTML</title>
-		<link>http://www.manton.org/2015/09/the-web-without-html.html</link>
-		<comments>http://www.manton.org/2015/09/the-web-without-html.html#comments</comments>
-		<pubDate>Thu, 17 Sep 2015 04:59:14 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Weblogs]]></category>
-		<category><![CDATA[appletv]]></category>
-		<category><![CDATA[browsers]]></category>
-		<category><![CDATA[foodml]]></category>
-		<category><![CDATA[openweb]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=3035</guid>
-		<description><![CDATA[On Twitter, Alex Fajkowski responded to my blog post about tvOS with this: &#8220;They have access to the open web—NSURLSession exists. HTML rendering is inappropriate for the watch and tv.&#8221; I disagree with both of those sentences. Maybe Alex didn&#8217;t read my full post, because I wrote that web services are not enough. HTML and [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="https://twitter.com/thefaj/status/644273497271869440">On Twitter</a>, Alex Fajkowski responded to <a href="http://www.manton.org/2015/09/every-device-needs-the-web.html">my blog post about tvOS</a> with this:</p>
-<blockquote><p>
-  &#8220;They have access to the open web—NSURLSession exists. HTML rendering is inappropriate for the watch and tv.&#8221;
-</p></blockquote>
-<p>I disagree with both of those sentences. Maybe Alex didn&#8217;t read my full post, because I wrote that web <em>services</em> are not enough. HTML and links and URLs are equally important parts of the open web. NSURLSession gets you web services but nothing else.</p>
-<p>(As an aside, HTML turns out to be a pretty useful format for styling text, too. Why wouldn&#8217;t you want to use it for iTunes movie descriptions on the TV, for example? That seems completely appropriate.)</p>
-<p>Think about the full scope of the internet. What percentage of content is available via web services — that is, structured data that can be parsed and displayed with a custom, native UI — compared to all the traditional, HTML-based web sites? You&#8217;ll find that there is an almost unimaginably large number of that latter kind of web site, and the only way to access and display that content is with an HTML renderer.</p>
-<p>Now imagine a world with only native apps. You&#8217;d need custom apps and web services for different kinds of content, just as we have native Twitter or Instagram apps today, but we&#8217;d need these for many thousands of categories: tvOS with TVML, recipe or cooking apps with FOODML, and so on. Eventually, having so many formats would get unmanageable. We&#8217;d need to invent a general purpose format that could accommodate many app formats, and (surprise!) that general format would look a lot like HTML. Why break old content and essentially reboot the web, when we already have a capable format in HTML?</p>
-<p>Of course, there&#8217;s no immediate risk of getting to that hypothetical native-only future. But when a company with the size and influence of Apple has 4 major platforms and only 2 of them have access to the open web, that should give us pause. Let&#8217;s reflect on how this plays out, so we can get back on track if the web does become marginalized.</p>
-<p><a href="http://daringfireball.net/linked/2015/09/16/manton-every-device">John Gruber commented</a> that these new devices don&#8217;t <em>need</em> the web at all, comparing it to the original Mac shipping without a command line interface. I realized while reading his closing paragraph that my own blog post had been poorly titled, and so the whole point too easily misunderstood. John wrote:</p>
-<blockquote><p>
-  &#8220;Or it could be that Apple has decided never to open WebKit to developers on Apple TV. Either way, it won’t affect Apple TV’s success, and everything will be OK.&#8221;
-</p></blockquote>
-<p>Apple TV&#8217;s success doesn&#8217;t change my argument. My Apple TV dev kit arrives on Friday, I&#8217;m going to build an app for it, and I can&#8217;t wait to watch Apple&#8217;s latest platform take off. When I wrote that the Apple TV &#8220;needs&#8221; the web I didn&#8217;t mean that it would be crippled and unsuccessful without it. I simply meant that the web <em>should</em> be there in some form, even if limited.</p>
-<p>(It doesn&#8217;t even have to be Safari. There just needs to be enough web technologies to make some part of the open web possible. Again, that means web services, HTML, and links.)</p>
-<p>Yesterday, <a href="http://daringfireball.net/linked/2015/09/15/ppk-stop-pushing-web-forward">John Gruber also wrote</a> about web apps and native apps, and what each should focus on:</p>
-<blockquote><p>
-  &#8220;Native apps can’t out-web the web, and web apps should embrace that.&#8221;
-</p></blockquote>
-<p>That&#8217;s good advice. There are plenty of important tasks for the web community that should be top priorities, such as encouraging a return to <a href="http://www.manton.org/2015/09/evan-williams-on-indie-web-sites.html">independent publishing</a> and trying to fix the <a href="http://www.manton.org/2015/09/web-history-and-ipfs.html">lack of redundancy</a>. The web will always be playing catch-up with native apps for user experience, but the web will always be <em>ahead</em> as a distributed, open publishing platform. And that is such an important feature, it should be available on as many devices as possible.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/09/the-web-without-html.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Evan Williams on indie web sites</title>
-		<link>http://www.manton.org/2015/09/evan-williams-on-indie-web-sites.html</link>
-		<comments>http://www.manton.org/2015/09/evan-williams-on-indie-web-sites.html#comments</comments>
-		<pubDate>Wed, 16 Sep 2015 17:09:38 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Weblogs]]></category>
-		<category><![CDATA[evan]]></category>
-		<category><![CDATA[medium]]></category>
-		<category><![CDATA[openweb]]></category>
-		<category><![CDATA[permanence]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=3030</guid>
-		<description><![CDATA[From a rough transcript of an interview with Evan Williams: &#8220;The idea won’t be to start a website. That will be dead. The individual website won’t matter. The Internet is not going to be about billions of people going to millions of websites. It will be about getting it from centralized websites.&#8221; I&#8217;m concerned about [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="http://www.forbes.com/sites/roberthof/2015/09/09/mediums-evan-williams-to-publishers-your-website-is-toast/">From a rough transcript</a> of an interview with Evan Williams:</p>
-<blockquote><p>
-  &#8220;The idea won’t be to start a website. That will be dead. The individual website won’t matter. The Internet is not going to be about billions of people going to millions of websites. It will be about getting it from centralized websites.&#8221;
-</p></blockquote>
-<p>I&#8217;m concerned about this. Evan is reading into the current rise of centralized services and thinking it&#8217;s more than a short-term trend. But I believe strongly that the open web will bounce back.</p>
-<p>Putting all of our writing in one place like Medium goes against our hope of <a href="http://www.manton.org/2012/07/permanence.html">permanence</a>, because there&#8217;s no guarantee Medium will be around in 20 years, and so all of that content will disappear from the internet if it fails. At least with independent sites and custom domain names we have a chance. We have control, so it&#8217;s in our hands to succeed or fail, not left to the whims of Silicon Valley startups.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/09/evan-williams-on-indie-web-sites.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Every device needs the web</title>
-		<link>http://www.manton.org/2015/09/every-device-needs-the-web.html</link>
-		<comments>http://www.manton.org/2015/09/every-device-needs-the-web.html#comments</comments>
-		<pubDate>Tue, 15 Sep 2015 17:22:50 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Technology]]></category>
-		<category><![CDATA[appletv]]></category>
-		<category><![CDATA[applewatch]]></category>
-		<category><![CDATA[openweb]]></category>
-		<category><![CDATA[tvos]]></category>
-		<category><![CDATA[webview]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=3027</guid>
-		<description><![CDATA[In a widely-linked post to Medium, Daniel Pasco writes about the problem of not having WebKit available on tvOS: &#8220;Webviews are the duct tape of the mobile world. I’d estimate that 50% to 80% of the major apps out there use webviews somewhere within their apps. Apple’s Mail app uses webviews for your email messages, [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>In a widely-linked <a href="https://medium.com/@dlpasco/apple-tv-a-world-without-webkit-5c428a64a6dd">post to Medium</a>, Daniel Pasco writes about the problem of not having WebKit available on tvOS:</p>
-<blockquote><p>
-  &#8220;Webviews are the duct tape of the mobile world. I’d estimate that 50% to 80% of the major apps out there use webviews somewhere within their apps. Apple’s Mail app uses webviews for your email messages, because webviews can style and render the content very efficiently. NetNewsWire uses them prolifically, particularly in a few features we haven’t enabled in the shipping version yet.&#8221;
-</p></blockquote>
-<p>I&#8217;ve argued on <a href="http://www.coreint.org/">Core Intuition</a> that even with the Apple Watch — as silly as it might seem to want to browse the web on your wrist — there should still be some basic access to the web. If not a full browser, at least a webview so that developers can style short content.</p>
-<p><a href="http://bitsplitting.org/2015/09/12/everything-but-the-web/">Daniel Jalkut suggests</a> a related compromise for the Apple TV:</p>
-<blockquote><p>
-  &#8220;I propose that Apple could strike a compromise that would serve those ambitions while also <em>supporting the tasteful handling of web content</em> in apps. How? By forbidding network access to web content. Apps themselves could still access the network, but not from within their web views.&#8221;
-</p></blockquote>
-<p>This is much better, but I think we should aim higher, since giving up on the web seems to admit early defeat to what Daniel acknowledges is probably WebKit&#8217;s politically-motivated omission. The web might not be the most usable medium on all devices, but it is arguably the most important one. Just because we all love native apps doesn&#8217;t mean we should trade in the significant value that the web provides, especially for independent writing and a permanence that can outlive silos and platforms.</p>
-<p>Apple has 4 major platforms now: iOS, tvOS, watchOS, and the Mac. It&#8217;s a dangerous precedent for 2 out of those 4 to not have access to the open web. Web services are only part of the story; HTML and the hyperlink are also both fundamental components of web access. A platform is too shut off from the rest of the world without them.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/09/every-device-needs-the-web.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>I will return to Twitter when&#8230;</title>
-		<link>http://www.manton.org/2015/08/i-will-return-to-twitter-when.html</link>
-		<comments>http://www.manton.org/2015/08/i-will-return-to-twitter-when.html#comments</comments>
-		<pubDate>Fri, 14 Aug 2015 19:24:38 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Weblogs]]></category>
-		<category><![CDATA[api]]></category>
-		<category><![CDATA[openweb]]></category>
-		<category><![CDATA[rss]]></category>
-		<category><![CDATA[twitter]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=2944</guid>
-		<description><![CDATA[As I&#8217;m catching up on some news, two posts today about Twitter caught me eye. First, very big news via Federico Viticci, that full tweet search is available even to third-party apps. Twitter&#8217;s limited search was the main reason I originally built Tweet Library. It&#8217;s fantastic that this data is now more easily available. But [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>As I&#8217;m catching up on some news, two posts today about Twitter caught me eye. First, very big news via Federico Viticci, that full tweet search <a href="https://blog.twitter.com/2015/full-archive-search-api">is available even to third-party apps</a>. Twitter&#8217;s limited search was the main reason I originally built <a href="http://appstore.com/tweetlibrary">Tweet Library</a>. It&#8217;s fantastic that this data is now more easily available.</p>
-<p>But it was this opening paragraph from <a href="http://www.macworld.com/article/2970341/web-social/twitter-on-the-mac-do-your-job-or-get-out-of-the-way.html">Jason Snell&#8217;s article on Macworld</a> about Twitter neglecting the Mac version that got me thinking:</p>
-<blockquote><p>
-  &#8220;Three years ago this month Twitter <a href="http://www.macworld.com/article/1168183/twitter_hands_down_new_strict_rules_for_third_party_developers.html">broke its covenant with the third-party developers</a> who helped fuel its initial growth and create some of its most innovative features. The message was clear: Twitter was in charge of its own platform, and while other Twitter apps would be tolerated, it would only be in limited fashion and for a limited time.&#8221;
-</p></blockquote>
-<p>It was around this time, nearly 3 years ago, that I posted my last tweet. My bet with <a href="http://bitsplitting.org/">Daniel</a> is over whether I will return to Twitter within 5 years. People ask if I&#8217;ll come back sooner, and if I did, what it would take. I&#8217;ve often struggled to articulate those conditions, because I think we are seeing <a href="http://www.manton.org/2015/07/ev-on-twitter-third-party-devs.html">slow but consistent progress</a> to unwind the developer-hostile decisions made a few years ago. It may be that in a couple years the environment will be much improved, but there won&#8217;t be any single decision that &#8220;fixed&#8221; it, or it may be that Twitter is doomed to have changing leadership and there will never be any guarantees.</p>
-<p>There is one thing, though. There is one change that was made while rolling out the version 1.1 Twitter API: they removed support for unauthenticated RSS feeds of user tweets or timelines. If they reversed that one decision, the next day I would be back on Twitter.</p>
-<p>I can pick out a single feature like this, among every other improvement that third-party developers would love to see, because the combination of removing RSS and at the same time locking down the API — those changes together best represent the move away from the open web. Any other incremental improvement short of unauthenticated RSS, no matter how welcome, isn&#8217;t enough.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/08/i-will-return-to-twitter-when.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.365 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 14:56:54 -->
+<!-- Dynamic page generated in 0.313 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 14:36:27 -->

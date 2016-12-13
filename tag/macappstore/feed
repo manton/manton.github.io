@@ -8,19 +8,40 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; macappstore</title>
+	<title>macappstore &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/macappstore/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
+		<title>Mac App Store developer survey</title>
+		<link>http://www.manton.org/2016/08/mac-app-store-developer-survey.html</link>
+		<pubDate>Tue, 16 Aug 2016 20:04:20 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[clipstart]]></category>
+		<category><![CDATA[devmate]]></category>
+		<category><![CDATA[macappstore]]></category>
+		<category><![CDATA[sandboxing]]></category>
+		<category><![CDATA[survey]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4182</guid>
+		<description><![CDATA[DevMate surveyed 679 Mac developers to put together a report on who is using the Mac App Store vs. selling direct, what concerns developers have, which tools they use, and more. On why developers leave the Mac App Store: If you’re thinking giving away 30% of your hard-earned revenue is the deal-breaker, you’d be surprised. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://devmate.com/mac-dev-survey">DevMate surveyed 679 Mac developers</a> to put together a report on who is using the Mac App Store vs. selling direct, what concerns developers have, which tools they use, and more. On why developers leave the Mac App Store:</p>
+<blockquote><p>
+  If you’re thinking giving away 30% of your hard-earned revenue is the deal-breaker, you’d be surprised. Revenue share is not the main reason developers flee. The main reason is the long and unclear App Review process, closely followed by revshare and the absence of trial versions.
+</p></blockquote>
+<p>While sandboxing does show up on the complaint list, it’s ranked low as a reason to not use the Mac App Store, even though <a href="http://www.manton.org/2012/02/sandboxing_and_clipstart.html">it was why</a> I pulled my app Clipstart from the Mac App Store 4 years ago. And not much has changed since I wrote about Sketch and other apps leaving the Mac App Store <a href="http://www.manton.org/2015/12/too-late-to-save-the-mas.html">last year</a>.</p>
+<p>For anyone who has been following blog posts and conference talks about the Mac App Store, there won&#8217;t be many surprises in this new survey, but I found the details interesting. The survey appears to be a good snapshot of how the Mac community is feeling about selling software.</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>Too late to save the MAS?</title>
 		<link>http://www.manton.org/2015/12/too-late-to-save-the-mas.html</link>
-		<comments>http://www.manton.org/2015/12/too-late-to-save-the-mas.html#comments</comments>
 		<pubDate>Wed, 02 Dec 2015 16:41:31 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -46,13 +67,10 @@
 <p>Daniel and I talked about this <a href="http://www.coreint.org/2015/11/episode-207-pretty-please-apple/">on Core Intuition recently</a>. Developers have been complaining about the Mac App Store for years without seeing any progress. It was <a href="http://www.manton.org/2012/02/sandboxing_and_clipstart.html">over 3 years ago</a> that I pulled my app Clipstart from the Mac App Store to sell direct-only instead, because of my concerns about adapting to sandboxing.</p>
 <p>All this time, Apple could have been iterating on the Mac App Store, improving sandboxing entitlements, improving review times, customer interaction, and more. Yet they have not. At this point, Apple can&#8217;t just do &#8220;something&#8221;. They can&#8217;t just improve the Mac App Store a little. They have to <em>significantly</em> improve it, addressing many issues at once. And even then, some of these great apps — Sketch, BBEdit, Coda, RapidWeaver — may not come back.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/12/too-late-to-save-the-mas.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Core Intuition 206</title>
 		<link>http://www.manton.org/2015/11/core-intuition-206.html</link>
-		<comments>http://www.manton.org/2015/11/core-intuition-206.html#comments</comments>
 		<pubDate>Sat, 14 Nov 2015 15:03:25 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Podcasts]]></category>
@@ -69,13 +87,10 @@
 </p></blockquote>
 <p>I really love how this episode turned out. It hits on several themes that have run through our show since the very first episode: a little tech news, some high-level coding talk, a bit of business analysis, and wrapped up with just how we <em>feel</em> right now about being indie developers. I hope you enjoy it.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/11/core-intuition-206.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Clipstart 1.5</title>
 		<link>http://www.manton.org/2012/07/clipstart_15.html</link>
-		<comments>http://www.manton.org/2012/07/clipstart_15.html#comments</comments>
 		<pubDate>Mon, 02 Jul 2012 20:04:41 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -111,13 +126,10 @@
 </ul>
 <p>If you&#8217;ve been thinking about buying Clipstart but were on the fence before, I&#8217;ll throw in a discount for you. Use coupon code MANTONBLOG to save 20%.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2012/07/clipstart_15.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Sandbox iLife and iWork</title>
 		<link>http://www.manton.org/2012/06/sandbox_ilife_and.html</link>
-		<comments>http://www.manton.org/2012/06/sandbox_ilife_and.html#comments</comments>
 		<pubDate>Mon, 25 Jun 2012 20:03:22 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -134,11 +146,9 @@
 <p>Maybe Apple could make the same case for Mac OS X&#8217;s built-in apps: Address Book, iCal, and Mail don&#8217;t need to be sandboxed because they are part of the operating system. But that argument doesn&#8217;t work for Keynote or iMovie. Those apps should play by the same rules that all productivity and video software in the store does.</p>
 <p>If Apple were to sandbox a few of these it would go a long way toward convincing developers to do the same. And it would also shake out bugs and missing APIs in the whole sandbox environment.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2012/06/sandbox_ilife_and.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.320 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 15:00:23 -->
+<!-- Dynamic page generated in 0.292 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 15:00:24 -->

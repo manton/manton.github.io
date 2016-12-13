@@ -8,19 +8,18 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; search</title>
+	<title>search &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/search/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
 		<title>iOS 9 search</title>
 		<link>http://www.manton.org/2015/06/ios-9-search.html</link>
-		<comments>http://www.manton.org/2015/06/ios-9-search.html#comments</comments>
 		<pubDate>Wed, 17 Jun 2015 14:38:54 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -37,13 +36,10 @@
 </p></blockquote>
 <p>I’ve been slowly going through WWDC session videos, but haven’t cracked open the documentation for search yet. Sounds like an important new API for any app that has user documents.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/06/ios-9-search.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Google Photos</title>
 		<link>http://www.manton.org/2015/06/google-photos.html</link>
-		<comments>http://www.manton.org/2015/06/google-photos.html#comments</comments>
 		<pubDate>Thu, 04 Jun 2015 16:20:39 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Photography]]></category>
@@ -64,13 +60,10 @@
 <p>Some of the random searches that work out of the box to filter my photos: “beach”, “trains”, “New York City”, “Oregon and 2013”, “road trip”, “party”, “basketball”, “Christmas tree”. I never saw a demo or tutorial for how to use Google Photos; I just type stuff in and it mostly works, discovering photos and events. And on top of that, there’s also the automatic stories and collages, which is something we always wanted to build for <a href="http://sunlit.io/">Sunlit</a>.</p>
 <p>My family photos are the most important files I have on my computer, and I very rarely share any photos of my kids publicly. But ironically I’m willing to overlook some of the privacy concerns around this exactly <em>because</em> the photos are so valuable to me. I want multiple copies in the cloud, and I want the power of search that Google has built.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/06/google-photos.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Twitter in 2 years</title>
 		<link>http://www.manton.org/2014/11/twitter-in-2-years.html</link>
-		<comments>http://www.manton.org/2014/11/twitter-in-2-years.html#comments</comments>
 		<pubDate>Mon, 24 Nov 2014 20:05:34 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -88,13 +81,10 @@
 <p>During WWDC this year, <a href="http://www.meetup.com/Hack-Deploy-Scale/events/185944872/">Buzz Andersen gave a great talk</a> at a small venue outside the conference. With the hindsight of several years, he talked about building Birdfeed, the challenges of competing with Tweetie, with his own struggle at perfection, and many more insights on the rise and fall of third-party Twitter apps.</p>
 <p>It left me with a lot to think about, and I loved the old stories, screenshots, and related nostalgia. But in closing out the questions &amp; answers, one statement in particular struck me as a nail in the coffin for third-party developers: Buzz revealed that even he now uses the official Twitter app.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/11/twitter-in-2-years.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Winding down my Twitter apps</title>
 		<link>http://www.manton.org/2014/11/winding-down-my-twitter-apps.html</link>
-		<comments>http://www.manton.org/2014/11/winding-down-my-twitter-apps.html#comments</comments>
 		<pubDate>Mon, 24 Nov 2014 14:54:08 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -113,13 +103,10 @@
 <p>I will also continue to host the Tweet Marker API, but starting in January I will be more strict about requiring developers to pay for the service. Many developers have been paying for API access for a year (thank you!), but others have missed or ignored my requests to move to a paid plan. It&#8217;s not fair to the Twitter developers who have been paying for Tweet Marker access if some continue get the API for free.</p>
 <p>Many friends have told me over the years that I have <a href="http://www.riverfold.com/">too many products</a>. But letting any one product go is not easy. There&#8217;s an implicit promise when shipping software that the developer should maintain and improve it for customers. Stopping development on these apps is the right decision and possibly long overdue, but it&#8217;s still difficult. What gives me hope is that it will let me focus on new projects currently in development, which I couldn&#8217;t be more excited about.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/11/winding-down-my-twitter-apps.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Searchpath tweaks</title>
 		<link>http://www.manton.org/2013/04/searchpath_tweaks.html</link>
-		<comments>http://www.manton.org/2013/04/searchpath_tweaks.html#comments</comments>
 		<pubDate>Thu, 25 Apr 2013 13:31:19 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -132,13 +119,10 @@
 <p>I’ve also fixed an issue with how often Searchpath looks for new posts. It should be much faster to pick up on changes now, especially for blogs that update every day.</p>
 <p>You can <a href="http://searchpath.io/">try Searchpath for free</a> or subscribe for just $8/month.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/04/searchpath_tweaks.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Announcing Searchpath</title>
 		<link>http://www.manton.org/2013/02/announcing_searchpath.html</link>
-		<comments>http://www.manton.org/2013/02/announcing_searchpath.html#comments</comments>
 		<pubDate>Thu, 14 Feb 2013 23:26:38 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -154,13 +138,10 @@
 <p>Searchpath knows about blogs — it finds the text on your page to index, and can automatically strip out redundant titles from posts for clearer search results. It tracks popular search terms. It gives you more control, by letting you exclude archive pages and customize the font and links with CSS.</p>
 <p>I’m running it now on this blog. Check it out in the sidebar, or visit <a href="http://searchpath.io/">searchpath.io</a> to sign up and try it on your own site.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/02/announcing_searchpath.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>New product coming soon</title>
 		<link>http://www.manton.org/2013/02/new_product_coming.html</link>
-		<comments>http://www.manton.org/2013/02/new_product_coming.html#comments</comments>
 		<pubDate>Thu, 14 Feb 2013 00:10:57 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -174,13 +155,10 @@
 <p>It’s for anyone with a web site or blog. It’s incredibly simple to set up. It’s a web app with a free trial that works like magic, requiring no registration.</p>
 <p>Finally I’ve been able to dust off the project, give it a new name, and get it ready to ship. Launching tomorrow, February 14th.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/02/new_product_coming.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Indexing the hidden web</title>
 		<link>http://www.manton.org/2012/04/indexing_the_hidden.html</link>
-		<comments>http://www.manton.org/2012/04/indexing_the_hidden.html#comments</comments>
 		<pubDate>Tue, 17 Apr 2012 20:27:11 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -207,13 +185,10 @@
 </p></blockquote>
 <p>Of course it&#8217;s crazy, but so was the 1st search breakthrough, lightning-fast AltaVista, and so was the 2nd major innovation, Google itself. It&#8217;s time for a search engine that isn&#8217;t all about ads. It&#8217;s time for search that understands apps and embraces data from web services as much as it does from web sites. It&#8217;s time for the 3rd act in search.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2012/04/indexing_the_hidden.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>ParseKit (and Clipstart search)</title>
 		<link>http://www.manton.org/2010/02/parsekit_and_clipstart.html</link>
-		<comments>http://www.manton.org/2010/02/parsekit_and_clipstart.html#comments</comments>
 		<pubDate>Mon, 08 Feb 2010 07:05:13 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -233,11 +208,9 @@
 <p>I use ParseKit&#8217;s tokenizer to take these apart and then I translate to SQL myself for SQLite. New in 1.3, Clipstart also allows saving any search as a &#8220;smart tag&#8221; for quick access. I&#8217;m very happy with how well it&#8217;s working.</p>
 <p>Why not use &#8220;NSPredicate&#8221;:http://developer.apple.com/mac/library/documentation/cocoa/reference/Foundation/Classes/NSPredicate_Class/Reference/NSPredicate.html and friends? I wanted more control over the parser, for example for the @kids shorthand for tags. Eventually I&#8217;ll have a more traditional NSPredicateEditor-like UI for managing searches, but I find that text input is a much quicker way to find things in my video library.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2010/02/parsekit_and_clipstart.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.479 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 15:01:30 -->
+<!-- Dynamic page generated in 0.285 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 14:42:24 -->

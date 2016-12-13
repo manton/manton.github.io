@@ -8,19 +8,18 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; software</title>
+	<title>software &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/software/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
 		<title>The legacy of software as art</title>
 		<link>http://www.manton.org/2013/04/the_legacy_of.html</link>
-		<comments>http://www.manton.org/2013/04/the_legacy_of.html#comments</comments>
 		<pubDate>Fri, 12 Apr 2013 13:19:42 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Art]]></category>
@@ -51,13 +50,10 @@
 </p></blockquote>
 <p>Like Andy Brice’s use of the word ephemeral above, Joe’s statement is difficult to measure. There’s no one thing we can point to years later. We just have to create something worthwhile and trust that it’s making someone’s life better, and that maybe that one customer will leave a mark on the world that survives long after our apps no longer run.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/04/the_legacy_of.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Saying goodbye to Wii Transfer</title>
 		<link>http://www.manton.org/2012/05/saying_goodbye_to.html</link>
-		<comments>http://www.manton.org/2012/05/saying_goodbye_to.html#comments</comments>
 		<pubDate>Tue, 01 May 2012 22:30:04 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -75,13 +71,10 @@
 <p>If anyone is disappointed that Wii Transfer will no longer receive updates, of course I offer refunds. I won&#8217;t be selling or open sourcing the app, preferring instead to continue to support existing customers myself for as long as they want to use the app. And I&#8217;ll keep the automatic bookmark service running that makes setup easy, as well as the Mii rendering service, so nothing breaks.</p>
 <p>I put a lot of work into Wii Transfer over its 5-year lifespan. It&#8217;s not easy saying goodbye, especially to some of the unique things that only Wii Transfer could do, such as exporting Miis as images. Maybe I can bring that back one day. For now, I&#8217;m following the path started by my apps Tweet Library and Clipstart, for which there are many new things still to do.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2012/05/saying_goodbye_to.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Clipstart 1.4.2</title>
 		<link>http://www.manton.org/2012/04/clipstart_142.html</link>
-		<comments>http://www.manton.org/2012/04/clipstart_142.html#comments</comments>
 		<pubDate>Sun, 29 Apr 2012 21:40:08 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -95,13 +88,10 @@
 				<content:encoded><![CDATA[<p>I released a small bug fix update to Clipstart today, version 1.4.2, to fix an issue with YouTube uploads when using your Gmail address sign-in instead of the YouTube account username. This version should also show up in the Mac App Store after it goes through Apple&#8217;s approval process. You can see the <a href="http://www.riverfold.com/software/clipstart/releasenotes/">full release notes for recent bug fixes here</a>.</p>
 <p>As I said <a href="http://www.manton.org/2012/02/sandboxing_followup.html">earlier this year</a>, there will only be a couple more releases of Clipstart in the Mac App Store. My current plan is to switch completely over to direct-only sales with version 1.5. The new versions run without prompting for registration if you&#8217;ve already purchased and run a copy from the Mac App Store.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2012/04/clipstart_142.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>A fan for your unreleased app</title>
 		<link>http://www.manton.org/2009/07/a_fan_for.html</link>
-		<comments>http://www.manton.org/2009/07/a_fan_for.html#comments</comments>
 		<pubDate>Thu, 09 Jul 2009 15:20:49 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[User Experience]]></category>
@@ -120,13 +110,10 @@
 <p>The feedback I&#8217;ve received for &#8220;Clipstart&#8221;:http://www.riverfold.com/software/clipstart/ is astonishingly well thought out and helpful. I like to think the app is attracting the best kind of customers: articulate and experienced enough to know what they want. If I could only implement half the suggestions to improve the app it will evolve into something great.</p>
 <p>Of course, great beta testers only go so far. We still have to work really hard. &#8220;Merlin Mann said it best&#8221;:http://www.43folders.com/2009/03/11/kutiman: &#8220;The only person who can sit on your ass is you.&#8221;</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2009/07/a_fan_for.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>New and old posts about NetNewsWire</title>
 		<link>http://www.manton.org/2008/01/new_and_old-2.html</link>
-		<comments>http://www.manton.org/2008/01/new_and_old-2.html#comments</comments>
 		<pubDate>Fri, 11 Jan 2008 19:29:26 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -149,13 +136,10 @@
 <p>2007: &#8220;New software releases (plus screencast)&#8221;:http://www.manton.org/2007/06/new_software_releases.html</p>
 <p>2008: &#8220;New and old posts about NetNewsWire&#8221;:http://www.manton.org/2008/01/new_and_old.html (you&#8217;re reading it!)</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2008/01/new_and_old-2.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Wii Transfer 2.0 featured on Apple Downloads</title>
 		<link>http://www.manton.org/2007/01/wii_transfer_20.html</link>
-		<comments>http://www.manton.org/2007/01/wii_transfer_20.html#comments</comments>
 		<pubDate>Sat, 20 Jan 2007 07:12:55 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -175,13 +159,10 @@
 <p>I just noticed that Wii Transfer is the featured download and staff pick in the &#8220;video section of Apple&#8217;s download site&#8221;:http://www.apple.com/downloads/macosx/video/. That is a nice surprise. It will be interesting to see what that does to download stats.</p>
 <p>One last thing. Starting next month the price will go up to $14 for version 2.0 (free upgrade for all existing users). I usually work on Wii Transfer at night, so the increase will help offset all the sleep I lost. :-) Even at $14 it may be underpriced. Remember the &#8220;Brent Simmons rule&#8221;:http://www.red-sweater.com/blog/168/the-price-is-wrong: anything less than $20 won&#8217;t be taken seriously. In this case though I think it&#8217;s just about right. I&#8217;m also finding a large percentage of purchases from Europe, despite no localization, probably because the US dollar is so weak now. Enjoy!</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2007/01/wii_transfer_20.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Long time no blog</title>
 		<link>http://www.manton.org/2003/01/long_time_no.html</link>
-		<comments>http://www.manton.org/2003/01/long_time_no.html#comments</comments>
 		<pubDate>Wed, 29 Jan 2003 20:47:30 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Weblogs]]></category>
@@ -197,13 +178,10 @@
 <p>In my old NetNewsWire subscriptions, I had a group named &#8220;Natural Born Bloggers&#8221;. These were mostly old-school bloggers who defy classification, such as Meg with topics that range from web design to <a href="http://www.megnut.com/cooking/002466.asp">cooking</a>, or Dave with technology to <a href="http://scriptingnews.userland.com/backissues/2003/01/26#smokersOnly">life lessons</a>. Apparently I&#8217;m just not cut out for that elite group.</p>
 <p>The flipside, though, is that I&#8217;ve been getting a great amount of real work done.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2003/01/long_time_no.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Being a generalist</title>
 		<link>http://www.manton.org/2002/11/being_a_generalist.html</link>
-		<comments>http://www.manton.org/2002/11/being_a_generalist.html#comments</comments>
 		<pubDate>Wed, 27 Nov 2002 17:39:27 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -216,11 +194,9 @@
 				<content:encoded><![CDATA[<p>John Lim of <a href="http://php.weblogs.com/2002/11/25#a2071">PHP Everywhere</a>:</p>
 <blockquote><p>&#8220;I&#8217;m actually a generalist. I can code a bit in Javascript, I know some C++, PHP and a thousand other useless languages. A generalist is pretty good thing to be in technology, because computers and software changes so fast and if you spend too much time specializing you&#8217;re already a dinosaur before you turn 40.&#8221;</p></blockquote>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2002/11/being_a_generalist.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.322 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 15:01:49 -->
+<!-- Dynamic page generated in 0.288 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 15:02:37 -->

@@ -8,19 +8,73 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; iphone5se</title>
+	<title>iphone5se &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/iphone5se/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
+		<title>Mixed feelings about the iPhone 7 future</title>
+		<link>http://www.manton.org/2016/10/mixed-feelings-about-the-iphone-7-future.html</link>
+		<pubDate>Mon, 17 Oct 2016 14:29:46 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[iphone5se]]></category>
+		<category><![CDATA[iphone7plus]]></category>
+		<category><![CDATA[macstories]]></category>
+		<category><![CDATA[reviews]]></category>
+		<category><![CDATA[travel]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4374</guid>
+		<description><![CDATA[Federico Viticci published a great review of the iPhone 7 for MacStories last week. He opened with this: After nearly two years spent using a 5.5-inch iPhone, I&#8217;m accustomed to not having a compact phone anymore. The iPhone 6 Plus and 6s Plus have reshaped my iPhone experience for a simple reason: they give me [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Federico Viticci published a great <a href="https://www.macstories.net/stories/iphone-7-computer-from-the-future/">review of the iPhone 7 for MacStories</a> last week. He opened with this:</p>
+<blockquote><p>
+  After nearly two years spent using a 5.5-inch iPhone, I&#8217;m accustomed to not having a compact phone anymore. The iPhone <a href="https://www.macstories.net/stories/iphone-6-plus-review/">6 Plus</a> and 6s Plus <a href="https://www.macstories.net/stories/how-the-6s-plus-is-reshaping-my-iphone-experience/">have reshaped my iPhone experience</a> for a simple reason: they give me more of the most important device in my life.
+</p></blockquote>
+<p>Followed by the main theme of his review:</p>
+<blockquote><p>
+  In many ways, the iPhone 7 feels like a portable computer from the future – only in a tangible, practical way that is here with us today.
+</p></blockquote>
+<p>I&#8217;ll admit to some jealousy of Federico&#8217;s iOS-only lifestyle. Apple&#8217;s mobile OS is fun to use in part because of its simplicity and in part because of its inherent mobility.</p>
+<p>If I could only choose one computing device — one phone, no tablets, no Macs — I would get an iPhone 7 Plus. The largest phone would make for a great mini tablet, nice for photography, writing, and the web. Maybe when I retire from living in Xcode and Objective-C, I&#8217;ll daydream about traveling the country with a backpack and iPhone 7 Plus, never tied to my desk again.</p>
+<p>But in the meantime, I&#8217;m fortunate that I can have a Mac and a few iOS devices. <a href="http://www.manton.org/2016/10/real-work-on-the-ipad.html">When I go to a conference</a>, I take the iPad Mini and big iPad Pro along with my phone. Because I have those larger devices available, I always want the convenience of carrying the smallest phone when I&#8217;m not sitting down to work. The weight and feel of the iPhone SE is perfect.</p>
+<p>There&#8217;s a point in Federico Viticci&#8217;s review where he covers the headphone jack controversy. He hints at a common justification I&#8217;ve heard for some of Apple&#8217;s decisions, and I think it&#8217;s kind of a defeatist attitude that is worth commenting on:</p>
+<blockquote><p>
+  You and I might wax philosophical about the beauty of RSS, HTML, MP4, and USB, but millions of people only demand easy tech and engaging social apps.
+</p></blockquote>
+<p>Federico is right, but this fact is <em>exactly why</em> those of us who are passionate about open standards must make a strong case for them. We can&#8217;t leave such important decisions only in the hands of big corporations and fickle customers. It&#8217;s our responsibility to write about what we believe is best for the web and best for the tech industry.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>SE/30 and the Mac Classic</title>
+		<link>http://www.manton.org/2016/05/se30-and-the-mac-classic.html</link>
+		<pubDate>Sat, 14 May 2016 18:21:57 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[iphone5se]]></category>
+		<category><![CDATA[mac]]></category>
+		<category><![CDATA[macclassic]]></category>
+		<category><![CDATA[se30]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3921</guid>
+		<description><![CDATA[I finally read Stephen Hackett&#8217;s article over at iMore about using &#8220;SE&#8221; in Apple product names. He lists the Macintosh SE, iMac DV SE, iBook SE, and others. Most are forgettable, but the SE/30 feels the most like today&#8217;s iPhone SE: better internals in an old package. Stephen also pointed to a Macworld article with [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I finally read <a href="http://www.imore.com/tracing-se-name-through-history">Stephen Hackett&#8217;s article over at iMore</a> about using &#8220;SE&#8221; in Apple product names. He lists the Macintosh SE, iMac DV SE, iBook SE, and others. Most are forgettable, but the SE/30 feels the most like today&#8217;s iPhone SE: better internals in an old package.</p>
+<p>Stephen also pointed to a <a href="http://www.macworld.com/article/1138328/macat25_bestmac.html">Macworld article with quotes about the SE/30</a> and other Macs. John Siracusa had this to say:</p>
+<blockquote><p>
+  Though future models with the original upright shape were released, they were all tagged with the derisive moniker Classic. The SE/30 bore no such shame. It was and is the undisputed king of the original, iconic Macs and, therefore, of all Macs for all time.
+</p></blockquote>
+<p>The very first computer I ever owned was the Mac Classic. It was the cheapest Mac at the time, but still very expensive for us. I insisted that we get it despite the cheaper PCs that were more powerful and in color.</p>
+<p>What struck me when I later saw my friend&#8217;s SE/30 was that the Classic was actually slower and worse in a couple of ways than the SE/30, even though the Classic came out almost two years later. Still, I loved that little machine. Everything good that has happened in my life since can be traced back 25 years ago to when I brought it home.</p>
+<p>There&#8217;s a lot of hyperbole in the tech industry about creating products that make the world a better place. But most products just don&#8217;t have that big of an impact. To me, the Macintosh was an incredible, wildly divergent fork in the road — a choice leading to new friends and a new career, meeting my wife and starting a family. It’s hard to even imagine where the original path was leading.</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>Core Intuition 225</title>
 		<link>http://www.manton.org/2016/03/core-intuition-225.html</link>
-		<comments>http://www.manton.org/2016/03/core-intuition-225.html#comments</comments>
 		<pubDate>Thu, 24 Mar 2016 21:44:00 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Podcasts]]></category>
@@ -41,13 +95,10 @@
 </p></blockquote>
 <p>We pull in some history from Daniel&#8217;s time at Apple, and from our experience building Mac apps in the 1990s and early 2000s, and how it relates to the current Swift transition. Hope you enjoy it.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/03/core-intuition-225.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>iPhone SE sales potential</title>
 		<link>http://www.manton.org/2016/03/iphone-se-sales-potential.html</link>
-		<comments>http://www.manton.org/2016/03/iphone-se-sales-potential.html#comments</comments>
 		<pubDate>Tue, 22 Mar 2016 19:01:16 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -67,13 +118,10 @@
 <p>I keep thinking about the iPhone SE price: $399 for essentially the power of a 6S, which is $649. That’s just a great value. I’ve said on Core Intuition recently that while the 6S and upcoming 7 will always remain the most popular phone, I think the SE could hold its own with the 6S Plus in units sold. Now I wonder if it could even surpass it.</p>
 <p>According to <a href="https://david-smith.org/iosversionstats/">David Smith’s stats</a>, the Plus versions represent about 15% of active devices 4-inch or bigger. That share goes up to about 20% if you exclude older devices no longer for sale, like the 5 and 5C. That seems about right to me. If you sat around an Apple Store and watched 10 people buy iPhones, I’d be surprised if more than a couple were the Plus. Starting next week, a couple of those iPhones could be the SE, too.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/03/iphone-se-sales-potential.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Apple event non-product focus</title>
 		<link>http://www.manton.org/2016/03/apple-event-non-product-focus.html</link>
-		<comments>http://www.manton.org/2016/03/apple-event-non-product-focus.html#comments</comments>
 		<pubDate>Mon, 21 Mar 2016 20:30:32 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -92,13 +140,10 @@
 <p>I&#8217;d like to see this continue at future events. Leave the record sales numbers for the finance call, and instead focus on what good Apple is doing <em>because</em> they are big, not just <em>how</em> they are big. Even though I own some Apple stock, I do not personally care that much about the precise magnitude of iPhone shipments this quarter.</p>
 <p>As for the new products, nothing to complain about. Since the $10,000 Apple Watch Edition didn&#8217;t get a $50-dollar price drop like the Apple Watch Sport did, guess I&#8217;ll skip that purchase and get an iPhone SE instead.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/03/apple-event-non-product-focus.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>iPhone SE (no 5)</title>
 		<link>http://www.manton.org/2016/02/iphone-se-no-5.html</link>
-		<comments>http://www.manton.org/2016/02/iphone-se-no-5.html#comments</comments>
 		<pubDate>Fri, 26 Feb 2016 19:57:20 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -117,13 +162,10 @@
 <p>I agree with John. Other than the screen size, this phone will feel a lot like an iPhone 6S. And because I love the smaller size, I personally think it will have the <em>best</em> of both the 5S and 6S.</p>
 <p>Prediction: this phone is going to be much more popular than people expect. I won’t be surprised if it takes the 6S Plus’s spot as the 2nd most popular iPhone.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/02/iphone-se-no-5.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>iPhone 5se sleep button</title>
 		<link>http://www.manton.org/2016/01/iphone-5se-sleep-button.html</link>
-		<comments>http://www.manton.org/2016/01/iphone-5se-sleep-button.html#comments</comments>
 		<pubDate>Tue, 26 Jan 2016 16:16:27 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -139,13 +181,10 @@
 </p></blockquote>
 <p>NoooOOOooooo. I can understand wanting consistency between models, but the iPhone 6 sleep button is a major usability issue because it gets in the way when trying to use the volume buttons. I’ll be disappointed if the design trade-offs from the 6 make the 5se worse. (But I’ll buy one anyway.)</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/01/iphone-5se-sleep-button.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>iPhone 5SE</title>
 		<link>http://www.manton.org/2016/01/iphone-5se.html</link>
-		<comments>http://www.manton.org/2016/01/iphone-5se.html#comments</comments>
 		<pubDate>Sun, 24 Jan 2016 15:13:38 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -161,11 +200,9 @@
 </p></blockquote>
 <p>Seems odd to keep the “5” name for a phone that more closely resembles the iPhone 6/6S except for size. But I don’t really care what it’s called. This phone <a href="http://www.manton.org/2016/01/a8-or-a9-for-the-iphone-6c.html">matches my expectations</a> or exceeds them. Fantastic that it even supports Live Photos.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/01/iphone-5se.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.381 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 13:58:59 -->
+<!-- Dynamic page generated in 0.278 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 14:53:22 -->

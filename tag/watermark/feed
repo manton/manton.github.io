@@ -8,19 +8,41 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; watermark</title>
+	<title>watermark &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/watermark/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
+		<title>Refocusing around Micro.blog</title>
+		<link>http://www.manton.org/2016/11/refocusing-around-micro-blog.html</link>
+		<pubDate>Mon, 28 Nov 2016 16:11:52 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[databases]]></category>
+		<category><![CDATA[microblog]]></category>
+		<category><![CDATA[searchpath]]></category>
+		<category><![CDATA[snippets]]></category>
+		<category><![CDATA[watermark]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4507</guid>
+		<description><![CDATA[As I talked about on Timetable, now that I have the micro.blog domain I get to figure out what to do with it. And what I&#8217;m hearing from friends and listeners is clear: throw out my jumble of Snippets-related names and use Micro.blog as the brand for the platform. It&#8217;s obvious now. Renaming a product [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>As I talked about <a href="http://timetable.manton.org/2016/11/episode-29-dot-blog/">on Timetable</a>, now that I have the micro.blog domain I get to figure out what to do with it. And what I&#8217;m hearing from friends and listeners is clear: throw out my jumble of Snippets-related names and use Micro.blog as the brand for the platform. It&#8217;s obvious now.</p>
+<p>Renaming a product before its official launch may not seem like a big deal, but in this case it gives the app a new importance. Just by renaming it, the app feels more ambitious. It forces me to devote more attention to it, which means saying goodbye to some of my other web apps that I can no longer focus on.</p>
+<p>I have a difficult time shutting down failing products. Over the weekend, I took some much-needed steps to finish winding down Watermark and Searchpath. I&#8217;ll be sending an email this week to everyone who has used Searchpath with the details.</p>
+<p>For Searchpath, I had procrastinated making a decision because even simple steps like closing new account registrations requires actually writing code and deploying changes. The index on my Elasticsearch server had grown to 90 GB, including Watermark as well. I needed a clean way to reset it and migrate the small number of active paid accounts somewhere else, to give customers time to find a new solution.</p>
+<p>I&#8217;ve tried a few technologies for search over the years. The first version of Watermark used Sphinx, which I loved but became a scaling issue with its default need to completely reindex MySQL data. Eventually I moved to self-hosted Elasticsearch, but I had to keep feeding it RAM as the index grew. It was never stable enough with my limited skills.</p>
+<p>As I noted in <a href="http://www.manton.org/2016/11/talkshow-im-archives.html">my post about Talkshow.im</a>, there&#8217;s no perfect way to admit defeat and clean up the mess left by a web app. It&#8217;s always a balance of responsibilities — to your own business and to your customers.</p>
+<p>But again, the way forward is clear. I should put everything into launching and growing my new microblog platform. It&#8217;s too much to maintain other web apps at the same time.</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>Watermark transition plan</title>
 		<link>http://www.manton.org/2015/05/watermark-transition-plan.html</link>
-		<comments>http://www.manton.org/2015/05/watermark-transition-plan.html#comments</comments>
 		<pubDate>Mon, 04 May 2015 14:23:59 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -36,13 +58,10 @@
 <p>You can <a href="http://tweetmarker.net/">learn more about Tweet Marker here</a>. I’ve had to significantly scale out the backend servers this year, including adding a second load balancer, so I’d love your support. The new timeline feature will roll out later in May.</p>
 <p>While I’m happy to keep offering a part of Watermark (now back in Tweet Marker), I have less good news for Tweet Library. I’ve found it very difficult to justify the time to finish the new version. It’s now looking likely that the current version will be the last.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/05/watermark-transition-plan.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Winding down my Twitter apps</title>
 		<link>http://www.manton.org/2014/11/winding-down-my-twitter-apps.html</link>
-		<comments>http://www.manton.org/2014/11/winding-down-my-twitter-apps.html#comments</comments>
 		<pubDate>Mon, 24 Nov 2014 14:54:08 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -61,13 +80,10 @@
 <p>I will also continue to host the Tweet Marker API, but starting in January I will be more strict about requiring developers to pay for the service. Many developers have been paying for API access for a year (thank you!), but others have missed or ignored my requests to move to a paid plan. It&#8217;s not fair to the Twitter developers who have been paying for Tweet Marker access if some continue get the API for free.</p>
 <p>Many friends have told me over the years that I have <a href="http://www.riverfold.com/">too many products</a>. But letting any one product go is not easy. There&#8217;s an implicit promise when shipping software that the developer should maintain and improve it for customers. Stopping development on these apps is the right decision and possibly long overdue, but it&#8217;s still difficult. What gives me hope is that it will let me focus on new projects currently in development, which I couldn&#8217;t be more excited about.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/11/winding-down-my-twitter-apps.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Tweet Library 2.5 and consolidation</title>
 		<link>http://www.manton.org/2014/04/tweet_library_25.html</link>
-		<comments>http://www.manton.org/2014/04/tweet_library_25.html#comments</comments>
 		<pubDate>Wed, 23 Apr 2014 17:09:35 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -88,13 +104,10 @@
 <p>But I do need to start consolidating my work on Tweet Library and <a href="http://watermark.io/">Watermark</a>, because the apps share so many concepts around archiving and search. To that end, this week I&#8217;m retiring tweetlibrary.com as a way to browse and publish collections. The site will now redirect to a special landing page on Watermark. Published collections from Tweet Library also go to a public page on Watermark.</p>
 <p>It was a tough decision to change the tweetlibrary.com URLs, but maintaining separate web apps that are so similar made everything more complicated, holding back what I could build. Having a single web codebase (Watermark) will ultimately let me improve both Tweet Library and Watermark more quickly.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/04/tweet_library_25.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>New tiers for Watermark</title>
 		<link>http://www.manton.org/2013/11/new_tiers_for.html</link>
-		<comments>http://www.manton.org/2013/11/new_tiers_for.html#comments</comments>
 		<pubDate>Thu, 07 Nov 2013 13:32:32 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -112,13 +125,10 @@
 <p>If 1 year isn’t long enough, there’s a new unlimited plan for $10/month. Every tweet or App.net post in the system for your account will be kept forever. After a year or two it becomes a really massive and interesting search database, tailored just to your account.</p>
 <p>The new tiered plans are live now for new accounts, and I’ll be rolling out a method for switching between plans for current customers soon. You can <a href="http://watermark.io/">learn more about Watermark here</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/11/new_tiers_for.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Twitter API v1.1</title>
 		<link>http://www.manton.org/2013/03/twitter_api_v11.html</link>
-		<comments>http://www.manton.org/2013/03/twitter_api_v11.html#comments</comments>
 		<pubDate>Wed, 20 Mar 2013 18:19:14 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -134,13 +144,10 @@
 <p>I don’t like having my release schedule dictated by others, but that’s life as a Twitter developer. And why I no longer post there.</p>
 <p>This matters today because Twitter is running an API <a href="https://dev.twitter.com/blog/api-v1-retirement-update">blackout test</a>. Tweet Library will not be able to load new tweets this afternoon for about an hour (3pm PST) while v1 is unavailable. I’ll post again here and from <a href="https://alpha.app.net/riverfold">@riverfold on App.net</a> when the new version of Tweet Library is shipped off to Apple and live in the App Store.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/03/twitter_api_v11.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Replacements for Google Reader</title>
 		<link>http://www.manton.org/2013/03/replacements_for_google.html</link>
-		<comments>http://www.manton.org/2013/03/replacements_for_google.html#comments</comments>
 		<pubDate>Sat, 16 Mar 2013 16:30:07 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -156,13 +163,10 @@
 <p>Luckily many great developers are now on this. <a href="http://feedwrangler.net/">Feed Wrangler</a> from David Smith, hopes for a <a href="http://bitsplitting.org/2013/03/13/netnewswire-cloud/">possible NetNewsWire Cloud</a>, more <a href="https://twitter.com/shauninman/statuses/312187680832229377">interest in Fever</a>, and other established web apps like <a href="http://www.newsblur.com/">NewsBlur</a> and <a href="http://www.feedly.com/">Feedly</a>.  As Marco Arment said, this <a href="http://www.marco.org/2013/03/13/google-reader-sunset">could end up being a great thing</a> for innovation in blogs and RSS again.</p>
 <p>But just because I’m going to watch on the sidelines for the server sync part of RSS, doesn’t mean I’m going to completely skip building better RSS support into my own products. There’s a lot I’d like to do with client-side RSS support in Watermark.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/03/replacements_for_google.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Pricing changes and Watermark Mobile 1.1</title>
 		<link>http://www.manton.org/2013/03/pricing_changes_and.html</link>
-		<comments>http://www.manton.org/2013/03/pricing_changes_and.html#comments</comments>
 		<pubDate>Wed, 13 Mar 2013 14:31:21 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -177,13 +181,10 @@
 <p>The little <a href="https://itunes.apple.com/us/app/watermark-mobile/id566886320?mt=8">iOS app for Watermark</a> has also been updated to version 1.1 and now features auto-renewing subscriptions. This means you can sign up directly in the iOS app and have your iTunes account charged each month. Watermark Mobile launched mostly as a convenient search interface, but it should now start receiving more regular updates.</p>
 <p>For another recent discussion about pricing, check out part 3 of <a href="http://kevinhoctor.blogspot.com/2013/03/the-future-of-software-pricing.html">Kevin Hoctor’s excellent write-up</a> of talks from NSConference.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/03/pricing_changes_and.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Where to archive your tweets</title>
 		<link>http://www.manton.org/2013/01/where_to_archive.html</link>
-		<comments>http://www.manton.org/2013/01/where_to_archive.html#comments</comments>
 		<pubDate>Mon, 21 Jan 2013 22:22:15 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -203,13 +204,10 @@
 <p><strong>To import into Watermark</strong>, also download the archive from Twitter and put it on Dropbox. You can put it anywhere, either in Apps → Watermark if you’ve already authorized Watermark to use Dropbox (for export), or in Documents or anywhere else. Then sign in to Watermark and click Account → “Upload all your tweets” to select the file.</p>
 <p>Watermark is good if you want to expand your archive beyond just your own tweets. It indexes tweets from everyone you are following, creating a huge searchable archive over time. My own account in Watermark now has about 400,000 tweets indexed. Sign up or <a href="http://watermark.io/">learn more at watermark.io</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/01/where_to_archive.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Three months without Twitter</title>
 		<link>http://www.manton.org/2013/01/three_months_without.html</link>
-		<comments>http://www.manton.org/2013/01/three_months_without.html#comments</comments>
 		<pubDate>Fri, 11 Jan 2013 18:07:03 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -226,31 +224,9 @@
 <p>Meanwhile, App.net started taking off. Netbot shipped. The <a href="http://blog.app.net/2012/09/27/announcing-the-app-net-developer-incentive-program/">developer incentive program</a> started to directly reward developers. There’s a good community there. It’s smaller than on Twitter; there isn’t the same never-ending stream of tweets flowing into your timeline. But maybe that’s a good thing.</p>
 <p>The flip side is that it’s hard to let go of things like Twitter that have value. I had similar self-doubt when I killed off my app Wii Transfer, so that I could focus on bigger ideas. But simplifying has allowed me to do some of the best work of my career in 2012. I’ve put everything I have into Watermark, into the new Tweet Marker subscriptions, into doing Core Intuition weekly, into <a href="http://www.manton.org/2012/06/ship_everything.html">shipping everything I work on</a>. 2013 is going to be awesome, and I’m not looking back.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/01/three_months_without.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Safari extension for Tweet Marker</title>
-		<link>http://www.manton.org/2012/12/safari_extension_for.html</link>
-		<comments>http://www.manton.org/2012/12/safari_extension_for.html#comments</comments>
-		<pubDate>Wed, 19 Dec 2012 15:29:18 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[User Experience]]></category>
-		<category><![CDATA[screencast]]></category>
-		<category><![CDATA[tweetmarker]]></category>
-		<category><![CDATA[watermark]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2012/12/safari_extension_for.html</guid>
-		<description><![CDATA[Since introducing the Tweet Marker $1/month subscriber plan earlier this week, I’ve received a few questions about how the Safari extension works, and whether Watermark customers will also receive the new features. Yes, Watermark subscribers automatically have access to the Tweet Marker extension, which can be downloaded here. I’ve prepared a screencast to show how [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Since introducing the <a href="http://tweetmarker.net/">Tweet Marker</a> $1/month subscriber plan earlier this week, I’ve received a few questions about how the Safari extension works, and whether Watermark customers will also receive the new features. Yes, Watermark subscribers automatically have access to the Tweet Marker extension, which can be <a href="http://www.riverfold.com/software/tweetmarker/downloads/TweetMarker_1.1.safariextz">downloaded here</a>.</p>
-<p>I’ve prepared a screencast to show how the extension works. It’s about a minute long, and you can <a href="http://www.riverfold.com/software/tweetmarker/safari.html">view it right here</a>.</p>
-<p>Thanks to everyone who has already subscribed to either Tweet Marker or Watermark.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2012/12/safari_extension_for.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.378 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 15:00:10 -->
+<!-- Dynamic page generated in 0.277 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 14:41:45 -->

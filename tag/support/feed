@@ -8,19 +8,41 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; support</title>
+	<title>support &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/support/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
+		<title>App maintenance and subscription rejections</title>
+		<link>http://www.manton.org/2016/06/app-maintenance-and-subscription-rejections.html</link>
+		<pubDate>Fri, 10 Jun 2016 13:27:55 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[inapp]]></category>
+		<category><![CDATA[maintenance]]></category>
+		<category><![CDATA[subscriptions]]></category>
+		<category><![CDATA[support]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3976</guid>
+		<description><![CDATA[Jason Snell closed his first take on App Store subscriptions with a question about iPhone app maintenance vs. web services maintenance: Whether Apple would actually reject a subscription-based app that doesn’t offer any functionality outside of itself, I don’t know. It sure wouldn’t be the first time there was a baffling App Store rejection. But [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Jason Snell closed <a href="https://sixcolors.com/link/2016/06/app-store-uncertainty/">his first take on App Store subscriptions</a> with a question about iPhone app maintenance vs. web services maintenance:</p>
+<blockquote><p>
+  Whether Apple would actually reject a subscription-based app that doesn’t offer any functionality outside of itself, I don’t know. It sure wouldn’t be the first time there was a baffling App Store rejection. But does Apple really want to take the position that ongoing maintenance of a web service has value, but ongoing maintenance and development of an app does not? I don’t think it does.
+</p></blockquote>
+<p>As I wrote about <a href="http://www.manton.org/2016/06/core-intuition-236-and-app-subscriptions.html">in my post yesterday</a>, users can more easily see the hosting costs for a web service. They&#8217;ve been trained by a decade of paying for web subscriptions. Maintenance for the app itself has some differences.</p>
+<p>Think about how costs scale if an app becomes popular. A web service becomes expensive to run, often thousands of dollars each month. You could say that a developer&#8217;s time for app maintenance is <em>also</em> thousands of dollars, but it&#8217;s essentially fixed. Outside of customer support costs, the incremental cost to a developer for an app doesn&#8217;t increase in the same way it does for scaling a backend service.</p>
+<p>I hate that Apple has the power to reject our business model for a potential app. I&#8217;m now leaning more to the idea that Apple should approve nearly everything and let customers decide on the value. But there <em>is</em> a difference between maintenance of an app vs. a web service, and the services that are clearly appropriate for subscriptions will be the most successful apps using this new model.</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>Faster support response times</title>
 		<link>http://www.manton.org/2010/12/faster_support_response.html</link>
-		<comments>http://www.manton.org/2010/12/faster_support_response.html#comments</comments>
 		<pubDate>Mon, 13 Dec 2010 15:06:14 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -37,13 +59,10 @@
 <p>The worst part are the emails that fall through the cracks. They are on their 2nd or 3rd response to a problem that I don&#8217;t understand, or they&#8217;re waiting on a solution that isn&#8217;t ready, and months go by before I can pick up the thread again. I hate this.</p>
 <p>I&#8217;m going to use this opportunity to get back to where I should be: less than 24-hour response in all cases, for all products. I&#8217;m adding a &#8220;stats section to my support page&#8221;:http://www.riverfold.com/support/ to keep me in check, and I&#8217;ve seeded it with response times for the most recent support questions via email and forums. This will also give customers an idea of what to expect without an explicit promise from me.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2010/12/faster_support_response.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Better software, less support</title>
 		<link>http://www.manton.org/2009/02/better_software_less.html</link>
-		<comments>http://www.manton.org/2009/02/better_software_less.html#comments</comments>
 		<pubDate>Sat, 07 Feb 2009 13:26:41 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -72,13 +91,10 @@
 <p>On a few occasions this has hurt my ability to add features, but on others it forces me to see a user interface problem from a new angle, something I wouldn&#8217;t have done if I hadn&#8217;t had these limits to work in.</p>
 <p>Limiting features in an app does not come naturally to me, but the more I embrace it, the more value I see in it. I &#8220;tweeted a bonus side effect&#8221;:http://twitter.com/manton/status/1177252437 to this approach last week: &#8220;Maybe another reason why simple software succeeds: customers see in it all the possible features to come, implemented just right for them.&#8221;</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2009/02/better_software_less.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Customer support</title>
 		<link>http://www.manton.org/2007/02/customer_support.html</link>
-		<comments>http://www.manton.org/2007/02/customer_support.html#comments</comments>
 		<pubDate>Wed, 21 Feb 2007 05:38:53 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[User Experience]]></category>
@@ -118,11 +134,9 @@
 <p>Most people who buy Mac software from independent developers know that it&#8217;s only 1-5 people behind the company. We can&#8217;t compete with the Microsofts and Adobes of the world on application size, but we can compete on quality customer service. <em>Being small is a competitive advantage.</em></p>
 <p>I&#8217;ve exchanged at least a couple hundred emails in the last few months with customers or potential customers. (I don&#8217;t actually distinguish between users who have bought the product or who are just trying it out. They all get the same level of support.) Have I handled each one perfectly? Probably not. There are a few people who are still experiencing problems. But my hope is that just writing this blog post will serve as a guide and reminder of why taking support seriously is worth it.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2007/02/customer_support.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.387 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 15:08:31 -->
+<!-- Dynamic page generated in 0.256 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 14:59:56 -->

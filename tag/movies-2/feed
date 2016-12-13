@@ -8,19 +8,18 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; movies</title>
+	<title>movies &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/movies-2/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
 		<title>Scott Knaster visits the Steve Jobs movie office</title>
 		<link>http://www.manton.org/2015/10/scott-knaster-visits-the-steve-jobs-movie-office.html</link>
-		<comments>http://www.manton.org/2015/10/scott-knaster-visits-the-steve-jobs-movie-office.html#comments</comments>
 		<pubDate>Wed, 07 Oct 2015 15:10:17 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Movies]]></category>
@@ -38,13 +37,10 @@
 </p></blockquote>
 <p>Apple seems intent on downplaying this movie as inaccurate and unfair to Steve, but it&#8217;s not supposed to be a documentary. It&#8217;s promising that they asked Scott Knaster for help getting some of the everyday details right. I&#8217;m really looking forward to it.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/10/scott-knaster-visits-the-steve-jobs-movie-office.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Introducing Clipstart</title>
 		<link>http://www.manton.org/2009/05/introducing_clipstart.html</link>
-		<comments>http://www.manton.org/2009/05/introducing_clipstart.html#comments</comments>
 		<pubDate>Tue, 05 May 2009 02:58:59 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -60,13 +56,10 @@
 <p>The app is called &#8220;Clipstart&#8221;:http://www.riverfold.com/software/clipstart/. It&#8217;s for importing, tagging, and uploading home movies. I have high hopes for the app and a lot of fun stuff planned for the future.</p>
 <p>As usual, a lot of people talked about the product even before I did. My thanks to Dan Moren of Macworld for &#8220;covering the launch&#8221;:http://www.macworld.com/article/140376/2009/05/clipstart.html before I even had a chance to spam him with a press release; to John Gruber for &#8220;posting about how he uses it&#8221;:http://daringfireball.net/linked/2009/05/04/clipstart; and to &#8220;Duncan Davidson&#8221;:http://journal.duncandavidson.com/post/102477678/clipstart and &#8220;Mike Zornek&#8221;:http://blog.clickablebliss.com/2009/05/04/clipstart-10/ for their write-ups. I also very much appreciate &#8220;all the retweets&#8221;:http://search.twitter.com/search?q=clipstart and goodwill from my friends on Twitter. Those meant a lot.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2009/05/introducing_clipstart.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Wii Transfer 2.5</title>
 		<link>http://www.manton.org/2007/09/wii_transfer_25.html</link>
-		<comments>http://www.manton.org/2007/09/wii_transfer_25.html#comments</comments>
 		<pubDate>Fri, 21 Sep 2007 04:41:09 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -85,13 +78,10 @@
 <p>I&#8217;ve also bumped the price up to $19, where I expect it to stay for some time. One way I like to think about the price of Wii Transfer is in relation to another common purchase from Wii owners: games. It&#8217;s still less than half the price of a new Wii game.</p>
 <p>Special thanks to the beta testers who provided feedback. There are still a number of things about movie sharing that I&#8217;d like to polish up, so additional minor updates are likely. I often use the &#8220;Wii account on Twitter&#8221;:http://twitter.com/wii to post these and other announcements.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2007/09/wii_transfer_25.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>United 93</title>
 		<link>http://www.manton.org/2006/04/united_93.html</link>
-		<comments>http://www.manton.org/2006/04/united_93.html#comments</comments>
 		<pubDate>Mon, 01 May 2006 02:42:33 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Movies]]></category>
@@ -122,11 +112,9 @@
 </ul>
 <p>Anyway, I saw the movie Friday night. As surprising as it may seem, it is very good. I don&#8217;t think I&#8217;ll say anymore than that.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2006/04/united_93.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.314 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 14:58:50 -->
+<!-- Dynamic page generated in 0.257 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 15:05:11 -->

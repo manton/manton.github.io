@@ -8,19 +8,18 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; developers</title>
+	<title>developers &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/developers/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
 		<title>iAd setback</title>
 		<link>http://www.manton.org/2016/01/iad-setback.html</link>
-		<comments>http://www.manton.org/2016/01/iad-setback.html#comments</comments>
 		<pubDate>Sat, 16 Jan 2016 13:59:49 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -38,13 +37,10 @@
 </p></blockquote>
 <p>I agree. Back in 2010, I said that <a href="http://www.manton.org/2010/09/i_hope_iad.html">I hope iAd fails</a>. It seemed at odds with Apple&#8217;s focus as a product company, not to mention <a href="http://www.manton.org/2015/09/iad-hypocrisy.html">hypocritical</a> for a company with ad-blocking APIs. Apple and third-party developers should be united in encouraging users to pay for apps; iAd is a distraction from that.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/01/iad-setback.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>On the eve of Twitter Flight</title>
 		<link>http://www.manton.org/2014/10/on-the-eve-of-twitter-flight.html</link>
-		<comments>http://www.manton.org/2014/10/on-the-eve-of-twitter-flight.html#comments</comments>
 		<pubDate>Wed, 22 Oct 2014 05:06:55 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Weblogs]]></category>
@@ -73,13 +69,10 @@
 <p>Hatching Twitter captures the power struggles inside Twitter and fills a book with them. And that&#8217;s really the foundation for Marco&#8217;s post: based on Twitter&#8217;s history, we probably haven&#8217;t seen the last leadership change at the company. Twitter <em>might</em> have a strong future but it surely has an uncertain one.</p>
 <p>My next product is about microblogging, and it has to launch in the real world where Twitter dominates. But I view that as a reality, not a feature requirement. I think I&#8217;ll be happier as a developer, and my app will actually be more compelling, if I design and build it for a world without Twitter.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/10/on-the-eve-of-twitter-flight.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Announcing the Tweet Marker developer plan</title>
 		<link>http://www.manton.org/2013/07/announcing_the_tweet.html</link>
-		<comments>http://www.manton.org/2013/07/announcing_the_tweet.html#comments</comments>
 		<pubDate>Tue, 23 Jul 2013 14:17:40 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -97,13 +90,10 @@
 <p>Second, I’ve created a referral program for app developers to let their customers know about the <a href="https://api.tweetmarker.net/subscribe">$1/month user subscription</a>. This is a great way for developers to show their support even if they can’t subscribe to the developer plan. But even better, for developers who do subscribe, their account will be credited for each paid user they refer. This can effectively make the new developer plan free or significantly discounted.</p>
 <p>This is a big change for Tweet Marker, but an important one to make Tweet Marker strong. I’m excited to keep working on it, so that Twitter apps can work even better together. <a href="https://api.tweetmarker.net/developers/signin">Sign in here</a> to learn more about it.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/07/announcing_the_tweet.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>App.net&#8217;s great start</title>
 		<link>http://www.manton.org/2012/08/appnets_great_start.html</link>
-		<comments>http://www.manton.org/2012/08/appnets_great_start.html#comments</comments>
 		<pubDate>Sun, 12 Aug 2012 21:44:46 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -126,13 +116,10 @@
 <p>He&#8217;s talking about search engines, but it could be anything. Get those 10,000 passionate users and you have a chance to take on the giants in the industry. As of this writing, App.net has 8000 paying customers. And 25% of them signed up at the developer tier. I&#8217;m sure every developer with a popular Twitter app has already looked at the App.net API documentation.</p>
 <p>As <a href="https://twitter.com/siracusa/status/234709098124414976">John Siracusa tweeted</a> after App.net successfully funded: &#8220;Now comes the hard part.&#8221; Totally true, but just reaching this point was difficult — a perfect mix of great timing and even better execution. In the first 30 days, we saw a team that knows how to win. Let&#8217;s see what they can do next.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2012/08/appnets_great_start.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Where Apple went wrong with free apps</title>
 		<link>http://www.manton.org/2011/03/where_apple_went.html</link>
-		<comments>http://www.manton.org/2011/03/where_apple_went.html#comments</comments>
 		<pubDate>Tue, 08 Mar 2011 18:49:27 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -142,32 +129,30 @@
 		<category><![CDATA[developers]]></category>
 
 		<guid isPermaLink="false">http://www.manton.org/2011/03/where_apple_went.html</guid>
-		<description><![CDATA[&#8220;John Gruber has a solid summary&#8221;:http://daringfireball.net/2011/03/dirty_percent of the issues around in-app purchase. Regarding the closed platform: &#8220;iOS isn&#8217;t and never was an open computer system. It&#8217;s a closed, controlled console system &#8212; more akin to Playstation or Wii or Xbox than to Mac OS X or Windows. It is, in Apple&#8217;s view, a privilege to [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>&#8220;John Gruber has a solid summary&#8221;:http://daringfireball.net/2011/03/dirty_percent of the issues around in-app purchase. Regarding the closed platform:</p>
+		<description><![CDATA[John Gruber has a solid summary of the issues around in-app purchase. Regarding the closed platform: &#8220;iOS isn&#8217;t and never was an open computer system. It&#8217;s a closed, controlled console system &#8212; more akin to Playstation or Wii or Xbox than to Mac OS X or Windows. It is, in Apple&#8217;s view, a privilege to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://daringfireball.net/2011/03/dirty_percent">John Gruber has a solid summary</a> of the issues around in-app purchase. Regarding the closed platform:</p>
 <blockquote><p>&#8220;iOS isn&#8217;t and never was an open computer system. It&#8217;s a closed, controlled console system &mdash; more akin to Playstation or Wii or Xbox than to Mac OS X or Windows. It is, in Apple&#8217;s view, a privilege to have a native iOS app.&#8221;</p></blockquote>
 <p>This is the root of nearly every strength and problem with the App Store. I&#8217;ll never be happy about it. But in-app purchase restrictions are even more complicated than that. It started not just with the controlled environment but the decisions around free apps.</p>
-<p>&#8220;Michael Tsai points to this Peter Oppenheimer quote&#8221;:http://mjtsai.com/blog/2011/02/24/app-store-revenue-stream/ from late February that Apple runs the App Store at &#8220;just a little over breakeven&#8221;. I&#8217;ve argued that Apple&#8217;s 30% tax is about growing that to significant profit at the expense of developers, but in the back of my head I&#8217;ve also been concerned that maybe it&#8217;s just to keep the App Store from falling into the red. Maybe they are really struggling under the weight of what they created, and long app review times and lack of focus around the Mac App Store launch are just symptoms of that.</p>
+<p><a href="http://mjtsai.com/blog/2011/02/24/app-store-revenue-stream/">Michael Tsai points to this Peter Oppenheimer quote</a> from late February that Apple runs the App Store at &#8220;just a little over breakeven&#8221;. I&#8217;ve argued that Apple&#8217;s 30% tax is about growing that to significant profit at the expense of developers, but in the back of my head I&#8217;ve also been concerned that maybe it&#8217;s just to keep the App Store from falling into the red. Maybe they are really struggling under the weight of what they created, and long app review times and lack of focus around the Mac App Store launch are just symptoms of that.</p>
 <p>If this is true, then I&#8217;m more sympathetic to Apple&#8217;s predicament. They aren&#8217;t being greedy; they&#8217;re just trying not to lose money. But that doesn&#8217;t mean they didn&#8217;t make a mistake.</p>
 <p>Steve Jobs, announcing the App Store in March 2008:</p>
 <blockquote><p>&#8220;You know what price a lot of developers are going to pick? Free, right? So when a developer wants to distribute their app for free, there is no charge for free apps. At all. There&#8217;s no charge to the user, and there&#8217;s no charge to the developer. We&#8217;re going to pay for everything to get those apps out there for free. The developer and us have the same exact interest, which is to get as many apps out in front of as many iPhone users as possible.&#8221;</p></blockquote>
 <p>I remember being surprised when I heard this. We take for granted now that much of the App Store&#8217;s success is because of free apps, but I&#8217;m not sure it had to be that way. The iTunes Music Store launched with a full paid catalog of music. Many of the hits in the App Store, like Angry Birds and Doodle Jump, have never been free.</p>
 <p>But watching Steve Jobs from 2008, you can tell Apple was worried that what happened to the Mac (lack of third-party apps and games) might happen to the iPhone as well, so they gambled the profitability of the App Store away to encourage as many apps as possible. That was their choice.</p>
 <p>Again, from Steve Jobs: &#8220;We keep 30% to pay for running the App Store.&#8221; Not a profit center. Not a business. Just to pay for running the store, so that the user experience for app discovery on the iPhone is second to none.</p>
-<p>Today, we know that Apple has never planned well for free apps. You don&#8217;t need to look much further than their &#8220;reversal of allowing in-app purchase in free apps&#8221;:http://www.macworld.com/article/143339/2009/10/appstorepurchasing.html to see that they are making this stuff up as they go along.</p>
+<p>Today, we know that Apple has never planned well for free apps. You don&#8217;t need to look much further than their <a href="http://www.macworld.com/article/143339/2009/10/appstorepurchasing.html">reversal of allowing in-app purchase in free apps</a> to see that they are making this stuff up as they go along.</p>
 <p>When Steve Jobs said it, offering free apps for so little seemed almost foolish, like Apple was compensating for the high 30% by giving <em>too</em> good a deal to free apps. Why not charge some hosting fee? Or why not give up exclusive distribution and let free apps be installed directly by the user without forcing everything through the App Store? Unlimited bandwidth, promotion in the store, and everything else just for the $99 dev program fee was a pretty good deal.</p>
 <p>And now I wonder if Apple hasn&#8217;t been backpedaling ever since, trying to make up for that mistake: free apps are a burden. iAd was the first correction, because a share of revenue from free apps was going to Google instead of Apple. In-app purchase is the next correction, because real value can be delivered in a free app with transactions handled elsewhere.</p>
 <p>Apple can&#8217;t accept a future in which too many apps are technically free &mdash; something that has already happened on Android &mdash; unless they are also taking a cut when money changes hands outside of app download.</p>
-<p>&#8220;Matt Drance clearly spotted the loophole&#8221;:http://www.appleoutsider.com/2011/02/22/omgiapbbq/ that forces Apple to be so strict with in-app rules:</p>
+<p><a href="http://www.appleoutsider.com/2011/02/22/omgiapbbq/">Matt Drance clearly spotted the loophole</a> that forces Apple to be so strict with in-app rules:</p>
 <blockquote><p>&#8220;30% to Apple across the board &mdash; app sales, IAP, and now subscriptions &mdash; is consistent, clear, and uncheatable. That cheating bit is significant: a 10% commission for subscriptions, for example, would see developers adopting the subscription system en masse so they could keep more money. Apps that were once $2.99 would suddenly be asking for installments like late-night infomercials.&#8221;</p></blockquote>
 <p>Apple is trapped by their original decision to shoulder the cost of free apps. They encouraged free apps and now they&#8217;ve got one band-aid on top of another &mdash; advertisements, in-app purchase, subscriptions &mdash; all trying to make free apps work for the App Store bottom line. These changes make developers nervous because all the power lies with Apple.</p>
 <p>Free apps and the problem of exclusive distribution are linked. Get rid of free apps, and the store can support itself naturally. Get rid of exclusive distribution, and Apple can be more creative about charging developers who do want to participate in the App Store. If Amazon isn&#8217;t happy with Apple&#8217;s terms, users can install the Kindle app outside the store and it doesn&#8217;t cost Apple anything to maintain.</p>
 <p>Apple, want to charge 30%? Go for it. Want to make the submission rules more strict? Fine. Want to adjust how you run the App Store to reflect what&#8217;s happening in the market? No problem. Just give developers an out. We are going to be back here year after year with the latest controversy until exclusive app distribution is fixed.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2011/03/where_apple_went.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.327 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 14:58:16 -->
+<!-- Dynamic page generated in 0.364 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 15:00:15 -->

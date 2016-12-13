@@ -8,19 +8,18 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; ifttt</title>
+	<title>ifttt &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/ifttt/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
 		<title>Here&#8217;s a Twitter feed</title>
 		<link>http://www.manton.org/2016/01/fine-heres-a-twitter-feed.html</link>
-		<comments>http://www.manton.org/2016/01/fine-heres-a-twitter-feed.html#comments</comments>
 		<pubDate>Tue, 19 Jan 2016 14:30:00 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Weblogs]]></category>
@@ -34,7 +33,7 @@
 		<description><![CDATA[Whenever someone says &#8220;I don&#8217;t read RSS&#8221;, I actually hear &#8220;I don&#8217;t read Manton&#8217;s blog&#8221;. I could give plenty of reasons why they&#8217;re missing out by ignoring RSS — it&#8217;s still the best way to keep up with bloggers you like who aren&#8217;t linked or retweeted often enough to bubble up on Twitter — but [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>Whenever someone says &#8220;I don&#8217;t read RSS&#8221;, I actually hear &#8220;I don&#8217;t read Manton&#8217;s blog&#8221;. I could give plenty of reasons why they&#8217;re missing out by ignoring RSS — it&#8217;s still the best way to keep up with bloggers you like who aren&#8217;t linked or retweeted often enough to bubble up on Twitter — but some people won&#8217;t be convinced.</p>
 <p>Over three years ago I stopped posting to Twitter. I know it was the right move on principle because there was a real cost in exposure, with fewer people actively keeping up with what I&#8217;ve been working on. <a href="http://www.manton.org/2014/05/core_intuition_136.html">As I&#8217;ve said before</a>: it wouldn’t mean anything if it didn’t cost me anything.</p>
-<p>And yet, many people get their news from Twitter. Since I started <a href="http://www.manton.org/category/micro">microblogging on my own site</a>, I&#8217;ve had time to reflect on the roll of indie microblogging and cross-posting. I think the <a href="http://indiewebcamp.com/POSSE">IndieWebCamp has it right</a>: publish on your own site, syndicate elsewhere. I wrote more back in July <a href="http://www.manton.org/2015/07/embrace-cross-posting.html">about cross-posting</a>.</p>
+<p>And yet, many people get their news from Twitter. Since I started <a href="http://www.manton.org/category/micro">microblogging on my own site</a>, I&#8217;ve had time to reflect on the role of indie microblogging and cross-posting. I think the <a href="http://indiewebcamp.com/POSSE">IndieWebCamp has it right</a>: publish on your own site, syndicate elsewhere. I wrote more back in July <a href="http://www.manton.org/2015/07/embrace-cross-posting.html">about cross-posting</a>.</p>
 <p>Most importantly, as I work on a microblog publishing platform of my own, how can I develop a solid cross-posting feature if I don&#8217;t actively use it myself? <a href="http://www.manton.org/2015/06/microblogging-with-wordpress.html">I&#8217;ve recommended IFTTT</a> to beta testers, but only by using it myself can I know where the gaps in functionality are.</p>
 <p>So I&#8217;ve been experimenting. All of my posts now go out to the Twitter account @manton2. This was an account I created 6 years ago for testing. Except for a few of the first tweets, I&#8217;ve cleared out the test content and given it a new life.</p>
 <p>It&#8217;s worth noting some advantages and disadvantages to this:</p>
@@ -45,13 +44,10 @@
 </ul>
 <p>You can follow <a href="http://twitter.com/manton2">@manton2 on Twitter</a>. Thanks for reading.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/01/fine-heres-a-twitter-feed.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Microblogging with WordPress</title>
 		<link>http://www.manton.org/2015/06/microblogging-with-wordpress.html</link>
-		<comments>http://www.manton.org/2015/06/microblogging-with-wordpress.html#comments</comments>
 		<pubDate>Thu, 18 Jun 2015 16:32:00 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Weblogs]]></category>
@@ -71,13 +67,10 @@
 <p><strong>Tweeting</strong>. Now that you have a blog that contains all your microblog posts, you can wire it up to Twitter to automatically cross-post them as tweets. You’re writing <em>on your own site first</em>, but the posts still go out to your Twitter followers. Again, use an IFTTT recipe that pulls from your microblog RSS feed and sends the post content to Twitter. Since I don’t post to Twitter, <a href="http://www.manton.org/images/2015/microblog_screenshot_rss.png">I’ve set mine to post to App.net</a> instead. You can continue to reply and favorite directly on Twitter.</p>
 <p>I’m very excited about the potential for microblogging. For the last year I’ve been working on a new platform around this stuff. By adopting some of these tips for WordPress, your microblog will be ready for my platform, but more importantly your blog will be open and extensible. Let’s get back to our roots with RSS and see what tools and web sites we can build.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/06/microblogging-with-wordpress.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>WordPress microblog posting from Do Note</title>
 		<link>http://www.manton.org/2015/06/wordpress-microblog-posting-from-do-note.html</link>
-		<comments>http://www.manton.org/2015/06/wordpress-microblog-posting-from-do-note.html#comments</comments>
 		<pubDate>Tue, 02 Jun 2015 11:53:06 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Weblogs]]></category>
@@ -91,11 +84,9 @@
 <p>I also wanted to streamline my cross-posting to App.net, which before now had been a manual copy and paste. I use a pair of RSS triggers in IFTTT for this as well, to go from my main RSS feed and my microblog RSS feed. And at the same time, I’ve updated the CSS for <a href="http://www.manton.org/category/micro">my microblog posts</a> so they look a little better over the web.</p>
 <p>Effortless tweeting is a big part of what Twitter got right on user experience. With WWDC around the corner, I should be posting to my own microblog more frequently now that I have a good workflow.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/06/wordpress-microblog-posting-from-do-note.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.305 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 15:05:05 -->
+<!-- Dynamic page generated in 0.289 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 14:56:53 -->

@@ -8,19 +8,37 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; kickstarter</title>
+	<title>kickstarter &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/kickstarter/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
+		<title>On this day, last year</title>
+		<link>http://www.manton.org/2016/08/on-this-day-last-year.html</link>
+		<pubDate>Wed, 31 Aug 2016 17:00:40 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[kickstarter]]></category>
+		<category><![CDATA[risk]]></category>
+		<category><![CDATA[snippets]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4204</guid>
+		<description><![CDATA[One year ago today, I posted the first screenshots of Snippets.today for iPhone. I never would&#8217;ve guessed that a year later I&#8217;d still be working on the beta, still not quite ready to ship. One theme from that post a year ago is even more true today, though. To succeed I need to not just [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.manton.org/2015/08/doubt-with-screenshots.html">One year ago today</a>, I posted the first screenshots of Snippets.today for iPhone. I never would&#8217;ve guessed that a year later I&#8217;d still be working on the beta, still not quite ready to ship.</p>
+<p>One theme from that post a year ago is even more true today, though. To succeed I need to not just announce and market the product, but tell a story about why it matters. This realization is what has held up the Kickstarter video for so long. It doesn&#8217;t need to be perfect — I&#8217;m sure it will be flawed in a few ways — but it needs to be <em>right</em>, in that it should frame the idea of independent microblogging correctly.</p>
+<p>More from that post last year:</p>
+<blockquote><p>Earlier this year I gave a talk at CocoaConf about tips I’ve learned to be productive while juggling multiple projects. But as I worked on the talk, it turned out to be about something else. It was about Walt Disney moving from Kansas City to Hollywood. It was about crazy side projects that no one else believed in. It was about Texas Hold ‘Em poker and risking everything for an idea.</p></blockquote>
+<p>I still feel that risk. A long-overdue product is difficult to push forward, the weight starting to carry as much burden as potential. And everywhere I look there&#8217;s a new excuse to procrastinate.</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>Timetable episodes 19 and 20</title>
 		<link>http://www.manton.org/2016/04/timetable-episodes-19-and-20.html</link>
-		<comments>http://www.manton.org/2016/04/timetable-episodes-19-and-20.html#comments</comments>
 		<pubDate>Wed, 06 Apr 2016 20:29:53 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Podcasts]]></category>
@@ -35,13 +53,10 @@
 <p><a href="http://timetable.manton.org/2016/04/episode-19-kickstarter-recording/">Episode 19</a> is about how I finally sat down to record a video for my upcoming Kickstarter project. I still have editing to do, but I&#8217;m already feeling a lot better about actually launching this.</p>
 <p><a href="http://timetable.manton.org/2016/04/episode-20-kickstarter-rewards/">Episode 20</a> continues the discussion of Kickstarter, starting with my reaction after receiving the art book from <a href="http://blog.loish.net/">Loish</a> yesterday. I was really impressed with how well it was produced. Anytime I see something of such high quality I&#8217;m inspired to do a better job with my own work.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/04/timetable-episodes-19-and-20.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Getting press</title>
 		<link>http://www.manton.org/2016/03/getting-press.html</link>
-		<comments>http://www.manton.org/2016/03/getting-press.html#comments</comments>
 		<pubDate>Fri, 25 Mar 2016 21:32:44 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -58,13 +73,10 @@
 <p>Self-promotion is hard for many of us. I try to remind myself that journalists <em>want something interesting to write about</em>. The community as a whole benefits when writers have good stories and developers have good traffic to their apps.</p>
 <p>One of the approaches I’ve been trying with my upcoming microblog platform is to write about related topics for months before the project is officially announced. It’s great because these are things I would want to write about anyway, regardless of having an app to promote, and so the heightened level of interest from beta testers and bloggers is like a bonus. Now I just have to actually ship the product while the timing is right.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/03/getting-press.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Core Intuition 220</title>
 		<link>http://www.manton.org/2016/02/core-intuition-220.html</link>
-		<comments>http://www.manton.org/2016/02/core-intuition-220.html#comments</comments>
 		<pubDate>Fri, 19 Feb 2016 17:09:34 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Podcasts]]></category>
@@ -81,13 +93,10 @@
 </p></blockquote>
 <p>I like this episode because it has a mix of serious and fun topics. Toward the end of the episode we talk about my new goal of trying a new coffee shop once a day for a month.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/02/core-intuition-220.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Charles Perry&#8217;s microblog</title>
 		<link>http://www.manton.org/2016/02/charles-perrys-microblog.html</link>
-		<comments>http://www.manton.org/2016/02/charles-perrys-microblog.html#comments</comments>
 		<pubDate>Sun, 07 Feb 2016 17:02:21 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Weblogs]]></category>
@@ -113,13 +122,10 @@
 </ul>
 <p>Listeners of my new Timetable podcast also know that I&#8217;m writing a short book about independent microblogging. You can hear a little about this <a href="http://timetable.manton.org/2016/01/episode-9-not-just-an-app/">on episode 9</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/02/charles-perrys-microblog.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Core Intuition 202 and Thoroughly Considered (and stickers!)</title>
 		<link>http://www.manton.org/2015/10/core-intuition-202-and-thoroughly-considered-and-stickers.html</link>
-		<comments>http://www.manton.org/2015/10/core-intuition-202-and-thoroughly-considered-and-stickers.html#comments</comments>
 		<pubDate>Fri, 16 Oct 2015 15:36:31 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Podcasts]]></category>
@@ -137,11 +143,9 @@
 <p>Make sure to listen through the end for why I ordered <a href="https://twitter.com/riverfold/status/651509114284044288">stickers for my new app</a>. If you want one, you can <a href="mailto:manton@manton.org">email me</a> or send us <a href="mailto:feedback@coreint.org">podcast feedback</a>.</p>
 <p>As I said on the show, I highly recommend checking out <a href="http://www.relay.fm/tc">Thoroughly Considered</a>, the companion podcast for <a href="https://www.kickstarter.com/projects/danprovost/obi-a-smart-laser-toy-for-pets">Studio Neat&#8217;s Kickstarter project</a>. While you&#8217;re there, also consider backing the project, at the podcast level or the full Obi product if you have a pet that would love it. Even if it doesn&#8217;t successfully fund, I really enjoyed the first couple episodes of their podcast and hope it continues.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/10/core-intuition-202-and-thoroughly-considered-and-stickers.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.337 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 13:56:39 -->
+<!-- Dynamic page generated in 0.251 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 14:40:07 -->

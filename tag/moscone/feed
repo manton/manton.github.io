@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>moscone &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/moscone/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Core Intuition&#8217;s 8 years and overselling WWDC</title>
+		<link>http://www.manton.org/2016/05/core-intuitions-8-years-and-overselling-wwdc.html</link>
+		<pubDate>Mon, 30 May 2016 15:54:31 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[airbnb]]></category>
+		<category><![CDATA[conferences]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[moscone]]></category>
+		<category><![CDATA[podcasts]]></category>
+		<category><![CDATA[wwdc]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3954</guid>
+		<description><![CDATA[It’s 2 weeks before WWDC, which means it was also 8 years ago that we published the first episode of Core Intuition. At WWDC that year, Apple showed off iPhone OS 2.0, MobileMe, and the iPhone 3G. The yearly cycle of improvements to the OS and hardware don’t look much different today, but Apple keeps rolling, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>It’s 2 weeks before WWDC, which means it was also 8 years ago that we published the <a href="http://www.coreint.org/2008/05/episode-1-two-voices/">first episode</a> of Core Intuition. At WWDC that year, Apple showed off iPhone OS 2.0, MobileMe, and the iPhone 3G. The yearly cycle of improvements to the OS and hardware don’t look much different today, but <a href="http://www.macworld.com/article/1151235/macs/apple-rolls.html">Apple keeps rolling</a>, and so the total changes since 2008 are massive.</p>
+<p>For as many years as I’ve been out to San Francisco for WWDC (and to San Jose before then), each year I have fewer expectations for the conference itself. Some years I don’t even bother guessing or dreaming about new features — I have no pressing needs, no critical missing APIs, no questions to ask Apple engineers in the labs — and I’m happily surprised by whatever Apple gives us.</p>
+<p>This year is a little different. It’s the first year that I can remember since the Mac OS X 10.0 and 10.1 releases where an Apple platform needed significant performance improvements to be usable for anyone except early adopters. The first couple versions of Apple Watch were ambitious on features, but now it’s time to do the less glamorous work of making the platform fast. I hope watchOS 3.0 will be the same kind of milestone that Mac OS X 10.2 was in that regard. (And like Mac OS X, I hope it can be done <a href="http://www.manton.org/2016/03/slow-transitions-in-watchos.html">mostly in new software</a>.)</p>
+<p>Back to WWDC the conference. I’m still thinking about the interesting venue change for Monday to the Bill Graham Civic Auditorium.</p>
+<p>In the discussion on <a href="http://coreint.org/229">Core Intuition 229</a> last month, I kept coming back to the idea that this change has to be about growing the conference to allow more developers. Since more people show up on Monday (press and business folks, for example, who have less interest in the technical sessions or labs), you could have a bigger space on Monday and then <em>oversell</em> the conference as a whole, knowing that some ticket holders wouldn’t be around later in the week back at Moscone West.</p>
+<p>Maybe that creates more problems than it solves because of packed rooms and long lines to get into sessions, though. Now that I’ve had a while to think about it, it seems unlikely that Apple would risk making the conference worse just to squeeze in another 500 developers.</p>
+<p>Could there be some creative layouts in Moscone West that Apple hasn’t tried yet? There are so many downsides to changing the venue that I want to believe it’s part of addressing the biggest issue with the conference: most people don’t win the ticket lottery.</p>
+<p>There’s still the problem of hotels. Linking to my post about <a href="http://www.manton.org/2016/04/dont-give-up-on-wwdc.html">not giving up on WWDC</a>, John Gruber <a href="http://daringfireball.net/linked/2016/04/20/reece-wwdc">singled out Airbnb</a> as a bad solution, since there just aren’t that many rooms available. That’s true. And even worse, potential <a href="https://twitter.com/jacobgorban/status/722889126870065156">last-minute cancellations</a> make Airbnb less reliable. Where I said Airbnb, I should have just said “cheaper hotel”.</p>
+<p>(Alex Cash also has <a href="http://alex.cash/saving-on-wwdc/">tips for saving money at WWDC</a>. Casey Liss has a <a href="https://www.caseyliss.com/2016/4/20/much-ado-about-wwdc">good post about rising hotel prices</a>.)</p>
+<p>Nevertheless, I know some developers are using Airbnb this year, and I’d like to try it next year for a change of pace and scenery away from the conference. With the convenience of Uber, the risk of settling for a place farther away seems low.</p>
+<p>And finally, I’ve enjoyed many recent podcasts about WWDC. Two highlights: <a href="https://www.relay.fm/radar/24">Under the Radar episode 24</a>, where Marco Arment and David Smith share their thoughts on whether to attend the conference; and <a href="https://www.relay.fm/tc/12">Thoroughly Considered 12</a>, about not just WWDC but the value of attending or exhibiting at conferences as a company.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.224 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 14:53:46 -->

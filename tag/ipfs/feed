@@ -8,19 +8,69 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; ipfs</title>
+	<title>ipfs &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/ipfs/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
+		<title>Tim Berners-Lee&#8217;s Solid</title>
+		<link>http://www.manton.org/2016/08/tim-berners-lees-solid.html</link>
+		<pubDate>Fri, 12 Aug 2016 18:53:12 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[indiewebcamp]]></category>
+		<category><![CDATA[ipfs]]></category>
+		<category><![CDATA[microblogging]]></category>
+		<category><![CDATA[microformats]]></category>
+		<category><![CDATA[openweb]]></category>
+		<category><![CDATA[solid]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4174</guid>
+		<description><![CDATA[I’ve written about IPFS before, but Solid (from Tim Berners-Lee himself, among other MIT folks) is another new proposal for a more distributed web. I wasn’t familiar with it until reading this article at Digital Trends, which first makes the case for independent content vs. the big centralized platforms: Now a handful of companies own [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I’ve <a href="http://www.manton.org/2015/09/web-history-and-ipfs.html">written about IPFS</a> before, but <a href="https://solid.mit.edu/">Solid</a> (from Tim Berners-Lee himself, among other MIT folks) is another new proposal for a more distributed web. I wasn’t familiar with it until reading <a href="http://www.digitaltrends.com/web/ways-to-decentralize-the-web/">this article at Digital Trends</a>, which first makes the case for independent content vs. the big centralized platforms:</p>
+<blockquote><p>
+  Now a handful of companies own vast swaths of web activity – Facebook for social networking, Google for searching, eBay for auctions – and quite literally own the data their users have provided and generated. This gives these companies unprecedented power over us, and gives them such a competitive advantage that it’s pretty silly to think you’re going to start up a business that’s going to beat them at their own game.
+</p></blockquote>
+<p>The article continues with the types of data you might share in a Solid application:</p>
+<blockquote><p>
+  For example, you might keep your personal information in one or several pods: the sort of data about yourself that you put into your Facebook profile; a list of your friends, family, and colleagues; your banking information; maps of where you’ve traveled; some health information. That way if someone built a new social networking application—perhaps to compete head-on with Facebook, or, more likely, to offer specialized services to people with shared interests—you could join by giving it permission to access the appropriate information in your pod.
+</p></blockquote>
+<p>One of the showcase applications is called Client-Integrated Micro-Blogging Architecture, surely named mostly for its pronounceable acronym. From the <a href="https://github.com/linkeddata/cimba">CIMBA project site</a>:</p>
+<blockquote><p>
+  CIMBA is a privacy-friendly, decentralized microblogging application that runs in your browser. It is built using the latest HTML5 technologies and Web standards. With CIMBA, people get a microblogging app that behaves like Twitter, built entirely out of parts they can control.
+</p></blockquote>
+<p>Solid and CIMBA are built on the <a href="http://www.w3.org/TR/ldp/">Linked Data Platform</a>, which in turn is based off of RDF. I’m admittedly biased against RDF, because it often brings with it an immediate sense of over-engineering — too abstracted, solving too many problems at once. I’m glad to see this activity around a distributed web, and I’ll be following Solid, but I also continue to believe that the simple microformats and APIs from the <a href="https://indieweb.org/">IndieWebCamp</a> are the best place to start.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>View source on the decentralized web</title>
+		<link>http://www.manton.org/2016/04/view-source-on-the-decentralized-web.html</link>
+		<pubDate>Fri, 15 Apr 2016 15:34:26 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[distributed]]></category>
+		<category><![CDATA[internetarchive]]></category>
+		<category><![CDATA[ipfs]]></category>
+		<category><![CDATA[permanence]]></category>
+		<category><![CDATA[web]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2016/04/view-source-on-the-decentralized-web.html</guid>
+		<description><![CDATA[Brewster Kahle has a post at the Internet Archive about getting back to the &#8220;view source&#8221; feature that made early web development so much more accessible than it is today. He thinks it can be achieved on top of a distributed web where all the HTML and JavaScript files are delivered to the browser: The [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://blog.archive.org/2016/04/05/getting-back-to-view-source-on-the-web-the-movable-web-decentralized-web/">Brewster Kahle has a post at the Internet Archive</a> about getting back to the &#8220;view source&#8221; feature that made early web development so much more accessible than it is today. He thinks it can be achieved on top of a distributed web where all the HTML and JavaScript files are delivered to the browser:</p>
+<blockquote><p>
+  The decentralized web works by having a p2p distribution of the files that make up the website, and then the website runs in your browser. By being completely portable, the website has all the pieces it needs: text, programs, and data. It can all be versioned, archived, and examined.
+</p></blockquote>
+<p>He mentions IPFS in particular, which <a href="http://www.manton.org/2015/09/web-history-and-ipfs.html">I&#8217;ve written about before</a>. The bottom line is that static HTML sites are more portable. They more naturally evolve not just from host to host as necessary, but also to a possible distributed future web. That&#8217;s why that — even though I still use and recommend WordPress — I have a <a href="http://www.manton.org/2015/09/complete-mirror-of-this-blog.html">static mirror of my site too</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>Web history and IPFS</title>
 		<link>http://www.manton.org/2015/09/web-history-and-ipfs.html</link>
-		<comments>http://www.manton.org/2015/09/web-history-and-ipfs.html#comments</comments>
 		<pubDate>Fri, 11 Sep 2015 16:51:32 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -42,11 +92,9 @@
 </p></blockquote>
 <p>I took some time to read through what it can do, and I&#8217;d like to support it for the publishing platform that&#8217;s in my new microblogging project. I don&#8217;t know if it&#8217;s technically feasible yet, but I love that someone is trying to solve this. We just have to start somewhere.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/09/web-history-and-ipfs.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.311 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 15:12:33 -->
+<!-- Dynamic page generated in 0.254 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 14:36:22 -->

@@ -8,19 +8,66 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; applescript</title>
+	<title>applescript &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/applescript/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
+		<title>Thanks to our Core Int listeners</title>
+		<link>http://www.manton.org/2016/11/thanks-to-our-core-int-listeners.html</link>
+		<pubDate>Thu, 24 Nov 2016 18:09:26 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[applescript]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[mac]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[thanksgiving]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4491</guid>
+		<description><![CDATA[Yesterday we published episode 260 of Core Intuition. From the show notes: Daniel and Manton discuss Sal Soghoian’s sudden departure from Apple, and what it may mean for Apple’s future ambitions with automation. Then they react to Apple’s alleged decision to abandon their line of AirPort branded routers, and bemoan the loss of yet another [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Yesterday we published <a href="http://www.coreint.org/2016/11/episode-260-invitation-to-failure/">episode 260</a> of Core Intuition. From the show notes:</p>
+<blockquote><p>
+  Daniel and Manton discuss Sal Soghoian’s sudden departure from Apple, and what it may mean for Apple’s future ambitions with automation. Then they react to Apple’s alleged decision to abandon their line of AirPort branded routers, and bemoan the loss of yet another “just buy the Apple one” peripheral option
+</p></blockquote>
+<p>I liked the topics for our show this week because it allowed us to not just talk about AppleScript as it exists today, but also to reflect on what life developing scriptable apps was like in the early days of AppleScript. It&#8217;s always fun to think back on 1990s Mac development.</p>
+<p>Many of our listeners are celebrating Thanksgiving today. To all of our listeners, whether you&#8217;ve listened since the beginning in 2008 or just recently discovered the podcast, thank you so much for giving our show a chance and for being part of the community. Daniel and I still feel incredibly lucky that we get to chat every week about Apple news and our work as indie developers.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Email archiving with Evernote</title>
+		<link>http://www.manton.org/2016/08/email-archiving-with-evernote.html</link>
+		<pubDate>Fri, 26 Aug 2016 19:10:54 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[applescript]]></category>
+		<category><![CDATA[archiving]]></category>
+		<category><![CDATA[email]]></category>
+		<category><![CDATA[evernote]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4198</guid>
+		<description><![CDATA[For a long time, I&#8217;ve struggled with having important email archived in one place. I&#8217;ve switched between several clients over the years, from Eudora and Mailsmith and even Cyberdog, in the very early Mac days, to more recently the fairly reliable Apple Mail. Yet I still occasionally lose old email when switching between machines and [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>For a long time, I&#8217;ve struggled with having important email archived in one place. I&#8217;ve switched between several clients over the years, from <a href="https://en.wikipedia.org/wiki/Eudora_(email_client)">Eudora</a> and <a href="https://www.mailsmith.org/">Mailsmith</a> and even <a href="https://en.wikipedia.org/wiki/Cyberdog">Cyberdog</a>, in the very early Mac days, to more recently the fairly reliable Apple Mail. Yet I still occasionally lose old email when switching between machines and not handling the migration properly.</p>
+<p>Last year I set out to fix this. While I didn&#8217;t do an exhaustive search of archiving options, the main solutions I considered were:</p>
+<ul>
+<li><strong>Switch to Gmail.</strong> There are plenty of native clients for Gmail, but I fundamentally don&#8217;t like the idea of an ad-supported email service. I&#8217;m very happy with <a href="https://www.fastmail.com/">Fastmail</a> and want to continue using it.</li>
+<li><strong>Local archiving with <a href="http://c-command.com/eaglefiler/">EagleFiler</a>.</strong> This gets the email archived in a central place outside whatever mail client I&#8217;m using, which is great. However, I&#8217;d like something that is focused on cloud search first.</li>
+<li><strong>Save to files on Dropbox.</strong> All of my notes are stored on Dropbox, so why not put an email archive there too? But Dropbox doesn&#8217;t seem well-suited to accessing and searching easily.</li>
+<li><strong>Save to Evernote.</strong> I&#8217;ve never actively used Evernote for notes. Using Evernote for email would keep the email separate from normal notes on Dropbox, and Evernote already has excellent support for forwarding email into their system. I&#8217;d be able to search the archive from my Mac, iPhone, or the web.</li>
+</ul>
+<p>I&#8217;ve settled into a pretty basic workflow of using Evernote to save any email that looks moderately valuable. This is usually a handful of messages each day, not every email I receive or send. By picking and choosing what gets archived, I can ignore everything else, letting it sit in Mail&#8217;s archive indefinitely or deleting it.</p>
+<p><a href="https://gist.github.com/manton/d51e12c93ff00435f929c84890d27717">Here&#8217;s an AppleScript</a> I currently trigger in Mail for any selected message I want to archive. It&#8217;s set to command-shift-S via <a href="http://www.red-sweater.com/fastscripts/">FastScripts</a>. If I&#8217;m away from my Mac, or I want to preserve HTML and inline attachments, I can save an email by forwarding it to a special Evernote email address. (I also pay for Evernote Premium.)</p>
+<p>Now that I&#8217;m about a year and thousands of archived messages into this setup, I&#8217;m declaring it a success. I plan to continue using Evernote in this way for years to come. Let&#8217;s just hope they&#8217;re on the right track <a href="http://www.theverge.com/2016/5/4/11584764/evernote-ceo-chris-oneill-interview">with their own business</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>Clipstart 1.2 ships soooon</title>
 		<link>http://www.manton.org/2009/08/clipstart_12_ships.html</link>
-		<comments>http://www.manton.org/2009/08/clipstart_12_ships.html#comments</comments>
 		<pubDate>Sat, 22 Aug 2009 18:27:43 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -42,13 +89,10 @@
 <p><em>AppleScript support.</em> Just the basics for now, but you can get a list of videos, with tags and other metadata for each.</p>
 <p>Plus some other fixes and Snow Leopard compatibility. I plan to release it in the next couple days, just in case Snow Leopard is released on the 28th as rumored. If you are interested in trying a beta and submitting some last-minute feedback, drop me an email at &#8220;support@riverfold.com&#8221;:support@riverfold.com.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2009/08/clipstart_12_ships.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Clipstart file actions</title>
 		<link>http://www.manton.org/2009/07/clipstart_file_actions.html</link>
-		<comments>http://www.manton.org/2009/07/clipstart_file_actions.html#comments</comments>
 		<pubDate>Fri, 03 Jul 2009 05:31:08 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -89,11 +133,9 @@
 <p><tt>/usr/bin/osascript /path/to/myscript.sh /path/to/movie.avi</tt></p>
 <p>I did this to not require setting +x on the file, but it also seems to be a more convenient way of processing command line arguments when run from osascript.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2009/07/clipstart_file_actions.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.306 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 15:09:09 -->
+<!-- Dynamic page generated in 0.251 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 14:57:06 -->

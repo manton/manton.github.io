@@ -8,19 +8,72 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; podcasting</title>
+	<title>podcasting &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/podcasting/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
+		<title>Only taking my iPad Pro to WWDC</title>
+		<link>http://www.manton.org/2016/06/only-taking-my-ipad-pro-to-wwdc.html</link>
+		<pubDate>Fri, 10 Jun 2016 16:15:32 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[ipad]]></category>
+		<category><![CDATA[microphone]]></category>
+		<category><![CDATA[podcasting]]></category>
+		<category><![CDATA[travel]]></category>
+		<category><![CDATA[wwdc]]></category>
+		<category><![CDATA[wwdc2016]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3980</guid>
+		<description><![CDATA[I&#8217;ll be in San Francisco for WWDC, although as usual in recent years I won&#8217;t be staying all week. While out there I&#8217;ll be attending AltConf and other events, recording a podcast or two, and catching up on some writing. I probably should take my MacBook Pro to code on projects, but I never have [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;ll be in San Francisco for WWDC, although as usual in recent years I won&#8217;t be staying all week. While out there I&#8217;ll be attending AltConf and other events, recording a podcast or two, and catching up on some writing.</p>
+<p>I probably <em>should</em> take my MacBook Pro to code on projects, but I never have time. And I&#8217;ve been working so much lately, I probably need a break from Xcode for a few days. So I&#8217;m going to travel light this time and only take my iPad Pro with me.</p>
+<p>I used my iPad Pro often when working <a href="http://www.manton.org/coffee-shops-austin">from coffee shops</a> and <a href="http://www.manton.org/libraries-austin">libraries</a> earlier this year. I think I have a pretty good sense of what I&#8217;m productive with on it. iPhone and Mac app coding is out, but email, chat, writing blog posts, and even light web site maintenance are all fine, and those are the kind of things I do while traveling.</p>
+<p>That leaves podcast recording as the only question mark, but actually I&#8217;ve recorded every episode of <a href="http://timetable.fm/">Timetable</a> using my iPhone specifically so that I could get used to recording away from my office. I wrote <a href="http://www.manton.org/2016/02/microphone-and-microcast-details.html">a few months ago</a> about my microphone for Timetable. I&#8217;ll do the same thing when Daniel and I record our WWDC thoughts after the keynote, with editing on the iPad Pro.</p>
+<p>I&#8217;m excited about the conference. I&#8217;m looking forward to catching up with folks, the news from Apple, and — because I won&#8217;t even have my laptop — a bit of a break from the stress of thinking I should be programming.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Podcasting lock-in and the lesson from Penn Station</title>
+		<link>http://www.manton.org/2016/05/podcasting-lock-in-and-the-lesson-from-penn-station.html</link>
+		<pubDate>Thu, 12 May 2016 14:40:07 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[nyc]]></category>
+		<category><![CDATA[openweb]]></category>
+		<category><![CDATA[overcast]]></category>
+		<category><![CDATA[pennstation]]></category>
+		<category><![CDATA[podcasting]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3914</guid>
+		<description><![CDATA[When my family was visiting New York City a couple of years ago, we took a train out of Pennsylvania Station on the way up to Montreal for the second half of our vacation. It was raining a little as we walked from the hotel, but I thought we&#8217;d still have no trouble finding the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>When my family was visiting New York City a couple of years ago, we took a train out of Pennsylvania Station on the way up to Montreal for the second half of our vacation. It was raining a little as we walked from the hotel, but I thought we&#8217;d still have no trouble finding the station. After a few minutes we gave up and had to ask someone where the entrance was.</p>
+<p>We couldn&#8217;t find it because it looked like every other street corner in Manhattan. But it wasn&#8217;t always like that. It used to look like this:</p>
+<p><center><img src="http://www.manton.org/images/2016/penn_station.jpg" width="448" height="350" alt="Pennsylvania Station in the 1910s" /></center></p>
+<p>In the 1960s, facing declining train usage and financial problems, the Pennsylvania Railroad sold the rights to everything above ground and the incredible station pictured above was demolished. It was only afterwards, when it actually happened, that everyone fully realized what they had lost. Determined to not let other beautiful architectural landmarks get destroyed, the city passed a law to restrict similar demolition. Grand Central Terminal was preserved because of the lesson learned from letting Pennsylvania Station go.</p>
+<p>I was thinking about this story — failing to do the right thing, but applying that knowledge to the <em>next</em> thing — while re-reading <a href="https://marco.org/2016/05/07/apple-role-in-podcasting">Marco&#8217;s excellent post on the future of podcasting</a>. In it, he lays out the technical details for how podcasting works today, and makes the case for leaving it alone. I especially like this part, on his determination to keep Overcast a sort of pure MP3 client:</p>
+<blockquote><p>
+  By the way, while I often get pitched on garbage podcast-listening-behavioral-data integrations, <strong>I’m never adding such tracking to Overcast.</strong> Never. The biggest reason I made a free, mass-market podcast app was so I could take stands like this.
+</p></blockquote>
+<p>I should have realized it earlier, but I don&#8217;t think I really connected all of Marco&#8217;s goals with Overcast until Daniel Jalkut and I had him on <a href="http://coreint.org/200">Core Intuition episode 200</a>. We talked about many of these same themes as Marco was finishing up Overcast 2.0.</p>
+<p>There&#8217;s also a great discussion <a href="https://www.relay.fm/upgrade/88">on Upgrade</a> about this. It starts <a href="https://overcast.fm/+DeCngCgj8/43:07">about halfway through</a>.</p>
+<p><a href="https://www.macstories.net/stories/a-podcasting-divergence/">In a response to Marco on MacStories</a>, Federico Viticci writes about the parallel trend in the web industry toward centralized services like Facebook and Medium that allow &#8220;content professionals&#8221; to monetize their writing. In doing so, those writers give up many of the benefits of the open web:</p>
+<blockquote><p>
+  But the great thing about the free and decentralized web is that the aforementioned web platforms are optional and they&#8217;re alternatives to an existing open field where independent makers can do whatever they want. I can own my content, offer my RSS feed to anyone, and resist the temptation of slowing down my website with 10 different JavaScript plugins to monitor what my users do. No one is forcing me to agree to the terms of a platform.
+</p></blockquote>
+<p>While the open web still exists, we really dropped the ball protecting and strengthening it. Fewer people&#8217;s first choice for publishing is to start a web site hosted at their own domain. Like the destruction of Pennsylvania Station, sometimes you only know in hindsight that you&#8217;ve made a mistake. We were so caught up in Twitter and Facebook that we let the open web crumble. I&#8217;m not giving up — I think we can get people excited about blogging and owning their own content again — but it would have been easier if we had realized <a href="http://anildash.com/2012/12/the-web-we-lost.html">what we lost</a> earlier.</p>
+<p>Reading posts like Marco&#8217;s and Federico&#8217;s, and listening to Jason and Myke on Upgrade, I&#8217;m convinced that podcasting will remain open because <em>we know better now</em>. As a community we can learn from the mistakes with the web and the threats of closed platforms, making sure that podcasting is preserved as a simple technology that no one controls.</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>Podcasts, showing up every week, and why 2.0 succeeds</title>
 		<link>http://www.manton.org/2016/03/podcasts-showing-up-every-week-and-why-2-0-succeeds.html</link>
-		<comments>http://www.manton.org/2016/03/podcasts-showing-up-every-week-and-why-2-0-succeeds.html#comments</comments>
 		<pubDate>Mon, 28 Mar 2016 16:49:00 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Podcasts]]></category>
@@ -39,13 +92,10 @@
 <p>In a couple months, just as WWDC is about to roll around, we’ll celebrate our 8th anniversary of recording Core Intuition. Our audience keeps growing, which is amazing, but there are still a lot of people who have never heard of the show. If you like what we&#8217;ve been doing, consider telling a friend, or posting a tweet or blog post about the show.</p>
 <p>We expanded to 2 sponsors per episode this year because we wanted to grow the podcast — to commit more time and resources to both recording and to companion web sites like <a href="http://jobs.coreint.org/">the jobs site</a>. I think 2016 will be a great year and I&#8217;m happy that Core Intuition is a key part of helping me stay independent. Thanks for your support!</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/03/podcasts-showing-up-every-week-and-why-2-0-succeeds.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Relay FM&#8217;s first year</title>
 		<link>http://www.manton.org/2015/08/relay-fms-first-year.html</link>
-		<comments>http://www.manton.org/2015/08/relay-fms-first-year.html#comments</comments>
 		<pubDate>Tue, 18 Aug 2015 15:21:34 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Podcasts]]></category>
@@ -70,13 +120,10 @@
 </p></blockquote>
 <p>It&#8217;s fun to watch the rise of podcast networks. It has now been a little over 5 years since I <a href="http://www.manton.org/2010/02/5_by_5.html">first wrote about the 5by5 launch</a>. Daniel and I will probably keep <a href="http://coreint.org/">Core Intuition</a> independent forever, but I hope that the continued success of larger networks means that the overall podcast market is still growing.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/08/relay-fms-first-year.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>5 by 5</title>
 		<link>http://www.manton.org/2010/02/5_by_5.html</link>
-		<comments>http://www.manton.org/2010/02/5_by_5.html#comments</comments>
 		<pubDate>Sat, 27 Feb 2010 18:29:37 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Podcasts]]></category>
@@ -96,11 +143,9 @@
 </p></blockquote>
 <p>I love seeing someone&#8217;s passion, only loosely related to how they earn a living, go from something in the back of their head to a full core business. Good luck, Dan. It&#8217;s off to a great start.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2010/02/5_by_5.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.293 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 15:00:15 -->
+<!-- Dynamic page generated in 0.257 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 14:54:26 -->

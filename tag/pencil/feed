@@ -8,19 +8,18 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; pencil</title>
+	<title>pencil &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/pencil/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
 		<title>Apple Pencil and sequential art tech reviews</title>
 		<link>http://www.manton.org/2016/03/apple-pencil-and-sequential-art-tech-reviews.html</link>
-		<comments>http://www.manton.org/2016/03/apple-pencil-and-sequential-art-tech-reviews.html#comments</comments>
 		<pubDate>Tue, 08 Mar 2016 19:58:37 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Art]]></category>
@@ -35,13 +34,10 @@
 <p>I’d actually love to see this graphic review style used for other products too. It nicely balances against the trend of long written reviews. Both could have their place.</p>
 <p>As for Serenity’s conclusions, I think you’ll hear widespread agreement from artists: the Apple Pencil is significantly better than any other stylus. The palm-rejection alone is reason to get one.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/03/apple-pencil-and-sequential-art-tech-reviews.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>iPad thoughts for 2016</title>
 		<link>http://www.manton.org/2016/01/ipad-thoughts-for-2016.html</link>
-		<comments>http://www.manton.org/2016/01/ipad-thoughts-for-2016.html#comments</comments>
 		<pubDate>Thu, 21 Jan 2016 19:42:59 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -80,13 +76,10 @@
 <p>That missing &#8220;thing&#8221; is clear to me: the Apple Pencil is the best stylus that has ever been made for a device — tablet, desktop, or standalone display. It&#8217;s so good that I assumed I would sell my retina iPad Mini and use the iPad Pro exclusively.</p>
 <p>That hasn&#8217;t happened. I realized when making the choice of <a href="http://www.manton.org/2015/12/3255.html">which iPad to take downtown the other week</a> that the Mini is still my favorite size. I hope as part of the next phase to Apple&#8217;s iPad platform that the Pencil makes it down to the rest of the iPads. It&#8217;s important that developers can count on the common availability of the stylus, just as we can count on multitasking and app extensions to set the pace of UI progress for the platform.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/01/ipad-thoughts-for-2016.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Apple Pencil, for real</title>
 		<link>http://www.manton.org/2015/11/apple-pencil-for-real.html</link>
-		<comments>http://www.manton.org/2015/11/apple-pencil-for-real.html#comments</comments>
 		<pubDate>Mon, 30 Nov 2015 17:42:44 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -107,13 +100,10 @@
 </p></blockquote>
 <p>I&#8217;ve also been improving the Apple Pencil support in an iPad app I&#8217;m working on. I haven&#8217;t completely finished reading <a href="http://www.russbishop.net/uitouchtypestylus">Russ Bishop&#8217;s article</a> on supporting the Apple Pencil, but looks like it has a bunch of additional tips in it that I&#8217;d benefit from. It covers not just the API changes to UITouch, but also gestures, coalescing, and predictive touches.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/11/apple-pencil-for-real.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>The incomplete iPad Pro</title>
 		<link>http://www.manton.org/2015/11/the-incomplete-ipad-pro.html</link>
-		<comments>http://www.manton.org/2015/11/the-incomplete-ipad-pro.html#comments</comments>
 		<pubDate>Wed, 11 Nov 2015 20:36:05 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[User Experience]]></category>
@@ -128,11 +118,9 @@
 <p>I don&#8217;t think I&#8217;ve ever been less excited to walk out of a store with a brand new $800 gadget. The iPad Pro has <em>so much potential</em>. I think it&#8217;s going to be a success and I&#8217;m building apps for it. But without the Pencil and keyboard, a significant part of the appeal is missing. And worse, developers who need a Pencil to start testing their apps — especially those apps like the one I&#8217;m working on that already supports third-party stylus pressure — are put at a month-long disadvantage compared to Adobe and the other early partners.</p>
 <p>I enjoyed reading the iPad Pro reviews this morning, especially from <a href="http://daringfireball.net/2015/11/the_ipad_pro">Daring Fireball</a> and <a href="https://www.macstories.net/stories/ipad-pro-review/#software-keyboard">MacStories</a>. But those reviews describe a product that just doesn&#8217;t exist today. The iPad Pro as advertised on Apple&#8217;s web site and in beautiful marketing videos isn&#8217;t ready, and I wish Apple had delayed the whole launch until they could deliver these important accessories for a complete user experience.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/11/the-incomplete-ipad-pro.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.315 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 14:59:44 -->
+<!-- Dynamic page generated in 0.250 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 14:54:49 -->

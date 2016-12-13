@@ -8,19 +8,18 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; ios</title>
+	<title>ios &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/ios/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
 		<title>Navigation controllers on the Mac</title>
 		<link>http://www.manton.org/2016/04/navigation-controllers-on-the-mac.html</link>
-		<comments>http://www.manton.org/2016/04/navigation-controllers-on-the-mac.html#comments</comments>
 		<pubDate>Tue, 05 Apr 2016 15:43:47 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -40,13 +39,10 @@
 <p>Brent&#8217;s right that most Mac apps don&#8217;t need navigation controllers. I don&#8217;t think I&#8217;d have any use for them in my Mac app, <a href="http://www.riverfold.com/software/clipstart/">Clipstart</a>, for example. But navigation controllers are becoming more common in Mac apps, starting with Twitter apps especially. I expect an important part of Iconfactory&#8217;s work on <a href="http://chameleonproject.org/">the Chameleon framework</a> to bring Twitterrific to the Mac was supporting navigation controllers.</p>
 <p>I&#8217;ll always consider myself a Mac developer first, even though most of what I do these days is on iOS and for the web. I&#8217;d definitely welcome UIKit for Mac. I&#8217;m getting closer to announcing a new iPhone app and web platform, and while I have a Mac version in development too, I can&#8217;t justify the time right now to finish it. UIKit for Mac would make that decision much easier.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/04/navigation-controllers-on-the-mac.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>App Store delivery truck</title>
 		<link>http://www.manton.org/2015/07/app-store-delivery-truck.html</link>
-		<comments>http://www.manton.org/2015/07/app-store-delivery-truck.html#comments</comments>
 		<pubDate>Fri, 03 Jul 2015 20:34:40 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -63,13 +59,10 @@
 </p></blockquote>
 <p>I really like this analogy. However, if you take everything Charles says as truth, it reveals an even more serious problem: the 30% that Apple charges for distributing bits on their truck is outrageous. It’s flat-out <em>wrong</em> to charge such a high percentage if they are providing no value above credit card processing and file hosting.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/07/app-store-delivery-truck.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Microblogging with Typed.com</title>
 		<link>http://www.manton.org/2015/07/microblogging-with-typed-com.html</link>
-		<comments>http://www.manton.org/2015/07/microblogging-with-typed-com.html#comments</comments>
 		<pubDate>Thu, 02 Jul 2015 21:05:03 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Weblogs]]></category>
@@ -92,13 +85,10 @@
 </p></blockquote>
 <p>He details a way to send short microblog posts to Typed.com by using Drafts and Editorial. Check out the full post for his JavaScript and Python scripts linking these apps together on iOS. I’m really looking forward to Typed.com’s official launch.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/07/microblogging-with-typed-com.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Apple Music and free Beats 1</title>
 		<link>http://www.manton.org/2015/06/apple-music-and-free-beats-1.html</link>
-		<comments>http://www.manton.org/2015/06/apple-music-and-free-beats-1.html#comments</comments>
 		<pubDate>Tue, 30 Jun 2015 17:49:27 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Music]]></category>
@@ -121,13 +111,10 @@
 </p></blockquote>
 <p>Beats 1 is one of the more interesting aspects of Apple Music to me. I just signed up for the trial and plan to continue at the $15/month family subscription.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/06/apple-music-and-free-beats-1.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>iOS 9 search</title>
 		<link>http://www.manton.org/2015/06/ios-9-search.html</link>
-		<comments>http://www.manton.org/2015/06/ios-9-search.html#comments</comments>
 		<pubDate>Wed, 17 Jun 2015 14:38:54 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -144,13 +131,10 @@
 </p></blockquote>
 <p>I’ve been slowly going through WWDC session videos, but haven’t cracked open the documentation for search yet. Sounds like an important new API for any app that has user documents.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/06/ios-9-search.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Requiring the latest OS</title>
 		<link>http://www.manton.org/2014/02/requiring_the_latest.html</link>
-		<comments>http://www.manton.org/2014/02/requiring_the_latest.html#comments</comments>
 		<pubDate>Sun, 09 Feb 2014 18:40:32 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -167,13 +151,10 @@
 </p></blockquote>
 <p>Good advice. And remember, very few developers actually ship on time. Even if you think your app is going to ship before the next major version of the OS does, your app will probably be late. More people will be able to run it than you first expected.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/02/requiring_the_latest.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Tweet Library 2.4</title>
 		<link>http://www.manton.org/2013/10/tweet_library_24.html</link>
-		<comments>http://www.manton.org/2013/10/tweet_library_24.html#comments</comments>
 		<pubDate>Thu, 31 Oct 2013 15:42:38 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -187,13 +168,10 @@
 <p>The App Store screenshots weren’t updated yet, so I put together <a href="http://sunlit.io/manton/tweetlibrary24">some screenshots using Sunlit here</a>.</p>
 <p>I’m pretty happy with how this release turned out, but there’s still more work to do. I’ll be following up this release with some additional improvements specifically for iOS 7 soon. You can grab version 2.4 <a href="http://itunes.apple.com/app/tweet-library/id365768793?mt=8">from the App Store here</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/10/tweet_library_24.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Watermark for iOS</title>
 		<link>http://www.manton.org/2012/10/watermark_for_ios.html</link>
-		<comments>http://www.manton.org/2012/10/watermark_for_ios.html#comments</comments>
 		<pubDate>Thu, 18 Oct 2012 22:37:10 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -215,13 +193,10 @@
 </ul>
 <p>While I’d eventually love to have a more full-featured client like Tweet Library available for Watermark, after a quick weekend of hacking I decided that Watermark Mobile was already useful enough that I should release it. So I did.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2012/10/watermark_for_ios.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Podcasts app</title>
 		<link>http://www.manton.org/2012/06/podcasts_app.html</link>
-		<comments>http://www.manton.org/2012/06/podcasts_app.html#comments</comments>
 		<pubDate>Tue, 26 Jun 2012 19:24:46 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Podcasts]]></category>
@@ -236,13 +211,10 @@
 <p>It&#8217;s never easy for developers when Apple arrives into your market with free competition, especially if it might one day be bundled on the OS alongside the Music and Videos apps. I wish the third-party guys the best of luck.</p>
 <p>But for podcast creators, the extra exposure can only be a good thing. I hope we can welcome even more listeners to our Core Intuition podcast. We just opened a new way to send in feedback and questions, too: <a href="http://glassboard.com/">Glassboard</a>. Use invite code COREINT on the web or iPhone app to join the board and get a little behind-the-scenes look into the podcast.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2012/06/podcasts_app.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>360iDev Austin (in tweets)</title>
 		<link>http://www.manton.org/2010/12/360idev_austin_in.html</link>
-		<comments>http://www.manton.org/2010/12/360idev_austin_in.html#comments</comments>
 		<pubDate>Wed, 15 Dec 2010 17:08:04 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Events]]></category>
@@ -258,11 +230,9 @@
 <p>And my main concern leading into the conference &mdash; that the hotel location would make it difficult for people to head downtown or see other parts of Austin &mdash; turned out to be mostly a non-issue. I had a great time hanging out with everyone in the evening, and hope some of you will be back for SXSW.</p>
 <p>I used Tweet Library to &#8220;collect about 120 tweets from attendees&#8221;:http://www.tweetlibrary.com/manton/360idevaustin at the conference: reaction to sessions, quotes, speaker slide URLs, dinner out, and more. Capturing an event like this is why I built the app. What you had for dinner isn&#8217;t interesting by itself, but <em>in context</em> it is powerful because it tells a story.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2010/12/360idev_austin_in.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.338 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 13:58:49 -->
+<!-- Dynamic page generated in 0.283 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 14:41:15 -->

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>billgraham &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/billgraham/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Don&#8217;t give up on WWDC</title>
+		<link>http://www.manton.org/2016/04/dont-give-up-on-wwdc.html</link>
+		<pubDate>Wed, 20 Apr 2016 19:13:07 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[altconf]]></category>
+		<category><![CDATA[billgraham]]></category>
+		<category><![CDATA[releasenotes]]></category>
+		<category><![CDATA[sanfrancisco]]></category>
+		<category><![CDATA[wwdc]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3899</guid>
+		<description><![CDATA[There’s a nice sale going on across several smaller, regional developer conferences right now. I think any of these conferences would be a great experience, so if you’re considering one you could save $100 by acting now. I wanted to comment on something Joe Cieplinski said about WWDC while linking to this promotion: Folks say [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://medium.com/@iOSMacConfs/finding-san-francisco-too-expensive-you-aren-t-alone-a4ecc7871245">There’s a nice sale</a> going on across several smaller, regional developer conferences right now. I think any of these conferences would be a great experience, so if you’re considering one you could save $100 by acting now.</p>
+<p>I wanted to comment on <a href="http://www.joecieplinski.com/blog/2016/04/19/conferences-get-together-for-a-special-offer/">something Joe Cieplinski said</a> about WWDC while linking to this promotion:</p>
+<blockquote><p>
+  Folks say that WWDC is the one time where <em>everyone</em> in our community can get together, but frankly, the price of hotels in San Francisco has made that statement a bit disingenuous. Many—if not most—of us can’t afford to make it to this party, so maybe this is no longer the party for “everyone.”
+</p></blockquote>
+<p><a href="http://blog.curtisherbert.com/wwdc-the-san-francisco-problem/">Curtis Herbert</a> also echoed some of these themes in a post:</p>
+<blockquote><p>
+  While it&#8217;s a shame to end the WWDC tradition, it makes sense to follow all the other technical communities out there and rely on smaller, more accessible and distributed, community-run conferences throughout the year. It&#8217;s a sign that our community growing up and leaving the nest. One city can&#8217;t hold us all anymore.
+</p></blockquote>
+<p>I think it’s possible to go out to WWDC without spending a fortune. You can attend AltConf, find an Airbnb room for $150/night, and stay a few days instead of all week. I downgraded my expectations for WWDC and booked a cheaper hotel room a couple of months ago. It’s about how much you want to be there.</p>
+<p>In fact, I’d still argue that it’s less expensive to “attend” WWDC now because it has been <em>proven</em> how much you can get out of AltConf and other events without the $1600 conference ticket. When I went to my first WWDC back when it was held in San Jose (and the same could be said for the early years in San Francisco), hotels and flights were cheaper but it was pointless to attend without a ticket.</p>
+<p>I can’t go to every conference. This year I’ve picked 2: WWDC (probably without a ticket) and Release Notes (in September). <a href="http://www.manton.org/2015/10/release-notes-2015.html">I wrote about Release Notes last year</a> and highly recommend it again.</p>
+<p>But I stand by the opinion that WWDC is worth preserving as the best place for everyone to go — with or without a ticket, with or without a fancy hotel room — because there’s room for thousands of more developers than at a small conference. I hope that Apple’s change of venue for the keynote and Monday sessions means they are trying to expand the conference to even more developers.</p>
+<p>I’m so excited about Monday’s new venue that I’m actually thinking about trying to get a ticket in the lottery, to experience what it’s like and what it means for the conference going forward. The main thing holding me back is that it seems wasteful if I’m not staying through Friday, when another developer — maybe someone who hasn’t attended before — could get that ticket instead.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.233 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 15:04:00 -->

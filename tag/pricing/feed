@@ -8,19 +8,39 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; pricing</title>
+	<title>pricing &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/pricing/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
+		<title>Core Intuition 253 and Google</title>
+		<link>http://www.manton.org/2016/10/core-intuition-253-and-google.html</link>
+		<pubDate>Thu, 06 Oct 2016 15:11:56 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[omni]]></category>
+		<category><![CDATA[pricing]]></category>
+		<category><![CDATA[releasenotes]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4331</guid>
+		<description><![CDATA[We posted Core Intuition episode 253 this morning. From the show notes: Manton and Daniel discuss Manton&#8217;s experience at the Release Notes conference, talk about the rationale for supporting what might be considered edge-case behaviors in apps, and dig deeper into questions of freemium pricing, reflecting on the Omni Group&#8217;s pertinent announcements. Finally they talk [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We posted <a href="http://www.coreint.org/2016/10/episode-253-great-to-have-an-excuse/">Core Intuition episode 253</a> this morning. From the show notes:</p>
+<blockquote><p>
+  Manton and Daniel discuss Manton&#8217;s experience at the Release Notes conference, talk about the rationale for supporting what might be considered edge-case behaviors in apps, and dig deeper into questions of freemium pricing, reflecting on the Omni Group&#8217;s pertinent announcements. Finally they talk briefly about Google&#8217;s latest announcements and what their competition means to Apple.
+</p></blockquote>
+<p>Google must be doing something right with their announcements, because yesterday my son told me he wants to get a Pixel when it&#8217;s time to replace his iPhone 5S. And as much as I love our Amazon Echo, I can see Google Home taking off if it&#8217;s well-integrated with existing Google services.</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>A great developer can come from anywhere</title>
 		<link>http://www.manton.org/2015/10/a-great-developer-can-come-from-anywhere.html</link>
-		<comments>http://www.manton.org/2015/10/a-great-developer-can-come-from-anywhere.html#comments</comments>
 		<pubDate>Wed, 21 Oct 2015 21:43:27 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -54,13 +74,10 @@
 <p>Rewind a handful of years, back to that day at SXSW when I could name plenty of developers who had more attention and success in our community than Marco Arment. You can be damn sure that didn&#8217;t discourage him from taking Instapaper from an &#8220;in my spare time&#8221; niche app to the top of the News section on the App Store.</p>
 <p>I&#8217;ll never accept the implied negativity in the &#8220;that&#8217;s fine for Marco&#8221; argument. I&#8217;ll never accept that we should be <em>jealous</em> of another developer&#8217;s success instead of <em>inspired</em> by it to do our best work.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/10/a-great-developer-can-come-from-anywhere.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Jurewitz on features, pricing</title>
 		<link>http://www.manton.org/2013/04/jurewitz_on_features.html</link>
-		<comments>http://www.manton.org/2013/04/jurewitz_on_features.html#comments</comments>
 		<pubDate>Tue, 02 Apr 2013 16:34:23 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -80,13 +97,10 @@
 <p>This is good advice that I need to take to heart. I don’t have much problem shipping. But my apps often have some rough edges at 1.0.</p>
 <p>Also don’t miss Jurewitz’s great <a href="http://mjtsai.com/blog/2013/04/01/understanding-app-store-pricing/">5-part series on App Store pricing</a>. I’m linking to Michael Tsai’s summary here, since it provides nice quotes and links to each part in the series. I saw the talk that these blog posts were based on twice, at Çingleton and NSConference, and this has to be the best translation of a conference session into blog form I’ve ever seen. Not to be missed.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/04/jurewitz_on_features.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Tweet Library price follow-up</title>
 		<link>http://www.manton.org/2012/11/tweet_library_price-2.html</link>
-		<comments>http://www.manton.org/2012/11/tweet_library_price-2.html#comments</comments>
 		<pubDate>Wed, 14 Nov 2012 23:06:49 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -101,13 +115,10 @@
 <p><img src="http://www.manton.org/images/2012/tweetlibrary_pricecut.png" alt="Tweet Library price cut" border="0" width="500" height="182" /></p>
 <p>Downloads were up 175%. Profit was up 40%. My gut feeling is that I should have dropped the price to $7.99 instead of $4.99, but I’m wary of changing anything again right now. We’ll see what next month looks like.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2012/11/tweet_library_price-2.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Tweet Library price cut</title>
 		<link>http://www.manton.org/2012/10/tweet_library_price.html</link>
-		<comments>http://www.manton.org/2012/10/tweet_library_price.html#comments</comments>
 		<pubDate>Thu, 18 Oct 2012 19:14:58 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -127,13 +138,10 @@
 </p></blockquote>
 <p>Pricing is something I am still very fascinated by, especially this constant pull between how we value our own software and how pragmatic we want to be as a business. I’m going to let Tweet Library sit at $4.99 for a month, and if revenue is not obviously greater than what it would have been, I’ll bump it back to $10 or a middle-ground $7.99.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2012/10/tweet_library_price.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Subscription change, new features</title>
 		<link>http://www.manton.org/2012/07/subscription_change_new.html</link>
-		<comments>http://www.manton.org/2012/07/subscription_change_new.html#comments</comments>
 		<pubDate>Sat, 07 Jul 2012 12:11:06 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -153,13 +161,10 @@
 <p><a href="http://tweetmarker.net/plus/account">The screenshots linked on the account page</a> include an example of how collections work.</p>
 <p>As a bonus for Mac users, there&#8217;s also a new menubar search app. This little Mac app hides in the menubar and gives quick access to searching your Tweet Marker Plus timeline and archive. <a href="http://www.riverfold.com/software/tweetmarker/screenshots/menu_search.png">Here&#8217;s a screenshot</a> of what version 1.0 looks like.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2012/07/subscription_change_new.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>App Store 30% cut</title>
 		<link>http://www.manton.org/2011/01/app_store_30.html</link>
-		<comments>http://www.manton.org/2011/01/app_store_30.html#comments</comments>
 		<pubDate>Sun, 09 Jan 2011 18:47:50 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -185,13 +190,10 @@
 <p>There are many great people at Apple. Individually I know they are passionate about making good products and helping developers succeed, but collectively it seems like no one person is running the show. The developer-facing side of the company needs to have the freedom to become more transparent, to work closely with the iTunes Connect support team when developers need an answer. Apple&#8217;s secrecy cripples their ability to have a positive relationship with developers.</p>
 <p>So do I think the 30% cut is too much? No, not for a straight answer. That would be priceless.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2011/01/app_store_30.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>$10 iPad apps</title>
 		<link>http://www.manton.org/2010/06/10_ipad_apps.html</link>
-		<comments>http://www.manton.org/2010/06/10_ipad_apps.html#comments</comments>
 		<pubDate>Thu, 24 Jun 2010 05:39:56 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -237,13 +239,10 @@
 <blockquote><p>&#8220;More of their customers notice and demand great design and polish. More sales come from people who have heard of your product first and seek it out by name. Many of these apps are priced above $0.99. These are unlikely to have giant bursts of sales, and hardly any will come close to matching the revenue of the high-profile success stories, but they have a much greater chance of building sustained, long-term income.&#8221;</p></blockquote>
 <p>We&#8217;re three months into the iPad, just passed 3 million devices sold, and not every app has dropped to near-free. I think $10 iPad apps in particular are going to remain pretty common.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2010/06/10_ipad_apps.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Worthless apps</title>
 		<link>http://www.manton.org/2009/12/worthless_apps.html</link>
-		<comments>http://www.manton.org/2009/12/worthless_apps.html#comments</comments>
 		<pubDate>Thu, 10 Dec 2009 15:17:10 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -259,13 +258,10 @@
 <p>So to take the Mobile Orchard analysis a little further: no one feels guilty judging a free app harshly with a 1-star rating because <em>even the developer thinks the app is literally worthless</em>.</p>
 <p>Sure, there are good reasons to have a free app. To complement another paid service or desktop app, as a demo for a game or full version, or to &#8220;make $125,000/month in ad revenue&#8221;:http://fingergaming.com/2009/12/02/paper-toss-developer-earns-125000-in-monthly-ad-revenue/. In fact half the ideas I had for iPhone apps would have been free. But I don&#8217;t think any of that changes the truth of what Mobile Orchard said, that free stuff isn&#8217;t respected as much as something the customer is personally invested in.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2009/12/worthless_apps.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Follow-up on family packs</title>
 		<link>http://www.manton.org/2009/01/followup_on_family.html</link>
-		<comments>http://www.manton.org/2009/01/followup_on_family.html#comments</comments>
 		<pubDate>Thu, 08 Jan 2009 04:04:30 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -282,31 +278,9 @@
 <p>I&#8217;ll leave you with this chart for 2008 sales. August was shiny-new-version month.</p>
 <div style="text-align:center;"><img src="http://www.manton.org/images/2009/sales_2008.png" alt="Sales 2008" border="0" width="373" height="153" /></div>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2009/01/followup_on_family.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>The 99-cent message</title>
-		<link>http://www.manton.org/2008/12/the_99cent_message.html</link>
-		<comments>http://www.manton.org/2008/12/the_99cent_message.html#comments</comments>
-		<pubDate>Sat, 13 Dec 2008 04:15:12 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Business]]></category>
-		<category><![CDATA[appstore]]></category>
-		<category><![CDATA[iphone]]></category>
-		<category><![CDATA[pricing]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/2008/12/the_99cent_message.html</guid>
-		<description><![CDATA[Forget the developer perspective for a minute. Even as a user I find the race-to-the-bottom iPhone price drops completely maddening. I&#8217;ve bought apps for $5 and $10, and now many of those prices have either been cut in half or lowered to 99 cents. I felt like I got my money&#8217;s worth at the higher [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Forget the developer perspective for a minute. Even as a user I find the race-to-the-bottom iPhone price drops completely maddening. I&#8217;ve bought apps for $5 and $10, and now many of those prices have either been cut in half or lowered to 99 cents. I felt like I got my money&#8217;s worth at the higher price, so I&#8217;m not complaining that I was ripped off. Instead, I just feel like a fool.</p>
-<p>But I&#8217;ve learned my lesson. The message from developers could not be more clear. Apparently the way to buy iPhone software is just to wait a month for the price to drop.</p>
-<p>I realized this week that I don&#8217;t consider myself an iPhone developer. Technically I&#8217;ve paid my $99, but I&#8217;ve scrapped all my ideas except a prototype I&#8217;m working on for &#8220;VitalSource&#8221;:http://www.vitalsource.com/, and even that I expect someone else to finish and bring to market. If I was an independent iPhone developer I&#8217;d be furious at the instability of pricing on the App Store. Even to users it looks like chaos.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2008/12/the_99cent_message.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.402 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 15:00:03 -->
+<!-- Dynamic page generated in 0.308 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 14:57:19 -->

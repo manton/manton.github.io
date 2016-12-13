@@ -8,19 +8,163 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; Programming</title>
+	<title>Programming &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/category/programming/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 15:09:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
+		<title>Workflow update for web APIs</title>
+		<link>http://www.manton.org/2016/10/workflow-update-for-web-apis.html</link>
+		<pubDate>Wed, 19 Oct 2016 14:34:50 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[apis]]></category>
+		<category><![CDATA[automation]]></category>
+		<category><![CDATA[github]]></category>
+		<category><![CDATA[web]]></category>
+		<category><![CDATA[workflow]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4384</guid>
+		<description><![CDATA[Federico Viticci has an overview and examples for the latest Workflow for iOS release, which adds more advanced features for calling into web APIs. It looks great: For those who are only partially familiar with the terminology, this means that Workflow can communicate with the majority of modern services that come with a web API. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://www.macstories.net/ios/workflow-update-brings-ability-to-interact-with-any-web-api/">Federico Viticci has an overview</a> and examples for the latest Workflow for iOS release, which adds more advanced features for calling into web APIs. It looks great:</p>
+<blockquote><p>
+  For those who are only partially familiar with the terminology, this means that Workflow can communicate with the majority of modern services that come with a web API. If you&#8217;ve never worked with web APIs before, it&#8217;ll take you a few hours of reading and experiments with dictionaries, token authentications, form requests, and file uploads to get the gist of how it works. But, the Workflow team has managed to make what tends to be a visually unintuitive programming task – assembling dictionaries and structuring <a href="http://www.json.org/">JSON</a> – as simple and attractive as possible, abstracting many of the complexities that web developers have to deal with in desktop IDEs and command-line tools.
+</p></blockquote>
+<p>Here&#8217;s another nice example of automatically creating GitHub Gists, <a href="https://www.jordanmerrick.com/posts/workflow-and-apis/">from Jordan Merrick</a>:</p>
+<blockquote><p>
+  <a href="https://workflow.is/workflows/f401a725d68c476d8d95a90abcc36b5d">This is a workflow</a> I’ve always wanted to create, and the new API support makes it possible. <a href="https://gist.github.com/discover">Gists</a> are great to share small pieces of text information, such as code snippets or scripts. This action extension workflow accepts files of any type (though they must be text-based) and creates a <a href="https://gist.github.com/jordanmerrick/9f619c0aaffffd5bb46fad71e73e1477">gist</a> using the <a href="https://developer.github.com/v3/gists/">GitHub API</a>.
+</p></blockquote>
+<p>Workflow can now take over many web tasks that previously required either writing scripts or depending on hosted solutions like IFTTT and Zapier. Like <a href="http://www.manton.org/2016/03/blogging-your-photos.html">my workflow for posting photos to my blog</a>, it&#8217;s a natural tool for web publishing and microblogging.</p>
+<p>I&#8217;d also love to see a Mac version of Workflow one day. I do some limited automation on my Mac, but AppleScript and Automator aren&#8217;t as easy to use or as well-maintained as Workflow.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Rewriting in Rails 5</title>
+		<link>http://www.manton.org/2016/09/rewriting-in-rails-5.html</link>
+		<pubDate>Sat, 10 Sep 2016 14:52:28 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[dhh]]></category>
+		<category><![CDATA[ember]]></category>
+		<category><![CDATA[frameworks]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[rails]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4281</guid>
+		<description><![CDATA[I&#8217;ve been doing Ruby on Rails work again. Although my indie web projects are all Sinatra, I generally recommend to clients that Rails is the way to go. Rails will be easier for them if someone else ever needs to take over the project. I don&#8217;t like using 2 products that do the same thing, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;ve been doing Ruby on Rails work again. Although my indie web projects are all Sinatra, I generally recommend to clients that Rails is the way to go. Rails will be easier for them if someone else ever needs to take over the project.</p>
+<p>I don&#8217;t like using 2 products that do the same thing, though. That&#8217;s why I consolidated my web app hosting to Linode, and my source code to GitHub. Why should I switch between 2 frameworks, especially since Rails has matured so well? I&#8217;m enjoying Rails 5.</p>
+<p>David Heinemeier Hansson said <a href="https://interviews.slashdot.org/story/16/08/30/1759216/the-slashdot-interview-with-ruby-on-rails-creator-david-heinemeier-hansson">in an interview on Slashdot</a>, about the rise of JavaScript front-end frameworks:</p>
+<blockquote><p>
+  But it seems like that&#8217;s one of the lessons people have to learn by themselves. Just try to string things together on your own a few times and you&#8217;ll quickly get an appreciation for what Rails provides as a backend framework. We&#8217;ve had tons of programmers try just that and come back for refuge.
+</p></blockquote>
+<p>It struck home because I&#8217;ve had some regrets with choosing Ember.js for my new app. Part of that is my own lack of experience with the framework. But also I&#8217;m no longer convinced that the heavily JavaScript-based view layout of something like Ember.js is better than <a href="https://github.com/turbolinks/turbolinks">Turbolinks</a>, for example. I plan to rewrite my app in Rails and more classic Ajax at the earliest opportunity.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Mac App Store developer survey</title>
+		<link>http://www.manton.org/2016/08/mac-app-store-developer-survey.html</link>
+		<pubDate>Tue, 16 Aug 2016 20:04:20 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[clipstart]]></category>
+		<category><![CDATA[devmate]]></category>
+		<category><![CDATA[macappstore]]></category>
+		<category><![CDATA[sandboxing]]></category>
+		<category><![CDATA[survey]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4182</guid>
+		<description><![CDATA[DevMate surveyed 679 Mac developers to put together a report on who is using the Mac App Store vs. selling direct, what concerns developers have, which tools they use, and more. On why developers leave the Mac App Store: If you’re thinking giving away 30% of your hard-earned revenue is the deal-breaker, you’d be surprised. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://devmate.com/mac-dev-survey">DevMate surveyed 679 Mac developers</a> to put together a report on who is using the Mac App Store vs. selling direct, what concerns developers have, which tools they use, and more. On why developers leave the Mac App Store:</p>
+<blockquote><p>
+  If you’re thinking giving away 30% of your hard-earned revenue is the deal-breaker, you’d be surprised. Revenue share is not the main reason developers flee. The main reason is the long and unclear App Review process, closely followed by revshare and the absence of trial versions.
+</p></blockquote>
+<p>While sandboxing does show up on the complaint list, it’s ranked low as a reason to not use the Mac App Store, even though <a href="http://www.manton.org/2012/02/sandboxing_and_clipstart.html">it was why</a> I pulled my app Clipstart from the Mac App Store 4 years ago. And not much has changed since I wrote about Sketch and other apps leaving the Mac App Store <a href="http://www.manton.org/2015/12/too-late-to-save-the-mas.html">last year</a>.</p>
+<p>For anyone who has been following blog posts and conference talks about the Mac App Store, there won&#8217;t be many surprises in this new survey, but I found the details interesting. The survey appears to be a good snapshot of how the Mac community is feeling about selling software.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Swift server benchmarks</title>
+		<link>http://www.manton.org/2016/06/swift-server-benchmarks.html</link>
+		<pubDate>Fri, 03 Jun 2016 12:37:21 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[servers]]></category>
+		<category><![CDATA[swift]]></category>
+		<category><![CDATA[vapor]]></category>
+		<category><![CDATA[webapps]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3959</guid>
+		<description><![CDATA[Interesting Swift web server article comparing Vapor, which I tested last week, to other web server frameworks: This first post will cover input, i.e. request data. Fetching input from a request, ensuring it is the correct type, and most importantly, not crashing. These are common tasks that most web developers deal with daily. All of [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://medium.com/@qutheory/server-side-swift-vs-the-other-guys-1-input-ec48d7be37b7#.5mou8yl1a">Interesting Swift web server article</a> comparing Vapor, which <a href="http://www.manton.org/2016/05/core-intuition-234-and-vapor.html">I tested last week</a>, to other web server frameworks:</p>
+<blockquote><p>
+  This first post will cover input, i.e. request data. Fetching input from a request, ensuring it is the correct type, and most importantly, not crashing. These are common tasks that most web developers deal with daily. All of the frameworks have their own unique way of doing these tasks–Let’s see how they contrast.
+</p></blockquote>
+<p>There is some further discussion from fans of other languages in the comments. Overall I think the article was fair. I’m not sure about the focus on “crashing”, though. This seems like a carryover from pro-Swift arguments on the desktop or mobile, and it has less relevance on the web.</p>
+<p>For some web apps, it might be fine to throw an exception on bad input data, since it’s caught automatically and returned as a 500 error. I wouldn’t call that a crash anymore than I would call it a crash for a Mac app to present a generic error dialog on unexpected errors.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Swift and sharp knives</title>
+		<link>http://www.manton.org/2016/05/swift-and-sharp-knives.html</link>
+		<pubDate>Mon, 23 May 2016 15:36:35 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[dhh]]></category>
+		<category><![CDATA[dynamic]]></category>
+		<category><![CDATA[ruby]]></category>
+		<category><![CDATA[swift]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3936</guid>
+		<description><![CDATA[David Heinemeier Hansson has a great post today about Ruby’s advanced dynamic features. Some people would criticize Ruby (and Rails) for including “sharp knives in its drawer of features”, but David argues that it’s a worthwhile tradeoff to give developers such power and flexibility: There’s nothing programmatically in Ruby to stop you using its sharp [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://m.signalvnoise.com/provide-sharp-knives-cc0a22bf7934">David Heinemeier Hansson has a great post today</a> about Ruby’s advanced dynamic features. Some people would criticize Ruby (and Rails) for including “sharp knives in its drawer of features”, but David argues that it’s a worthwhile tradeoff to give developers such power and flexibility:</p>
+<blockquote><p>
+  There’s nothing programmatically in Ruby to stop you using its sharp knives to cut ties with reason. We enforce such good senses by convention, by nudges, and through education. Not by banning sharp knives from the kitchen and insisting everyone use spoons to slice tomatoes.
+</p></blockquote>
+<p>Given the <a href="http://mjtsai.com/blog/2016/05/21/dynamic-swift-2/">recent discussions</a> from the Apple community, I couldn’t stop thinking of Swift as I read David’s post. I wouldn’t go as far as saying that Swift is a dull knife; there is a lot to like about the language, and I feel reasonably productive in it now. But David’s “paternalism” line nevertheless rings true to me, that the Swift compiler is trying to protect us from ourselves.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Apple&#8217;s mindset on Swift dynamic features</title>
+		<link>http://www.manton.org/2016/05/apples-mindset-on-swift-dynamic-features.html</link>
+		<pubDate>Sun, 15 May 2016 16:50:08 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[dynamic]]></category>
+		<category><![CDATA[macworld]]></category>
+		<category><![CDATA[nextstep]]></category>
+		<category><![CDATA[objc]]></category>
+		<category><![CDATA[swift]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3927</guid>
+		<description><![CDATA[I let myself go off into a bit of a Swift rant on the latest Core Intuition. I’ve been doing a lot of Swift development recently. The more I use it, the more conflicted I am. I really love some parts of the language, but it’s not what I would have asked for as a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I let myself go off into a bit of a Swift rant on <a href="http://coreint.org/232">the latest Core Intuition</a>. I’ve been doing a lot of Swift development recently. The more I use it, the more conflicted I am. I really love some parts of the language, but it’s not what I would have asked for as a successor to Objective-C 2.0.</p>
+<p>Remember when Steve Jobs came back to Apple and compared NeXTSTEP to constructing a building by starting out on the 20th floor, with so much of the foundation and common patterns already taken care of for you? Cocoa allowed apps to be built significantly faster than before. Steve said <a href="https://www.youtube.com/watch?v=4QrX047-v-s">at Macworld Expo in 1997</a> that the goal was to &#8220;eliminate 80% of the code that every developer has to write for their app.&#8221;</p>
+<p>Swift is not like that. Swift’s priorities are correctness and stability. These have more indirect benefits to developer productivity than we saw going from Carbon to Cocoa.</p>
+<p>When <a href="https://marco.org/2016/04/21/brent-performance">Marco Arment wrote about Swift</a> last month, he mentioned wanting a language designed for high-level apps:</p>
+<blockquote><p>
+  Objective-C wasn’t much better for this, but I think we could’ve done better than Swift if the most important goal in Swift was maximizing real-world developer productivity when writing modern Mac and iOS apps. Swift does a little of that, but gives up a lot to also serve lower-level, more clever, language-geekier goals.
+</p></blockquote>
+<p>This weekend, <a href="http://inessential.com/2016/05/14/the_tension_of_swift">Brent Simmons has a new post</a> about the loss of dynamic features in “pure” Swift:</p>
+<blockquote><p>
+  What makes me nervous is Swift’s emphasis on type safety and on compile-time resolution. As long as we also have what we need from Objective-C, then that’s fine — then we still get xibs and storyboards, the Responder Chain, and so on.
+</p></blockquote>
+<p>I hope Brent’s right that this will be a core part of Swift 4. Leaning on the Objective-C runtime feels like a temporary solution because it only exists on the Mac and iOS. Great web frameworks like Ruby on Rails, for example, can’t be built without relying on a more dynamic language. (And to me a great promise for Swift is being able to use it everywhere.)</p>
+<p><a href="http://indiestack.com/2016/05/brents-swift-tension/">Daniel Jalkut followed up</a> with a more optimistic post. He thinks Apple is on top of this, even as he acknowledges the clash between existing frameworks and the new language:</p>
+<blockquote><p>
+  Some major design priorities of the Swift language, namely type safety and compile time dependency binding, are at odds with the design priorities of 20 years of evolution in Apple’s frameworks. How and if that disparity will be reckoned by Apple remains to be seen.
+</p></blockquote>
+<p>I think it’s telling that the “dynamic” keyword isn’t even mentioned in the main language guide. Anything related to Objective-C is off in a <a href="https://developer.apple.com/library/ios/documentation/Swift/Conceptual/BuildingCocoaApps/InteractingWithObjective-CAPIs.html#//apple_ref/doc/uid/TP40014216-CH4-ID35">separate set of documentation</a>, which includes discouraging statements such as “Requiring dynamic dispatch is rarely necessary” and “use of the performSelector APIs is discouraged”. For Swift to thrive in the future, as a great language for newcomers and long-time Mac developers, Apple will have to compromise on that mindset.</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>Navigation controllers on the Mac</title>
 		<link>http://www.manton.org/2016/04/navigation-controllers-on-the-mac.html</link>
-		<comments>http://www.manton.org/2016/04/navigation-controllers-on-the-mac.html#comments</comments>
 		<pubDate>Tue, 05 Apr 2016 15:43:47 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -40,13 +184,10 @@
 <p>Brent&#8217;s right that most Mac apps don&#8217;t need navigation controllers. I don&#8217;t think I&#8217;d have any use for them in my Mac app, <a href="http://www.riverfold.com/software/clipstart/">Clipstart</a>, for example. But navigation controllers are becoming more common in Mac apps, starting with Twitter apps especially. I expect an important part of Iconfactory&#8217;s work on <a href="http://chameleonproject.org/">the Chameleon framework</a> to bring Twitterrific to the Mac was supporting navigation controllers.</p>
 <p>I&#8217;ll always consider myself a Mac developer first, even though most of what I do these days is on iOS and for the web. I&#8217;d definitely welcome UIKit for Mac. I&#8217;m getting closer to announcing a new iPhone app and web platform, and while I have a Mac version in development too, I can&#8217;t justify the time right now to finish it. UIKit for Mac would make that decision much easier.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/04/navigation-controllers-on-the-mac.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Cute release notes</title>
 		<link>http://www.manton.org/2016/02/cute-release-notes.html</link>
-		<comments>http://www.manton.org/2016/02/cute-release-notes.html#comments</comments>
 		<pubDate>Wed, 03 Feb 2016 19:42:49 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -63,13 +204,10 @@
 <p>I agree. These were fun at first, but the release notes don’t need to be entertainment. They should be a summary of what changed, with bullet points for key changes. (A single “bug fixes” line is also not helpful.)</p>
 <p>I personally like to start each line with a clear statement: “Fixed &lt;something&gt;” or “Added &lt;this feature&gt;” or “Improved &lt;something else&gt; by &lt;doing this&gt;”. You can see this in <a href="http://www.riverfold.com/software/tweetlibrary/releasenotes/">the history of my Tweet Library release notes</a>, for example.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/02/cute-release-notes.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Parse shutting down</title>
 		<link>http://www.manton.org/2016/01/parse-shutting-down.html</link>
-		<comments>http://www.manton.org/2016/01/parse-shutting-down.html#comments</comments>
 		<pubDate>Thu, 28 Jan 2016 23:20:48 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -87,13 +225,10 @@
 <p>For years I had always heard great things about Parse. I eventually used it for the first time a few months ago on a client project. It’s got a well-designed API, friendly monthly pricing (free for many apps), and it seemed well supported, with new features like tvOS support and a web dashboard redesign rolling out <em>just a month ago</em>.</p>
 <p>Thinking about <a href="https://twitter.com/danielpunkass/status/692845189816123392">this tweet from Daniel Jalkut</a>, I&#8217;ve always advocated for iOS developers to also be good at web services. Customers expect sync everywhere now, and you can do things with your own server that will give you an advantage over competitors who have a simpler, standalone iOS app. But being forced to migrate server data isn’t fun, especially on someone else’s schedule.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/01/parse-shutting-down.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Fin and split-view for Apple TV</title>
 		<link>http://www.manton.org/2016/01/fin-and-split-view-for-apple-tv.html</link>
-		<comments>http://www.manton.org/2016/01/fin-and-split-view-for-apple-tv.html#comments</comments>
 		<pubDate>Mon, 25 Jan 2016 14:54:19 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -109,179 +244,9 @@
 </p></blockquote>
 <p>Hearing stories like this, and thinking about my own apps, I’m convinced that the Apple TV needs split-view support like iPad multitasking. Our apps could be off to the side of the screen while someone uses most of the TV for watching shows or running another full-screen app. Just as I suggested that <a href="http://www.manton.org/2016/01/lightweight-universal-apps.html">lightweight universal apps</a> are okay, there is a class of apps that would <em>become more useful</em> when they don’t have to monopolize the entire TV.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/01/fin-and-split-view-for-apple-tv.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>iPad thoughts for 2016</title>
-		<link>http://www.manton.org/2016/01/ipad-thoughts-for-2016.html</link>
-		<comments>http://www.manton.org/2016/01/ipad-thoughts-for-2016.html#comments</comments>
-		<pubDate>Thu, 21 Jan 2016 19:42:59 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Programming]]></category>
-		<category><![CDATA[extensions]]></category>
-		<category><![CDATA[ios9]]></category>
-		<category><![CDATA[ipad]]></category>
-		<category><![CDATA[ipadpro]]></category>
-		<category><![CDATA[pencil]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=3413</guid>
-		<description><![CDATA[Over the holidays, or while on any vacation, I usually use iOS more often than my Mac. It&#8217;s easier to quickly catch up on email or fun stuff like Instagram without getting too pulled away from what matters: spending time with family and friends. So as I use iOS, I&#8217;ve been thinking about what might [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Over the holidays, or while on any vacation, I usually use iOS more often than my Mac. It&#8217;s easier to quickly catch up on email or fun stuff like Instagram without getting too pulled away from what matters: spending time with family and friends. So as I use iOS, I&#8217;ve been thinking about what might make the iPad better.</p>
-<p>Last year <a href="http://blog.jaredsinclair.com/post/133180873570/saving-the-ipad">Jared Sinclair blogged about</a> some of the problems with the iPad, with ideas for &#8220;saving&#8221; it. The most interesting of these was his suggestion of a &#8220;Gatekeeper for iOS&#8221;, where iOS apps could easily be side-loaded onto iOS without Apple&#8217;s approval:</p>
-<blockquote><p>
-  “These apps would be just as secure as apps published on the App Store. I recommend that Gatekeeper iOS apps be subject to the same API restrictions, privacy permissions, and sandboxing as apps distributed on the iOS App Store”
-</p></blockquote>
-<p>Daniel and I discussed this on <a href="http://coreint.org/207">Core Intuition episode 207</a>. We acknowledged that as great as it would be, this compromise of Gatekeeper apps being subject to API restrictions might not be possible. The whole point of Gatekeeper is to leave Apple out of the distribution process, so there would be no place to impose such restrictions except at the API level. Still, I&#8217;d welcome any kind of side-loading.</p>
-<p>Most Mac developers have wanted a Gatekeeper-like solution for iOS since the very beginning of the iPhone. Back in 2011, <a href="http://www.manton.org/2011/02/30_of_the.html">I wrote a post</a> about Apple&#8217;s 30% cut and the lack of side-loading for iOS:</p>
-<blockquote><p>
-  &#8220;Apple’s tight control over iOS has always been troubling. If there’s no way to install an app on the device without Apple’s approval, then Apple can make or break any business that builds for the platform. It’s an added risk for the thousands of tiny development shops for which the iPhone and iPad are otherwise perfect.&#8221;
-</p></blockquote>
-<p>But side-loading isn&#8217;t really holding back the iPad. What&#8217;s holding it back is the slow pace of progress in UI improvements. For example, the home screen remains virtually unchanged since iOS 3, and on the iPad Pro the classic grid of large app icons looks more like the <a href="http://apple.wikia.com/wiki/Parental_Controls">Simple Finder</a> than a way to manage and launch productivity apps.</p>
-<p>More key areas of the UI need to take inspiration from iPad multitasking. While split-view and slide-over aren&#8217;t perfect, they&#8217;re <em>something</em>. Likewise for iOS extensions, which were such a step forward that we were willing to overlook the UI clunkiness. These new features helped <a href="http://www.speirs.org/blog/2015/12/22/all-in-on-ipad-pro">Fraser Speirs switch to an iPad Pro full time</a>:</p>
-<blockquote><p>
-  &#8220;The introduction of multitasking in iOS 9 has made a significant difference to the way I work on iOS. I don’t need to rehearse the actual features here but suffice to say that I now find iOS extremely easy to get almost any task done.&#8221;
-</p></blockquote>
-<p>I&#8217;d like to see Apple experiment more. To not be afraid to try something new with the UI and ship it, as long as they still follow up and refine it.</p>
-<p>Here&#8217;s a great feature idea to take multitasking further, from <a href="http://www.512pixels.net/blog/2015/12/2016-wishlist-ios">Stephen Hackett’s iOS wishlist</a>:</p>
-<blockquote><p>
-  &#8220;I&#8217;d like Apple to work on some way to share text and images between apps that are side-by-side. If I&#8217;m working in a text editor, I&#8217;d like to send a selected portion right into Slack, without having to worry about a share extension or dropping back to copy and paste to get the job done.&#8221;
-</p></blockquote>
-<p>Nilay Patel, in a <a href="http://www.theverge.com/2015/12/28/10676272/2015-apples-year-in-beta">2015 wrap-up for The Verge</a>, wrote that Apple has been setting the groundwork for new platforms, and that this year they will have to iterate and improve on what they&#8217;ve started. He sees the iPad Pro in particular as a step forward without a clear defining feature:</p>
-<blockquote><p>
-  &#8220;There&#8217;s a chance we&#8217;ll all be using huge iPads as our primary computers one day, but to get there the iPad Pro has to do something so much better than a MacBook that all the things it does worse seem irrelevant. What is that thing?&#8221;
-</p></blockquote>
-<p>That missing &#8220;thing&#8221; is clear to me: the Apple Pencil is the best stylus that has ever been made for a device — tablet, desktop, or standalone display. It&#8217;s so good that I assumed I would sell my retina iPad Mini and use the iPad Pro exclusively.</p>
-<p>That hasn&#8217;t happened. I realized when making the choice of <a href="http://www.manton.org/2015/12/3255.html">which iPad to take downtown the other week</a> that the Mini is still my favorite size. I hope as part of the next phase to Apple&#8217;s iPad platform that the Pencil makes it down to the rest of the iPads. It&#8217;s important that developers can count on the common availability of the stylus, just as we can count on multitasking and app extensions to set the pace of UI progress for the platform.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/01/ipad-thoughts-for-2016.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Lightweight universal apps</title>
-		<link>http://www.manton.org/2016/01/lightweight-universal-apps.html</link>
-		<comments>http://www.manton.org/2016/01/lightweight-universal-apps.html#comments</comments>
-		<pubDate>Sun, 17 Jan 2016 14:35:12 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Programming]]></category>
-		<category><![CDATA[apps]]></category>
-		<category><![CDATA[ipad]]></category>
-		<category><![CDATA[iphone]]></category>
-		<category><![CDATA[iphone6s]]></category>
-		<category><![CDATA[universal]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=3388</guid>
-		<description><![CDATA[When the iPad first shipped, many developers embraced completely separate apps for iPhone and iPad. The argument was that they were different platforms and deserved special design attention (and separate revenue). I never bought this argument, and eventually — with the iPhone 6 Plus and multiple screen sizes — everyone agreed that it just made [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>When the iPad first shipped, many developers embraced completely separate apps for iPhone and iPad. The argument was that they were different platforms and deserved special design attention (and separate revenue). I never bought this argument, and eventually — with the iPhone 6 Plus and multiple screen sizes — everyone agreed that it just made more sense to use universal apps.</p>
-<p>At the same time, there&#8217;s a parallel argument that an app on the iPad shouldn&#8217;t just be a &#8220;scaled up&#8221; version of the iPhone. That if you can&#8217;t invest the time to do a universal app properly, don&#8217;t bother.</p>
-<p>The redesigned Twitter iOS app was a great example of this. <a href="https://www.macstories.net/news/twitter-aims-to-unify-ios-apps-updates-its-ipad-app/">It was widely mocked</a> for it&#8217;s poor use of space on the iPad.</p>
-<p>With the iPad Pro and widespread iPad multitasking, I think this changes again. An iPad app that is designed exactly the same as its iPhone version is still very useful in slide-over and split screen. In fact, for many &#8220;iPad&#8221; apps I use every day on the iPad Pro, I use them in their compact layout <em>more often</em> than full screen.</p>
-<p>My next app was designed for the iPhone. I spent some time trying to rework it with split views for the iPad Pro, but I just can&#8217;t justify the work right now to finish that effort. I&#8217;m going to ship it as a &#8220;lightweight&#8221; universal app anyway, though, so that it&#8217;s available in slide-over. To me, that&#8217;s a worthwhile compromise, significantly better than no offering on the iPad at all.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/01/lightweight-universal-apps.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Swift and Core Intuition 209</title>
-		<link>http://www.manton.org/2015/12/swift-and-core-intuition-209.html</link>
-		<comments>http://www.manton.org/2015/12/swift-and-core-intuition-209.html#comments</comments>
-		<pubDate>Thu, 03 Dec 2015 21:13:51 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Programming]]></category>
-		<category><![CDATA[coreint]]></category>
-		<category><![CDATA[opensource]]></category>
-		<category><![CDATA[servers]]></category>
-		<category><![CDATA[swift]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=3225</guid>
-		<description><![CDATA[Like many developers, I&#8217;ve spent the morning looking over the Swift open source release. I continue to be intrigued and look forward to working Swift into more of my routine. On today&#8217;s Core Intuition, Daniel and I talked about Swift for about half of the 50-minute episode. We recorded the episode yesterday afternoon, before the [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Like many developers, I&#8217;ve spent the morning looking over the <a href="https://swift.org/">Swift open source release</a>. I continue to be intrigued and look forward to working Swift into more of my routine.</p>
-<p>On <a href="http://www.coreint.org/2015/12/episode-209-we-need-a-grand-gesture/">today&#8217;s Core Intuition</a>, Daniel and I talked about Swift for about half of the 50-minute episode. We recorded the episode yesterday afternoon, before the open source announcement, so we&#8217;ll be following up next week on everything that has changed. I bet there will be some more progress in Swift web server frameworks by then, too.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/12/swift-and-core-intuition-209.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Apple Pencil, for real</title>
-		<link>http://www.manton.org/2015/11/apple-pencil-for-real.html</link>
-		<comments>http://www.manton.org/2015/11/apple-pencil-for-real.html#comments</comments>
-		<pubDate>Mon, 30 Nov 2015 17:42:44 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Programming]]></category>
-		<category><![CDATA[ipadpro]]></category>
-		<category><![CDATA[pencil]]></category>
-		<category><![CDATA[stylus]]></category>
-		<category><![CDATA[uitouch]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=3206</guid>
-		<description><![CDATA[As we talk about on Core Intuition episode 208, I finally got an Apple Pencil. It&#8217;s great. My experience matches Gus Mueller&#8217;s, about how good the Apple Pencil is after years of using Wacom tablets and third-party iOS styluses: &#8220;I find that when using the HB Pencil in Procreate, I get something that is very, [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>As we talk about on <a href="http://www.coreint.org/2015/11/episode-208-crazy-and-doomed-to-failure/">Core Intuition episode 208</a>, I finally got an Apple Pencil. It&#8217;s great. My experience matches <a href="http://shapeof.com/archives/2015/11/the_hype_is_real.html">Gus Mueller&#8217;s</a>, about how good the Apple Pencil is after years of using Wacom tablets and third-party iOS styluses:</p>
-<blockquote><p>
-  &#8220;I find that when using the HB Pencil in Procreate, I get something that is very, very close to what I feel when I&#8217;m drawing in my sketchbooks. But of course now I&#8217;ve got layers and many colors and a perfect eraser to work with. And endless pages. I love it.&#8221;
-</p></blockquote>
-<p>On the question of whether it&#8217;s a &#8220;stylus&#8221;, <a href="https://brooksreview.net/2015/11/pencil-2/">Ben Brooks sums it up</a> this way:</p>
-<blockquote><p>
-  &#8220;That’s the question I get asked a lot from people — my wife especially. Apple will tell you it is not a stylus because it is so much better than any other stylus, it clearly is something else. So, instead, I’ll tell you that it <em>is</em> very much a stylus — it just so happens to be the best stylus I have ever encountered on any device.&#8221;
-</p></blockquote>
-<p>I&#8217;ve also been improving the Apple Pencil support in an iPad app I&#8217;m working on. I haven&#8217;t completely finished reading <a href="http://www.russbishop.net/uitouchtypestylus">Russ Bishop&#8217;s article</a> on supporting the Apple Pencil, but looks like it has a bunch of additional tips in it that I&#8217;d benefit from. It covers not just the API changes to UITouch, but also gestures, coalescing, and predictive touches.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/11/apple-pencil-for-real.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Developing for the iPad Pro</title>
-		<link>http://www.manton.org/2015/11/developing-for-the-ipad-pro.html</link>
-		<comments>http://www.manton.org/2015/11/developing-for-the-ipad-pro.html#comments</comments>
-		<pubDate>Fri, 13 Nov 2015 19:19:01 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Programming]]></category>
-		<category><![CDATA[ipadpro]]></category>
-		<category><![CDATA[layout]]></category>
-		<category><![CDATA[macstories]]></category>
-		<category><![CDATA[tweetlibrary]]></category>
-		<category><![CDATA[uikit]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=3171</guid>
-		<description><![CDATA[Let&#8217;s start with a quote from the MacStories review by Federico Viticci: &#8220;For developers, it&#8217;s time to be bold with their iOS apps and understand that they can be more than single-purpose utilities. There are millions of people who aren&#8217;t buying PCs anymore because mobile devices are their only computers.&#8221; I&#8217;ve been using the iPad [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Let&#8217;s start with a quote <a href="https://www.macstories.net/stories/ipad-pro-review/">from the MacStories review</a> by Federico Viticci:</p>
-<blockquote><p>
-  &#8220;For developers, it&#8217;s time to be bold with their iOS apps and understand that they can be more than single-purpose utilities. There are millions of people who aren&#8217;t buying PCs anymore because mobile devices are their only computers.&#8221;
-</p></blockquote>
-<p>I&#8217;ve been using the iPad Pro a lot in just the last two days. Apps that have taken advantage of the larger screen — and that support iPad multitasking well — are just much more useful. It&#8217;s great to have Slack or Tweetbot in the sidebar and a writing app in the main part of the screen. (Until Editorial is updated, <a href="http://sethclifford.me/2015/11/things-i-like-this-week-volume-15/">like Seth Clifford</a> I&#8217;ve switched to Byword.)</p>
-<p>As a developer, going from an iPad Mini to an iPad Pro has opened my eyes to what Federico says above. You simply can&#8217;t have a great iPad app today if it doesn&#8217;t attempt to fit well on the iPad Pro. So although <a href="http://www.manton.org/2014/11/winding-down-my-twitter-apps.html">I said</a> I would discontinue my app <a href="http://www.riverfold.com/software/tweetlibrary/">Tweet Library</a>, I&#8217;ve actually been spending some time this week to <em>update it</em> to support iPad multitasking.</p>
-<p>The key to iPad Pro support is actually less about auto layout (although that&#8217;s helpful too), and more about split views and size classes. For a modern app, this is an easy transition. But Tweet Library was written for iOS 4. Back then, UISplitViewController was extremely underpowered. I had used MGSplitViewController instead, which I&#8217;ve modified over the years to adapt to multiple screen sizes from the iPhone to the iPad. So the first step to real iPad multitasking was to rip out most of the split view code and start over with a clean foundation based on iOS 8/9 and UISplitViewController. Not exactly trivial work that I could knock out in a day, although I tried.</p>
-<p>I remain very optimistic about the iPad Pro, especially <a href="http://www.manton.org/2015/11/the-incomplete-ipad-pro.html">when the Apple Pencil is actually available</a>. From a business standpoint, it also seems like a better investment in time than either the Apple Watch or Apple TV. There are so many platforms and distractions now. If I can&#8217;t focus on a single platform, I want to at least be proactive in saving some attention for the iPad.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/11/developing-for-the-ipad-pro.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Two weeks notice: unfinished work</title>
-		<link>http://www.manton.org/2015/07/two-weeks-notice-unfinished-work.html</link>
-		<comments>http://www.manton.org/2015/07/two-weeks-notice-unfinished-work.html#comments</comments>
-		<pubDate>Fri, 31 Jul 2015 17:42:03 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Programming]]></category>
-		<category><![CDATA[2weeks]]></category>
-		<category><![CDATA[bugs]]></category>
-		<category><![CDATA[flickr]]></category>
-		<category><![CDATA[products]]></category>
-		<category><![CDATA[vitalsource]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=2930</guid>
-		<description><![CDATA[Three weeks ago I had about a dozen open Jira tickets. Today, my last day with the company, most of those are still open. I was able to update some documentation and do minor maintenance work, but a bigger change I had hoped to deploy turned out to be impossible because of a missing internal [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Three weeks ago I had about a dozen open Jira tickets. Today, my last day with the company, most of those are still open. I was able to update some documentation and do minor maintenance work, but a bigger change I had hoped to deploy turned out to be impossible because of a missing internal API.</p>
-<p>It’s unsatisfying to leave unfinished work. There’s only so much that can be done in a limited time, though, and as we all know software (especially a web app) is rarely ever completely finished.</p>
-<p>Bittersweet, moving on after so many years. The folks I’ve worked with have been really great. I’m going to enjoy keeping an eye on what they ship long after my GitHub access has been revoked.</p>
-<p>This morning, my (now) former boss and good friend <a href="https://twitter.com/willie">Willie Abrams</a> linked in the company chat room to some of the photos that he had taken over the last 14 years. Brought back a lot of good memories, from brainstorming app features in a conference room to wandering around San Francisco before WWDC.</p>
-<p>I think I’m going to let this be the final post to wrap up the “two weeks notice” series. I’ve accomplished a lot but there is still plenty left, especially <a href="http://www.manton.org/2015/07/two-weeks-notice-new-products.html">shipping new products</a>. It’s been good to force myself to write every day, so I’ll keep that going with the usual full posts and <a href="http://www.manton.org/category/micro">microblog posts</a>.</p>
-<p>You can find all 14 posts under <a href="http://www.manton.org/tag/2weeks">the tag “2weeks”</a>. Thanks for reading.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/07/two-weeks-notice-unfinished-work.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.471 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 13:57:57 -->
+<!-- Dynamic page generated in 0.308 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 14:00:20 -->

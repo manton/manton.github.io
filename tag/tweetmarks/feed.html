@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>tweetmarks &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/tweetmarks/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:15:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Focusing on the wrong things</title>
+		<link>http://www.manton.org/2011/06/focusing_on_the.html</link>
+		<pubDate>Wed, 22 Jun 2011 19:43:14 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[37signals]]></category>
+		<category><![CDATA[decisions]]></category>
+		<category><![CDATA[sifter]]></category>
+		<category><![CDATA[tweetmarks]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2011/06/focusing_on_the.html</guid>
+		<description><![CDATA[&#8220;Great post from Garrett Dimon&#8221;:http://garrettdimon.com/post/6724266888/my-biggest-mistake, on his biggest mistake building the bug-tracker Sifter: &#8220;I got bogged down watching our bottom-line even though we&#8217;ve always been comfortably profitable. I worried about preventing fraud even though the only instance we ever encountered only cost us $200. I constantly worried that Sifter could go down at any moment [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>&#8220;Great post from Garrett Dimon&#8221;:http://garrettdimon.com/post/6724266888/my-biggest-mistake, on his biggest mistake building the bug-tracker Sifter:</p>
+<blockquote><p>&#8220;I got bogged down watching our bottom-line even though we&#8217;ve always been comfortably profitable. I worried about preventing fraud even though the only instance we ever encountered only cost us $200. I constantly worried that Sifter could go down at any moment even though we&#8217;ve had 99.96% uptime since launch. [&#8230;] All of these little things were distracting me from the work that really mattered.&#8221;</p></blockquote>
+<p>For a small company, focusing on the wrong things will make or break a product. I&#8217;m guilty of the same thing. I sat on &#8220;Tweetmarks&#8221;:http://tweetmarks.net/ for 6 months without launching it because I was worried about how to pay for hosting and how to get developers involved.</p>
+<p>Sometimes there&#8217;s no obvious solution <em>until you ship</em>. Eventually it becomes easier to know when to be patient &mdash; to solve a problem right the first time &mdash; and when it&#8217;s needless worrying over something that may or may not even happen. And as 37signals says: &#8220;decisions are temporary&#8221;:http://gettingreal.37signals.com/ch06_Done.php anyway.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>FAQ for Tweet Marker</title>
+		<link>http://www.manton.org/2011/06/faq_for_tweet.html</link>
+		<pubDate>Mon, 13 Jun 2011 19:59:56 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[api]]></category>
+		<category><![CDATA[tweetlibrary]]></category>
+		<category><![CDATA[tweetmarker]]></category>
+		<category><![CDATA[tweetmarks]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2011/06/faq_for_tweet.html</guid>
+		<description><![CDATA[I mentioned in &#8220;my first post about Tweet Marker&#8221;:http://www.manton.org/2011/06/tweet_marker.html that there were some decisions still to be made about the service. I don&#8217;t know everything yet, but I do want to answer some common questions I&#8217;m hearing from users and developers. Will Tweet Marker be free? Yes, I do not plan to charge users directly [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I mentioned in &#8220;my first post about Tweet Marker&#8221;:http://www.manton.org/2011/06/tweet_marker.html that there were some decisions still to be made about the service. I don&#8217;t know everything yet, but I do want to answer some common questions I&#8217;m hearing from users and developers.</p>
+<p><em>Will Tweet Marker be free?</em></p>
+<p>Yes, I do not plan to charge users directly to use the service. There will also be no charge to developers for the basic sync API. However, it will take on real hosting costs, so I plan to have a more advanced paid plan (with more features and stats) so that participating Twitter apps can help pay for the service.</p>
+<p><em>How useful is it if the official Twitter app doesn&#8217;t support it?</em></p>
+<p>It is still very useful for users of third-party Twitter clients. I couldn&#8217;t allow the official Twitter app to use the API even if they wanted to, because theirs is a free app and has such a huge number of users. I also like that Tweet Marker becomes a selling point and discovery tool for other apps.</p>
+<p><em>Shouldn&#8217;t Twitter provide this service as part of their API?</em></p>
+<p>That would be great, but Twitter doesn&#8217;t seem interested in providing such a service. They don&#8217;t encourage users to read everything in their timeline, and it would be a little at odds with their focus on only the latest tweets.</p>
+<p><em>Why aren&#8217;t you using Apple&#8217;s new iCloud?</em></p>
+<p>The primary goal with Tweet Marker is to enable different Twitter apps to work together. iCloud is designed for storage and syncing only between apps from the same developer, so it&#8217;s not appropriate as a replacement architecture for Tweet Marker.</p>
+<p><em>Where is it hosted and what language was it written in?</em></p>
+<p>It is hosted on Heroku, which also powers the web site for my iPad app Tweet Library. Tweet Marker is written in Ruby with the Sinatra framework, and backed by PostgreSQL.</p>
+<p><em>What about sample code for building this into an app?</em></p>
+<p>I&#8217;m working on an example project for Mac and iOS. In the meantime, remember that it uses OAuth Echo, which is what most Twitter apps should already be using to post to Twitpic and Yfrog. Just change the URL to use the Tweet Marker server and include the tweet status ID in the POST body. To retrieve the value, it&#8217;s just a GET request without authentication. &#8220;See the docs&#8221;:http://tweetmarker.net/ for more.</p>
+<p><em>Update:</em> I reworded the part above about whether the service will be free, since I don&#8217;t control how third-party clients will make this feature available to their users. I also updated it to reflect the service name change from Tweetmarks to Tweet Marker.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.263 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 16:18:33 -->

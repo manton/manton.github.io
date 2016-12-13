@@ -8,19 +8,18 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; essays</title>
+	<title>essays &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/essays/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
 		<title>Essays vs. microblog posts (and the microcast)</title>
 		<link>http://www.manton.org/2016/03/essays-vs-microblog-posts-and-the-microcast.html</link>
-		<comments>http://www.manton.org/2016/03/essays-vs-microblog-posts-and-the-microcast.html#comments</comments>
 		<pubDate>Tue, 01 Mar 2016 17:34:40 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Weblogs]]></category>
@@ -38,13 +37,10 @@
 <p>That’s the theme I’m trying to apply to my new <a href="http://timetable.fm/">Timetable podcast</a>, too. I talk about microblogging, coffee shops, client work, but more important than any of that is the routine of recording it. The short nature of the podcast is itself kind of the story.</p>
 <p>I’m at episode 15 now and have loved working on it. I now expect that all of these components of my blog — the longer posts, the microblog posts, and the companion Timetable episodes — will be something I do for years to come.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/03/essays-vs-microblog-posts-and-the-microcast.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Long-form writing as a filter</title>
 		<link>http://www.manton.org/2016/01/long-form-writing-as-a-filter.html</link>
-		<comments>http://www.manton.org/2016/01/long-form-writing-as-a-filter.html#comments</comments>
 		<pubDate>Mon, 25 Jan 2016 14:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Weblogs]]></category>
@@ -64,13 +60,10 @@
 <p>This is less of a problem if instead of tweeting you start out with the intention of posting to your own site. Short post can stay short, and posts requiring more words can naturally expand to a full essay.</p>
 <p>I don’t think that our short-form, seemingly unimportant writing should exclusively be on centralized networks. If it’s worth the time to write something — whether a thoughtful essay or a fleeting one-off microblog post — then it’s worth owning and publishing at your own domain name.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/01/long-form-writing-as-a-filter.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Startup life and Medium</title>
 		<link>http://www.manton.org/2015/08/startup-life-and-medium.html</link>
-		<comments>http://www.manton.org/2015/08/startup-life-and-medium.html#comments</comments>
 		<pubDate>Thu, 27 Aug 2015 14:06:21 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Weblogs]]></category>
@@ -90,13 +83,10 @@
 <p>While you can follow other users there, I find that even with the 100+ people I&#8217;m following, the posts I see on Medium are almost exclusively popular essays written by people I don&#8217;t know. They&#8217;re recommended enough that they show up in Medium&#8217;s daily emails, or on the home page, or linked from other blogs I read. But it&#8217;s like if you signed in to Twitter and only saw retweets.</p>
 <p>This may explain Medium&#8217;s design changes to encourage quick, microblog-like posts, in addition to full essays. Longer blog posts just aren&#8217;t written often enough to make for a meaningful social network.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/08/startup-life-and-medium.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Favorite essays</title>
 		<link>http://www.manton.org/2008/10/favorite_essays.html</link>
-		<comments>http://www.manton.org/2008/10/favorite_essays.html#comments</comments>
 		<pubDate>Wed, 08 Oct 2008 20:09:43 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Weblogs]]></category>
@@ -119,11 +109,9 @@
 <p>&#8220;Fancy-pants productivity&#8221;:http://www.manton.org/2008/03/fancypants_productivity.html, <em>March 2008</em>. A little bit of a rant, reacting to the opinion that code must always be beautiful.</p>
 <p>&#8220;Ollie Johnston&#8221;:http://www.manton.org/2008/04/ollie_johnston.html, <em>April 2008</em>. Where I comment on the death of a master animator. I should re-read this one every year.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2008/10/favorite_essays.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.299 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 15:01:15 -->
+<!-- Dynamic page generated in 0.280 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 14:39:23 -->

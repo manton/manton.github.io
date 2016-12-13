@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>referrers &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/referrers/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:15:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Tracking sales referrers</title>
+		<link>http://www.manton.org/2008/09/tracking_sales_referrers.html</link>
+		<pubDate>Tue, 16 Sep 2008 00:12:30 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[referrers]]></category>
+		<category><![CDATA[riverfold]]></category>
+		<category><![CDATA[sales]]></category>
+		<category><![CDATA[wiitransfer]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2008/09/tracking_sales_referrers.html</guid>
+		<description><![CDATA[The primary way to track marketing and word-of-mouth about your product is to look at web site referrers. Easy. Just install &#8220;Mint&#8221;:http://www.haveamint.com/ and you&#8217;re done. But not all referrers are created equal. A prominent link on Digg might lead to sales or it might lead to dozens of &#8220;wish it was free&#8221; comments on your [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The primary way to track marketing and word-of-mouth about your product is to look at web site referrers. Easy. Just install &#8220;Mint&#8221;:http://www.haveamint.com/ and you&#8217;re done.</p>
+<p>But not all referrers are created equal. A prominent link on Digg might lead to sales or it might lead to dozens of &#8220;wish it was free&#8221; comments on your blog. To really judge the effectiveness of referrers (and in turn give a better idea about where resources should be placed in the future) take it one step further to track the initial referrer link all the way through to purchase. You want to know where the customer first learned about your product.</p>
+<p>This isn&#8217;t a new idea and I&#8217;m certainly not the first to do it. Wil Shipley spoke at length about this technique during &#8220;his C4 talk&#8221;:http://www.viddler.com/explore/rentzsch/videos/4/ in 2007, in the context of online advertising. In talking with other developers it became clear to me that most people don&#8217;t do this, even though it can be achieved in about a dozen lines of code.</p>
+<p>The basics are pretty simple:</p>
+<ul>
+<li>When a link comes in to your site, see if a special cookie is set. I called mine &#8220;WiiTransferRef&#8221;.</p>
+</li>
+<li>
+<p>If the cookie is set, you have a repeat visitor. Nothing to do at this point.</p>
+</li>
+<li>
+<p>If the cookie is missing, this user is likely visiting your site for the first time. Put the referrer value in the cookie.</p>
+</li>
+<li>
+<p>After a purchase is complete, check for this cookie and add an entry to the database with the referrer value and timestamp for the order.</p>
+</li>
+</ul>
+<p>You can add more intelligence as suits your requirements and available time, but the basics don&#8217;t need to be any more complex than this. For bonus points and slightly improved security, you could add a database entry that tracks the referrer value and use the cookie as a session that simply points to that row, updating the database to show completed orders, but I chose not to do that to keep the database uncluttered.</p>
+<p>Here&#8217;s the PHP source for my main product page:</p>
+<pre><code><?php
+
+$val = $_COOKIE['WiiTransferRef'];
+
+$ref = $_SERVER['HTTP_REFERER'];
+
+if (empty ($val) &#038;&#038; (!empty ($ref))) {
+
+setcookie ("WiiTransferRef", $ref, time() + (3600 * 24 * 30));
+
+}
+
+?></code></pre>
+<p>And then the source for the final &#8220;thanks!&#8221; page after a purchase is complete:</p>
+<pre><code><?php
+
+$val = $_COOKIE['WiiTransferRef'];
+
+if (!empty ($val)) {
+
+mysql_connect ("db.hostname.com", "user", "pass");
+
+mysql_select_db ("dbname");
+
+$sql = sprintf("INSERT INTO referrers (url, created_at) VALUES ('%s', now())",
+
+mysql_real_escape_string ($val));
+
+mysql_query ($sql);
+
+}
+
+?></code></pre>
+<p>Note that because I am using simple PayPal buttons, not all customers actually reach the last page, because they can ignore the &#8220;return to seller&#8221; link after a completed transaction and instead go wherever they chose. This limitation goes away if you have rolled your own store or used something like &#8220;PotionStore&#8221;:http://www.potionfactory.com/potionstore.</p>
+<p>I&#8217;ve been tracking these for over a year now. I&#8217;ll share some stats about what I&#8217;ve learned in a future blog post.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.753 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 16:19:12 -->

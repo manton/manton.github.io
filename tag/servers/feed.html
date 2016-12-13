@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>servers &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/servers/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:15:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Swift server benchmarks</title>
+		<link>http://www.manton.org/2016/06/swift-server-benchmarks.html</link>
+		<pubDate>Fri, 03 Jun 2016 12:37:21 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[servers]]></category>
+		<category><![CDATA[swift]]></category>
+		<category><![CDATA[vapor]]></category>
+		<category><![CDATA[webapps]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3959</guid>
+		<description><![CDATA[Interesting Swift web server article comparing Vapor, which I tested last week, to other web server frameworks: This first post will cover input, i.e. request data. Fetching input from a request, ensuring it is the correct type, and most importantly, not crashing. These are common tasks that most web developers deal with daily. All of [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://medium.com/@qutheory/server-side-swift-vs-the-other-guys-1-input-ec48d7be37b7#.5mou8yl1a">Interesting Swift web server article</a> comparing Vapor, which <a href="http://www.manton.org/2016/05/core-intuition-234-and-vapor.html">I tested last week</a>, to other web server frameworks:</p>
+<blockquote><p>
+  This first post will cover input, i.e. request data. Fetching input from a request, ensuring it is the correct type, and most importantly, not crashing. These are common tasks that most web developers deal with daily. All of the frameworks have their own unique way of doing these tasks–Let’s see how they contrast.
+</p></blockquote>
+<p>There is some further discussion from fans of other languages in the comments. Overall I think the article was fair. I’m not sure about the focus on “crashing”, though. This seems like a carryover from pro-Swift arguments on the desktop or mobile, and it has less relevance on the web.</p>
+<p>For some web apps, it might be fine to throw an exception on bad input data, since it’s caught automatically and returned as a 500 error. I wouldn’t call that a crash anymore than I would call it a crash for a Mac app to present a generic error dialog on unexpected errors.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Parse shutting down</title>
+		<link>http://www.manton.org/2016/01/parse-shutting-down.html</link>
+		<pubDate>Thu, 28 Jan 2016 23:20:48 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[databases]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[parse]]></category>
+		<category><![CDATA[servers]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3461</guid>
+		<description><![CDATA[Bad news from the Parse team at Facebook today: “We have a difficult announcement to make. Beginning today we’re winding down the Parse service, and Parse will be fully retired after a year-long period ending on January 28, 2017. We’re proud that we’ve been able to help so many of you build great mobile apps, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://blog.parse.com/announcements/moving-on/">Bad news from the Parse team</a> at Facebook today:</p>
+<blockquote><p>
+  “We have a difficult announcement to make. Beginning today we’re winding down the Parse service, and Parse will be fully retired after a year-long period ending on January 28, 2017. We’re proud that we’ve been able to help so many of you build great mobile apps, but we need to focus our resources elsewhere.”
+</p></blockquote>
+<p>For years I had always heard great things about Parse. I eventually used it for the first time a few months ago on a client project. It’s got a well-designed API, friendly monthly pricing (free for many apps), and it seemed well supported, with new features like tvOS support and a web dashboard redesign rolling out <em>just a month ago</em>.</p>
+<p>Thinking about <a href="https://twitter.com/danielpunkass/status/692845189816123392">this tweet from Daniel Jalkut</a>, I&#8217;ve always advocated for iOS developers to also be good at web services. Customers expect sync everywhere now, and you can do things with your own server that will give you an advantage over competitors who have a simpler, standalone iOS app. But being forced to migrate server data isn’t fun, especially on someone else’s schedule.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Swift and Core Intuition 209</title>
+		<link>http://www.manton.org/2015/12/swift-and-core-intuition-209.html</link>
+		<pubDate>Thu, 03 Dec 2015 21:13:51 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[opensource]]></category>
+		<category><![CDATA[servers]]></category>
+		<category><![CDATA[swift]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3225</guid>
+		<description><![CDATA[Like many developers, I&#8217;ve spent the morning looking over the Swift open source release. I continue to be intrigued and look forward to working Swift into more of my routine. On today&#8217;s Core Intuition, Daniel and I talked about Swift for about half of the 50-minute episode. We recorded the episode yesterday afternoon, before the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Like many developers, I&#8217;ve spent the morning looking over the <a href="https://swift.org/">Swift open source release</a>. I continue to be intrigued and look forward to working Swift into more of my routine.</p>
+<p>On <a href="http://www.coreint.org/2015/12/episode-209-we-need-a-grand-gesture/">today&#8217;s Core Intuition</a>, Daniel and I talked about Swift for about half of the 50-minute episode. We recorded the episode yesterday afternoon, before the open source announcement, so we&#8217;ll be following up next week on everything that has changed. I bet there will be some more progress in Swift web server frameworks by then, too.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Riposte push server crowdfunding</title>
+		<link>http://www.manton.org/2015/08/riposte-push-server-crowdfunding.html</link>
+		<pubDate>Tue, 04 Aug 2015 16:54:15 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[adn]]></category>
+		<category><![CDATA[riposte]]></category>
+		<category><![CDATA[servers]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2938</guid>
+		<description><![CDATA[Back in April, the App.net app Riposte was removed from sale. Riposte wasn&#8217;t just the best client for App.net; I think it held its own against even the best Twitter apps, too. The push notification server for Riposte (and its messaging app complement, Whisper) was to keep running for some months and then shut down [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://blog.jaredsinclair.com/post/116294584510/riposte-the-appnet-app-permanently-removed-from">Back in April</a>, the App.net app Riposte was removed from sale. Riposte wasn&#8217;t just the best client for App.net; I think it held its own against even the best Twitter apps, too. The push notification server for Riposte (and its messaging app complement, Whisper) was to keep running for some months and then shut down this summer.</p>
+<p>Even if App.net is slowly fading away, like many users I still have Riposte on my home screen. I cross-post all <a href="http://www.manton.org/category/micro">my microblog posts</a> from this blog to App.net. When I get replies and mentions on App.net, I like to see them as push notifications in Riposte. I can reply in the app easily, or skim through the timeline to see what else is going on.</p>
+<p>Now the developers have launched a <a href="https://app.moonclerk.com/pay/q2j4zmciz4e">crowdfunding campaign</a> to keep the Riposte server running. Their goal is a modest $500 per year to cover AWS hosting and time to keep everything running smoothly. Even if you&#8217;re not very active on App.net anymore, consider donating as a thank-you for everything Riposte did for App.net, and for what it did to advance the state of UI design in social networking apps.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Tweet Marker new subscriber plan</title>
+		<link>http://www.manton.org/2012/12/tweet_marker_new.html</link>
+		<pubDate>Mon, 17 Dec 2012 14:24:15 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[hosting]]></category>
+		<category><![CDATA[servers]]></category>
+		<category><![CDATA[subscriptions]]></category>
+		<category><![CDATA[tweetmarker]]></category>
+		<category><![CDATA[watermark]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2012/12/tweet_marker_new.html</guid>
+		<description><![CDATA[The original goal for Tweet Marker Plus was to help cover the hosting costs for Tweet Marker. It succeeded for a little while, but it also ended up evolving into a larger independent service: Watermark, with much higher hosting costs for archiving and search, and a bunch of new features like App.net support, Dropbox sync, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The original goal for Tweet Marker Plus was to help cover the hosting costs for Tweet Marker. It succeeded for a little while, but it also ended up evolving into a larger independent service: Watermark, with much higher hosting costs for archiving and search, and a bunch of new features like App.net support, Dropbox sync, saved collections, and more. I’m really excited about the future of Watermark.</p>
+<p>I also hear from Tweet Marker users who don’t need Watermark. They still want to support Tweet Marker, though, to make sure it continues running and that it’s as fast as possible.</p>
+<p>So today I’m introducing a separate, inexpensive subscription option for Tweet Marker. Just $1/month! You can subscribe from the <a href="http://tweetmarker.net/">new Tweet Marker home page</a>. And as a bonus you’ll get the first official Safari extension for Tweet Marker, shown in this screenshot:</p>
+<p><img src="http://www.manton.org/images/2012/tweetmarker_extension.png" alt="Tweet Marker extension" border="0" width="564" height="117" /></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Instagram and hosting</title>
+		<link>http://www.manton.org/2012/04/instagram_and_hosting.html</link>
+		<pubDate>Fri, 06 Apr 2012 19:24:50 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[ec2]]></category>
+		<category><![CDATA[hosting]]></category>
+		<category><![CDATA[instagram]]></category>
+		<category><![CDATA[servers]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2012/04/instagram_and_hosting.html</guid>
+		<description><![CDATA[I love reading about how big sites use Amazon EC2. If &#8220;this post from Instagram&#8221;:http://instagram-engineering.tumblr.com/post/13649370142/what-powers-instagram-hundreds-of-instances-dozens-of is still accurate, they must be at something like $50k/month in hosting costs. Their user base has doubled in the 4 months since they posted that. My setup for Tweet Marker is trivial by comparison, but to me &#8212; without [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I love reading about how big sites use Amazon EC2. If &#8220;this post from Instagram&#8221;:http://instagram-engineering.tumblr.com/post/13649370142/what-powers-instagram-hundreds-of-instances-dozens-of is still accurate, they must be at something like $50k/month in hosting costs. Their user base has doubled in the 4 months since they posted that.</p>
+<p>My setup for Tweet Marker is trivial by comparison, but to me &mdash; without Instagram&#8217;s $7 million in funding &mdash; it&#8217;s a very big deal. What I wrote &#8220;back in October&#8221;:http://www.manton.org/2011/10/redisonly_migration.html about moving to Redis is still mostly true, although I&#8217;ve added MySQL and Sphinx to the mix. I now run with 3 Amazon EC2 &#8220;medium&#8221; instances and have 5 web dynos (with 3 Unicorn processes each) at Heroku.</p>
+<p>I put everything from donations back into the servers. For Tweet Marker to work, it had to be rock solid. It had to scale. It&#8217;s only the first week for &#8220;Tweet Marker Plus&#8221;:http://tweetmarker.net/plus subscriptions, but already I have a good feeling that it&#8217;ll all pay off.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.271 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 16:15:48 -->

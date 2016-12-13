@@ -8,19 +8,39 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; samsung</title>
+	<title>samsung &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/samsung/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
+		<title>Apple apologists</title>
+		<link>http://www.manton.org/2016/10/apple-apologists.html</link>
+		<pubDate>Tue, 04 Oct 2016 15:42:35 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[environment]]></category>
+		<category><![CDATA[headphones]]></category>
+		<category><![CDATA[samsung]]></category>
+		<category><![CDATA[stevejobs]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4320</guid>
+		<description><![CDATA[The hardest transition for fans of Apple Computer from the 1990s is realizing that Apple no longer needs us to defend the company. If I&#8217;m sometimes critical of Apple, both here and on Core Intuition, it&#8217;s because they&#8217;re the largest tech company in the world. I will always hold Apple to a very high standard [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The hardest transition for fans of Apple Computer from the 1990s is realizing that Apple <em>no longer needs us to defend the company</em>. If I&#8217;m sometimes critical of Apple, both here and on <a href="http://www.coreint.org/">Core Intuition</a>, it&#8217;s because they&#8217;re the largest tech company in the world.</p>
+<p>I will always hold Apple to a very high standard of excellence. They&#8217;ve earned it. When airline flight attendants tell passengers to turn their <a href="http://pxlnv.com/linklog/galaxy-note-7-faa/">Samsung Galaxy Note 7 phones off</a> along with the usual warnings about oxygen masks and life vests, we shrug and laugh because it&#8217;s Samsung. From Apple, we expect higher quality and attention to detail, not shortcuts.</p>
+<p>Steve Jobs has been gone for 5 years, but the spirit of building insanely great products is well-rooted at Apple. Apple employees are doing incredible, passionate work.</p>
+<p>And yet the company itself hardly resembles the struggling computer maker of 20 years ago. Apple is a giant corporation now. Unlike its employees, who have the best intentions, giant corporations are by default selfish, arrogant, and rarely courageous.</p>
+<p>Apple does a lot of good for the world. I doubt there&#8217;s another company even approaching Apple&#8217;s size that <a href="http://www.apple.com/environment/">does as much</a>, from renewable energy to safer materials to workplace diversity. But that good doesn&#8217;t absolve them of criticism.</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>Watch form over function</title>
 		<link>http://www.manton.org/2015/09/watch-form-over-function.html</link>
-		<comments>http://www.manton.org/2015/09/watch-form-over-function.html#comments</comments>
 		<pubDate>Fri, 04 Sep 2015 14:08:36 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[User Experience]]></category>
@@ -34,13 +54,10 @@
 <p>Surprisingly, this might be Apple showing they can still choose a functional user experience over purely beautiful form and design. Square looks worse but it&#8217;s just more practical for reading text. The digital crown is a better fit for scrolling vertically.</p>
 <p>It&#8217;s rare in the modern era of Apple (post-2000 or so) for the company to sacrifice beauty for usability. The iPhone is always thin at the expense of battery life. Mac scroll bars are hidden in the name of cleanliness. The new MacBook has a single new cable type which no one owns peripherals for. But with the Apple Watch, I think they built something with a foundation that could last for years, despite its initial awkwardness, and square was the right call.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/09/watch-form-over-function.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Higher standard for Apple</title>
 		<link>http://www.manton.org/2014/02/higher_standard_for.html</link>
-		<comments>http://www.manton.org/2014/02/higher_standard_for.html#comments</comments>
 		<pubDate>Fri, 28 Feb 2014 14:20:31 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -57,13 +74,10 @@
 </p></blockquote>
 <p>Expecting the best from a company isn’t unfair; it’s a form of respect. We want Apple to be amazing, and when they fall a little short, we’re disappointed. If they disappoint too many times in a row, we’ll no longer expect greatness. That that hasn’t happened yet says everything about quality at Apple.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/02/higher_standard_for.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Smartphone religion</title>
 		<link>http://www.manton.org/2013/03/smartphone_religion.html</link>
-		<comments>http://www.manton.org/2013/03/smartphone_religion.html#comments</comments>
 		<pubDate>Fri, 22 Mar 2013 23:10:05 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -81,11 +95,9 @@
 </p></blockquote>
 <p>I got into the Mac in the 1990s during the lead-up to Apple’s certain doom, so I spent quite a lot of time arguing with Windows users. The problem with the new version of that debate, Apple vs. Samsung and the smartphone wars, is that <em>I’m not sure it’s ever going to end</em>. There are good phones on either side, the pundits can’t wait for Apple to fail but Apple is strong, and there’s no hope to escape the noise for those of us who just want to build some apps.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/03/smartphone_religion.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.333 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 15:04:39 -->
+<!-- Dynamic page generated in 0.246 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 14:54:55 -->

@@ -8,19 +8,62 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; revenue</title>
+	<title>revenue &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/revenue/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
+		<title>1 year indie</title>
+		<link>http://www.manton.org/2016/08/1-year-indie.html</link>
+		<pubDate>Mon, 01 Aug 2016 18:19:18 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[indie]]></category>
+		<category><![CDATA[revenue]]></category>
+		<category><![CDATA[riverfold]]></category>
+		<category><![CDATA[salary]]></category>
+		<category><![CDATA[snippets]]></category>
+		<category><![CDATA[wholefoods]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4156</guid>
+		<description><![CDATA[One year ago, I celebrated my first day without a boss. I had just written 2 weeks of daily blog posts about wrapping up work after 14 years at the same company. Today, I&#8217;m wearing the same Mac t-shirt and working from Whole Foods again to mark the anniversary. So how has it gone, a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.manton.org/2015/08/starting-over.html">One year ago</a>, I celebrated my first day without a boss. I had just written <a href="http://www.manton.org/tag/2weeks">2 weeks of daily blog posts</a> about wrapping up work after 14 years at the same company. Today, I&#8217;m wearing the same Mac t-shirt and working from Whole Foods again to mark the anniversary.</p>
+<p>So how has it gone, a full year as an independent developer? It depends who you ask. While I was leaving the best day job I&#8217;ll ever have, there&#8217;s still no substitute for the flexibility and freedom to work on my own projects. From that perspective, the last year has been amazing, with some great success on new revenue from <a href="http://www.coreint.org/">Core Intuition</a> and contracting too.</p>
+<p>And I made a few decisions early on with how to manage the business that have proven useful to smooth over the bumps. For example, I pay myself a fixed salary on the 1st day of each month, and for 12 months straight I&#8217;ve always met that goal. This month, I gave myself a small raise.</p>
+<p>On the other hand, I&#8217;m still bringing in less money than when I had a real job, and my wife might say that there&#8217;s a fine line between being self-employed and unemployed. We&#8217;ve let our credit card debt go unchecked. There&#8217;s been no slack in the high monthly expenses of the house, car payments, business costs like hosting, and everything else. My income from <a href="http://www.riverfold.com/">Riverfold</a> has grown significantly, but not significantly enough.</p>
+<p>Yet, I&#8217;m upbeat. I&#8217;m upbeat because of the potential for what I set out to do a year ago: ship <a href="http://snippets.today/">Snippets.today</a> and help revolutionize independent microblogging. That&#8217;s still the plan. That&#8217;s still why this experiment of working for myself is in its very early stages, even a year later.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Pinboard at 7 years</title>
+		<link>http://www.manton.org/2016/07/pinboard-at-7-years.html</link>
+		<pubDate>Sun, 10 Jul 2016 19:02:01 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[bookmarks]]></category>
+		<category><![CDATA[email]]></category>
+		<category><![CDATA[launching]]></category>
+		<category><![CDATA[pinboard]]></category>
+		<category><![CDATA[revenue]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4106</guid>
+		<description><![CDATA[Maciej Cegłowski of Pinboard has always been open about his stats for the service. Now, on the 7th anniversary, he also shares that revenue has grown to well over $200k/year: I’ve added revenue this year because I&#8217;m no longer afraid of competitors, and I&#8217;d like to encourage people who are considering doing their own one- [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Maciej Cegłowski of Pinboard has always been open about his stats for the service. Now, on the 7th anniversary, <a href="https://blog.pinboard.in/2016/07/pinboard_turns_seven/">he also shares that revenue has grown to well over $200k/year</a>:</p>
+<blockquote><p>
+  I’ve added revenue this year because I&#8217;m no longer afraid of competitors, and I&#8217;d like to encourage people who are considering doing their own one- or zero-person business. The site costs something like $17K/year to run, so you can make a good living at this artisanal SaaS stuff.
+</p></blockquote>
+<p>Congrats to Maciej on his success. I&#8217;ve been a happy Pinboard user for pretty much all of those 7 years, and — as someone who also aspires to build a profitable web platform — I&#8217;m inspired by Pinboard’s consistency and growth.</p>
+<p>Speaking of 6-figure income, I’ve also just finished reading Shawn Blanc’s write-up <a href="https://thefocuscourse.com/behind-the-scenes-six-figure-course-launch/">about launching The Focus Course</a>, which had first-week revenue of over $100k. He describes the planning process and his strategy for using a mailing list to build awareness about the product.</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>Getting good at making money</title>
 		<link>http://www.manton.org/2014/02/getting_good_at.html</link>
-		<comments>http://www.manton.org/2014/02/getting_good_at.html#comments</comments>
 		<pubDate>Thu, 27 Feb 2014 03:14:59 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -37,11 +80,9 @@
 </p></blockquote>
 <p>Justin’s blog post reminds me of something that Jason Fried of Basecamp wrote about. Getting good at making money is the same as getting good at anything: <a href="http://www.inc.com/magazine/20110301/making-money-small-business-advice-from-jason-fried.html">you have to practice</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/02/getting_good_at.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.296 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 15:06:53 -->
+<!-- Dynamic page generated in 0.260 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 14:59:06 -->

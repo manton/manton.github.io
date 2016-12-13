@@ -8,19 +8,37 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; austin</title>
+	<title>austin &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/austin/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
+		<title>Libraries for 30 days wrap-up</title>
+		<link>http://www.manton.org/2016/04/libraries-for-30-days-wrap-up.html</link>
+		<pubDate>Mon, 18 Apr 2016 16:41:34 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[austin]]></category>
+		<category><![CDATA[coffee]]></category>
+		<category><![CDATA[newlibraries]]></category>
+		<category><![CDATA[parks]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2016/04/libraries-for-30-days-wrap-up.html</guid>
+		<description><![CDATA[After trying to work from a new coffee shop I had never been to before, every day for 30 days, I loved the routine of getting out of the house so much that I set on another challenge: visiting 30 libraries. This proved to be more difficult, mostly because of the extra driving required, but [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>After <a href="http://www.manton.org/coffee-shops-austin">trying to work from a new coffee shop</a> I had never been to before, every day for 30 days, I loved the routine of getting out of the house so much that I set on another challenge: visiting 30 libraries. This proved to be more difficult, mostly because of the extra driving required, but I wrapped it up yesterday.</p>
+<p>I&#8217;ve put together <a href="http://www.manton.org/libraries-austin">a web page of all the libraries</a>, with photos and links to the microblog posts for each day. The posts are also tagged with <a href="http://www.manton.org/tag/newlibraries">#newlibraries</a>.</p>
+<p>After wrapping up libraries, I thought I&#8217;d make it a trilogy of 30-day endeavors, with a final 30 days of working from city parks. This was a suggestion from <a href="https://twitter.com/dcoder">Daniel Hedrick</a>, who had worked from parks before, tethering to his iPhone since there&#8217;s usually no wi-fi. I loved the idea right away because it fit so well with the goal of getting out of the house and discovering something new in my own city. I even spent a couple hours earlier in the month researching parks and planning out whether I could do it.</p>
+<p>But now that it has come to it&#8230; I am really burned out on commuting. Finding new coffee shops and libraries has been a great experience. There are several wonderful places that I know I will return to again, and I never would have found them otherwise. I just need a little break from the forced routine of driving somewhere new each day. Maybe I&#8217;ll pick up the parks idea next year.</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>Is this even possible?</title>
 		<link>http://www.manton.org/2016/02/is-this-even-possible.html</link>
-		<comments>http://www.manton.org/2016/02/is-this-even-possible.html#comments</comments>
 		<pubDate>Sat, 27 Feb 2016 21:08:33 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Personal]]></category>
@@ -35,13 +53,10 @@
 <p>And it&#8217;s easy to take a simple idea and build it into a more advanced project. <a href="http://www.coreint.org/2016/02/episode-221-in-the-zone-of-programming/">On the latest Core Intuition</a>, Daniel continues to suggest ways to add layers to my coffee trips, from adding photos, to publishing future locations ahead of time so that anyone can stop by and join me for a coffee. (I&#8217;m going to be doing this.)</p>
 <p>Now at day 10, I can more easily answer the original question, though. I have 16 suggested coffee shops in the queue, so if I visit all of those, I&#8217;ll only need 4 more places to hit 30 new coffee shops in 30 days. A few of these might seem like borderline cheats — a donut shop, or a food truck to pick up a Thai iced coffee — but being exposed to new places I would never otherwise go is the whole point.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2016/02/is-this-even-possible.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Austin rain</title>
 		<link>http://www.manton.org/2015/06/2637.html</link>
-		<comments>http://www.manton.org/2015/06/2637.html#comments</comments>
 		<pubDate>Tue, 02 Jun 2015 14:36:35 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Personal]]></category>
@@ -55,14 +70,11 @@
 <p><img src="http://www.manton.org/images/2015/sunny_week.png" width="600" height="115" alt="10 days" border="0" /></p>
 <p>Contrast with <a href="https://www.dropbox.com/s/fo8hh82rf5a2az5/Balcones%20lake%20flooding.mov?dl=0">this video</a> we took on our street last week. We get our fair share of thunderstorms, but I had never seen anything quite like the rain we got last month.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/06/2637.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-<enclosure url="https://www.dropbox.com/s/fo8hh82rf5a2az5/Balcones%20lake%20flooding.mov?dl=0" length="0" type="video/quicktime" />
+	<enclosure url="https://www.dropbox.com/s/fo8hh82rf5a2az5/Balcones%20lake%20flooding.mov?dl=0" length="0" type="video/quicktime" />
 		</item>
 		<item>
 		<title>Google Fiber in Austin</title>
 		<link>http://www.manton.org/2013/04/google_fiber_in.html</link>
-		<comments>http://www.manton.org/2013/04/google_fiber_in.html#comments</comments>
 		<pubDate>Wed, 10 Apr 2013 22:41:12 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -84,13 +96,10 @@
 <p>Another interesting angle to the announcement: each Google Fiber customer also gets 1 <em>terabyte</em> of Google Drive storage. This sounded like a fantastic deal until I checked the normal Google Drive plans. They already have a 1 TB plan at $50/month, with more expensive options all the way up to 16 TB. (Dropbox stops at 500 GB unless you jump to their business-level “teams” plan.)</p>
 <p>Maybe that is the first killer app for fiber. Not syncing files, as Dropbox pioneered, but cloud storage that is fast enough to be more like an extension of your local hard drive than a mirror of it. Something like <a href="http://www.macworld.com/article/2012884/apple-unveils-fusion-drive-for-new-imac-and-mac-mini.html">Apple’s Fusion Drive</a>, but where the slow hard drive is the cloud, and the SSD is just a local cache.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/04/google_fiber_in.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>360iDev Austin (in tweets)</title>
 		<link>http://www.manton.org/2010/12/360idev_austin_in.html</link>
-		<comments>http://www.manton.org/2010/12/360idev_austin_in.html#comments</comments>
 		<pubDate>Wed, 15 Dec 2010 17:08:04 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Events]]></category>
@@ -106,13 +115,10 @@
 <p>And my main concern leading into the conference &mdash; that the hotel location would make it difficult for people to head downtown or see other parts of Austin &mdash; turned out to be mostly a non-issue. I had a great time hanging out with everyone in the evening, and hope some of you will be back for SXSW.</p>
 <p>I used Tweet Library to &#8220;collect about 120 tweets from attendees&#8221;:http://www.tweetlibrary.com/manton/360idevaustin at the conference: reaction to sessions, quotes, speaker slide URLs, dinner out, and more. Capturing an event like this is why I built the app. What you had for dinner isn&#8217;t interesting by itself, but <em>in context</em> it is powerful because it tells a story.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2010/12/360idev_austin_in.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>MacHeist, roofing, and making it up on volume</title>
 		<link>http://www.manton.org/2009/04/macheist_roofing_and.html</link>
-		<comments>http://www.manton.org/2009/04/macheist_roofing_and.html#comments</comments>
 		<pubDate>Wed, 15 Apr 2009 01:44:58 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -129,13 +135,10 @@
 <p>I&#8217;ve learned a few things from all of this that I think will help me make &#8220;my own indie business&#8221;:http://www.riverfold.com/ stronger, or at least more consistent. I gladly give free licenses to reviewers, bloggers, and small Mac user groups. I also routinely do 10-20% off discounts that anyone who knows how to search Twitter or &#8220;RetailMeNot.com&#8221;:http://www.retailmenot.com/ can use.</p>
 <p>But I&#8217;m just going to have a default &#8220;no thanks&#8221; answer for big promotions and mass giveaways. It&#8217;s consistent with what I believe about keeping prices fair to sustain a Mac business, and it takes the guess work out of which promotions harm the Mac ecosystem and which are a great deal for everyone.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2009/04/macheist_roofing_and.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>STAPLE! in Austin today (year 4)</title>
 		<link>http://www.manton.org/2008/03/staple_in_austin.html</link>
-		<comments>http://www.manton.org/2008/03/staple_in_austin.html#comments</comments>
 		<pubDate>Sat, 01 Mar 2008 15:30:41 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Comics]]></category>
@@ -150,13 +153,10 @@
 		<description><![CDATA[Like independent comics and art? &#8220;STAPLE! is in Austin today&#8221;:http://www.staple-austin.org/ at the Monarch Event Center, off I-35 and 2222. I&#8217;ve been on the STAPLE! planning committee for four years now and have enjoyed watching our little show grow from its humble beginnings, but it&#8217;s still a completely non-profit, volunteer-led endeavor and we need your support [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>Like independent comics and art? &#8220;STAPLE! is in Austin today&#8221;:http://www.staple-austin.org/ at the Monarch Event Center, off I-35 and 2222. I&#8217;ve been on the STAPLE! planning committee for four years now and have enjoyed watching our little show grow from its humble beginnings, but it&#8217;s still a completely non-profit, volunteer-led endeavor and we need your support to make it a success. Come join us anytime between 11am and 7pm (or &#8220;check the schedule&#8221;:http://www.staple-austin.org/guests/ for our featured session times), and then come back downtown later tonight for the after-party and live-art show at Red&#8217;s Scoot Inn (&#8220;flyer&#8221;:http://www.staple-austin.org/promote/staple2008_afterparty.jpg).</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2008/03/staple_in_austin.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>TwitterConf 2007</title>
 		<link>http://www.manton.org/2007/03/twitterconf_2007.html</link>
-		<comments>http://www.manton.org/2007/03/twitterconf_2007.html#comments</comments>
 		<pubDate>Thu, 22 Mar 2007 05:55:56 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Events]]></category>
@@ -174,13 +174,10 @@
 <blockquote><p>&#8220;What I realized, and what I need to do if I return to SXSW, is that in order to enjoy what SXSW Interactive has become (and boy, has it changed since 1999) I have to take a more Zen-like approach, ignoring all the Things I Could Be Doing, and focus on simply getting the most out of whatever I Am Doing.&#8221;</p></blockquote>
 <p>Seeya next year.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2007/03/twitterconf_2007.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Austin on Rails</title>
 		<link>http://www.manton.org/2006/02/austin_on_rails.html</link>
-		<comments>http://www.manton.org/2006/02/austin_on_rails.html#comments</comments>
 		<pubDate>Thu, 23 Feb 2006 03:45:32 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -196,13 +193,10 @@
 <p>Also just announced: the <a href="http://www.austinonrails.org/articles/2006/02/21/austin-on-rails-happy-hour-at-sxsw">Rails Happy Hour at SXSW</a>. Should be fun.</p>
 <p><center><img src="http://www.manton.org/images/2006/bruce_tate.jpg" border="0" height="158" width="400" alt="Bruce Tate photo" style="border: solid 1px gray;" title="Bruce Tate answers questions after his presentation" /><br /><i>Bruce Tate answers questions after his presentation</i></center></p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2006/02/austin_on_rails.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Alison Krauss</title>
 		<link>http://www.manton.org/2005/06/alison_krauss.html</link>
-		<comments>http://www.manton.org/2005/06/alison_krauss.html#comments</comments>
 		<pubDate>Mon, 27 Jun 2005 01:20:45 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Music]]></category>
@@ -215,11 +209,9 @@
 <p>Inside none of that could be seen or mattered, though, and the stars came out midway through the set on a clear sky above the open-air venue. Alison&#8217;s voice was beautiful and effortless. Songs from the O Brother Where Art Thou soundtrack, other great tracks like The Lucky One and Restless, and a bunch of incredible songs that were new to me. For the encore, her voice soared as if she hasn&#8217;t even really been trying before. The audience was moved and in the span of an hour I went from being a little familiar with a few songs, to a life-long fan.</p>
 <p>Need some music? The <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewMix?id=40809933&#038;wm=1">Alison Krauss iTunes Essentials</a> is a good place to start.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2005/06/alison_krauss.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.338 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 15:01:45 -->
+<!-- Dynamic page generated in 0.299 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 14:58:15 -->

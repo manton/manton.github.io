@@ -8,19 +8,40 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; cars</title>
+	<title>cars &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/cars/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 15:09:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
+		<title>Apple Maps adds ChargePoint</title>
+		<link>http://www.manton.org/2016/12/apple-maps-adds-chargepoint.html</link>
+		<pubDate>Fri, 09 Dec 2016 20:16:52 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[cars]]></category>
+		<category><![CDATA[electric]]></category>
+		<category><![CDATA[maps]]></category>
+		<category><![CDATA[travel]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4540</guid>
+		<description><![CDATA[A few of years ago we took a vacation to New York City and Montreal. We were taking the subway so often, I switched to Google Maps for its transit directions. I&#8217;ve been using Google Maps exclusively ever since. Until now, there were very few reasons to go back to Apple Maps. Apple has been [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>A few of years ago we took a vacation to New York City and Montreal. We were taking the subway so often, I switched to Google Maps for its transit directions. I&#8217;ve been using Google Maps exclusively ever since.</p>
+<p>Until now, there were very few reasons to go back to Apple Maps. Apple has been playing catch-up. <a href="https://blog.asmartbear.com/complex-decisions.html">Why use a product</a> that is only adding features from a competitor, but not anything new?</p>
+<p>This week Apple rolled out a unique feature that&#8217;s interesting to me: ChargePoint integration to find charging locations for electric cars. Ryan Christoffel covers it <a href="https://www.macstories.net/linked/apple-maps-adds-chargepoint-integration/">at MacStories</a>:</p>
+<blockquote><p>
+  Having spent several years building partnerships to ensure its data won&#8217;t lead any drivers astray, Apple has more recently been able to focus on integrating data that&#8217;s less important, but still quite useful. A few months ago we saw the company <a href="https://www.macstories.net/linked/parkopedia-and-apple-strike-maps-deal/">team up with Parkopedia</a> to improve parking data, and now charging stations are a natural next step.
+</p></blockquote>
+<p>I rarely need this — and the ChargePoint app itself has more detail, such as how many spots are actually available — but I&#8217;m excited about it as a new feature. I hope that it represents a fundamental improvement across the maps platform. I&#8217;m putting Apple Maps back on my home screen for a while.</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>My new electric car</title>
 		<link>http://www.manton.org/2014/11/my-new-electric-car.html</link>
-		<comments>http://www.manton.org/2014/11/my-new-electric-car.html#comments</comments>
 		<pubDate>Thu, 20 Nov 2014 14:06:48 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Personal]]></category>
@@ -40,13 +61,10 @@
 <p>While I&#8217;ve always been pretty good at <a href="http://en.wikipedia.org/wiki/Energy-efficient_driving">hypermiling</a>, the Leaf has made me even more conscious of it. I drove to my daughter&#8217;s basketball game in Georgetown last week, 30 miles away on the toll road. Sustaining 75mph is the worst and dragged my miles/kWh down a notch. On the way back, I drove the more direct, non-toll route and got significantly more efficiency at respectable speeds with some breaking.</p>
 <p>But cruising down the highway it&#8217;s easy to see that this is the way the world should be, in time. Good new tech always reminds me of that first feeling we got when using the original iPhone, how it felt like the whole thing was from 5 years in the future. It&#8217;s not that extreme with the Leaf, but I still see a little of that, a glimpse that it&#8217;s more advanced than it should be. I think this may be the best car I&#8217;ve ever owned.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2014/11/my-new-electric-car.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Cars</title>
 		<link>http://www.manton.org/2006/09/cars.html</link>
-		<comments>http://www.manton.org/2006/09/cars.html#comments</comments>
 		<pubDate>Wed, 13 Sep 2006 15:25:29 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Animation]]></category>
@@ -63,11 +81,9 @@
 <p>I&#8217;ve seen Cars twice now. Perhaps it&#8217;s because a certain 2-year-old I know says &#8220;zooma!&#8221; more than any word in his limited vocabulary, but this little Pixar film is really growing on me.</p>
 <p>Meanwhile, it looks like &#8220;2d is officially back at Disney&#8221;:http://www.laughingplace.com/News-ID510530.asp. Can&#8217;t wait.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2006/09/cars.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.290 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 15:04:06 -->
+<!-- Dynamic page generated in 0.256 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 12:42:56 -->

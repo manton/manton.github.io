@@ -8,19 +8,42 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; marco</title>
+	<title>marco &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/marco/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
+		<title>Proving Marco&#8217;s 10-year plan</title>
+		<link>http://www.manton.org/2016/08/proving-marcos-10-year-plan.html</link>
+		<pubDate>Wed, 03 Aug 2016 16:21:47 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[indie]]></category>
+		<category><![CDATA[marco]]></category>
+		<category><![CDATA[plans]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4162</guid>
+		<description><![CDATA[Erik Person wants to prove Marco Arment’s claim that indie success just requires working hard for 10 years: Proving whether he is right or wrong is pretty hard to do. Maybe it’s all hard work. Maybe it’s pure luck. Hell, maybe it only takes five years of hard work, and Marco just kind of sucks [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://thaterikperson.com/10-year-challenge">Erik Person wants to prove</a> Marco Arment’s claim that indie success just requires <a href="https://twitter.com/marcoarment/status/654375561696047104">working hard for 10 years</a>:</p>
+<blockquote><p>
+  Proving whether he is right or wrong is pretty hard to do. Maybe it’s all hard work. Maybe it’s pure luck. Hell, maybe it only takes five years of hard work, and Marco just kind of sucks at it. Either way, I’m going to try to prove it. And not by convincing you with some incredibly efficacious essay. Rather, I’m going to start my 10 years of hard work today.
+</p></blockquote>
+<p>In a follow-up post, <a href="https://thaterikperson.com/ten-year-update">6 months later</a>:</p>
+<blockquote><p>
+  In the past six months, I’ve managed to change quite a few things. The biggest change was leaving my job at the end of May. After several months of trying to work on projects in the evenings and weekends, I decided it was necessary to go full-time on the projects if I wanted to see any real progress.
+</p></blockquote>
+<p>I’ve subscribed to Erik’s blog and look forward to following his progress. I hope he blogs more often about how it’s going. If you look at <a href="https://marco.org/2011/08/">Marco’s blog even 5 years ago</a>, he was usually blogging every day. (By the way, “blog more often” is my advice to nearly everyone, including myself.)</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>Core Int 200 with Marco</title>
 		<link>http://www.manton.org/2015/10/core-int-200-with-marco.html</link>
-		<comments>http://www.manton.org/2015/10/core-int-200-with-marco.html#comments</comments>
 		<pubDate>Fri, 02 Oct 2015 13:08:32 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Podcasts]]></category>
@@ -34,13 +57,10 @@
 				<content:encoded><![CDATA[<p>Last night we published our <a href="http://coreint.org/">200th episode of Core Intuition</a>. To mark the milestone, Daniel and I welcomed special guest <a href="http://www.marco.org/">Marco Arment</a>. We talked about the goals behind <a href="https://overcast.fm/">Overcast</a>, his thoughts leading up to version 2.0, the podcast industry, and supporting our products, with a closing discussion about the new iPhones and proper use of 3D Touch.</p>
 <p>Thanks everyone for your support of the show. I hope you enjoy this one.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/10/core-int-200-with-marco.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Peace, indies, and the App Store</title>
 		<link>http://www.manton.org/2015/09/peace-indies-and-the-app-store.html</link>
-		<comments>http://www.manton.org/2015/09/peace-indies-and-the-app-store.html#comments</comments>
 		<pubDate>Sat, 19 Sep 2015 15:53:31 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -59,13 +79,10 @@
 <p>I&#8217;ve seen some comments asking why he didn&#8217;t think to do this sooner, before he even shipped the app. But we are just now starting to understand the impact of ad blockers in iOS 9. I don&#8217;t think it&#8217;s an exaggeration to say that the web is different than it was a few days ago, and so our choices — and Marco&#8217;s — are different too. As I mentioned <a href="http://www.manton.org/2015/09/wrap-up-thoughts-on-the-tv-web.html">yesterday</a>, content blockers are one facet of an overall shake-up for the web.</p>
 <p><a href="http://inessential.com/2015/09/18/why_we_love_indies">Brent Simmons writes</a> that only indies can do what Marco did. Marco must have left a lot of money on the table with this decision. It will always look like the right call to me when someone goes with their gut feeling and not with profit.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/09/peace-indies-and-the-app-store.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Doug Engelbart and the pace of change</title>
 		<link>http://www.manton.org/2013/07/doug_engelbart_and.html</link>
-		<comments>http://www.manton.org/2013/07/doug_engelbart_and.html#comments</comments>
 		<pubDate>Mon, 08 Jul 2013 18:05:13 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -85,11 +102,9 @@
 <p>While there’s certainly a time to <a href="http://www.marco.org/2013/06/11/fertile-ground">burn the forest for new growth and opportunity</a>, I have little patience for those developers who spend more time <a href="http://edgeguides.rubyonrails.org/4_0_release_notes.html">breaking old code than creating new value</a>. Maybe it’s a sign I’m getting old — that I’ve lost my taste for innovation at a technical low level — but I don’t look forward to rewriting all my working code again and again.</p>
 <p>Very little has changed in this regard since I wrote <a href="http://www.manton.org/2010/08/deprecation_mentality.html">a blog post about deprecation</a> in 2010, which (fittingly) also linked to Dave Winer.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/07/doug_engelbart_and.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.303 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 15:00:26 -->
+<!-- Dynamic page generated in 0.261 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 14:36:46 -->

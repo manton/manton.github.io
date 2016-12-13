@@ -8,19 +8,77 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; basketball</title>
+	<title>basketball &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/basketball/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
+		<title>Spurs at the Olympics</title>
+		<link>http://www.manton.org/2016/08/spurs-at-the-olympics.html</link>
+		<pubDate>Wed, 17 Aug 2016 18:02:41 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[basketball]]></category>
+		<category><![CDATA[olympics]]></category>
+		<category><![CDATA[spurs]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4187</guid>
+		<description><![CDATA[I&#8217;m watching Spain vs. France basketball right now, and later today is Argentina vs. the United States. No question the United States are the favorites for gold, but there are some really good teams, most with great NBA players. From the double-overtime win by Argentina a few days ago, to Boris Diaw sipping an espresso [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;m watching Spain vs. France basketball right now, and later today is Argentina vs. the United States. No question the United States are the favorites for gold, but there are some really good teams, most with great NBA players.</p>
+<p>From the double-overtime win by Argentina <a href="http://www.manton.org/2016/08/4178.html">a few days ago</a>, to Boris Diaw <a href="https://www.instagram.com/p/BJJAJTGgdkK/">sipping an espresso</a> in his room, I&#8217;ve been more engaged in following basketball at the Olympics than usual. And I love that so many Spurs players are everywhere.</p>
+<p>Spain has Pau Gasol; Argentina has Manu Ginobili, who helped defeat the United States in 2004; Australia has Patty Mills; and France has Tony Parker. Gives me something to root for throughout the tournament.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Client work and new podcasts</title>
+		<link>http://www.manton.org/2016/05/client-work-and-new-podcasts.html</link>
+		<pubDate>Wed, 04 May 2016 14:59:42 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[basketball]]></category>
+		<category><![CDATA[commuting]]></category>
+		<category><![CDATA[nba]]></category>
+		<category><![CDATA[technicalfoul]]></category>
+		<category><![CDATA[timetable]]></category>
+		<category><![CDATA[work]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3908</guid>
+		<description><![CDATA[As I mentioned in my wrap-up post about working from libraries, spending so much time commuting all over the city (and outside the city) had really burned me out. Over the last couple of weeks, I&#8217;ve overcompensated a little and have been working from home almost exclusively. I&#8217;ve also been catching up on client work. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>As I mentioned in <a href="http://www.manton.org/2016/04/libraries-for-30-days-wrap-up.html">my wrap-up post about working from libraries</a>, spending so much time commuting all over the city (and outside the city) had really burned me out. Over the last couple of weeks, I&#8217;ve overcompensated a little and have been working from home almost exclusively. I&#8217;ve also been catching up on client work.</p>
+<p>I recorded <a href="http://timetable.manton.org/2016/05/episode-21-the-right-work-balance/">a new episode of Timetable</a> this morning to try to capture this change in work focus. Talking into the microphone for 5 minutes actually helped me assess where I&#8217;m at with my projects, and what I need to adjust to continue to make this blog and my podcasts a priority.</p>
+<p>And speaking of podcasts, <a href="https://stratechery.com/">Ben Thompson</a> and I published <a href="http://technicalfoul.fm/episode-03-chaos/">episode 3 of Technical Foul</a> last night. We talk a lot about the wild last minute of Spurs/Thunder game 2, which I&#8217;m still thinking about even a couple days later.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>My new podcast about&#8230; basketball!</title>
+		<link>http://www.manton.org/2016/04/my-new-podcast-about-basketball.html</link>
+		<pubDate>Fri, 22 Apr 2016 18:48:16 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[basketball]]></category>
+		<category><![CDATA[nba]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[spurs]]></category>
+		<category><![CDATA[warriors]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3901</guid>
+		<description><![CDATA[It used to be that I would stay up until midnight working in Xcode. This year, it&#8217;s more likely that I&#8217;ll stay up until midnight watching late NBA games played on the west coast. I&#8217;ve loved this season, from Golden State&#8217;s record wins to being able to visit San Antonio a few times to catch [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>It used to be that I would stay up until midnight working in Xcode. This year, it&#8217;s more likely that I&#8217;ll stay up until midnight watching late NBA games played on the west coast. I&#8217;ve loved this season, from Golden State&#8217;s record wins to being able to visit San Antonio a few times to catch Spurs games.</p>
+<p>So why not do a basketball podcast? Today, <a href="https://stratechery.com/">Ben Thompson</a> and I released the first episode of <a href="http://technicalfoul.fm/">TECHnical Foul</a>. From the show notes:</p>
+<blockquote><p>
+  Welcome to the first episode of the TECHnical Foul, in which two wildly unqualified tech geeks geek out about the NBA. In this episode we debate 96 Bulls vs the 16 Warriors, Kobe’s final game, what makes the Spurs great, whether the Spurs can beat the Warriors, and a quick overview of the first round.
+</p></blockquote>
+<p>We had a lot of fun recording this. If you&#8217;re a basketball fan, or just need some variety in your podcast subscriptions, I hope you enjoy it.</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>Matt Bonner and the iPhone 6</title>
 		<link>http://www.manton.org/2015/07/matt-bonner-and-the-iphone-6.html</link>
-		<comments>http://www.manton.org/2015/07/matt-bonner-and-the-iphone-6.html#comments</comments>
 		<pubDate>Tue, 07 Jul 2015 19:18:21 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -36,11 +94,9 @@
 </p></blockquote>
 <p>Bring on the iPhone 6C in a 4-inch plastic design. The current phones are dangerously too big.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/07/matt-bonner-and-the-iphone-6.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.298 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 15:12:28 -->
+<!-- Dynamic page generated in 0.268 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 14:57:39 -->

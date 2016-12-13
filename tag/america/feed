@@ -8,19 +8,42 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; america</title>
+	<title>america &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/america/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
+		<title>This is Hillary&#8217;s week</title>
+		<link>http://www.manton.org/2016/07/this-is-hillarys-week.html</link>
+		<pubDate>Mon, 25 Jul 2016 16:28:21 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Politics]]></category>
+		<category><![CDATA[america]]></category>
+		<category><![CDATA[clinton]]></category>
+		<category><![CDATA[democrats]]></category>
+		<category><![CDATA[election]]></category>
+		<category><![CDATA[hillary]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4144</guid>
+		<description><![CDATA[The Democratic National Convention starts today and the latest round of polls are out. FiveThirtyEight&#8217;s polls-only estimate of the election now shows Trump in the lead. Just in case you think we can not vote or not volunteer, and Hillary will coast to a win anyway&#8230; we can&#8217;t. As a long-time Hillary supporter — I recorded [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The Democratic National Convention starts today and the latest round of polls are out. <a href="http://projects.fivethirtyeight.com/2016-election-forecast/#now">FiveThirtyEight&#8217;s polls-only estimate</a> of the election now shows Trump in the lead. Just in case you think we can not vote or not volunteer, and Hillary will coast to a win anyway&#8230; we can&#8217;t.</p>
+<p>As a long-time Hillary supporter — I <a href="http://www.manton.org/2008/02/hillary_podcast.html">recorded a podcast episode</a> about the primary process back in 2008, which I&#8217;m still very proud of — I&#8217;m increasingly frustrated to realize how much damage has been done with the constant attacks against her character over 20 years. She&#8217;s held to a different standard of perfection than everyone else. But she&#8217;s a very good candidate and <a href="https://www.theguardian.com/commentisfree/2016/mar/28/hillary-clinton-honest-transparency-jill-abramson">fundamentally honest</a>.</p>
+<p>Let&#8217;s not forget how historic this election is. <a href="http://www.nytimes.com/2016/07/24/opinion/campaign-stops/behind-hillarys-mask.html">From a New York Times profile</a> by Gail Collins:</p>
+<blockquote><p>
+  You can argue the pros and cons of Hillary Clinton’s character, or her potential to change the nation, or her position on trade policy. But you can never take away the fact that she was the one who made the idea of a woman becoming president so normal that many young women are bored by it.
+</p></blockquote>
+<p>If Hillary wins, future generations will grow up learning about how Republicans (and even some Democrats) threw everything at her for decades, and she never gave up on politics. Success isn&#8217;t just the best ideas, the best product, the best marketing. Success is perseverance.</p>
+<p>There are many people alive today who were born before women had the right to vote. Trump is wrong about what makes America &#8220;great&#8221;. The country is great because it is progressive, even if progress takes a long time. Electing the first woman president isn&#8217;t supposed to be easy. Hillary is a strong Democrat, and her place in history is worth fighting for and celebrating.</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>Morality for and against war</title>
 		<link>http://www.manton.org/2002/11/morality_for_and.html</link>
-		<comments>http://www.manton.org/2002/11/morality_for_and.html#comments</comments>
 		<pubDate>Fri, 15 Nov 2002 14:17:15 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Personal]]></category>
@@ -34,11 +57,9 @@
 <p>Meanwhile, Bob Kerrey (former Democratic senator) <a href="http://www.salon.com/politics/feature/2002/11/11/kerrey/index.html">makes the moral case <b>for</b> war in Iraq</a>:</p>
 <blockquote><p>&#8220;We know what a terrible thing we did after the Gulf War to encourage Iraqis to rise up and then not follow through in helping them. But you can&#8217;t take the worst America has done and then cite it as reason not to try and do anything good.&#8221;</p></blockquote>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2002/11/morality_for_and.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.304 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 15:11:51 -->
+<!-- Dynamic page generated in 0.245 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 14:55:48 -->

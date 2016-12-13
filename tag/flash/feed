@@ -8,19 +8,18 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; flash</title>
+	<title>flash &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/flash/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 20:30:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
 		<title>Kevin Lynch at Apple</title>
 		<link>http://www.manton.org/2013/03/kevin_lynch_at.html</link>
-		<comments>http://www.manton.org/2013/03/kevin_lynch_at.html#comments</comments>
 		<pubDate>Wed, 20 Mar 2013 08:38:25 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -42,13 +41,10 @@
 <p>Was he wrong about Flash? Yes. But I choose to view his move to Apple as an indication that he was at the wrong company more than that he was completely wrong-headed. Maybe it was time for something new, a course correction back to the earlier part of his career. Skepticism about this hire is fine, but to treat him as an outsider is to forget the other great things he’s worked on. Once you’ve built Mac software, no matter how long ago, you’ll always be one of us.</p>
 <p>I hope Apple sees it that way too. Because if Apple is confident of anything, it’s that they can’t get stuck in one old way of thinking, can’t discount good people because of one unforgivable bad idea. That Apple is able to brush aside the Flash debate as yesterday’s news — even accept as a VP someone who was at the heart of that debate, and on the wrong side — shows to me that they’re only looking forward.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/03/kevin_lynch_at.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Wii Transfer 2.7</title>
 		<link>http://www.manton.org/2010/01/wii_transfer_27.html</link>
-		<comments>http://www.manton.org/2010/01/wii_transfer_27.html#comments</comments>
 		<pubDate>Wed, 20 Jan 2010 03:43:56 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -62,13 +58,10 @@
 <p>For this release, I sat down with Wii Transfer and a ripped copy of Star Trek, and I just watched it over and over, experimenting with different Flash Video conversion settings and tweaking networking code. I wasn&#8217;t going to release this until I could watch a 2-hour movie without any rebuffering. The quality is never going to be as good as a console or set-top box with dedicated video streaming features &mdash; this is Flash on the Wii we are talking about &mdash; but I&#8217;m happy with what I came up with.</p>
 <p>Wii Transfer is still only $19, and version 2.7 is a free upgrade for any customer who ever bought the application going back to 1.0 over three years ago. Also an important reminder: <em>all sales go to charity starting tomorrow, January 20th</em>, as part of &#8220;Indie Relief&#8221;:http://www.indierelief.com/.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2010/01/wii_transfer_27.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>FLV metadata performance</title>
 		<link>http://www.manton.org/2008/08/flv_metadata_performance.html</link>
-		<comments>http://www.manton.org/2008/08/flv_metadata_performance.html#comments</comments>
 		<pubDate>Mon, 11 Aug 2008 05:57:25 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -85,13 +78,10 @@
 <p><img src="http://www.manton.org/images/2008/flv_chart.png" alt="FLV chart" border="0" width="506" height="143" /></p>
 <p>The other good thing that came out of all this work is that I can now look at a FLV file in a hex editor and not be totally confused. &#8220;Hex Fiend&#8221;:http://ridiculousfish.com/hexfiend/ was one of the best ways to debug what my code was doing when it failed.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2008/08/flv_metadata_performance.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Holiday hacking on Wii Transfer 2.0</title>
 		<link>http://www.manton.org/2007/01/holiday_hacking_on.html</link>
-		<comments>http://www.manton.org/2007/01/holiday_hacking_on.html#comments</comments>
 		<pubDate>Wed, 03 Jan 2007 06:02:43 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Programming]]></category>
@@ -109,13 +99,10 @@
 <p>I also started back on &#8220;real work&#8221;:http://www.vitalsource.com/ today. We have some neat stuff shipping later this month that I&#8217;ll be blogging about more once it&#8217;s ready to show. I knew I could easily get lost in inconsequential stuff on the Tuesday after a long break, so I spent a bit of time yesterday reviewing to-do lists and getting my head on straight. Got some real coding and design done today, so no complaints there either.</p>
 <p>All in all, 2007 is starting off great. (Except that I still seem to be sick, but I&#8217;m going to try to ignore that for a bit longer.)</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2007/01/holiday_hacking_on.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Mediocrity is the new application platform</title>
 		<link>http://www.manton.org/2006/03/mediocrity_is_the.html</link>
-		<comments>http://www.manton.org/2006/03/mediocrity_is_the.html#comments</comments>
 		<pubDate>Fri, 10 Mar 2006 03:41:13 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[User Experience]]></category>
@@ -148,11 +135,9 @@
 <p>Something else is changing in the HTML/CSS/JavaScript platform. In 2004, <a href="http://www.joelonsoftware.com/articles/APIWar.html">Joel Spolsky wrote</a> about how instead of picking Mac, Windows, or Linux APIs, developers are building for the web platform and can deploy to any user&#8217;s desktop. Cutting-edge web applications push that claim to its breaking point, as differences between Safari, Mozilla, and Internet Explorer often cause headaches for developers. It&#8217;s no surprise when Microsoft&#8217;s set of Office Live applications require Internet Explorer, but it <i>is</i> note-worthy when Google&#8217;s chat interface does not work in Safari. There is now a whole set of web applications that require the latest version of Mozilla and won&#8217;t work in anything less.</p>
 <p>Five years ago we accepted that web applications were going to be useful but ultimately unfulfilling, joyless experiences. Now most web apps have risen from bad to simply mediocre. The truly great ones have a foundation and design that would still be unrivaled in a desktop app. These amazing apps are not content to reimplement an old application as a web app just to allow use from any machine, but they take it to the next step: rethink the problem, stay agile, and redesign so that it&#8217;s not just web-based, but it&#8217;s <i>actually better</i>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2006/03/mediocrity_is_the.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.355 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 15:07:37 -->
+<!-- Dynamic page generated in 0.251 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 15:28:02 -->
