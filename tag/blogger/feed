@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>blogger &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/blogger/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:36:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>File format legacy</title>
+		<link>http://www.manton.org/2012/07/file_format_legacy.html</link>
+		<pubDate>Fri, 27 Jul 2012 14:26:50 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[atom]]></category>
+		<category><![CDATA[blogger]]></category>
+		<category><![CDATA[movabletype]]></category>
+		<category><![CDATA[rss]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2012/07/file_format_legacy.html</guid>
+		<description><![CDATA[Last year I had to migrate the news blog section of the Staple! site from an ancient version of Movable Type (version 2.x) to Blogger. Even though Blogger has recently dropped features and seems mostly deprecated in favor of Google+, for this site there were a ton of existing users on Blogger. Upgrading just made [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Last year I had to migrate the news blog section of the <a href="http://www.staple-austin.org/">Staple! site</a> from an ancient version of Movable Type (version 2.x) to Blogger. Even though Blogger has recently dropped features and seems mostly deprecated in favor of Google+, for this site there were a ton of existing users on Blogger. Upgrading just made sense.</p>
+<p>However, what a file format mess. Export in Movable Type&#8217;s custom text format; import in Blogger&#8217;s Atom format. So first step is to find a service that&#8217;ll convert between the two, then manually fix up usernames so it imports properly. I exported, tweaked, and imported this file at least a dozen times before getting it right.</p>
+<p>I was so frustrated because this wasn&#8217;t just accidental bugs. Developers made conscious choices that led us to this compatibility dead-end. They <a href="http://www.flickr.com/photos/kellan/7354863752/in/photostream">bet against Dave Winer and lost</a> at a pivotal time in the development of blogging.</p>
+<p>We had a format that was perfect for both blog syndication and as an interchange format between systems: RSS. Instead, some developers criticized RSS, then proceeded to create new products that have not been well cared for.</p>
+<p>That is now part of their legacy. 10 years after blogging went mainstream, the end result of reinventing the wheel isn&#8217;t better software, it&#8217;s user frustration trying to get anything to work together.</p>
+<p>This lesson keeps playing out, as if we&#8217;re doomed to repeat it with each new generation of file formats. Here&#8217;s this week&#8217;s post from Eran Hammer <a href="http://hueniverse.com/2012/07/oauth-2-0-and-the-road-to-hell/">declaring OAuth 2.0 a failed format</a>:</p>
+<blockquote><p>
+  &#8220;The web does not need yet another security framework. It needs simple, well-defined, and narrowly suited protocols that will lead to improved security and increased interoperability. OAuth 2.0 fails to accomplish anything meaningful over the protocol it seeks to replace.&#8221;
+</p></blockquote>
+<p>If you have a choice, always pick the old boring format that works above the new hotness that is only theoretically better.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Wayback</title>
+		<link>http://www.manton.org/2011/03/wayback.html</link>
+		<pubDate>Wed, 09 Mar 2011 13:11:45 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[blogger]]></category>
+		<category><![CDATA[evan]]></category>
+		<category><![CDATA[sxsw]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2011/03/wayback.html</guid>
+		<description><![CDATA[Today is the 9th anniversary of this blog. Once a year I dig through old posts, remembering what the industry was like and the topics I was interested in. This time I found a link to a post Evan Williams wrote in 2001 as Pyra Labs and Blogger were struggling: &#8220;First of all, the company [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Today is the 9th anniversary of this blog. Once a year I dig through old posts, remembering what the industry was like and the topics I was interested in. This time I found a link to a post Evan Williams wrote in 2001 as Pyra Labs and Blogger were struggling:</p>
+<blockquote><p>&#8220;First of all, the company (Pyra) is not dead, and the service (Blogger) is not going away. However: We are out of money, and I have lost my team.&#8221;</p></blockquote>
+<p>And:</p>
+<blockquote><p>&#8220;Yes, things would have been very, very different if the Internet Bubble wouldn&#8217;t have burst and we were still in that&#8230;that, Other World in which we started. In that world, things that seem dumb now (such as launching a product and letting it grow for so long without making revenue from it a priority) made sense.&#8221;</p></blockquote>
+<p>The full text is &#8220;available on the Wayback Machine&#8221;:http://replay.waybackmachine.org/200102040700/http://www.evhead.com/longer/2200706_essays.asp. I wish more CEOs blogged with even half the sincerity.</p>
+<p>SXSW Interactive starts this weekend. When Evan wrote the above, the conference was a few rooms along a single hallway. Now it&#8217;s a monster conference, spread across multiple venues, with a speaker database so dense I don&#8217;t even know where to start. Still, I&#8217;ll be there and hope to catch up with any of y&#8217;all making it to Austin.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.259 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 17:07:30 -->

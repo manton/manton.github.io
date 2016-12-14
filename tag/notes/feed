@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>notes &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/notes/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:36:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>iCloud is too opaque</title>
+		<link>http://www.manton.org/2016/02/icloud-is-too-opaque.html</link>
+		<pubDate>Fri, 12 Feb 2016 17:15:58 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[cloudkit]]></category>
+		<category><![CDATA[dropbox]]></category>
+		<category><![CDATA[icloud]]></category>
+		<category><![CDATA[notes]]></category>
+		<category><![CDATA[paper]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3518</guid>
+		<description><![CDATA[Last night, Federico Viticci tweeted that he lost a draft blog post he was working on because of an iCloud problem: &#8220;Just lost 1.5k words I had prepared for tomorrow because I wanted to try iCloud sync instead of Dropbox this week.&#8221; The story has a happy ending because he was able to manually recover [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Last night, <a href="https://twitter.com/viticci/status/697911652142968832">Federico Viticci tweeted</a> that he lost a draft blog post he was working on because of an iCloud problem:</p>
+<blockquote><p>
+  &#8220;Just lost 1.5k words I had prepared for tomorrow because I wanted to try iCloud sync instead of Dropbox this week.&#8221;
+</p></blockquote>
+<p>The story has a happy ending because he was able to manually recover the document from the app&#8217;s database, but that is well beyond the complexity that most users could handle. iCloud is usually so opaque that we just can&#8217;t see what is going on behind the scenes with our data.</p>
+<p>Everything I write on this blog (and notes for all my projects) goes into simple text files on Dropbox. I can edit from multiple apps on different platforms, the files are synced everywhere, and Dropbox tracks the revisions of each file so that I can restore a previous version at any time. I could take the text file I&#8217;m currently typing in, drag it to the Finder&#8217;s trash <em>and empty it</em>, and restore from the web in 30 seconds even without any kind of traditional backup solution.</p>
+<p>That&#8217;s why all my photos are on Dropbox too. Instead of being opaque like iCloud, with no easy way to troubleshoot or recover files when things go wrong, with Dropbox it&#8217;s all there in the local file system or over the web.</p>
+<p>Dropbox has had a few side projects and distractions, but their foundation is obvious and accessible, so they can keep coming back to that. <a href="http://www.512pixels.net/blog/2015/12/dropbox-to-discontinue-mailbox-and-carousel">Here&#8217;s Stephen Hackett writing in December</a> about documents and photos after Dropbox shut down Mailbox and Carousel:</p>
+<blockquote><p>
+  &#8220;As much as these apps were loved by their users, it&#8217;s clear that the company is moving in another direction. While things like Paper don&#8217;t make much of a difference to me, knowing that Dropbox will reliably sync my files, be easy to use on iOS and continue to be around is important to me. If Mailbox and Carousel had to go to make that possible, then so be it.&#8221;
+</p></blockquote>
+<p>I really like the clean UI in Dropbox’s Paper, but because it doesn’t yet sync with regular files like the rest of Dropbox, Paper isn’t building on Dropbox’s core strengths. Daniel and I use it for planning <a href="http://www.coreint.org/">Core Intuition</a>, but I wouldn’t use it for critical writing any more than I would use the new Apple Notes.</p>
+<p>I hear that people love iCloud Photo Library and Notes, and that the quality of these apps and companion services has significantly improved. That&#8217;s great. (I also think that CloudKit is clearly the best thing Apple has built for syncing yet.)</p>
+<p>But to me, it doesn&#8217;t matter if it&#8217;s reliable or fast, or even if it “always” works. It only matters if I trust it when something goes wrong. Conceptually I’m not sure iCloud will ever get there for me.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Push-based sync</title>
+		<link>http://www.manton.org/2011/07/pushbased_sync.html</link>
+		<pubDate>Fri, 01 Jul 2011 16:13:37 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[bookshelf]]></category>
+		<category><![CDATA[icloud]]></category>
+		<category><![CDATA[notes]]></category>
+		<category><![CDATA[push]]></category>
+		<category><![CDATA[sync]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2011/07/pushbased_sync.html</guid>
+		<description><![CDATA[&#8220;Guy English writes about iCloud&#8221;:http://kickingbear.com/blog/archives/202 and the magic glue (Push Notifications&#8217; persistent connection) that makes it work: &#8220;Each of these new features tickle the persistent &#8216;push&#8217; connection and trigger some action on the device. The short-form state may be transmitted immediately and set on any connected device within moments. Document syncing is likely to trigger [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>&#8220;Guy English writes about iCloud&#8221;:http://kickingbear.com/blog/archives/202 and the magic glue (Push Notifications&#8217; persistent connection) that makes it work:</p>
+<blockquote><p>&#8220;Each of these new features tickle the persistent &#8216;push&#8217; connection and trigger some action on the device. The short-form state may be transmitted immediately and set on any connected device within moments. Document syncing is likely to trigger a negotiation process to compare the state on any one device with The Truth stored on Apple servers and replace the document on the device with the latest revision &mdash; this has the advantage of limiting the window between syncing where conflicts are most likely to occur.&#8221;</p></blockquote>
+<p>Sync speed matters. The first note sharing server I built for VitalSource years ago assumed a lot of offline time, and despite &#8220;my blogging in 2007 that it was&#8221;:http://www.manton.org/2007/01/bookshelf_note_sharing.html &#8220;magic&#8221;, in practice it could take 5-10 minutes before all your computers got their act together to get a set of highlights completely synced. With that kind of lag, note edits might happen on a client in the meantime, so we remembered conflicts everywhere and had a UI for resolving them.</p>
+<p>Too complicated. The new system, recently rolled out in Bookshelf for iPhone and iPad, syncs so much more efficiently and quickly that conflicts don&#8217;t need the same emphasis. We can throw away a bunch of code and simplify the user interface.</p>
+<p>I&#8217;ve yet to do anything with iCloud except read the release notes and sit through a couple WWDC sessions, but we&#8217;re going to have a fantastic platform if it can deliver the same speed and reliability of Push Notifications. Guy&#8217;s post is the first I&#8217;ve seen to connect the dots, capturing how well-positioned Apple is to use this plumbing for all sorts of stuff.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.253 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 17:18:39 -->

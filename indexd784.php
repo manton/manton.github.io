@@ -12,12 +12,48 @@
 	<atom:link href="http://www.manton.org/index.php?feed=rss2" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Tue, 13 Dec 2016 15:09:38 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 22:36:17 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
+		<title></title>
+		<link>http://www.manton.org/2016/12/4561.html</link>
+		<pubDate>Tue, 13 Dec 2016 22:36:17 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Snippets]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4561</guid>
+		<description><![CDATA[Going to the AWBASH tonight. 7pm at Buffalo Billiards.]]></description>
+				<content:encoded><![CDATA[<p>Going to the AWBASH tonight. 7pm at Buffalo Billiards.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title></title>
+		<link>http://www.manton.org/2016/12/4559.html</link>
+		<pubDate>Tue, 13 Dec 2016 22:15:05 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Snippets]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4559</guid>
+		<description><![CDATA[New emoji rant: too much detail. The trend to 3x-sized emoji is misguided. They should be the size of text. Emoji aren&#8217;t GIFs or stickers.]]></description>
+				<content:encoded><![CDATA[<p>New emoji rant: too much detail. The trend to 3x-sized emoji is misguided. They should be the size of text. Emoji aren&#8217;t GIFs or stickers.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title></title>
+		<link>http://www.manton.org/2016/12/4557.html</link>
+		<pubDate>Tue, 13 Dec 2016 20:30:14 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Snippets]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4557</guid>
+		<description><![CDATA[&#8220;Dad, it just makes it seem like you&#8217;re trying too hard to be young.&#8221;]]></description>
+				<content:encoded><![CDATA[<p>&#8220;Dad, it just makes it seem like you&#8217;re trying too hard to be young.&#8221;</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>Where I post everything</title>
 		<link>http://www.manton.org/2016/12/where-i-post-everything.html</link>
 		<pubDate>Tue, 13 Dec 2016 15:09:38 +0000</pubDate>
@@ -122,62 +158,6 @@
   Having spent several years building partnerships to ensure its data won&#8217;t lead any drivers astray, Apple has more recently been able to focus on integrating data that&#8217;s less important, but still quite useful. A few months ago we saw the company <a href="https://www.macstories.net/linked/parkopedia-and-apple-strike-maps-deal/">team up with Parkopedia</a> to improve parking data, and now charging stations are a natural next step.
 </p></blockquote>
 <p>I rarely need this — and the ChargePoint app itself has more detail, such as how many spots are actually available — but I&#8217;m excited about it as a new feature. I hope that it represents a fundamental improvement across the maps platform. I&#8217;m putting Apple Maps back on my home screen for a while.</p>
-]]></content:encoded>
-			</item>
-		<item>
-		<title></title>
-		<link>http://www.manton.org/2016/12/4538.html</link>
-		<pubDate>Fri, 09 Dec 2016 18:19:24 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Snippets]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=4538</guid>
-		<description><![CDATA[Posted episode 30 of my short podcast, Timetable. Still don&#8217;t have a consistent schedule for this. Maybe Monday and Friday would be good.]]></description>
-				<content:encoded><![CDATA[<p>Posted episode 30 of my short podcast, Timetable. Still don&#8217;t have a consistent schedule for this. Maybe Monday and Friday would be good.</p>
-]]></content:encoded>
-			</item>
-		<item>
-		<title>Fake news as propaganda</title>
-		<link>http://www.manton.org/2016/12/fake-news-as-propaganda.html</link>
-		<pubDate>Fri, 09 Dec 2016 16:20:19 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[User Experience]]></category>
-		<category><![CDATA[fakenews]]></category>
-		<category><![CDATA[hillary]]></category>
-		<category><![CDATA[microblogging]]></category>
-		<category><![CDATA[twitter]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=4536</guid>
-		<description><![CDATA[In yesterday&#8217;s essay about Twitter, I also linked to my post on Instagram&#8217;s lack of native reposts. Jason Brennan has written a follow-up about fake news and propaganda, exploring what we can learn and apply to microblogging: Aside from the normal reasons propaganda exists, it exists on social networks like Facebook and Twitter because it [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p><a href="http://www.manton.org/2016/12/twitter-at-10-years.html">In yesterday&#8217;s essay about Twitter</a>, I also linked to my post on Instagram&#8217;s lack of native reposts. <a href="http://nearthespeedoflight.com/article/2016_12_02_fake_news_on_social_networks">Jason Brennan has written a follow-up</a> about fake news and propaganda, exploring what we can learn and apply to microblogging:</p>
-<blockquote><p>
-  Aside from the normal reasons propaganda exists, it exists on social networks like Facebook and Twitter because it <em>can exist</em> on those networks. It’s <em>profitable</em> and <em>useful</em> for the parties manufacturing and disseminating it. To Facebook and Twitter, upon whose networks it propagates, it doesn’t really matter what the information is so long as it <em>engages</em> users. Facebook’s apathy to propaganda is regularly exploited.
-</p></blockquote>
-<p>Hillary Clinton also connected fake news and propaganda <a href="https://www.washingtonpost.com/news/powerpost/wp/2016/12/08/hillary-clinton-attacks-fake-news-in-post-election-appearance-on-capitol-hill/">in a speech this week</a>:</p>
-<blockquote><p>
-  Let me just mention briefly one threat in particular that should concern all Americans, Democrats, Republicans and independents alike, especially those who serve in our Congress: the epidemic of malicious fake news and false propaganda that flooded social media over the past year. It’s now clear that so-called fake news can have real-world consequences.
-</p></blockquote>
-<p>The internet is at a crossroads. Entrepreneurs love free speech, scale, and money, but those don&#8217;t always align in a good way. As much talk as there is of <em>making an impact</em>, very few leaders in Silicon Valley seem to think deeply about consequences.</p>
-]]></content:encoded>
-			</item>
-		<item>
-		<title>Core Intuition 262</title>
-		<link>http://www.manton.org/2016/12/core-intuition-262.html</link>
-		<pubDate>Thu, 08 Dec 2016 18:07:01 +0000</pubDate>
-		<dc:creator><![CDATA[manton]]></dc:creator>
-				<category><![CDATA[Podcasts]]></category>
-		<category><![CDATA[consulting]]></category>
-		<category><![CDATA[coreint]]></category>
-		<category><![CDATA[failure]]></category>
-		<category><![CDATA[goals]]></category>
-
-		<guid isPermaLink="false">http://www.manton.org/?p=4533</guid>
-		<description><![CDATA[We published episode 262 of Core Intuition today. It&#8217;s December already, so we&#8217;ve inevitably been thinking about unfinished projects as the year wraps up. From the show notes: Daniel and Manton talk about coping with disappointment of failing to achieve goals in an expected length of time, recognize the differing demands of building software for [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>We published <a href="http://coreint.org/262">episode 262 of Core Intuition</a> today. It&#8217;s December already, so we&#8217;ve inevitably been thinking about unfinished projects as the year wraps up. From the show notes:</p>
-<blockquote><p>
-  Daniel and Manton talk about coping with disappointment of failing to achieve goals in an expected length of time, recognize the differing demands of building software for different markets, and talk about tricks for managing lack of enthusiasm for finishing projects. Finally, they answer a listener question about how to get started with consulting, and planning for maintaining a suitable income when you “quit your day job.”
-</p></blockquote>
-<p>Thanks as always for listening to the show.</p>
 ]]></content:encoded>
 			</item>
 	</channel>

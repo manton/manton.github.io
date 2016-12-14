@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ios9 &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/ios9/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:36:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>iPad thoughts for 2016</title>
+		<link>http://www.manton.org/2016/01/ipad-thoughts-for-2016.html</link>
+		<pubDate>Thu, 21 Jan 2016 19:42:59 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[extensions]]></category>
+		<category><![CDATA[ios9]]></category>
+		<category><![CDATA[ipad]]></category>
+		<category><![CDATA[ipadpro]]></category>
+		<category><![CDATA[pencil]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3413</guid>
+		<description><![CDATA[Over the holidays, or while on any vacation, I usually use iOS more often than my Mac. It&#8217;s easier to quickly catch up on email or fun stuff like Instagram without getting too pulled away from what matters: spending time with family and friends. So as I use iOS, I&#8217;ve been thinking about what might [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Over the holidays, or while on any vacation, I usually use iOS more often than my Mac. It&#8217;s easier to quickly catch up on email or fun stuff like Instagram without getting too pulled away from what matters: spending time with family and friends. So as I use iOS, I&#8217;ve been thinking about what might make the iPad better.</p>
+<p>Last year <a href="http://blog.jaredsinclair.com/post/133180873570/saving-the-ipad">Jared Sinclair blogged about</a> some of the problems with the iPad, with ideas for &#8220;saving&#8221; it. The most interesting of these was his suggestion of a &#8220;Gatekeeper for iOS&#8221;, where iOS apps could easily be side-loaded onto iOS without Apple&#8217;s approval:</p>
+<blockquote><p>
+  “These apps would be just as secure as apps published on the App Store. I recommend that Gatekeeper iOS apps be subject to the same API restrictions, privacy permissions, and sandboxing as apps distributed on the iOS App Store”
+</p></blockquote>
+<p>Daniel and I discussed this on <a href="http://coreint.org/207">Core Intuition episode 207</a>. We acknowledged that as great as it would be, this compromise of Gatekeeper apps being subject to API restrictions might not be possible. The whole point of Gatekeeper is to leave Apple out of the distribution process, so there would be no place to impose such restrictions except at the API level. Still, I&#8217;d welcome any kind of side-loading.</p>
+<p>Most Mac developers have wanted a Gatekeeper-like solution for iOS since the very beginning of the iPhone. Back in 2011, <a href="http://www.manton.org/2011/02/30_of_the.html">I wrote a post</a> about Apple&#8217;s 30% cut and the lack of side-loading for iOS:</p>
+<blockquote><p>
+  &#8220;Apple’s tight control over iOS has always been troubling. If there’s no way to install an app on the device without Apple’s approval, then Apple can make or break any business that builds for the platform. It’s an added risk for the thousands of tiny development shops for which the iPhone and iPad are otherwise perfect.&#8221;
+</p></blockquote>
+<p>But side-loading isn&#8217;t really holding back the iPad. What&#8217;s holding it back is the slow pace of progress in UI improvements. For example, the home screen remains virtually unchanged since iOS 3, and on the iPad Pro the classic grid of large app icons looks more like the <a href="http://apple.wikia.com/wiki/Parental_Controls">Simple Finder</a> than a way to manage and launch productivity apps.</p>
+<p>More key areas of the UI need to take inspiration from iPad multitasking. While split-view and slide-over aren&#8217;t perfect, they&#8217;re <em>something</em>. Likewise for iOS extensions, which were such a step forward that we were willing to overlook the UI clunkiness. These new features helped <a href="http://www.speirs.org/blog/2015/12/22/all-in-on-ipad-pro">Fraser Speirs switch to an iPad Pro full time</a>:</p>
+<blockquote><p>
+  &#8220;The introduction of multitasking in iOS 9 has made a significant difference to the way I work on iOS. I don’t need to rehearse the actual features here but suffice to say that I now find iOS extremely easy to get almost any task done.&#8221;
+</p></blockquote>
+<p>I&#8217;d like to see Apple experiment more. To not be afraid to try something new with the UI and ship it, as long as they still follow up and refine it.</p>
+<p>Here&#8217;s a great feature idea to take multitasking further, from <a href="http://www.512pixels.net/blog/2015/12/2016-wishlist-ios">Stephen Hackett’s iOS wishlist</a>:</p>
+<blockquote><p>
+  &#8220;I&#8217;d like Apple to work on some way to share text and images between apps that are side-by-side. If I&#8217;m working in a text editor, I&#8217;d like to send a selected portion right into Slack, without having to worry about a share extension or dropping back to copy and paste to get the job done.&#8221;
+</p></blockquote>
+<p>Nilay Patel, in a <a href="http://www.theverge.com/2015/12/28/10676272/2015-apples-year-in-beta">2015 wrap-up for The Verge</a>, wrote that Apple has been setting the groundwork for new platforms, and that this year they will have to iterate and improve on what they&#8217;ve started. He sees the iPad Pro in particular as a step forward without a clear defining feature:</p>
+<blockquote><p>
+  &#8220;There&#8217;s a chance we&#8217;ll all be using huge iPads as our primary computers one day, but to get there the iPad Pro has to do something so much better than a MacBook that all the things it does worse seem irrelevant. What is that thing?&#8221;
+</p></blockquote>
+<p>That missing &#8220;thing&#8221; is clear to me: the Apple Pencil is the best stylus that has ever been made for a device — tablet, desktop, or standalone display. It&#8217;s so good that I assumed I would sell my retina iPad Mini and use the iPad Pro exclusively.</p>
+<p>That hasn&#8217;t happened. I realized when making the choice of <a href="http://www.manton.org/2015/12/3255.html">which iPad to take downtown the other week</a> that the Mini is still my favorite size. I hope as part of the next phase to Apple&#8217;s iPad platform that the Pencil makes it down to the rest of the iPads. It&#8217;s important that developers can count on the common availability of the stylus, just as we can count on multitasking and app extensions to set the pace of UI progress for the platform.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>iAd hypocrisy</title>
+		<link>http://www.manton.org/2015/09/iad-hypocrisy.html</link>
+		<pubDate>Mon, 28 Sep 2015 15:07:08 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[applenews]]></category>
+		<category><![CDATA[iads]]></category>
+		<category><![CDATA[ios9]]></category>
+		<category><![CDATA[theverge]]></category>
+		<category><![CDATA[upgrade]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3078</guid>
+		<description><![CDATA[I was looking for a different old post in my archives, and stumbled on this one: &#8220;I hope iAd fails&#8221;, which I wrote 5 years ago this month. One of my points was that we had a healthy marketplace in the App Store for normal people to actually pay for apps: &#8220;Do we really want [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I was looking for a different old post in my archives, and stumbled on this one: <a href="http://www.manton.org/2010/09/i_hope_iad.html">&#8220;I hope iAd fails&#8221;</a>, which I wrote 5 years ago this month. One of my points was that we had a healthy marketplace in the App Store for normal people to actually pay for apps:</p>
+<blockquote><p>
+  &#8220;Do we really want to give that marketplace up? Because once it’s gone, and iAds are the norm, it will be an uphill battle to get anyone to pay for anything.&#8221;
+</p></blockquote>
+<p>Fast-forward 5 years to today, and well, we&#8217;re on that hill right now. Except there&#8217;s a landslide and I don&#8217;t know who&#8217;s going to get buried.</p>
+<p>On the <a href="http://www.relay.fm/upgrade/55">Upgrade podcast</a>, Jason Snell and Myke Hurley talked about whether iOS 9&#8217;s Apple News was relevant: what problems is it solving, if any, and — because it will feature unblockable ads powered by iAd — how does it fit into the larger issue of blocking web ads and closed platforms? The discussion starts about <a href="https://overcast.fm/+DeCmyFudI/1:02:18">an hour in</a>.</p>
+<p>(If you&#8217;ve used Apple News already, you may not have even seen any ads yet. But Apple&#8217;s <a href="https://developer.apple.com/news-publisher/">page on Apple News Format</a> makes it clear that they will be encouraging iAd for publishers: &#8220;Monetization is made simple with iAd&#8221;.)</p>
+<p>I stand by the opinion that iAd is a mistaken strategy. Apple, if you&#8217;re serious about <a href="http://www.theverge.com/2015/9/17/9338963/welcome-to-hell-apple-vs-google-vs-facebook-and-the-slow-death-of-the-web">this fight with Google</a>, go all-in on the fight and abandon iAd. It seems hypocritical to attack web ads while rolling out your own news platform with ads that can&#8217;t be blocked.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Peace, indies, and the App Store</title>
+		<link>http://www.manton.org/2015/09/peace-indies-and-the-app-store.html</link>
+		<pubDate>Sat, 19 Sep 2015 15:53:31 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[indie]]></category>
+		<category><![CDATA[ios9]]></category>
+		<category><![CDATA[marco]]></category>
+		<category><![CDATA[peace]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3056</guid>
+		<description><![CDATA[You&#8217;ve probably heard that Marco Arment has pulled his content-blocking app Peace from the App Store. The app was extremely successful: &#8220;As I write this, Peace has been the number one paid app in the U.S. App Store for about 36 hours. It’s a massive achievement that should be the highlight of my professional career. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>You&#8217;ve probably heard that Marco Arment has pulled his content-blocking app Peace from the App Store. The app was <a href="http://www.marco.org/2015/09/18/just-doesnt-feel-good">extremely successful</a>:</p>
+<blockquote><p>
+  &#8220;As I write this, Peace has been the number one paid app in the U.S. App Store for about 36 hours. It’s a massive achievement that should be the highlight of my professional career. If <a href="https://overcast.fm/">Overcast</a> even broke the top 100, I’d be over the moon.&#8221;
+</p></blockquote>
+<p>I&#8217;ve seen some comments asking why he didn&#8217;t think to do this sooner, before he even shipped the app. But we are just now starting to understand the impact of ad blockers in iOS 9. I don&#8217;t think it&#8217;s an exaggeration to say that the web is different than it was a few days ago, and so our choices — and Marco&#8217;s — are different too. As I mentioned <a href="http://www.manton.org/2015/09/wrap-up-thoughts-on-the-tv-web.html">yesterday</a>, content blockers are one facet of an overall shake-up for the web.</p>
+<p><a href="http://inessential.com/2015/09/18/why_we_love_indies">Brent Simmons writes</a> that only indies can do what Marco did. Marco must have left a lot of money on the table with this decision. It will always look like the right call to me when someone goes with their gut feeling and not with profit.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Peace for the web</title>
+		<link>http://www.manton.org/2015/09/peace-for-the-web.html</link>
+		<pubDate>Thu, 17 Sep 2015 14:59:36 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[adblocking]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[ios9]]></category>
+		<category><![CDATA[openweb]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3037</guid>
+		<description><![CDATA[I haven&#8217;t paid too much attention to ad blocking until this week, even though I had been running the iOS 9 beta since WWDC. Several content blockers were released yesterday, like Marco Arment&#8217;s new app Peace. Marco writes: &#8220;You won’t believe how fast browsing the web can be without the bloated, privacy-invading junk that too [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I haven&#8217;t paid too much attention to ad blocking until this week, even though I had been running the iOS 9 beta since WWDC. Several content blockers were released yesterday, like Marco Arment&#8217;s new app <a href="https://peace.land">Peace</a>. Marco writes:</p>
+<blockquote><p>
+  &#8220;You won’t believe how fast browsing the web can be without the bloated, privacy-invading junk that too many publishers force on you <a href="http://www.marco.org/2015/08/11/ad-blocking-ethics">without your knowledge or consent</a>.&#8221;
+</p></blockquote>
+<p>Today, <a href="http://www.theverge.com/2015/9/17/9338963/welcome-to-hell-apple-vs-google-vs-facebook-and-the-slow-death-of-the-web">Nilay Patel has an essay</a> framing the issue as a fight between Apple, Google, and Facebook, with the web as a casualty:</p>
+<blockquote><p>
+  &#8220;And with iOS 9 and content blockers, what you&#8217;re seeing is Apple&#8217;s attempt to fully drive the knife into Google&#8217;s revenue platform. iOS 9 includes a refined search that auto-suggests content and that can search inside apps, pulling content away from Google and users away from the web, it allows users to block ads, and it offers publishers salvation in the form of Apple News, inside of which Apple will happily display (unblockable!) ads, and even sell them on publishers&#8217; behalf for just a 30 percent cut.&#8221;
+</p></blockquote>
+<p>I&#8217;m conflicted on this. I hate ads, and I think good publishers can adapt, but I&#8217;m also concerned that some progress we&#8217;ve made in native apps and user experience could be offset by steps <em>back</em> in open platforms. The health of the open web is more important than any one company, including Apple.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.257 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 17:09:30 -->

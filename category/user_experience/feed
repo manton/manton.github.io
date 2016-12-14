@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>User Experience &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/category/user_experience/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:36:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Fake news as propaganda</title>
+		<link>http://www.manton.org/2016/12/fake-news-as-propaganda.html</link>
+		<pubDate>Fri, 09 Dec 2016 16:20:19 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[fakenews]]></category>
+		<category><![CDATA[hillary]]></category>
+		<category><![CDATA[microblogging]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4536</guid>
+		<description><![CDATA[In yesterday&#8217;s essay about Twitter, I also linked to my post on Instagram&#8217;s lack of native reposts. Jason Brennan has written a follow-up about fake news and propaganda, exploring what we can learn and apply to microblogging: Aside from the normal reasons propaganda exists, it exists on social networks like Facebook and Twitter because it [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.manton.org/2016/12/twitter-at-10-years.html">In yesterday&#8217;s essay about Twitter</a>, I also linked to my post on Instagram&#8217;s lack of native reposts. <a href="http://nearthespeedoflight.com/article/2016_12_02_fake_news_on_social_networks">Jason Brennan has written a follow-up</a> about fake news and propaganda, exploring what we can learn and apply to microblogging:</p>
+<blockquote><p>
+  Aside from the normal reasons propaganda exists, it exists on social networks like Facebook and Twitter because it <em>can exist</em> on those networks. It’s <em>profitable</em> and <em>useful</em> for the parties manufacturing and disseminating it. To Facebook and Twitter, upon whose networks it propagates, it doesn’t really matter what the information is so long as it <em>engages</em> users. Facebook’s apathy to propaganda is regularly exploited.
+</p></blockquote>
+<p>Hillary Clinton also connected fake news and propaganda <a href="https://www.washingtonpost.com/news/powerpost/wp/2016/12/08/hillary-clinton-attacks-fake-news-in-post-election-appearance-on-capitol-hill/">in a speech this week</a>:</p>
+<blockquote><p>
+  Let me just mention briefly one threat in particular that should concern all Americans, Democrats, Republicans and independents alike, especially those who serve in our Congress: the epidemic of malicious fake news and false propaganda that flooded social media over the past year. It’s now clear that so-called fake news can have real-world consequences.
+</p></blockquote>
+<p>The internet is at a crossroads. Entrepreneurs love free speech, scale, and money, but those don&#8217;t always align in a good way. As much talk as there is of <em>making an impact</em>, very few leaders in Silicon Valley seem to think deeply about consequences.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Fake news and Instagram</title>
+		<link>http://www.manton.org/2016/11/fake-news-and-instagram.html</link>
+		<pubDate>Tue, 22 Nov 2016 17:14:46 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[instagram]]></category>
+		<category><![CDATA[news]]></category>
+		<category><![CDATA[social]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4484</guid>
+		<description><![CDATA[Twitter has retweets. Facebook has sharing. But Instagram has no built-in reposting. On Instagram, there&#8217;s no instantaneous way to share someone else&#8217;s post to all of your followers. The first version of Instagram was built by a very small team. They&#8217;ve always grown slowly and expanded the UI thoughtfully. I think the lack of a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Twitter has retweets. Facebook has sharing. But Instagram has no built-in reposting. On Instagram, there&#8217;s no instantaneous way to share someone else&#8217;s post to all of your followers.</p>
+<p>The first version of Instagram was built by a very small team. They&#8217;ve always grown slowly and expanded the UI thoughtfully. I think the lack of a repost feature was deliberate.</p>
+<p>When you have to put a little work into posting, you take it more seriously. I wonder if <a href="http://www.manton.org/2016/11/todays-social-networks-are-broken.html">fake news</a> would have spread so quickly on Facebook if it was a little more difficult to share an article before you&#8217;ve read more than the headline.</p>
+<p>It&#8217;s not easy to build software that encourages good behavior. When I look at my Instagram timeline I see beautiful photos, hand-drawn art, and snapshots of everyday life. I see the very best of the world. It&#8217;s not the full truth, but it&#8217;s all true.</p>
+<p>Instagram was no accident. The only question: was it unique to photos, or can the same quality be applied to microblogging?</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>SXSW and designing for Apple Watch</title>
+		<link>http://www.manton.org/2016/03/sxsw-and-designing-for-apple-watch.html</link>
+		<pubDate>Tue, 15 Mar 2016 18:15:50 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[applewatch]]></category>
+		<category><![CDATA[news]]></category>
+		<category><![CDATA[sxsw]]></category>
+		<category><![CDATA[weblogs]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2016/03/sxsw-and-designing-for-apple-watch.html</guid>
+		<description><![CDATA[As I mention on the latest episode of Timetable, I haven’t attended SXSW in several years. I still think it&#8217;s right for me to skip it, but then sometimes I&#8217;ll hear about UX and iOS panels going on at SXSW, and I&#8217;ll remember some of the great parts of the conference that I do miss. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>As I mention on the <a href="http://timetable.manton.org/2016/03/episode-17-spring-break/">latest episode of Timetable</a>, I haven’t attended SXSW in several years. I still think it&#8217;s right for me to skip it, but then sometimes I&#8217;ll hear about UX and iOS panels going on at SXSW, and I&#8217;ll remember some of the great parts of the conference that I do miss.</p>
+<p>Conrad Stoll spoke on a panel at SXSW this year about his experience building Apple Watch apps. He&#8217;s had a few great blog posts recently, about both Apple Watch user interface design and also one <a href="http://conradstoll.com/blog/2016/3/6/designing-in-swift">on designing in Swift</a>. For planning <a href="http://conradstoll.com/blog/2016/3/13/wrist-ux-designing-for-apple-w">what features to include in your watch app</a>:</p>
+<blockquote><p>
+  “When it&#8217;s time to gather around a whiteboard and start designing your Apple Watch app, draw all of your features and start discussing some of your least obvious ones. It’s very likely that one of them represents a better use case for the watch. If you start with the secondary features you might realize that focusing there can actually improve the utility of your overall product.”
+</p></blockquote>
+<p>Blogs like Conrad’s are a great reason to keep using RSS. He’s not posting every day so you may forget to check the site, or miss the links on Twitter if they aren’t tweeted or retweeted when you happen to be paying attention. The best way to guarantee you won’t miss it is to subscribe in an RSS reader.</p>
+<p>There’s a related side discussion on <a href="https://overcast.fm/+FPVnxtHDM">the Bill Simmons podcast</a> about reading headlines instead of full articles. There’s too much information out there, and it moves too quickly, so we’ve trained ourselves to just scan headlines and comment on Twitter without going deep. That leads to increasingly ridiculous click-bait titles as publishers try to grab our attention. The only way to fight back against that trend is to slow down and read a few thoughtful essays in RSS, or work through the queue in Instapaper.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Slow transitions in watchOS</title>
+		<link>http://www.manton.org/2016/03/slow-transitions-in-watchos.html</link>
+		<pubDate>Fri, 04 Mar 2016 15:30:47 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[animation]]></category>
+		<category><![CDATA[applewatch]]></category>
+		<category><![CDATA[notifications]]></category>
+		<category><![CDATA[performance]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3622</guid>
+		<description><![CDATA[Much has been made of the Apple Watch not being fast enough. It’s too slow for full iPhone-like apps, of course, but that doesn’t bother me because I think the watch is pretty great at its core features. But I’ve noticed that it’s slow even for some of the simple stuff, and I don’t think [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Much has been made <a href="http://www.manton.org/2016/02/apple-watch-is-slow-for-now.html">of the Apple Watch not being fast enough</a>. It’s too slow for full iPhone-like apps, of course, but that doesn’t bother me because I think the watch is <a href="http://www.manton.org/2016/01/apple-watch-still-pretty-great.html">pretty great at its core features</a>. But I’ve noticed that it’s slow even for some of the simple stuff, and I don’t think this can be blamed on hardware alone.</p>
+<p>Take notifications, for example. There are several distinct steps to notifications after you receive one:</p>
+<ul>
+<li>Tapping a notification.</li>
+<li>Waiting for it to load, which is an animated transition.</li>
+<li>Optionally scrolling to the bottom to read it all.</li>
+<li>Actually tapping Dismiss to get rid of it.</li>
+</ul>
+<p>There’s a tiny lag between all of these. I frequently can’t scroll right away, as if it’s not responsive until the animation completes. The Dismiss button also doesn’t seem to be enabled immediately, requiring a 2nd tap before it “clicks”.</p>
+<p>I bet these are solvable with a software update. Shorter animated transitions or pre-loading notification text might go a long way to improve the experience.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>The incomplete iPad Pro</title>
+		<link>http://www.manton.org/2015/11/the-incomplete-ipad-pro.html</link>
+		<pubDate>Wed, 11 Nov 2015 20:36:05 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[applestore]]></category>
+		<category><![CDATA[ipad]]></category>
+		<category><![CDATA[pencil]]></category>
+		<category><![CDATA[stylus]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3161</guid>
+		<description><![CDATA[I ordered my iPad Pro online and picked it up in the store today. My excitement for this device is all about the Pencil, which doesn&#8217;t ship for a few more weeks. The store didn&#8217;t receive any and employees have no idea when they will get it. They didn&#8217;t receive any Apple keyboards either, so [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I ordered my iPad Pro online and picked it up in the store today. My excitement for this device is all about the Pencil, which doesn&#8217;t ship for a few more weeks. The store didn&#8217;t receive any and employees have no idea when they will get it. They didn&#8217;t receive any Apple keyboards either, so I left with the only remaining accessory in stock: the white smart cover.</p>
+<p>I don&#8217;t think I&#8217;ve ever been less excited to walk out of a store with a brand new $800 gadget. The iPad Pro has <em>so much potential</em>. I think it&#8217;s going to be a success and I&#8217;m building apps for it. But without the Pencil and keyboard, a significant part of the appeal is missing. And worse, developers who need a Pencil to start testing their apps — especially those apps like the one I&#8217;m working on that already supports third-party stylus pressure — are put at a month-long disadvantage compared to Adobe and the other early partners.</p>
+<p>I enjoyed reading the iPad Pro reviews this morning, especially from <a href="http://daringfireball.net/2015/11/the_ipad_pro">Daring Fireball</a> and <a href="https://www.macstories.net/stories/ipad-pro-review/#software-keyboard">MacStories</a>. But those reviews describe a product that just doesn&#8217;t exist today. The iPad Pro as advertised on Apple&#8217;s web site and in beautiful marketing videos isn&#8217;t ready, and I wish Apple had delayed the whole launch until they could deliver these important accessories for a complete user experience.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Stars vs. hearts and Twitter&#8217;s decline</title>
+		<link>http://www.manton.org/2015/11/stars-vs-hearts-and-twitters-decline.html</link>
+		<pubDate>Mon, 09 Nov 2015 18:05:01 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[dorsey]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[stars]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3155</guid>
+		<description><![CDATA[In an essay about Twitter written in 2014, Ben Thompson described why he believed in the service: &#8220;I think this actually gets to the problem with Twitter: the initial concept was so good, and so perfectly fit such a large market, that they never needed to go through the process of achieving product market fit. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>In <a href="https://stratechery.com/2014/twitter-market/">an essay about Twitter written in 2014</a>, Ben Thompson described why he believed in the service:</p>
+<blockquote><p>
+  &#8220;I think this actually gets to the problem with Twitter: the initial concept was <em>so good</em>, and so perfectly fit such a large market, that they never needed to go through the process of achieving product market fit. It just happened, and they’ve been riding that match for going on eight years.&#8221;
+</p></blockquote>
+<p>I&#8217;ve always thought the same thing. That Twitter started out so good, with such strong core features, that those basic features have carried it through all the years of missteps and inaction. But it&#8217;s not just that the features are &#8220;good&#8221; (although they are); it&#8217;s that they are <em>unique</em>.</p>
+<p>Listening to the <a href="http://www.relay.fm/connected/64">Connected podcast</a> the other day, Federico Viticci and Myke Hurley made the statement that only nerds care about Twitter changing stars to hearts, favorites to likes. I was nodding in agreement until I talked to my daughter. She also didn&#8217;t understand why they would change away from stars, and she&#8217;s been on Twitter less than a year.</p>
+<p>It&#8217;s not just nerds. Many new Twitter users recognize the subtle difference implied with hearts. But I realized that there&#8217;s something even more important about what this change says. Why is my daughter even on Twitter, in addition to Snapchat, Instagram, Facebook, and Vine? Because — even if most people can&#8217;t pin down exactly what makes it special — everyone knows Twitter is different and interesting.</p>
+<p>All Twitter has going for it is its uniqueness. The timeline user experience, the retweets and favorites, the hashtag, and the short 140 character posts. Changing any of those key strengths to be just like every other social network means they&#8217;re watering down their own potential impact. Eventually that approach will produce a bland product that has no unique qualities.</p>
+<p>We&#8217;ve already seen the timeline experience significantly altered. Promoted tweets, &#8220;while you were away&#8221;, inline conversation threads, and Twitter cards. Twitter in 2015 looks a lot more like Facebook than it did a few years ago, to everyone not using third-party Twitter apps.</p>
+<p>Growing the user base is fine. But making Twitter more accessible to new users won&#8217;t do any good if you lose the much larger base of passionate users who have loved the product for years <em>because it&#8217;s unique</em>. You&#8217;re not going to beat Facebook by becoming even more like Facebook. If that&#8217;s Twitter&#8217;s strategy, then the service is already in decline.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Watch form over function</title>
+		<link>http://www.manton.org/2015/09/watch-form-over-function.html</link>
+		<pubDate>Fri, 04 Sep 2015 14:08:36 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[applewatch]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[samsung]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3004</guid>
+		<description><![CDATA[Everyone&#8217;s thinking the same thing: Samsung&#8217;s new smartwatch looks significantly better than the Apple Watch. Even the rounded scrolling control looks as usable or more usable than Apple&#8217;s digital crown. If Apple tried multiple designs internally, including a round watch — and I&#8217;m sure they did — why did they opt for a nerdy square [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Everyone&#8217;s thinking the same thing: <a href="http://www.theverge.com/2015/9/3/9252787/samsung-gear-s-2-watch-video-hands-on">Samsung&#8217;s new smartwatch</a> looks significantly better than the Apple Watch. Even the rounded scrolling control looks as usable or more usable than Apple&#8217;s digital crown. If Apple tried multiple designs internally, including a round watch — and I&#8217;m sure they did — why did they opt for a nerdy square shape that looks more like a computer than a watch? Especially in a product with such a focus on fashion that they felt the need to charge $10,000 for the high-end models.</p>
+<p>Surprisingly, this might be Apple showing they can still choose a functional user experience over purely beautiful form and design. Square looks worse but it&#8217;s just more practical for reading text. The digital crown is a better fit for scrolling vertically.</p>
+<p>It&#8217;s rare in the modern era of Apple (post-2000 or so) for the company to sacrifice beauty for usability. The iPhone is always thin at the expense of battery life. Mac scroll bars are hidden in the name of cleanliness. The new MacBook has a single new cable type which no one owns peripherals for. But with the Apple Watch, I think they built something with a foundation that could last for years, despite its initial awkwardness, and square was the right call.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Two weeks notice: writing documentation</title>
+		<link>http://www.manton.org/2015/07/two-weeks-notice-writing-documentation.html</link>
+		<pubDate>Wed, 22 Jul 2015 22:25:25 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[2weeks]]></category>
+		<category><![CDATA[confluence]]></category>
+		<category><![CDATA[documentation]]></category>
+		<category><![CDATA[github]]></category>
+		<category><![CDATA[hipchat]]></category>
+		<category><![CDATA[markdown]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2879</guid>
+		<description><![CDATA[Boy Scouts have a saying: leave no trace. One of its basic principles is that when you pack up your camp site, make sure you clean up all the trash. The place should look even better than when you found it. It’s not a bad principle to keep in mind when leaving a job, either. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Boy Scouts have a saying: <a href="http://www.scouting.org/scoutsource/OutdoorProgram/LeaveNoTrace.aspx">leave no trace</a>. One of its basic principles is that when you pack up your camp site, make sure you clean up all the trash. The place should look even better than when you found it.</p>
+<p>It’s not a bad principle to keep in mind when leaving a job, either. Projects should be in a good state. I’ve fallen short in one key aspect of this — a conspicuous lack of unit tests in my web apps — but I&#8217;ve been more successful in other areas, like up to date versions of Rails and pretty comprehensive documentation.</p>
+<p>Documentation is also an easy thing to improve at the last minute. Today I’m reviewing some API docs from top to bottom again, making sure that the confusing edge cases for how an app works are well covered. For my job at VitalSource, this means editing in <a href="https://www.atlassian.com/software/confluence">Confluence</a>.</p>
+<p>The apps in Atlassian’s main suite that I’m familiar with — Confluence, Jira, and HipChat — have improved in small increments over the years. I makes sense that they would move fairly slowly; the apps are heavily used in larger companies, so a major redesign or feature change would not be well-received by many of their customers. Of those 3 apps, HipChat seems easily the best designed, and I expect having Slack as a competitor will keep them focused and driven to improve the app.</p>
+<p>This post isn’t meant as a rant against Confluence, but as I use it’s default markup language or WYSIWYG editor I’m reminded of just how much I enjoy writing in Markdown instead. For my own apps, I’ve experimented with writing documentation in Markdown hosted on GitHub, which gives me easy publishing and version history. Tweet Marker, for example, pulls <a href="https://github.com/manton/tweetmarker/blob/master/documentation/v2.md">a Markdown file</a> from GitHub directly and formats it inside its own web interface for Twitter app developers.</p>
+<p>As usual, open formats like simple text files are a great choice for any writing that you want to last. For <a href="http://www.manton.org/2015/07/sneak-peek-screenshot.html">my new microblogging project</a>, I need to repurpose a lot of writing I’ve done on this blog and move it into more formal documentation. I’ll probably use Markdown and GitHub for that as well.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>No perfect iPhone size</title>
+		<link>http://www.manton.org/2015/04/no-perfect-iphone-size.html</link>
+		<pubDate>Tue, 07 Apr 2015 15:59:05 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[6plus]]></category>
+		<category><![CDATA[color]]></category>
+		<category><![CDATA[iphone]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2546</guid>
+		<description><![CDATA[Some people bought the iPhone 6 and then went back to the 5S. Some people bought the iPhone 6 Plus and then tried the 6. Some worked their way up to the 6 Plus after adapting to the 6. Some never upgraded to the 6 or 6 Plus because both are too big. Marco’s post [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Some people bought the iPhone 6 and then went back to the 5S. Some people bought the iPhone 6 Plus and then tried the 6. Some worked their way up to the 6 Plus after adapting to the 6. Some never upgraded to the 6 or 6 Plus because both are too big.</p>
+<p><a href="http://www.marco.org/2015/04/06/life-with-the-iphone-6-plus">Marco’s post</a> is a good formal summary of a few write-ups I’ve read this week:</p>
+<blockquote><p>
+  “Having used an iPhone 6 full-time from its launch until these 6 Plus experiments over the last few weeks, I can confidently say that neither phone is extremely well-designed. Both have nontrivial and completely avoidable flaws. But the 6 Plus has bigger advantages over the other phones, while the 6 seems to sit in a mediocre middle ground.”
+</p></blockquote>
+<p>The lesson from all these switches couldn&#8217;t be more clear: there&#8217;s no longer one perfect iPhone for everyone. What works great for one person might be terrible for someone else. I personally love the 5C design — the size of the screen, the way the plastic feels in my hand, flipping or spinning it on my fingers without worry that it’ll slip, using it without a case, adding <a href="http://mattgemmell.com/colours/">a little color</a> to my life — but many people never even tried it because it contains underpowered hardware compared to the latest models.</p>
+<p>Apple would be crazy to discontinue any size. I&#8217;m more convinced than ever that we&#8217;ll see a 4-inch 6C alongside a new 6S and 6S Plus later this year. They won&#8217;t have identical specs, and that&#8217;s okay. I&#8217;ll happily pick the 4-inch model even if its camera is a year behind the cutting edge. The iPhone market is so ginormous now that I know there are millions of people who feel the same way.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Footnotes follow-up (and the Newton)</title>
+		<link>http://www.manton.org/2015/04/footnotes-follow-up-and-the-newton.html</link>
+		<pubDate>Thu, 02 Apr 2015 17:01:34 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[footnotes]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[newton]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2526</guid>
+		<description><![CDATA[I expected to get a little more negative feedback on my footnotes blog post than I did. Most feedback was pretty good. Thomas Brand agreed but also wrote: “That being said, footnotes can be fun when used sparingly. They lend themselves to the kind of personal anecdote common to the tech blogs I read. If [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I expected to get a little more negative feedback on <a href="http://www.manton.org/2015/03/footnotes.html">my footnotes blog post</a> than I did. Most feedback was <a href="https://twitter.com/siracusa/status/583316200383492096">pretty good</a>. <a href="http://eggfreckles.net/">Thomas Brand</a> agreed but also wrote:</p>
+<blockquote><p>
+  “That being said, footnotes can be fun when used sparingly. They lend themselves to the kind of personal anecdote common to the tech blogs I read. If you are going to use footnotes to break up your articles, <a href="http://www.512pixels.net/blog/2015/2/how-to-add-bigfootjs-to-your-squarespace-site">Bigfoot.js</a> is not a bad way to do it.”
+</p></blockquote>
+<p>Definitely. If you’re going to do footnotes, might as well do them with the best user experience possible.</p>
+<p>Thomas has had some really good posts lately. Before it expires off his home page, don’t miss the recent one on the <a href="http://eggfreckles.net/index.html#unique-entry-id-84">Newton MessagePad 2000</a>:</p>
+<blockquote><p>
+  “I doubt a 25-MHz ARM710 would have been very effective as a laptop replacement, and it the Newton engineering team knew it. That is why the MessagePad 2000 was simultaneously designed with two different CPU architectures and its own form of Universal binary.”
+</p></blockquote>
+<p>I couldn’t afford a MessagePad 2000 at the time, but I still have my MessagePad 130. Along with my original iPhone, I’ll never part with the Newton — a wonderful device to use and develop for that was way ahead of its time.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.283 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 16:43:27 -->

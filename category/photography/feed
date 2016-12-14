@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Photography &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/category/photography/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:36:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Photo blogging follow-up</title>
+		<link>http://www.manton.org/2016/03/photo-blogging-follow-up.html</link>
+		<pubDate>Sun, 20 Mar 2016 15:17:45 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Photography]]></category>
+		<category><![CDATA[automation]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[macstories]]></category>
+		<category><![CDATA[photos]]></category>
+		<category><![CDATA[workflow]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3739</guid>
+		<description><![CDATA[As I&#8217;ve written about already, I now post photos to my own site in addition to Instagram. I use the Workflow app to make this easier, automatically uploading a photo and making a new blog post for it from iOS. Ryan Toohil has taken my rough workflow and improved it, adding support for prompting for [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>As I&#8217;ve <a href="http://www.manton.org/2016/03/blogging-your-photos.html">written about already</a>, I now post photos to my own site in addition to Instagram. I use the <a href="https://workflow.is/">Workflow app</a> to make this easier, automatically uploading a photo and making a new blog post for it from iOS.</p>
+<p>Ryan Toohil has taken my rough workflow <a href="https://blog.ryantoohil.com/2016/03/owning-your-own-social-media-content.php">and improved it</a>, adding support for prompting for the photo title, fixing the photo’s orientation, and a better dynamic folder name based on the date. You can <a href="https://workflow.is/workflows/c485d9227ed347c4b3aab2a94fb822d6">see his updated workflow here</a>.</p>
+<p>I still have a lot to learn about using Workflow. It’s the kind of app that you can only really understand the potential for after diving in with a real problem. Now I find myself looking for more ways I can use the app.</p>
+<p>I’ve also finally read Federico Viticci’s excellent <a href="http://www.imore.com/how-use-workflow-ios-when-you-dont-know-where-start">intro to Workflow over at iMore</a>, which includes this advice:</p>
+<blockquote><p>
+  “When I was new to Workflow, visualizing the vertical flow of actions before building the stack was my biggest hurdle in getting started. I&#8217;ve since developed a habit that comes in handy every day: if I already know what a workflow should do at the beginning and at the end, I place the first action and the last one immediately on the canvas. Then, I only have to figure out how to go from Point A to Point B, dropping actions between those two as I play around with different ideas.”
+</p></blockquote>
+<p>Of course, Federico has written many times about Workflow. He has an article about <a href="https://www.macstories.net/ios/publishing-articles-to-wordpress-with-workflow-on-ios/">using Workflow to post to WordPress</a>, and tips and example workflows in the MacStories Club email. His podcast <a href="https://www.relay.fm/canvas">Canvas</a> with Fraser Speirs also routinely discusses workflows.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Blogging your photos</title>
+		<link>http://www.manton.org/2016/03/blogging-your-photos.html</link>
+		<pubDate>Tue, 08 Mar 2016 18:16:45 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Photography]]></category>
+		<category><![CDATA[automation]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[photos]]></category>
+		<category><![CDATA[transmit]]></category>
+		<category><![CDATA[workflow]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3679</guid>
+		<description><![CDATA[Colin Devroe started microblogging on his own site, with separate sections for statuses and photos: “I want to post content to my own personal site and not through closed social networks — because I want to keep control of everything I create forever. [&#8230;] This doesn’t mean that I won’t be posting to Twitter or Facebook [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://cdevroe.com/15094/fits-and-starts-and-homesteading">Colin Devroe started microblogging</a> on his own site, with separate sections for statuses and photos:</p>
+<blockquote><p>
+  “I want to post content to my own personal site and not through closed social networks — because I want to keep control of everything I create forever. [&#8230;] This doesn’t mean that I won’t be posting to Twitter or Facebook or Instagram, but that everything that I post there will originate here on my site.”
+</p></blockquote>
+<p>It’s the photos and their RSS feed that caught my attention. Others have done this too, but for some reason I rarely post photos here on my own site. I’ve stuck with using Instagram instead.</p>
+<p>I need to change that. I do like the Instagram app, though, so I’m going to keep using it. I’ll just copy the photos over to my site as well, and I’ll use <a href="https://workflow.is/">Workflow on iOS</a> to help automate it. The basic steps are:</p>
+<ul>
+<li>After posting the photo on Instagram, copy the caption to the iOS clipboard. This will be the title of the blog post.</li>
+<li>Select the Instagram-edited image in the Photos app and run the workflow.</li>
+<li>Workflow makes a filename based on the title, with some simple substitutions. Lowercase, spaces become underscores, and drop some characters.</li>
+<li>Transmit gets launched and I confirm the upload to my own server.</li>
+<li>Workflow creates a WordPress blog post with an img tag and the relevant metadata.</li>
+</ul>
+<p>It’s not bad. You can <a href="https://workflow.is/workflows/75265d33bcd64c4d8485b2644de7df17">see the workflow here</a>. I’ve uploaded a bunch of my most recent Instagram photos this way. I’m not sure whether I’ll go back and mirror all the old ones.</p>
+<p>These photos live under a new <a href="http://www.manton.org/category/photos">Photos category</a>. I’ve excluded this category from the main RSS feed that I use for cross-posting, so they won’t automatically go to Twitter. You can continue to <a href="https://www.instagram.com/manton/">follow me on Instagram</a> if you prefer that.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Google Photos</title>
+		<link>http://www.manton.org/2015/06/google-photos.html</link>
+		<pubDate>Thu, 04 Jun 2015 16:20:39 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Photography]]></category>
+		<category><![CDATA[dropbox]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[photos]]></category>
+		<category><![CDATA[search]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2654</guid>
+		<description><![CDATA[Tim Cook spoke recently about privacy and cloud services: “You might like these so-called free services, but we don&#8217;t think they&#8217;re worth having your email or your search history or now even your family photos data-mined and sold off for God knows what advertising purpose.” I’m going to give you a very cynical translation, which [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Tim Cook spoke recently about privacy and cloud services:</p>
+<blockquote><p>
+  “You might like these so-called free services, but we don&#8217;t think they&#8217;re worth having your email or your search history or now even your family photos data-mined and sold off for God knows what advertising purpose.”
+</p></blockquote>
+<p>I’m going to give you a very cynical translation, which I don’t often do: <em>We are in denial about how much better Google Photos is than what we’re doing at Apple. It is so advanced in terms of search that we won’t be able to match it anytime soon. In fact, we don’t even have anyone working on similar technology at all.</em></p>
+<p>It&#8217;s not about being free. I pay Dropbox $20/month to be grandfathered into 2 TB of storage so that I can put all of my photos and documents there. Dropbox is rock solid and worth it.</p>
+<p><a href="http://www.marco.org/2015/05/29/why-not-google">Like Marco</a> and others, I have tried to avoid Google services. I don’t use Gmail. I hate advertising. But the idea of being able to quickly search my photos by content without even tagging or organizing them was too compelling to not try. So I’ve uploaded over 10,000 photos so far to Google Photos. It is really good. (I’m going to finish uploading all my photos and give it a few months before making a final judgement on the search vs. privacy trade-off.)</p>
+<p>Some of the random searches that work out of the box to filter my photos: “beach”, “trains”, “New York City”, “Oregon and 2013”, “road trip”, “party”, “basketball”, “Christmas tree”. I never saw a demo or tutorial for how to use Google Photos; I just type stuff in and it mostly works, discovering photos and events. And on top of that, there’s also the automatic stories and collages, which is something we always wanted to build for <a href="http://sunlit.io/">Sunlit</a>.</p>
+<p>My family photos are the most important files I have on my computer, and I very rarely share any photos of my kids publicly. But ironically I’m willing to overlook some of the privacy concerns around this exactly <em>because</em> the photos are so valuable to me. I want multiple copies in the cloud, and I want the power of search that Google has built.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Photos+ and focus</title>
+		<link>http://www.manton.org/2014/04/photos_and_focus.html</link>
+		<pubDate>Fri, 18 Apr 2014 21:39:41 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Photography]]></category>
+		<category><![CDATA[dropbox]]></category>
+		<category><![CDATA[glassboard]]></category>
+		<category><![CDATA[photosplus]]></category>
+		<category><![CDATA[silverpine]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/04/photos_and_focus.html</guid>
+		<description><![CDATA[You may have heard by now that Photos+ has a new home at SilverPine software. My friend Jonathan Hays — now co-founder of SilverPine — is of course also half of Sunlit, so it was a great fit for him to take on another photo app as well. He writes: “In addition to consulting, we [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>You may have heard by now that <a href="http://jonathanhays.me/2014/04/16/silverpine-software/">Photos+ has a new home at SilverPine software</a>. My friend Jonathan Hays — now co-founder of SilverPine — is of course also half of <a href="http://sunlit.io/">Sunlit</a>, so it was a great fit for him to take on another photo app as well. He writes:</p>
+<blockquote><p>
+  “In addition to consulting, we intend to slowly grow a portfolio of software. To that end, we are announcing today that we have purchased Photos+ from Second Gear Software. We have quite a bit of expertise with photo Apps (see Sunlit, among others) and when Justin Williams approached me about purchasing it from him, it felt like a great fit. We have big plans for Photos+ and have already put into motion the first phase of those plans: native Dropbox integration!”
+</p></blockquote>
+<p>I tested the Dropbox support during the 1.1 beta and think it’s a great direction to take the app. Dropbox the company is going all in on photos: just in the last week shipping Carousel and now acquiring Loom. The more people start using Dropbox to store all their photos, the more useful companion photo apps like Photos+ and Sunlit will be.</p>
+<p>And now <a href="http://carpeaqua.com/2014/04/17/moonshots/">Justin Williams is free to focus all his time on Glassboard</a>. While I’ve been building web services and subscription apps for a while now, the truth is I’m still figuring out how to do this as a business too. I’ve learned a lot from Justin’s recent blog posts on the subject.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Mirror Project</title>
+		<link>http://www.manton.org/2002/10/mirror_project.html</link>
+		<pubDate>Sat, 05 Oct 2002 04:08:44 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Photography]]></category>
+		<category><![CDATA[mirrors]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2002/10/mirror_project.html</guid>
+		<description><![CDATA[Peter Merholz writes about his first contribution to the Mirror Project: &#8220;I went to the mirror, and saw I could frame myself in between the two brothers talking, and snapped the photo you see on the site. My dad is older than Bertin, and in infinitely better shape. I wondered just what dad was *thinking* [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Peter Merholz writes about <a href="http://peterme.com/archives/00000300.html">his first contribution to the Mirror Project</a>:</p>
+<blockquote><p>&#8220;I went to the mirror, and saw I could frame myself in between the two brothers talking, and snapped the photo you see on the site. My dad is older than Bertin, and in infinitely better shape. I wondered just what dad was *thinking* as he was looking at his little brother, who probably tagged along with him on the streets of Cleveland, who probably looked up to him in that way that younger brothers do, and now, as they enter twilight years, the younger brother is clearly going to pass long before the older.&#8221;</p></blockquote>
+<p><a href="http://www.mirrorproject.com/mirror/?id=3454">I submitted a photo</a> to the Mirror Project earlier this year, too, but it doesn&#8217;t have an interesting story behind it. I had browsed through the Mirror Project site earlier that day or week, and afterwards whenever I saw my reflection in something I thought about the site. It&#8217;s a cool idea. If you like what you see, you can even subscribe to an <a href="http://www.mirrorproject.com/mirrorproject.rss">RSS feed of the latest submissions</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.280 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 16:47:18 -->

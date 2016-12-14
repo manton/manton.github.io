@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Business &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/category/business/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:36:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Thanks for using Searchpath</title>
+		<link>http://www.manton.org/2016/12/thanks-for-using-searchpath.html</link>
+		<pubDate>Thu, 01 Dec 2016 20:08:40 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[microblog]]></category>
+		<category><![CDATA[newsletters]]></category>
+		<category><![CDATA[searchpath]]></category>
+		<category><![CDATA[snippets]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4511</guid>
+		<description><![CDATA[Today I sent the following email to everyone who has used my web app Searchpath. While I&#8217;m disappointed that I&#8217;ve neglected Searchpath, focusing everything on Micro.blog just makes the most sense right now. Three years ago, I launched Searchpath to make it easy to embed a search box on any web site. Because you signed [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><em>Today I sent the following email to everyone who has used my web app Searchpath. While I&#8217;m disappointed that I&#8217;ve neglected Searchpath, focusing everything on Micro.blog just makes the most sense right now.</em></p>
+<p>Three years ago, I launched Searchpath to make it easy to embed a search box on any web site. Because you signed up to try it, either at the beginning or as a more recent paid subscriber, I wanted to thank you and let you know about the next steps for the service.</p>
+<p>While I still love the idea behind Searchpath, I have not been able to give it the attention it deserves. Lately the service has been costing more to run than can be supported by subscription revenue. I&#8217;ve disabled new accounts and started migrating the data in an effort to keep the service running for active users.</p>
+<p>Here&#8217;s what you need to know:</p>
+<ul>
+<li>If you had an active paid subscription, it has been cancelled and you won&#8217;t be billed again. The service will continue to run while you look for a new search solution.</li>
+<li>The current search index included many web sites that no longer use Searchpath. To save costs, I&#8217;ve reset the index. Active web sites using Searchpath will be automatically re-indexed.</li>
+</ul>
+<p>I hope to return to Searchpath at some point in the future. For now, it will run in this limited mode for current customers. If you have any questions, please let me know via email at <a href="mailto:support@riverfold.com">support@riverfold.com</a>.</p>
+<p>— Manton</p>
+<p>P.S. One reason I can&#8217;t focus on Searchpath is I&#8217;m preparing to launch a new weblog service. It&#8217;s called <a href="http://micro.blog/">Micro.blog</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Refocusing around Micro.blog</title>
+		<link>http://www.manton.org/2016/11/refocusing-around-micro-blog.html</link>
+		<pubDate>Mon, 28 Nov 2016 16:11:52 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[databases]]></category>
+		<category><![CDATA[microblog]]></category>
+		<category><![CDATA[searchpath]]></category>
+		<category><![CDATA[snippets]]></category>
+		<category><![CDATA[watermark]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4507</guid>
+		<description><![CDATA[As I talked about on Timetable, now that I have the micro.blog domain I get to figure out what to do with it. And what I&#8217;m hearing from friends and listeners is clear: throw out my jumble of Snippets-related names and use Micro.blog as the brand for the platform. It&#8217;s obvious now. Renaming a product [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>As I talked about <a href="http://timetable.manton.org/2016/11/episode-29-dot-blog/">on Timetable</a>, now that I have the micro.blog domain I get to figure out what to do with it. And what I&#8217;m hearing from friends and listeners is clear: throw out my jumble of Snippets-related names and use Micro.blog as the brand for the platform. It&#8217;s obvious now.</p>
+<p>Renaming a product before its official launch may not seem like a big deal, but in this case it gives the app a new importance. Just by renaming it, the app feels more ambitious. It forces me to devote more attention to it, which means saying goodbye to some of my other web apps that I can no longer focus on.</p>
+<p>I have a difficult time shutting down failing products. Over the weekend, I took some much-needed steps to finish winding down Watermark and Searchpath. I&#8217;ll be sending an email this week to everyone who has used Searchpath with the details.</p>
+<p>For Searchpath, I had procrastinated making a decision because even simple steps like closing new account registrations requires actually writing code and deploying changes. The index on my Elasticsearch server had grown to 90 GB, including Watermark as well. I needed a clean way to reset it and migrate the small number of active paid accounts somewhere else, to give customers time to find a new solution.</p>
+<p>I&#8217;ve tried a few technologies for search over the years. The first version of Watermark used Sphinx, which I loved but became a scaling issue with its default need to completely reindex MySQL data. Eventually I moved to self-hosted Elasticsearch, but I had to keep feeding it RAM as the index grew. It was never stable enough with my limited skills.</p>
+<p>As I noted in <a href="http://www.manton.org/2016/11/talkshow-im-archives.html">my post about Talkshow.im</a>, there&#8217;s no perfect way to admit defeat and clean up the mess left by a web app. It&#8217;s always a balance of responsibilities — to your own business and to your customers.</p>
+<p>But again, the way forward is clear. I should put everything into launching and growing my new microblog platform. It&#8217;s too much to maintain other web apps at the same time.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Kapeli&#8217;s suspension is a test for Apple</title>
+		<link>http://www.manton.org/2016/10/kapelis-suspension-is-a-test-for-apple.html</link>
+		<pubDate>Wed, 12 Oct 2016 18:56:52 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[community]]></category>
+		<category><![CDATA[kapeli]]></category>
+		<category><![CDATA[rejections]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4357</guid>
+		<description><![CDATA[Since my post yesterday about what I viewed as the unwarranted smearing of Kapeli&#8217;s reputation, I&#8217;ve received a lot of good feedback. I&#8217;ve also seen many comments from developers who had an incomplete view of the facts. This isn&#8217;t surprising, since Apple&#8217;s own statement to the press seems to have left out details, either for [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Since <a href="http://www.manton.org/2016/10/kapelis-reputation.html">my post yesterday</a> about what I viewed as the unwarranted smearing of Kapeli&#8217;s reputation, I&#8217;ve received a lot of good feedback. I&#8217;ve also seen many comments from developers who had an incomplete view of the facts. This isn&#8217;t surprising, since Apple&#8217;s own statement to the press seems to have left out details, either for privacy reasons or to make a stronger case.</p>
+<p>I&#8217;m not an investigative journalist. I know a lot about what happened, but not everything. I&#8217;m not going to try to &#8220;get to the bottom&#8221; of the truth. Kapeli developer Bogdan Popescu emailed me yesterday after my post had been published, and as tempting as it might have been to ask him more questions, ultimately this is between him and Apple. I&#8217;m a blogger and podcaster, so I&#8217;d rather stick to the larger themes.</p>
+<p>How do we move forward as a community? Two points:</p>
+<ol>
+<li>We must err on the side of defending indie developers, even when it looks bad. Apple&#8217;s a big corporation and <a href="http://www.manton.org/2016/10/apple-apologists.html">they don&#8217;t need our help</a>.</li>
+<li>We should hold Apple accountable when they overreach, even when they have the best intentions. I agree with <a href="http://www.imore.com/solving-dash">Rene Ritchie&#8217;s post</a> that despite such a bad situation, it&#8217;s still within Apple&#8217;s power to fix this.</li>
+</ol>
+<p>Matt Drance had <a href="https://twitter.com/drance/status/785634596150849536">a series of tweets</a> that get to the heart of how we react as a community. If it turns out that Bogdan did submit fraudulent reviews, then okay. But if Apple eventually reinstates his developer account, I want to be able to say I stood up for his side of the story, even if I risked being wrong.</p>
+<p>It&#8217;s easy to defend someone who is obviously innocent. It&#8217;s harder when they make mistakes, but in areas unrelated to the crime. In that way, this App Store &#8220;rejection&#8221; is unique. It may be the most important test we&#8217;ve seen of Apple&#8217;s power in the store.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Kapeli&#8217;s reputation</title>
+		<link>http://www.manton.org/2016/10/kapelis-reputation.html</link>
+		<pubDate>Tue, 11 Oct 2016 16:46:46 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[dash]]></category>
+		<category><![CDATA[kapeli]]></category>
+		<category><![CDATA[rejections]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4355</guid>
+		<description><![CDATA[I&#8217;ve been using Dash more and more over the last month, but I realized with all this controversy that I had never actually bothered to pay for the app. Whoops! The trial reminds you every once in a while, but otherwise it&#8217;s pretty usable without paying, and I&#8217;m lazy. Kapeli&#8217;s iOS revenue has vanished, but [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;ve been using <a href="https://kapeli.com/dash">Dash</a> more and more over the last month, but I realized with <a href="http://daringfireball.net/2016/10/apple_dash_controversy">all this controversy</a> that I had never actually bothered to pay for the app. Whoops! The trial reminds you every once in a while, but otherwise it&#8217;s pretty usable without paying, and I&#8217;m lazy.</p>
+<p>Kapeli&#8217;s iOS revenue has vanished, but the developer still has his direct Mac sales. So I set out to finally buy a copy of the Mac version.</p>
+<p>And then during checkout, sending him my name and contact info, I hesitated. Do I trust this developer? Is he trying to do the right thing for customers, as every indication from his public blog posts and tweets about Dash show, or is he a scammer, conducting fraudulent activity in the App Store as Apple accuses?</p>
+<p>That&#8217;s the damage Apple has done in going to the press and smearing him. They&#8217;ve destroyed the goodwill he had in the community from his well-respected app. I always want to give people the benefit of the doubt, yet I hesitated.</p>
+<p>At the Çingleton conference in 2013, Christina Warren talked about building a reputation for herself. One of the slides <a href="http://www.manton.org/2013/12/your_name.html">will stick with me for a long time</a>: &#8220;All I have is my name,&#8221; she said, so she couldn&#8217;t risk attaching her name to something she didn&#8217;t believe in.</p>
+<p>Kapeli developer Bogdan Popescu has made some mistakes. There&#8217;s a lot of smoke, but I still believe there&#8217;s no fire, no actual fraudulent activity orchestrated by Bogdan himself. That hasn&#8217;t stopped Apple from burning his reputation to the ground.</p>
+<p>As long as Apple has <a href="http://www.manton.org/2016/10/apples-control-over-app-hosting.html">so much control over app distribution</a>, so much power over an iOS developer&#8217;s business and reputation, then Apple&#8217;s treatment of and communication with developers has to be perfect. <a href="http://mjtsai.com/blog/2016/10/10/apple-and-kapeli-respond/">Michael Tsai covers</a> some of the ways Apple mishandled this. The fallout in the developer community has been more severe than is warranted from the incomplete and misleading facts in Apple&#8217;s statement.</p>
+<p>I finished checking out and paid for Dash. It&#8217;s a great app.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Apple apologists</title>
+		<link>http://www.manton.org/2016/10/apple-apologists.html</link>
+		<pubDate>Tue, 04 Oct 2016 15:42:35 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[environment]]></category>
+		<category><![CDATA[headphones]]></category>
+		<category><![CDATA[samsung]]></category>
+		<category><![CDATA[stevejobs]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4320</guid>
+		<description><![CDATA[The hardest transition for fans of Apple Computer from the 1990s is realizing that Apple no longer needs us to defend the company. If I&#8217;m sometimes critical of Apple, both here and on Core Intuition, it&#8217;s because they&#8217;re the largest tech company in the world. I will always hold Apple to a very high standard [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The hardest transition for fans of Apple Computer from the 1990s is realizing that Apple <em>no longer needs us to defend the company</em>. If I&#8217;m sometimes critical of Apple, both here and on <a href="http://www.coreint.org/">Core Intuition</a>, it&#8217;s because they&#8217;re the largest tech company in the world.</p>
+<p>I will always hold Apple to a very high standard of excellence. They&#8217;ve earned it. When airline flight attendants tell passengers to turn their <a href="http://pxlnv.com/linklog/galaxy-note-7-faa/">Samsung Galaxy Note 7 phones off</a> along with the usual warnings about oxygen masks and life vests, we shrug and laugh because it&#8217;s Samsung. From Apple, we expect higher quality and attention to detail, not shortcuts.</p>
+<p>Steve Jobs has been gone for 5 years, but the spirit of building insanely great products is well-rooted at Apple. Apple employees are doing incredible, passionate work.</p>
+<p>And yet the company itself hardly resembles the struggling computer maker of 20 years ago. Apple is a giant corporation now. Unlike its employees, who have the best intentions, giant corporations are by default selfish, arrogant, and rarely courageous.</p>
+<p>Apple does a lot of good for the world. I doubt there&#8217;s another company even approaching Apple&#8217;s size that <a href="http://www.apple.com/environment/">does as much</a>, from renewable energy to safer materials to workplace diversity. But that good doesn&#8217;t absolve them of criticism.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Red flags at the startup</title>
+		<link>http://www.manton.org/2016/09/red-flags-at-the-startup.html</link>
+		<pubDate>Thu, 15 Sep 2016 14:42:00 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[paychecks]]></category>
+		<category><![CDATA[photoshop]]></category>
+		<category><![CDATA[siliconvalley]]></category>
+		<category><![CDATA[startups]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4283</guid>
+		<description><![CDATA[Wild yet totally believable story from Penny Kim about how she moved from Texas to California to join a startup. It&#8217;s got mismanagement, office politics, money problems, lies, and even faked wire transfer receipts: The scam artist sat there and concocted this in his head instead of telling us the truth that the money wasn’t [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://medium.com/startup-grind/i-got-scammed-by-a-silicon-valley-startup-574ced8acdff">Wild yet totally believable story from Penny Kim</a> about how she moved from Texas to California to join a startup. It&#8217;s got mismanagement, office politics, money problems, lies, and even faked wire transfer receipts:</p>
+<blockquote><p>
+  The scam artist sat there and concocted this in his head instead of telling us the truth that the money wasn’t there. He then weighed the pros and cons and decided it was worth it. Then he took the time to Photoshop in each of his 17 employees’ names (or he forced someone else to do his dirty work).
+</p></blockquote>
+<p>Although she tried to keep the company name hidden, it was revealed by others later. See this <a href="https://news.ycombinator.com/item?id=12379518">Hacker News thread</a> and article <a href="http://www.businessinsider.com/wrkriot-burned-700000-allegedly-lied-to-employees-2016-8">at Business Insider</a>.</p>
+<p>It is hard to run a small company that isn&#8217;t quite profitable, balancing the ups and downs of revenue and the timing of new investments. When I was much younger, I could probably be sympathetic to a company that was honest and transparent about a rare late paycheck or reimbursement. But Penny Kim&#8217;s startup story is much worse than that; it&#8217;s a perfect example of how <em>not</em> to handle leadership mistakes.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Long vs. pure App Store names</title>
+		<link>http://www.manton.org/2016/09/long-vs-pure-app-store-names.html</link>
+		<pubDate>Tue, 06 Sep 2016 15:26:50 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[cleanup]]></category>
+		<category><![CDATA[names]]></category>
+		<category><![CDATA[riverfold]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4256</guid>
+		<description><![CDATA[David Smith has an analysis of long names in the App Store, as developers try to understand the scope of Apple&#8217;s upcoming cleanup changes. Don&#8217;t miss the text file of 255-character names he found, which are all ridiculous. I&#8217;d laugh if this kind of gaming of the store didn&#8217;t make me sad. I&#8217;ve always thought [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>David Smith has <a href="http://david-smith.org/blog/2016/09/06/app-store-name-lengths/">an analysis of long names in the App Store</a>, as developers try to understand the scope of Apple&#8217;s upcoming <a href="http://www.manton.org/2016/09/app-store-cleanup.html">cleanup changes</a>. Don&#8217;t miss the text file of 255-character names he found, which are all ridiculous. I&#8217;d laugh if this kind of gaming of the store didn&#8217;t make me sad.</p>
+<p>I&#8217;ve always thought that the title shown in the App Store should be the actual app name. Keyword spamming is clearly bad, but I personally don&#8217;t like even tag lines in the name. Of the 4 apps from my company <a href="http://www.riverfold.com/">Riverfold</a> that have been in the App Store, the names in the store all exactly match what is shown on your home screen:</p>
+<ul>
+<li>Sunlit</li>
+<li>Tweet Library</li>
+<li>Clipstart</li>
+<li>Watermark Mobile</li>
+</ul>
+<p>Maybe my sales suffered because of my refusal to add more words after the real name, but to me, these names are pure and gimmick-free. I don&#8217;t want my customers subjected to a truncated mess of words even before they use my app.</p>
+<p>If tag lines and brief descriptions in the App Store name are so common (and they are), then Apple should complement the new 50-character limit by having a separate 1-line description field in search results. This was discussed on the <a href="https://releasenotes.tv/173-wont-get-fooled-again/">latest episode of Release Notes</a>. My worry is that Apple attempts to fight problems with new policy alone instead of also encouraging the right behavior with App Store features.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>On this day, last year</title>
+		<link>http://www.manton.org/2016/08/on-this-day-last-year.html</link>
+		<pubDate>Wed, 31 Aug 2016 17:00:40 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[kickstarter]]></category>
+		<category><![CDATA[risk]]></category>
+		<category><![CDATA[snippets]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4204</guid>
+		<description><![CDATA[One year ago today, I posted the first screenshots of Snippets.today for iPhone. I never would&#8217;ve guessed that a year later I&#8217;d still be working on the beta, still not quite ready to ship. One theme from that post a year ago is even more true today, though. To succeed I need to not just [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.manton.org/2015/08/doubt-with-screenshots.html">One year ago today</a>, I posted the first screenshots of Snippets.today for iPhone. I never would&#8217;ve guessed that a year later I&#8217;d still be working on the beta, still not quite ready to ship.</p>
+<p>One theme from that post a year ago is even more true today, though. To succeed I need to not just announce and market the product, but tell a story about why it matters. This realization is what has held up the Kickstarter video for so long. It doesn&#8217;t need to be perfect — I&#8217;m sure it will be flawed in a few ways — but it needs to be <em>right</em>, in that it should frame the idea of independent microblogging correctly.</p>
+<p>More from that post last year:</p>
+<blockquote><p>Earlier this year I gave a talk at CocoaConf about tips I’ve learned to be productive while juggling multiple projects. But as I worked on the talk, it turned out to be about something else. It was about Walt Disney moving from Kansas City to Hollywood. It was about crazy side projects that no one else believed in. It was about Texas Hold ‘Em poker and risking everything for an idea.</p></blockquote>
+<p>I still feel that risk. A long-overdue product is difficult to push forward, the weight starting to carry as much burden as potential. And everywhere I look there&#8217;s a new excuse to procrastinate.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>1 year indie</title>
+		<link>http://www.manton.org/2016/08/1-year-indie.html</link>
+		<pubDate>Mon, 01 Aug 2016 18:19:18 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[indie]]></category>
+		<category><![CDATA[revenue]]></category>
+		<category><![CDATA[riverfold]]></category>
+		<category><![CDATA[salary]]></category>
+		<category><![CDATA[snippets]]></category>
+		<category><![CDATA[wholefoods]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4156</guid>
+		<description><![CDATA[One year ago, I celebrated my first day without a boss. I had just written 2 weeks of daily blog posts about wrapping up work after 14 years at the same company. Today, I&#8217;m wearing the same Mac t-shirt and working from Whole Foods again to mark the anniversary. So how has it gone, a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.manton.org/2015/08/starting-over.html">One year ago</a>, I celebrated my first day without a boss. I had just written <a href="http://www.manton.org/tag/2weeks">2 weeks of daily blog posts</a> about wrapping up work after 14 years at the same company. Today, I&#8217;m wearing the same Mac t-shirt and working from Whole Foods again to mark the anniversary.</p>
+<p>So how has it gone, a full year as an independent developer? It depends who you ask. While I was leaving the best day job I&#8217;ll ever have, there&#8217;s still no substitute for the flexibility and freedom to work on my own projects. From that perspective, the last year has been amazing, with some great success on new revenue from <a href="http://www.coreint.org/">Core Intuition</a> and contracting too.</p>
+<p>And I made a few decisions early on with how to manage the business that have proven useful to smooth over the bumps. For example, I pay myself a fixed salary on the 1st day of each month, and for 12 months straight I&#8217;ve always met that goal. This month, I gave myself a small raise.</p>
+<p>On the other hand, I&#8217;m still bringing in less money than when I had a real job, and my wife might say that there&#8217;s a fine line between being self-employed and unemployed. We&#8217;ve let our credit card debt go unchecked. There&#8217;s been no slack in the high monthly expenses of the house, car payments, business costs like hosting, and everything else. My income from <a href="http://www.riverfold.com/">Riverfold</a> has grown significantly, but not significantly enough.</p>
+<p>Yet, I&#8217;m upbeat. I&#8217;m upbeat because of the potential for what I set out to do a year ago: ship <a href="http://snippets.today/">Snippets.today</a> and help revolutionize independent microblogging. That&#8217;s still the plan. That&#8217;s still why this experiment of working for myself is in its very early stages, even a year later.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Summer co-working</title>
+		<link>http://www.manton.org/2016/07/summer-co-working.html</link>
+		<pubDate>Mon, 18 Jul 2016 16:03:56 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[commuting]]></category>
+		<category><![CDATA[coworking]]></category>
+		<category><![CDATA[downtown]]></category>
+		<category><![CDATA[wework]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4125</guid>
+		<description><![CDATA[I’ve settled into a new work routine this summer at a co-working place. But after working at home for over 15 years, spending time with family and enjoying a flexible schedule, I’m not going to completely throw that out for a daily commute. Also, despite trying several options for parking or taking the train, I [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I’ve settled into a new work routine this summer at a <a href="https://www.wework.com/">co-working place</a>. But after working at home for over 15 years, spending time with family and enjoying a flexible schedule, I’m not going to completely throw that out for a daily commute. Also, despite trying several options for parking or taking the train, I seem unable to shake the extra cost of just being downtown.</p>
+<p>For 2-3 days a week, it&#8217;s worth it. Whether half days or all day, this time away from the house lets me focus uninterrupted. It doesn&#8217;t hurt that they have cold-brew coffee on tap, either.</p>
+<p>The right balance of working from home or out of the house is different for everyone. James Glazebrook, <a href="https://m.signalvnoise.com/why-coworking-doesnt-work-for-me-65acdbbb7e30">writing for Basecamp</a>, says that co-working doesn&#8217;t work for him, but that it might for you:</p>
+<blockquote><p>
+  “If this doesn’t describe you, by all means — consider coworking. Everyone is different and each person works differently. Maybe your job is isolating and you’re craving human interaction. Perhaps your projects would benefit from an outsider’s ideas or their complementary skills. You might not have space at home to dedicate to an office, or the desire to own a printer-scanner-fax. Or you just want to get out of the house more.”
+</p></blockquote>
+<p>I’d add to his list: you might have kids at home who open your office door whenever they want. My home office is currently shared with anyone who wants to use the extra iMac or printer, and the kids often need rides to appointments, camps, and friends. For me, summer is the most important time to get a more formal schedule.</p>
+<p>Focusing in that way actually frees up the rest of the week, letting me spend time away from work without the nagging stress that I’m not being productive enough. It’s widely understand that no programmer can be productive 8 hours a day, 5 days a week. Instead, limited runs of about 4 hours of work are perfect for me, and it doesn&#8217;t have to be every day. Co-working is just solid time that I can count on to move my projects forward.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.296 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 16:46:02 -->

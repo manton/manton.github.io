@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>objc &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/objc/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:36:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Core Int 242, Swift, and verified Twitter</title>
+		<link>http://www.manton.org/2016/07/core-int-242-swift-and-verified-twitter.html</link>
+		<pubDate>Thu, 21 Jul 2016 19:28:54 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[objc]]></category>
+		<category><![CDATA[swift]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4141</guid>
+		<description><![CDATA[From the show notes for today&#8217;s episode: Manton reacts to negatively to the Swift 3 decision to disallows subclassing by default, while Daniel tries to see the bright side. The two discuss Twitter’s new invitation to apply for @verified status, and Daniel’s attempt to do so. And they quickly touch base on the upcoming Apple-sponsored [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>From the show notes for <a href="http://coreint.org/242">today&#8217;s episode</a>:</p>
+<blockquote><p>
+  Manton reacts to negatively to the Swift 3 decision to disallows subclassing by default, while Daniel tries to see the bright side. The two discuss Twitter’s new invitation to apply for @verified status, and Daniel’s attempt to do so. And they quickly touch base on the upcoming Apple-sponsored reality show, “Planet of the Apps.”
+</p></blockquote>
+<p>Believe it or not, I was kind of holding back a little in my Swift ranting. But it was the most critical I&#8217;ve been on the show. And it&#8217;s totally okay for you to disagree! Maybe even <em>good for the platform</em> if you do.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Apple&#8217;s mindset on Swift dynamic features</title>
+		<link>http://www.manton.org/2016/05/apples-mindset-on-swift-dynamic-features.html</link>
+		<pubDate>Sun, 15 May 2016 16:50:08 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[dynamic]]></category>
+		<category><![CDATA[macworld]]></category>
+		<category><![CDATA[nextstep]]></category>
+		<category><![CDATA[objc]]></category>
+		<category><![CDATA[swift]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3927</guid>
+		<description><![CDATA[I let myself go off into a bit of a Swift rant on the latest Core Intuition. I’ve been doing a lot of Swift development recently. The more I use it, the more conflicted I am. I really love some parts of the language, but it’s not what I would have asked for as a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I let myself go off into a bit of a Swift rant on <a href="http://coreint.org/232">the latest Core Intuition</a>. I’ve been doing a lot of Swift development recently. The more I use it, the more conflicted I am. I really love some parts of the language, but it’s not what I would have asked for as a successor to Objective-C 2.0.</p>
+<p>Remember when Steve Jobs came back to Apple and compared NeXTSTEP to constructing a building by starting out on the 20th floor, with so much of the foundation and common patterns already taken care of for you? Cocoa allowed apps to be built significantly faster than before. Steve said <a href="https://www.youtube.com/watch?v=4QrX047-v-s">at Macworld Expo in 1997</a> that the goal was to &#8220;eliminate 80% of the code that every developer has to write for their app.&#8221;</p>
+<p>Swift is not like that. Swift’s priorities are correctness and stability. These have more indirect benefits to developer productivity than we saw going from Carbon to Cocoa.</p>
+<p>When <a href="https://marco.org/2016/04/21/brent-performance">Marco Arment wrote about Swift</a> last month, he mentioned wanting a language designed for high-level apps:</p>
+<blockquote><p>
+  Objective-C wasn’t much better for this, but I think we could’ve done better than Swift if the most important goal in Swift was maximizing real-world developer productivity when writing modern Mac and iOS apps. Swift does a little of that, but gives up a lot to also serve lower-level, more clever, language-geekier goals.
+</p></blockquote>
+<p>This weekend, <a href="http://inessential.com/2016/05/14/the_tension_of_swift">Brent Simmons has a new post</a> about the loss of dynamic features in “pure” Swift:</p>
+<blockquote><p>
+  What makes me nervous is Swift’s emphasis on type safety and on compile-time resolution. As long as we also have what we need from Objective-C, then that’s fine — then we still get xibs and storyboards, the Responder Chain, and so on.
+</p></blockquote>
+<p>I hope Brent’s right that this will be a core part of Swift 4. Leaning on the Objective-C runtime feels like a temporary solution because it only exists on the Mac and iOS. Great web frameworks like Ruby on Rails, for example, can’t be built without relying on a more dynamic language. (And to me a great promise for Swift is being able to use it everywhere.)</p>
+<p><a href="http://indiestack.com/2016/05/brents-swift-tension/">Daniel Jalkut followed up</a> with a more optimistic post. He thinks Apple is on top of this, even as he acknowledges the clash between existing frameworks and the new language:</p>
+<blockquote><p>
+  Some major design priorities of the Swift language, namely type safety and compile time dependency binding, are at odds with the design priorities of 20 years of evolution in Apple’s frameworks. How and if that disparity will be reckoned by Apple remains to be seen.
+</p></blockquote>
+<p>I think it’s telling that the “dynamic” keyword isn’t even mentioned in the main language guide. Anything related to Objective-C is off in a <a href="https://developer.apple.com/library/ios/documentation/Swift/Conceptual/BuildingCocoaApps/InteractingWithObjective-CAPIs.html#//apple_ref/doc/uid/TP40014216-CH4-ID35">separate set of documentation</a>, which includes discouraging statements such as “Requiring dynamic dispatch is rarely necessary” and “use of the performSelector APIs is discouraged”. For Swift to thrive in the future, as a great language for newcomers and long-time Mac developers, Apple will have to compromise on that mindset.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>I think it&#8217;s a bust</title>
+		<link>http://www.manton.org/2015/07/i-think-its-a-bust.html</link>
+		<pubDate>Wed, 22 Jul 2015 15:13:57 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[football]]></category>
+		<category><![CDATA[objc]]></category>
+		<category><![CDATA[swift]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2877</guid>
+		<description><![CDATA[The movie Draft Day doesn’t really have any business being good, but somehow it is anyway. I don’t even like football that much — who has time for it when there’s basketball? — but I’ve now seen this movie several times and love it. The movie actually gets better instead of worse on multiple viewings. It also has [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The movie <a href="http://www.imdb.com/title/tt2223990/">Draft Day</a> doesn’t really have any business being good, but somehow it is anyway. I don’t even like football that much — who has time for it when there’s basketball? — but I’ve now seen this movie several times and love it. The movie actually gets better instead of worse on multiple viewings.</p>
+<p>It also has a number of memorable lines. One of them is this, said by Kevin Costner’s character about the college football star who everyone thinks is the next greatest thing: “I think he’s a bust.” Five simple words that undo all momentum.</p>
+<p>And unfortunately that’s still how I feel about Swift. I’m following <a href="http://inessential.com/2015/07/19/secret_projects_diary_3_decision_to_ma">Brent’s blog posts about learning Swift</a> and I’m trying to come to terms with whether to adopt the language, and I finally got it. I already have a capable quarterback in Objective-C, and I’m not ready to rebuild my roster yet, risking everything on a young language with so much promise but less real-world success.</p>
+<p>No matter <a href="https://twitter.com/jakemarsh/status/623569038069878784">how much Swift has improved</a>, no matter how much everyone fawns over it, I still can’t shake the feeling that it’s a hype that <em>someone else’s</em> team needs. For me, it won&#8217;t end up solving the problems I have when building apps. For me, it’s a bust.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Learning from Rails design</title>
+		<link>http://www.manton.org/2007/06/learning_from_rails.html</link>
+		<pubDate>Mon, 04 Jun 2007 05:46:43 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[lua]]></category>
+		<category><![CDATA[objc]]></category>
+		<category><![CDATA[urls]]></category>
+		<category><![CDATA[wiitransfer]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/06/learning_from_rails.html</guid>
+		<description><![CDATA[Since version 2.0, &#8220;Wii Transfer&#8221;:http://www.riverfold.com/software/wiitransfer/ has had a built-in web server for serving music and photos to the Nintendo Wii. The server was written in Cocoa and the code became very unwieldy as I continued to add features. Dozens of methods for processing different parts of the URL, and many if statements for conditionally branching [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Since version 2.0, &#8220;Wii Transfer&#8221;:http://www.riverfold.com/software/wiitransfer/ has had a built-in web server for serving music and photos to the Nintendo Wii. The server was written in Cocoa and the code became very unwieldy as I continued to add features. Dozens of methods for processing different parts of the URL, and many if statements for conditionally branching based on the URL, splitting the URL parameters, and more.</p>
+<p>The code looked something like this (only worse):</p>
+<pre><code>
+
+if (path startsWithSubstring:@"/albums") {
+
+[self processAlbumsRequest:path];
+
+}
+
+else if (path startsWithSubstring:@"/artists") {
+
+[self processArtistsRequest:path];
+
+}
+
+else {
+
+// ...
+
+}
+
+(void) processAlbumsRequest:(NSString *)inPath
+
+{
+
+// split out the parameters and request extensions from the URL path
+
+// ...
+
+if ([e isEqualToString:"xml"]) {
+
+// ...
+
+}
+
+else if ([e isEqualToString:"html"]) {
+
+// ...
+
+}
+
+}
+
+</code></pre>
+<p>Multiply that times 10 for all the different URLs that Wii Transfer knows how to process, and you can see how it worked fine for a couple simple things, but quickly became a mess as I added features.</p>
+<p>For the upcoming version 2.3, I redesigned most of the URLs to follow a common structure, patterned after the default URL syntax that Rails uses: /controller/action/id. Now, instead of if statements, I dynamically route the URL requests using NSSelectorFromString() and performSelector:withObject:.</p>
+<p>Consider this code (as above, simplified from the real thing):</p>
+<pre><code>
+
+// extract the values from /controller/action/id URLs
+
+NSArray* pieces = [[path stringByDeletingPathExtension] pathComponents];
+
+NSString* controller = [pieces objectAtIndex:1];
+
+NSString* action = [pieces objectAtIndex:2];
+
+NSString* param_id = [pieces objectAtIndex:3];
+
+// call a method named controller_action, passing it the id
+
+NSString* sel_name = [NSString stringWithFormat:@"%@_%@:", controller, action];
+
+SEL method = NSSelectorFromString (sel_name);
+
+[self performSelector:method withObject:param_id];
+
+</code></pre>
+<p>Now if I need to invent a new URL, say &#8220;/tracks/play/1234.mp3&#8221;, all I have to do is write the implementation for that method:</p>
+<pre><code>
+
+- (void) tracks_play:(NSString *)inParamID
+
+{
+
+// ...
+
+}
+
+</code></pre>
+<p>The web request calls through to this new method without any additional glue code, in this case passing &#8220;1234&#8221; in the single parameter.</p>
+<p>(The underscored method signatures aren&#8217;t very Cocoa-ish, but this is actually a plus because I can quickly spot the chunk of the controller that processes a set of requests, and I like that they read just like the URLs. I&#8217;m also currently using a single controller instead of having separate controller objects for the different types of requests, but I may expand that later.)</p>
+<p>This convention has also allowed me to simplify all the URLs that Wii Transfer uses. Other examples include &#8220;/covers/search/U2&#8221; or &#8220;/artists/show/5&#8221;. I&#8217;ve eliminated a bunch of code, and it fits nicely with how I serve application resources and the start of a HTML template system.</p>
+<p>Could it be taken further? Sure. I remember in the Mac OS 9 days building a web interface for a product using only compiled AppleScript scripts stored in the resource fork. Lately, folks like &#8220;Gus Mueller&#8221;:http://gusmueller.com/blog/ and Adobe&#8217;s Lightroom team have been doing interesting things with &#8220;embedding Lua&#8221;:http://www.sqlabs.net/blog/2006/01/adobe-lightroom-and-lua.html. I don&#8217;t want that level of extensibility yet, but it seems like a logical next generation when I outgrow even this new web architecture in Wii Transfer.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.261 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 17:03:02 -->

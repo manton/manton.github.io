@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Animation &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/category/animation/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:36:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>The Lightbox</title>
+		<link>http://www.manton.org/2015/09/the-lightbox.html</link>
+		<pubDate>Mon, 28 Sep 2015 20:42:05 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Animation]]></category>
+		<category><![CDATA[animation]]></category>
+		<category><![CDATA[archive]]></category>
+		<category><![CDATA[lightbox]]></category>
+		<category><![CDATA[rss]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3080</guid>
+		<description><![CDATA[In 1999, I started a link weblog to collect news about animated films. I updated it for a few years, until there were plenty of other good news sources from industry writers more qualified than I was to run such a site. I was just a fan. The site was a homegrown MySQL database and [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>In 1999, I started a link weblog to collect news about animated films. I updated it for a few years, until there were plenty of other good news sources from industry writers more qualified than I was to run such a site. I was just a fan.</p>
+<p>The site was a homegrown MySQL database and set of PHP scripts. Somewhere along the way, I lost the archive, and never noticed that the site had broken until today. To make matters more difficult, I had blocked it in my robots.txt, so the Internet Archive copy (which existed, at least in parts) wouldn&#8217;t load cleanly.</p>
+<p>I took some time today to piece it back together as a new static HTML file and (partial) RSS feed. I&#8217;ve preserved the original design and HTML tags. Fun rediscoveries in the HTML include spacer GIFs, &lt;blockquote&gt; to indent the entire page, and RSS 0.91.</p>
+<p>I called it <a href="http://www.manton.org/lightbox/">The Lightbox</a>. It was just a linkblog. But now 16 years later, I&#8217;ve enjoyed skimming through the old posts.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Glen Keane drawing in 3D</title>
+		<link>http://www.manton.org/2015/09/glen-keane-drawing-in-3d.html</link>
+		<pubDate>Tue, 15 Sep 2015 16:33:04 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Animation]]></category>
+		<category><![CDATA[drawing]]></category>
+		<category><![CDATA[glenkeane]]></category>
+		<category><![CDATA[pbs]]></category>
+		<category><![CDATA[vr]]></category>
+		<category><![CDATA[waltdisney]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3025</guid>
+		<description><![CDATA[Here&#8217;s a wonderful video of Glen Keane drawing with VR goggles. I&#8217;ve been watching and listening to Glen explain animation for a long time, on bonus videos going back to my small collection of Disney feature LaserDiscs. It&#8217;s great to see him still in the spotlight after leaving Disney, and the great work he did [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Here&#8217;s a wonderful video of <a href="http://www.cartoonbrew.com/tech/watch-glen-keane-draw-ariel-and-the-beast-in-3d-119110.html">Glen Keane drawing with VR goggles</a>. I&#8217;ve been watching and listening to Glen explain animation for a long time, on bonus videos going back to my small collection of Disney feature LaserDiscs. It&#8217;s great to see him still in the spotlight after leaving Disney, and the great work he did on last year&#8217;s <a href="https://www.youtube.com/watch?v=O9CG_PoEWCg">Duet</a>.</p>
+<p>Speaking of the Disney company, I really enjoyed last night&#8217;s <a href="http://www.pbs.org/waltdisney">American Experience on Walt</a>. Part 2 airs tonight on PBS.</p>
+<p><strong>Update</strong>: Shortly after posting this, <a href="http://www.cartoonbrew.com/cartoon-brew-pick/nephtali-by-glen-keane-119359.html">a new film</a> from Glen Keane showed up in my newsreader. It&#8217;s a good month for animation.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Floyd Norman’s sketch of Steve Jobs</title>
+		<link>http://www.manton.org/2015/07/floyd-normans-sketch-of-steve-jobs.html</link>
+		<pubDate>Thu, 30 Jul 2015 15:00:03 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Animation]]></category>
+		<category><![CDATA[disney]]></category>
+		<category><![CDATA[mrfun]]></category>
+		<category><![CDATA[wwdc]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2916</guid>
+		<description><![CDATA[Disney Legend Floyd Norman has an excellent blog, usually recollecting on the early days of the Walt Disney studio, or more recent animation ventures. This week he wrote about Steve Jobs: “An animated motion picture goes through many iterations while in production and screenings were held on a regular basis. I honestly doubt Steve was [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Disney Legend <a href="https://en.wikipedia.org/wiki/Floyd_Norman">Floyd Norman</a> has an excellent blog, usually recollecting on the early days of the Walt Disney studio, or more recent animation ventures. This week <a href="http://floydnormancom.squarespace.com/blog/2015/7/29/a-visit-from-steve-jobs">he wrote about Steve Jobs</a>:</p>
+<blockquote><p>
+  “An animated motion picture goes through many iterations while in production and screenings were held on a regular basis. I honestly doubt Steve was trying to curry favor with Disney. Being a shrewd negotiator Jobs didn&#8217;t need any extra help to get his way. I think he brought Apple gifts purely as a gesture of friendliness. After all, shouldn&#8217;t everybody have a Mac Laptop?”
+</p></blockquote>
+<p>The post includes a fantastic sketch of Steve. My only regret from WWDC this year is that I didn’t have a ticket to see Floyd speak at the conference. Although Apple doesn’t usually release the video of lunchtime sessions, I very much hope it was filmed and will show up on YouTube or Vimeo one day.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Disney closing animation park attraction</title>
+		<link>http://www.manton.org/2015/07/disney-closing-animation-park-attraction.html</link>
+		<pubDate>Wed, 01 Jul 2015 20:27:10 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Animation]]></category>
+		<category><![CDATA[animation]]></category>
+		<category><![CDATA[disneyworld]]></category>
+		<category><![CDATA[florida]]></category>
+		<category><![CDATA[tarzan]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2801</guid>
+		<description><![CDATA[In a couple weeks, Disney will close its “Magic of Disney Animation” attraction at Hollywood Studios. This area of Disney World was always one of the better ideas I’ve seen at an amusement park, mixing a ride with an actual working animation studio that produced Mulan, Lilo &#38; Stitch, Brother Bear, and bits of other [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>In a couple weeks, Disney will close its “Magic of Disney Animation” attraction at Hollywood Studios. This area of Disney World was always one of the better ideas I’ve seen at an amusement park, mixing a ride with an actual working animation studio that produced Mulan, Lilo &amp; Stitch, Brother Bear, and bits of other Disney features. <a href="http://www.cartoonbrew.com/theme-parks/magic-disney-animation-115193.html">Cartoon Brew writes</a>:</p>
+<blockquote><p>
+  “It’s a bittersweet ending for an attraction that introduced many young people to the art of hand-drawn animation and inspired untold numbers of budding artists to consider animation as a career. One of the park’s original offerings after it opened as Disney/MGM Studios in 1989, it gave attendees the chance to watch Disney animators at work.”
+</p></blockquote>
+<p>Before I had kids, I visited the park in the late 1990s and spent some time watching the animators. I asked the park employee if I could hang out after the tour had continued on, just standing there looking through the glass as an animator shot a pencil test for some rough or cleanup animation for a scene from Tarzan. I’m not sure how long I stayed there; it could have been 15 minutes or it could have been an hour. But I remembered every detail from that animated scene when finally seeing Tarzan in the theater, and for years after until today.</p>
+<p>By the time we could take our kids there, Disney had already closed down their animation studio in Florida, turning the ride into an empty shell of what it used to be. I wish my kids could’ve seen it as it was meant to be.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>We need more bad ideas</title>
+		<link>http://www.manton.org/2015/06/we-need-more-bad-ideas.html</link>
+		<pubDate>Fri, 19 Jun 2015 14:42:35 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Animation]]></category>
+		<category><![CDATA[drawings]]></category>
+		<category><![CDATA[focus]]></category>
+		<category><![CDATA[productivity]]></category>
+		<category><![CDATA[warnerbros]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2741</guid>
+		<description><![CDATA[Shawn Blanc has been publishing a series of essays leading up to his new book and online course, The Focus Course. In a recent post, he writes about how we all need to get through more bad ideas. It’s easy to assume that because your friends’ lives appear perfect on Facebook, that you should reserve [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Shawn Blanc has been publishing a series of essays leading up to his new book and online course, <a href="https://thefocuscourse.com/">The Focus Course</a>. In <a href="http://shawnblanc.net/2015/06/you-have-ideas/">a recent post</a>, he writes about how we all need to get through more bad ideas. It’s easy to assume that because your friends’ lives appear perfect on Facebook, that you should reserve only your brilliant ideas for posting:</p>
+<blockquote><p>
+  “One of the things that comes with having the internet in our pocket is that we can share moments and slices of our life with the world. But most of us are sharing the highlights. We share the best photos of the grandest places. Which is fine. But it also can cause a slight sense of disillusionment.”
+</p></blockquote>
+<p>The essay reminds me of something that always stuck with me <a href="http://www.amazon.com/gp/product/0374526206/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0374526206&amp;linkCode=as2&amp;tag=mantonorg&amp;linkId=MYKMRXHQB5HUB4W4">reading about legendary Warner Bros. animation director Chuck Jones</a> years ago. He said that when he was young, his father would give him and his siblings essentially unlimited paper to draw on, unused supplies from his business. We all have 100,000 bad drawings in us. The sooner we get through all the bad drawings — in Shawn’s essay, the bad ideas — the sooner we can start producing our best work.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Like scripts in animation</title>
+		<link>http://www.manton.org/2014/03/like_scripts_in.html</link>
+		<pubDate>Tue, 04 Mar 2014 17:01:32 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Animation]]></category>
+		<category><![CDATA[animation]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[culture]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/03/like_scripts_in.html</guid>
+		<description><![CDATA[This line in a blog post on Cartoon Brew made me laugh: “It’s certainly possible to write a Looney Tunes script, just as it’s possible to eat a hamburger with your feet, but there are smarter, easier, and better ways to do it.” Every industry that gets big probably has some of this. There’s the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>This line in a <a href="http://www.cartoonbrew.com/feature-film/space-jam-sequel-is-in-the-works-96410.html">blog post on Cartoon Brew</a> made me laugh:</p>
+<blockquote><p>
+  “It’s certainly possible to write a Looney Tunes script, just as it’s possible to eat a hamburger with your feet, but there are smarter, easier, and better ways to do it.”
+</p></blockquote>
+<p>Every industry that gets big probably has some of this. There’s the old school, the folks who know the right way to do things — for example, you start an animated film with sketches and storyboards, not words — and then there’s everyone who comes in afterwards, without the history and culture of what made it all work. Look at what the App Store has become, compared to how software development worked in the 1990s or early 2000s. If it wasn’t for all the money some of these new developers are making they’d be completely embarrassing themselves with technical naivety and <a href="http://www.bluecloudsolutions.com/blog/money-apps-turn-1k-200k-portfolio/">depressing lack of vision</a>.</p>
+<p>On the other hand, great ideas often start with newcomers. But please respect the past before you break from it.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>The Blue Umbrella holiday calendar</title>
+		<link>http://www.manton.org/2013/12/the_blue_umbrella.html</link>
+		<pubDate>Fri, 20 Dec 2013 14:38:31 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Animation]]></category>
+		<category><![CDATA[animation]]></category>
+		<category><![CDATA[makingof]]></category>
+		<category><![CDATA[pixar]]></category>
+		<category><![CDATA[shorts]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/12/the_blue_umbrella.html</guid>
+		<description><![CDATA[In the 90s I bought a LaserDisc player because it was the best way to get bonus features like director’s commentary and “making of” shorts on some of my favorite movies, before DVDs took off. But I’ve resisted getting a Blu-ray player, even though studios seem to have completely shut out DVDs from the behind-the-scenes [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>In the 90s I bought a LaserDisc player because it was the best way to get bonus features like director’s commentary and “making of” shorts on some of my favorite movies, before DVDs took off. But I’ve resisted getting a Blu-ray player, even though studios seem to have completely shut out DVDs from the behind-the-scenes material we’re used to. Luckily artists can still share their work directly via the web.</p>
+<p>I love this new site from Pixar artists, just in time for the holidays, on <a href="http://www.theblueumbrellamakingofholidaycalendar.com/">the making of their short film The Blue Umbrella</a>. It’s presented as a holiday calendar with a new page revealed each day. From day 3:</p>
+<blockquote><p>
+  “The second test I had made after having just been to a concert of Sarah Jaffe. I fell in love with her music and voice and desperately wanted to pitch her an idea for a music video. But I needed a concept for it. While walking through the city and listing to her songs I suddenly got this idea for a music video where a whole city would sing one of her songs.”
+</p></blockquote>
+<p>It’s one of those rare sites that is so wonderful that I make an exception to not following it if there’s no RSS feed. Added to my bookmarks.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Multiplane</title>
+		<link>http://www.manton.org/2013/06/multiplane.html</link>
+		<pubDate>Mon, 17 Jun 2013 21:22:59 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Animation]]></category>
+		<category><![CDATA[animation]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[disney]]></category>
+		<category><![CDATA[ios7]]></category>
+		<category><![CDATA[iwerks]]></category>
+		<category><![CDATA[ui]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/06/multiplane.html</guid>
+		<description><![CDATA[“We spend a lot of time on a few great things.” — Designed by Apple in California In 1940, Ub Iwerks, the animator behind Walt Disney’s first Mickey Mouse shorts, came back to the Disney studios after a 10-year absence. Ub had famously produced hundreds of drawings alone each day for one of those first [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><em>“We spend a lot of time on a few great things.” — <a href="http://www.apple.com/designed-by-apple/">Designed by Apple in California</a></em></p>
+<p>In 1940, Ub Iwerks, the animator behind Walt Disney’s first Mickey Mouse shorts, came back to the Disney studios after a 10-year absence. Ub had famously produced hundreds of drawings alone each day for one of those first Mickey Mouse shorts, but Ub’s return to Disney would also be remembered for his contribution to the technical side of film production, with advances in cameras and special effects. In an industry with extreme specialization — you either did backgrounds, or animation, or ink-and-paint — Ub’s talents bridged both the artistic and technical.</p>
+<p>One of Ub’s inventions while away from Disney was called the multiplane camera. Perfected by others leading up to Snow White, in a massive camera stand over 10 feet tall, the multiplane’s innovation was to allow a background to be split into levels. Foreground trees might be painted on the glass of the first level, then the characters sat underneath that, and then farther back layers for a building, with others behind that for hills and sky.</p>
+<p>To provide a sense of depth, camera operators could vary the distance between each plane. And movement for each level could be synchronized at different speeds, giving it a beautiful parallax effect. Distant background levels moved more slowly and were naturally blurred and out of focus.</p>
+<p>80 years after Ub’s invention, the multiplane is alive in iOS 7. Previous versions of iOS were built on a single plane with raised and textured areas on that surface, like a topographical map except with buttons instead of mountains. iOS 7 is instead designed with multiple flat layers. Each level is strikingly flat, but by layering two or three, spaced apart, Apple has achieved an overall sense of depth.</p>
+<p>It’s a return to basics. Simple things can remain simple, readable. When clarity is needed, everything goes flat. But it’s a framework that allows for subtle motion and depth without changing what works about the new, content-first flat design. iOS 7’s control center blurs the layer below. The home screen background sits deeper too, as if only the app icons are touching the screen. Photos scroll under the navigation bar.</p>
+<p>Each plane is painted flat as if on glass. There can be no text drop shadows, no textures, without ruining the effect. And the result of this strict metaphor is equally valuable: there are no drop shadows to distract or obscure an app’s real content.</p>
+<p>Disney’s multiplane camera, first in a dedicated rig and then recreated in software, lasted for decades, until the era of 3D computer animation. iOS 7’s new look won’t last that long, but the core concepts should carry Apple for years. I really like where they’re headed.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Animation roundup, Richard Williams to Brenda Chapman</title>
+		<link>http://www.manton.org/2013/04/animation_roundup_richard.html</link>
+		<pubDate>Thu, 18 Apr 2013 19:19:13 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Animation]]></category>
+		<category><![CDATA[2d]]></category>
+		<category><![CDATA[animation]]></category>
+		<category><![CDATA[chapman]]></category>
+		<category><![CDATA[disney]]></category>
+		<category><![CDATA[pixar]]></category>
+		<category><![CDATA[williams]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/04/animation_roundup_richard.html</guid>
+		<description><![CDATA[Richard Williams turned 80 years old last month. Although his body of work is extensive, including Roger Rabbit and the unfinished masterpiece The Thief and the Cobbler, I think he will be most remembered many decades from now for the extraordinary book, The Animator’s Survival Kit. I referenced this book all the time when I [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.cartoonbrew.com/animators/happy-80th-birthday-richard-williams-79469.html">Richard Williams turned 80 years old</a> last month. Although his body of work is extensive, including Roger Rabbit and the unfinished masterpiece The Thief and the Cobbler, I think he will be most remembered many decades from now for the extraordinary book, The Animator’s Survival Kit.</p>
+<p>I referenced this book all the time when I was working on a little hand-drawn short film several years ago. Now an iPad version of the book is available. Floyd Bishop, <a href="http://blogs.indiewire.com/animationscoop/first-look-the-animators-survival-kit-app-by-richard-williams">writing for Animation Scoop</a>:</p>
+<blockquote><p>
+  “The timing of the animation examples in the book have always been hard for me to get my head around.  This app shows the drawings come to life through animation. You can loop playback or scrub through the animation. I found this feature to be the most useful thing about the app.”
+</p></blockquote>
+<p>Nowadays, I’m too busy with <a href="http://www.riverfold.com/">software side projects</a> to have time for animation as a hobby, but as a huge fan I’ll occasionally catch up on news and all the beautiful work artists are doing.</p>
+<p>A few of my favorite short films over the last year:</p>
+<ul>
+<li><a href="http://www.cartoonbrew.com/advertising/chipotle-taps-johnny-kelly-for-an-animated-short.html">Chipotle’s stop-motion video</a>. I was really happy to see it run during the Grammys last year. When I had showed my kids the video on YouTube earlier, they immediately fell in love with it. Kudos to Chipotle for giving it some high-profile national airtime. And don’t miss the <a href="http://www.flickr.com/photos/johnnykelly/6095772979/in/set-72157627428599351/">amazing Flickr set of the production</a>.</p>
+</li>
+<li>
+<p><a href="http://www.disneyanimation.com/projects/paperman">Disney’s Paperman</a>. You’ve probably seen this by now, and behind-the-scenes similar to <a href="http://www.fastcodesign.com/1671941/why-this-oscar-nominated-disney-short-looks-like-nothing-made-before#1">this profile from Fast Company</a>. Disney hadn’t innovated much in combining 2D and 3D since <a href="http://www.youtube.com/watch?v=RZA6nitNeYw">deep canvas on Tarzan</a> and the character work on Treasure Planet, both over 10 years ago. It’s great to see them back on the cutting edge.</p>
+</li>
+<li>
+<p><a href="http://video.disney.com/watch/croissant-de-triomphe-4d7b3aae690a98650d776d97">Mickey Mouse in Croissant de Triomphe</a>, supposedly the first in a series of new Mickey shorts. I would’ve preferred this to be more in the 1930s style, but this is still a lot of fun, and captures the spirit of the old Mickey shorts well.</p>
+</li>
+</ul>
+<p>And finally, I was really excited that Disney’s Pixar won an oscar, and to see the reaction from director Brenda Chapman. Circling back to Richard Williams, she actually worked early in her career on Roger Rabbit, and then as a story artist at Disney and director on Dreamworks’s Prince of Egypt.</p>
+<p>Brenda <a href="http://brenda-chapman.com/blog/wow-an-oscar/">said on her blog</a>, about the Oscar win:</p>
+<blockquote><p>
+  “And when I was fretting over having just one guest ticket, my husband, <a href="http://www.imdb.com/name/nm0510674/">Kevin Lima</a>, insisted that I take our daughter, Emma, with me. ‘You should share this with her,’ he said ‘it’s a mother and daughter night!’ Having Emma with me that night not only let me share with her one of the most wonderful nights of my life, it allowed me to tell the world how very much she means to me.”
+</p></blockquote>
+<p>So incredibly well-deserved. Animation is a painstakingly slow art form. The work of all these artists, from Richard Williams to Brenda Chapman, isn’t a 3-month mad dash to ship the next gimmick app to the App Store; it’s work that is measured across decades. Taken as a whole, I view it as an inspirational story of perseverance — a reminder that creating something great takes time.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>La Luna and Paperman</title>
+		<link>http://www.manton.org/2012/06/la_luna_and.html</link>
+		<pubDate>Sat, 30 Jun 2012 02:15:33 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Animation]]></category>
+		<category><![CDATA[animation]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2012/06/la_luna_and.html</guid>
+		<description><![CDATA[Since I follow Enrico Casarosa on Twitter, I&#8217;ve been hearing about La Luna for what seems like a year. I was so happy to finally see the film run in front of Brave last weekend. Beautifully done and possibly my favorite Pixar short, perfect for a short film. (As an added bonus for seeing it [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Since I follow <a href="http://twitter.com/sketchcrawl">Enrico Casarosa on Twitter</a>, I&#8217;ve been hearing about La Luna for what seems like a year. I was so happy to finally see the film run in front of Brave last weekend. Beautifully done and possibly my favorite Pixar short, perfect for a short film. (As an added bonus for seeing it at Alamo Drafthouse, they ran 7 other Pixar shorts before the feature started.)</p>
+<p>There&#8217;s so much interesting work possible with short films. Disney apparently has another great one up their sleeves in Paperman. <a href="http://billdesowitz.com/disney-delivers-game-changing-paperman-short/">Some of the early hype</a>:</p>
+<blockquote><p>
+  &#8220;From what they told me and from what I&#8217;ve glimpsed in these concept drawings and videos below, it could be a game-changer for hand-drawn animation. In fact, it&#8217;s a new holistic hybrid of 2D and 3D, thanks to an interface called Meander that they &#8216;hijacked&#8217; for the project from a young Disney programmer named Brian Whited, which was then refined by animator Eric Daniels and others. It&#8217;s a vector-based tool that empowers the animator with digital in-betweening and puts the drawings back on the screen.&#8221;
+</p></blockquote>
+<p>Also check out the series of YouTube teasers from the director: <a href="http://www.youtube.com/watch?v=5Mdhv0A07YA">the idea</a> and <a href="http://www.youtube.com/watch?v=LhGzKHXhbKs">the look</a>. And <a href="http://insidemovies.ew.com/2012/06/28/first-look-paperman/">the first still shots from the film</a>.</p>
+<p>This kind of has <a href="http://www.manton.org/2008/04/ollie_johnston.html">why am I still programming</a> written all over it for me.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.273 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 16:45:13 -->

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ohai &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/ohai/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:36:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Retiring App.net support for Sunlit</title>
+		<link>http://www.manton.org/2015/07/retiring-app-net-support-for-sunlit.html</link>
+		<pubDate>Mon, 20 Jul 2015 18:00:34 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[adn]]></category>
+		<category><![CDATA[flickr]]></category>
+		<category><![CDATA[ohai]]></category>
+		<category><![CDATA[sunlit]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2868</guid>
+		<description><![CDATA[Sunlit 1.3.1 shipped today. It’s a minor update focused on fixing bugs, but it is also the first version to remove App.net support. Existing users still have access to all the App.net features — the code still exists in the app for now — but the App.net sign-in button and settings have been removed for new users [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://sunlit.io/">Sunlit</a> 1.3.1 shipped today. It’s a minor update focused on fixing bugs, but it is also the first version to remove App.net support. Existing users still have access to all the App.net features — the code still exists in the app for now — but the App.net sign-in button and settings have been removed for new users to simplify the requirements and UI.</p>
+<p>It was difficult to let go of the App.net-specific features. A significant amount of the codebase was around syncing and collaboration features via App.net. There was also some great location check-in support built on App.net locations and compatibility with <a href="http://ohaiapp.net/">Ohai</a>. I had to remove screenshots and prune down the App Store description to account for the removed features.</p>
+<p>What’s left is an app that has fewer features but which feels light and simple again. Maybe this should have been our 1.0 version all along.</p>
+<p>Two years ago, <a href="http://www.manton.org/2013/08/waiting_for_appnets.html">I wrote about waiting for App.net’s killer app</a>:</p>
+<blockquote><p>
+  “The promise of App.net is bigger than one type of app. App.net isn’t just a blank slate; it’s an amplifier. It’s waiting to power the next new idea and help it grow into something big.”
+</p></blockquote>
+<p>This vision didn’t pan out. But I’m proud that we gave it a shot and put a lot of effort into the platform even after others had given up on it. Now that we’ve finished this “reset”, of sorts, we’ll move forward to build other features we always wanted in Sunlit.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Waiting for App.net&#8217;s killer app</title>
+		<link>http://www.manton.org/2013/08/waiting_for_appnets.html</link>
+		<pubDate>Mon, 26 Aug 2013 16:42:32 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[adn]]></category>
+		<category><![CDATA[ohai]]></category>
+		<category><![CDATA[sunlit]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[wired]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/08/waiting_for_appnets.html</guid>
+		<description><![CDATA[Last week, Mat Honan wrote an article for Wired about App.net. It does a great job of capturing the history of App.net and why it’s different from Twitter. And it’s positive for all but the closing paragraph, which is either discouraging or a wake-up call, depending on your optimism. I recommend reading the whole thing. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Last week, <a href="http://www.wired.com/gadgetlab/2013/08/the-great-app-net-mistake/">Mat Honan wrote an article for Wired</a> about App.net. It does a great job of capturing the history of App.net and why it’s different from Twitter. And it’s positive for all but the closing paragraph, which is either discouraging or a wake-up call, depending on your optimism. I recommend reading the whole thing.</p>
+<p>Here’s what Mat says about what’s missing:</p>
+<blockquote><p>
+  “But there’s still something missing, that seems totally obvious: a game. App.net needs a <em>Dots</em> or a <em>Candy Crush</em> or a <em>Words With Friends</em> that plugs into its social sphere. Something that isn’t just useful, but fun. Something wonderful.”
+</p></blockquote>
+<p>App.net does need a hit, a new kind of app that doesn’t resemble Twitter. If that turns out to be a game, then great. But I don’t think it has to be. There are hundreds or maybe thousands of games in the App Store that are excellent but which never made it big. The success of App.net can’t be pinned to such an uphill battle.</p>
+<p>I do know one thing: the next great app for App.net will come from the App.net community, the developers who are passionate about the API’s potential, just as early developers like <a href="http://iconfactory.com/">Iconfactory</a> who took a risk on Twitter 6 years ago are still having an impact on that service today. The next great app will come from the developers who see App.net as a way to build new things.</p>
+<p>I’m working on an app like that. It uses the App.net API, but not the timeline. It takes pictures, but isn’t really a photo app. It integrates with <a href="http://ohaiapp.net">Ohai</a>, but isn’t another location check-in app. It renders beautiful maps throughout, but isn’t about navigation. Some of the features I’m most proud of in the app wouldn’t be the same without App.net.</p>
+<p>There’s no way to know what apps will resonate with the mainstream, and which will remain niche or failures. But to have any hope of success, you have to start. You might even have to take a risk on a new platform if you want to build something new.</p>
+<p>The promise of App.net is bigger than one type of app. App.net isn’t just a blank slate; it’s an amplifier. It’s waiting to power the next new idea and help it grow into something big.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.267 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 17:09:45 -->

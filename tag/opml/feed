@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>opml &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/opml/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:36:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Bookshelf note sharing</title>
+		<link>http://www.manton.org/2007/01/bookshelf_note_sharing.html</link>
+		<pubDate>Mon, 29 Jan 2007 04:25:18 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[bookshelf]]></category>
+		<category><![CDATA[opml]]></category>
+		<category><![CDATA[rss]]></category>
+		<category><![CDATA[sse]]></category>
+		<category><![CDATA[vitalsource]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/01/bookshelf_note_sharing.html</guid>
+		<description><![CDATA[I&#8217;ve blogged a lot about my side project &#8220;Riverfold&#8221;:http://www.riverfold.com/ lately, but it&#8217;s time to show my &#8220;real&#8221; job some love as well. Internally at &#8220;VitalSource&#8221;:http://www.vitalsource.com/ last week we rolled over to beta status for the upcoming Bookshelf 4.5, and I&#8217;m really excited about what is coming. I&#8217;ve been working on the note sharing and syncing [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;ve blogged a lot about my side project &#8220;Riverfold&#8221;:http://www.riverfold.com/ lately, but it&#8217;s time to show my &#8220;real&#8221; job some love as well. Internally at &#8220;VitalSource&#8221;:http://www.vitalsource.com/ last week we rolled over to beta status for the upcoming Bookshelf 4.5, and I&#8217;m really excited about what is coming. I&#8217;ve been working on the note sharing and syncing feature off and on for over a year now.</p>
+<p>What&#8217;s it all mean? In a nutshell, create highlights and notes in your digital textbooks and have them flow to other users or to any of your computers. As Steve Jobs said with a totally straight face at the iPhone introduction: <em>It works like magic.</em></p>
+<p>(That was one of my personal favorites from Macworld. Rewatch the keynote and see the expression on his face. This magic is serious stuff.)</p>
+<p>At least, magic is the goal. If it was that easy we would have shipped by now. Behind the scenes it gets a little tricky, and the cross-platform C++ code that powers the client (the server piece is written in Ruby on Rails) is in its third major rewrite. Which like all good refactoring, is simpler and probably uses fewer lines of code than the previous two attempts.</p>
+<p>But first, some screenshots: &#8220;Subscribed highlights&#8221;:http://www.manton.org/images/2007/bookshelf_subscribed.png and &#8220;Sharing&#8221;:http://www.manton.org/images/2007/bookshelf_sharing.png.</p>
+<p>The architecture is based on the &#8220;Simple Sharing Extensions&#8221;:http://msdn.microsoft.com/xml/rss/sse/ (SSE) for RSS and OPML. On top of that we have added a VitalSource namespace and a few extra XML elements and attributes to keep track of Bookshelf-specific data, such as highlighter color and selected text within a book. The goal is to keep it as open as possible, so that in the future we can both consume other sources of user notes, and allow third-parties to also hook into the data in interesting ways.</p>
+<p>We (computer users in general) are all writing bits of notes and data in various applications and for the most part, it&#8217;s a mess. We switch applications frequently, databases and file formats change, and there&#8217;s no good way to move data between applications. Imagine instead that you could have bookmarks and short snippets of text easily sync between apps like Del.icio.us, NetNewsWire, Yojimbo, Flickr, and Bookshelf. Ultimately the only requirement is that each item is RSS-like (it has a URI, some text, and maybe another piece of specialized data just for that app). Anyone who has been programming for the web for a few years knows that after a while, <em>everything starts to look like RSS</em>.</p>
+<p>The key is simple, flexible standards. &#8220;Less Software&#8221;:http://gettingreal.37signals.com/ch10_Less_Software.php, if you will. Mac OS X&#8217;s Sync Services by comparison is too complicated, too closed, and too narrowly tied to specific applications.</p>
+<p>What I like best about SSE is that it provides a roadmap of sorts. It makes some assumptions about how you want to sync data and that frees you to work on more important things. Wondering how to deal with GUIDs, versioning, and deletions? Don&#8217;t reinvent the wheel, that&#8217;s in the spec.</p>
+<p>I&#8217;ll post again when we actually ship the software, of course. Anyone else using SSE yet? If so, drop me an email. I&#8217;d love to hear how people are using this stuff.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.234 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 17:27:53 -->

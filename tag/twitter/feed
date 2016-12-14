@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>twitter &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/twitter/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:36:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Fake news as propaganda</title>
+		<link>http://www.manton.org/2016/12/fake-news-as-propaganda.html</link>
+		<pubDate>Fri, 09 Dec 2016 16:20:19 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[fakenews]]></category>
+		<category><![CDATA[hillary]]></category>
+		<category><![CDATA[microblogging]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4536</guid>
+		<description><![CDATA[In yesterday&#8217;s essay about Twitter, I also linked to my post on Instagram&#8217;s lack of native reposts. Jason Brennan has written a follow-up about fake news and propaganda, exploring what we can learn and apply to microblogging: Aside from the normal reasons propaganda exists, it exists on social networks like Facebook and Twitter because it [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.manton.org/2016/12/twitter-at-10-years.html">In yesterday&#8217;s essay about Twitter</a>, I also linked to my post on Instagram&#8217;s lack of native reposts. <a href="http://nearthespeedoflight.com/article/2016_12_02_fake_news_on_social_networks">Jason Brennan has written a follow-up</a> about fake news and propaganda, exploring what we can learn and apply to microblogging:</p>
+<blockquote><p>
+  Aside from the normal reasons propaganda exists, it exists on social networks like Facebook and Twitter because it <em>can exist</em> on those networks. It’s <em>profitable</em> and <em>useful</em> for the parties manufacturing and disseminating it. To Facebook and Twitter, upon whose networks it propagates, it doesn’t really matter what the information is so long as it <em>engages</em> users. Facebook’s apathy to propaganda is regularly exploited.
+</p></blockquote>
+<p>Hillary Clinton also connected fake news and propaganda <a href="https://www.washingtonpost.com/news/powerpost/wp/2016/12/08/hillary-clinton-attacks-fake-news-in-post-election-appearance-on-capitol-hill/">in a speech this week</a>:</p>
+<blockquote><p>
+  Let me just mention briefly one threat in particular that should concern all Americans, Democrats, Republicans and independents alike, especially those who serve in our Congress: the epidemic of malicious fake news and false propaganda that flooded social media over the past year. It’s now clear that so-called fake news can have real-world consequences.
+</p></blockquote>
+<p>The internet is at a crossroads. Entrepreneurs love free speech, scale, and money, but those don&#8217;t always align in a good way. As much talk as there is of <em>making an impact</em>, very few leaders in Silicon Valley seem to think deeply about consequences.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Twitter at 10 years</title>
+		<link>http://www.manton.org/2016/12/twitter-at-10-years.html</link>
+		<pubDate>Thu, 08 Dec 2016 15:15:40 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[c4]]></category>
+		<category><![CDATA[microblog]]></category>
+		<category><![CDATA[snippets]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4531</guid>
+		<description><![CDATA[It was 2008 in Chicago, the C4 conference was wrapping up and I shared a cab to the airport with Alex Payne, who built the first Twitter API. I was so excited about the potential for the platform that I probably had a dozen ideas for Twitter apps. Alex and I sat at a cafe [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>It was 2008 in Chicago, the C4 conference was wrapping up and I shared a cab to the airport with Alex Payne, who built the first Twitter API. I was so excited about the potential for the platform that I probably had a dozen ideas for Twitter apps. Alex and I sat at a cafe at the airport, waiting for our respective flights, and talked about the future.</p>
+<p>Years passed. I did build and ship a few Twitter apps, including the popular Tweet Marker sync API. But I also grew disillusioned. I took a break from using Twitter.</p>
+<p>Alex had left the company and Twitter was much different from a business and leadership perspective by the time the rest of the world started paying attention. Thousands of employees worked at Twitter. How many of them had experienced the early days of following friends&#8217; tweets via SMS, when the service seemed genuinely new and important? The future had arrived but it was full of hashtags.</p>
+<p>This year — with rumors of Twitter being acquired, with fake news and the election, with online harassment — many people have written about the future of Twitter. I&#8217;ve been paying attention again, experimenting <a href="http://www.manton.org/2016/01/fine-heres-a-twitter-feed.html">with cross-posting</a>. I missed the 10th anniversary of when I joined Twitter in July 2006, but not the date of <a href="https://twitter.com/manton/status/1457463">my first tweet</a> a few months later.</p>
+<p>10 years is a good milestone to reflect on. I want to highlight a few posts I&#8217;ve read recently, and then wrap things up at the end.</p>
+<p>What I like about <a href="https://productmatters.design/the-ghosts-of-twitter-past-present-and-future-a02827120927">this article by Faruk Ateş</a> is that he gives a sense of the major changes Twitter has gone through, most of which were difficult to fully understand at the time. On the change with @-replies:</p>
+<blockquote><p>
+  The second thing is that when they started hiding @-replies to people you don’t follow, they stripped the user experience of a vital ingredient for civility: peer transparency. The tone of discourse changed much for the worse over time, following that new behavior of the timeline. Before the rollout, all your friends would see if you behaved like a jerk to someone; after the rollout that was no longer the case. It removed the natural consequences of bad behavior, thereby encouraging people to reap the benefits of such bad behavior much more frequently.
+</p></blockquote>
+<p>This is a theme across many posts, that we didn&#8217;t realize what all these changes were adding up to. I have some related thoughts <a href="http://www.manton.org/2016/11/fake-news-and-instagram.html">about Instagram</a> and another post on why <a href="http://www.manton.org/2016/11/todays-social-networks-are-broken.html">today&#8217;s social networks are broken</a>.</p>
+<p>Next, <a href="https://www.bloomberg.com/features/2016-twitter-dorsey-strategy/">Sarah Frier writes for Bloomberg</a> about how Twitter leadership is losing faith in Jack Dorsey. That despite new features such as live video, Twitter failed to ship other development efforts and fell behind competitors:</p>
+<blockquote><p>
+  Advertisers see potential in the company’s live video strategy, but they’re also being wooed by photo- and video-sharing app Snapchat, and Facebook’s Instagram, which has recently become more advertiser-friendly. At the time of Twitter’s 2013 initial public offering, those services weren’t close competitors. Now they both have larger daily audiences than Twitter.
+</p></blockquote>
+<p>As long as Jack Dorsey has 2 jobs, it will be easy to blame him for being unfocused. I don&#8217;t know if that&#8217;s fair. But when streaming live football gets so much attention, there do appear to be competing visions at Twitter.</p>
+<p>Twitter is too expensive to acquire. It&#8217;s also too flawed for a company like Disney to take a risk on. So instead there was <a href="http://www.recode.net/2016/10/27/13399872/twitter-layoffs-q3-earnings">another round of layoffs</a>. From Kurt Wagner at Recode:</p>
+<blockquote><p>
+  Last year, <a href="http://www.recode.net/2015/10/13/11619520/twitter-will-cut-more-than-300-employees-8-percent-of-staff">Twitter also cut 300 jobs</a> shortly after Jack Dorsey took on the CEO role full-time. (Or part-time, given that he’s also running Square.) The current feeling among those close to the company is that Twitter is simply too bloated, and pays too much in stock-based compensation for a company that’s still not profitable.
+</p></blockquote>
+<p>There are no guarantees for an unprofitable company. The only certain thing is that something will change.</p>
+<p>Back to Alex Payne. <a href="https://al3x.net/2010/09/15/last-thing-about-twitter.html">He wrote a post 6 years ago</a> about his time at Twitter, and his unsuccessful attempt to convince coworkers to decentralize Twitter. It holds up very well:</p>
+<blockquote><p>
+  Decentralization isn’t just a better architecture, it’s an architecture that resists censorship and the corrupting influences of capital and marketing. At the very least, decentralization would make tweeting as fundamental and irrevocable a part of the Internet as email.
+</p></blockquote>
+<p>It used to be impossible to imagine that Twitter could fail. And today, it&#8217;s still unlikely to vanish or even change much overnight. But the <a href="https://indieweb.org/">web will be better</a> if we <em>assume</em> that Twitter is a lost cause. From the 10-year view, it&#8217;s clear that Twitter has already changed.</p>
+<p>Acquisition rumors come and go, although they seem more real this time, and we&#8217;re reminded that few web sites last forever. <a href="http://micro.blog/">It&#8217;s time to prepare</a> for a web without Twitter.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Fake news and Instagram</title>
+		<link>http://www.manton.org/2016/11/fake-news-and-instagram.html</link>
+		<pubDate>Tue, 22 Nov 2016 17:14:46 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[instagram]]></category>
+		<category><![CDATA[news]]></category>
+		<category><![CDATA[social]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4484</guid>
+		<description><![CDATA[Twitter has retweets. Facebook has sharing. But Instagram has no built-in reposting. On Instagram, there&#8217;s no instantaneous way to share someone else&#8217;s post to all of your followers. The first version of Instagram was built by a very small team. They&#8217;ve always grown slowly and expanded the UI thoughtfully. I think the lack of a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Twitter has retweets. Facebook has sharing. But Instagram has no built-in reposting. On Instagram, there&#8217;s no instantaneous way to share someone else&#8217;s post to all of your followers.</p>
+<p>The first version of Instagram was built by a very small team. They&#8217;ve always grown slowly and expanded the UI thoughtfully. I think the lack of a repost feature was deliberate.</p>
+<p>When you have to put a little work into posting, you take it more seriously. I wonder if <a href="http://www.manton.org/2016/11/todays-social-networks-are-broken.html">fake news</a> would have spread so quickly on Facebook if it was a little more difficult to share an article before you&#8217;ve read more than the headline.</p>
+<p>It&#8217;s not easy to build software that encourages good behavior. When I look at my Instagram timeline I see beautiful photos, hand-drawn art, and snapshots of everyday life. I see the very best of the world. It&#8217;s not the full truth, but it&#8217;s all true.</p>
+<p>Instagram was no accident. The only question: was it unique to photos, or can the same quality be applied to microblogging?</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Indie publishing is about control</title>
+		<link>http://www.manton.org/2016/11/indie-publishing-is-about-control.html</link>
+		<pubDate>Sat, 19 Nov 2016 20:48:39 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[indie]]></category>
+		<category><![CDATA[microblogging]]></category>
+		<category><![CDATA[publishing]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4476</guid>
+		<description><![CDATA[Andy Baio redesigned his blog recently and argued that blogs still matter because of ownership and control. Of course, I agree. And though it may seem far off, there&#8217;s no guarantee that Twitter will outlast our own blogs. Andy writes: Twitter, itself, may be acquired and changed in some terrible way. It’s not hard to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://waxy.org/2016/11/redesigning-waxy-2016-edition/">Andy Baio redesigned his blog recently</a> and argued that blogs still matter because of ownership and control. Of course, I agree. And though it may seem far off, there&#8217;s no guarantee that Twitter will outlast our own blogs. Andy writes:</p>
+<blockquote><p>
+  Twitter, itself, may be acquired and changed in some terrible way. It’s not hard to imagine a post-Verizon Yahoo selling off Tumblr. Medium keeps pivoting, trying to find a successful revenue model. There’s no guarantee any of these platforms will be around in their current state in a year, let alone ten years from now.
+</p></blockquote>
+<p>Ben Brooks <a href="https://brooksreview.net/2016/11/a-new-waxyorg/">followed up</a>:</p>
+<blockquote><p>
+  Having my own site gives me complete control to do whatever I want, whenever I want, however I want. I don’t understand why people ever want it any other way.
+</p></blockquote>
+<p>Words are powerful. Especially right now, why let anyone else have control over the format of our words and how they spread? Having a blog is a statement: our writing exists apart from the whim of an algorithmic news feed.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Today&#8217;s social networks are broken</title>
+		<link>http://www.manton.org/2016/11/todays-social-networks-are-broken.html</link>
+		<pubDate>Fri, 18 Nov 2016 16:02:47 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[openweb]]></category>
+		<category><![CDATA[snippets]]></category>
+		<category><![CDATA[social]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4471</guid>
+		<description><![CDATA[Brent Simmons has left Twitter, frustrated with the diminishing value of the service, Twitter&#8217;s inability to deal with harassment, and more: And then it was part of the system that helped elect a fascist President. This tipped it over for me: it’s no longer worth my participation. The shitheads can have it. Facebook has also [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://inessential.com/2016/11/09/on_leaving_twitter">Brent Simmons has left Twitter</a>, frustrated with the diminishing value of the service, Twitter&#8217;s inability to deal with harassment, and more:</p>
+<blockquote><p>
+  And then it was part of the system that helped elect a fascist President. This tipped it over for me: it’s no longer worth my participation. The shitheads can have it.
+</p></blockquote>
+<p>Facebook has also been in the news for <a href="http://mashable.com/2016/11/09/facebook-kill-news-feed-trump/">its role in letting fake news spread</a>. Ben Thompson has <a href="https://stratechery.com/2016/fake-news/">a long essay this week on it</a>:</p>
+<blockquote><p>
+  I get why top-down solutions are tempting: fake news and filter bubbles are in front of our face, and wouldn’t it be better if Facebook fixed them? The problem is the assumption that whoever wields that top-down power will just so happen to have the same views I do. What, though, if they don’t?
+</p></blockquote>
+<p>Maybe. Though while we should debate how to balance Facebook&#8217;s enormous power, there should be a parallel effort to move away from the centralized publishing model that gave Facebook that power.</p>
+<p>Facebook has confused itself into thinking it is the whole internet, and so the principles of a free press that apply to the open web, also must apply to Facebook. No. While Facebook has a great responsibility to do the right thing, because they are so big, Facebook is just a web site.</p>
+<p>I want Facebook to improve. I want Twitter to improve. But I can do very little to effect change at those companies, and some problems are so fundamental as to be essentially unfixable. The web wasn&#8217;t supposed to be like this, with all the power and all the writing concentrated into so few sites.</p>
+<p>It&#8217;s time for a new social network that brings discoverability and community without the baggage of an ad-driven network that must grow to a billion users. A social network that embraces the open web, and freedom of expression, while preserving a clean timeline that can&#8217;t be interrupted by harassment.</p>
+<p>Not just one new social network. I hope that many developers will work on products that encourage independent publishing again.</p>
+<p>It&#8217;s going to take time to build. That&#8217;s why I started working on <a href="http://snippets.today/">Snippets.today</a> 2 years ago. I&#8217;ve made great progress, but I&#8217;ve also drifted, unfocused, uncommitted to finishing it, as if I knew something was missing.</p>
+<p>Something <em>was</em> missing. The election results have made that clear. I was thinking big, but not big enough. The way forward must include both a decentralized publishing platform and the tools to encourage a safe community.</p>
+<p>If you&#8217;d like to know when the beta is finally ready, please <a href="http://eepurl.com/6vVvj">subscribe to the announce list</a>. Thank you.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>An open Twitter starts with the web</title>
+		<link>http://www.manton.org/2016/07/an-open-twitter-starts-with-the-web.html</link>
+		<pubDate>Sat, 23 Jul 2016 15:40:34 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[indiewebcamp]]></category>
+		<category><![CDATA[openweb]]></category>
+		<category><![CDATA[rss]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[wordpress]]></category>
+		<category><![CDATA[xmpp]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2016/07/an-open-twitter-starts-with-the-web.html</guid>
+		<description><![CDATA[Dave Winer wants an open alternative to Twitter: I want it to be friendly to Twitter, because as a user and a shareholder, and a developer who uses their platform, I want to see it thrive. But I also strongly believe we need the open system, the Central Park to Twitter&#8217;s condo buildings on Fifth [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Dave Winer wants <a href="http://scripting.com/2016/07/22/1400.html">an open alternative to Twitter</a>:</p>
+<blockquote><p>
+  I want it to be friendly to Twitter, because as a user and a shareholder, and a developer who uses their platform, I want to see it thrive. But I also strongly believe we need the open system, the <a href="http://scripting.com/2016/06/18/1324.html">Central Park</a> to Twitter&#8217;s condo buildings on Fifth Ave and Central Park West.
+</p></blockquote>
+<p>John Biesnecker, reading Dave&#8217;s post, <a href="https://gist.github.com/biesnecker/d585c1ba395ffa5c8148128372aa8e2e">suggested XMPP</a> because it&#8217;s an open standard and federated. But as great as XMPP is for messaging, it seems too different from the web; it would be like starting over. The nice thing about building on independent microblogs is that we can leverage the existing open web infrastructure: all the WordPress installs, RSS feeds, and new work from the <a href="https://indieweb.org/">IndieWebCamp</a>.</p>
+<p>That&#8217;s what I&#8217;ve tried to do for <a href="http://snippets.today/">Snippets.today</a>. Learn from the UI innovations of Twitter — the fast timeline experience, the effortless posting — but without skipping the important first step of independent web publishing.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Core Int 242, Swift, and verified Twitter</title>
+		<link>http://www.manton.org/2016/07/core-int-242-swift-and-verified-twitter.html</link>
+		<pubDate>Thu, 21 Jul 2016 19:28:54 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[objc]]></category>
+		<category><![CDATA[swift]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4141</guid>
+		<description><![CDATA[From the show notes for today&#8217;s episode: Manton reacts to negatively to the Swift 3 decision to disallows subclassing by default, while Daniel tries to see the bright side. The two discuss Twitter’s new invitation to apply for @verified status, and Daniel’s attempt to do so. And they quickly touch base on the upcoming Apple-sponsored [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>From the show notes for <a href="http://coreint.org/242">today&#8217;s episode</a>:</p>
+<blockquote><p>
+  Manton reacts to negatively to the Swift 3 decision to disallows subclassing by default, while Daniel tries to see the bright side. The two discuss Twitter’s new invitation to apply for @verified status, and Daniel’s attempt to do so. And they quickly touch base on the upcoming Apple-sponsored reality show, “Planet of the Apps.”
+</p></blockquote>
+<p>Believe it or not, I was kind of holding back a little in my Swift ranting. But it was the most critical I&#8217;ve been on the show. And it&#8217;s totally okay for you to disagree! Maybe even <em>good for the platform</em> if you do.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Twitter and .blog</title>
+		<link>http://www.manton.org/2016/07/twitter-and-blog.html</link>
+		<pubDate>Sat, 16 Jul 2016 15:04:07 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[automattic]]></category>
+		<category><![CDATA[companies]]></category>
+		<category><![CDATA[domains]]></category>
+		<category><![CDATA[dotblog]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2016/07/twitter-and-blog.html</guid>
+		<description><![CDATA[Dave Winer has a good comment for anyone questioning the web: So when they tell you they know for sure that the web is dead, or that everyone wants to host their blogs in locked-up silos, or that you can&#8217;t build a great open social net on RSS, you might want to lower your glasses [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://scripting.com/2016/07/14/1382.html">Dave Winer has a good comment</a> for anyone questioning the web:</p>
+<blockquote><p>
+  So when they tell you they know for sure that the web is dead, or that everyone wants to host their blogs in locked-up silos, or that you can&#8217;t build a great open social net on RSS, you might want to lower your glasses down your nose and look out over the top and ask Reallly? Are you sure?? ;-)
+</p></blockquote>
+<p>Nothing is certain in business. For every success, there are many &#8220;sure thing&#8221; failures.</p>
+<p>I posed a question on <a href="http://coreint.org/241">this week&#8217;s Core Intuition</a> as we were talking about Automattic&#8217;s upcoming <a href="https://dotblog.wordpress.com/">.blog</a> domain name registration. The gist of it was: what is more likely to survive for the next 50 years, Twitter or .blog? Twitter is huge, dominating the news and seemingly unstoppable, but social networks don&#8217;t have a great track record. I&#8217;d put my money on a new top-level domain, both because of the vision of empowering users to control their own content and also because domains were designed to last.</p>
+<p>Companies aren&#8217;t exactly <em>designed</em> to fail. But that is their default outcome.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Core Intuition 236 and app subscriptions</title>
+		<link>http://www.manton.org/2016/06/core-intuition-236-and-app-subscriptions.html</link>
+		<pubDate>Thu, 09 Jun 2016 20:47:08 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[inapp]]></category>
+		<category><![CDATA[subscriptions]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3971</guid>
+		<description><![CDATA[We published Core Intuition episode 236 today, discussing the recent App Store announcements and a listener question about offices. We wrap up with plans for WWDC. There has been a lot of great blog posts and podcast episodes already on the App Store subscription change. I listened to Under the Radar 31 and the Release [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We published <a href="http://coreint.org/236">Core Intuition episode 236</a> today, discussing the recent App Store announcements and a listener question about offices. We wrap up with plans for WWDC.</p>
+<p>There has been a lot of great blog posts and podcast episodes already on the App Store subscription change. I listened to <a href="https://www.relay.fm/radar/31">Under the Radar 31</a> and the <a href="https://releasenotes.tv/special-episode-mostly-neutral-ish/">Release Notes special edition</a> today and recommend both. The most confusion seems to be around what kind of apps are appropriate for subscriptions, where by “appropriate” I mean “what Apple will approve”.</p>
+<p>John Gruber also <a href="http://daringfireball.net/2016/06/app_store_subscription_uncertainty">follows up at Daring Fireball</a> on this question:</p>
+<blockquote><p>
+  Professional apps that require “a lot of maintenance of new features and versions” don’t fit either of those categories. <em>Would</em> Twitter clients like Tweetbot and Twitterrific qualify for subscription pricing? After talking to Schiller yesterday, I thought so. Now, I don’t know.
+</p></blockquote>
+<p>As I mention on Core Intuition, apps that have a backend service with obvious hosting and maintenance costs — a music streaming service, an invoicing web app, or a blogging platform, for example — are easier for users to understand as needing to be subscriptions. Twitter apps are an interesting example because <em>some</em> are pure clients to Twitter’s backend, but many increasingly have their own app-specific services like timeline syncing or push notifications.</p>
+<p>For years Apple has allowed apps to use auto-renewing subscriptions. I had an iPhone app and companion web service that was approved by Apple for auto-renewing subscriptions, after I made the case for the service as a “cloud” archive. From section 11.15 of the <a href="https://developer.apple.com/app-store/review/guidelines/">App Store review guidelines</a>:</p>
+<blockquote><p>
+  Apps may only use auto-renewing subscriptions for periodicals (newspapers, magazines), business Apps (enterprise, productivity, professional creative, cloud storage), and media Apps (video, audio, voice), or the App will be rejected
+</p></blockquote>
+<p>From my experience and listening to other developers, I’ve had the impression for a while that Apple would essentially reject most auto-renewing app submissions by default. While we still don’t know what “all categories” means in the new announcement, I expect it means that there will no longer be a kind of blanket rejection. Apple will still reject many apps as poorly suited for subscriptions, though, and maybe that&#8217;s okay for now.</p>
+<p>(I&#8217;m conflicted on this point. John Gruber&#8217;s suggestion to approve everything and let the market decide is compelling and fits better with my instinct that the control should be in developers&#8217; hands.)</p>
+<p>“Subscription fatigue” is a real thing that I’ll occasionally hear from customers about. No one wants to pay $1/month to 40 different apps and services; it feels like a burden in a way that paying the same total price to just two apps at $20/month does not. Nevertheless, subscriptions are very powerful. Everything I’ve done over the last few years is to position myself to eventually have a recurring-revenue success.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Time to rethink blog comments</title>
+		<link>http://www.manton.org/2016/03/time-to-rethink-blog-comments.html</link>
+		<pubDate>Thu, 24 Mar 2016 18:24:00 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[civilcomments]]></category>
+		<category><![CDATA[comments]]></category>
+		<category><![CDATA[community]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[webmention]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3769</guid>
+		<description><![CDATA[Twitter has lost some of what made it special for communities 5 years ago. I&#8217;ve noticed a few trends: Twitter’s 140-character limit and easy retweeting encourage and amplify negative tweets. Sincerity is less common. Everything is an opportunity for a joke. Widely followed, long-time Twitter users don’t find the joy they used to when interacting [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Twitter has lost some of what made it special for communities 5 years ago. I&#8217;ve noticed a few trends:</p>
+<ul>
+<li>Twitter’s 140-character limit and easy retweeting encourage and amplify negative tweets. Sincerity is less common. Everything is an opportunity for a joke.</li>
+<li>Widely followed, long-time Twitter users don’t find the joy they used to when interacting with followers. Some have retreated to private Slack channels, at the cost of public discussion and approachability.</li>
+<li>Developers have never completely forgiven Twitter for crippling the API. This doesn’t directly impact most users anymore, but it’s a backdrop that gives every new Twitter feature a tone of distrust. Progress is slow.</li>
+</ul>
+<p>Meanwhile, blog comments have slowly been killed off over that same period. The rise of social networks, combined with the technical problems of fighting blog comment spam, pushed most bloggers to prefer answering questions on Twitter.</p>
+<p><a href="http://beckyhansmeyer.com/2016/03/07/follow-up-the-nuances-of-online-discussion/">Becky Hansmeyer writes about</a> the intersection of these problems — that some Twitter users avoid public discussion, but most blogs no longer have comments to fall back on — by pointing to <a href="http://blog.bellebethcooper.com/online-relationships.html">a post from Belle Beth Cooper</a>:</p>
+<blockquote><p>
+  “Belle’s post really resonated with me because it reminded me of something I think about a lot: when an ever-increasing number of blogs and media outlets are disabling comment sections, where do decent, thoughtful people bring their discussions? I only offer readers one way to contact me on this site, and it’s via Twitter. But what if, like Belle, you no longer use Twitter (or never did in the first place)?”
+</p></blockquote>
+<p>We didn’t realized how much we lost when we turned our backs on blog comments years ago. Just look at <a href="https://red-sweater.com/blog/181/the-cocoa-carbon-advantage#comments">one of Daniel Jalkut&#8217;s blog posts from 10 years ago</a>, which he and I discuss on an upcoming episode of Core Intuition. 53 comments! And they&#8217;re all preserved along with the original content. That&#8217;s difficult to do when comments are spread across Twitter and easily lost.</p>
+<p>It’s time to take what we’ve since learned from social networks and apply it the openness of cross-site replies. That’s why I want to support <a href="https://indiewebcamp.com/Webmention">Webmention</a>. As Becky mentions, <a href="https://www.civilcomments.com/">Civil Comments</a> look great too. I think we can encourage both in parallel: distributed comments like Webmention for sites that can support it <em>and</em> better centralized comments like Civil.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.301 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 16:44:11 -->

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>webservices &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/webservices/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:36:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Overusing the term REST</title>
+		<link>http://www.manton.org/2011/03/overusing_the_term.html</link>
+		<pubDate>Fri, 18 Mar 2011 03:52:12 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[api]]></category>
+		<category><![CDATA[http]]></category>
+		<category><![CDATA[rest]]></category>
+		<category><![CDATA[webservices]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2011/03/overusing_the_term.html</guid>
+		<description><![CDATA[Jens Alfke, &#8220;commenting on the new Rdio API&#8221;:http://jens.mooseyard.com/2011/03/dudes-this-is-so-not-rest/: &#8220;Maybe we should just give up on the term REST, since it&#8217;s become so diluted as to mean nothing more than &#8216;HTTP API that&#8217;s not as hard to use as SOAP&#8217;?&#8221; Sounds right. &#8220;Pure REST&#8221;:http://en.wikipedia.org/wiki/Representational_State_Transfer was never strictly followed, and the advantage to consistent HTTP methods &#8212; [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Jens Alfke, &#8220;commenting on the new Rdio API&#8221;:http://jens.mooseyard.com/2011/03/dudes-this-is-so-not-rest/:</p>
+<blockquote><p>&#8220;Maybe we should just give up on the term REST, since it&#8217;s become so diluted as to mean nothing more than &#8216;HTTP API that&#8217;s not as hard to use as SOAP&#8217;?&#8221;</p></blockquote>
+<p>Sounds right. &#8220;Pure REST&#8221;:http://en.wikipedia.org/wiki/Representational_State_Transfer was never strictly followed, and the advantage to consistent HTTP methods &mdash; being able to abstract parts of the client details away, as with &#8220;ActiveResource&#8221;:http://api.rubyonrails.org/classes/ActiveResource/Base.html &mdash; don&#8217;t seem like significant savings to me. Now that XML-RPC and SOAP are mostly dead, we assume that new APIs are going to be usable from any language without much effort. I won&#8217;t object to having one less acronym in the world.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Dave Winer rethinks auth</title>
+		<link>http://www.manton.org/2009/01/dave_winer_rethinks.html</link>
+		<pubDate>Mon, 05 Jan 2009 18:09:28 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[oauth]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[webservices]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2009/01/dave_winer_rethinks.html</guid>
+		<description><![CDATA[&#8220;Dave Winer proposes&#8221;:http://www.scripting.com/stories/2009/01/05/rethinkingAuthentication.html a simple solution to revoking authentication in web services: &#8220;Now imagine that Twitter had a page that showed all the IP addresses that have used your login in the last 30 days, with a start date for each and a count of calls made. I bet you could figure out which one [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>&#8220;Dave Winer proposes&#8221;:http://www.scripting.com/stories/2009/01/05/rethinkingAuthentication.html a simple solution to revoking authentication in web services:</p>
+<blockquote><p>&#8220;Now imagine that Twitter had a page that showed all the IP addresses that have used your login in the last 30 days, with a start date for each and a count of calls made. I bet you could figure out which one was The Greasy Spoon Group, pronto. Further suppose there was a checkbox next to each IP address. You could uncheck that one, click Submit, and voila, no more spam from your account.&#8221;</p></blockquote>
+<p>There are important things missing here, such as not sharing your credentials, but I have to admit I do like the simplicity. If the hostnames were grouped by user agent, the UI wouldn&#8217;t even be half bad. If nothing else, maybe this will light a fire under OAuth implementors to get moving. (And I count myself in that group too, since I&#8217;m involved with some services that need OAuth pretty badly.)</p>
+<p>If you &#8220;string together tweets from Alex Payne&#8221;:http://search.twitter.com/search?q=&amp;ands=oauth&amp;phrase=&amp;ors=&amp;nots=&amp;tag=&amp;lang=all&amp;from=al3x&amp;to=&amp;ref=&amp;near=&amp;within=15&amp;units=mi&amp;since=&amp;until=&amp;rpp=50, it makes for an interesting narrative about OAuth too.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.246 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 17:18:56 -->

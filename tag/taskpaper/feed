@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>taskpaper &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/taskpaper/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:36:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Fast customer support</title>
+		<link>http://www.manton.org/2010/03/fast_customer_support.html</link>
+		<pubDate>Tue, 30 Mar 2010 15:18:14 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[beanstalk]]></category>
+		<category><![CDATA[email]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[taskbot]]></category>
+		<category><![CDATA[taskpaper]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2010/03/fast_customer_support.html</guid>
+		<description><![CDATA[Three years ago &#8220;I wrote the following&#8221;:http://www.manton.org/2007/02/customer.html about customer support: &#8220;Most people who buy Mac software from independent developers know that it&#8217;s only 1-5 people behind the company. We can&#8217;t compete with the Microsofts and Adobes of the world on application size, but we can compete on quality customer service. _Being small is a competitive [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Three years ago &#8220;I wrote the following&#8221;:http://www.manton.org/2007/02/customer.html about customer support:</p>
+<blockquote><p>&#8220;Most people who buy Mac software from independent developers know that it&#8217;s only 1-5 people behind the company. We can&#8217;t compete with the Microsofts and Adobes of the world on application size, but we can compete on quality customer service. _Being small is a competitive advantage_.&#8221;</p></blockquote>
+<p>Seems reasonable, but the fact is that many small companies are struggling to keep up with the support load. &#8220;Jesse Grosjean recently downgraded&#8221;:http://blog.hogbaysoftware.com/post/468160055/support-expectations his support expectations for customers. From the official site:</p>
+<blockquote><p>&#8220;I&#8217;ll answer basic questions and license key/order issues as fast as I can. I also appreciate larger questions and feature suggestions, but I&#8217;m finding that I no longer have time to answer them all as I used to (mostly). I promise to read and consider everything, but you may not get an individual response.&#8221;</p></blockquote>
+<p>I&#8217;m a huge fan of Jesse&#8217;s TaskPaper and his minimalist approach to Mac development. He is very honest with customers and encourages participation starting with early beta versions.</p>
+<p>But it can be damaging to set support expectations too low. Here&#8217;s what a support page says about support in &#8220;Pastebot&#8221;:http://tapbots.com/software/pastebot/, another one of my favorite iPhone apps:</p>
+<blockquote><p>&#8220;We try our best to answer every support question. But please make sure your question hasn&#8217;t already been answered in our FAQ. If you email us with an issue that has already been explained in the FAQs, we may skip the email.&#8221;</p></blockquote>
+<p>This seems slightly backwards to me. The questions in the FAQ are the <em>easiest</em> to answer! I respond to those immediately. It&#8217;s the hard questions for which I don&#8217;t have a good answer yet that usually take the longest time or are more likely to fall through the cracks.</p>
+<p>Is the weight of support for iPhone developers just too much? TaskPaper and Pastebot are both very popular. I guess we can all hope to be successful enough that we find out.</p>
+<p>Meanwhile, I had a question for &#8220;Beanstalk&#8221;:http://beanstalkapp.com/ yesterday and received a response in just 19 minutes and an additional follow-up response in under 10 minutes. I like to show off impressive companies, so I tweeted how fast their response was. &#8220;Their answer&#8221;:http://twitter.com/Beanstalkapp/status/11270045214 to my tweet? &#8220;We&#8217;re usually faster.&#8221;</p>
+<p>Yep, that&#8217;s the right attitude. Set your standards high.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Ta-da List export to TaskPaper</title>
+		<link>http://www.manton.org/2007/08/tada_list_export.html</link>
+		<pubDate>Sat, 04 Aug 2007 06:38:51 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[export]]></category>
+		<category><![CDATA[ruby]]></category>
+		<category><![CDATA[tadalist]]></category>
+		<category><![CDATA[taskpaper]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/08/tada_list_export.html</guid>
+		<description><![CDATA[I&#8217;ve been using &#8220;Ta-da List&#8221;:http://www.tadalist.com/ for the last couple of years for all my to-do lists. I have about 100 lists and love the speed of adding new items and some of the subtle smarts it applies to sorting recent lists and cleaning up completed ones. But I&#8217;ve been on the lookout for a desktop [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;ve been using &#8220;Ta-da List&#8221;:http://www.tadalist.com/ for the last couple of years for all my to-do lists. I have about 100 lists and love the speed of adding new items and some of the subtle smarts it applies to sorting recent lists and cleaning up completed ones.</p>
+<p>But I&#8217;ve been on the lookout for a desktop app. OmniOutliner has become a bit bloated and all the Getting Things Done apps seem so structured. Along comes &#8220;TaskPaper&#8221;:http://hogbaysoftware.com/projects/taskpaper today and there&#8217;s a lot to like. The plain text file format is refreshing and nicely open.</p>
+<p>I wrote a Ruby script to export all my lists from Ta-da into TaskPaper so that I can give it a proper workout. It makes a new document (with a single project) for each list it finds. Make sure to install &#8220;Hpricot&#8221;:http://code.whytheluckystiff.net/hpricot/ first &#8212; there&#8217;s no official Ta-da List API so we need to parse HTML a little.</p>
+<p>Download: &#8220;tadalist_taskpaper.rb&#8221;:http://www.manton.org/software/scripts/tadalist_taskpaper.rb</p>
+<p>Instructions:</p>
+<ul>
+<li>Open the file in your favorite text editor and change TADALIST_HOST to whatever your account is.</p>
+</li>
+<li>
+<p>Make sure Safari is running and you have logged into Ta-da. The script reads the cookie value from Safari&#8217;s Cookies.plist so that it doesn&#8217;t need to simulate a real sign-in.</p>
+</li>
+<li>
+<p>Run from the command line. It will create the new files in the current directory.</p>
+</li>
+<li>
+<p>You will see short status messages for what it is doing. It&#8217;s broken if there are any Ruby exceptions.</p>
+</li>
+</ul>
+<p>Enjoy!</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.233 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 17:19:16 -->

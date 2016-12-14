@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>startups &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/startups/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:36:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Red flags at the startup</title>
+		<link>http://www.manton.org/2016/09/red-flags-at-the-startup.html</link>
+		<pubDate>Thu, 15 Sep 2016 14:42:00 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[paychecks]]></category>
+		<category><![CDATA[photoshop]]></category>
+		<category><![CDATA[siliconvalley]]></category>
+		<category><![CDATA[startups]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4283</guid>
+		<description><![CDATA[Wild yet totally believable story from Penny Kim about how she moved from Texas to California to join a startup. It&#8217;s got mismanagement, office politics, money problems, lies, and even faked wire transfer receipts: The scam artist sat there and concocted this in his head instead of telling us the truth that the money wasn’t [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://medium.com/startup-grind/i-got-scammed-by-a-silicon-valley-startup-574ced8acdff">Wild yet totally believable story from Penny Kim</a> about how she moved from Texas to California to join a startup. It&#8217;s got mismanagement, office politics, money problems, lies, and even faked wire transfer receipts:</p>
+<blockquote><p>
+  The scam artist sat there and concocted this in his head instead of telling us the truth that the money wasn’t there. He then weighed the pros and cons and decided it was worth it. Then he took the time to Photoshop in each of his 17 employees’ names (or he forced someone else to do his dirty work).
+</p></blockquote>
+<p>Although she tried to keep the company name hidden, it was revealed by others later. See this <a href="https://news.ycombinator.com/item?id=12379518">Hacker News thread</a> and article <a href="http://www.businessinsider.com/wrkriot-burned-700000-allegedly-lied-to-employees-2016-8">at Business Insider</a>.</p>
+<p>It is hard to run a small company that isn&#8217;t quite profitable, balancing the ups and downs of revenue and the timing of new investments. When I was much younger, I could probably be sympathetic to a company that was honest and transparent about a rare late paycheck or reimbursement. But Penny Kim&#8217;s startup story is much worse than that; it&#8217;s a perfect example of how <em>not</em> to handle leadership mistakes.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Startup life and Medium</title>
+		<link>http://www.manton.org/2015/08/startup-life-and-medium.html</link>
+		<pubDate>Thu, 27 Aug 2015 14:06:21 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[blogs]]></category>
+		<category><![CDATA[essays]]></category>
+		<category><![CDATA[medium]]></category>
+		<category><![CDATA[sanfrancisco]]></category>
+		<category><![CDATA[startups]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2976</guid>
+		<description><![CDATA[Pretty hilarious guide to San Francisco startup life from Padlet on Medium. Here&#8217;s just one small part: &#8220;Markets are chockablock with these desk+gym hybrids — standing desks, treadmill desks, cycling desks. This is why I feel bullish about my swimming desk idea — a big water tank with an infinity pool and a computer bolted on one side. Noise [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Pretty hilarious <a href="https://medium.com/@padlet/an-honest-guide-to-the-san-francisco-startup-life-6df13d23689">guide to San Francisco startup life</a> from Padlet on Medium. Here&#8217;s just one small part:</p>
+<blockquote><p>
+  &#8220;Markets are chockablock with these desk+gym hybrids — standing desks, treadmill desks, cycling desks. This is why I feel bullish about my swimming desk idea — a big water tank with an infinity pool and a computer bolted on one side. Noise cancelling scuba masks, snorkels, and fins come as standard equipment.&#8221;
+</p></blockquote>
+<p>I&#8217;ve been fascinated with Medium lately, and have cross-posted a couple recent posts <a href="http://medium.com/@manton">over there</a> to better understand it. Is it a blogging tool? Sort of. Is it a social network? Not exactly.</p>
+<p>While you can follow other users there, I find that even with the 100+ people I&#8217;m following, the posts I see on Medium are almost exclusively popular essays written by people I don&#8217;t know. They&#8217;re recommended enough that they show up in Medium&#8217;s daily emails, or on the home page, or linked from other blogs I read. But it&#8217;s like if you signed in to Twitter and only saw retweets.</p>
+<p>This may explain Medium&#8217;s design changes to encourage quick, microblog-like posts, in addition to full essays. Longer blog posts just aren&#8217;t written often enough to make for a meaningful social network.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.241 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 17:06:24 -->

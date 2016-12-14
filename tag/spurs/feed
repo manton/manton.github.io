@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>spurs &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/spurs/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:36:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Spurs at the Olympics</title>
+		<link>http://www.manton.org/2016/08/spurs-at-the-olympics.html</link>
+		<pubDate>Wed, 17 Aug 2016 18:02:41 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[basketball]]></category>
+		<category><![CDATA[olympics]]></category>
+		<category><![CDATA[spurs]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4187</guid>
+		<description><![CDATA[I&#8217;m watching Spain vs. France basketball right now, and later today is Argentina vs. the United States. No question the United States are the favorites for gold, but there are some really good teams, most with great NBA players. From the double-overtime win by Argentina a few days ago, to Boris Diaw sipping an espresso [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;m watching Spain vs. France basketball right now, and later today is Argentina vs. the United States. No question the United States are the favorites for gold, but there are some really good teams, most with great NBA players.</p>
+<p>From the double-overtime win by Argentina <a href="http://www.manton.org/2016/08/4178.html">a few days ago</a>, to Boris Diaw <a href="https://www.instagram.com/p/BJJAJTGgdkK/">sipping an espresso</a> in his room, I&#8217;ve been more engaged in following basketball at the Olympics than usual. And I love that so many Spurs players are everywhere.</p>
+<p>Spain has Pau Gasol; Argentina has Manu Ginobili, who helped defeat the United States in 2004; Australia has Patty Mills; and France has Tony Parker. Gives me something to root for throughout the tournament.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>New Core Int, Technical Foul, and Timetable</title>
+		<link>http://www.manton.org/2016/05/new-core-int-technical-foul-and-timetable.html</link>
+		<pubDate>Sat, 21 May 2016 01:11:03 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[nba]]></category>
+		<category><![CDATA[spurs]]></category>
+		<category><![CDATA[swift]]></category>
+		<category><![CDATA[technicalfoul]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3934</guid>
+		<description><![CDATA[I somehow recorded 4 podcast episodes this week. We just published episode 233 of Core Intuition, where Daniel Jalkut and I talk about the announcements from Google I/O and compare the latest Swift 3 news to our experience going through previous Apple transitions. From the show notes: &#8220;Manton and Daniel react to Google’s I/O keynote, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I somehow recorded 4 podcast episodes this week. We just published <a href="http://www.coreint.org/2016/05/episode-233-actually-i-am-a-little-worried/">episode 233 of Core Intuition</a>, where Daniel Jalkut and I talk about the announcements from Google I/O and compare the latest Swift 3 news to our experience going through previous Apple transitions. From the show notes:</p>
+<blockquote><p>
+  &#8220;Manton and Daniel react to Google’s I/O keynote, and weigh the threat of Allo to iMessage. They celebrate Apple’s WWDC promotion of 3rd party events, and the increasing speed of App Store reviews. Finally, they reflect on the announced delay in Swift 3’s planned ABI stability, and Daniel’s sudden FUD about embracing Swift.&#8221;
+</p></blockquote>
+<p>It was a big week for the NBA, too, with the first couple games of the east and west conference finals. On <a href="http://technicalfoul.fm/episode-05-therapy-for-manton/">the latest Technical Foul</a>, Ben Thompson and I recap round 2, especially the Spurs loss in 6 games to the Thunder:</p>
+<blockquote><p>
+  Ben and Manton are back geeking out about the NBA. This week we talk Manton through the Spurs loss, discuss OKC versus the Warriors, and whether the Cavs are good enough.
+</p></blockquote>
+<p>And finally, I published 2 episodes of my microcast Timetable earlier in the week. <a href="http://timetable.manton.org/2016/05/episode-22-grumpy-about-everything/">Episode 22</a> was about dealing with recent stress — trying to see the bigger picture and focus on the good things. <a href="http://timetable.manton.org/2016/05/episode-23-when-a-product-is-over/">Episode 23</a> was about how to tell when it&#8217;s time to move on from a failed product.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>My new podcast about&#8230; basketball!</title>
+		<link>http://www.manton.org/2016/04/my-new-podcast-about-basketball.html</link>
+		<pubDate>Fri, 22 Apr 2016 18:48:16 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[basketball]]></category>
+		<category><![CDATA[nba]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[spurs]]></category>
+		<category><![CDATA[warriors]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3901</guid>
+		<description><![CDATA[It used to be that I would stay up until midnight working in Xcode. This year, it&#8217;s more likely that I&#8217;ll stay up until midnight watching late NBA games played on the west coast. I&#8217;ve loved this season, from Golden State&#8217;s record wins to being able to visit San Antonio a few times to catch [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>It used to be that I would stay up until midnight working in Xcode. This year, it&#8217;s more likely that I&#8217;ll stay up until midnight watching late NBA games played on the west coast. I&#8217;ve loved this season, from Golden State&#8217;s record wins to being able to visit San Antonio a few times to catch Spurs games.</p>
+<p>So why not do a basketball podcast? Today, <a href="https://stratechery.com/">Ben Thompson</a> and I released the first episode of <a href="http://technicalfoul.fm/">TECHnical Foul</a>. From the show notes:</p>
+<blockquote><p>
+  Welcome to the first episode of the TECHnical Foul, in which two wildly unqualified tech geeks geek out about the NBA. In this episode we debate 96 Bulls vs the 16 Warriors, Kobe’s final game, what makes the Spurs great, whether the Spurs can beat the Warriors, and a quick overview of the first round.
+</p></blockquote>
+<p>We had a lot of fun recording this. If you&#8217;re a basketball fan, or just need some variety in your podcast subscriptions, I hope you enjoy it.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>ESPN sidebar microblog</title>
+		<link>http://www.manton.org/2015/12/espn-sidebar-microblog.html</link>
+		<pubDate>Tue, 08 Dec 2015 04:00:56 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[espn]]></category>
+		<category><![CDATA[microblogging]]></category>
+		<category><![CDATA[spurs]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3234</guid>
+		<description><![CDATA[I like what ESPN is doing in the sidebar on their NBA scores page. It&#8217;s a timeline of both tweets and short ESPN posts, integrated together with a clean design that fits the rest of the site. This timeline is a great use of microblogging. The short posts aren&#8217;t limited to tweet-length — they&#8217;re often [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img src="http://www.manton.org/images/2015/espn_sidebar.png" width="219" height="478" border="0" style="border: 0px; padding-left: 20px; padding-bottom: 15px; box-shadow: none;" align="right" /></p>
+<p>I like what ESPN is doing in the sidebar <a href="http://espn.go.com/nba/scoreboard">on their NBA scores page</a>. It&#8217;s a timeline of both tweets and short ESPN posts, integrated together with a clean design that fits the rest of the site.</p>
+<p>This timeline is a great use of microblogging. The short posts aren&#8217;t limited to tweet-length — they&#8217;re often around 200 characters instead — so they can feel complete and informative while still being concise. <a href="http://www.manton.org/2014/09/defining-a-microblog-post.html">I&#8217;ve suggested 280 characters</a> as a guideline for microblogs, and having the extra characters to work with really makes a nice difference.</p>
+<p>I took an example screenshot from ESPN and included it to the right of this post. The first two posts are these special ESPN microblog posts, and the third is a tweet. I don&#8217;t know what CMS-like system is driving this, but you can imagine using WordPress post formats, custom fields, or categories to achieve something similar.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Matt Bonner and the iPhone 6</title>
+		<link>http://www.manton.org/2015/07/matt-bonner-and-the-iphone-6.html</link>
+		<pubDate>Tue, 07 Jul 2015 19:18:21 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[basketball]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[spurs]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2826</guid>
+		<description><![CDATA[I’ve always said the iPhone 6 and 6 Plus are ginormous. In an interview with the Concord Monitor, San Antonio Spurs player Matt Bonner speculates that reaching his fingers across that screen contributed to an elbow injury: “‘Everybody is going to find this hilarious, but here’s my theory on how I got it,’ he said. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I’ve always said the iPhone 6 and 6 Plus are ginormous. <a href="http://www.concordmonitor.com/community/town-by-town/concord/17589745-95/rapping-and-rocking-with-matt-bonner">In an interview with the Concord Monitor</a>, San Antonio Spurs player Matt Bonner speculates that reaching his fingers across that screen contributed to an elbow injury:</p>
+<blockquote><p>
+  “‘Everybody is going to find this hilarious, but here’s my theory on how I got it,’ he said. ‘When the new iPhone came out it was way bigger than the last one, and I think because I got that new phone it was a strain to use it, you have to stretch further to hit the buttons, and I honestly think that’s how I ended up developing it.’”
+</p></blockquote>
+<p>Bring on the iPhone 6C in a 4-inch plastic design. The current phones are dangerously too big.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>John Siracusa’s unbreakable record</title>
+		<link>http://www.manton.org/2015/04/john-siracusas-unbreakable-record.html</link>
+		<pubDate>Fri, 17 Apr 2015 17:22:12 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[mac]]></category>
+		<category><![CDATA[siracusa]]></category>
+		<category><![CDATA[spurs]]></category>
+		<category><![CDATA[writing]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2577</guid>
+		<description><![CDATA[I’ve been watching a lot of NBA games this season. I’ve caught well over half of the Spurs’s 82 games so far alone, on TV and SiriusXM in the car (and a few in person in San Antonio). I’m not sure how far they’ll make it, but you can’t argue with the greatness of this [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I’ve been watching a lot of NBA games this season. I’ve caught well over half of the Spurs’s 82 games so far alone, on TV and SiriusXM in the car (and a few in person in San Antonio). <a href="http://www.manton.org/2015/04/2575.html">I’m not sure</a> how far they’ll make it, but you can’t argue with the greatness of this team over so many years.</p>
+<p>The NBA has some records that just seem unbreakable. Either because the rules or style of play have evolved in the modern era, or because the records were insane at the time, these are feats we may not see again. <a href="http://www.foxsports.com/nba/lists/10-unbreakable-NBA-records">Here are 10 such records</a>, from Wilt Chamberlain’s 100-point game to the Laker’s 33-game winning streak to Bill Russell’s 11 championships. The Spurs’s 16-year streak of 50-win seasons is approaching this category of success as well.</p>
+<p>That’s kind of how I view John Siracusa’s <a href="http://arstechnica.com/apple/2015/04/after-fifteen-years-ars-says-goodbye-to-john-siracusas-os-x-reviews/">series of Mac OS X reviews on Ars Technica</a>. There have been other excellent reviews about Mac OS X over the years, but the depth and consistency of John’s reviews may always stand apart. If you’re starting today and want to top it, you will have to work for the next 15 years just to be competitive at all.</p>
+<p><a href="http://hypercritical.co/2015/04/15/os-x-reviewed">Congratulations John</a> on a great run. Nothing seems to last forever on the internet — web sites fade away, and some obscure technology isn’t well-covered to begin with — so it’s nice to know that these Mac OS X reviews are at a stable site where we’ll be able to reference them for years to come.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.275 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 17:02:59 -->

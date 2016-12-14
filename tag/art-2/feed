@@ -8,19 +8,18 @@
 	>
 
 <channel>
-	<title>Manton Reece &#187; art</title>
+	<title>art &#8211; Manton Reece</title>
 	<atom:link href="http://www.manton.org/tag/art-2/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.manton.org</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Apr 2016 16:32:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2016 22:36:17 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.3.3</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 	<item>
 		<title>Criticizing Apple</title>
 		<link>http://www.manton.org/2015/03/criticizing-apple.html</link>
-		<comments>http://www.manton.org/2015/03/criticizing-apple.html#comments</comments>
 		<pubDate>Fri, 27 Mar 2015 16:19:53 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Business]]></category>
@@ -44,13 +43,10 @@
 </p></blockquote>
 <p>I’ve been working on an essay about the Apple Watch Edition and why I think it’s wrong for Apple. I do worry a little about putting out a controversial, half-baked opinion. And yet, I’ve seen no one else make my argument against the Edition in the meantime. If I want Apple to live up to the very high standard I hold them to, I can’t withhold my opinion on the direction of the company, regardless of whether that opinion will be warmly received.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2015/03/criticizing-apple.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>The legacy of software as art</title>
 		<link>http://www.manton.org/2013/04/the_legacy_of.html</link>
-		<comments>http://www.manton.org/2013/04/the_legacy_of.html#comments</comments>
 		<pubDate>Fri, 12 Apr 2013 13:19:42 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Art]]></category>
@@ -81,13 +77,10 @@
 </p></blockquote>
 <p>Like Andy Brice’s use of the word ephemeral above, Joe’s statement is difficult to measure. There’s no one thing we can point to years later. We just have to create something worthwhile and trust that it’s making someone’s life better, and that maybe that one customer will leave a mark on the world that survives long after our apps no longer run.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/04/the_legacy_of.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>App Store old app maintenance</title>
 		<link>http://www.manton.org/2013/03/app_store_old.html</link>
-		<comments>http://www.manton.org/2013/03/app_store_old.html#comments</comments>
 		<pubDate>Fri, 22 Mar 2013 15:57:27 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Technology]]></category>
@@ -112,13 +105,10 @@
 <p>But if apps are an art form, an important part of our culture, then it shouldn’t require so much work to make sure they don’t disappear forever, so quickly. This happened to me just this week, actually. I forgot to renew my iOS developer program account and my apps were automatically removed from sale for a few hours while I scrambled to pay my $99 again.</p>
 <p>Maybe there’s a compromise solution in here somewhere. Instead of being removed from sale, abandoned apps could switch to an archived state. They would no longer show up in top lists or even search, but could still be found with a direct link. With the right kind of fallback like that, Apple could be even more aggressive about gearing the App Store user experience around new apps and modern devices, without sacrificing what is good about the long tail of old apps.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2013/03/app_store_old.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>STAPLE! in Austin today (year 4)</title>
 		<link>http://www.manton.org/2008/03/staple_in_austin.html</link>
-		<comments>http://www.manton.org/2008/03/staple_in_austin.html#comments</comments>
 		<pubDate>Sat, 01 Mar 2008 15:30:41 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Comics]]></category>
@@ -133,13 +123,10 @@
 		<description><![CDATA[Like independent comics and art? &#8220;STAPLE! is in Austin today&#8221;:http://www.staple-austin.org/ at the Monarch Event Center, off I-35 and 2222. I&#8217;ve been on the STAPLE! planning committee for four years now and have enjoyed watching our little show grow from its humble beginnings, but it&#8217;s still a completely non-profit, volunteer-led endeavor and we need your support [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>Like independent comics and art? &#8220;STAPLE! is in Austin today&#8221;:http://www.staple-austin.org/ at the Monarch Event Center, off I-35 and 2222. I&#8217;ve been on the STAPLE! planning committee for four years now and have enjoyed watching our little show grow from its humble beginnings, but it&#8217;s still a completely non-profit, volunteer-led endeavor and we need your support to make it a success. Come join us anytime between 11am and 7pm (or &#8220;check the schedule&#8221;:http://www.staple-austin.org/guests/ for our featured session times), and then come back downtown later tonight for the after-party and live-art show at Red&#8217;s Scoot Inn (&#8220;flyer&#8221;:http://www.staple-austin.org/promote/staple2008_afterparty.jpg).</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2008/03/staple_in_austin.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Lowbrow Monster Mash</title>
 		<link>http://www.manton.org/2007/10/lowbrow_monster_mash.html</link>
-		<comments>http://www.manton.org/2007/10/lowbrow_monster_mash.html#comments</comments>
 		<pubDate>Sat, 13 Oct 2007 14:08:51 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Animation]]></category>
@@ -154,13 +141,10 @@
 				<content:encoded><![CDATA[<p>Late notice, but I&#8217;ll have a watercolor piece in tonight&#8217;s Monster Mash art show at the Lowbrow Emporium on South Lamar. If you&#8217;re in Austin, drop by between 7 and 11pm and say hi. (Address and other details on &#8220;the poster by Jason Chalker&#8221;:http://austinsketchsquad.blogspot.com/2007/09/they-did-mashit-was-monster-mash.html.) The art is from participants and friends of the Austin Sketch Squad, some of whom will be doing live art at the show. There will also be free beer and candy!</p>
 <p>I snapped a &#8220;photo of my desk with art stuff&#8221;:http://www.flickr.com/photos/manton/1558857105/ while I was preparing for the show. I forgot to scan the final art, which sadly didn&#8217;t come out nearly as nice as my first sketch, but I&#8217;ll get a picture of that tonight. It was fun to work on and a nice break from late-night programming this week.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2007/10/lowbrow_monster_mash.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Weblog 5th Year</title>
 		<link>http://www.manton.org/2007/03/weblog_5th_year.html</link>
-		<comments>http://www.manton.org/2007/03/weblog_5th_year.html#comments</comments>
 		<pubDate>Sat, 10 Mar 2007 05:58:44 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Events]]></category>
@@ -178,13 +162,10 @@
 <p>Here are the previous anniversary posts: &#8220;2006&#8221;:http://www.manton.org/2006/03/mediocrity_is_the.html, &#8220;2005&#8221;:http://www.manton.org/2005/03/year_three.html, &#8220;2004&#8221;:http://www.manton.org/2004/03/two_years.html, &#8220;2003&#8221;:http://www.manton.org/2003/03/at_sxsw.html, and &#8220;2002&#8221;:http://www.manton.org/2002/03/sxsw.html.</p>
 <p>Also checked out the new Apple Store at The Domain today, which is a couple miles from my house. Was 250th in line without really trying, and the weather was nice enough to work under the oak trees outside Starbucks. Took pictures with my camera phone which I don&#8217;t have the energy to post right now. Tonight I headed back downtown for the opening of &#8220;Jason Chalker&#8217;s&#8221;:http://manlyart.blogspot.com/ art show.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2007/03/weblog_5th_year.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>STAPLE! 2006</title>
 		<link>http://www.manton.org/2006/03/staple_2006.html</link>
-		<comments>http://www.manton.org/2006/03/staple_2006.html#comments</comments>
 		<pubDate>Sat, 04 Mar 2006 14:34:18 +0000</pubDate>
 		<dc:creator><![CDATA[manton]]></dc:creator>
 				<category><![CDATA[Comics]]></category>
@@ -196,11 +177,9 @@
 		<description><![CDATA[It&#8217;s not often that I get out of the house early on a Saturday, but STAPLE! The Independent Media Expo is today. If you are anywhere in the central Texas area, check out the web site for the schedule and location info. This week&#8217;s Austin Chronicle also ran a story on the show. Last night&#8217;s [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>It&#8217;s not often that I get out of the house early on a Saturday, but STAPLE! The Independent Media Expo is today. If you are anywhere in the central Texas area, <a href="http://www.staple-austin.org/">check out the web site</a> for the schedule and location info. This week&#8217;s <a href="http://www.austinchronicle.com/issues/dispatch/2006-03-03/books_feature.html">Austin Chronicle also ran a story</a> on the show. Last night&#8217;s pre-party at Austin Books was great, but it&#8217;s still difficult to tell how many people will show up today. It&#8217;s one day only, so if you love comics or just want to support independent artists, please stop by.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.manton.org/2006/03/staple_2006.html/feed</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
 
-<!-- Dynamic page generated in 0.338 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-04-14 14:59:30 -->
+<!-- Dynamic page generated in 0.283 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 16:46:11 -->

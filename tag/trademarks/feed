@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>trademarks &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/trademarks/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:36:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Goodbye Riposte</title>
+		<link>http://www.manton.org/2015/04/goodbye-riposte.html</link>
+		<pubDate>Mon, 13 Apr 2015 15:01:18 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[adn]]></category>
+		<category><![CDATA[riposte]]></category>
+		<category><![CDATA[trademarks]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2568</guid>
+		<description><![CDATA[Jared Sinclair announces that Riposte will no longer be available: “As part of an agreement reached over an alleged trademark infringement, Riposte (the App.net app I made with Jamin Guy) will be removed from sale on the App Store. We’ll also be taking down the riposteapp.net homepage.” Even today, Riposte is arguably the best social [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://blog.jaredsinclair.com/post/116294584510/riposte-the-app-net-app-permanently-removed-from">Jared Sinclair announces</a> that Riposte will no longer be available:</p>
+<blockquote><p>
+  “As part of an agreement reached over an alleged trademark infringement, <a href="http://thesweetsetup.com/apps/best-app-net-client-iphone/">Riposte</a> (the <a href="https://app.net/">App.net</a> app I made with <a href="https://twitter.com/jaminguy">Jamin Guy</a>) will be removed from sale on the App Store. We’ll also be taking down the <a href="http://riposteapp.net/">riposteapp.net</a> homepage.”
+</p></blockquote>
+<p>Even today, Riposte is arguably the best social networking client out there. It pioneered consistent gestures for navigation. It will remain on my home screen for some time to come.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Waiting out trademarks</title>
+		<link>http://www.manton.org/2015/04/waiting-out-trademarks.html</link>
+		<pubDate>Fri, 03 Apr 2015 16:10:52 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[domains]]></category>
+		<category><![CDATA[trademarks]]></category>
+		<category><![CDATA[tweetmarker]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2532</guid>
+		<description><![CDATA[Not long after I launched Tweetmarks in 2011, I realized that there was a trademark for that name, and an existing .com domain. I started worrying about the conflict so much that I couldn’t get any real work done. I talked to friends about it, tried to get other perspectives, and then finally renamed it [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Not long after I launched Tweetmarks in 2011, I realized that there was a trademark for that name, and an existing .com domain. I started worrying about the conflict so much that I couldn’t get any real work done. I talked to friends about it, tried to get other perspectives, and then finally renamed it to <a href="http://tweetmarker.net/">Tweet Marker</a>. Whew, I had made a decision and moved on, free from ever worrying about it again.</p>
+<p>I had to fix the tweetmarks.net redirect recently and checked around on some of the old stuff. That domain name I had been so worried about, which I literally lost sleep over? It&#8217;s gone.</p>
+<p>I’m not going to tell you that trademarks don’t matter. Nothing I write on this blog should ever be considered legal advice. But it’s another reminder that there’s enough real stuff to focus on without wasting time on imaginary problems.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Twitpic archive at Twitter</title>
+		<link>http://www.manton.org/2014/10/twitpic-archive-at-twitter.html</link>
+		<pubDate>Wed, 29 Oct 2014 13:24:19 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[archive]]></category>
+		<category><![CDATA[trademarks]]></category>
+		<category><![CDATA[twitpic]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2361.html</guid>
+		<description><![CDATA[The story of Twitpic shutting down has a better ending now: &#8220;We weren’t able to find a way to keep Twitpic independent. However, I’m happy to announce that we have reached an agreement with Twitter to give them the Twitpic domain and photo archive, thus keeping the photos and links alive for the time being.&#8221; [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The story of Twitpic shutting down has <a href="http://blog.twitpic.com/2014/10/twitpics-future/">a better ending now</a>:</p>
+<blockquote><p>
+  &#8220;We weren’t able to find a way to keep Twitpic independent. However, I’m happy to announce that we have reached an agreement with Twitter to give them the Twitpic domain and photo archive, thus keeping the photos and links alive for the time being.&#8221;
+</p></blockquote>
+<p>This is much better than all those photos becoming broken links, but it&#8217;s still a sad statement on the Twitter ecosystem. Twitter threatened Twitpic, then Twitpic decided to shutdown, and in the end Twitter gets all the Twitpic assets anyway for cheap or no money at all. It&#8217;s a bizarre end to what only a couple years ago was a $3 million business.</p>
+<p>Twitter is a big company with a lot of moving pieces. It shouldn&#8217;t surprise me that one half of Twitter is ready to sic the lawyers on Twitpic while another half wants to do the right thing for Twitpic&#8217;s customer base. Still, a bittersweet closing chapter on one of the first great third-party developers.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.231 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 17:14:21 -->

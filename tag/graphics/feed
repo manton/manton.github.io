@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>graphics &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/graphics/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:36:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Acorn 5</title>
+		<link>http://www.manton.org/2015/08/acorn-5.html</link>
+		<pubDate>Thu, 20 Aug 2015 17:09:06 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[acorn]]></category>
+		<category><![CDATA[flyingmeat]]></category>
+		<category><![CDATA[graphics]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2962</guid>
+		<description><![CDATA[Flying Meat&#8217;s Acorn 5 is out. I&#8217;ve been using the beta for a while and it&#8217;s a great release. Read Gus Mueller&#8217;s blog post for some of the features, including neat tricks you can do with the new Shape Processor. I also love this section about focusing on bug fixes: &#8220;So we fixed pretty much [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Flying Meat&#8217;s Acorn 5 is out. I&#8217;ve been using the beta for a while and it&#8217;s a great release. Read <a href="http://shapeof.com/archives/2015/8/so_awesome_its_nuts.html">Gus Mueller&#8217;s blog post</a> for some of the features, including neat tricks you can do with the new Shape Processor.</p>
+<p>I also love this section about focusing on bug fixes:</p>
+<blockquote><p>
+  &#8220;So we fixed pretty much all of those. It took months and months of work, it was super boring and mind numbing and it was really hard to justify, and it made Acorn 5 super late. But we did it anyway, because something in us felt that software quality has been going downhill in general, and we sure as heck weren&#8217;t going to let that happen to Acorn.&#8221;
+</p></blockquote>
+<p>Congrats to Gus on another big release. You should <a href="http://flyingmeat.com/acorn/">check it out here</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Using Acorn</title>
+		<link>http://www.manton.org/2007/09/using_acorn.html</link>
+		<pubDate>Tue, 25 Sep 2007 18:18:40 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[acorn]]></category>
+		<category><![CDATA[graphics]]></category>
+		<category><![CDATA[photoshop]]></category>
+		<category><![CDATA[pixelmator]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/09/using_acorn.html</guid>
+		<description><![CDATA[I have a copy of CS3. Photoshop, Illustrator, and Flash are all permanently in my Dock. If you do any graphics or animation work, you pretty much need these tools, in the same way that anyone who does any kind of corporate writing needs Word. But truthfully, I haven&#8217;t had Microsoft Office installed for about [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I have a copy of CS3. Photoshop, Illustrator, and Flash are all permanently in my Dock. If you do any graphics or animation work, you pretty much need these tools, in the same way that anyone who does any kind of corporate writing needs Word.</p>
+<p>But truthfully, I haven&#8217;t had Microsoft Office installed for about a year (I use Pages or Leopard&#8217;s QuickLook to read other people&#8217;s Word documents), and I see a similar fate for some of the big Adobe apps. Despite &#8220;what some people have said&#8221;:http://theocacao.com/document.page/271 over the years, there will never be a permanent replacement for Photoshop &#8212; it is too powerful, does too much &#8212; but there could be a healthy market of smaller, focused tools that tackle one piece of the Photoshop puzzle.</p>
+<p>&#8220;Flying Meat&#8217;s Acorn&#8221;:http://www.flyingmeat.com/acorn/ is the first of those tools that actually delivers. For the most part I can use Acorn as if I was using Photoshop. Keyboard shortcuts for switching tools, selection, basic layer manipulation &#8212; it all works.</p>
+<p>I&#8217;ve been testing Acorn by working on some new UI mockups, a task it seems particularly well-suited for. One of the most refreshing things has been using a text tool that renders text just as it would look in a normal NSTextField control. Photoshop has a few anti-aliasing settings, but nothing that exactly matches the normal Mac OS X rendering, which makes mockups that mix and match screenshots from Interface Builder and new text look out of place.</p>
+<p>As a 1.0, this is a very solid app, and most importantly it gets all that non-delicious stuff right. It would be easy when writing a Photoshop competitor to focus on the fun stuff &#8212; Core Image filters or whatnot &#8212; so it&#8217;s nice to see Gus didn&#8217;t gloss over the basics.</p>
+<p>So what&#8217;s missing? After using it for a couple weeks for real work, the only things I am particularly missing are layer groups (totally understand why he left those out for now), Save for Web (which I hear is coming shortly), and Copy Merged (did I miss it?). And the big one: Open/Save for Photoshop files. It doesn&#8217;t need anything fancy in the .psd files, just the same features of a .acorn file to allow a designer to move between the apps if necessary.</p>
+<p>Right as I&#8217;m about to post this, &#8220;Pixelmator finally ships&#8221;:http://www.tuaw.com/2007/09/25/pixelmator-hits-1-0/. I&#8217;ve only spent a few minutes with it, but it also looks pretty competent. Time will tell whether it holds up for real work as well as Acorn has for me.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.234 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 17:13:17 -->

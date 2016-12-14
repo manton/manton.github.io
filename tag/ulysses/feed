@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ulysses &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/ulysses/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:36:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Ulysses iOS missing Dropbox support</title>
+		<link>http://www.manton.org/2016/03/ulysses-ios-missing-dropbox-support.html</link>
+		<pubDate>Fri, 11 Mar 2016 17:13:46 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[dropbox]]></category>
+		<category><![CDATA[icloud]]></category>
+		<category><![CDATA[sync]]></category>
+		<category><![CDATA[ulysses]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3698</guid>
+		<description><![CDATA[After I blogged about Ulysses for Mac, a couple people told me that an iPad version was coming soon and that it was great. That new version shipped this week. I put down $20 immediately even before reading the positive MacStories review by David Chartier. Unfortunately I can&#8217;t use it much because it has no [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>After I <a href="http://www.manton.org/2016/01/finally-trying-ulysses.html">blogged about Ulysses for Mac</a>, a couple people told me that an iPad version was coming soon and that it was great. That new version shipped this week. I put down $20 <a href="http://benb.me/snippets/737">immediately</a> even before reading <a href="https://www.macstories.net/reviews/review-ulysses-2-5-for-ipad-and-now-iphone/">the positive MacStories review by David Chartier</a>.</p>
+<p>Unfortunately I can&#8217;t use it much because it has no native Dropbox support. For a market that has literally <a href="http://brettterpstra.com/ios-text-editors/">many dozens of Dropbox text editors</a>, I didn&#8217;t consider that Ulysses would ship without something so integral to my writing workflow.</p>
+<p>(The Mac version doesn’t have this problem because of the concept of “External Folders”. I simply add my Dropbox notes folder to Ulysses on my Mac and everything syncs.)</p>
+<p>Last month I wrote a post called <a href="http://www.manton.org/2016/02/icloud-is-too-opaque.html">iCloud is too opaque</a>, in which I made an argument against having important text files and photos synced to a backend that allows no visibility when things go wrong, and no compatibility with other apps. Ulysses for iOS falls into this trap. Its use of iCloud is private to the app, unlike iCloud Drive or Dropbox which are accessible from other apps.</p>
+<p>I know I’m not the only one who feels this way. <a href="http://ulyssesapp.com/faq/#ios-sync_external_files">The FAQ</a> for Ulysses spends considerable space trying to explain away their lack of Dropbox support, even attempting to pin the issue on Dropbox instead of Ulysses itself.</p>
+<p>The Soulmen, makers of Ulysses, are talented designers and developers, and I’m typing this in Ulysses for Mac because their app has a great mix of features and attention to detail. I respect that they’ve grown the company to 11 people already. But closed syncing solutions aren’t a good choice for exclusivity. Having cross-platform syncing across competing Twitter apps is why I created Tweet Marker, so you can be sure I want the same for my text documents.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Finally trying Ulysses</title>
+		<link>http://www.manton.org/2016/01/finally-trying-ulysses.html</link>
+		<pubDate>Thu, 21 Jan 2016 15:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[drafts]]></category>
+		<category><![CDATA[dropbox]]></category>
+		<category><![CDATA[ulysses]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3404</guid>
+		<description><![CDATA[I’m finally trying Ulysses. After posting about how I write blog drafts, a reader pointed out that Justnotes for Mac isn’t actively maintained anymore. I think Ulysses will make a nice replacement, both for my Dropbox folder of 1000+ notes, and also for longer, more structured writing I want to do. Ryan Irelan uses that [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I’m finally trying <a href="http://ulyssesapp.com/">Ulysses</a>. After posting about <a href="http://www.manton.org/2016/01/wordpress-drafts-workflow.html">how I write blog drafts</a>, a reader pointed out that Justnotes for Mac isn’t actively maintained anymore. I think Ulysses will make a nice replacement, both for my Dropbox folder of 1000+ notes, and also for longer, more structured writing I want to do.</p>
+<p><a href="http://ryanirelan.com/2016/01/12/using-ulysses-for-writing.html">Ryan Irelan uses that structure</a> to organize courses for Mijingo:</p>
+<blockquote><p>
+  “Each course is also a Collection inside of the courses collection, in which I have separate sheets for each section of the course (or even broken down into multiple sheets per section depending on the length)”
+</p></blockquote>
+<p>Ben Brooks is also trying to consolidate from the iOS 9 Notes app and others to <a href="https://brooksreview.net/2016/01/ulysses-all-the-things/">just using Ulysses</a>:</p>
+<blockquote><p>
+  “This was my pain point, I often just simply forgot where I jotted something down. I don’t typically make <em>tasks</em> out of articles I am writing, so I remember what is what by looking in Ulysses, and if it isn’t in Ulysses I won’t go searching for it. Notes was the most convenient place to write, but also a bit of a black hole for writing.”
+</p></blockquote>
+<p>I can already tell that Ulysses is a great app. Looking forward to <a href="http://ulyssesapp.com/blog/2015/12/ulysses-iphone-beta/">the upcoming universal version</a> with support for the iPad Pro, too.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.235 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 17:27:19 -->

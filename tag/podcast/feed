@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>podcast &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/podcast/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:36:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Thanks to our Core Int listeners</title>
+		<link>http://www.manton.org/2016/11/thanks-to-our-core-int-listeners.html</link>
+		<pubDate>Thu, 24 Nov 2016 18:09:26 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[applescript]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[mac]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[thanksgiving]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4491</guid>
+		<description><![CDATA[Yesterday we published episode 260 of Core Intuition. From the show notes: Daniel and Manton discuss Sal Soghoian’s sudden departure from Apple, and what it may mean for Apple’s future ambitions with automation. Then they react to Apple’s alleged decision to abandon their line of AirPort branded routers, and bemoan the loss of yet another [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Yesterday we published <a href="http://www.coreint.org/2016/11/episode-260-invitation-to-failure/">episode 260</a> of Core Intuition. From the show notes:</p>
+<blockquote><p>
+  Daniel and Manton discuss Sal Soghoian’s sudden departure from Apple, and what it may mean for Apple’s future ambitions with automation. Then they react to Apple’s alleged decision to abandon their line of AirPort branded routers, and bemoan the loss of yet another “just buy the Apple one” peripheral option
+</p></blockquote>
+<p>I liked the topics for our show this week because it allowed us to not just talk about AppleScript as it exists today, but also to reflect on what life developing scriptable apps was like in the early days of AppleScript. It&#8217;s always fun to think back on 1990s Mac development.</p>
+<p>Many of our listeners are celebrating Thanksgiving today. To all of our listeners, whether you&#8217;ve listened since the beginning in 2008 or just recently discovered the podcast, thank you so much for giving our show a chance and for being part of the community. Daniel and I still feel incredibly lucky that we get to chat every week about Apple news and our work as indie developers.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Proud to have voted for Hillary</title>
+		<link>http://www.manton.org/2016/11/proud-to-have-voted-for-hillary.html</link>
+		<pubDate>Sun, 13 Nov 2016 14:04:29 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Politics]]></category>
+		<category><![CDATA[election]]></category>
+		<category><![CDATA[hillary]]></category>
+		<category><![CDATA[kids]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[politics]]></category>
+		<category><![CDATA[trump]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4447</guid>
+		<description><![CDATA[I couldn&#8217;t sleep. I woke up early the day after the election, thinking about my daughters, and cried. I had been so excited to celebrate our new president with them. I had been so excited to watch the returns with my kids, to share a moment of pride and optimism. This wasn&#8217;t a normal election. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I couldn&#8217;t sleep. I woke up early the day after the election, thinking about my daughters, and cried. I had been so excited to celebrate our new president with them. I had been so excited to watch the returns with my kids, to share a moment of pride and optimism.</p>
+<p>This wasn&#8217;t a normal election. This wasn&#8217;t just a debate over policy. It was much deeper. The world is already worse and darker <a href="https://twitter.com/i/moments/796417517157830656">for many people</a> because of what happened.</p>
+<p>There will be arguments over why the election went so wrong, but it&#8217;s more complicated than just one thing. There was the overplayed story about private emails. There was the FBI letter. There was the media treating Trump like a reality TV star instead of a threat.</p>
+<p>Hillary did her job. She destroyed Trump in all 3 debates. She ran a solid campaign. But she has always been held to a different standard than everyone else. I&#8217;ll never get over that.</p>
+<p>I&#8217;m proud to have voted for Hillary in the primary and in the general election, and I&#8217;d do both again. This election was very close. It was winnable. If we had ignored the polls and fought for every state, it was winnable.</p>
+<p>Friday night, I went with a friend to see <a href="http://www.trevornoah.com/shows/">Trevor Noah&#8217;s standup show</a>. It was great to laugh for a couple hours, about the election and everyday life. But then the night fades and we&#8217;re still in a nightmare.</p>
+<p>After Hillary has had some time to rest, and reflect, and <a href="http://nymag.com/selectall/2016/11/mother-and-daughter-run-into-hillary-clinton-hiking-facebook.html">be her own person</a> again, I hope she can find another cause worth fighting for. Let&#8217;s not forget that she did make history as the first woman to be nominated by a major party. She paved the way and reminded us how hard this is. That matters.</p>
+<p>Daniel and I recorded <a href="http://www.coreint.org/2016/11/episode-258-not-just-a-normal-day/">an episode of Core Intuition</a> the day after the election. We tried to capture that feeling of loss, and anger, but also of hope that we can have a renewed passion for our apps and ideas. Maybe some of our products have a place in the work to do before 2018.</p>
+<p>Hillary said <a href="https://medium.com/@HillaryClinton/thank-you-d2decf198a69">in her speech</a>, the day after the election:</p>
+<blockquote><p>
+  Donald Trump is going to be our president. We owe him an open mind and the chance to lead.
+</p></blockquote>
+<p>On this, I disagree with Hillary. Trump has already shown us who he is — someone who mistreats women, lashes out at his critics, and disrespects immigrants — and nothing he does in office will change that. The only thing we owe him is a short presidency.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Core Intuition 254 and Kapeli wrap-up</title>
+		<link>http://www.manton.org/2016/10/core-intuition-254-and-kapeli-wrap-up.html</link>
+		<pubDate>Sun, 16 Oct 2016 22:43:45 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[kapeli]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[rejections]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4370</guid>
+		<description><![CDATA[On Friday, Daniel and I recorded and published episode 254 of Core Intuition: Daniel and Manton dive into Apple’s controversial suspension of Dash developer Kapeli’s App Store account, and respond to listener Q&#38;A about whether non-sandboxed apps are at risk of removal from the Mac App Store. Covering sensitive subjects like Kapeli&#8217;a suspension is difficult [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>On Friday, Daniel and I recorded and published <a href="http://www.coreint.org/2016/10/episode-254-it-blew-up-in-this-case/">episode 254 of Core Intuition</a>:</p>
+<blockquote><p>
+  Daniel and Manton dive into Apple’s controversial suspension of Dash developer Kapeli’s App Store account, and respond to listener Q&amp;A about whether non-sandboxed apps are at risk of removal from the Mac App Store.
+</p></blockquote>
+<p>Covering sensitive subjects like Kapeli&#8217;a suspension is difficult in a podcast format where you can&#8217;t perfectly prepare your thoughts. Did I go too far defending Bogdan Popescu? Did I not go far enough?</p>
+<p>Maybe we&#8217;ll know with some distance from this topic whether we reacted fairly. But I don&#8217;t think I overstated how important a moment this was for the App Store — both <a href="http://www.manton.org/2016/10/kapelis-reputation.html">Apple&#8217;s influence</a> over the narrative and <a href="http://www.manton.org/2016/10/kapelis-suspension-is-a-test-for-apple.html">as a test</a> for their power in the store. Unfortunately the story still has a very unsatisfying ending.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>With her</title>
+		<link>http://www.manton.org/2016/08/with-her.html</link>
+		<pubDate>Fri, 12 Aug 2016 20:23:19 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Politics]]></category>
+		<category><![CDATA[hillary]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[podcasts]]></category>
+		<category><![CDATA[trump]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4176</guid>
+		<description><![CDATA[I&#8217;m a Hillary Clinton supporter. I was in 2008, I was earlier this year, and absolutely I am now, as Donald Trump seems intent with each daily blunder to prove he&#8217;s the worst candidate the Republicans have fielded in quite some time. Having said that, even leaving the politics aside, I think the new podcast [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;m a Hillary Clinton supporter. I was in 2008, I was earlier this year, and absolutely <a href="http://www.manton.org/2016/07/this-is-hillarys-week.html">I am now</a>, as Donald Trump seems intent with each daily blunder to prove he&#8217;s the worst candidate the Republicans have fielded in quite some time.</p>
+<p>Having said that, even leaving the politics aside, I think the new podcast &#8220;With her&#8221; from the Hillary campaign is fantastic. It&#8217;s exactly what a podcast should be: well-produced, yet informal, with just enough of a look behind the scenes to feel personal. You can <a href="https://overcast.fm/itunes1143509380/with-her">subscribe in Overcast</a> or <a href="https://itunes.apple.com/us/podcast/with-her/id1143509380">iTunes</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>My new podcast about&#8230; basketball!</title>
+		<link>http://www.manton.org/2016/04/my-new-podcast-about-basketball.html</link>
+		<pubDate>Fri, 22 Apr 2016 18:48:16 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[basketball]]></category>
+		<category><![CDATA[nba]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[spurs]]></category>
+		<category><![CDATA[warriors]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3901</guid>
+		<description><![CDATA[It used to be that I would stay up until midnight working in Xcode. This year, it&#8217;s more likely that I&#8217;ll stay up until midnight watching late NBA games played on the west coast. I&#8217;ve loved this season, from Golden State&#8217;s record wins to being able to visit San Antonio a few times to catch [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>It used to be that I would stay up until midnight working in Xcode. This year, it&#8217;s more likely that I&#8217;ll stay up until midnight watching late NBA games played on the west coast. I&#8217;ve loved this season, from Golden State&#8217;s record wins to being able to visit San Antonio a few times to catch Spurs games.</p>
+<p>So why not do a basketball podcast? Today, <a href="https://stratechery.com/">Ben Thompson</a> and I released the first episode of <a href="http://technicalfoul.fm/">TECHnical Foul</a>. From the show notes:</p>
+<blockquote><p>
+  Welcome to the first episode of the TECHnical Foul, in which two wildly unqualified tech geeks geek out about the NBA. In this episode we debate 96 Bulls vs the 16 Warriors, Kobe’s final game, what makes the Spurs great, whether the Spurs can beat the Warriors, and a quick overview of the first round.
+</p></blockquote>
+<p>We had a lot of fun recording this. If you&#8217;re a basketball fan, or just need some variety in your podcast subscriptions, I hope you enjoy it.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Apple I history on Connected</title>
+		<link>http://www.manton.org/2016/04/apple-i-history-on-connected.html</link>
+		<pubDate>Tue, 19 Apr 2016 15:14:07 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[applei]]></category>
+		<category><![CDATA[history]]></category>
+		<category><![CDATA[museum]]></category>
+		<category><![CDATA[podcast]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3895</guid>
+		<description><![CDATA[There was a nice bonus at the end of Connected episode 86: an interview with Henry Ford Museum curator Kristen Gallerneaux by Stephen Hackett. On the small number of Apple Is in existence, Kristen said: There are apparently 200 or so sold, and the locations today of about 46 of those 200 are known. What’s [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>There was a nice bonus at the end of <a href="https://www.relay.fm/connected/86">Connected episode 86</a>: an interview with Henry Ford Museum curator Kristen Gallerneaux by Stephen Hackett. On the small number of Apple Is in existence, Kristen said:</p>
+<blockquote><p>
+  There are apparently 200 or so sold, and the locations today of about 46 of those 200 are known. What’s really special about ours is that is that’s one of the of the first 50 Apple Is that were ever sold, and out of that batch of the first 50, about nine of that batch are known to work. And ours works; it’s completely unmodified.
+</p></blockquote>
+<p>The transcript is <a href="http://512pixels.net/2016/04/gallerneaux-apple-i-interview/">also available</a>. If you’re an Overcast user, you can jump to the interview segment <a href="https://overcast.fm/+DJKMiSY7A/1:12:01">at about 70 minutes in</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Siri and Core Intuition 228</title>
+		<link>http://www.manton.org/2016/04/siri-and-core-intuition-228.html</link>
+		<pubDate>Fri, 15 Apr 2016 18:48:28 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[echo]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[siri]]></category>
+		<category><![CDATA[tech]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2016/04/siri-and-core-intuition-228.html</guid>
+		<description><![CDATA[We posted episode 228 of Core Intuition this week. From the show notes: Daniel and Manton discuss the iPhone SE’s evident popularity, touch on the challenges of designing for extremes in screen size, and bemoan some of Siri’s shortcomings when compared to competitors. The two also discuss tax time as an indie software developer, weigh [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We posted <a href="http://www.coreint.org/2016/04/episode-228-ticket-to-california/">episode 228 of Core Intuition</a> this week. From the show notes:</p>
+<blockquote><p>
+  Daniel and Manton discuss the iPhone SE’s evident popularity, touch on the challenges of designing for extremes in screen size, and bemoan some of Siri’s shortcomings when compared to competitors. The two also discuss tax time as an indie software developer, weigh the merits of heading to SF for WWDC, and finally delve into some deep reflections about the psychology of not shipping in too long.
+</p></blockquote>
+<p>We talked a lot about Siri and the Amazon Echo — the problems with both and where voice software may be headed. After we recorded, <a href="http://bitsplitting.org/2016/04/14/distance-based-reminders/">Daniel wrote a great post</a> with additional ideas for using Siri with distance-based reminders, for example the ability to ask Siri while driving &#8220;remind me in 15 miles to get gas&#8221;:</p>
+<blockquote><p>
+  How would this be solved? By introducing a notion of distance-relative reminders in iOS and by extension in Siri. In the same way that Siri allows you set a reminder for a <em>specific time</em> or for a <em>relative time from now</em>, it should offer the same functionality for distance.
+</p></blockquote>
+<p>I hope you enjoy the podcast. I&#8217;ve been thinking lately that maybe the secret with Core Intuition is that it’s not actually a developer podcast. It’s a tech podcast with <em>major</em> tangents into software development and business.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Timetable episodes 19 and 20</title>
+		<link>http://www.manton.org/2016/04/timetable-episodes-19-and-20.html</link>
+		<pubDate>Wed, 06 Apr 2016 20:29:53 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[kickstarter]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[snippets]]></category>
+		<category><![CDATA[timetable]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3835</guid>
+		<description><![CDATA[I published 2 new Timetable episodes this week, with a shared theme around Kickstarter projects. They&#8217;re both just 5-6 minutes long. Episode 19 is about how I finally sat down to record a video for my upcoming Kickstarter project. I still have editing to do, but I&#8217;m already feeling a lot better about actually launching [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I published 2 new <a href="http://timetable.fm/">Timetable</a> episodes this week, with a shared theme around Kickstarter projects. They&#8217;re both just 5-6 minutes long.</p>
+<p><a href="http://timetable.manton.org/2016/04/episode-19-kickstarter-recording/">Episode 19</a> is about how I finally sat down to record a video for my upcoming Kickstarter project. I still have editing to do, but I&#8217;m already feeling a lot better about actually launching this.</p>
+<p><a href="http://timetable.manton.org/2016/04/episode-20-kickstarter-rewards/">Episode 20</a> continues the discussion of Kickstarter, starting with my reaction after receiving the art book from <a href="http://blog.loish.net/">Loish</a> yesterday. I was really impressed with how well it was produced. Anytime I see something of such high quality I&#8217;m inspired to do a better job with my own work.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Tickets for Release Notes 2016</title>
+		<link>http://www.manton.org/2016/04/tickets-for-release-notes-2016.html</link>
+		<pubDate>Mon, 04 Apr 2016 16:14:25 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[conference]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[releasenotes]]></category>
+		<category><![CDATA[trains]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2016/04/tickets-for-release-notes-2016.html</guid>
+		<description><![CDATA[I&#8217;m registered for the Release Notes conference, coming up later this year in Indianapolis. This will be the only conference I attend this year outside of another ticketless WWDC week. If you didn&#8217;t go last year and want to know more about it, check out the web site or listen to episode 151 of their [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;m registered for the <a href="https://releasenotes.tv/conference/">Release Notes conference</a>, coming up later this year in Indianapolis. This will be the only conference I attend this year outside of another ticketless WWDC week. If you didn&#8217;t go last year and want to know more about it, check out the web site or <a href="https://releasenotes.tv/151-our-2-0-1/">listen to episode 151 of their podcast</a>.</p>
+<p>One of my favorite blog posts on this site from last year was <a href="http://www.manton.org/2015/10/release-notes-2015.html">my review of the conference</a>, because I think it both described the conference itself and also captured that inspired feeling you get when you&#8217;re heading off to the airport and your head is buzzing with ideas. And because it&#8217;s a blog, where I allow myself to be informal, it also has the meandering narrative of the everyday — a stop for coffee, a conversation with an Uber driver. My memory of the conference wouldn&#8217;t be complete without those things.</p>
+<p>I&#8217;m looking forward to visiting Indianapolis again. I may also look at flying into Chicago and taking the train down, then flying out. Sounds like some people did that last year, and I think it would make a great start considering the venue at Union Station. We&#8217;ll see if the schedule works out.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Core Intuition 225</title>
+		<link>http://www.manton.org/2016/03/core-intuition-225.html</link>
+		<pubDate>Thu, 24 Mar 2016 21:44:00 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[iphone5se]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[swift]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3774</guid>
+		<description><![CDATA[Episode 225 of Core Intuition is out now. We talk about the new iPhone and iPad news from Monday’s Apple event, plus Swift. From the show notes: Manton orders his dream phone, the iPhone SE. Daniel reflects on the growing allure of Swift, and the two discuss the risks of either adopting new technologies too [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.coreint.org/2016/03/episode-225-keep-your-eyes-open/">Episode 225 of Core Intuition</a> is out now. We talk about the new iPhone and iPad news from Monday’s Apple event, plus Swift. From the show notes:</p>
+<blockquote><p>
+  Manton orders his dream phone, the iPhone SE. Daniel reflects on the growing allure of Swift, and the two discuss the risks of either adopting new technologies too soon, or holding on to the past for too long.
+</p></blockquote>
+<p>Also there&#8217;s this line from Daniel in the podcast that I like:</p>
+<blockquote><p>
+  We have to be tuned into the future <em>and</em> tuned into the past to really do great work.
+</p></blockquote>
+<p>We pull in some history from Daniel&#8217;s time at Apple, and from our experience building Mac apps in the 1990s and early 2000s, and how it relates to the current Swift transition. Hope you enjoy it.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.284 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 16:58:10 -->

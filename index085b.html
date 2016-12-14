@@ -9,7 +9,7 @@
 <html lang="en-US">
 <!--<![endif]-->
 
-<!-- Mirrored from www.manton.org/?p=1758 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 13 Dec 2016 22:17:35 GMT -->
+<!-- Mirrored from www.manton.org/?p=1758 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 13 Dec 2016 23:14:48 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
 <meta charset="UTF-8" />
@@ -100,7 +100,7 @@ img.emoji {
 <p>I entered the project and ended up re-architecting the application to have a more Mac-like appearance. Instead of using the Win32 library, I wrote a lightweight MFC implementation entirely in Cocoa. MFC is Microsoft&#8217;s C++ framework, still widely used even with .NET and C# pushed for new applications. This approach allowed the application to be driven almost purely from Win32 and MFC, but it uses NIBs for all windows and controls because the compatibility framework sits at a much higher level. In several places the Windows code peeks through, but it provides enough flexibility that more and more of the application could be upgraded to a modern Mac look and feel while still sharing a common Windows codebase.</p>
 <p>The idea is that by working at the MFC level instead of Win32, you can get by with implementing only a very small subset of the full Microsoft frameworks. If the app only uses a few basic control types, for example, you only need to wrap those onto their Cocoa counterparts and can ignore everything else. (Otherwise you end up rewriting <em>all</em> of Win32 just to load and run the unmodified MFC sources.) Even with that simplification, though, the truth is that I seriously underestimated how much work this would be.</p>
 <p>The stack for this ends up looking something like this:</p>
-<p><center><img src="images/2006/flipbook_diagram.html" width="543" height="263" border="0" alt="FlipBook diagram" /></center></p>
+<p><center><img src="images/2006/flipbook_diagram.gif" width="543" height="263" border="0" alt="FlipBook diagram" /></center></p>
 <p>It has been an interesting project, both for the technical challenges and because animation is near to my heart. I plan to use the software in my own personal film projects. Here&#8217;s a <a href="http://www.flickr.com/photos/manton/203490170/">screenshot of the latest version</a>.</p>
 					</div><!-- .entry-content -->
 		
@@ -354,7 +354,7 @@ img.emoji {
 	</footer><!-- #colophon -->
 </div><!-- #page -->
 
-<script type='text/javascript' src='wp-content/themes/twentytwelve/js/navigationa462.html?ver=20140318'></script>
+<script type='text/javascript' src='wp-content/themes/twentytwelve/js/navigationa462.js?ver=20140318'></script>
 <script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201650'></script>
 <script type='text/javascript' src='wp-includes/js/wp-embed.min1c9b.js?ver=4.6.1'></script>
 <script type='text/javascript' src='http://stats.wp.com/e-201650.js' async defer></script>
@@ -366,5 +366,5 @@ img.emoji {
 
 </body>
 
-<!-- Mirrored from www.manton.org/?p=1758 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 13 Dec 2016 22:17:35 GMT -->
+<!-- Mirrored from www.manton.org/?p=1758 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 13 Dec 2016 23:14:48 GMT -->
 </html>

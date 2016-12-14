@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>appstore &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/appstore/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:36:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Core Intuition 254 and Kapeli wrap-up</title>
+		<link>http://www.manton.org/2016/10/core-intuition-254-and-kapeli-wrap-up.html</link>
+		<pubDate>Sun, 16 Oct 2016 22:43:45 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[kapeli]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[rejections]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4370</guid>
+		<description><![CDATA[On Friday, Daniel and I recorded and published episode 254 of Core Intuition: Daniel and Manton dive into Apple’s controversial suspension of Dash developer Kapeli’s App Store account, and respond to listener Q&#38;A about whether non-sandboxed apps are at risk of removal from the Mac App Store. Covering sensitive subjects like Kapeli&#8217;a suspension is difficult [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>On Friday, Daniel and I recorded and published <a href="http://www.coreint.org/2016/10/episode-254-it-blew-up-in-this-case/">episode 254 of Core Intuition</a>:</p>
+<blockquote><p>
+  Daniel and Manton dive into Apple’s controversial suspension of Dash developer Kapeli’s App Store account, and respond to listener Q&amp;A about whether non-sandboxed apps are at risk of removal from the Mac App Store.
+</p></blockquote>
+<p>Covering sensitive subjects like Kapeli&#8217;a suspension is difficult in a podcast format where you can&#8217;t perfectly prepare your thoughts. Did I go too far defending Bogdan Popescu? Did I not go far enough?</p>
+<p>Maybe we&#8217;ll know with some distance from this topic whether we reacted fairly. But I don&#8217;t think I overstated how important a moment this was for the App Store — both <a href="http://www.manton.org/2016/10/kapelis-reputation.html">Apple&#8217;s influence</a> over the narrative and <a href="http://www.manton.org/2016/10/kapelis-suspension-is-a-test-for-apple.html">as a test</a> for their power in the store. Unfortunately the story still has a very unsatisfying ending.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Kapeli&#8217;s suspension is a test for Apple</title>
+		<link>http://www.manton.org/2016/10/kapelis-suspension-is-a-test-for-apple.html</link>
+		<pubDate>Wed, 12 Oct 2016 18:56:52 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[community]]></category>
+		<category><![CDATA[kapeli]]></category>
+		<category><![CDATA[rejections]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4357</guid>
+		<description><![CDATA[Since my post yesterday about what I viewed as the unwarranted smearing of Kapeli&#8217;s reputation, I&#8217;ve received a lot of good feedback. I&#8217;ve also seen many comments from developers who had an incomplete view of the facts. This isn&#8217;t surprising, since Apple&#8217;s own statement to the press seems to have left out details, either for [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Since <a href="http://www.manton.org/2016/10/kapelis-reputation.html">my post yesterday</a> about what I viewed as the unwarranted smearing of Kapeli&#8217;s reputation, I&#8217;ve received a lot of good feedback. I&#8217;ve also seen many comments from developers who had an incomplete view of the facts. This isn&#8217;t surprising, since Apple&#8217;s own statement to the press seems to have left out details, either for privacy reasons or to make a stronger case.</p>
+<p>I&#8217;m not an investigative journalist. I know a lot about what happened, but not everything. I&#8217;m not going to try to &#8220;get to the bottom&#8221; of the truth. Kapeli developer Bogdan Popescu emailed me yesterday after my post had been published, and as tempting as it might have been to ask him more questions, ultimately this is between him and Apple. I&#8217;m a blogger and podcaster, so I&#8217;d rather stick to the larger themes.</p>
+<p>How do we move forward as a community? Two points:</p>
+<ol>
+<li>We must err on the side of defending indie developers, even when it looks bad. Apple&#8217;s a big corporation and <a href="http://www.manton.org/2016/10/apple-apologists.html">they don&#8217;t need our help</a>.</li>
+<li>We should hold Apple accountable when they overreach, even when they have the best intentions. I agree with <a href="http://www.imore.com/solving-dash">Rene Ritchie&#8217;s post</a> that despite such a bad situation, it&#8217;s still within Apple&#8217;s power to fix this.</li>
+</ol>
+<p>Matt Drance had <a href="https://twitter.com/drance/status/785634596150849536">a series of tweets</a> that get to the heart of how we react as a community. If it turns out that Bogdan did submit fraudulent reviews, then okay. But if Apple eventually reinstates his developer account, I want to be able to say I stood up for his side of the story, even if I risked being wrong.</p>
+<p>It&#8217;s easy to defend someone who is obviously innocent. It&#8217;s harder when they make mistakes, but in areas unrelated to the crime. In that way, this App Store &#8220;rejection&#8221; is unique. It may be the most important test we&#8217;ve seen of Apple&#8217;s power in the store.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Kapeli&#8217;s reputation</title>
+		<link>http://www.manton.org/2016/10/kapelis-reputation.html</link>
+		<pubDate>Tue, 11 Oct 2016 16:46:46 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[dash]]></category>
+		<category><![CDATA[kapeli]]></category>
+		<category><![CDATA[rejections]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4355</guid>
+		<description><![CDATA[I&#8217;ve been using Dash more and more over the last month, but I realized with all this controversy that I had never actually bothered to pay for the app. Whoops! The trial reminds you every once in a while, but otherwise it&#8217;s pretty usable without paying, and I&#8217;m lazy. Kapeli&#8217;s iOS revenue has vanished, but [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;ve been using <a href="https://kapeli.com/dash">Dash</a> more and more over the last month, but I realized with <a href="http://daringfireball.net/2016/10/apple_dash_controversy">all this controversy</a> that I had never actually bothered to pay for the app. Whoops! The trial reminds you every once in a while, but otherwise it&#8217;s pretty usable without paying, and I&#8217;m lazy.</p>
+<p>Kapeli&#8217;s iOS revenue has vanished, but the developer still has his direct Mac sales. So I set out to finally buy a copy of the Mac version.</p>
+<p>And then during checkout, sending him my name and contact info, I hesitated. Do I trust this developer? Is he trying to do the right thing for customers, as every indication from his public blog posts and tweets about Dash show, or is he a scammer, conducting fraudulent activity in the App Store as Apple accuses?</p>
+<p>That&#8217;s the damage Apple has done in going to the press and smearing him. They&#8217;ve destroyed the goodwill he had in the community from his well-respected app. I always want to give people the benefit of the doubt, yet I hesitated.</p>
+<p>At the Çingleton conference in 2013, Christina Warren talked about building a reputation for herself. One of the slides <a href="http://www.manton.org/2013/12/your_name.html">will stick with me for a long time</a>: &#8220;All I have is my name,&#8221; she said, so she couldn&#8217;t risk attaching her name to something she didn&#8217;t believe in.</p>
+<p>Kapeli developer Bogdan Popescu has made some mistakes. There&#8217;s a lot of smoke, but I still believe there&#8217;s no fire, no actual fraudulent activity orchestrated by Bogdan himself. That hasn&#8217;t stopped Apple from burning his reputation to the ground.</p>
+<p>As long as Apple has <a href="http://www.manton.org/2016/10/apples-control-over-app-hosting.html">so much control over app distribution</a>, so much power over an iOS developer&#8217;s business and reputation, then Apple&#8217;s treatment of and communication with developers has to be perfect. <a href="http://mjtsai.com/blog/2016/10/10/apple-and-kapeli-respond/">Michael Tsai covers</a> some of the ways Apple mishandled this. The fallout in the developer community has been more severe than is warranted from the incomplete and misleading facts in Apple&#8217;s statement.</p>
+<p>I finished checking out and paid for Dash. It&#8217;s a great app.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Apple&#8217;s control over app hosting</title>
+		<link>http://www.manton.org/2016/10/apples-control-over-app-hosting.html</link>
+		<pubDate>Thu, 06 Oct 2016 20:44:22 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[curation]]></category>
+		<category><![CDATA[dash]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[rejections]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4333</guid>
+		<description><![CDATA[High-profile app rejections aren&#8217;t as common as they once were, so it&#8217;s even more shocking when an entire developer account is banned from the App Store. Dash from Kapeli ran into this after trying to migrate an account: Today I called them and they confirmed my account migration went through and that everything is okay [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>High-profile app rejections aren&#8217;t as common as they once were, so it&#8217;s even more shocking when an entire developer account is banned from the App Store. <a href="https://blog.kapeli.com/apple-removed-dash-from-the-app-store">Dash from Kapeli ran into this</a> after trying to migrate an account:</p>
+<blockquote><p>
+  Today I called them and they confirmed my account migration went through and that everything is okay as far as they can tell. A few hours ago I received a “Notice of Termination” email, saying that my account was terminated due to fraudulent conduct.
+</p></blockquote>
+<p><a href="http://inessential.com/2016/10/06/apples_judicial_system">Brent Simmons writes</a> about the lack of transparency and minimal appeal process:</p>
+<blockquote><p>
+  While this is legal, and within Apple’s rights, it’s not what we’ve come to expect from a moral judicial system. No matter what the context, we expect that the accused see the evidence against them, we expect avenues for appeal to be made available, and we expect proportional penalties.
+</p></blockquote>
+<p>I hope this misunderstanding with Dash will be cleared up soon. But issues like this will never completely go away until Apple separates app distribution from curation. As long as there is a centralized, tightly-controlled system for installing iOS apps, mistakes will happen.</p>
+<p>Imagine instead if the App Store worked more like the web. Google dominates search, but they can&#8217;t shut down your web site. If you try to game the system, Google can remove you from search and limit your exposure. Likewise, developers should be able to distribute iOS apps with minimal involvement from Apple, yet apps that haven&#8217;t passed formal review won&#8217;t be searchable without a direct link, won&#8217;t ever be featured, and won&#8217;t show up in the top 100 lists.</p>
+<p>A more open system for app distribution would cleanly solve several problems with the App Store. Apple would be more free to remove clutter from search results without necessarily purging apps from the store. And there would be a natural temporary consequence for suspected fraudulent behavior: simply demote the app, delisting it from search and featured collections.</p>
+<p>Apple should focus on highlighting the best apps within a system that lets the app review team make occasional mistakes. There shouldn&#8217;t be such an easy toggle that wipes out an indie developer&#8217;s business.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Long vs. pure App Store names</title>
+		<link>http://www.manton.org/2016/09/long-vs-pure-app-store-names.html</link>
+		<pubDate>Tue, 06 Sep 2016 15:26:50 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[cleanup]]></category>
+		<category><![CDATA[names]]></category>
+		<category><![CDATA[riverfold]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4256</guid>
+		<description><![CDATA[David Smith has an analysis of long names in the App Store, as developers try to understand the scope of Apple&#8217;s upcoming cleanup changes. Don&#8217;t miss the text file of 255-character names he found, which are all ridiculous. I&#8217;d laugh if this kind of gaming of the store didn&#8217;t make me sad. I&#8217;ve always thought [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>David Smith has <a href="http://david-smith.org/blog/2016/09/06/app-store-name-lengths/">an analysis of long names in the App Store</a>, as developers try to understand the scope of Apple&#8217;s upcoming <a href="http://www.manton.org/2016/09/app-store-cleanup.html">cleanup changes</a>. Don&#8217;t miss the text file of 255-character names he found, which are all ridiculous. I&#8217;d laugh if this kind of gaming of the store didn&#8217;t make me sad.</p>
+<p>I&#8217;ve always thought that the title shown in the App Store should be the actual app name. Keyword spamming is clearly bad, but I personally don&#8217;t like even tag lines in the name. Of the 4 apps from my company <a href="http://www.riverfold.com/">Riverfold</a> that have been in the App Store, the names in the store all exactly match what is shown on your home screen:</p>
+<ul>
+<li>Sunlit</li>
+<li>Tweet Library</li>
+<li>Clipstart</li>
+<li>Watermark Mobile</li>
+</ul>
+<p>Maybe my sales suffered because of my refusal to add more words after the real name, but to me, these names are pure and gimmick-free. I don&#8217;t want my customers subjected to a truncated mess of words even before they use my app.</p>
+<p>If tag lines and brief descriptions in the App Store name are so common (and they are), then Apple should complement the new 50-character limit by having a separate 1-line description field in search results. This was discussed on the <a href="https://releasenotes.tv/173-wont-get-fooled-again/">latest episode of Release Notes</a>. My worry is that Apple attempts to fight problems with new policy alone instead of also encouraging the right behavior with App Store features.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>App Store cleanup</title>
+		<link>http://www.manton.org/2016/09/app-store-cleanup.html</link>
+		<pubDate>Fri, 02 Sep 2016 15:36:48 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[appreview]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[archiving]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4254</guid>
+		<description><![CDATA[I&#8217;m in favor of Apple&#8217;s upcoming app store cleanup, as long as they err on the side of keeping an app in the store if it isn&#8217;t clearly broken or abandoned. They should start slow with the obvious cases: crashing on launch, not updated for retina or even 4-inch screens. There&#8217;s a lot of low-hanging fruit [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;m in favor of <a href="https://developer.apple.com/support/app-store-improvements/">Apple&#8217;s upcoming app store cleanup</a>, as long as they err on the side of keeping an app in the store if it isn&#8217;t clearly broken or abandoned. They should start slow with the obvious cases: crashing on launch, not updated for retina or even 4-inch screens. There&#8217;s a lot of low-hanging fruit that could be programmatically swept through.</p>
+<p><a href="https://david-smith.org/blog/2013/03/21/purging-the-back-catalog/">David Smith wrote about this kind of App Store cleanup</a> over 3 years ago, arguing that Apple could do a lot without getting into the subjective quality of an app:</p>
+<blockquote><p>
+  Instead, I think Apple would be well served to adopt <em>objective</em> measures for quality or at least freshness to improve the overall quality of the Store. Adopting such a policy wouldn’t fundamentally change the situation for developers; every app they submit already has to be approved. All that this would do is apply some of those same required criteria to the app on an ongoing basis.
+</p></blockquote>
+<p>John Voorhees picked up on the urgency of Apple&#8217;s new policy <a href="https://www.macstories.net/news/apple-announces-app-store-cleanup/">for an article at MacStories</a>:</p>
+<blockquote><p>
+  We are well past the time when the number of apps served as meaningful bragging rights for Apple keynotes. The directness in tone and relatively short time frame given to developers to make changes to apps sends a clear message – Apple is serious about cleaning up the App Store.
+</p></blockquote>
+<p>It remains a challenge to preserve the part of our culture that is captured in old apps. I wish Apple could aggressively curate the App Store <em>and</em> allow old apps to be archived and available. But that&#8217;s far from an Apple priority. For now, it&#8217;s right to present the best possible user experience for App Store customers.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>App maintenance and subscription rejections</title>
+		<link>http://www.manton.org/2016/06/app-maintenance-and-subscription-rejections.html</link>
+		<pubDate>Fri, 10 Jun 2016 13:27:55 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[inapp]]></category>
+		<category><![CDATA[maintenance]]></category>
+		<category><![CDATA[subscriptions]]></category>
+		<category><![CDATA[support]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3976</guid>
+		<description><![CDATA[Jason Snell closed his first take on App Store subscriptions with a question about iPhone app maintenance vs. web services maintenance: Whether Apple would actually reject a subscription-based app that doesn’t offer any functionality outside of itself, I don’t know. It sure wouldn’t be the first time there was a baffling App Store rejection. But [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Jason Snell closed <a href="https://sixcolors.com/link/2016/06/app-store-uncertainty/">his first take on App Store subscriptions</a> with a question about iPhone app maintenance vs. web services maintenance:</p>
+<blockquote><p>
+  Whether Apple would actually reject a subscription-based app that doesn’t offer any functionality outside of itself, I don’t know. It sure wouldn’t be the first time there was a baffling App Store rejection. But does Apple really want to take the position that ongoing maintenance of a web service has value, but ongoing maintenance and development of an app does not? I don’t think it does.
+</p></blockquote>
+<p>As I wrote about <a href="http://www.manton.org/2016/06/core-intuition-236-and-app-subscriptions.html">in my post yesterday</a>, users can more easily see the hosting costs for a web service. They&#8217;ve been trained by a decade of paying for web subscriptions. Maintenance for the app itself has some differences.</p>
+<p>Think about how costs scale if an app becomes popular. A web service becomes expensive to run, often thousands of dollars each month. You could say that a developer&#8217;s time for app maintenance is <em>also</em> thousands of dollars, but it&#8217;s essentially fixed. Outside of customer support costs, the incremental cost to a developer for an app doesn&#8217;t increase in the same way it does for scaling a backend service.</p>
+<p>I hate that Apple has the power to reject our business model for a potential app. I&#8217;m now leaning more to the idea that Apple should approve nearly everything and let customers decide on the value. But there <em>is</em> a difference between maintenance of an app vs. a web service, and the services that are clearly appropriate for subscriptions will be the most successful apps using this new model.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Core Intuition 236 and app subscriptions</title>
+		<link>http://www.manton.org/2016/06/core-intuition-236-and-app-subscriptions.html</link>
+		<pubDate>Thu, 09 Jun 2016 20:47:08 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[inapp]]></category>
+		<category><![CDATA[subscriptions]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3971</guid>
+		<description><![CDATA[We published Core Intuition episode 236 today, discussing the recent App Store announcements and a listener question about offices. We wrap up with plans for WWDC. There has been a lot of great blog posts and podcast episodes already on the App Store subscription change. I listened to Under the Radar 31 and the Release [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We published <a href="http://coreint.org/236">Core Intuition episode 236</a> today, discussing the recent App Store announcements and a listener question about offices. We wrap up with plans for WWDC.</p>
+<p>There has been a lot of great blog posts and podcast episodes already on the App Store subscription change. I listened to <a href="https://www.relay.fm/radar/31">Under the Radar 31</a> and the <a href="https://releasenotes.tv/special-episode-mostly-neutral-ish/">Release Notes special edition</a> today and recommend both. The most confusion seems to be around what kind of apps are appropriate for subscriptions, where by “appropriate” I mean “what Apple will approve”.</p>
+<p>John Gruber also <a href="http://daringfireball.net/2016/06/app_store_subscription_uncertainty">follows up at Daring Fireball</a> on this question:</p>
+<blockquote><p>
+  Professional apps that require “a lot of maintenance of new features and versions” don’t fit either of those categories. <em>Would</em> Twitter clients like Tweetbot and Twitterrific qualify for subscription pricing? After talking to Schiller yesterday, I thought so. Now, I don’t know.
+</p></blockquote>
+<p>As I mention on Core Intuition, apps that have a backend service with obvious hosting and maintenance costs — a music streaming service, an invoicing web app, or a blogging platform, for example — are easier for users to understand as needing to be subscriptions. Twitter apps are an interesting example because <em>some</em> are pure clients to Twitter’s backend, but many increasingly have their own app-specific services like timeline syncing or push notifications.</p>
+<p>For years Apple has allowed apps to use auto-renewing subscriptions. I had an iPhone app and companion web service that was approved by Apple for auto-renewing subscriptions, after I made the case for the service as a “cloud” archive. From section 11.15 of the <a href="https://developer.apple.com/app-store/review/guidelines/">App Store review guidelines</a>:</p>
+<blockquote><p>
+  Apps may only use auto-renewing subscriptions for periodicals (newspapers, magazines), business Apps (enterprise, productivity, professional creative, cloud storage), and media Apps (video, audio, voice), or the App will be rejected
+</p></blockquote>
+<p>From my experience and listening to other developers, I’ve had the impression for a while that Apple would essentially reject most auto-renewing app submissions by default. While we still don’t know what “all categories” means in the new announcement, I expect it means that there will no longer be a kind of blanket rejection. Apple will still reject many apps as poorly suited for subscriptions, though, and maybe that&#8217;s okay for now.</p>
+<p>(I&#8217;m conflicted on this point. John Gruber&#8217;s suggestion to approve everything and let the market decide is compelling and fits better with my instinct that the control should be in developers&#8217; hands.)</p>
+<p>“Subscription fatigue” is a real thing that I’ll occasionally hear from customers about. No one wants to pay $1/month to 40 different apps and services; it feels like a burden in a way that paying the same total price to just two apps at $20/month does not. Nevertheless, subscriptions are very powerful. Everything I’ve done over the last few years is to position myself to eventually have a recurring-revenue success.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Medium subscriptions</title>
+		<link>http://www.manton.org/2016/05/medium-subscriptions.html</link>
+		<pubDate>Fri, 13 May 2016 16:12:05 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[medium]]></category>
+		<category><![CDATA[openweb]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3919</guid>
+		<description><![CDATA[Glenn Fleishman writes for Six Colors about Medium&#8217;s subscription features that will let publishers charge readers: It’s absolutely clear the revenue side is an experiment, and Medium labels it as such all over. There’s no guarantee it will work for its early partners or pan out in the long run. But it’s the only publishing [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://sixcolors.com/post/2016/05/mediums-latest-intriguing-publishing-experiment/">Glenn Fleishman writes for Six Colors</a> about Medium&#8217;s subscription features that will let publishers charge readers:</p>
+<blockquote><p>
+  It’s absolutely clear the revenue side is an experiment, and Medium labels it as such all over. There’s no guarantee it will work for its early partners or pan out in the long run. But it’s the only publishing option that combines so many things in one place without any over-the-top cost or commitment on the part of a periodical.
+</p></blockquote>
+<p>While Medium is certainly doing a lot right, and I still think <a href="http://www.manton.org/2016/01/silos-as-shortcuts.html">it&#8217;s not a bad place to mirror content</a>, the &#8220;long run&#8221; Glenn mentions is really what we should think about when considering Medium. I have no confidence that Medium will last 5-10 years.</p>
+<p>If my whole business was based on blogging, why would I trust Medium to control something so crucial? With iOS development, we have no choice but to use the App Store. Writing on the web isn&#8217;t like that, and voluntarily giving up both control of the publishing platform and 20% of revenue strikes me as very short-sighted.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Paid search and App Store profit</title>
+		<link>http://www.manton.org/2016/04/paid-search-and-app-store-profit.html</link>
+		<pubDate>Tue, 19 Apr 2016 14:20:07 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[ads]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[iads]]></category>
+		<category><![CDATA[paidsearch]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3891</guid>
+		<description><![CDATA[Reacting to a Bloomberg article about Apple adding paid search results in the App Store, John Gruber writes: This sounds like a terrible idea. The one and only thing Apple should do with App Store search is make it more accurate. They don’t need to squeeze any more money from it. More accurate, reliable App [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Reacting to <a href="http://www.bloomberg.com/news/articles/2016-04-14/apple-said-to-pursue-new-search-features-for-crowded-app-store">a Bloomberg article</a> about Apple adding paid search results in the App Store, <a href="http://daringfireball.net/linked/2016/04/14/bloomberg-app-store-search">John Gruber writes</a>:</p>
+<blockquote><p>
+  This sounds like a terrible idea. The one and only thing Apple should do with App Store search is make it more accurate. They don’t need to squeeze any more money from it. More accurate, reliable App Store search would help users and help good developers.
+</p></blockquote>
+<p>The Bloomberg article almost makes it sound like there&#8217;s a 100-person team working on paid search. I doubt that&#8217;s true. More likely, there&#8217;s a team working on several improvements to the App Store, including better search.</p>
+<p>Daniel Jalkut <a href="http://bitsplitting.org/2016/04/15/paid-app-store-search/">is also very skeptical</a>:</p>
+<blockquote><p>
+  It’s hard to see how paid placement would consistently benefit either Apple or its direct customers. It’s unlikely that paid listings would be used to highlight apps that are in line with Apple’s other goals for the store.
+</p></blockquote>
+<p>He rightly points out that making money from the App Store is Apple&#8217;s secondary goal. It&#8217;s more important to have an ecosystem of apps that make the iPhone itself indispensable. As I argued in a blog post in 2011 <a href="http://www.manton.org/2011/03/where_apple_went.html">about free apps and distribution</a>, I don&#8217;t think the App Store should be a source of significant profit for Apple at all.</p>
+<p>And if we’re keeping score with old posts where I write not what Apple <em>should</em> do but what I <em>wish</em> they’d do, see <a href="http://www.manton.org/2010/09/i_hope_iad.html">“I hope iAd fails”</a> from 2010. iAd is shutting down in June.</p>
+<p>I just can&#8217;t believe Apple would prioritize paid search over all the other App Store feature requests that developers have. So I prefer to ignore the paid search rumor and instead take away from this article just the good news: Apple has a new team focused on improving the App Store.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.300 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 16:57:34 -->

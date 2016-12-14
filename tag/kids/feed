@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>kids &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/kids/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:36:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Proud to have voted for Hillary</title>
+		<link>http://www.manton.org/2016/11/proud-to-have-voted-for-hillary.html</link>
+		<pubDate>Sun, 13 Nov 2016 14:04:29 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Politics]]></category>
+		<category><![CDATA[election]]></category>
+		<category><![CDATA[hillary]]></category>
+		<category><![CDATA[kids]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[politics]]></category>
+		<category><![CDATA[trump]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4447</guid>
+		<description><![CDATA[I couldn&#8217;t sleep. I woke up early the day after the election, thinking about my daughters, and cried. I had been so excited to celebrate our new president with them. I had been so excited to watch the returns with my kids, to share a moment of pride and optimism. This wasn&#8217;t a normal election. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I couldn&#8217;t sleep. I woke up early the day after the election, thinking about my daughters, and cried. I had been so excited to celebrate our new president with them. I had been so excited to watch the returns with my kids, to share a moment of pride and optimism.</p>
+<p>This wasn&#8217;t a normal election. This wasn&#8217;t just a debate over policy. It was much deeper. The world is already worse and darker <a href="https://twitter.com/i/moments/796417517157830656">for many people</a> because of what happened.</p>
+<p>There will be arguments over why the election went so wrong, but it&#8217;s more complicated than just one thing. There was the overplayed story about private emails. There was the FBI letter. There was the media treating Trump like a reality TV star instead of a threat.</p>
+<p>Hillary did her job. She destroyed Trump in all 3 debates. She ran a solid campaign. But she has always been held to a different standard than everyone else. I&#8217;ll never get over that.</p>
+<p>I&#8217;m proud to have voted for Hillary in the primary and in the general election, and I&#8217;d do both again. This election was very close. It was winnable. If we had ignored the polls and fought for every state, it was winnable.</p>
+<p>Friday night, I went with a friend to see <a href="http://www.trevornoah.com/shows/">Trevor Noah&#8217;s standup show</a>. It was great to laugh for a couple hours, about the election and everyday life. But then the night fades and we&#8217;re still in a nightmare.</p>
+<p>After Hillary has had some time to rest, and reflect, and <a href="http://nymag.com/selectall/2016/11/mother-and-daughter-run-into-hillary-clinton-hiking-facebook.html">be her own person</a> again, I hope she can find another cause worth fighting for. Let&#8217;s not forget that she did make history as the first woman to be nominated by a major party. She paved the way and reminded us how hard this is. That matters.</p>
+<p>Daniel and I recorded <a href="http://www.coreint.org/2016/11/episode-258-not-just-a-normal-day/">an episode of Core Intuition</a> the day after the election. We tried to capture that feeling of loss, and anger, but also of hope that we can have a renewed passion for our apps and ideas. Maybe some of our products have a place in the work to do before 2018.</p>
+<p>Hillary said <a href="https://medium.com/@HillaryClinton/thank-you-d2decf198a69">in her speech</a>, the day after the election:</p>
+<blockquote><p>
+  Donald Trump is going to be our president. We owe him an open mind and the chance to lead.
+</p></blockquote>
+<p>On this, I disagree with Hillary. Trump has already shown us who he is — someone who mistreats women, lashes out at his critics, and disrespects immigrants — and nothing he does in office will change that. The only thing we owe him is a short presidency.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Core Int and Hour of Code</title>
+		<link>http://www.manton.org/2014/12/core-int-and-hour-of-code.html</link>
+		<pubDate>Mon, 15 Dec 2014 16:06:48 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[hourofcode]]></category>
+		<category><![CDATA[kids]]></category>
+		<category><![CDATA[programming]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2411.html</guid>
+		<description><![CDATA[We were lagging a little after the Thanksgiving break, so we posted two episodes of Core Intuition last week. On the latest episode we talk about the Hour of Code and welcome new listeners who found our podcast from the App Store feature. After we recorded, I helped out my son&#8217;s elementary school class with [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We were lagging a little after the Thanksgiving break, so we posted two episodes of Core Intuition last week. On <a href="http://www.coreint.org/2014/12/episode-166-i-should-be-making-a-mac-app/">the latest episode</a> we talk about the <a href="http://code.org/">Hour of Code</a> and welcome new listeners who found our podcast from the App Store feature.</p>
+<p>After we recorded, I helped out my son&#8217;s elementary school class with the Hour of Code tutorials. I learned a lot and came away even more impressed with the project. The reach is pretty incredible. Even if it only sways the interest of a couple kids here and there, but spread over classrooms all across the world, you can imagine how big a difference it might make.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Journals</title>
+		<link>http://www.manton.org/2012/07/journals.html</link>
+		<pubDate>Fri, 27 Jul 2012 17:58:48 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[books]]></category>
+		<category><![CDATA[journals]]></category>
+		<category><![CDATA[kids]]></category>
+		<category><![CDATA[life]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2012/07/journals.html</guid>
+		<description><![CDATA[Steve Corona on keeping a journal: “And for the past 1091 days, I’ve been journaling every single day — that’s about 3 years or 12% of my entire life. My only regret? I wish I started sooner.” When I was younger, I had tried off and on to keep a sketchbook or journal, but it [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Steve Corona <a href="http://stevecorona.com/on-keeping-a-journal">on keeping a journal</a>:</p>
+<blockquote><p>
+  “And for the past 1091 days, I’ve been journaling every single day — that’s about 3 years or 12% of my entire life. My only regret? I wish I started sooner.”
+</p></blockquote>
+<p>When I was younger, I had tried off and on to keep a sketchbook or journal, but it never quite stuck. Like blogging, or writing, or drawing, or anything you aren&#8217;t paid to do, it takes setting a routine. There&#8217;s always something more important to do.</p>
+<p><a href="http://instagr.am/p/Kf0zpaCbwH/"><img src="http://www.manton.org/images/2012/journals.jpg" width="150" height="150" align="right" style="border: 1px solid darkgray; margin: 8px;" alt="journals" /></a> Then in 1998, I started a journal again with a renewed commitment. I filled a book from that day up until I got married. Then another book through when my daughters were born. Another for the first 10 years of their life, and my son&#8217;s. The travel, the big life moments, the election, the work. It&#8217;s not everything — sometimes the entries are every day and sometimes months go by with nothing — but it&#8217;s the stuff that matters, and the snapshots in time of little everyday things too.</p>
+<p>I would be devastated to lose these books. Open the pages and it rolls back the years like a time machine, to a previous life full of small details that are priceless today. I&#8217;m writing the books half for my terrible fading memory, and half for my children, who will only care what these years have been like when it&#8217;s too late to ask me.</p>
+<p>So I&#8217;ve recently started transcribing the handwritten entries into digital form. One page at a time, into <a href="http://dayoneapp.com/">Day One</a>, then exported as plain text. It&#8217;s a long and tedious process, but multiple copies are the only sure way to make something last.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Hillary podcast</title>
+		<link>http://www.manton.org/2008/02/hillary_podcast.html</link>
+		<pubDate>Tue, 19 Feb 2008 00:23:03 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[clinton]]></category>
+		<category><![CDATA[election]]></category>
+		<category><![CDATA[hillary]]></category>
+		<category><![CDATA[kids]]></category>
+		<category><![CDATA[politics]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2008/02/hillary_podcast.html</guid>
+		<description><![CDATA[About once a year I like to put together a podcast episode around a theme, and this weekend that subject is Hillary Clinton. I think I&#8217;ve prepared it with fairness and respect, so even if you disagree please do the same. It&#8217;s both a personal expression and a way of capturing a moment. &#187; Download [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>About once a year I like to put together a podcast episode around a theme, and this weekend that subject is Hillary Clinton. I think I&#8217;ve prepared it with fairness and respect, so even if you disagree please do the same. It&#8217;s both a personal expression and a way of capturing a moment.</p>
+<p>&raquo; <a href="http://www.manton.org/audio/2008/Hillary.mp3">Download</a> (MP3, 6.2MB)</p>
+<p>&raquo; <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=190005619">Subscribe in iTunes</a></p>
+<p>It&#8217;s about 13 minutes long. Enjoy.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Carcasonne</title>
+		<link>http://www.manton.org/2006/10/carcasonne.html</link>
+		<pubDate>Tue, 10 Oct 2006 16:29:49 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Video Games]]></category>
+		<category><![CDATA[carcasonne]]></category>
+		<category><![CDATA[comics]]></category>
+		<category><![CDATA[games]]></category>
+		<category><![CDATA[kids]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2006/10/carcasonne.html</guid>
+		<description><![CDATA[I picked up the board game &#8220;Carcasonne&#8221;:http://www.amazon.com/gp/product/B00005UNAX?ie=UTF8&#38;tag=mantonorg&#38;linkCode=as2&#38;camp=1789&#38;creative=9325&#38;creativeASIN=B00005UNAX/ a few weeks ago and have been enjoying it. It&#8217;s great to see some innovation in board games again, and it&#8217;s a relaxing change of pace from video games. Target and the other big box stores are still mostly packed with remakes of classic board games, which are [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I picked up the board game &#8220;Carcasonne&#8221;:http://www.amazon.com/gp/product/B00005UNAX?ie=UTF8&amp;tag=mantonorg&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B00005UNAX/ a few weeks ago and have been enjoying it. It&#8217;s great to see some innovation in board games again, and it&#8217;s a relaxing change of pace from video games. Target and the other big box stores are still mostly packed with remakes of classic board games, which are fine, but if you seek out the more speciality shops there&#8217;s a range of good stuff available. I bought my copy at &#8220;Dragon&#8217;s Lair&#8221;:http://www.dlair.net/, a local Austin comics and games shop that I&#8217;ve been frequenting for about 15 years, but I&#8217;ve seen it featured prominently at other quality toy stores.</p>
+<p>I originally sought out Carcasonne for play between adults, but I&#8217;ve found the game also works great for kids even younger than the 8 years recommended on the box. Just follow a few rule simplifications. First, no farmers. Next, as recommended by someone in an Amazon review, use the word &#8220;traveler&#8221; instead of thief. And finally, just score a single point for any completed castle, road, or cloister. Part of the charm of the game is in constructing the map anyway, so these simplified rules make for fast and enjoyable games for younger children.</p>
+<p><center><img src="http://www.manton.org/images/2006/carcasonne.jpg" width="400" height="300" alt="Gameplay photo" style="border: 1px solid gray" /></center></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Education is broken</title>
+		<link>http://www.manton.org/2006/04/education_is_broken.html</link>
+		<pubDate>Mon, 17 Apr 2006 18:56:40 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[education]]></category>
+		<category><![CDATA[kids]]></category>
+		<category><![CDATA[kindergarten]]></category>
+		<category><![CDATA[school]]></category>
+		<category><![CDATA[testing]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2006/04/education_is_broken.html</guid>
+		<description><![CDATA[I snapped this photo of a banner last week. It sums up quite nicely one of the big problems in American public education.]]></description>
+				<content:encoded><![CDATA[<p>I snapped this photo of a banner last week. It sums up quite nicely one of the big problems in American public education.</p>
+<p><center><img src="http://www.manton.org/images/2006/kindergarten_prep.jpg" border="0" height="186" width="400" alt="Kindergarten Prep" style="border: solid 1px gray;" /></center></p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.260 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 17:02:29 -->

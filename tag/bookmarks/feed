@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>bookmarks &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/bookmarks/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:36:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Pinboard at 7 years</title>
+		<link>http://www.manton.org/2016/07/pinboard-at-7-years.html</link>
+		<pubDate>Sun, 10 Jul 2016 19:02:01 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[bookmarks]]></category>
+		<category><![CDATA[email]]></category>
+		<category><![CDATA[launching]]></category>
+		<category><![CDATA[pinboard]]></category>
+		<category><![CDATA[revenue]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4106</guid>
+		<description><![CDATA[Maciej Cegłowski of Pinboard has always been open about his stats for the service. Now, on the 7th anniversary, he also shares that revenue has grown to well over $200k/year: I’ve added revenue this year because I&#8217;m no longer afraid of competitors, and I&#8217;d like to encourage people who are considering doing their own one- [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Maciej Cegłowski of Pinboard has always been open about his stats for the service. Now, on the 7th anniversary, <a href="https://blog.pinboard.in/2016/07/pinboard_turns_seven/">he also shares that revenue has grown to well over $200k/year</a>:</p>
+<blockquote><p>
+  I’ve added revenue this year because I&#8217;m no longer afraid of competitors, and I&#8217;d like to encourage people who are considering doing their own one- or zero-person business. The site costs something like $17K/year to run, so you can make a good living at this artisanal SaaS stuff.
+</p></blockquote>
+<p>Congrats to Maciej on his success. I&#8217;ve been a happy Pinboard user for pretty much all of those 7 years, and — as someone who also aspires to build a profitable web platform — I&#8217;m inspired by Pinboard’s consistency and growth.</p>
+<p>Speaking of 6-figure income, I’ve also just finished reading Shawn Blanc’s write-up <a href="https://thefocuscourse.com/behind-the-scenes-six-figure-course-launch/">about launching The Focus Course</a>, which had first-week revenue of over $100k. He describes the planning process and his strategy for using a mailing list to build awareness about the product.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Wii Transfer 2.5</title>
+		<link>http://www.manton.org/2007/09/wii_transfer_25.html</link>
+		<pubDate>Fri, 21 Sep 2007 04:41:09 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[bookmarks]]></category>
+		<category><![CDATA[movies]]></category>
+		<category><![CDATA[pricing]]></category>
+		<category><![CDATA[streaming]]></category>
+		<category><![CDATA[transfer]]></category>
+		<category><![CDATA[wii]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/09/wii_transfer_25.html</guid>
+		<description><![CDATA[This morning I finally rolled out &#8220;version 2.5 of Wii Transfer&#8221;:http://www.riverfold.com/software/wiitransfer/, the most significant release of the product yet. It probably deserved a 3.0 label slapped on it, but I like how all the 2.x releases revolve around the sharing features (sending movies, music, and pictures to the Wii via the Opera browser). Besides, I [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>This morning I finally rolled out &#8220;version 2.5 of Wii Transfer&#8221;:http://www.riverfold.com/software/wiitransfer/, the most significant release of the product yet. It probably deserved a 3.0 label slapped on it, but I like how all the 2.x releases revolve around the sharing features (sending movies, music, and pictures to the Wii via the Opera browser). Besides, I have a special set of entirely new stuff planned for 3.0.</p>
+<p>So what&#8217;s new? Movie streaming is the big one. You can now drag and drop movie files to convert to Flash Video format, which Wii Transfer&#8217;s web server will happily stream up to your Wii. It works surprisingly well considering the Wii has such limited memory and no hard drive. Last night I even tested with feature-length movies.</p>
+<p>Other new features include background music for picture slideshows (both MP3 and AAC) and bookmark sharing, so that you can browse your Safari or Firefox bookmarks on your Wii to easily visit those sites. The &#8220;release notes&#8221;:http://www.riverfold.com/software/wiitransfer/releasenotes/ page has more of the details.</p>
+<p>I&#8217;ve also bumped the price up to $19, where I expect it to stay for some time. One way I like to think about the price of Wii Transfer is in relation to another common purchase from Wii owners: games. It&#8217;s still less than half the price of a new Wii game.</p>
+<p>Special thanks to the beta testers who provided feedback. There are still a number of things about movie sharing that I&#8217;d like to polish up, so additional minor updates are likely. I often use the &#8220;Wii account on Twitter&#8221;:http://twitter.com/wii to post these and other announcements.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.267 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 17:06:29 -->

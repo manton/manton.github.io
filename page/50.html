@@ -9,7 +9,7 @@
 <html lang="en-US">
 <!--<![endif]-->
 
-<!-- Mirrored from www.manton.org/page/50 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 13 Dec 2016 22:24:22 GMT -->
+<!-- Mirrored from www.manton.org/page/50 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 13 Dec 2016 23:32:49 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
 <meta charset="UTF-8" />
@@ -81,6 +81,26 @@ img.emoji {
 		<div id="content" role="main">
 		
 										
+	<article id="post-2130" class="post-2130 post type-post status-publish format-standard hentry category-programming tag-coreint tag-redis tag-twitter">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="../2013/07/twitters_modern_architecture.html" rel="bookmark">Twitter&#8217;s modern architecture</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>I love <a href="http://highscalability.com/blog/2013/7/8/the-architecture-twitter-uses-to-deal-with-150m-active-users.html">this detailed write-up of the Twitter backend</a> as it exists today. Sending a tweet to your followers uses a massive Redis cluster with a couple terabytes of RAM:</p>
+<blockquote><p>
+  “Let’s say you tweet and you have 20K followers. What the fanout daemon will do is look up the location of all 20K users inside the Redis cluster. Then it will start inserting the Tweet ID of the tweet into all those lists throughout the Redis cluster. So for every write of a tweet as many as 20K inserts are occurring across the Redis cluster.”
+</p></blockquote>
+<p>A listener of <a href="http://coreint.org/">Core Intuition</a> asked me today if I had second thoughts about no longer using Twitter, especially since I still maintain a Twitter app. We’ll discuss this on a future episode, but the short answer is: no, I don’t regret it. I have a huge amount of respect for what Twitter has built at a technical level, and for the opportunities it gives people to communicate. I just don’t like their attitude toward developers.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="../category/programming.html" rel="category tag">Programming</a> and tagged <a href="../tag/coreint.html" rel="tag">coreint</a>, <a href="../tag/redis.html" rel="tag">redis</a>, <a href="../tag/twitter.html" rel="tag">twitter</a> on <a href="../2013/07/twitters_modern_architecture.html" title="9:25 am" rel="bookmark"><time class="entry-date" datetime="2013-07-09T09:25:19+00:00">2013/07/09</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../author/manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
 	<article id="post-2129" class="post-2129 post type-post status-publish format-standard hentry category-programming tag-deprecation tag-engelbart tag-ios7 tag-marco tag-rails tag-winer">
 				<header class="entry-header">
 			
@@ -519,68 +539,6 @@ img.emoji {
 		<footer class="entry-meta">
 			This entry was posted in <a href="../category/events.html" rel="category tag">Events</a> and tagged <a href="../tag/cocoaconf.html" rel="tag">cocoaconf</a>, <a href="../tag/conferences.html" rel="tag">conferences</a>, <a href="../tag/coreint.html" rel="tag">coreint</a>, <a href="../tag/podcast.html" rel="tag">podcast</a> on <a href="../2013/04/cocoaconf_and_core.html" title="9:36 am" rel="bookmark"><time class="entry-date" datetime="2013-04-04T09:36:19+00:00">2013/04/04</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../author/manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
 	</article><!-- #post -->
-							
-	<article id="post-2110" class="post-2110 post type-post status-publish format-standard hentry category-events tag-applestore tag-apps tag-ipad tag-lines tag-shawnblanc">
-				<header class="entry-header">
-			
-						<h1 class="entry-title">
-				<a href="../2013/04/ipad_1_release.html" rel="bookmark">iPad 1 release day</a>
-			</h1>
-								</header><!-- .entry-header -->
-
-				<div class="entry-content">
-			<p>Shawn Blanc looks back to <a href="http://shawnblanc.net/2010/04/diary-of-an-ipad-owner/">a post 3 years ago</a> about his experience buying and using the first iPad. From waiting in line:</p>
-<blockquote><p>
-  “<strong>7:32 am:</strong> A young guy and his mom get in line behind us. The guy is wearing a ‘WWSJD’ t-shirt. I like to think that I’m less nerdy than he is, but the fact is I am <em>ahead of him</em> in line.”
-</p></blockquote>
-<p>I wish I had written so many detailed notes. I did, however, find an old draft blog post with my current list of apps from back then. Here’s what I was running on my first iPad in early April, 2010:</p>
-<ul>
-<li>Twitterrific.</p>
-</li>
-<li>
-<p>NetNewsWire.</p>
-</li>
-<li>
-<p>Instapaper.</p>
-</li>
-<li>
-<p>Freeform.</p>
-</li>
-<li>
-<p>Sketchbook Pro.</p>
-</li>
-<li>
-<p>Pages.</p>
-</li>
-<li>
-<p>OmniGraffle.</p>
-</li>
-</ul>
-<p>And free apps:</p>
-<ul>
-<li>AIM.</p>
-</li>
-<li>
-<p>iBooks.</p>
-</li>
-<li>
-<p>Kindle.</p>
-</li>
-<li>
-<p>Netflix.</p>
-</li>
-<li>
-<p>New York Times Editors’ Choice.</p>
-</li>
-</ul>
-<p>And a couple games, like Flight Control HD.</p>
-<p>Of those paid apps, I’m only still routinely using Instapaper today, and — even though I’m not on Twitter — occasionally Twitterrific. NetNewsWire for iPad in particular held up very well; I used it every day for probably 2 years <em>after</em> it had stopped being updated.</p>
-<p>Most of the apps that were released for the iPad’s debut were more mature than apps from the iPhone OS 2.0 release and first App Store. By the time the iPad came along, developers seemed to have gotten the hang of the platform.</p>
-					</div><!-- .entry-content -->
-		
-		<footer class="entry-meta">
-			This entry was posted in <a href="../category/events.html" rel="category tag">Events</a> and tagged <a href="../tag/applestore.html" rel="tag">applestore</a>, <a href="../tag/apps.html" rel="tag">apps</a>, <a href="../tag/ipad.html" rel="tag">ipad</a>, <a href="../tag/lines.html" rel="tag">lines</a>, <a href="../tag/shawnblanc.html" rel="tag">shawnblanc</a> on <a href="../2013/04/ipad_1_release.html" title="11:37 pm" rel="bookmark"><time class="entry-date" datetime="2013-04-03T23:37:29+00:00">2013/04/03</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../author/manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
-	</article><!-- #post -->
 			
 					<nav id="nav-below" class="navigation" role="navigation">
 			<h3 class="assistive-text">Post navigation</h3>
@@ -821,7 +779,7 @@ img.emoji {
 	</footer><!-- #colophon -->
 </div><!-- #page -->
 
-<script type='text/javascript' src='../wp-content/themes/twentytwelve/js/navigationa462.html?ver=20140318'></script>
+<script type='text/javascript' src='../wp-content/themes/twentytwelve/js/navigationa462.js?ver=20140318'></script>
 <script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201650'></script>
 <script type='text/javascript' src='../wp-includes/js/wp-embed.min1c9b.js?ver=4.6.1'></script>
 <script type='text/javascript' src='http://stats.wp.com/e-201650.js' async defer></script>
@@ -833,9 +791,9 @@ img.emoji {
 
 </body>
 
-<!-- Mirrored from www.manton.org/page/50 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 13 Dec 2016 22:24:23 GMT -->
+<!-- Mirrored from www.manton.org/page/50 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 13 Dec 2016 23:32:49 GMT -->
 </html>
-<!-- Dynamic page generated in 0.484 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-12-13 16:24:21 -->
+<!-- Dynamic page generated in 0.467 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 17:32:49 -->
 
 <!-- super cache -->

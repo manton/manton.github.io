@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>comments &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/comments/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:36:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Time to rethink blog comments</title>
+		<link>http://www.manton.org/2016/03/time-to-rethink-blog-comments.html</link>
+		<pubDate>Thu, 24 Mar 2016 18:24:00 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[civilcomments]]></category>
+		<category><![CDATA[comments]]></category>
+		<category><![CDATA[community]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[webmention]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3769</guid>
+		<description><![CDATA[Twitter has lost some of what made it special for communities 5 years ago. I&#8217;ve noticed a few trends: Twitter’s 140-character limit and easy retweeting encourage and amplify negative tweets. Sincerity is less common. Everything is an opportunity for a joke. Widely followed, long-time Twitter users don’t find the joy they used to when interacting [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Twitter has lost some of what made it special for communities 5 years ago. I&#8217;ve noticed a few trends:</p>
+<ul>
+<li>Twitter’s 140-character limit and easy retweeting encourage and amplify negative tweets. Sincerity is less common. Everything is an opportunity for a joke.</li>
+<li>Widely followed, long-time Twitter users don’t find the joy they used to when interacting with followers. Some have retreated to private Slack channels, at the cost of public discussion and approachability.</li>
+<li>Developers have never completely forgiven Twitter for crippling the API. This doesn’t directly impact most users anymore, but it’s a backdrop that gives every new Twitter feature a tone of distrust. Progress is slow.</li>
+</ul>
+<p>Meanwhile, blog comments have slowly been killed off over that same period. The rise of social networks, combined with the technical problems of fighting blog comment spam, pushed most bloggers to prefer answering questions on Twitter.</p>
+<p><a href="http://beckyhansmeyer.com/2016/03/07/follow-up-the-nuances-of-online-discussion/">Becky Hansmeyer writes about</a> the intersection of these problems — that some Twitter users avoid public discussion, but most blogs no longer have comments to fall back on — by pointing to <a href="http://blog.bellebethcooper.com/online-relationships.html">a post from Belle Beth Cooper</a>:</p>
+<blockquote><p>
+  “Belle’s post really resonated with me because it reminded me of something I think about a lot: when an ever-increasing number of blogs and media outlets are disabling comment sections, where do decent, thoughtful people bring their discussions? I only offer readers one way to contact me on this site, and it’s via Twitter. But what if, like Belle, you no longer use Twitter (or never did in the first place)?”
+</p></blockquote>
+<p>We didn’t realized how much we lost when we turned our backs on blog comments years ago. Just look at <a href="https://red-sweater.com/blog/181/the-cocoa-carbon-advantage#comments">one of Daniel Jalkut&#8217;s blog posts from 10 years ago</a>, which he and I discuss on an upcoming episode of Core Intuition. 53 comments! And they&#8217;re all preserved along with the original content. That&#8217;s difficult to do when comments are spread across Twitter and easily lost.</p>
+<p>It’s time to take what we’ve since learned from social networks and apply it the openness of cross-site replies. That’s why I want to support <a href="https://indiewebcamp.com/Webmention">Webmention</a>. As Becky mentions, <a href="https://www.civilcomments.com/">Civil Comments</a> look great too. I think we can encourage both in parallel: distributed comments like Webmention for sites that can support it <em>and</em> better centralized comments like Civil.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>How I use Twitter</title>
+		<link>http://www.manton.org/2007/11/how_i_use.html</link>
+		<pubDate>Sat, 03 Nov 2007 04:20:16 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[comments]]></category>
+		<category><![CDATA[private]]></category>
+		<category><![CDATA[stats]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/11/how_i_use.html</guid>
+		<description><![CDATA[&#8220;Twiterrific 3.0&#8221;:http://iconfactory.com/home/permalink/1887 is out, with a new price of $15 or free to use with ads. The ads are very effective and difficult to ignore, but really they don&#8217;t take anything away from the Twitter experience. The new version is great, though, and I&#8217;ll be sending my $15 to Icon Factory sometime in the next [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>&#8220;Twiterrific 3.0&#8221;:http://iconfactory.com/home/permalink/1887 is out, with a new price of $15 or free to use with ads. The ads are very effective and difficult to ignore, but really they don&#8217;t take anything away from the Twitter experience. The new version is great, though, and I&#8217;ll be sending my $15 to Icon Factory sometime in the next few days. &#8220;As Fraser Speirs said&#8221;:http://speirs.org/2007/11/02/twitterrific-3/, it&#8217;s a small price to pay to be connected to friends and colleagues.</p>
+<p>I post to Twitter much more often than I blog now, and I think I owe some of my followers an explanation. I made a rule for myself early on to <em>only follow people who I have met in real life</em>. I&#8217;ve only made a couple exceptions to this, and none recently. It keeps the flow of tweets easier to manage and relevant.</p>
+<p>So if you follow me on Twitter and wonder why I don&#8217;t return the favor, that is why. You probably have interesting things to say, so say hi to me at some future conference so I can add you to my list. I&#8217;ve actually been thinking about taking it one step further and protecting updates, because I tend to post about what (to this blog) have been traditionally private matters. Jury is still out on that decision.</p>
+<p>The following numbers are interesting, though. I only do very basic Mint stats for this blog (I just care about referrers, not number of readers), but it does make me wonder how many people read this blog. If you&#8217;re reading this, add a comment to this post. (Haha, gotcha! I don&#8217;t have comments.)</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.232 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 16:57:44 -->

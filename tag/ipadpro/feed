@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ipadpro &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/ipadpro/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:36:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Real work on the iPad</title>
+		<link>http://www.manton.org/2016/10/real-work-on-the-ipad.html</link>
+		<pubDate>Mon, 03 Oct 2016 20:10:32 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[finder]]></category>
+		<category><![CDATA[ipad]]></category>
+		<category><![CDATA[ipadpro]]></category>
+		<category><![CDATA[releasenotes]]></category>
+		<category><![CDATA[travel]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4312</guid>
+		<description><![CDATA[I only took iOS devices with me to Indianapolis last week for Release Notes. My iPad Pro with smart keyboard, for writing and podcasting; an older iPad Mini, for reading on the plane; and of course my iPhone SE. A couple of months ago, Dan Counsell wrote about the iPad as a poor choice for [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I only took iOS devices with me to Indianapolis last week for <a href="http://releasenotes.tv/conference/">Release Notes</a>. My iPad Pro with smart keyboard, for writing and podcasting; an older iPad Mini, for reading on the plane; and of course my iPhone SE.</p>
+<p>A couple of months ago, <a href="https://www.dancounsell.com/the-problem-with-ipad-and-why-its-not-a-mac-replacement/">Dan Counsell wrote</a> about the iPad as a poor choice for everyday work:</p>
+<blockquote><p>
+  I know a lot of journalists use the iPad full time, and that&#8217;s fine. The reason they can use it full time is that typing text has very low system requirements. However as soon as you need to move files from one app to another or unzip a document the iPad starts to make your life more complicated.
+</p></blockquote>
+<p>Part of the issue is that out of the box, the iPad can&#8217;t do everything that a Mac can do. The iPad needs apps. As <a href="https://brooksreview.net/2016/09/files-on-ios/">Ben Brooks wrote</a> about Dan&#8217;s ZIP file example:</p>
+<blockquote><p>
+  It would be great if iOS expanded zip extraction as a built in tool, but it doesn’t, and yet a tool to do unzip is easily found, safe, and free.
+</p></blockquote>
+<p>iOS doesn&#8217;t have the Mac&#8217;s Finder. I could actually see a third-party iOS app centered on file management <em>first</em>, instead of just as an extra feature on top of text documents or photos — an app that blended a little of document providers, iCloud Drive, and app launching. Kind of in the spirit of the Finder-replacement <a href="http://www.cocoatech.com/pathfinder/">PathFinder</a>.</p>
+<p>There are iOS apps to do pretty much anything. What often makes iOS slower to use is there&#8217;s less glue between apps and documents than on the Mac. No drag and drop between apps on iOS. Fewer keyboard shortcuts.</p>
+<p>I love how Workflow sidestepped these issues with automation. I use a workflow for <a href="http://www.manton.org/2016/03/blogging-your-photos.html">posting Instagram photos to my own blog</a>. And Federico Viticci uses Workflow extensively. In a recent Club MacStories newsletter he shared <a href="https://twitter.com/viticci/status/776783993522061313">how he used Scrivener</a> and Workflow to write and prepare his iOS 10 review.</p>
+<p>Another simple workflow I&#8217;ve used is to convert a podcast to MP3 from Ferrite. Every episode of <a href="http://timetable.fm/">Timetable</a> was recorded on the iPhone or iPad. At WWDC, I edited <a href="http://www.coreint.org/">Core Intuition</a> on the iPad with the help of Ferrite and the web app Auphonic, which <a href="https://sixcolors.com/post/2016/08/ipad-podcast-post-production-with-auphonic/">Jason Snell has also written about</a>:</p>
+<blockquote><p>
+  I was able to export and upload The Incomparable while sitting at a comfortable table <a href="http://www.theblacksheep.com/">in an Ashland pub</a>, drinking their beer and using their free Wi-Fi. Auphonic did the rest, re-encoding the file as an MP3, tagging it properly, and uploading the result to both my Libsyn account and to The Incomparable’s FTP server.
+</p></blockquote>
+<p>When I was visiting a new coffee shop <a href="http://www.manton.org/coffee-shops-austin">every day for 30 days</a>, I loved taking the iPad with me because it was a lightweight, focused writing environment. With the right apps and workflows, it&#8217;s a fun computer to work on. I didn&#8217;t miss my Mac while traveling last week, and I expect iOS to serve me well on future trips.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Get one thing done today</title>
+		<link>http://www.manton.org/2016/03/get-one-thing-done-today.html</link>
+		<pubDate>Tue, 29 Mar 2016 16:27:35 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[ipadpro]]></category>
+		<category><![CDATA[outside]]></category>
+		<category><![CDATA[routine]]></category>
+		<category><![CDATA[travel]]></category>
+		<category><![CDATA[working]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2016/03/get-one-thing-done-today.html</guid>
+		<description><![CDATA[Natasha the Nomad has a post about prioritizing the “one thing” that has to be finished today, even if everything else slips: When I wake up (or the night before), I think &#8220;What is the one thing that I can do today to feel like I had a successful day, even If I nothing else [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.natashathenomad.com/blog/digital-nomad-productivity-trick-one-thing">Natasha the Nomad has a post</a> about prioritizing the “one thing” that has to be finished today, even if everything else slips:</p>
+<blockquote><p>
+  When I wake up (or the night before), I think &#8220;What is the one thing that I can do today to feel like I had a successful day, even If I nothing else gets done today&#8221;. No matter what, I end up getting that one thing done.
+</p></blockquote>
+<p>I find this kind of approach really useful. Saying you&#8217;re only going to finish one thing is admitting the reality that for many days, if you&#8217;re unfocused or juggling too many tasks, there&#8217;s a lot of &#8220;work&#8221; but nothing gets <em>done</em>. When I work out of the house in the morning with my iPad Pro, my goal is equally simple: publish a single blog post. If I can take care of email, edit other draft posts, work on planning notes for a project, etc. — that’s great too.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>30 days of libraries, week 1</title>
+		<link>http://www.manton.org/2016/03/30-days-of-libraries-week-1.html</link>
+		<pubDate>Sun, 27 Mar 2016 16:09:03 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[ipadpro]]></category>
+		<category><![CDATA[newlibraries]]></category>
+		<category><![CDATA[routine]]></category>
+		<category><![CDATA[working]]></category>
+		<category><![CDATA[writing]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2016/03/30-days-of-libraries-week-1.html</guid>
+		<description><![CDATA[After wrapping up 30 days of new coffee shops, last week I started visiting a library every day to work. Libraries and coffee shops don&#8217;t have that much in common, but they do share a couple basic traits that are necessary for working on a laptop or iPad: wi-fi and tables. In fact, I&#8217;ve found [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>After wrapping up <a href="http://www.manton.org/coffee-shops-austin">30 days of new coffee shops</a>, last week <a href="http://www.manton.org/2016/03/whats-next-after-30-days-of-coffee.html">I started visiting a library every day</a> to work. Libraries and coffee shops don&#8217;t have that much in common, but they do share a couple basic traits that are necessary for working on a laptop or iPad: wi-fi and tables. In fact, I&#8217;ve found that it&#8217;s even easier to find an open table or couch in a library than in a busy coffee shop.</p>
+<p>So far, so good. In the first week, I&#8217;ve visited <a href="http://www.manton.org/2016/03/whats-next-after-30-days-of-coffee.html">Cedar Park Public Library</a>, <a href="http://www.manton.org/2016/03/3741.html">Wells Branch Community Library</a>, <a href="http://www.manton.org/2016/03/3744.html">Little Walnut Creek Branch</a>, <a href="http://www.manton.org/2016/03/3759.html">North Village Branch</a>, <a href="http://www.manton.org/2016/03/3765.html">Old Quarry Branch</a>, <a href="http://www.manton.org/2016/03/3768.html">Howson Branch</a>, <a href="http://www.manton.org/2016/03/3776.html">Westbank Community Library</a>, and <a href="http://www.manton.org/2016/03/3783.html">Yarborough Branch</a>.</p>
+<p>I also heard from readers who wanted to see more than the text microblog posts I did for coffee shops, so I&#8217;ve been trying to take more photos. These photos are tagged with <a href="http://www.manton.org/tag/newlibraries">#newlibraries</a> too, so they&#8217;ll show up together with the library text posts. (Photos can be browsed over the web, but they don&#8217;t show up in the default RSS feed. The microblog posts also have <a href="http://www.manton.org/snippets.xml">their own feed</a>.)</p>
+<p>As I mention on <a href="http://timetable.manton.org/2016/02/episode-15-leap-year/">episode 15 of Timetable</a>, working out of the house in the morning helped provide some structure to the work day. I&#8217;d use the morning for writing blog posts and catching up on email, and the afternoon to focus on code. For libraries, I&#8217;m going one step further and <em>only bringing the iPad Pro with me</em>. This means that I&#8217;m using a small range of apps — Editorial, Mail, Safari, Slack — and reinforces the idea that I&#8217;m supposed to be writing.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Sticking with the big iPad Pro</title>
+		<link>http://www.manton.org/2016/03/sticking-with-the-big-ipad-pro.html</link>
+		<pubDate>Wed, 23 Mar 2016 16:05:06 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[appleevent]]></category>
+		<category><![CDATA[applepencil]]></category>
+		<category><![CDATA[ipadpro]]></category>
+		<category><![CDATA[keyboard]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2016/03/sticking-with-the-big-ipad-pro.html</guid>
+		<description><![CDATA[I’ve been conflicted about which iPad Pro to use ever since the 10-inch rumors started. If both sizes had been available right away, I think I would have bought the smaller version. Small is convenient; I still really like and use even the iPad Mini. But there was only one iPad Pro when the Apple [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I’ve been conflicted about which iPad Pro to use ever since the 10-inch rumors started. If both sizes had been available right away, I think I would have bought the smaller version. Small is convenient; I still really like and use even the iPad Mini. But there was only one iPad Pro when the Apple Pencil was introduced, so I bought that one.</p>
+<p>Luckily the 13-inch iPad Pro still has some nice benefits. More room for split-view apps, of course, but also 4 GB of RAM compared to the new iPad Pro’s 2 GB. <a href="https://www.macstories.net/linked/the-9-7-inch-ipad-pro-has-2-gb-of-ram/">Federico Viticci</a> is sticking with the big one:</p>
+<blockquote><p>
+  2 GB of RAM was one of the first things I heard about the new device yesterday, and part of the reason why <a href="https://www.macstories.net/roundups/the-9-7-inch-ipad-pro-our-complete-overview/">I’m going to stick with the 12.9-inch Pro</a>. In addition to a more comfortable iOS experience, I like knowing that I&#8217;m using the most powerful iPad hardware currently available (I don&#8217;t count the camera as essential to what I need to do on an iPad).
+</p></blockquote>
+<p>I realized this week that I was wasting time wondering which iPad is the best for me. It’s the ol&#8217; <a href="https://en.wikipedia.org/wiki/The_Paradox_of_Choice">paradox of choice</a>. So to cement the decision, I went by the Apple Store yesterday and picked up a Smart Keyboard for the 13-inch. I’ve been meaning to get one for months, and now that I have it, it makes even less sense to trade in my iPad for a different one. (The keyboard really does transform the iPad. It&#8217;s great.)</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>iPad thoughts for 2016</title>
+		<link>http://www.manton.org/2016/01/ipad-thoughts-for-2016.html</link>
+		<pubDate>Thu, 21 Jan 2016 19:42:59 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[extensions]]></category>
+		<category><![CDATA[ios9]]></category>
+		<category><![CDATA[ipad]]></category>
+		<category><![CDATA[ipadpro]]></category>
+		<category><![CDATA[pencil]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3413</guid>
+		<description><![CDATA[Over the holidays, or while on any vacation, I usually use iOS more often than my Mac. It&#8217;s easier to quickly catch up on email or fun stuff like Instagram without getting too pulled away from what matters: spending time with family and friends. So as I use iOS, I&#8217;ve been thinking about what might [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Over the holidays, or while on any vacation, I usually use iOS more often than my Mac. It&#8217;s easier to quickly catch up on email or fun stuff like Instagram without getting too pulled away from what matters: spending time with family and friends. So as I use iOS, I&#8217;ve been thinking about what might make the iPad better.</p>
+<p>Last year <a href="http://blog.jaredsinclair.com/post/133180873570/saving-the-ipad">Jared Sinclair blogged about</a> some of the problems with the iPad, with ideas for &#8220;saving&#8221; it. The most interesting of these was his suggestion of a &#8220;Gatekeeper for iOS&#8221;, where iOS apps could easily be side-loaded onto iOS without Apple&#8217;s approval:</p>
+<blockquote><p>
+  “These apps would be just as secure as apps published on the App Store. I recommend that Gatekeeper iOS apps be subject to the same API restrictions, privacy permissions, and sandboxing as apps distributed on the iOS App Store”
+</p></blockquote>
+<p>Daniel and I discussed this on <a href="http://coreint.org/207">Core Intuition episode 207</a>. We acknowledged that as great as it would be, this compromise of Gatekeeper apps being subject to API restrictions might not be possible. The whole point of Gatekeeper is to leave Apple out of the distribution process, so there would be no place to impose such restrictions except at the API level. Still, I&#8217;d welcome any kind of side-loading.</p>
+<p>Most Mac developers have wanted a Gatekeeper-like solution for iOS since the very beginning of the iPhone. Back in 2011, <a href="http://www.manton.org/2011/02/30_of_the.html">I wrote a post</a> about Apple&#8217;s 30% cut and the lack of side-loading for iOS:</p>
+<blockquote><p>
+  &#8220;Apple’s tight control over iOS has always been troubling. If there’s no way to install an app on the device without Apple’s approval, then Apple can make or break any business that builds for the platform. It’s an added risk for the thousands of tiny development shops for which the iPhone and iPad are otherwise perfect.&#8221;
+</p></blockquote>
+<p>But side-loading isn&#8217;t really holding back the iPad. What&#8217;s holding it back is the slow pace of progress in UI improvements. For example, the home screen remains virtually unchanged since iOS 3, and on the iPad Pro the classic grid of large app icons looks more like the <a href="http://apple.wikia.com/wiki/Parental_Controls">Simple Finder</a> than a way to manage and launch productivity apps.</p>
+<p>More key areas of the UI need to take inspiration from iPad multitasking. While split-view and slide-over aren&#8217;t perfect, they&#8217;re <em>something</em>. Likewise for iOS extensions, which were such a step forward that we were willing to overlook the UI clunkiness. These new features helped <a href="http://www.speirs.org/blog/2015/12/22/all-in-on-ipad-pro">Fraser Speirs switch to an iPad Pro full time</a>:</p>
+<blockquote><p>
+  &#8220;The introduction of multitasking in iOS 9 has made a significant difference to the way I work on iOS. I don’t need to rehearse the actual features here but suffice to say that I now find iOS extremely easy to get almost any task done.&#8221;
+</p></blockquote>
+<p>I&#8217;d like to see Apple experiment more. To not be afraid to try something new with the UI and ship it, as long as they still follow up and refine it.</p>
+<p>Here&#8217;s a great feature idea to take multitasking further, from <a href="http://www.512pixels.net/blog/2015/12/2016-wishlist-ios">Stephen Hackett’s iOS wishlist</a>:</p>
+<blockquote><p>
+  &#8220;I&#8217;d like Apple to work on some way to share text and images between apps that are side-by-side. If I&#8217;m working in a text editor, I&#8217;d like to send a selected portion right into Slack, without having to worry about a share extension or dropping back to copy and paste to get the job done.&#8221;
+</p></blockquote>
+<p>Nilay Patel, in a <a href="http://www.theverge.com/2015/12/28/10676272/2015-apples-year-in-beta">2015 wrap-up for The Verge</a>, wrote that Apple has been setting the groundwork for new platforms, and that this year they will have to iterate and improve on what they&#8217;ve started. He sees the iPad Pro in particular as a step forward without a clear defining feature:</p>
+<blockquote><p>
+  &#8220;There&#8217;s a chance we&#8217;ll all be using huge iPads as our primary computers one day, but to get there the iPad Pro has to do something so much better than a MacBook that all the things it does worse seem irrelevant. What is that thing?&#8221;
+</p></blockquote>
+<p>That missing &#8220;thing&#8221; is clear to me: the Apple Pencil is the best stylus that has ever been made for a device — tablet, desktop, or standalone display. It&#8217;s so good that I assumed I would sell my retina iPad Mini and use the iPad Pro exclusively.</p>
+<p>That hasn&#8217;t happened. I realized when making the choice of <a href="http://www.manton.org/2015/12/3255.html">which iPad to take downtown the other week</a> that the Mini is still my favorite size. I hope as part of the next phase to Apple&#8217;s iPad platform that the Pencil makes it down to the rest of the iPads. It&#8217;s important that developers can count on the common availability of the stylus, just as we can count on multitasking and app extensions to set the pace of UI progress for the platform.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Apple Pencil, for real</title>
+		<link>http://www.manton.org/2015/11/apple-pencil-for-real.html</link>
+		<pubDate>Mon, 30 Nov 2015 17:42:44 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[ipadpro]]></category>
+		<category><![CDATA[pencil]]></category>
+		<category><![CDATA[stylus]]></category>
+		<category><![CDATA[uitouch]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3206</guid>
+		<description><![CDATA[As we talk about on Core Intuition episode 208, I finally got an Apple Pencil. It&#8217;s great. My experience matches Gus Mueller&#8217;s, about how good the Apple Pencil is after years of using Wacom tablets and third-party iOS styluses: &#8220;I find that when using the HB Pencil in Procreate, I get something that is very, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>As we talk about on <a href="http://www.coreint.org/2015/11/episode-208-crazy-and-doomed-to-failure/">Core Intuition episode 208</a>, I finally got an Apple Pencil. It&#8217;s great. My experience matches <a href="http://shapeof.com/archives/2015/11/the_hype_is_real.html">Gus Mueller&#8217;s</a>, about how good the Apple Pencil is after years of using Wacom tablets and third-party iOS styluses:</p>
+<blockquote><p>
+  &#8220;I find that when using the HB Pencil in Procreate, I get something that is very, very close to what I feel when I&#8217;m drawing in my sketchbooks. But of course now I&#8217;ve got layers and many colors and a perfect eraser to work with. And endless pages. I love it.&#8221;
+</p></blockquote>
+<p>On the question of whether it&#8217;s a &#8220;stylus&#8221;, <a href="https://brooksreview.net/2015/11/pencil-2/">Ben Brooks sums it up</a> this way:</p>
+<blockquote><p>
+  &#8220;That’s the question I get asked a lot from people — my wife especially. Apple will tell you it is not a stylus because it is so much better than any other stylus, it clearly is something else. So, instead, I’ll tell you that it <em>is</em> very much a stylus — it just so happens to be the best stylus I have ever encountered on any device.&#8221;
+</p></blockquote>
+<p>I&#8217;ve also been improving the Apple Pencil support in an iPad app I&#8217;m working on. I haven&#8217;t completely finished reading <a href="http://www.russbishop.net/uitouchtypestylus">Russ Bishop&#8217;s article</a> on supporting the Apple Pencil, but looks like it has a bunch of additional tips in it that I&#8217;d benefit from. It covers not just the API changes to UITouch, but also gestures, coalescing, and predictive touches.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Six Colors and the iPad Pro</title>
+		<link>http://www.manton.org/2015/11/six-colors-and-the-ipad-pro.html</link>
+		<pubDate>Wed, 18 Nov 2015 04:33:58 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[ipad]]></category>
+		<category><![CDATA[ipadpro]]></category>
+		<category><![CDATA[keyboard]]></category>
+		<category><![CDATA[sixcolors]]></category>
+		<category><![CDATA[writing]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3185</guid>
+		<description><![CDATA[Jason Snell has posted his initial thoughts on using the iPad Pro: &#8220;What the past few days have taught me is that if I needed to switch from Mac to iPad, if I had a compelling reason, I could absolutely do it. I can edit podcasts, write articles, edit spreadsheets, generate charts and graphs, edit [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Jason Snell has posted <a href="https://sixcolors.com/post/2015/11/ipad-pro-new-tricks-for-old-dogs/">his initial thoughts on using the iPad Pro</a>:</p>
+<blockquote><p>
+  &#8220;What the past few days have taught me is that if I needed to switch from Mac to iPad, if I had a compelling reason, I could absolutely do it. I <a href="https://sixcolors.com/post/2015/11/editing-podcasts-on-ios-with-ferrite/">can edit podcasts</a>, write articles, edit spreadsheets, generate charts and graphs, edit photos, build web sites, transfer files via FTP, and more.&#8221;
+</p></blockquote>
+<p>I don&#8217;t think Jason got an Apple Pencil or Smart Keyboard, although maybe he&#8217;ll have one of each in time for his full review. If you&#8217;ve enjoyed reading Six Colors as much as I have over the last year, <a href="https://sixcolors.com/subscribe/">consider subscribing too</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Core Intuition 206</title>
+		<link>http://www.manton.org/2015/11/core-intuition-206.html</link>
+		<pubDate>Sat, 14 Nov 2015 15:03:25 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[ipadpro]]></category>
+		<category><![CDATA[macappstore]]></category>
+		<category><![CDATA[podcast]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3173</guid>
+		<description><![CDATA[Yesterday we published episode 206 of Core Intuition. From the show notes: &#8220;Daniel returns from Amsterdam to find Mac App Store issues abound. Manton buys an iPad Pro but has to wait for the Pencil. The two discuss the Mac App Store’s 6-year failure to evolve substantially, and dig into the emotional highs and lows [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Yesterday we published <a href="http://coreint.org/206">episode 206 of Core Intuition</a>. From the show notes:</p>
+<blockquote><p>
+  &#8220;Daniel returns from Amsterdam to find Mac App Store issues abound. Manton buys an iPad Pro but has to wait for the Pencil. The two discuss the Mac App Store’s 6-year failure to evolve substantially, and dig into the emotional highs and lows of enjoying and surviving Apple’s platform constraints.&#8221;
+</p></blockquote>
+<p>I really love how this episode turned out. It hits on several themes that have run through our show since the very first episode: a little tech news, some high-level coding talk, a bit of business analysis, and wrapped up with just how we <em>feel</em> right now about being indie developers. I hope you enjoy it.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Developing for the iPad Pro</title>
+		<link>http://www.manton.org/2015/11/developing-for-the-ipad-pro.html</link>
+		<pubDate>Fri, 13 Nov 2015 19:19:01 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[ipadpro]]></category>
+		<category><![CDATA[layout]]></category>
+		<category><![CDATA[macstories]]></category>
+		<category><![CDATA[tweetlibrary]]></category>
+		<category><![CDATA[uikit]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3171</guid>
+		<description><![CDATA[Let&#8217;s start with a quote from the MacStories review by Federico Viticci: &#8220;For developers, it&#8217;s time to be bold with their iOS apps and understand that they can be more than single-purpose utilities. There are millions of people who aren&#8217;t buying PCs anymore because mobile devices are their only computers.&#8221; I&#8217;ve been using the iPad [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Let&#8217;s start with a quote <a href="https://www.macstories.net/stories/ipad-pro-review/">from the MacStories review</a> by Federico Viticci:</p>
+<blockquote><p>
+  &#8220;For developers, it&#8217;s time to be bold with their iOS apps and understand that they can be more than single-purpose utilities. There are millions of people who aren&#8217;t buying PCs anymore because mobile devices are their only computers.&#8221;
+</p></blockquote>
+<p>I&#8217;ve been using the iPad Pro a lot in just the last two days. Apps that have taken advantage of the larger screen — and that support iPad multitasking well — are just much more useful. It&#8217;s great to have Slack or Tweetbot in the sidebar and a writing app in the main part of the screen. (Until Editorial is updated, <a href="http://sethclifford.me/2015/11/things-i-like-this-week-volume-15/">like Seth Clifford</a> I&#8217;ve switched to Byword.)</p>
+<p>As a developer, going from an iPad Mini to an iPad Pro has opened my eyes to what Federico says above. You simply can&#8217;t have a great iPad app today if it doesn&#8217;t attempt to fit well on the iPad Pro. So although <a href="http://www.manton.org/2014/11/winding-down-my-twitter-apps.html">I said</a> I would discontinue my app <a href="http://www.riverfold.com/software/tweetlibrary/">Tweet Library</a>, I&#8217;ve actually been spending some time this week to <em>update it</em> to support iPad multitasking.</p>
+<p>The key to iPad Pro support is actually less about auto layout (although that&#8217;s helpful too), and more about split views and size classes. For a modern app, this is an easy transition. But Tweet Library was written for iOS 4. Back then, UISplitViewController was extremely underpowered. I had used MGSplitViewController instead, which I&#8217;ve modified over the years to adapt to multiple screen sizes from the iPhone to the iPad. So the first step to real iPad multitasking was to rip out most of the split view code and start over with a clean foundation based on iOS 8/9 and UISplitViewController. Not exactly trivial work that I could knock out in a day, although I tried.</p>
+<p>I remain very optimistic about the iPad Pro, especially <a href="http://www.manton.org/2015/11/the-incomplete-ipad-pro.html">when the Apple Pencil is actually available</a>. From a business standpoint, it also seems like a better investment in time than either the Apple Watch or Apple TV. There are so many platforms and distractions now. If I can&#8217;t focus on a single platform, I want to at least be proactive in saving some attention for the iPad.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.332 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 17:00:41 -->

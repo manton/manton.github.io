@@ -9,7 +9,7 @@
 <html lang="en-US">
 <!--<![endif]-->
 
-<!-- Mirrored from www.manton.org/page/59 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 13 Dec 2016 22:24:40 GMT -->
+<!-- Mirrored from www.manton.org/page/59 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 13 Dec 2016 23:33:09 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
 <meta charset="UTF-8" />
@@ -81,6 +81,25 @@ img.emoji {
 		<div id="content" role="main">
 		
 										
+	<article id="post-1951" class="post-1951 post type-post status-publish format-standard hentry category-programming tag-coredata tag-fmdn tag-sqlite">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="../2010/02/i_dont_use.html" rel="bookmark">I don&#8217;t use Core Data either</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>&#8220;Brent writes a fair post&#8221;:http://inessential.com/2010/02/26/on_switching_away_from_core_data on when Core Data is great and when it&#8217;s a performance bottleneck:</p>
+<blockquote><p>&#8220;I optimized as much as I could, spent tons of time in Shark, went all multi-threaded with Core Data, switched away from my own queuing system to NSOperationQueue, optimized the XML parsing, etc. But performance and memory use on my first-generation iPod Touch (my development test device) was still not nearly good enough with a big unread count (of around 10,000 items).&#8221;</p></blockquote>
+<p>If I had been writing that post I probably wouldn&#8217;t have praised Core Data as much as he did, although admittedly because I rarely use it, and not at all in any shipping applications. Its approach always seemed slightly wrong to me.</p>
+<p>My main reason for sticking with SQL directly is that I know by coding at this lower level &mdash; with my own lightweight model objects on top of FMDB and utility methods for working with the Clipstart database &mdash; that if something is slow it&#8217;s my fault. I can fix things that are my fault. I can&#8217;t fix fundamental design problems in Apple&#8217;s code.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="../category/programming.html" rel="category tag">Programming</a> and tagged <a href="../tag/coredata.html" rel="tag">coredata</a>, <a href="../tag/fmdn.html" rel="tag">fmdn</a>, <a href="../tag/sqlite.html" rel="tag">sqlite</a> on <a href="../2010/02/i_dont_use.html" title="11:49 am" rel="bookmark"><time class="entry-date" datetime="2010-02-27T11:49:19+00:00">2010/02/27</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../author/manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
 	<article id="post-1950" class="post-1950 post type-post status-publish format-standard hentry category-technology tag-appstore tag-clipstart tag-ipad tag-iphone">
 				<header class="entry-header">
 			
@@ -396,7 +415,7 @@ img.emoji {
 				<div class="entry-content">
 			<p>Clipstart 1.0 tried to be smart about not importing videos that were already in your library, but it stopped short of actually giving you much control over whether to import duplicates or ignore them. I also felt like the window showing duplicates could be improved to provide more information about each file. At a glance you should be able to tell if Clipstart is doing the right thing.</p>
 <p>So I put a lot of effort into this for the soon-to-be-released Clipstart 1.2.4, and the result is this window:</p>
-<p><center><a href="../images/2009/duplicates_dialog.html"><img src="../images/2009/duplicates_small.html" width="400" height="532" alt="Duplicates dialog" border="0" /></a></center></p>
+<p><center><a href="../images/2009/duplicates_dialog.png"><img src="../images/2009/duplicates_small.png" width="400" height="532" alt="Duplicates dialog" border="0" /></a></center></p>
 <p>It generates a few frames of the timeline for each video (both old and new file side by side), which turns out to be an excellent way to confirm that they are indeed the same file, and also shows the original filename even after Clipstart (or the user) has renamed it. Now I can scan through the window in about 2 seconds and I&#8217;m done. Contrast with iPhoto which prompts after each video is imported, instead of at the end of the batch, and if you blindly trust it by checking &#8220;Apply to all duplicates&#8221; then you have no feedback on whether you made the right choice.</p>
 <p>The new duplicates window works with both volume-based cameras like the Flip and SD cards, as well as USB devices such as the iPhone 3GS and iPod Nano. I hope to ship version 1.2.4 soon, and there&#8217;s a &#8220;beta in the forums&#8221;:http://www.riverfold.com/forums/topic.php?id=49.</p>
 <p><em>Update:</em> As pointed out by a customer, Ignore and Keep are actually pretty confusing verbs here. I&#8217;ve changed it to &#8220;Skip Duplicates&#8221; and &#8220;Import Duplicates&#8221; for the final release.</p>
@@ -482,34 +501,6 @@ img.emoji {
 		
 		<footer class="entry-meta">
 			This entry was posted in <a href="../category/weblogs.html" rel="category tag">Weblogs</a> and tagged <a href="../tag/blog.html" rel="tag">blog</a>, <a href="../tag/design.html" rel="tag">design</a>, <a href="../tag/riverfold.html" rel="tag">riverfold</a> on <a href="../2009/11/new_blog_design.html" title="10:08 pm" rel="bookmark"><time class="entry-date" datetime="2009-11-24T22:08:20+00:00">2009/11/24</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../author/manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
-	</article><!-- #post -->
-							
-	<article id="post-1931" class="post-1931 post type-post status-publish format-standard hentry category-technology tag-airfoil tag-appstore tag-iphone tag-rogueamoeba">
-				<header class="entry-header">
-			
-						<h1 class="entry-title">
-				<a href="../2009/11/the_only_2.html" rel="bookmark">The only 2 fixes for the iPhone platform</a>
-			</h1>
-								</header><!-- .entry-header -->
-
-				<div class="entry-content">
-			<p>I let my iPhone developer account expire last week. Even though I had already stopped development on my iPhone projects, officially letting go of even the temptation to build for the iPhone platform has really helped me focus.</p>
-<p>The <a href="http://www.rogueamoeba.com/utm/2009/11/13/airfoil-speakers-touch-1-0-1-finally-ships/">Rogue Amoeba rejection for Airfoil Speakers Touch</a> has been covered on Twitter and <a href="http://daringfireball.net/2009/11/airfoil_touch_situation">at Daring Fireball</a>, but I think it&#8217;s easy to get distracted by legal technicalities and not the heart of the matter: as long as Apple is the gatekeeper, there will be bad decisions and apps that deserve to be approved will be rejected instead. For this reason the App Store cannot be fixed with incremental improvements.</p>
-<p>There are only two possible solutions:</p>
-<ul>
-<li>Accept all applications. Joe Hewitt, the developer of the Facebook application who this week also quit the App Store, <a href="http://joehewitt.com/post/innocent-until-proven-guilty/">has written well on this solution</a>.</li>
-<li>Allow applications to be installed on the phone without being listed in the App Store. Both Android and the Palm Pre <a href="http://www.techcrunch.com/2009/10/05/palm-free-apps-for-the-web-free-development-for-open-source-and-free-pres/">support this model</a>.</li>
-</ul>
-<p>There is no third or fourth solution. There is no compromise or small improvement to the review process. Better transparency or tiered support options won&#8217;t help either. Without either of the above two changes, rejections will continue because in a subjective review process there will always be bad judgement calls. Some percentage of indie developers will abandon the iPhone either because the risk is too great or based on principle alone.</p>
-<p>Let me take the second one (allow applications to be installed without being listed) because it plays directly to this Rogue Amoeba rejection. Rogue Amoeba is one of my favorite Mac companies, and Daniel Jalkut and I record <a href="http://www.coreint.org/">Core Intuition</a> using their Audio Hijack Pro app. It&#8217;s universally regarded as great software.</p>
-<p>It might surprise you to find out that Audio Hijack Pro is not listed in the <a href="http://www.apple.com/downloads/macosx/">Apple Downloads</a> site, though other Rogue Amoeba products such as Fission, Nicecast, and Airfoil are. I&#8217;m not sure Rogue Amoeba has ever spoken on the record about this, but Apple apparently doesn&#8217;t like the app and won&#8217;t list it. Maybe because you can use it to record copyrighted music? Who knows.</p>
-<p>But it doesn&#8217;t matter because being rejected from Apple Downloads doesn&#8217;t mean you can&#8217;t make Mac software! It just means you have to market the software yourself. Rogue Amoeba has to work extra hard to get the word out about the app, but their business won&#8217;t fail just because Apple doesn&#8217;t give it their blessing.</p>
-<p>This is so important for a small company. I want my software to fail because it sucks, or is buggy, or doesn&#8217;t have the right features, not because Apple can shut me down over a minor difference of opinion.</p>
-<p>There are a lot of well-intentioned suggestions for improving the App Store, but the result will always be the same until we acknowledge the root problem. The only fix is for Apple to remove itself as gatekeeper, or let us route around them.</p>
-					</div><!-- .entry-content -->
-		
-		<footer class="entry-meta">
-			This entry was posted in <a href="../category/technology.html" rel="category tag">Technology</a> and tagged <a href="../tag/airfoil.html" rel="tag">airfoil</a>, <a href="../tag/appstore.html" rel="tag">appstore</a>, <a href="../tag/iphone.html" rel="tag">iphone</a>, <a href="../tag/rogueamoeba.html" rel="tag">rogueamoeba</a> on <a href="../2009/11/the_only_2.html" title="2:07 pm" rel="bookmark"><time class="entry-date" datetime="2009-11-13T14:07:11+00:00">2009/11/13</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../author/manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
 	</article><!-- #post -->
 			
 					<nav id="nav-below" class="navigation" role="navigation">
@@ -751,7 +742,7 @@ img.emoji {
 	</footer><!-- #colophon -->
 </div><!-- #page -->
 
-<script type='text/javascript' src='../wp-content/themes/twentytwelve/js/navigationa462.html?ver=20140318'></script>
+<script type='text/javascript' src='../wp-content/themes/twentytwelve/js/navigationa462.js?ver=20140318'></script>
 <script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201650'></script>
 <script type='text/javascript' src='../wp-includes/js/wp-embed.min1c9b.js?ver=4.6.1'></script>
 <script type='text/javascript' src='http://stats.wp.com/e-201650.js' async defer></script>
@@ -763,9 +754,9 @@ img.emoji {
 
 </body>
 
-<!-- Mirrored from www.manton.org/page/59 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 13 Dec 2016 22:24:40 GMT -->
+<!-- Mirrored from www.manton.org/page/59 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 13 Dec 2016 23:33:09 GMT -->
 </html>
-<!-- Dynamic page generated in 0.435 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-12-13 16:24:38 -->
+<!-- Dynamic page generated in 0.422 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 17:33:09 -->
 
 <!-- super cache -->

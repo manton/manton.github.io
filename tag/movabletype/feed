@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>movabletype &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/movabletype/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:36:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Thank you Movable Type</title>
+		<link>http://www.manton.org/2014/09/thank-you-movable-type.html</link>
+		<pubDate>Wed, 03 Sep 2014 20:42:15 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[movabletype]]></category>
+		<category><![CDATA[radio]]></category>
+		<category><![CDATA[rands]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2200.html</guid>
+		<description><![CDATA[10 years ago I switched this blog from Radio Userland to Movable Type. Looking back, it&#8217;s incredible how mature the software was at the time that it could last this long. I didn&#8217;t stay current with updates; the version I was running was ancient by any standard. I&#8217;m planning some new blog-related experiments soon, so [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.manton.org/2004/03/thank_you_radio.html">10 years ago</a> I switched this blog from Radio Userland to Movable Type. Looking back, it&#8217;s incredible how mature the software was at the time that it could last this long. I didn&#8217;t stay current with updates; the version I was running was ancient by any standard.</p>
+<p>I&#8217;m planning some new blog-related experiments soon, so it was time to migrate to a new blogging app. While I still prefer static publishing, after evaluating a bunch of options I ended up going with WordPress. I don&#8217;t love it, but it has one feature that is more important than anything else: I&#8217;m fairly confident it will be around and well-supported 10 years from now. <a href="http://randsinrepose.com/archives/with-great-joy/">Rands recently</a> made a similar choice.</p>
+<p>I preserved every blog post URL from the previous version of the site so that links don&#8217;t break. This wasn&#8217;t trivial. For a time it had me lost into the darkness of writing WordPress plug-ins, which didn&#8217;t work anyway, before finally coming to my senses and writing a script to post-process all the Movable Type titles into custom slugs.</p>
+<p>The RSS feed is also the same, but not the RSS item GUIDs. This means you&#8217;ll probably have a one-time &#8220;mark all as read&#8221; in your favorite news reader. Apologies, but it was either that or never ship the new site.</p>
+<p>There&#8217;s a little bit of cleanup and design work still to do. The site already looks much better on mobile devices, though. I&#8217;m excited to get back into regular blogging.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>File format legacy</title>
+		<link>http://www.manton.org/2012/07/file_format_legacy.html</link>
+		<pubDate>Fri, 27 Jul 2012 14:26:50 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[atom]]></category>
+		<category><![CDATA[blogger]]></category>
+		<category><![CDATA[movabletype]]></category>
+		<category><![CDATA[rss]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2012/07/file_format_legacy.html</guid>
+		<description><![CDATA[Last year I had to migrate the news blog section of the Staple! site from an ancient version of Movable Type (version 2.x) to Blogger. Even though Blogger has recently dropped features and seems mostly deprecated in favor of Google+, for this site there were a ton of existing users on Blogger. Upgrading just made [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Last year I had to migrate the news blog section of the <a href="http://www.staple-austin.org/">Staple! site</a> from an ancient version of Movable Type (version 2.x) to Blogger. Even though Blogger has recently dropped features and seems mostly deprecated in favor of Google+, for this site there were a ton of existing users on Blogger. Upgrading just made sense.</p>
+<p>However, what a file format mess. Export in Movable Type&#8217;s custom text format; import in Blogger&#8217;s Atom format. So first step is to find a service that&#8217;ll convert between the two, then manually fix up usernames so it imports properly. I exported, tweaked, and imported this file at least a dozen times before getting it right.</p>
+<p>I was so frustrated because this wasn&#8217;t just accidental bugs. Developers made conscious choices that led us to this compatibility dead-end. They <a href="http://www.flickr.com/photos/kellan/7354863752/in/photostream">bet against Dave Winer and lost</a> at a pivotal time in the development of blogging.</p>
+<p>We had a format that was perfect for both blog syndication and as an interchange format between systems: RSS. Instead, some developers criticized RSS, then proceeded to create new products that have not been well cared for.</p>
+<p>That is now part of their legacy. 10 years after blogging went mainstream, the end result of reinventing the wheel isn&#8217;t better software, it&#8217;s user frustration trying to get anything to work together.</p>
+<p>This lesson keeps playing out, as if we&#8217;re doomed to repeat it with each new generation of file formats. Here&#8217;s this week&#8217;s post from Eran Hammer <a href="http://hueniverse.com/2012/07/oauth-2-0-and-the-road-to-hell/">declaring OAuth 2.0 a failed format</a>:</p>
+<blockquote><p>
+  &#8220;The web does not need yet another security framework. It needs simple, well-defined, and narrowly suited protocols that will lead to improved security and increased interoperability. OAuth 2.0 fails to accomplish anything meaningful over the protocol it seeks to replace.&#8221;
+</p></blockquote>
+<p>If you have a choice, always pick the old boring format that works above the new hotness that is only theoretically better.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.311 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 17:17:57 -->

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>microsoft &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/microsoft/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:36:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>New CEO and Windows Azure</title>
+		<link>http://www.manton.org/2014/02/new_ceo_and.html</link>
+		<pubDate>Tue, 04 Feb 2014 22:09:53 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[amazon]]></category>
+		<category><![CDATA[azure]]></category>
+		<category><![CDATA[ceo]]></category>
+		<category><![CDATA[microsoft]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/02/new_ceo_and.html</guid>
+		<description><![CDATA[While writing about Microsoft’s new CEO, Brent Simmons makes the case for Azure as important competition for Amazon: “My worry about the future is an Amazon monopoly on cloud services. Amazon’s services are fantastic, and they’ve changed how people make web apps. But they should not be the only game in town.” I agree. When [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://inessential.com/2014/02/04/azure_takes_over">While writing about Microsoft’s new CEO</a>, Brent Simmons makes the case for Azure as important competition for Amazon:</p>
+<blockquote><p>
+  “My worry about the future is an <em>Amazon</em> monopoly on cloud services. Amazon’s services are fantastic, and they’ve changed how people make web apps. But they should not be the only game in town.”
+</p></blockquote>
+<p>I agree. When AWS goes down now, it seems like half the internet doesn’t work. Except for a few lingering DNS entries, I moved everything from Amazon to Linode last year in a cost-cutting attempt. But even better, I’d like to run some of my services across multiple cloud providers. That’s difficult to manage today as a one-man shop.</p>
+<p>(Brent’s post is also worth reading just for the WOES acronym.)</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Macworld guest essays</title>
+		<link>http://www.manton.org/2013/04/macworld_guest_essays.html</link>
+		<pubDate>Mon, 15 Apr 2013 15:18:27 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[brent]]></category>
+		<category><![CDATA[cabel]]></category>
+		<category><![CDATA[macworld]]></category>
+		<category><![CDATA[microsoft]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/04/macworld_guest_essays.html</guid>
+		<description><![CDATA[There were a couple special essays on Macworld recently — guest posts from the developer community. First Brent Simmons, who argues that Microsoft isn’t the enemy anymore: “The threat to Macintosh was not that Windows machines were cheaper, or that people had bad taste—the biggest reason was that they worked with everything. That was why [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>There were a couple special essays on Macworld recently — guest posts from the developer community. <a href="http://www.macworld.com/article/2031592/apple-fans-microsoft-is-no-longer-the-enemy.html">First Brent Simmons</a>, who argues that Microsoft isn’t the enemy anymore:</p>
+<blockquote><p>
+  “The threat to Macintosh was not that Windows machines were cheaper, or that people had bad taste—the biggest reason was that they worked with everything. That was why Apple asked Microsoft in 1997 to continue developing Office for Macs, so we could at least say you could run Word and Excel on Macs. […] But, these days, <em>everything</em> works with everything.”
+</p></blockquote>
+<p>And <a href="http://www.macworld.com/article/2033728/apple-unfortunately-no-longer-the-underdog.html">followed by Cabel Sasser</a>, with a similar theme:</p>
+<blockquote><p>
+  “I sometimes very awkwardly find myself rooting for Microsoft, Nokia—anybody—to put up a good fight and keep that fire burning under Apple’s collective behind. The smartest, most incredible people work in Cupertino, and their capabilities are boundless and their drive is endless, but sometimes—especially as a developer—you get the feeling that Apple doesn’t really need you, and will do just fine without you, thank you very much. I want Apple to need us.”
+</p></blockquote>
+<p>Both great essays.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Essays about the web</title>
+		<link>http://www.manton.org/2007/04/essays_about_the.html</link>
+		<pubDate>Mon, 09 Apr 2007 06:20:38 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[ajax]]></category>
+		<category><![CDATA[backpack]]></category>
+		<category><![CDATA[flickr]]></category>
+		<category><![CDATA[ical]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[ui]]></category>
+		<category><![CDATA[web]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/04/essays_about_the.html</guid>
+		<description><![CDATA[Paul Graham thinks &#8220;Microsoft and desktop apps are dead&#8221;:http://www.paulgraham.com/microsoft.html: &#8220;Gmail also showed how much you could do with web-based software, if you took advantage of what later came to be called &#8216;Ajax.&#8217; And that was the second cause of Microsoft&#8217;s death: everyone can see the desktop is over. It now seems inevitable that applications will [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Paul Graham thinks &#8220;Microsoft and desktop apps are dead&#8221;:http://www.paulgraham.com/microsoft.html:</p>
+<blockquote><p>&#8220;Gmail also showed how much you could do with web-based software, if you took advantage of what later came to be called &#8216;Ajax.&#8217; And that was the second cause of Microsoft&#8217;s death: everyone can see the desktop is over. It now seems inevitable that applications will live on the web &#8212; not just email, but everything, right up to Photoshop. Even Microsoft sees that now.&#8221;</p></blockquote>
+<p>He&#8217;s definitely off the mark with that statement. Luckily &#8220;Martin Pilkington has a counter-rant&#8221;:http://pilky.mcubedsw.com/index.php?/site/the_desktop_is_here_to_stay/:</p>
+<blockquote><p>&#8220;There seems to be a slightly delusional section of web developers who seem to believe that in a few years time all of our applications and data will be online, while our computers run little more than a browser. Of course this is complete bull.&#8221;</p></blockquote>
+<p>As someone who builds both desktop software and web apps, I&#8217;m very much interested in what happens in the middle. Next generation Mac software in particular can mix local HTML interfaces, web services, and syncing with a traditional rich UI to build something that is the best of both offline and online worlds.</p>
+<p>I had an interesting conversation with &#8220;Willie Abrams&#8221;:http://willie.tumblr.com/ the other day about why the Flickr UI is better than iPhoto, even if you take away all the social parts of Flickr. The reason is that Flickr introduces extra layouts specific to certain types of activities, such as the excellent calendar view for archives. Another example of a web app UI innovation is the Backpack reminder UI that &#8220;John Gruber recently wrote about&#8221;:http://daringfireball.net/2007/03/deal_with_it.</p>
+<p>Web apps are usually able to iterate on features and interfaces much quicker than desktop software, but that doesn&#8217;t make web apps inherently better. Put another way, iCal sucks because it hasn&#8217;t been seriously updated in 5 years.</p>
+<p>I have other thoughts on this topic, but already I&#8217;ve extended this blog post 3 paragraphs more than intended.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.242 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 17:16:07 -->

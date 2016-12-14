@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>drm &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/drm/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:36:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Amazon Echo</title>
+		<link>http://www.manton.org/2015/06/amazon-echo.html</link>
+		<pubDate>Wed, 17 Jun 2015 00:07:07 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[amazon]]></category>
+		<category><![CDATA[cloud]]></category>
+		<category><![CDATA[drm]]></category>
+		<category><![CDATA[echo]]></category>
+		<category><![CDATA[music]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2721</guid>
+		<description><![CDATA[Dan Moren wrote on Six Colors last month about the Amazon Echo. On the voice recognition working so well: “The Echo’s hardware deserves a full share of that credit. The microphones on this device are impressive; even when I’m several rooms away, Alexa rarely mishears me. I’ve triggered it from my kitchen and from my [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://sixcolors.com/post/2015/05/is-there-an-echo-in-here/">Dan Moren wrote on Six Colors</a> last month about the Amazon Echo. On the voice recognition working so well:</p>
+<blockquote><p>
+  “The Echo’s hardware deserves a full share of that credit. The microphones on this device are impressive; even when I’m several rooms away, Alexa rarely mishears me. I’ve triggered it from my kitchen and from my hallway, the latter of which doesn’t even have line of sight to the Echo.”
+</p></blockquote>
+<p>I have one too. I pre-ordered it on a whim and then promptly forgot about it for 2 months. Then seemingly the next thing I knew it had showed up at my house. If I had remembered about the order, I might have cancelled it, but now I’m glad I didn’t. The Amazon Echo is great.</p>
+<p>I remarked <a href="http://www.coreint.org/2015/05/episode-184-some-weeks-are-crazy/">on Core Intuition</a> that it&#8217;s like a task-specific Siri, with better accuracy because there are limited things you want to ask it. Play some music, set a timer, measurement conversions. It can&#8217;t do everything, but what it can do is particularly useful in the kitchen or living room. Plus it&#8217;s probably the best wireless speaker we&#8217;ve ever owned.</p>
+<p>Because it&#8217;s so effortless to play music now, I&#8217;ve uploaded some tracks from iTunes to the Amazon cloud via their music uploader. (Remember when we wanted DRM-free music? This is a concrete reason why.) And since we have an Amazon Prime membership, I&#8217;ve discovered that we have a significant amount of good music in the cloud already.</p>
+<p>I&#8217;m looking forward to Apple Music and will probably subscribe, but I&#8217;ve realized after having the Echo for a while that Amazon is quietly sitting on something pretty special. They should do more with music — I didn’t realize until now that they even had a dedicated iOS music app — and more to build and promote their service. Music is in their &#8220;DNA&#8221; just as much as it&#8217;s in Apple&#8217;s. After all, Amazon&#8217;s 2nd offering after books was music CDs.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Apple announcements and Flash video</title>
+		<link>http://www.manton.org/2007/05/apple_announcements_and.html</link>
+		<pubDate>Thu, 31 May 2007 04:09:33 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[appletv]]></category>
+		<category><![CDATA[drm]]></category>
+		<category><![CDATA[itunes]]></category>
+		<category><![CDATA[quicktime]]></category>
+		<category><![CDATA[surface]]></category>
+		<category><![CDATA[wiitransfer]]></category>
+		<category><![CDATA[youtube]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/05/apple_announcements_and.html</guid>
+		<description><![CDATA[If you are wondering why I haven&#8217;t posted here in over a month, it&#8217;s because I&#8217;ve been getting my writing fix &#8220;over on Twitter&#8221;:http://twitter.com/manton, in 140 characters or less a couple times a day. Still trying to figure out the best way to integrate that experience into this site. I also have the usual queue [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>If you are wondering why I haven&#8217;t posted here in over a month, it&#8217;s because I&#8217;ve been getting my writing fix &#8220;over on Twitter&#8221;:http://twitter.com/manton, in 140 characters or less a couple times a day. Still trying to figure out the best way to integrate that experience into this site. I also have the usual queue of blog post drafts that will roll out here when I have time.</p>
+<p>Meanwhile&#8230;</p>
+<p>A bunch of really interesting things hit today. Microsoft Surface (can&#8217;t wait for the multi-touch iPhone); iTunes Plus (already upgraded my songs); and YouTube on the Apple TV (welcome if unexpected).</p>
+<p>I have actually been dreading the iTunes Plus announcement because I am behind in &#8220;Wii Transfer&#8221;:http://www.riverfold.com/software/wiitransfer/ development, and I had hoped to coincide version 2.3 with the DRM-free AAC files on iTunes. It should be ready for a private beta in a few days. (Want in on the beta? Just email <a href="mailto:support@riverfold.com">support@riverfold.com</a>.)</p>
+<p>But it&#8217;s the YouTube feature that is really fascinating to me. I&#8217;ve long thought that Apple has all but given up on web video, somehow content to let Flash dominate. The Apple movie trailers site as the last pocket of QuickTime content isn&#8217;t quite good enough. Apple could have created something on the scale of YouTube but hooked into the iApps, .Mac, and built on QuickTime. Maybe even as an extension of the iTunes Store around video podcasts.</p>
+<p>(The great thing about podcasts is that they are decentralized, but it makes it a little more difficult when you are trying to build a community. The iTunes Store also does a great job for discovery but nothing to help content creators. There is no one-step upload.)</p>
+<p>The Apple TV announcement is weird because while on the surface it looks like a confirmation that Flash video wins, it might just be the first sign of Apple fighting back. Every video on YouTube will get the H.264 treatment. The web video revolution (of sorts) has been great, but the pieces are coming together for truly useful broadband video. Perhaps YouTube sees that they could be a major player not just for silly webcam videos but as an infrastructure for high quality distribution, with content in some categories that will rival the networks.</p>
+<p>That future is especially believable the first time you sync up near-HD video podcasts to the Apple TV. It&#8217;s a great experience and definitely exceeded my expectations.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Goodbye iTMS</title>
+		<link>http://www.manton.org/2007/01/goodbye_itms.html</link>
+		<pubDate>Thu, 04 Jan 2007 05:36:45 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Music]]></category>
+		<category><![CDATA[drm]]></category>
+		<category><![CDATA[itunes]]></category>
+		<category><![CDATA[mp3]]></category>
+		<category><![CDATA[wiitransfer]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/01/goodbye_itms.html</guid>
+		<description><![CDATA[When I started on the &#8220;music sharing feature&#8221;:http://www.manton.org/2007/01/holiday_hacking.html in the upcoming 2.0 release of Wii Transfer, I knew it couldn&#8217;t support protected songs from the iTunes Music Store. Still, it was disappointing when I started using it and such a big chunk of my favorite music was inaccessible. The only DRM problem I&#8217;ve ever run [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>When I started on the &#8220;music sharing feature&#8221;:http://www.manton.org/2007/01/holiday_hacking.html in the upcoming 2.0 release of Wii Transfer, I knew it couldn&#8217;t support protected songs from the iTunes Music Store. Still, it was disappointing when I started using it and such a big chunk of my favorite music was inaccessible. The only DRM problem I&#8217;ve ever run into before now is forgetting to deactivate old machines and hitting the 5-machine limit, but that&#8217;s easily solved, and I have been quick to defend iTMS and promote its convenience to others.</p>
+<p>No longer. Overnight my music library has become much less valuable, just because I chose to use it in a different way. Almost all the music I&#8217;ve bought in the last couple of years is from iTunes. I created two smart playlists, one to show protected and one not. Apparently of the 5000 songs on this computer, 500 of them are from iTunes. <em>10%.</em></p>
+<p>I&#8217;m not sure what is going to replace my use of iTunes yet, but for now I think I&#8217;ll lean on Amazon Prime&#8217;s free 2-day shipping and just order and rip CDs to good old fashioned high-bitrate MP3s. Too bad, because I do love the iTunes experience. Just gotta keep repeating to myself: text files, JPEGs, and MP3s are forever. Everything else is suspect.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Reading, ASCII, and PDF</title>
+		<link>http://www.manton.org/2004/03/reading_ascii_and.html</link>
+		<pubDate>Thu, 11 Mar 2004 02:46:26 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[cocoa]]></category>
+		<category><![CDATA[drm]]></category>
+		<category><![CDATA[est]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2004/03/reading_ascii_and.html</guid>
+		<description><![CDATA[I started reading the electronic version of Eastern Standard Tribe. Hoping to get through some of it by SXSW and pick up a hard-copy there. I&#8217;ve also been reviewing my Cocoa books, since I&#8217;ve been porting the user interface of an application to Cocoa (still lots of Carbon and cross-platform C++ underneath). More on all [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I started reading the electronic version of <a href="http://www.craphound.com/est/">Eastern Standard Tribe</a>. Hoping to get through some of it by SXSW and pick up a hard-copy there. I&#8217;ve also been reviewing my Cocoa books, since I&#8217;ve been porting the user interface of an application to Cocoa (still lots of Carbon and cross-platform C++ underneath). More on all that some other time.</p>
+<p>For now, here are two somewhat contrasting quotes from the authors of those books, on file format standards:</p>
+<p><a href="http://x180.net/2004/01/17.html#banksandpdf">James Duncan Davidson</a>: &#8220;I&#8217;m pretty sure that I&#8217;ll always be able to open a PDF file.&#8221;</p>
+<p><a href="http://boingboing.net/2004_01_01_archive.html#107311966175124389">Cory Doctorow</a>: &#8220;ASCII is the new PDF!&#8221;</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.253 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 17:08:14 -->

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>linkblogging &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/linkblogging/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:36:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>The evolution of linkblogging</title>
+		<link>http://www.manton.org/2016/03/the-evolution-of-linkblogging.html</link>
+		<pubDate>Thu, 03 Mar 2016 17:54:53 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[linkblogging]]></category>
+		<category><![CDATA[microblogging]]></category>
+		<category><![CDATA[rss]]></category>
+		<category><![CDATA[snippets]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3616</guid>
+		<description><![CDATA[In my posts about defining what makes a microblog post and guidelines for RSS, I talked a little about links but didn&#8217;t explore linkblogging. While many blog authors post primarily long essays, shorter link blogs are a common approach for bloggers who want to post new content several times a day. Essentially two types of [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>In my posts about <a href="http://www.manton.org/2014/09/defining-a-microblog-post.html">defining what makes a microblog post</a> and <a href="http://www.manton.org/2015/11/rss-for-microblogs.html">guidelines for RSS</a>, I talked a little about links but didn&#8217;t explore linkblogging. While many blog authors post primarily long essays, shorter link blogs are a common approach for bloggers who want to post new content several times a day.</p>
+<p>Essentially two types of link blogs have evolved since the early days of blogging. The most traditional link blog can be seen in <a href="http://scripting.com/#linksTab">Dave Winer&#8217;s posts</a> (click on the Links tab). These are links with a very short commentary. Many tweets are like this. In a way, this format is the purest form of microblogging.</p>
+<p>The second type of link blog starts to fall outside the limits of microblogging. Instead of just including a URL, authors use a quote from the linked material as the foundation for the post. The majority of <a href="http://daringfireball.net/">Daring Fireball</a> posts adopt this format. While John Gruber is known for his full essays, those longer posts are infrequent today. He keeps his site active by linking to other interesting essays and tacking on his own brief opinion.</p>
+<p>Daring Fireball has become so successful that Gruber&#8217;s approach to linkblogging has been copied by many other sites. <a href="http://macstories.net/">MacStories</a>, <a href="http://sixcolors.com/">Six Colors</a>, <a href="http://onefoottsunami.com/">One Foot Tsunami</a>, <a href="http://verynicewebsite.net/">John Moltz&#8217;s Very Nice Web Site</a>, and <a href="http://marco.org/">Marco Arment&#8217;s blog</a> are just a handful that follow this pattern. All of these sites post the occasional essay, but most blog posts link away to an external site in the RSS item, not back to their own site.</p>
+<p>At a technical level, this difference can best be seen in the RSS feed&#8217;s &lt;link&gt; and &lt;guid&gt; elements. These elements will contain URLs that either link back to the main site, or link away to an external site.</p>
+<p>Here is where this evolving approach to link blogs starts to break down. Let&#8217;s take an example from Six Colors, one of my favorite sites. (I recommend <a href="https://sixcolors.com/subscribe/">subscribing</a>. The members-only secret podcast with Jason and Dan Moren is really fun, and the email magazine is great too.)</p>
+<p>In a <a href="http://sixcolors.com/link/2015/09/hulu-unlocks-the-albatross/">link post about Hulu&#8217;s pricing</a>, Jason Snell actually writes <em>4 paragraphs</em> of commentary (plus a footnote). This is more like an essay than a short link post that points to the external site.</p>
+<p>Another example is when <a href="https://www.macstories.net/linked/twitter-launches-moments/">MacStories linked to Twitter&#8217;s launch of Moments</a>. A few paragraphs of quoted text, <em>5 paragraphs</em> of MacStories commentary. The commentary is as important or even more important to read than whatever Federico is linking to.</p>
+<p>Sometimes we read sites like MacStories, Six Colors, or Daring Fireball more for the commentary than for what is being linked to. But when using an RSS reader, there is too much confusion about where an item&#8217;s link goes when clicked if the site&#8217;s feed isn&#8217;t consistent about linking everything back to its own site.</p>
+<p>And in fact Jason Snell acknowledges this problem by offering two separate RSS feeds: the default one, with a mix of links back to Six Colors for essays and pointed elsewhere for link posts; and another feed with everything linking back to Six Colors, where the commentary lives. He also attempts to minimize confusion on his own site by giving each type of post its own icon in the site design.</p>
+<p>The less clear-cut the distinction between essays and link posts, the more confusion we introduce to readers. In some ways, this mixed approach really <em>only</em> works for Daring Fireball, because his feature essays are so long, and so obviously different in format to the rest of the link posts.</p>
+<p>Good conventions for blogging have been at a standstill for years. While part of the appeal of indie blogging is there&#8217;s no one &#8220;right&#8221; way to do it, and authors can have a strong voice and design that isn&#8217;t controlled by a platform vendor, we must accept that Twitter has taken off because it has a great user experience compared to blogs. It’s effortless to tweet and the timeline is consistent. For blogging to improve and thrive, it should have just as straightforward a user experience as social networks wherever possible.</p>
+<p>Luckily, RSS already has everything we need for clients to visually distinguish between link posts and regular ones. If the &lt;link&gt; element points to a domain other than the one for the site, it’s probably a link post. If the &lt;link&gt; and site domain match, it’s a full post.</p>
+<p>I’ve adopted this in my new microblogging platform by exposing the domain in the UI itself, at the end of the title or microblog post whenever it’s a link post. If it’s a full post, the link isn’t added. And for either type of post, the timestamp links back to whatever was in the &lt;link&gt;.</p>
+<p>Here’s a screenshot from one of Dave’s posts. Note that the link was <em>not</em> in the RSS text. It was added by my app automatically:</p>
+<p><center><img src="http://www.manton.org/images/2016/snippets_linkblog.png" width="550" height="105" alt="linkblog example" border="0" /></center></p>
+<p>This has been a long post, but it boils down to two simple recommendations:</p>
+<ul>
+<li>If you’re a blog author and you’re adding any significant commentary, the RSS feed should point back to your site.</li>
+<li>If you’re an RSS client developer, the difference between link posts and full posts should be exposed in the UI.</li>
+</ul>
+<p>I believe that adopting these will bring more consistency to blogging. Users won’t need to hover over links, or guess what will happen on a click or tap. It’s a small change that will make reading blogs a little better.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Linkblogging and the open web</title>
+		<link>http://www.manton.org/2015/07/linkblogging-and-the-open-web.html</link>
+		<pubDate>Fri, 03 Jul 2015 15:27:57 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[circa]]></category>
+		<category><![CDATA[linkblogging]]></category>
+		<category><![CDATA[microblogging]]></category>
+		<category><![CDATA[snippets]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2810</guid>
+		<description><![CDATA[Dave Winer writes about Circa and their fundamental mistake of not embracing the open web with easy linking: “Linkblogging is a real thing, and there are people who are good at it. But if there&#8217;s no URL for each story, you can&#8217;t linkblog it. So they didn&#8217;t grow fast enough. I think this is almost [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://scripting.com/2015/07/03/tooMuchLinearThinkingInNews.html">Dave Winer writes about Circa</a> and their fundamental mistake of not embracing the open web with easy linking:</p>
+<blockquote><p>
+  “Linkblogging is a real thing, and there are people who are good at it. But if there&#8217;s no URL for each story, you can&#8217;t linkblog it. So they didn&#8217;t grow fast enough. I think this is almost mathematical. No one, going forward, should try this. Each story must have a way to get to it through a Web address.”
+</p></blockquote>
+<p>We can be cynical about what the “open web” means, thinking it’s just marketing or spin. But it’s real and Dave shows how obvious it is to understand. It doesn’t matter if a web site or iPhone app is based around web technologies like HTTP and HTML. If it can’t be <em>linked to</em> or there’s no web API, it isn’t part of the open web.</p>
+<p>Linkblogging is a special form of microblogging, and a significant part of Twitter is actually linkblogging. Tools that understand linkblogging will typically reduce the friction of writing by prompting for a quick note to go with a URL that’s already on the clipboard, for example. I don’t usually blog in this style, but I made sure these linkblog posts look great in the platform I’m working on.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.249 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 16:57:54 -->

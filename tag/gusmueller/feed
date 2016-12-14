@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>gusmueller &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/gusmueller/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:36:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Go without food</title>
+		<link>http://www.manton.org/2009/08/go_without_food.html</link>
+		<pubDate>Sun, 30 Aug 2009 14:53:24 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[conceptart]]></category>
+		<category><![CDATA[gusmueller]]></category>
+		<category><![CDATA[sacrifice]]></category>
+		<category><![CDATA[sideprojects]]></category>
+		<category><![CDATA[vaynerchuk]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2009/08/go_without_food.html</guid>
+		<description><![CDATA[For the last couple of years, I&#8217;ve been squeezing work out of every free moment I have to build Clipstart and Wii Transfer, and every six months or so I&#8217;m just completely burned out and need to take a break. I was in North Carolina for work meetings last week and after coming back I [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>For the last couple of years, I&#8217;ve been squeezing work out of every free moment I have to build <a href="http://www.riverfold.com/software/clipstart/">Clipstart</a> and <a href="http://www.riverfold.com/software/wiitransfer/">Wii Transfer</a>, and every six months or so I&#8217;m just completely burned out and need to take a break. I was in North Carolina for work meetings last week and after coming back I took the opportunity to sleep 10 hours a night for 3 days. I seriously needed rest and to spend some quality time with family away from the computer.</p>
+<p>And now I&#8217;m making some coffee and ready to get back to work.</p>
+<p>A lot of people ask me how I&#8217;ve been able to dedicate time to side projects when my life is already pretty full with a regular job and kids. The truth is that most of us have small pockets of free time, and it&#8217;s just about how we prioritize and use that time.</p>
+<p><a href="http://gusmueller.com/blog/archives/2008/04/clay_shirky:_gin__television__and_social_surplus.html">Gus Mueller says</a> that the secret to building VoodooPad 1.0 was simple: he didn&#8217;t own a television. Gary Vaynerchuk, in his upcoming book <a href="http://crushitbook.com/">Crush It</a>, puts it this way: &#8220;Someone with less passion and talent and poorer content can totally beat you if they&#8217;re willing to work longer and harder than you are.&#8221;</p>
+<p>So it&#8217;s about setting priorities and pushing yourself. Pretty straightforward. But recently I ran across a forum post on the community site ConceptArt.org that took this even further &mdash; that success comes not just from priorities and working hard but also with real sacrifice. The members of ConceptArt are passionate about improving their art and helping others, and there&#8217;s an obvious pride there that comes from the shared challenge of becoming a better artist.</p>
+<p>In a comment on attending a $95 painting workshop, <a href="http://www.conceptart.org/forums/showthread.php?t=167390">the first commenter said</a>:</p>
+<blockquote><p>&#8220;I honestly don&#8217;t care if I have to go a week with practically no food to be able to afford it.&#8221;</p></blockquote>
+<p>There is something in that extreme comment that just nails it. Go without food? We&#8217;re still having trouble with the trivial sacrifice of not watching TV over here!</p>
+<p>The advice I&#8217;ll give to myself and to anyone else who needs inspiration on finding time: rewrite that comment for yourself, replacing &#8220;week&#8221;, &#8220;food&#8221;, and &#8220;afford it&#8221; with what your sacrifice is going to be. Examples:</p>
+<blockquote><p>&#8220;I honestly don&#8217;t care if I have to go for a year without watching TV to be able to build my product.&#8221;</p></blockquote>
+<blockquote><p>&#8220;I honestly don&#8217;t care if I have to go for a week without sleeping more than 5 hours a night to be able to ship on time.&#8221;</p></blockquote>
+<blockquote><p>&#8220;I honestly don&#8217;t care if I have to go for a month without reading blogs to be able to focus on my own ideas.&#8221;</p></blockquote>
+<p>New projects aren&#8217;t going to magically finish themselves. If we&#8217;ve been tinkering with a project for a year and it seems like it&#8217;s never going to be done, the reality is that it probably <em>cannot be finished without making a scheduling change</em>. Even a tiny sacrifice to open up an extra hour a day might be enough to make it happen.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.252 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 17:20:10 -->

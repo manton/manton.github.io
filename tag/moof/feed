@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>moof &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/moof/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:36:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>WWDC 2007 in one post</title>
+		<link>http://www.manton.org/2007/06/wwdc_2007_in.html</link>
+		<pubDate>Mon, 18 Jun 2007 12:50:09 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[leopard]]></category>
+		<category><![CDATA[moof]]></category>
+		<category><![CDATA[parties]]></category>
+		<category><![CDATA[tuaw]]></category>
+		<category><![CDATA[wwdc]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/06/wwdc_2007_in.html</guid>
+		<description><![CDATA[Along with most of our house, my office is packed up and ready to move this week. The photo to the right is of one of the handful of items in a box labeled &#8220;Manton&#8217;s desk,&#8221; or, if someone else had her way, &#8220;Random junk Manton saves to remember the past but which should really [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img src="http://www.manton.org/images/2007/moof_beer.jpg" alt="Moof" width="150" height="265" border="0" align="right" hspace="5" vspace="6" style="border: 1px solid gray;" /> Along with most of our house, my office is packed up and ready to move this week. The photo to the right is of one of the handful of items in a box labeled &#8220;Manton&#8217;s desk,&#8221; or, if someone else had her way, &#8220;Random junk Manton saves to remember the past but which should really be in the trash can.&#8221;</p>
+<p>It&#8217;s unopened Moof beer from WWDC 1996, my first WWDC. At 20 I was too young to drink, but I probably would have saved it anyway. That was back when Apple gave you cool stuff and not just another cheap laptop bag.</p>
+<p>This year&#8217;s WWDC will probably go down as one of my favorites. The keynote was a bit dull, but it was offset by the reality that Leopard is a mature and usable system. I have been running all my primary apps off of it since last week, including Mail.app, NetNewsWire 3.0, and Xcode.</p>
+<p>I couldn&#8217;t place the feeling at the time, but now I realize that last week&#8217;s sessions were, in a way, relaxing. There was no sense of urgency. Most of the sessions I attended were practical, full of hands-on advice for preparing for Leopard and many applicable to Tiger development as well. I got a lot out of the week, and when I decided to skip out on Friday it didn&#8217;t feel like the world would come crashing down because of it.</p>
+<p><img src="http://www.manton.org/images/2007/james_morrison.jpg" alt="James Morrison" width="300" height="226" hspace="8" vspace="5" border="0" align="left" style="border: 1px solid gray;" /> Other highlights of WWDC 2007 were away from the sessions: walking Chinatown with &#8220;Willie&#8221;:http://willie.tumblr.com/ on Sunday in search of the illusive bakery item; hitting the &#8220;SF Mac Indie party&#8221;:http://sfmacindie.com/ that night and hanging out with fellow developers afterwards; Buzz Andersen&#8217;s party Monday, catching up with &#8220;Lane&#8221;:http://www.monstro.com/ and the host; the &#8220;Dan Benjamin&#8221;:http://www.hivelogic.com/ annual breakfast; Apple &#8220;Design Awards&#8221;:http://developer.apple.com/wwdc/ada/ on Tuesday, which had a record number of wins for <em>apps I&#8217;ve actually used</em>; accidentally walking into a James Morrison concert at the Apple Store (left photo); being interviewed by Scott McNulty of &#8220;TUAW&#8221;:http://www.tuaw.com/, though I secretly hope they will decide not to air it; enjoying great Italian with the &#8220;VitalSource&#8221;:http://www.vitalsource.com/ team on Wednesday before catching the tail end of &#8220;CocoaHeads&#8221;:http://theocacao.com/document.page/480; plus the Apple Bash and more drinks and discussion Thursday night.</p>
+<p>Like at &#8220;SXSW earlier this year&#8221;:http://www.manton.org/2007/03/twitterconf.html, Twitter proves both cool and useful. I was lucky enough to meet many of the people on my Twitter friends list for the first time last week.</p>
+<p>Of course it wasn&#8217;t all fun and games. I sifted through more legitimate Bookshelf bug reports than usual; I was exhausted pretty much every day; and there were a couple developers I had hoped to seek out that I just never made the time to.</p>
+<p>All in all, though, a good week and now I&#8217;m ready to get back to coding.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.237 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 17:22:19 -->

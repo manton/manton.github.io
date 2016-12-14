@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>gruber &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/gruber/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:36:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>10 years of Daring Fireball</title>
+		<link>http://www.manton.org/2012/08/10_years_of.html</link>
+		<pubDate>Mon, 13 Aug 2012 22:28:09 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[blogs]]></category>
+		<category><![CDATA[daringfireball]]></category>
+		<category><![CDATA[gruber]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2012/08/10_years_of.html</guid>
+		<description><![CDATA[Daring Fireball turns 10 years old today. I love this visualization of the posts from those years. You can view by article length and highlight posts for certain topics. There’s a rich history of posts in the archive. Like the best blogs, there’s consistency in design, tone, and format. None of the URLs have ever [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://daringfireball.net/">Daring Fireball</a> turns 10 years old today. I love <a href="http://distantshape.com/df10/">this visualization of the posts</a> from those years. You can view by article length and highlight posts for certain topics.</p>
+<p>There’s a rich history of posts in the archive. Like the best blogs, there’s consistency in design, tone, and format. None of the URLs have ever changed.</p>
+<p>Here are some of my favorite essays.</p>
+<p>June 4, 2004, <a href="http://daringfireball.net/2004/06/broken_windows">Broken Windows</a>:</p>
+<blockquote><p>
+  “Arguing that it’s technically possible that the Mac could suffer just as many security exploits as Windows is like arguing that a good neighborhood could suddenly find itself strewn with garbage and plagued by vandalism and serious crime. Possible, yes, but not likely.”
+</p></blockquote>
+<p>April 20, 2006, <a href="http://daringfireball.net/2006/04/initiative">Initiative</a>:</p>
+<blockquote><p>
+  “What I’ve concluded, though, is that if I want to make a full-time income from Daring Fireball, I need to just do it full-time. I.e. that it’s not going to work the other way around — to wait for the revenue to burgeon and <em>then</em> start putting full-time effort into it.”
+</p></blockquote>
+<p>August 4, 2006, <a href="http://daringfireball.net/2006/08/highly_selective">Highly Selective</a>:</p>
+<blockquote><p>
+  “I’m sure there are other examples of Mac apps that offer anchored list selection, but the point remains that the vast majority of software now follows Apple’s lead and uses the unanchored model for list item selection. If ‘Mac-like’ means ‘what most other Mac software does’, then in this case the Mac-like behavior is wrong, or at the very least, worse.”
+</p></blockquote>
+<p>October 2, 2008, <a href="http://daringfireball.net/2008/10/the_fear">The Fear</a>:</p>
+<blockquote><p>
+  “But this pitch also worked because it was true. All three of those products sound good on their own. All three in one device sounds insanely great. Jobs was introducing the iPhone simply by describing precisely what it was.”
+</p></blockquote>
+<p>April 24, 2009, <a href="http://daringfireball.net/2009/04/twitter_clients_playground">Twitter Clients Are a UI Design Playground</a>:</p>
+<blockquote><p>
+  “I read web sites and email and RSS feeds on my iPhone, but Twitter is the one service where reading on my iPhone doesn’t feel constrained compared to reading on my Mac.”
+</p></blockquote>
+<p>June 26, 2009, <a href="http://daringfireball.net/2009/06/copy_and_paste">Copy and Paste</a>:</p>
+<blockquote><p>
+  “That we had to wait two years for the iPhone’s text selection and pasteboard is a good example of one aspect of the Apple way: better nothing at all than something less than great.”
+</p></blockquote>
+<p>January 27, 2010, <a href="http://daringfireball.net/2010/01/ipad_big_picture">The iPad Big Picture</a>:</p>
+<blockquote><p>
+  “Software aside (which is a huge thing to put aside), it may well be that no other company could make a device today matching the price, size, and performance of the iPad. They’re not getting into the CPU business for kicks, they’re getting into it to kick ass.”
+</p></blockquote>
+<p>August 24, 2011, <a href="http://daringfireball.net/2011/08/resigned">Resigned</a>:</p>
+<blockquote><p>
+  “The same thought, care, and painstaking attention to detail that Steve Jobs brought to questions like ‘How should a computer work?’, ‘How should a phone work?’, ‘How should we buy music and apps in the digital age?’ he also brought to the most important question: ‘How should a company that creates such things function?’”
+</p></blockquote>
+<p>December 25, 2011, <a href="http://daringfireball.net/2011/12/merry">Merry</a>:</p>
+<blockquote><p>
+  “— how much will I be willing to pay then to be able to go back in time, for one day, to now, when he’s eight years old, he wants to go to movies and play games and build Lego kits with me, and he believes in magic?”
+</p></blockquote>
+<p>February 16, 2012, <a href="http://daringfireball.net/2012/02/mountain_lion">Mountain Lion</a>:</p>
+<blockquote><p>
+  “This is an awful lot of effort and attention in order to brief what I’m guessing is a list of a dozen or two writers and journalists. It’s Phil Schiller, spending an entire week on the East Coast, repeating this presentation over and over to a series of audiences of one.”
+</p></blockquote>
+<p>Congrats John. Here’s to the next 10 years.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>New iPad hackers</title>
+		<link>http://www.manton.org/2010/04/new_ipad_hackers.html</link>
+		<pubDate>Fri, 16 Apr 2010 21:13:24 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[gruber]]></category>
+		<category><![CDATA[insidemac]]></category>
+		<category><![CDATA[iphone]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2010/04/new_ipad_hackers.html</guid>
+		<description><![CDATA[My first reaction when I started reading &#8220;The Kids Are All Right&#8221;:http://daringfireball.net/2010/04/kids_are_all_right on Daring Fireball was: Well, I had to disagree with a John Gruber essay eventually, might as well be this one. There was no developer program fee when I started building Mac apps! You could write whatever you wanted and share it with [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>My first reaction when I started reading &#8220;The Kids Are All Right&#8221;:http://daringfireball.net/2010/04/kids_are_all_right on Daring Fireball was: Well, I had to disagree with a John Gruber essay eventually, might as well be this one. There was no developer program fee when I started building Mac apps! You could write whatever you wanted and share it with friends.</p>
+<p>But then I thought more about the $99 hurdle. What was I doing as a teenager and would the procedures Apple has in place now have stopped me? (For context, I&#8217;m 34.)</p>
+<p>I started programming for the Mac with THINK Pascal, a beautiful little development environment. Then I moved to C with Dave Mark&#8217;s book, which came with a C compiler on a floppy inside the back cover. Eventually I saved up and bought Symantec C++. Even at an educational discount these were expensive compared to the free Xcode of today.</p>
+<p>At that point I&#8217;m pretty heavily invested in the Mac, but the killer was the documentation. I&#8217;m sure I spent hundreds of dollars on &#8220;Inside Macintosh&#8221;:http://en.wikipedia.org/wiki/Inside_Macintosh books. Our senior year in high school, my friends and I would meet at a restaurant before class for coffee and breakfast. I remember I&#8217;d get there early and sit in the booth with one of my oversized volumes of Inside Mac, taking in too much caffeine for my own good while I devoured every page, even the advanced topics that were still over my head.</p>
+<p>I lived and breathed this stuff pretty heavily for a few years. To imagine letting a $99 iPhone dev fee and some locked-down APIs prevent me from building apps is laughable. Great computers inspire people to build new software. That&#8217;s how it was when I got my first Mac, and I&#8217;m sure it&#8217;s that way for the new generation of young iPhone and iPad tinkerers.</p>
+<p>One day I hope the App Store will be more open. But it is what it is. I&#8217;ll point out where I think Apple can improve, and then I&#8217;ll build and ship anyway. It makes no sense to sit around and complain on my blog about the good old days while some kid half my age is taking his or her idea all the way to the top of the App Store and owning the platform of the future.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Gruber on The Fear</title>
+		<link>http://www.manton.org/2008/10/gruber_on_the.html</link>
+		<pubDate>Fri, 03 Oct 2008 04:17:21 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[fear]]></category>
+		<category><![CDATA[gruber]]></category>
+		<category><![CDATA[iphone]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2008/10/gruber_on_the.html</guid>
+		<description><![CDATA[I don&#8217;t link to Daring Fireball much anymore. Everyone who cares about the Mac and reads my blog, also likely reads his. I will link or write about obviously redundant topics that everyone else is also writing about only when I feel like I can add some kind of value. I felt that way with [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I don&#8217;t link to Daring Fireball much anymore. Everyone who cares about the Mac and reads my blog, also likely reads his. I will link or write about obviously redundant topics that everyone else is also writing about only when I feel like I can add some kind of value. I felt that way with &#8220;my short NDA post&#8221;:http://www.manton.org/2008/10/nda_and.html, putting it in the context of customers.</p>
+<p>But John Gruber&#8217;s latest, &#8220;The Fear&#8221;:http://daringfireball.net/2008/10/the_fear, is just too good not to link to. Many developers and professional bloggers can write passionately about rejected iPhone apps, but no one connected that to the default dock and its significance in the original device introduction by Steve Jobs. Whether the theory is true, we may never know, but man is it a good read.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Give us a tablet already</title>
+		<link>http://www.manton.org/2008/01/give_us_a.html</link>
+		<pubDate>Tue, 15 Jan 2008 16:31:56 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[benjamin]]></category>
+		<category><![CDATA[gruber]]></category>
+		<category><![CDATA[macworld]]></category>
+		<category><![CDATA[tablet]]></category>
+		<category><![CDATA[wacom]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2008/01/give_us_a.html</guid>
+		<description><![CDATA[I&#8217;m going to skip the usual Macworld predictions and cut straight to the good stuff: Apple needs a tablet for the huge numbers of artists and creative professionals who have stuck with the Mac for so long, or who are finally coming back to the platform. I hope for this every year, but the evidence [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;m going to skip the usual Macworld predictions and cut straight to the good stuff: Apple needs a tablet for the huge numbers of artists and creative professionals who have stuck with the Mac for so long, or who are finally coming back to the platform. I hope for this every year, but the evidence is starting to mount that yes, Apple is working on something.</p>
+<p>John Gruber <a href="http://daringfireball.net/2008/01/macworld_expo_predictions">doesn&#8217;t see a tablet happening</a>:</p>
+<blockquote><p>&#8220;But why force software UI&#8217;s designed for traditional hardware form factors upon a totally different device? A successful tablet-like device from Apple, I think, would clearly be designed as a secondary computing device &mdash; a satellite attached and synched to a Mac or PC (probably, of course, through iTunes).&#8221;</p></blockquote>
+<p>I think his reasoning is exactly correct <em>if</em> you think about a tablet as just a Newton or large iPhone, but as I say above I don&#8217;t think that&#8217;s the market at all. Honestly as much as I loved the Newton, the iPhone works great as a replacement. The primary market for a Mac tablet is the millions of people who look at the <a href="http://www.wacom.com/cintiq/">Wacom Cintiq</a> and drool. An Apple tablet has to run full Mac OS X because it has to run Photoshop, Acorn, and Painter.</p>
+<p>(Both Gruber and Dan Benjamin also discuss predictions during the latest <a href="http://www.thetalkshow.net/">The Talk Show episode</a>, just posted. While you&#8217;re listening, also check out the <a href="http://hivelogic.com/articles/podcasting-equipment-guide/">Hivelogic comprehensive podcasting guide</a>.)</p>
+<p>So what about this: what if the MacBook sub-notebook and the tablet are one and the same? Imagine a beautiful slim MacBook with a detachable keyboard and touch-sensitive display, for example. Avoid the weird connections by making the keyboard Bluetooth only, with all the guts of the machine (including flash-based hard drive) behind the screen. I have a first-generation Toshiba Tablet PC and the hardware design is just bulky and terrible because they tried to make it all things to all people. A MacBook Nano-Tablet-Air could embrace &#8220;thin&#8221; and &#8220;tablet&#8221; and ignore everything else to achieve a truly great design.</p>
+<p>But who knows. We&#8217;ll see in about 30 minutes.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>The Hivelogic Podcast</title>
+		<link>http://www.manton.org/2007/01/the_hivelogic_podcast.html</link>
+		<pubDate>Fri, 05 Jan 2007 22:49:55 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[gruber]]></category>
+		<category><![CDATA[hivelogic]]></category>
+		<category><![CDATA[interview]]></category>
+		<category><![CDATA[macworld]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/01/the_hivelogic_podcast.html</guid>
+		<description><![CDATA[Watching from the sidelines as Dan Benjamin prepared his first podcast really made me want to get out &#8220;the microphone&#8221;:http://www.flickr.com/photos/manton/194992192/ again. Creating a podcast is a great experience, and I always tell myself I&#8217;ll do them more frequently. There have been a few recent events that I&#8217;ve wanted to capture as podcast episodes, including the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Watching from the sidelines as Dan Benjamin prepared his first podcast really made me want to get out &#8220;the microphone&#8221;:http://www.flickr.com/photos/manton/194992192/ again. Creating a podcast is a great experience, and I always tell myself I&#8217;ll do them more frequently. There have been a few recent events that I&#8217;ve wanted to capture as podcast episodes, including the experience waiting in line for the Wii, but it just hasn&#8217;t come together.</p>
+<p>Enough about me. Go listen to &#8220;The Hivelogic Podcast with Dan Benjamin&#8221;:http://www.hivelogic.com/articles/2007/01/06/podcast_is_here, interviewing &#8220;John Gruber&#8221;:http://daringfireball.net/ about the upcoming Macworld announcements. The Macworld keynote is this coming Tuesday at 9am Pacific, but I haven&#8217;t heard word yet on whether it will be streamed live or a delayed rebroadcast.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.280 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 17:17:54 -->

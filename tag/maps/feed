@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>maps &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/maps/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:36:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Apple Maps adds ChargePoint</title>
+		<link>http://www.manton.org/2016/12/apple-maps-adds-chargepoint.html</link>
+		<pubDate>Fri, 09 Dec 2016 20:16:52 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[cars]]></category>
+		<category><![CDATA[electric]]></category>
+		<category><![CDATA[maps]]></category>
+		<category><![CDATA[travel]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4540</guid>
+		<description><![CDATA[A few of years ago we took a vacation to New York City and Montreal. We were taking the subway so often, I switched to Google Maps for its transit directions. I&#8217;ve been using Google Maps exclusively ever since. Until now, there were very few reasons to go back to Apple Maps. Apple has been [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>A few of years ago we took a vacation to New York City and Montreal. We were taking the subway so often, I switched to Google Maps for its transit directions. I&#8217;ve been using Google Maps exclusively ever since.</p>
+<p>Until now, there were very few reasons to go back to Apple Maps. Apple has been playing catch-up. <a href="https://blog.asmartbear.com/complex-decisions.html">Why use a product</a> that is only adding features from a competitor, but not anything new?</p>
+<p>This week Apple rolled out a unique feature that&#8217;s interesting to me: ChargePoint integration to find charging locations for electric cars. Ryan Christoffel covers it <a href="https://www.macstories.net/linked/apple-maps-adds-chargepoint-integration/">at MacStories</a>:</p>
+<blockquote><p>
+  Having spent several years building partnerships to ensure its data won&#8217;t lead any drivers astray, Apple has more recently been able to focus on integrating data that&#8217;s less important, but still quite useful. A few months ago we saw the company <a href="https://www.macstories.net/linked/parkopedia-and-apple-strike-maps-deal/">team up with Parkopedia</a> to improve parking data, and now charging stations are a natural next step.
+</p></blockquote>
+<p>I rarely need this — and the ChargePoint app itself has more detail, such as how many spots are actually available — but I&#8217;m excited about it as a new feature. I hope that it represents a fundamental improvement across the maps platform. I&#8217;m putting Apple Maps back on my home screen for a while.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Sunlit maps</title>
+		<link>http://www.manton.org/2014/01/sunlit_maps.html</link>
+		<pubDate>Wed, 22 Jan 2014 03:04:08 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[mapbox]]></category>
+		<category><![CDATA[maps]]></category>
+		<category><![CDATA[sunlit]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/01/sunlit_maps.html</guid>
+		<description><![CDATA[iOS already ships with a mapping framework from Apple that all apps can use, so why did we ignore it in Sunlit and use Mapbox instead? Two main reasons: Custom map colors. I was interested in creating beautiful new maps that would give Sunlit a unique design. Maps in every other iOS app look exactly [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img src="http://www.manton.org/images/2014/mapbox_austin.jpg" width="600" height="100" alt="Map" /></p>
+<p>iOS already ships with a mapping framework from Apple that all apps can use, so why did we ignore it in <a href="http://sunlit.io/">Sunlit</a> and use <a href="http://mapbox.com/">Mapbox</a> instead? Two main reasons:</p>
+<p><strong>Custom map colors.</strong> I was interested in creating beautiful new maps that would give Sunlit a unique design. Maps in every other iOS app look exactly the same. Sunlit is automatically more distinctive just by choosing something different, and we barely scratched the surface of the <a href="https://www.mapbox.com/blog/woodcut-inspired-map/">customization that is possible on Mapbox</a>.</p>
+<p><strong>Direct web API.</strong> Mapbox gives you access to your maps not just in a native iOS map view, but also over the web. For the story backgrounds in Sunlit, we grab rendered maps directly with an HTTP call. This is a lot simpler and faster than having to build an interactive map view and snapshot it.</p>
+<p>It also helped that I’ve been following the cool stuff Mapbox has been doing ever since <a href="http://codesorcery.net/2011/03/04/working-with-development-seed">Justin Miller joined their team</a> a few years ago. I could tell this was a company that wanted to push the technology of maps forward. Apple needs to spend all their time building a viable alternative to Google Maps — driving directions, business locations, better search. But I don’t care about any of those things in my app. For Sunlit I want to use a framework from people who clearly love maps, and I think that’s Mapbox.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.403 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 17:01:29 -->

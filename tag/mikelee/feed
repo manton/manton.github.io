@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>mikelee &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/mikelee/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:36:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Appsterdam</title>
+		<link>http://www.manton.org/2011/04/appsterdam.html</link>
+		<pubDate>Thu, 21 Apr 2011 20:54:40 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[amsterdam]]></category>
+		<category><![CDATA[apps]]></category>
+		<category><![CDATA[europe]]></category>
+		<category><![CDATA[mikelee]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2011/04/appsterdam.html</guid>
+		<description><![CDATA[A great name to go along with &#8220;a big idea from Mike Lee&#8221;:http://mur.mu.rs/?p=1: &#8220;If you&#8217;ve been to a conference, you&#8217;ve probably thought, as I have, how nice it would be if everyday life could be like that&#8212;being surrounded by peers, able to get help solving a hard problem, then get accolades for doing so. There [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>A great name to go along with &#8220;a big idea from Mike Lee&#8221;:http://mur.mu.rs/?p=1:</p>
+<blockquote><p>&#8220;If you&#8217;ve been to a conference, you&#8217;ve probably thought, as I have, how nice it would be if everyday life could be like that&mdash;being surrounded by peers, able to get help solving a hard problem, then get accolades for doing so. There is a gestalt to sitting face to face with a group you just don&#8217;t get over the wire. With Appsterdam, our community is not just a nice idea, but a nice place.&#8221;</p></blockquote>
+<p>I would love to visit Europe again. It&#8217;s been too long.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Mike Lee</title>
+		<link>http://www.manton.org/2010/07/mike_lee.html</link>
+		<pubDate>Wed, 21 Jul 2010 16:18:26 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[deliciousmonster]]></category>
+		<category><![CDATA[leadeship]]></category>
+		<category><![CDATA[mikelee]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2010/07/mike_lee.html</guid>
+		<description><![CDATA[I like this paragraph from a &#8220;long post by Mike Lee&#8221;:http://le.mu.rs/motherfucker/Entries/2010/7/1_Fuck_modesty.html &#8220;On any project, whether it&#8217;s a band performance or a team shipping, there&#8217;s a time to curse, and a time to praise. Someone who gets those in the right order is an inspiring leader. Someone who gets them backwards is just an asshole.&#8221; As [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I like this paragraph from a &#8220;long post by Mike Lee&#8221;:http://le.mu.rs/motherfucker/Entries/2010/7/1_Fuck_modesty.html</p>
+<blockquote><p>&#8220;On any project, whether it&#8217;s a band performance or a team shipping, there&#8217;s a time to curse, and a time to praise. Someone who gets those in the right order is an inspiring leader. Someone who gets them backwards is just an asshole.&#8221;</p></blockquote>
+<p>As I mentioned on a recent &#8220;Core Intuition&#8221;:http://www.coreint.org/2010/06/episode-31-skipping-the-morning-session/ episode, I have a really hard time remembering who I meet unless I read their blog, or follow them on Twitter, or have heard about their reputation. None of these were true when I first met Mike Lee, walking to pizza one night at C4&#91;1&#93;. I didn&#8217;t even know at the time that he worked at Delicious Monster. But it didn&#8217;t matter because he essentially opened with: &#8220;I was hit by a car last week.&#8221;</p>
+<p>Bam! World&#8217;s toughest programmer indeed, and now I&#8217;ll never forget his face or the conversation. We can&#8217;t all be as relentlessly passionate and memorable as Mike, but there is a lesson here in personal brand: finding what sets us apart from every other programmer and letting that shape our voice and the projects we work on.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Buzz on software entrepreneurship</title>
+		<link>http://www.manton.org/2008/08/buzz_on_software.html</link>
+		<pubDate>Wed, 27 Aug 2008 15:42:40 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[appstore]]></category>
+		<category><![CDATA[buzz]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[mikelee]]></category>
+		<category><![CDATA[tapulous]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2008/08/buzz_on_software.html</guid>
+		<description><![CDATA[&#8220;Buzz Andersen responds&#8221;:http://log.scifihifi.com/post/47592954/heres-an-idea-i-could-take-my-newly-minted to some of Mike Lee&#8217;s recent blog posts: &#8220;We&#8217;re living in the &#8216;anyone can play guitar&#8217; era of software entrepreneurship. Because of the confluence of increasingly accessible developer tools and the Internet, it&#8217;s now reasonable to think that one or two talented people, with little to no investment, can make anything from [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>&#8220;Buzz Andersen responds&#8221;:http://log.scifihifi.com/post/47592954/heres-an-idea-i-could-take-my-newly-minted to some of Mike Lee&#8217;s recent blog posts:</p>
+<blockquote><p>&#8220;We&#8217;re living in the &#8216;anyone can play guitar&#8217; era of software entrepreneurship. Because of the confluence of increasingly accessible developer tools and the Internet, it&#8217;s now reasonable to think that one or two talented people, with little to no investment, can make anything from a good living to a fortune by bringing their idea to life. What kills me about the outmoded Silicon Valley gold rush mentality that I feel has entered the Mac developer community for the first time because of the iPhone is how much it fundamentally ignores the significance of Apple&#8217;s App Store as a field leveler.&#8221;</p></blockquote>
+<p>Although I was at first disappointed that I had no time (either at VitalSource or for my own projects) to have an iPhone app at launch, as the weeks and months pass since the App Store opened I find myself less and less sure about what the App Store market actually looks like. Everything is changing very quickly. While there is no doubt a huge opportunity in iPhone development &mdash; and with another 30-40 million iPhones hitting next year, each of those new customers will have their own impulse buys and novelty purchases, to say nothing of the real apps that people need on their phone &mdash; at the same time I wonder when iPhone development will be as mature and stable as the Mac software market is.</p>
+<p>This isn&#8217;t a direct comment on what Buzz is saying. His blog and comments on &#8220;Mike&#8217;s post&#8221;:http://www.atomicwang.org/motherfucker/Index/832D1CF5-BDF8-493D-945A-E95105682EDC.html are right-on as usual.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.239 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 17:18:47 -->

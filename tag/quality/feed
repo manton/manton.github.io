@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>quality &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/quality/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:36:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Trade-Off</title>
+		<link>http://www.manton.org/2010/03/tradeoff.html</link>
+		<pubDate>Fri, 26 Mar 2010 13:48:51 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[fidelity]]></category>
+		<category><![CDATA[quality]]></category>
+		<category><![CDATA[tradeoff]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2010/03/tradeoff.html</guid>
+		<description><![CDATA[I&#8217;m of two minds about &#8220;Trade-Off&#8221;:http://bit.ly/beDE2m by Kevin Maney. I picked up the book mostly on the strength of its tagline: Why Some Things Catch On, and Others Don&#8217;t. The Ever-Present Tension Between Quality and Convenience. Pretty good, right? The premise is great &#8212; that you have to choose when building a business whether to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;m of two minds about &#8220;Trade-Off&#8221;:http://bit.ly/beDE2m by Kevin Maney. I picked up the book mostly on the strength of its tagline: <em>Why Some Things Catch On, and Others Don&#8217;t. The Ever-Present Tension Between Quality and Convenience.</em> Pretty good, right?</p>
+<p>The premise is great &mdash; that you have to choose when building a business whether to have an expensive, high fidelity product or a less expensive, more accessible product. Trying to do both usually leads to failure. It&#8217;s like when I see an application marketed as &#8220;easy to use, yet powerful!&#8221; That&#8217;s often a red flag that it is neither.</p>
+<p>My issue with the book is that, like most business books, it simply drags on too long. What should have taken a couple days to read turned into months of slogging through a few pages at a time. There are some great stories in the 200 pages, but the idea behind the book, which is captured on the cover of the book itself, gets repeated over and over. It&#8217;s almost like Maney copied and pasted some of the key points and scattered them throughout the book as filler.</p>
+<p>37signals said that in the final draft of &#8220;Rework&#8221;:http://37signals.com/rework/ they cut the page count nearly in half, and I think some deeper edits in Trade-Off would have helped too. Take the first 20 pages to explain the idea, and then another 80 pages of case study chapters with anecdotes, stories, and interviews. Done.</p>
+<p>Complaints about the size and structure of the book aside, though, I got a lot out of Trade-Off. While Maney often strains to fit the book&#8217;s core on top of successful or failed businesses that are too complicated to be applicable (I didn&#8217;t appreciate the Newton-bashing), he makes some great points that helped me put my own app &#8220;Clipstart&#8221;:http://www.riverfold.com/software/clipstart/ in perspective, and will likely change how I market and build new features for it.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Clipstart 1.2.4</title>
+		<link>http://www.manton.org/2009/12/clipstart_124.html</link>
+		<pubDate>Thu, 31 Dec 2009 20:59:00 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[buzz]]></category>
+		<category><![CDATA[clipstart]]></category>
+		<category><![CDATA[quality]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2009/12/clipstart_124.html</guid>
+		<description><![CDATA[Clipstart 1.2.4 is done! It&#8217;s a minor bug fix update but includes dozens of small improvements (and some not so small, if you&#8217;re measuring not with new UI but in number of lines of code changed). I&#8217;m very happy with this release and excited to move on to some other new features in the works [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Clipstart 1.2.4 is done! It&#8217;s a minor bug fix update but includes dozens of small improvements (and some not so small, if you&#8217;re measuring not with new UI but in number of lines of code changed). I&#8217;m very happy with this release and excited to move on to some other new features in the works for 1.3 and beyond. &#8220;Download and more info&#8221;:http://www.riverfold.com/software/clipstart/.</p>
+<p>And because I don&#8217;t have anything else of substance related to Clipstart to talk about yet, I&#8217;ll leave you with &#8220;this Buzz Andersen quote&#8221;:http://log.scifihifi.com/post/159881723/the-twitter-app-to-use-on-android-im-told-is about quality:</p>
+<blockquote><p>&#8220;Shipping quality is a longer, tougher road than just shipping whatever to be first to market, and its benefits tend to be realized more slowly, but if you want users to love your software as a brand, and not merely use it as a commodity, it&#8217;s the only way.&#8221;</p></blockquote>
+<p>I&#8217;m not there yet, but yeah, well said.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.244 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 17:06:01 -->

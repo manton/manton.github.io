@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ec2 &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/ec2/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:36:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Instagram and hosting</title>
+		<link>http://www.manton.org/2012/04/instagram_and_hosting.html</link>
+		<pubDate>Fri, 06 Apr 2012 19:24:50 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[ec2]]></category>
+		<category><![CDATA[hosting]]></category>
+		<category><![CDATA[instagram]]></category>
+		<category><![CDATA[servers]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2012/04/instagram_and_hosting.html</guid>
+		<description><![CDATA[I love reading about how big sites use Amazon EC2. If &#8220;this post from Instagram&#8221;:http://instagram-engineering.tumblr.com/post/13649370142/what-powers-instagram-hundreds-of-instances-dozens-of is still accurate, they must be at something like $50k/month in hosting costs. Their user base has doubled in the 4 months since they posted that. My setup for Tweet Marker is trivial by comparison, but to me &#8212; without [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I love reading about how big sites use Amazon EC2. If &#8220;this post from Instagram&#8221;:http://instagram-engineering.tumblr.com/post/13649370142/what-powers-instagram-hundreds-of-instances-dozens-of is still accurate, they must be at something like $50k/month in hosting costs. Their user base has doubled in the 4 months since they posted that.</p>
+<p>My setup for Tweet Marker is trivial by comparison, but to me &mdash; without Instagram&#8217;s $7 million in funding &mdash; it&#8217;s a very big deal. What I wrote &#8220;back in October&#8221;:http://www.manton.org/2011/10/redisonly_migration.html about moving to Redis is still mostly true, although I&#8217;ve added MySQL and Sphinx to the mix. I now run with 3 Amazon EC2 &#8220;medium&#8221; instances and have 5 web dynos (with 3 Unicorn processes each) at Heroku.</p>
+<p>I put everything from donations back into the servers. For Tweet Marker to work, it had to be rock solid. It had to scale. It&#8217;s only the first week for &#8220;Tweet Marker Plus&#8221;:http://tweetmarker.net/plus subscriptions, but already I have a good feeling that it&#8217;ll all pay off.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Redis-only migration</title>
+		<link>http://www.manton.org/2011/10/redisonly_migration.html</link>
+		<pubDate>Tue, 25 Oct 2011 20:20:10 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[ec2]]></category>
+		<category><![CDATA[heroku]]></category>
+		<category><![CDATA[redis]]></category>
+		<category><![CDATA[tweetmarker]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2011/10/redisonly_migration.html</guid>
+		<description><![CDATA[The best critique and praise for Heroku is that it&#8217;s opinionated: only deploy with Git, only use PostgreSQL. On the whole this is a good thing, because it simplifies the choices that developers have to make. Fewer choices means more time to spend on things that matter. But at $200/month for a dedicated database, there&#8217;s [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The best critique and praise for Heroku is that it&#8217;s opinionated: only deploy with Git, only use PostgreSQL. On the whole this is a good thing, because it simplifies the choices that developers have to make. Fewer choices means more time to spend on things that matter.</p>
+<p>But at $200/month for a dedicated database, there&#8217;s a very real cost with PostgreSQL on Heroku. For a service like &#8220;Tweet Marker&#8221;:http://tweetmarker.net/ that is currently free, I wanted to save money on hosting and simplify things down to a single database. I might have preferred to streamline to PostgreSQL-only, since it&#8217;s rock solid and Heroku&#8217;s tools are excellent for managing backups and moving data around, but Resque (which Tweet Marker uses to process background work) is built on Redis. If I wanted to streamline to a single database, it had to be to Redis.</p>
+<p>Tweet Marker as essentially an OAuth-wrapped key/value store anyway, so why burden the app with a full relational database? The handful of extra tables I had for tracking users and sessions could also be migrated to Redis. And even though it&#8217;s a memory database at heart, it is persistent, so I can use it for real data.</p>
+<p>I conducted the transition in stages:</p>
+<ul>
+<li>First, I was using Redis for stats. Because Redis has an atomic increment command, it&#8217;s trivial to use it to keep counters on various metrics: total number of reads/writes per hour, day, or month, broken down by different Twitter clients. This was my first use of Redis outside Resque tasks and it performed great.</p>
+</li>
+<li>
+<p>Next, I moved the marker data. I wrote a script to dump all the data from PostgreSQL to Redis, and at the same time modified Tweet Marker to write data to both locations when requests came in. I let that run for about 2 days to confirm that the data was identical in both places before shutting PostgreSQL down and routing reads to Redis only.</p>
+</li>
+<li>
+<p>Finally, I finished moving some additional tables to Redis so that I could completely shutdown PostgreSQL. Again, simple is better.</p>
+</li>
+</ul>
+<p>All of this was using Heroku&#8217;s &#8220;Redis To Go&#8221;:https://redistogo.com/ add-on. I love it because there&#8217;s no configuration; click a couple buttons and you have a server. But as soon as I was running full time on Redis To Go, I started to be concerned that I had given up a great amount of control over my data. While Redis To Go conveniently offers daily backup snapshots, it doesn&#8217;t appear to have any commands for restoring data or otherwise getting access to the server and Redis files. And though I could probably set up a separate Redis To Go instance and manually send it a slaveof command to turn it into a slave, not being able to edit the config file meant that if the server was rebooted I would lose the slave until it could be reset. Not good.</p>
+<p>I also expected I would quickly outgrow the smaller Redis To Go plans, eventually forcing the monthly pricing up to the same level as I was paying for PostgreSQL, but with less control. I had to run my own database server instead. And because Heroku is all on Amazon EC2, it also had to be on EC2 for the best performance between web server and database.</p>
+<p>I went to work provisioning an EC2 instance. Initially it ran as a Redis slave to the master on Redis To Go. After I felt comfortable with EC2 and had automated backups in place, I added a separate instance on Amazon for the master and switched the app over to it. The cost for 2 &#8220;micro&#8221; instances is about the same as I was paying for Redis To Go, but with much more available memory, hourly backups to S3, and access to the Redis aof log. And my total monthly hosting costs are about half what they were before.</p>
+<p>I&#8217;m hoping to keep this setup for at least the rest of the year and well into next. As the Tweet Marker user base grows, I&#8217;ll bump up to higher-capacity EC2 instances. Heroku continues to be really great, so I don&#8217;t expect to change anything there.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.246 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 17:18:27 -->

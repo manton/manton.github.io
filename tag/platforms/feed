@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>platforms &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/platforms/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:36:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Buytaert on the open web</title>
+		<link>http://www.manton.org/2016/03/buytaert-on-the-open-web.html</link>
+		<pubDate>Thu, 17 Mar 2016 20:39:31 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[openweb]]></category>
+		<category><![CDATA[platforms]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3723</guid>
+		<description><![CDATA[Dries Buytaert, founder of Drupal, gave a talk at SXSW this week and wrote a blog post about saving the open web from large, centralized platforms: “I worry that some of these platforms will make us lose the original integrity and freedom of the open web. While the closed web has succeeded in ease-of-use and [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Dries Buytaert, founder of Drupal, gave a talk at SXSW this week and <a href="http://buytaert.net/can-we-save-the-open-web">wrote a blog post</a> about saving the open web from large, centralized platforms:</p>
+<blockquote><p>
+  “I worry that some of these platforms will make us lose the original integrity and freedom of the open web. While the closed web has succeeded in ease-of-use and reach, it raises a lot of questions about how much control individuals have over their own experiences.”
+</p></blockquote>
+<p>Matt Mullenweg linked to it <a href="https://ma.tt/2016/03/saving-the-open-web/">and added</a>: “I agree with and endorse basically everything in that post.”</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Ev on Twitter third-party devs</title>
+		<link>http://www.manton.org/2015/07/ev-on-twitter-third-party-devs.html</link>
+		<pubDate>Fri, 17 Jul 2015 15:25:39 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[api]]></category>
+		<category><![CDATA[ev]]></category>
+		<category><![CDATA[platforms]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2855</guid>
+		<description><![CDATA[Business Insider quotes Evan Williams on the developer-hostile attitude of previous Twitter management: “The API denial was, ‘One of our strategic errors we had to wind down over time,’ Evans explained. ‘It wasn’t a win/win for developers, users, and the company.’” Just acknowledging this publicly is progress. It’s now been almost 3 years since my [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.businessinsider.com/evan-williams-on-twitter-and-developers-2015-7">Business Insider quotes Evan Williams</a> on the developer-hostile attitude of previous Twitter management:</p>
+<blockquote><p>
+  “The API denial was, ‘One of our strategic errors we had to wind down over time,’ Evans explained. ‘It wasn’t a win/win for developers, users, and the company.’”
+</p></blockquote>
+<p>Just acknowledging this publicly is progress. It’s now been almost 3 years since my last tweet. I don’t expect to return to Twitter, but I’m still very interested in whether there&#8217;ll be a noticeable change in direction from the new CEO.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>The risk of a small platform</title>
+		<link>http://www.manton.org/2014/05/the_risk_of.html</link>
+		<pubDate>Wed, 07 May 2014 22:24:51 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[adn]]></category>
+		<category><![CDATA[api]]></category>
+		<category><![CDATA[platforms]]></category>
+		<category><![CDATA[sunlit]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/05/the_risk_of.html</guid>
+		<description><![CDATA[Marco Arment responds to my comment that developers should have seen the potential of the App.net API as something much bigger than Twitter. I wanted my post to be short, but Marco makes good points that are worth following up on. He writes: “Building an app on someone else’s API, rather than making your own, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.marco.org/2014/05/07/manton-adn-api">Marco Arment responds</a> to my comment that developers should have seen the potential of the App.net API as something much bigger than Twitter. I wanted <a href="http://www.manton.org/2014/05/appnet_niche.html">my post</a> to be short, but Marco makes good points that are worth following up on. He writes:</p>
+<blockquote><p>
+  “Building an app on someone else’s API, rather than making your own, is a huge risk: it usually only pays off if the service provides a huge existing userbase and hard-to-duplicate functionality. App.net never offered either. They started out facing the typical social-network chicken-and-egg problem, put a huge paywall in front to prevent any growth, and tried to alleviate that by adding more chicken-and-egg problems to their offerings.”
+</p></blockquote>
+<p>Building entirely on App.net for <a href="http://sunlit.io/">Sunlit</a> was indeed a huge risk, and one that we expected would take time to pay off. It was a bet on the future. We are incredibly proud of our app and the response it got in the App.net community, but our goal was always to make an app <a href="http://manton.org/2014/01/no_coincidence.html">that appealed to everyone</a>, not just a small niche of tech folks. We’ve actually been working for over a month on a new version of Sunlit that expands the reach of the app beyond App.net, and coincidentally it just went into review at Apple this week.</p>
+<p>But I think the chicken-and-egg problem was solvable. The main issue with iOS apps is that they couldn’t sign up a new user directly in the app. This made sense when App.net was a paid-only service, because you’d run into in-app purchase issues with Apple, but it became more technically feasible when the free tier launched.</p>
+<p>The App.net founders also seemed receptive to the idea. There just wasn’t time to make it happen. I believe this single roadblock prevented any potentially-mainstream <a href="http://manton.org/2013/08/waiting_for_appnets.html">killer apps</a> built on App.net from getting off the ground. If it’s not easy to open a third-party app, create an account, and start using the service, too many people will give up. (Our numbers showed that only 40% of Sunlit downloads actually signed in to use the app for real.)</p>
+<p>However, building our own backend for the app would also be very challenging and expensive. We are not syncing small bits of data around. It’s a photo sharing app, so right off the bat you’ve got big files that have to be hosted somewhere. On top of that there’s collaboration features, so you need not just user accounts but private sync channels that have specific read/write access to certain users. Plus all the metadata and formats to support syncing text, photos, and location check-in information. Not to mention publishing HTML, thumbnails, and maps. It’s daunting.</p>
+<p>(In fact, it’s so daunting, I don’t think there’s a single app in the App Store that has feature-parity with Sunlit. The app simply could not have been built by a tiny team of 2 part-time developers if building a whole backend infrastructure first was a prerequisite.)</p>
+<p>Marco closes with this:</p>
+<blockquote><p>
+  “As much as App.net wanted to be — and eventually was — much more than a Twitter clone, it got the vast majority of its initial funding, enthusiasm, and developer support from people’s anger at Twitter’s dickification. But internet outrage doesn’t last long. Since App.net never became the new primary place where our friends all hung out, most of us never left Twitter — we all just accept that they’re dicks now, and we forgot about App.net.”
+</p></blockquote>
+<p>There’s an argument to be made that App.net’s core mistake was building the Alpha web interface only far enough to match Twitter’s features and then moving on to other things. Instead, they could have kept improving Alpha until it was significantly better than Twitter, so good that it couldn’t be ignored. By doing so, maybe they would have also more effectively demonstrated the power of the API underneath.</p>
+<p>I assume that App.net chose not to do this so they wouldn’t compete with developers. After all, the service was founded on the idea that developers should be respected and given every opportunity to succeed. Finding the right balance to showcase the platform with first-party apps without stepping on developers is not always easy. We can argue about which missteps were the most costly, but the founders never wavered on their original principles and they promoted every app that launched on the platform. That means something.</p>
+<p>As for outrage not lasting long on the internet, Marco’s totally right. I just <a href="http://www.manton.org/2014/05/would_i_go_back.html">don’t forget that easily</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.293 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 16:57:47 -->

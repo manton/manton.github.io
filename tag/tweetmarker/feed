@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>tweetmarker &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/tweetmarker/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:36:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Watermark transition plan</title>
+		<link>http://www.manton.org/2015/05/watermark-transition-plan.html</link>
+		<pubDate>Mon, 04 May 2015 14:23:59 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[email]]></category>
+		<category><![CDATA[tweetlibrary]]></category>
+		<category><![CDATA[tweetmarker]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[watermark]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2591</guid>
+		<description><![CDATA[I sent an email to Watermark customers over the weekend, letting them know that the service as it currently exists will be going away on May 15th. As I wrote about last year, Twitter has improved their search enough that a part of what Watermark is good at is no longer as necessary as it [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I sent <a href="http://eepurl.com/blcsdv">an email to Watermark customers</a> over the weekend, letting them know that the service as it currently exists will be going away on May 15th. As <a href="http://www.manton.org/2014/11/winding-down-my-twitter-apps.html">I wrote about last year</a>, Twitter has improved their search enough that a part of what Watermark is good at is no longer as necessary as it once was. However, I still see interest in Tweet Marker, from developers and users, so I wanted to keep the web-based timeline and sync from Watermark and make it available to all Tweet Marker subscribers.</p>
+<p>You can <a href="http://tweetmarker.net/">learn more about Tweet Marker here</a>. I’ve had to significantly scale out the backend servers this year, including adding a second load balancer, so I’d love your support. The new timeline feature will roll out later in May.</p>
+<p>While I’m happy to keep offering a part of Watermark (now back in Tweet Marker), I have less good news for Tweet Library. I’ve found it very difficult to justify the time to finish the new version. It’s now looking likely that the current version will be the last.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Waiting out trademarks</title>
+		<link>http://www.manton.org/2015/04/waiting-out-trademarks.html</link>
+		<pubDate>Fri, 03 Apr 2015 16:10:52 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[domains]]></category>
+		<category><![CDATA[trademarks]]></category>
+		<category><![CDATA[tweetmarker]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2532</guid>
+		<description><![CDATA[Not long after I launched Tweetmarks in 2011, I realized that there was a trademark for that name, and an existing .com domain. I started worrying about the conflict so much that I couldn’t get any real work done. I talked to friends about it, tried to get other perspectives, and then finally renamed it [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Not long after I launched Tweetmarks in 2011, I realized that there was a trademark for that name, and an existing .com domain. I started worrying about the conflict so much that I couldn’t get any real work done. I talked to friends about it, tried to get other perspectives, and then finally renamed it to <a href="http://tweetmarker.net/">Tweet Marker</a>. Whew, I had made a decision and moved on, free from ever worrying about it again.</p>
+<p>I had to fix the tweetmarks.net redirect recently and checked around on some of the old stuff. That domain name I had been so worried about, which I literally lost sleep over? It&#8217;s gone.</p>
+<p>I’m not going to tell you that trademarks don’t matter. Nothing I write on this blog should ever be considered legal advice. But it’s another reminder that there’s enough real stuff to focus on without wasting time on imaginary problems.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Updated Tweet Marker extension</title>
+		<link>http://www.manton.org/2014/12/updated-tweet-marker-extension.html</link>
+		<pubDate>Mon, 15 Dec 2014 17:06:22 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[extension]]></category>
+		<category><![CDATA[safari]]></category>
+		<category><![CDATA[tweetmarker]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2413.html</guid>
+		<description><![CDATA[I updated the Tweet Marker Safari extension to version 1.2 today. This version fixes the extension to accommodate recent design changes on twitter.com. Existing Tweet Marker paid subscribers can grab the new extension here. Here&#8217;s a screenshot of the &#8220;Set Marker&#8221; link that the extension adds to twitter.com. Then when you launch a compatible iOS [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I updated the Tweet Marker Safari extension to version 1.2 today. This version fixes the extension to accommodate recent design changes on twitter.com. Existing Tweet Marker paid subscribers can <a href="http://www.riverfold.com/software/tweetmarker/downloads/TweetMarker_1.2.safariextz">grab the new extension here</a>.</p>
+<p>Here&#8217;s a screenshot of the &#8220;Set Marker&#8221; link that the extension adds to twitter.com. Then when you launch a compatible iOS or Mac Twitter app, it will scroll the timeline to that position.</p>
+<p><img src="http://www.manton.org/images/2014/tm_safari_1.2.png" width="325" height="40" /></p>
+<p>If you&#8217;d like to support Tweet Marker or use the Safari extension, you can <a href="https://api.tweetmarker.net/subscribe">subscribe for $1/month</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Winding down my Twitter apps</title>
+		<link>http://www.manton.org/2014/11/winding-down-my-twitter-apps.html</link>
+		<pubDate>Mon, 24 Nov 2014 14:54:08 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[search]]></category>
+		<category><![CDATA[tweetlibrary]]></category>
+		<category><![CDATA[tweetmarker]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[watermark]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2394.html</guid>
+		<description><![CDATA[I&#8217;m the guest on this week&#8217;s Mac Power Users podcast. In addition to workflow and apps I use, the discussion went off the rails a little into the Twitter app ecosystem, especially the fact that I no longer post to Twitter yet still have apps like Tweet Library, Watermark, and the Tweet Marker API that [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;m the guest on <a href="http://www.macpowerusers.com/2014/11/23/226-workflows-with-manton-reece/">this week&#8217;s Mac Power Users podcast</a>. In addition to workflow and apps I use, the discussion went off the rails a little into the Twitter app ecosystem, especially the fact that I no longer post to Twitter yet still have apps like Tweet Library, Watermark, and the Tweet Marker API that depend on Twitter. For the last 2 years this has been an odd decision on my part; I want to do the right thing for my customers, but I&#8217;m increasingly frustrated with life as a third-party Twitter developer.</p>
+<p>Last week, <a href="https://blog.twitter.com/2014/building-a-complete-tweet-index">Twitter announced</a> that they&#8217;ve expanded their search index to include the full history of tweets going back to 2006. I was thrilled by this upgrade to the Twitter service. That the search was so limited for so long was the primary reason I built Tweet Library and Watermark to begin with. Unfortunately, this functionality is only for the official Twitter apps. <a href="https://twittercommunity.com/t/search-api-the-new-complete-tweet-index-announcement/27883">It will not be made available</a> to third-party developers.</p>
+<p>It&#8217;s time for me to wind down development on my Twitter-related apps. I&#8217;ll continue to sell Tweet Library through the end of 2014, then remove it from the App Store. Watermark will also shut down at that time. Because all the tweets stored in Watermark are public tweets (by design it never supported DMs or protected accounts), I will attempt to make the entire Watermark database archive of millions of tweets available publicly. Existing customers can also sync tweets and collections to Dropbox for personal archiving.</p>
+<p>Published collections from Tweet Library or Watermark will be maintained indefinitely. No URLs will break, ever. Updating published collections will also continue to work for anyone who already owns Tweet Library.</p>
+<p>I will also continue to host the Tweet Marker API, but starting in January I will be more strict about requiring developers to pay for the service. Many developers have been paying for API access for a year (thank you!), but others have missed or ignored my requests to move to a paid plan. It&#8217;s not fair to the Twitter developers who have been paying for Tweet Marker access if some continue get the API for free.</p>
+<p>Many friends have told me over the years that I have <a href="http://www.riverfold.com/">too many products</a>. But letting any one product go is not easy. There&#8217;s an implicit promise when shipping software that the developer should maintain and improve it for customers. Stopping development on these apps is the right decision and possibly long overdue, but it&#8217;s still difficult. What gives me hope is that it will let me focus on new projects currently in development, which I couldn&#8217;t be more excited about.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Killing or selling the product</title>
+		<link>http://www.manton.org/2013/12/killing_or_selling.html</link>
+		<pubDate>Sat, 21 Dec 2013 01:40:17 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[glassboard]]></category>
+		<category><![CDATA[tweetmarker]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/12/killing_or_selling.html</guid>
+		<description><![CDATA[Nick Bradbury on selling Glassboard to Second Gear: “When finding a new owner was first discussed, I was very unsure of the idea. We wouldn’t be just handing over our software to someone else – we’d also be handing over our customers and their data. That was such a concern of mine that I suggested [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://nickbradbury.com/2013/12/20/glassboard-finds-a-home/">Nick Bradbury on selling Glassboard</a> to Second Gear:</p>
+<blockquote><p>
+  “When finding a new owner was first discussed, I was very unsure of the idea. We wouldn’t be just handing over our software to someone else – we’d also be handing over our customers and their data. That was such a concern of mine that I suggested we simply kill the product.”
+</p></blockquote>
+<p>A few times this year I’ve thought about whether I should sell Tweet Marker, but it usually comes back to a similar concern as what Nick says above. I wouldn’t feel comfortable selling it to most companies that would actually want to acquire it. So I’ve made <a href="http://manton.org/2013/07/announcing_the_tweet.html">a change</a> or <a href="http://manton.org/2013/11/tweet_marker.html">two</a>, and we’ll see how 2014 goes.</p>
+<p>As for Glassboard, I’m excited to see <a href="http://www.secondgearsoftware.com/blog/glassboard-acquired-by-second-gear/">what Justin Williams does with it</a>. We use it for Core Intuition questions and feedback (invite code “coreint”), and I’m sure I’ll be using the 3.0 version around conferences next year.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Tweet Marker now paid-only</title>
+		<link>http://www.manton.org/2013/11/tweet_marker_now.html</link>
+		<pubDate>Fri, 29 Nov 2013 16:09:40 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[api]]></category>
+		<category><![CDATA[apps]]></category>
+		<category><![CDATA[plans]]></category>
+		<category><![CDATA[tweetmarker]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/11/tweet_marker_now.html</guid>
+		<description><![CDATA[If you’ve read my blog posts about Tweet Marker over the years, including this one when introducing a paid plan, you might hear a little indecision on the right path forward. I’ve run it more like a community service and less like a business, and admittedly the window for turning it into a profitable endeavor [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>If you’ve read my blog posts about Tweet Marker over the years, including <a href="http://manton.org/2013/07/announcing_the_tweet.html">this one when introducing a paid plan</a>, you might hear a little indecision on the right path forward. I’ve run it more like a community service and less like a business, and admittedly the window for turning it into a profitable endeavor has slipped away. But I still want to make the service work well and improve it.</p>
+<p>After vacationing this week leading up to Thanksgiving, I finally realized I need to remove the support burden of giving out free access. Starting today, Tweet Marker will transition to a paid-only service. To make this easier, I’ve introduced a less expensive $25/month plan for smaller developers. (Previously the only choice was $75/month, which is now the top tier plan with unlimited active users.)</p>
+<p>This solves the problem of automating access to the API. Instead of having to manually fulfill API keys so that developers could try out Tweet Marker, which usually meant weeks or months of delay until I could get to it, by signing up online, developers get immediate access to the API without having to wait on me.</p>
+<p>In the short term, this change means that new apps must subscribe before using the API. In the long run, all existing apps should also transition to a paid plan. I haven’t set a hard deadline for existing apps yet, but will work with developers over the coming months to do so.</p>
+<p>You can learn more at <a href="https://api.tweetmarker.net/developers/">tweetmarker.net/developers/</a>.</p>
+<p><strong>Update:</strong> To be clear, this post is only for developers. There&#8217;s a <a href="https://api.tweetmarker.net/subscribe">$1/month subscription</a> for end users but it is optional.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Announcing the Tweet Marker developer plan</title>
+		<link>http://www.manton.org/2013/07/announcing_the_tweet.html</link>
+		<pubDate>Tue, 23 Jul 2013 14:17:40 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[developers]]></category>
+		<category><![CDATA[subscriptions]]></category>
+		<category><![CDATA[tweetmarker]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/07/announcing_the_tweet.html</guid>
+		<description><![CDATA[I’m launching a new paid developer plan for Tweet Marker today. It’s $75/month and includes a new admin dashboard with stats on active users, hits, and more. I’ve also expanded the API to support syncing which direct messages have been read. Why charge developers now, after keeping the service free for 2 years? In part [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I’m launching a new <a href="https://api.tweetmarker.net/developers/">paid developer plan for Tweet Marker</a> today. It’s $75/month and includes a new admin dashboard with stats on active users, hits, and more. I’ve also expanded the API to support syncing which direct messages have been read.</p>
+<p>Why charge developers now, after keeping the service free for 2 years? In part it’s because of something I learned from publishing the <a href="http://coreint.org/">Core Intuition</a> podcast with Daniel Jalkut. Because for the first few years of Core Intuition, Daniel and I had trouble getting episodes out very regularly; there was always something more important to work on. Adding sponsors pushed us to stick to a weekly schedule, and it’s worked out even better than I expected.</p>
+<p>I hope the same thing will happen for Tweet Marker. Although I’ve put countless hours into maintaining Tweet Marker (and plenty of money on hosting), I couldn’t justify the effort to create new APIs because it wasn’t a revenue-generating product. Now I can dedicate more time to it, even with a modest level of support from developers.</p>
+<p>Of course, I’m sensitive to the difficulty of transitioning from a free to paid product. That’s why I’m doing two things to make it easier for everyone.</p>
+<p>First, I won’t be turning off any existing developers’ access to the service. The last thing I’d want is to break third-party Twitter apps currently in use. But I do strongly encourage commercial app developers to subscribe if they have the means to.</p>
+<p>Second, I’ve created a referral program for app developers to let their customers know about the <a href="https://api.tweetmarker.net/subscribe">$1/month user subscription</a>. This is a great way for developers to show their support even if they can’t subscribe to the developer plan. But even better, for developers who do subscribe, their account will be credited for each paid user they refer. This can effectively make the new developer plan free or significantly discounted.</p>
+<p>This is a big change for Tweet Marker, but an important one to make Tweet Marker strong. I’m excited to keep working on it, so that Twitter apps can work even better together. <a href="https://api.tweetmarker.net/developers/signin">Sign in here</a> to learn more about it.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Twitter API v1.1</title>
+		<link>http://www.manton.org/2013/03/twitter_api_v11.html</link>
+		<pubDate>Wed, 20 Mar 2013 18:19:14 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[api]]></category>
+		<category><![CDATA[tweetlibrary]]></category>
+		<category><![CDATA[tweetmarker]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[watermark]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/03/twitter_api_v11.html</guid>
+		<description><![CDATA[My apps Watermark and Tweet Marker were recently updated to version 1.1 of Twitter’s API. I’ve also finished the coding changes in Tweet Library to support 1.1, but it has not yet been submitted to Apple. I expect it to be another week while I wrap up a new feature included in the update. I [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>My apps <a href="http://watermark.io/">Watermark</a> and <a href="http://tweetmarker.net/">Tweet Marker</a> were recently updated to version 1.1 of Twitter’s API. I’ve also finished the coding changes in Tweet Library to support 1.1, but it has not yet been submitted to Apple. I expect it to be another week while I wrap up a new feature included in the update.</p>
+<p>I don’t like having my release schedule dictated by others, but that’s life as a Twitter developer. And why I no longer post there.</p>
+<p>This matters today because Twitter is running an API <a href="https://dev.twitter.com/blog/api-v1-retirement-update">blackout test</a>. Tweet Library will not be able to load new tweets this afternoon for about an hour (3pm PST) while v1 is unavailable. I’ll post again here and from <a href="https://alpha.app.net/riverfold">@riverfold on App.net</a> when the new version of Tweet Library is shipped off to Apple and live in the App Store.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Replacements for Google Reader</title>
+		<link>http://www.manton.org/2013/03/replacements_for_google.html</link>
+		<pubDate>Sat, 16 Mar 2013 16:30:07 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[rss]]></category>
+		<category><![CDATA[sync]]></category>
+		<category><![CDATA[tweetmarker]]></category>
+		<category><![CDATA[watermark]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/03/replacements_for_google.html</guid>
+		<description><![CDATA[With the success of Tweet Marker, several people suggested I should build a sync server for RSS. This was last year and earlier this year, before Google Reader officially shut down, but after it was clear that we needed something better. I jotted down some notes for a couple ideas but ultimately decided not to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>With the success of Tweet Marker, several people suggested I should build a sync server for RSS. This was last year and earlier this year, before Google Reader officially shut down, but after <a href="http://inessential.com/2013/02/11/rss_sync_apocalypse_preview">it was clear that we needed something better</a>. I jotted down some notes for a couple ideas but ultimately decided not to do it. I’ve already got my hands full with my current shipping products!</p>
+<p>Luckily many great developers are now on this. <a href="http://feedwrangler.net/">Feed Wrangler</a> from David Smith, hopes for a <a href="http://bitsplitting.org/2013/03/13/netnewswire-cloud/">possible NetNewsWire Cloud</a>, more <a href="https://twitter.com/shauninman/statuses/312187680832229377">interest in Fever</a>, and other established web apps like <a href="http://www.newsblur.com/">NewsBlur</a> and <a href="http://www.feedly.com/">Feedly</a>.  As Marco Arment said, this <a href="http://www.marco.org/2013/03/13/google-reader-sunset">could end up being a great thing</a> for innovation in blogs and RSS again.</p>
+<p>But just because I’m going to watch on the sidelines for the server sync part of RSS, doesn’t mean I’m going to completely skip building better RSS support into my own products. There’s a lot I’d like to do with client-side RSS support in Watermark.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Business vs. user experience</title>
+		<link>http://www.manton.org/2013/01/business_vs_user.html</link>
+		<pubDate>Mon, 14 Jan 2013 15:35:08 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[subscribers]]></category>
+		<category><![CDATA[tweetmarker]]></category>
+		<category><![CDATA[upsell]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/01/business_vs_user.html</guid>
+		<description><![CDATA[Some companies seem willing to do anything for a profit. The worst domain name registrars and their pages filled with up-sells. News blogs that spread articles across several sections to increase page views. We see examples all the time of blatant attempts to increase sales just a little at the expense of usability. But the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Some companies seem willing to do anything for a profit. The worst domain name registrars and their pages filled with up-sells. News blogs that spread articles across several sections to increase page views. We see examples all the time of blatant attempts to increase sales <em>just a little</em> at the expense of usability.</p>
+<p>But the reverse can also be a mistake. For example, my own <a href="http://tweetmarker.net/">Tweet Marker</a>. I wanted the setup user experience to be so effortless that the user merely needs to flip a switch to enable it in their favorite apps, or do nothing for the apps that choose to use Tweet Marker by default. There’s no formal registration, no prompt for an email address.</p>
+<p>Now I find myself with 500,000 total users who have tried Tweet Marker, but no way to follow up with them to see if they are interested in upgrading to the $1/month subscriber plan. The service is, frankly, a financial failure. More like a charity experiment than a business.</p>
+<p>I’ve been giving this a lot of thought, and introducing the subscriber plan was the latest part of a renewed effort with Tweet Marker. I’m determined to make it work, even if it’s too late to shift the balance between business needs and user experience to something that makes more sense.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.322 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 17:28:30 -->

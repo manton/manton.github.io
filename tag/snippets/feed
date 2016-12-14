@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>snippets &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/snippets/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:36:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Twitter at 10 years</title>
+		<link>http://www.manton.org/2016/12/twitter-at-10-years.html</link>
+		<pubDate>Thu, 08 Dec 2016 15:15:40 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[c4]]></category>
+		<category><![CDATA[microblog]]></category>
+		<category><![CDATA[snippets]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4531</guid>
+		<description><![CDATA[It was 2008 in Chicago, the C4 conference was wrapping up and I shared a cab to the airport with Alex Payne, who built the first Twitter API. I was so excited about the potential for the platform that I probably had a dozen ideas for Twitter apps. Alex and I sat at a cafe [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>It was 2008 in Chicago, the C4 conference was wrapping up and I shared a cab to the airport with Alex Payne, who built the first Twitter API. I was so excited about the potential for the platform that I probably had a dozen ideas for Twitter apps. Alex and I sat at a cafe at the airport, waiting for our respective flights, and talked about the future.</p>
+<p>Years passed. I did build and ship a few Twitter apps, including the popular Tweet Marker sync API. But I also grew disillusioned. I took a break from using Twitter.</p>
+<p>Alex had left the company and Twitter was much different from a business and leadership perspective by the time the rest of the world started paying attention. Thousands of employees worked at Twitter. How many of them had experienced the early days of following friends&#8217; tweets via SMS, when the service seemed genuinely new and important? The future had arrived but it was full of hashtags.</p>
+<p>This year — with rumors of Twitter being acquired, with fake news and the election, with online harassment — many people have written about the future of Twitter. I&#8217;ve been paying attention again, experimenting <a href="http://www.manton.org/2016/01/fine-heres-a-twitter-feed.html">with cross-posting</a>. I missed the 10th anniversary of when I joined Twitter in July 2006, but not the date of <a href="https://twitter.com/manton/status/1457463">my first tweet</a> a few months later.</p>
+<p>10 years is a good milestone to reflect on. I want to highlight a few posts I&#8217;ve read recently, and then wrap things up at the end.</p>
+<p>What I like about <a href="https://productmatters.design/the-ghosts-of-twitter-past-present-and-future-a02827120927">this article by Faruk Ateş</a> is that he gives a sense of the major changes Twitter has gone through, most of which were difficult to fully understand at the time. On the change with @-replies:</p>
+<blockquote><p>
+  The second thing is that when they started hiding @-replies to people you don’t follow, they stripped the user experience of a vital ingredient for civility: peer transparency. The tone of discourse changed much for the worse over time, following that new behavior of the timeline. Before the rollout, all your friends would see if you behaved like a jerk to someone; after the rollout that was no longer the case. It removed the natural consequences of bad behavior, thereby encouraging people to reap the benefits of such bad behavior much more frequently.
+</p></blockquote>
+<p>This is a theme across many posts, that we didn&#8217;t realize what all these changes were adding up to. I have some related thoughts <a href="http://www.manton.org/2016/11/fake-news-and-instagram.html">about Instagram</a> and another post on why <a href="http://www.manton.org/2016/11/todays-social-networks-are-broken.html">today&#8217;s social networks are broken</a>.</p>
+<p>Next, <a href="https://www.bloomberg.com/features/2016-twitter-dorsey-strategy/">Sarah Frier writes for Bloomberg</a> about how Twitter leadership is losing faith in Jack Dorsey. That despite new features such as live video, Twitter failed to ship other development efforts and fell behind competitors:</p>
+<blockquote><p>
+  Advertisers see potential in the company’s live video strategy, but they’re also being wooed by photo- and video-sharing app Snapchat, and Facebook’s Instagram, which has recently become more advertiser-friendly. At the time of Twitter’s 2013 initial public offering, those services weren’t close competitors. Now they both have larger daily audiences than Twitter.
+</p></blockquote>
+<p>As long as Jack Dorsey has 2 jobs, it will be easy to blame him for being unfocused. I don&#8217;t know if that&#8217;s fair. But when streaming live football gets so much attention, there do appear to be competing visions at Twitter.</p>
+<p>Twitter is too expensive to acquire. It&#8217;s also too flawed for a company like Disney to take a risk on. So instead there was <a href="http://www.recode.net/2016/10/27/13399872/twitter-layoffs-q3-earnings">another round of layoffs</a>. From Kurt Wagner at Recode:</p>
+<blockquote><p>
+  Last year, <a href="http://www.recode.net/2015/10/13/11619520/twitter-will-cut-more-than-300-employees-8-percent-of-staff">Twitter also cut 300 jobs</a> shortly after Jack Dorsey took on the CEO role full-time. (Or part-time, given that he’s also running Square.) The current feeling among those close to the company is that Twitter is simply too bloated, and pays too much in stock-based compensation for a company that’s still not profitable.
+</p></blockquote>
+<p>There are no guarantees for an unprofitable company. The only certain thing is that something will change.</p>
+<p>Back to Alex Payne. <a href="https://al3x.net/2010/09/15/last-thing-about-twitter.html">He wrote a post 6 years ago</a> about his time at Twitter, and his unsuccessful attempt to convince coworkers to decentralize Twitter. It holds up very well:</p>
+<blockquote><p>
+  Decentralization isn’t just a better architecture, it’s an architecture that resists censorship and the corrupting influences of capital and marketing. At the very least, decentralization would make tweeting as fundamental and irrevocable a part of the Internet as email.
+</p></blockquote>
+<p>It used to be impossible to imagine that Twitter could fail. And today, it&#8217;s still unlikely to vanish or even change much overnight. But the <a href="https://indieweb.org/">web will be better</a> if we <em>assume</em> that Twitter is a lost cause. From the 10-year view, it&#8217;s clear that Twitter has already changed.</p>
+<p>Acquisition rumors come and go, although they seem more real this time, and we&#8217;re reminded that few web sites last forever. <a href="http://micro.blog/">It&#8217;s time to prepare</a> for a web without Twitter.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Thanks for using Searchpath</title>
+		<link>http://www.manton.org/2016/12/thanks-for-using-searchpath.html</link>
+		<pubDate>Thu, 01 Dec 2016 20:08:40 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[microblog]]></category>
+		<category><![CDATA[newsletters]]></category>
+		<category><![CDATA[searchpath]]></category>
+		<category><![CDATA[snippets]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4511</guid>
+		<description><![CDATA[Today I sent the following email to everyone who has used my web app Searchpath. While I&#8217;m disappointed that I&#8217;ve neglected Searchpath, focusing everything on Micro.blog just makes the most sense right now. Three years ago, I launched Searchpath to make it easy to embed a search box on any web site. Because you signed [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><em>Today I sent the following email to everyone who has used my web app Searchpath. While I&#8217;m disappointed that I&#8217;ve neglected Searchpath, focusing everything on Micro.blog just makes the most sense right now.</em></p>
+<p>Three years ago, I launched Searchpath to make it easy to embed a search box on any web site. Because you signed up to try it, either at the beginning or as a more recent paid subscriber, I wanted to thank you and let you know about the next steps for the service.</p>
+<p>While I still love the idea behind Searchpath, I have not been able to give it the attention it deserves. Lately the service has been costing more to run than can be supported by subscription revenue. I&#8217;ve disabled new accounts and started migrating the data in an effort to keep the service running for active users.</p>
+<p>Here&#8217;s what you need to know:</p>
+<ul>
+<li>If you had an active paid subscription, it has been cancelled and you won&#8217;t be billed again. The service will continue to run while you look for a new search solution.</li>
+<li>The current search index included many web sites that no longer use Searchpath. To save costs, I&#8217;ve reset the index. Active web sites using Searchpath will be automatically re-indexed.</li>
+</ul>
+<p>I hope to return to Searchpath at some point in the future. For now, it will run in this limited mode for current customers. If you have any questions, please let me know via email at <a href="mailto:support@riverfold.com">support@riverfold.com</a>.</p>
+<p>— Manton</p>
+<p>P.S. One reason I can&#8217;t focus on Searchpath is I&#8217;m preparing to launch a new weblog service. It&#8217;s called <a href="http://micro.blog/">Micro.blog</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Refocusing around Micro.blog</title>
+		<link>http://www.manton.org/2016/11/refocusing-around-micro-blog.html</link>
+		<pubDate>Mon, 28 Nov 2016 16:11:52 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[databases]]></category>
+		<category><![CDATA[microblog]]></category>
+		<category><![CDATA[searchpath]]></category>
+		<category><![CDATA[snippets]]></category>
+		<category><![CDATA[watermark]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4507</guid>
+		<description><![CDATA[As I talked about on Timetable, now that I have the micro.blog domain I get to figure out what to do with it. And what I&#8217;m hearing from friends and listeners is clear: throw out my jumble of Snippets-related names and use Micro.blog as the brand for the platform. It&#8217;s obvious now. Renaming a product [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>As I talked about <a href="http://timetable.manton.org/2016/11/episode-29-dot-blog/">on Timetable</a>, now that I have the micro.blog domain I get to figure out what to do with it. And what I&#8217;m hearing from friends and listeners is clear: throw out my jumble of Snippets-related names and use Micro.blog as the brand for the platform. It&#8217;s obvious now.</p>
+<p>Renaming a product before its official launch may not seem like a big deal, but in this case it gives the app a new importance. Just by renaming it, the app feels more ambitious. It forces me to devote more attention to it, which means saying goodbye to some of my other web apps that I can no longer focus on.</p>
+<p>I have a difficult time shutting down failing products. Over the weekend, I took some much-needed steps to finish winding down Watermark and Searchpath. I&#8217;ll be sending an email this week to everyone who has used Searchpath with the details.</p>
+<p>For Searchpath, I had procrastinated making a decision because even simple steps like closing new account registrations requires actually writing code and deploying changes. The index on my Elasticsearch server had grown to 90 GB, including Watermark as well. I needed a clean way to reset it and migrate the small number of active paid accounts somewhere else, to give customers time to find a new solution.</p>
+<p>I&#8217;ve tried a few technologies for search over the years. The first version of Watermark used Sphinx, which I loved but became a scaling issue with its default need to completely reindex MySQL data. Eventually I moved to self-hosted Elasticsearch, but I had to keep feeding it RAM as the index grew. It was never stable enough with my limited skills.</p>
+<p>As I noted in <a href="http://www.manton.org/2016/11/talkshow-im-archives.html">my post about Talkshow.im</a>, there&#8217;s no perfect way to admit defeat and clean up the mess left by a web app. It&#8217;s always a balance of responsibilities — to your own business and to your customers.</p>
+<p>But again, the way forward is clear. I should put everything into launching and growing my new microblog platform. It&#8217;s too much to maintain other web apps at the same time.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Today&#8217;s social networks are broken</title>
+		<link>http://www.manton.org/2016/11/todays-social-networks-are-broken.html</link>
+		<pubDate>Fri, 18 Nov 2016 16:02:47 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[openweb]]></category>
+		<category><![CDATA[snippets]]></category>
+		<category><![CDATA[social]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4471</guid>
+		<description><![CDATA[Brent Simmons has left Twitter, frustrated with the diminishing value of the service, Twitter&#8217;s inability to deal with harassment, and more: And then it was part of the system that helped elect a fascist President. This tipped it over for me: it’s no longer worth my participation. The shitheads can have it. Facebook has also [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://inessential.com/2016/11/09/on_leaving_twitter">Brent Simmons has left Twitter</a>, frustrated with the diminishing value of the service, Twitter&#8217;s inability to deal with harassment, and more:</p>
+<blockquote><p>
+  And then it was part of the system that helped elect a fascist President. This tipped it over for me: it’s no longer worth my participation. The shitheads can have it.
+</p></blockquote>
+<p>Facebook has also been in the news for <a href="http://mashable.com/2016/11/09/facebook-kill-news-feed-trump/">its role in letting fake news spread</a>. Ben Thompson has <a href="https://stratechery.com/2016/fake-news/">a long essay this week on it</a>:</p>
+<blockquote><p>
+  I get why top-down solutions are tempting: fake news and filter bubbles are in front of our face, and wouldn’t it be better if Facebook fixed them? The problem is the assumption that whoever wields that top-down power will just so happen to have the same views I do. What, though, if they don’t?
+</p></blockquote>
+<p>Maybe. Though while we should debate how to balance Facebook&#8217;s enormous power, there should be a parallel effort to move away from the centralized publishing model that gave Facebook that power.</p>
+<p>Facebook has confused itself into thinking it is the whole internet, and so the principles of a free press that apply to the open web, also must apply to Facebook. No. While Facebook has a great responsibility to do the right thing, because they are so big, Facebook is just a web site.</p>
+<p>I want Facebook to improve. I want Twitter to improve. But I can do very little to effect change at those companies, and some problems are so fundamental as to be essentially unfixable. The web wasn&#8217;t supposed to be like this, with all the power and all the writing concentrated into so few sites.</p>
+<p>It&#8217;s time for a new social network that brings discoverability and community without the baggage of an ad-driven network that must grow to a billion users. A social network that embraces the open web, and freedom of expression, while preserving a clean timeline that can&#8217;t be interrupted by harassment.</p>
+<p>Not just one new social network. I hope that many developers will work on products that encourage independent publishing again.</p>
+<p>It&#8217;s going to take time to build. That&#8217;s why I started working on <a href="http://snippets.today/">Snippets.today</a> 2 years ago. I&#8217;ve made great progress, but I&#8217;ve also drifted, unfocused, uncommitted to finishing it, as if I knew something was missing.</p>
+<p>Something <em>was</em> missing. The election results have made that clear. I was thinking big, but not big enough. The way forward must include both a decentralized publishing platform and the tools to encourage a safe community.</p>
+<p>If you&#8217;d like to know when the beta is finally ready, please <a href="http://eepurl.com/6vVvj">subscribe to the announce list</a>. Thank you.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Timetable 27</title>
+		<link>http://www.manton.org/2016/11/timetable-27.html</link>
+		<pubDate>Tue, 15 Nov 2016 23:14:31 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[books]]></category>
+		<category><![CDATA[election]]></category>
+		<category><![CDATA[podcasts]]></category>
+		<category><![CDATA[snippets]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4455</guid>
+		<description><![CDATA[Today I published a new episode of Timetable. It&#8217;s about Apple&#8217;s new design book but also about how social networks are broken, with a hint of what I think we can do about it. It&#8217;s just 3 and a half minutes long. As I&#8217;ve written about before, Apple no longer needs us to defend the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Today I published a <a href="http://timetable.manton.org/2016/11/episode-27-something-was-missing/">new episode of Timetable</a>. It&#8217;s about Apple&#8217;s new design book but also about how social networks are broken, with a hint of what I think we can do about it. It&#8217;s just 3 and a half minutes long.</p>
+<p>As <a href="http://www.manton.org/2016/10/apple-apologists.html">I&#8217;ve written about before</a>, Apple no longer needs us to defend the company. On the other hand, many good people work on Apple&#8217;s products and so criticizing the company can easily come across as criticizing those people. That&#8217;s not my intention, but I sometimes get that balance wrong.</p>
+<p>I own dozens and dozens of art books, but I won&#8217;t be ordering this new Apple design book. It looks overconfident instead of nostalgic. It looks like it celebrates objects instead of people. It looks like a beautiful book for the wrong time.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>On this day, last year</title>
+		<link>http://www.manton.org/2016/08/on-this-day-last-year.html</link>
+		<pubDate>Wed, 31 Aug 2016 17:00:40 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[kickstarter]]></category>
+		<category><![CDATA[risk]]></category>
+		<category><![CDATA[snippets]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4204</guid>
+		<description><![CDATA[One year ago today, I posted the first screenshots of Snippets.today for iPhone. I never would&#8217;ve guessed that a year later I&#8217;d still be working on the beta, still not quite ready to ship. One theme from that post a year ago is even more true today, though. To succeed I need to not just [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.manton.org/2015/08/doubt-with-screenshots.html">One year ago today</a>, I posted the first screenshots of Snippets.today for iPhone. I never would&#8217;ve guessed that a year later I&#8217;d still be working on the beta, still not quite ready to ship.</p>
+<p>One theme from that post a year ago is even more true today, though. To succeed I need to not just announce and market the product, but tell a story about why it matters. This realization is what has held up the Kickstarter video for so long. It doesn&#8217;t need to be perfect — I&#8217;m sure it will be flawed in a few ways — but it needs to be <em>right</em>, in that it should frame the idea of independent microblogging correctly.</p>
+<p>More from that post last year:</p>
+<blockquote><p>Earlier this year I gave a talk at CocoaConf about tips I’ve learned to be productive while juggling multiple projects. But as I worked on the talk, it turned out to be about something else. It was about Walt Disney moving from Kansas City to Hollywood. It was about crazy side projects that no one else believed in. It was about Texas Hold ‘Em poker and risking everything for an idea.</p></blockquote>
+<p>I still feel that risk. A long-overdue product is difficult to push forward, the weight starting to carry as much burden as potential. And everywhere I look there&#8217;s a new excuse to procrastinate.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>1 year indie</title>
+		<link>http://www.manton.org/2016/08/1-year-indie.html</link>
+		<pubDate>Mon, 01 Aug 2016 18:19:18 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[indie]]></category>
+		<category><![CDATA[revenue]]></category>
+		<category><![CDATA[riverfold]]></category>
+		<category><![CDATA[salary]]></category>
+		<category><![CDATA[snippets]]></category>
+		<category><![CDATA[wholefoods]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4156</guid>
+		<description><![CDATA[One year ago, I celebrated my first day without a boss. I had just written 2 weeks of daily blog posts about wrapping up work after 14 years at the same company. Today, I&#8217;m wearing the same Mac t-shirt and working from Whole Foods again to mark the anniversary. So how has it gone, a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.manton.org/2015/08/starting-over.html">One year ago</a>, I celebrated my first day without a boss. I had just written <a href="http://www.manton.org/tag/2weeks">2 weeks of daily blog posts</a> about wrapping up work after 14 years at the same company. Today, I&#8217;m wearing the same Mac t-shirt and working from Whole Foods again to mark the anniversary.</p>
+<p>So how has it gone, a full year as an independent developer? It depends who you ask. While I was leaving the best day job I&#8217;ll ever have, there&#8217;s still no substitute for the flexibility and freedom to work on my own projects. From that perspective, the last year has been amazing, with some great success on new revenue from <a href="http://www.coreint.org/">Core Intuition</a> and contracting too.</p>
+<p>And I made a few decisions early on with how to manage the business that have proven useful to smooth over the bumps. For example, I pay myself a fixed salary on the 1st day of each month, and for 12 months straight I&#8217;ve always met that goal. This month, I gave myself a small raise.</p>
+<p>On the other hand, I&#8217;m still bringing in less money than when I had a real job, and my wife might say that there&#8217;s a fine line between being self-employed and unemployed. We&#8217;ve let our credit card debt go unchecked. There&#8217;s been no slack in the high monthly expenses of the house, car payments, business costs like hosting, and everything else. My income from <a href="http://www.riverfold.com/">Riverfold</a> has grown significantly, but not significantly enough.</p>
+<p>Yet, I&#8217;m upbeat. I&#8217;m upbeat because of the potential for what I set out to do a year ago: ship <a href="http://snippets.today/">Snippets.today</a> and help revolutionize independent microblogging. That&#8217;s still the plan. That&#8217;s still why this experiment of working for myself is in its very early stages, even a year later.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Pre-announcing Snippets.today</title>
+		<link>http://www.manton.org/2016/07/pre-announcing-snippets-today.html</link>
+		<pubDate>Thu, 14 Jul 2016 20:08:45 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[coreint]]></category>
+		<category><![CDATA[email]]></category>
+		<category><![CDATA[snippets]]></category>
+		<category><![CDATA[timetable]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4121</guid>
+		<description><![CDATA[Earlier this week I sent an email to subscribers of the announce list for my microblogging project. These are people who signed up, wanting to hear more about what the project was and when the beta would be available. I talked about this on Core Intuition 241 today. Some people signed up a year ago, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Earlier this week <a href="http://eepurl.com/b42G0T">I sent an email</a> to subscribers of the announce list for my microblogging project. These are people who <a href="http://eepurl.com/6vVvj">signed up</a>, wanting to hear more about what the project was and when the beta would be available.</p>
+<p>I talked about this on <a href="http://coreint.org/241">Core Intuition 241</a> today. Some people signed up a year ago, and the longer I went without sending an email, the more nervous I became that I was missing an opportunity to sustain interest in the project. I was stuck on the idea that the first email to the list had to be when there was a product to either test or pay for.</p>
+<p>These decisions of when to release a product, what to write about, how to communicate new ideas without overwhelming potential customers — they seem so monumental, but the truth is it just doesn&#8217;t matter that much. When the feedback started rolling in over email, I quickly realized that I was worried for nothing. People were excited and supportive.</p>
+<p>I have a lot of work to do over the next couple of weeks before it&#8217;s ready to open up to real users. As I&#8217;ve talked about a few times on <a href="http://timetable.fm/">my Timetable podcast</a>, I&#8217;m planning a Kickstarter project to complement the web app. I&#8217;ll be sharing more soon.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Building on Jekyll</title>
+		<link>http://www.manton.org/2016/07/building-on-jekyll.html</link>
+		<pubDate>Wed, 06 Jul 2016 14:25:36 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[github]]></category>
+		<category><![CDATA[jekyll]]></category>
+		<category><![CDATA[microblogging]]></category>
+		<category><![CDATA[publishing]]></category>
+		<category><![CDATA[snippets]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4087</guid>
+		<description><![CDATA[If you were to build a weblog publishing system, would you start from scratch or build on an existing tool? There’s a healthy market for WordPress-powered hosting, for example, from WordPress.com itself to WP Engine. People know and trust these tools. I was faced with this question for my microblogging platform. My requirements were pretty [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>If you were to build a weblog publishing system, would you start from scratch or build on an existing tool? There’s a healthy market for WordPress-powered hosting, for example, from <a href="http://wordpress.com/">WordPress.com</a> itself to <a href="http://wpengine.com/">WP Engine</a>. People know and trust these tools.</p>
+<p>I was faced with this question for my microblogging platform. My requirements were pretty simple:</p>
+<ul>
+<li>The published site needed to be 100% static, so that I could host it anywhere.</li>
+<li>The template system needed to be widely used, so that I could draw on existing themes and provide customization for users later.</li>
+</ul>
+<p><a href="http://jekyllrb.com/">Jekyll</a> looked like a great choice. I’m so happy with how well this has worked that I mention Jekyll in the marketing and footer of published sites. It’s a brand that can help give users confidence that this is built on something solid, and that if they need to migrate to self-hosted, there’s a path.</p>
+<p>On top of Jekyll, I built a web interface for publishing and deleting posts, changing themes, and I added XML-RPC support so that you can use external blog editors like MarsEdit. Plus there’s a native iPhone app for posting.</p>
+<p>All of this enables another feature that I’m very excited about: full mirroring to <a href="http://pages.github.com/">GitHub Pages</a>. When you publish a microblog site, you can have it upload all the Markdown and HTML to a GitHub repository. This is a great way to export or mirror your content.</p>
+<p>I think it’s a good foundation. Publishing is actually a small part of the overall microblog platform I’ve built, but it’s an important one. I can’t wait to share more and keep building features up around Jekyll.</p>
+<p>I’m writing a short e-book about everything I’ve learned, and I’ll have news soon about early access to the platform. You should <a href="http://eepurl.com/6vVvj">sign up on the announce mailing list</a> before next week.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Timetable episodes 19 and 20</title>
+		<link>http://www.manton.org/2016/04/timetable-episodes-19-and-20.html</link>
+		<pubDate>Wed, 06 Apr 2016 20:29:53 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[kickstarter]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[snippets]]></category>
+		<category><![CDATA[timetable]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3835</guid>
+		<description><![CDATA[I published 2 new Timetable episodes this week, with a shared theme around Kickstarter projects. They&#8217;re both just 5-6 minutes long. Episode 19 is about how I finally sat down to record a video for my upcoming Kickstarter project. I still have editing to do, but I&#8217;m already feeling a lot better about actually launching [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I published 2 new <a href="http://timetable.fm/">Timetable</a> episodes this week, with a shared theme around Kickstarter projects. They&#8217;re both just 5-6 minutes long.</p>
+<p><a href="http://timetable.manton.org/2016/04/episode-19-kickstarter-recording/">Episode 19</a> is about how I finally sat down to record a video for my upcoming Kickstarter project. I still have editing to do, but I&#8217;m already feeling a lot better about actually launching this.</p>
+<p><a href="http://timetable.manton.org/2016/04/episode-20-kickstarter-rewards/">Episode 20</a> continues the discussion of Kickstarter, starting with my reaction after receiving the art book from <a href="http://blog.loish.net/">Loish</a> yesterday. I was really impressed with how well it was produced. Anytime I see something of such high quality I&#8217;m inspired to do a better job with my own work.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.291 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 16:44:59 -->

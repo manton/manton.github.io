@@ -9,12 +9,12 @@
 <html lang="en-US">
 <!--<![endif]-->
 
-<!-- Mirrored from www.manton.org/?p=1626 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 13 Dec 2016 22:20:54 GMT -->
+<!-- Mirrored from www.manton.org/?p=2504 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 13 Dec 2016 23:30:20 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width" />
-<title>Why Cocoa text drags are broken | Manton Reece</title>
+<title>Criticizing Apple | Manton Reece</title>
 <link rel="profile" href="http://gmpg.org/xfn/11" />
 <link href="https://github.com/manton" rel="me" />
 <link rel="pingback" href="xmlrpc.php" />
@@ -53,20 +53,20 @@ img.emoji {
 <link rel='https://api.w.org/' href='wp-json/index.html' />
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" /> 
-<link rel='prev' title='Running Mac OS X' href='2003/12/running_mac_os.html' />
-<link rel='next' title='Stopdesign on CSS layout options' href='2003/12/stopdesign_on_css.html' />
+<link rel='prev' title='Short and sweet job posts' href='2015/03/short-and-sweet-job-posts.html' />
+<link rel='next' title='Next Post' href='2015/03/2507.html' />
 <meta name="generator" content="WordPress 4.6.1" />
-<link rel="canonical" href="2003/12/why_cocoa_text.html" />
-<link rel='shortlink' href='indexe264-2.html?p=1626' />
-<link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed07e4.json?url=http%3A%2F%2Fwww.manton.org%2F2003%2F12%2Fwhy_cocoa_text.html" />
-<link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embedbe58?url=http%3A%2F%2Fwww.manton.org%2F2003%2F12%2Fwhy_cocoa_text.html&amp;format=xml" />
+<link rel="canonical" href="2015/03/criticizing-apple.html" />
+<link rel='shortlink' href='indexe264-2.html?p=2504' />
+<link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed5962.json?url=http%3A%2F%2Fwww.manton.org%2F2015%2F03%2Fcriticizing-apple.html" />
+<link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embedc2bb?url=http%3A%2F%2Fwww.manton.org%2F2015%2F03%2Fcriticizing-apple.html&amp;format=xml" />
 <style type='text/css'>img#wpstats{display:none}</style><link rel="http://webmention.org/" href="indexc2e3.html?webmention=endpoint" />
 <link rel="webmention" href="indexc2e3.html?webmention=endpoint" />
 
 <style id="custom-css-css">#site-navigation{display:none}.site-content article{border-bottom:0;margin-bottom:1em;padding-bottom:1em;word-wrap:normal;-webkit-hyphens:none}.site-content article.format-standard{border-bottom:1px solid lightgray;margin-bottom:2em;padding-bottom:2em}.site-content article.format-status{border-bottom:1px solid #fff;margin-bottom:0;padding-bottom:0}.site-content .category-micro{padding-bottom:.1em}.entry-content blockquote{padding:.7em;font-style:normal;margin-left:20px;border-left:1px solid lightgray;padding-left:15px;padding-right:15px}#colophon{display:none}.avatar{display:none}header.site-header{padding-top:24px;padding-bottom:0}.site-title{padding-left:60px;padding-top:5px;background-image:url(images/2016/header_me.png);background-size:50px 50px;background-repeat:no-repeat;height:50px;font-family:"Avenir Next";font-weight:lighter}h2 a{font-size:1.2em}.format-status .entry-header{margin-bottom:1em}.format-status .entry-content p{margin-bottom:0}.status_link{font-size:12px;text-decoration:none;color:gray}body{font-family:Avenir, sans-serif}footer{margin-top:0}p{font-size:16px}li#menu-item-3939:after{content:" 🏀"}img{height:100%}</style>
 </head>
 
-<body class="single single-post postid-1626 single-format-standard single-author">
+<body class="single single-post postid-2504 single-format-standard single-author">
 <div id="page" class="hfeed site">
 	<header id="masthead" class="site-header" role="banner">
 		<hgroup>
@@ -88,38 +88,35 @@ img.emoji {
 
 			
 				
-	<article id="post-1626" class="post-1626 post type-post status-publish format-standard hentry category-programming">
+	<article id="post-2504" class="post-2504 post type-post status-publish format-standard hentry category-business tag-animation-2 tag-apple tag-art-2 tag-haters">
 				<header class="entry-header">
 			
-						<h1 class="entry-title">Why Cocoa text drags are broken</h1>
+						<h1 class="entry-title">Criticizing Apple</h1>
 								</header><!-- .entry-header -->
 
 				<div class="entry-content">
-			<p>Apple still hasn&#8217;t fixed text drag-and-drop in Cocoa. In addition to going against how drag-and-drop has worked in previous versions of Mac OS for a decade, I believe it is based on a flawed concept. Has it seen any usability testing within Apple?</p>
-<p>I guess the argument for this behavior goes something like this: Because selecting text is more common than drag-and-drop, dragging over a previously selected run of text should take precedence. If you really want to drag the text itself, merely hold the mouse down for a half-second after the click and then drag. Simple, right?</p>
-<p>Not at all, for three reasons:</p>
-<ol>
-<li>It is counter to how drag and drop works in the rest of the system.</li>
-<li>It is slower.</li>
-<li>It is difficult for a new user to &#8220;learn&#8221; this Cocoa behavior.</li>
-</ol>
-<p>The first is easy enough. If you can drag most &#8220;things&#8221; (a file in the Finder, or a window, or an object in a graphic design application) by clicking and dragging right away, why should dragging selected text be any different?</p>
-<p>And it&#8217;s slower not just because you have to click and hold, but because you have to think too much. How long do I hold? Half second? Full second? Us humans never know exactly, and it&#8217;s easy to make a mistake and get a selection when you wanted a drag.</p>
-<p>To illustrate what I mean by the last reason, let&#8217;s go over how someone would learn to make selections and use text drag-and-drop.</p>
-<p>The Cocoa way: User makes a selection. They want to drag that selection, but instead the app keeps making a new selection where they clicked. User tries a few more times, then gives up, thinking that the app doesn&#8217;t support dragging of text. They use copy-and-paste instead.</p>
-<p>The Carbon and old Mac way: User makes a selection. They drag that selection and it works as expected. If they are a new user, they might try to make a selection inside an existing selection, but without meaning to drag it. In this case they get the wrong behavior &#8212; the text starts to drag and they are momentarily confused. The next time this happens, they realize that they should single-click to remove the selection before making a new one in the same run of text.</p>
-<p>See the difference? With the original Mac drag-and-drop behavior, the user might make a mistake once but that process teaches them how selection and drag-and-drop works. With the Cocoa behavior, the user might <b>never</b> learn how text drag-and-drop works!</p>
-<p>Luckily, Mac developers using Cocoa can override this behavior in their application (which speaks to the power of those frameworks), but I have yet to see an application that does.</p>
+			<p><a href="http://www.marco.org/2015/03/25/censoring-myself-for-apple">Marco Arment reacts</a> to the idea that he’s withholding criticism:</p>
+<blockquote><p>
+  “As anyone who’s read my site and listened to our podcast for a while would know, I criticize Apple <em>all the time</em>. A developer’s view of their computing platform and software distribution partner is like any developer’s view of their programming language of choice: if you don’t think there are any major shortcomings, you just don’t know it well enough yet.”
+</p></blockquote>
+<p>This is all true, but I also think there’s something unique about Apple: we expect greatness in everything they do. It wouldn’t be the same Apple we love if we brushed complaints aside when the company falls short. And as Marco points out, Apple employees aren’t scared of negative feedback, because they want to build great products too.</p>
+<p>A number of years ago I was <a href="2008/04/ollie_johnston.html">sick of programming</a> and went back to school to study art and <a href="2003/10/old_life_drawings.html">life drawing</a>. Maybe more than anything else, I came away with a new appreciation for self-criticism, and accepting the critiques of others. Because that’s how you get better. Until you can <em>see</em> what’s wrong — your drawing sucks and your iOS app is slow and buggy — you have no hope to improve.</p>
+<p>The key in both art and technology is to understand the difference between constructive criticism and just complaining. <a href="http://www.marco.org/2015/01/04/apple-lost-functional-high-ground">Marco’s original post</a> was about calling out Apple on lower quality standards in the hope that they could focus and get better. Many of the “me too” posts that followed were from Apple haters who were looking for page views and couldn’t care less if Apple quality improved.</p>
+<p><a href="http://bitsplitting.org/2015/03/25/the-risks-and-rewards-of-criticism/">Daniel Jalkut writes</a> that it&#8217;s about how we react to criticism that matters:</p>
+<blockquote><p>
+  &#8220;This is what happens when well-formed criticism meets the ears of a confident, competent individual: the facts are taken to heart and studied, perhaps grudgingly. But upon reflection and determination that there was merit in the complaint, respect for the source of the provocation goes through the roof.&#8221;
+</p></blockquote>
+<p>I’ve been working on an essay about the Apple Watch Edition and why I think it’s wrong for Apple. I do worry a little about putting out a controversial, half-baked opinion. And yet, I’ve seen no one else make my argument against the Edition in the meantime. If I want Apple to live up to the very high standard I hold them to, I can’t withhold my opinion on the direction of the company, regardless of whether that opinion will be warmly received.</p>
 					</div><!-- .entry-content -->
 		
 		<footer class="entry-meta">
-			This entry was posted in <a href="category/programming.html" rel="category tag">Programming</a> on <a href="2003/12/why_cocoa_text.html" title="8:32 pm" rel="bookmark"><time class="entry-date" datetime="2003-12-22T20:32:59+00:00">2003/12/22</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="author/manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
+			This entry was posted in <a href="category/business.html" rel="category tag">Business</a> and tagged <a href="tag/animation-2.html" rel="tag">animation</a>, <a href="tag/apple.html" rel="tag">apple</a>, <a href="tag/art-2.html" rel="tag">art</a>, <a href="tag/haters.html" rel="tag">haters</a> on <a href="2015/03/criticizing-apple.html" title="11:19 am" rel="bookmark"><time class="entry-date" datetime="2015-03-27T11:19:53+00:00">2015/03/27</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="author/manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
 	</article><!-- #post -->
 
 				<nav class="nav-single">
 					<h3 class="assistive-text">Post navigation</h3>
-					<span class="nav-previous"><a href="2003/12/running_mac_os.html" rel="prev"><span class="meta-nav">&larr;</span> Running Mac OS X</a></span>
-					<span class="nav-next"><a href="2003/12/stopdesign_on_css.html" rel="next">Stopdesign on CSS layout options <span class="meta-nav">&rarr;</span></a></span>
+					<span class="nav-previous"><a href="2015/03/short-and-sweet-job-posts.html" rel="prev"><span class="meta-nav">&larr;</span> Short and sweet job posts</a></span>
+					<span class="nav-next"><a href="2015/03/2507.html" rel="next">Next Post <span class="meta-nav">&rarr;</span></a></span>
 				</nav><!-- .nav-single -->
 
 				
@@ -362,17 +359,17 @@ img.emoji {
 	</footer><!-- #colophon -->
 </div><!-- #page -->
 
-<script type='text/javascript' src='wp-content/themes/twentytwelve/js/navigationa462.html?ver=20140318'></script>
+<script type='text/javascript' src='wp-content/themes/twentytwelve/js/navigationa462.js?ver=20140318'></script>
 <script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201650'></script>
 <script type='text/javascript' src='wp-includes/js/wp-embed.min1c9b.js?ver=4.6.1'></script>
 <script type='text/javascript' src='http://stats.wp.com/e-201650.js' async defer></script>
 <script type='text/javascript'>
 	_stq = window._stq || [];
-	_stq.push([ 'view', {v:'ext',j:'1:4.2.2',blog:'74089361',post:'1626',tz:'-6',srv:'www.manton.org'} ]);
-	_stq.push([ 'clickTrackerInit', '74089361', '1626' ]);
+	_stq.push([ 'view', {v:'ext',j:'1:4.2.2',blog:'74089361',post:'2504',tz:'-6',srv:'www.manton.org'} ]);
+	_stq.push([ 'clickTrackerInit', '74089361', '2504' ]);
 </script>
 
 </body>
 
-<!-- Mirrored from www.manton.org/?p=1626 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 13 Dec 2016 22:20:54 GMT -->
+<!-- Mirrored from www.manton.org/?p=2504 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 13 Dec 2016 23:30:20 GMT -->
 </html>

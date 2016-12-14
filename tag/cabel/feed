@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>cabel &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/cabel/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:36:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Macworld guest essays</title>
+		<link>http://www.manton.org/2013/04/macworld_guest_essays.html</link>
+		<pubDate>Mon, 15 Apr 2013 15:18:27 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[brent]]></category>
+		<category><![CDATA[cabel]]></category>
+		<category><![CDATA[macworld]]></category>
+		<category><![CDATA[microsoft]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/04/macworld_guest_essays.html</guid>
+		<description><![CDATA[There were a couple special essays on Macworld recently — guest posts from the developer community. First Brent Simmons, who argues that Microsoft isn’t the enemy anymore: “The threat to Macintosh was not that Windows machines were cheaper, or that people had bad taste—the biggest reason was that they worked with everything. That was why [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>There were a couple special essays on Macworld recently — guest posts from the developer community. <a href="http://www.macworld.com/article/2031592/apple-fans-microsoft-is-no-longer-the-enemy.html">First Brent Simmons</a>, who argues that Microsoft isn’t the enemy anymore:</p>
+<blockquote><p>
+  “The threat to Macintosh was not that Windows machines were cheaper, or that people had bad taste—the biggest reason was that they worked with everything. That was why Apple asked Microsoft in 1997 to continue developing Office for Macs, so we could at least say you could run Word and Excel on Macs. […] But, these days, <em>everything</em> works with everything.”
+</p></blockquote>
+<p>And <a href="http://www.macworld.com/article/2033728/apple-unfortunately-no-longer-the-underdog.html">followed by Cabel Sasser</a>, with a similar theme:</p>
+<blockquote><p>
+  “I sometimes very awkwardly find myself rooting for Microsoft, Nokia—anybody—to put up a good fight and keep that fire burning under Apple’s collective behind. The smartest, most incredible people work in Cupertino, and their capabilities are boundless and their drive is endless, but sometimes—especially as a developer—you get the feeling that Apple doesn’t really need you, and will do just fine without you, thank you very much. I want Apple to need us.”
+</p></blockquote>
+<p>Both great essays.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>iPad commercial</title>
+		<link>http://www.manton.org/2010/03/ipad_commercial.html</link>
+		<pubDate>Mon, 08 Mar 2010 16:28:31 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[ads]]></category>
+		<category><![CDATA[cabel]]></category>
+		<category><![CDATA[dslite]]></category>
+		<category><![CDATA[ipad]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2010/03/ipad_commercial.html</guid>
+		<description><![CDATA[When &#8220;the iPad commercial&#8221;:http://www.apple.com/ipad/gallery/#hardware06 popped up during the Oscars, I thought it captured the power and elegance of the device extremely well. But as I commented on Twitter, after repeat viewings you can see that it&#8217;s probably faked. The iPad must have been filmed on a stand or table and then composited into the shot [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>When &#8220;the iPad commercial&#8221;:http://www.apple.com/ipad/gallery/#hardware06 popped up during the Oscars, I thought it captured the power and elegance of the device extremely well. But as I commented on Twitter, after repeat viewings you can see that it&#8217;s probably faked. The iPad must have been filmed on a stand or table and then composited into the shot later.</p>
+<p>Contrast this to &#8220;Cabel Sasser&#8217;s&#8221;:http://www.cabel.name/2006/03/nintendo-ds-lite-first-look.html video of the Nintendo DS Lite, which was a faithful presentation of how the game system feels to use and yet still &#8220;sold people on the device&#8221;:http://twitter.com/shauninman/status/10175596516.</p>
+<p>Apple stretches the truth with all the iPod and iPhone ads and it never bothered me before, but this one seems wrong. How it feels to hold an iPad will be the difference between a good product and a great one. Can you hold it still with one hand? How easy is it to rotate it? What is the angle like when propping it on your legs?</p>
+<p>This is a pretty minor complaint &mdash; I&#8217;ll be pre-ordering my iPad this Friday regardless and couldn&#8217;t be more excited &mdash; but I wish Apple didn&#8217;t feel the need to lie about such an important part of the product.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.237 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 17:16:39 -->

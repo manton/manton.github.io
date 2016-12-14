@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ios7 &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/ios7/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:36:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>iOS 7 and UI debt</title>
+		<link>http://www.manton.org/2014/04/ios_7_and.html</link>
+		<pubDate>Tue, 29 Apr 2014 22:09:03 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[features]]></category>
+		<category><![CDATA[ios7]]></category>
+		<category><![CDATA[thirdparty]]></category>
+		<category><![CDATA[uikit]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/04/ios_7_and.html</guid>
+		<description><![CDATA[Jared Sinclair writes about iOS 7 as a squandered year for third-party developers: “Fast-forwarding a year, the effect that iOS 7 has had on third party development is disheartening — which sounds like a fatuous thing to say, since there have been so many well-liked redesigns over the past year. But that’s the rub: the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://blog.jaredsinclair.com/post/84237156390/ios-7-squandered-a-year-of-third-party-development-on">Jared Sinclair writes about iOS 7 as a squandered year</a> for third-party developers:</p>
+<blockquote><p>
+  “Fast-forwarding a year, the effect that iOS 7 has had on third party development is disheartening — which sounds like a fatuous thing to say, since there have been so many well-liked redesigns over the past year. But that’s the rub: the vast majority of third-party developers’ time has been spent redesigning and reimplementing apps to dress the part for iOS 7.”
+</p></blockquote>
+<p>I agree with Jared that it was a sort of lost year for app features, but <a href="http://inessential.com/2014/04/29/the_cost_of_ios_7">Brent also has a point</a>:</p>
+<blockquote><p>
+  “Jared argues that iOS 7 wasn’t urgent, that evolution rather than revolution would have been fine, since customer satisfaction was extremely high with iOS 6. In retrospect I agree, but were I at Apple I would have argued that the situation is like tech debt — UI debt — and it’s best to deal with it quickly, completely, and early.”
+</p></blockquote>
+<p>They had to deal with it all at once because UIKit’s look and feel didn’t really evolve the same way Mac OS X usually does, a little each year. Even Aqua, the most dramatic change ever to the Mac’s UI, was fairly straightforward for developers to adopt; if you stuck with consistent Mac controls, you got a lot for free. There was very little of that kind of consistency on iOS because developers frequently built their own custom UIs which had to be thrown out when iOS 7 happened.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Tint color misuse</title>
+		<link>http://www.manton.org/2014/04/tint_color.html</link>
+		<pubDate>Thu, 17 Apr 2014 20:52:49 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[color]]></category>
+		<category><![CDATA[ios7]]></category>
+		<category><![CDATA[tint]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2014/04/tint_color_misuse.html</guid>
+		<description><![CDATA[It has been nearly a year since the first iOS 7 beta, and something about tint color still bugs me. In fact it bothered me enough at the time of the early betas that a filed a bug on it with Apple, something I very rarely do. The problem isn’t so much in the concept [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>It has been nearly a year since the first iOS 7 beta, and something about tint color still bugs me. In fact it bothered me enough at the time of the early betas that a filed a bug on it with Apple, something I very rarely do. The problem isn’t so much in the concept of tint color, which I like; having a consistent color for buttons and links, especially now that buttons are so understated, makes a lot of sense. The problem is the implementation in apps that use tint color anytime they want to highlight something, whether it is tappable or not.</p>
+<p>Here’s an example in Apple’s calendar app. It uses a red tint color for buttons, but it also highlights the current day with a round circle using the tint color. It looks tappable, but it’s not.</p>
+<p><img src="http://www.manton.org/images/2014/tint_calendar.png" width="600" height="200" alt="Calendar" style="padding-top: 10px; padding-bottom: 10px;" /></p>
+<p>And here’s an even worse example, from the App Store app. “Categories” in this screenshot is a button, but “Paid” directly underneath it — same blue, same font and style — is just highlighted to show that you are viewing paid apps. It’s actually “Top Grossing” that is the button.</p>
+<p><img src="http://www.manton.org/images/2014/tint_appstore.png" width="600" height="200" alt="App Store" style="padding-top: 10px; padding-bottom: 10px;" /></p>
+<p>These kind of usability mistakes turn the great potential of tint color into a disadvantage. It’s like underlined text on the web that can’t be clicked. Apps should use tint color to improve usability, not to become even more difficult to use than if everyone rolled their own button styles.</p>
+<p>Here’s what Apple’s <a href="https://developer.apple.com/library/ios/documentation/userexperience/conceptual/transitionguide/AppearanceCustomization.html">iOS 7 UI Transition Guide</a> says:</p>
+<blockquote><p>
+  “In iOS 7, tint color is a property of UIView. iOS 7 apps often use a tint to define a key color that indicates interactivity and selection state for UI elements throughout the app.”
+</p></blockquote>
+<p>But that’s not specific enough. The app screenshots above are following this rule, and it still looks wrong. Bold text or a gray background for highlights are much more effective to show selection state than tint color. I would completely avoid tint color for selection state except for controls that have 3 or more segments, such as a tab bar, and even then sparingly. Highlighting a 1- or 2-segment control with tint color is always going to be confusing, because the selected segment looks like it can be tapped.</p>
+<p>With this in mind, fixing the App Store app is a simple change:</p>
+<p><img src="http://www.manton.org/images/2014/tint_appstore2.png" width="600" height="200" alt="App Store" style="padding-top: 10px; padding-bottom: 10px;" /></p>
+<p>(You could make the “Top Grossing” button blue or not. I don’t think it’s necessary in this case.)</p>
+<p>The best iOS 7 apps I’ve seen follow the spirit of Apple’s guidelines, but they know when to push beyond Apple’s built-in apps and when to pull back and do less. Tint color seems like an obvious case of where we should be more consistent and strict than Apple intended.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Layered glass</title>
+		<link>http://www.manton.org/2013/07/layered_glass.html</link>
+		<pubDate>Fri, 12 Jul 2013 16:28:37 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[User Experience]]></category>
+		<category><![CDATA[2d]]></category>
+		<category><![CDATA[glass]]></category>
+		<category><![CDATA[ios7]]></category>
+		<category><![CDATA[macworld]]></category>
+		<category><![CDATA[tweetbot]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/07/layered_glass.html</guid>
+		<description><![CDATA[Nate Barham describes iOS 7 as layered glass: “The best developers will see iOS as an operational model, not a visual one. Imagine a Tapbots app that, instead of removing the cute ‘I’m a twitter robot in your phone!’ aesthetic, doubles down on it. Zooming metal plates, ratcheting gears not shadowed from without but appearing [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://natebarham.com/post/53767446736/layered-glass-the-nothing-ui">Nate Barham describes iOS 7</a> as layered glass:</p>
+<blockquote><p>
+  “The best developers will see iOS as an operational model, not a visual one. Imagine a Tapbots app that, instead of removing the cute ‘I’m a twitter robot in your phone!’ aesthetic, doubles down on it. Zooming metal plates, ratcheting gears not shadowed from without but appearing from within the device, only now it isn’t a robot-esque layer over the stock controls, the UI becomes the character that the developer envisions—even more so than it has ever done before.”
+</p></blockquote>
+<p>I really like this post, but I’m not totally sold on the paragraph quoted above. Done right, it could be brilliant. But this is a very difficult thing to pull off, keeping the playful spirit of Tweetbot with a lighter, minimalist iOS 7 UI.</p>
+<p>And related, if you missed <a href="http://www.macworld.com/article/2043265/why-ios-7s-design-is-bold-but-flawed.html">Christa Mrgan’s recent Macworld essay</a>, she also covers how iOS 7 will use depth and motion to switch from “faux 3D to real 2.5D”, with an example from Adobe’s After Effects. Makes me wonder if designers will need new prototyping tools.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Doug Engelbart and the pace of change</title>
+		<link>http://www.manton.org/2013/07/doug_engelbart_and.html</link>
+		<pubDate>Mon, 08 Jul 2013 18:05:13 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[deprecation]]></category>
+		<category><![CDATA[engelbart]]></category>
+		<category><![CDATA[ios7]]></category>
+		<category><![CDATA[marco]]></category>
+		<category><![CDATA[rails]]></category>
+		<category><![CDATA[winer]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/07/doug_engelbart_and.html</guid>
+		<description><![CDATA[Dave Winer writes about Doug Engelbart and the pace of changing computing systems: “If you want to get the most out of great developers like Engelbart, who are productive well into their 80s, you have to stop digging up the streets, moving the goalposts, bombing the cities, starting over just for the sake of starting [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://threads2.scripting.com/2013/july/engelbartWasSidelined">Dave Winer writes about Doug Engelbart</a> and the pace of changing computing systems:</p>
+<blockquote><p>
+  “If you want to get the most out of great developers like Engelbart, who are productive well into their 80s, you have to stop digging up the streets, moving the goalposts, bombing the cities, starting over just for the sake of starting over.”
+</p></blockquote>
+<p>While there’s certainly a time to <a href="http://www.marco.org/2013/06/11/fertile-ground">burn the forest for new growth and opportunity</a>, I have little patience for those developers who spend more time <a href="http://edgeguides.rubyonrails.org/4_0_release_notes.html">breaking old code than creating new value</a>. Maybe it’s a sign I’m getting old — that I’ve lost my taste for innovation at a technical low level — but I don’t look forward to rewriting all my working code again and again.</p>
+<p>Very little has changed in this regard since I wrote <a href="http://www.manton.org/2010/08/deprecation_mentality.html">a blog post about deprecation</a> in 2010, which (fittingly) also linked to Dave Winer.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Multiplane</title>
+		<link>http://www.manton.org/2013/06/multiplane.html</link>
+		<pubDate>Mon, 17 Jun 2013 21:22:59 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Animation]]></category>
+		<category><![CDATA[animation]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[disney]]></category>
+		<category><![CDATA[ios7]]></category>
+		<category><![CDATA[iwerks]]></category>
+		<category><![CDATA[ui]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2013/06/multiplane.html</guid>
+		<description><![CDATA[“We spend a lot of time on a few great things.” — Designed by Apple in California In 1940, Ub Iwerks, the animator behind Walt Disney’s first Mickey Mouse shorts, came back to the Disney studios after a 10-year absence. Ub had famously produced hundreds of drawings alone each day for one of those first [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><em>“We spend a lot of time on a few great things.” — <a href="http://www.apple.com/designed-by-apple/">Designed by Apple in California</a></em></p>
+<p>In 1940, Ub Iwerks, the animator behind Walt Disney’s first Mickey Mouse shorts, came back to the Disney studios after a 10-year absence. Ub had famously produced hundreds of drawings alone each day for one of those first Mickey Mouse shorts, but Ub’s return to Disney would also be remembered for his contribution to the technical side of film production, with advances in cameras and special effects. In an industry with extreme specialization — you either did backgrounds, or animation, or ink-and-paint — Ub’s talents bridged both the artistic and technical.</p>
+<p>One of Ub’s inventions while away from Disney was called the multiplane camera. Perfected by others leading up to Snow White, in a massive camera stand over 10 feet tall, the multiplane’s innovation was to allow a background to be split into levels. Foreground trees might be painted on the glass of the first level, then the characters sat underneath that, and then farther back layers for a building, with others behind that for hills and sky.</p>
+<p>To provide a sense of depth, camera operators could vary the distance between each plane. And movement for each level could be synchronized at different speeds, giving it a beautiful parallax effect. Distant background levels moved more slowly and were naturally blurred and out of focus.</p>
+<p>80 years after Ub’s invention, the multiplane is alive in iOS 7. Previous versions of iOS were built on a single plane with raised and textured areas on that surface, like a topographical map except with buttons instead of mountains. iOS 7 is instead designed with multiple flat layers. Each level is strikingly flat, but by layering two or three, spaced apart, Apple has achieved an overall sense of depth.</p>
+<p>It’s a return to basics. Simple things can remain simple, readable. When clarity is needed, everything goes flat. But it’s a framework that allows for subtle motion and depth without changing what works about the new, content-first flat design. iOS 7’s control center blurs the layer below. The home screen background sits deeper too, as if only the app icons are touching the screen. Photos scroll under the navigation bar.</p>
+<p>Each plane is painted flat as if on glass. There can be no text drop shadows, no textures, without ruining the effect. And the result of this strict metaphor is equally valuable: there are no drop shadows to distract or obscure an app’s real content.</p>
+<p>Disney’s multiplane camera, first in a dedicated rig and then recreated in software, lasted for decades, until the era of 3D computer animation. iOS 7’s new look won’t last that long, but the core concepts should carry Apple for years. I really like where they’re headed.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.250 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 17:02:04 -->

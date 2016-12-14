@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>hivelogic &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/hivelogic/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:36:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Dan Benjamin turns it up</title>
+		<link>http://www.manton.org/2009/01/dan_benjamin_turns.html</link>
+		<pubDate>Sun, 04 Jan 2009 23:00:03 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[hivelogic]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2009/01/dan_benjamin_turns.html</guid>
+		<description><![CDATA[Dan Benjamin did something interesting several weeks ago: he took his popular blog Hivelogic, where he&#8217;s been posting since 2001, and rebranded the content under a new domain, &#8220;danbenjamin.com&#8221;:http://danbenjamin.com/. Apparently that was just the kick he needed to &#8220;get even more serious&#8221;:http://twitter.com/danbenjamin/status/1095227235 about blogging, because he&#8217;s been on a roll lately. A couple of my [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Dan Benjamin did something interesting several weeks ago: he took his popular blog Hivelogic, where he&#8217;s been posting since 2001, and rebranded the content under a new domain, &#8220;danbenjamin.com&#8221;:http://danbenjamin.com/. Apparently that was just the kick he needed to &#8220;get even more serious&#8221;:http://twitter.com/danbenjamin/status/1095227235 about blogging, because he&#8217;s been on a roll lately.</p>
+<p>A couple of my favorite recent posts over there include &#8220;Apologize&#8221;:http://danbenjamin.com/articles/2008/12/apologize and &#8220;Fake Amazon&#8221;:http://danbenjamin.com/articles/2008/12/fake-amazon. The latter is a must-read that finally puts a name to what may be the beginning of the end of the Amazon we all know and love:</p>
+<blockquote><p>&#8220;By offering these services, Amazon has created a gigantic marketplace, while simultaneously making even the most obscure or hard-to-find items available to anybody. Just type some text into Amazon search, and you&#8217;ll get results. Lots of results. Too many results, it seems, even for Amazon.&#8221;</p></blockquote>
+<p>I&#8217;ve also been enjoying the &#8220;Tack Sharp podcast&#8221;:http://tacksharp.tv/, even though I hope to never pay more than $300 for a camera.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>The Hivelogic Podcast</title>
+		<link>http://www.manton.org/2007/01/the_hivelogic_podcast.html</link>
+		<pubDate>Fri, 05 Jan 2007 22:49:55 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[gruber]]></category>
+		<category><![CDATA[hivelogic]]></category>
+		<category><![CDATA[interview]]></category>
+		<category><![CDATA[macworld]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/01/the_hivelogic_podcast.html</guid>
+		<description><![CDATA[Watching from the sidelines as Dan Benjamin prepared his first podcast really made me want to get out &#8220;the microphone&#8221;:http://www.flickr.com/photos/manton/194992192/ again. Creating a podcast is a great experience, and I always tell myself I&#8217;ll do them more frequently. There have been a few recent events that I&#8217;ve wanted to capture as podcast episodes, including the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Watching from the sidelines as Dan Benjamin prepared his first podcast really made me want to get out &#8220;the microphone&#8221;:http://www.flickr.com/photos/manton/194992192/ again. Creating a podcast is a great experience, and I always tell myself I&#8217;ll do them more frequently. There have been a few recent events that I&#8217;ve wanted to capture as podcast episodes, including the experience waiting in line for the Wii, but it just hasn&#8217;t come together.</p>
+<p>Enough about me. Go listen to &#8220;The Hivelogic Podcast with Dan Benjamin&#8221;:http://www.hivelogic.com/articles/2007/01/06/podcast_is_here, interviewing &#8220;John Gruber&#8221;:http://daringfireball.net/ about the upcoming Macworld announcements. The Macworld keynote is this coming Tuesday at 9am Pacific, but I haven&#8217;t heard word yet on whether it will be streamed live or a delayed rebroadcast.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.262 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 17:21:06 -->

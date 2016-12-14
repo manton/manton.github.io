@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>applications &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/applications/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:36:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>The /Applications social network</title>
+		<link>http://www.manton.org/2007/06/the_applications_social.html</link>
+		<pubDate>Tue, 05 Jun 2007 18:59:37 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[applications]]></category>
+		<category><![CDATA[community]]></category>
+		<category><![CDATA[mac]]></category>
+		<category><![CDATA[tuaw]]></category>
+		<category><![CDATA[wii]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2007/06/the_applications_social.html</guid>
+		<description><![CDATA[Brent Simmons, from a &#8220;TUAW interview&#8221;:http://www.tuaw.com/2007/06/05/5-questions-with-brent-simmons-creator-of-netnewswire/: &#8220;One of the things I love about being a Mac developer is getting to meet the folks who make the apps I use. In a way, my /Applications folder is also my social network. Which is cool.&#8221; I never thought about it that way, but it&#8217;s definitely a great [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Brent Simmons, from a &#8220;TUAW interview&#8221;:http://www.tuaw.com/2007/06/05/5-questions-with-brent-simmons-creator-of-netnewswire/:</p>
+<blockquote><p>&#8220;One of the things I love about being a Mac developer is getting to meet the folks who make the apps I use. In a way, my /Applications folder is also my social network. Which is cool.&#8221;</p></blockquote>
+<p>I never thought about it that way, but it&#8217;s definitely a great aspect of the Mac developer community. I hope to add a few more people to my /Applications social network next week at WWDC.</p>
+<p>I&#8217;ve been to a bunch of WWDCs now, but I&#8217;m particularly excited this year because it will be the first time I&#8217;ve attended as representing both a &#8220;large-ish company&#8221;:http://www.vitalsource.com/ and an &#8220;independent one-man shop&#8221;:http://www.riverfold.com/.</p>
+<p>I will be carrying VitalSource business cards in my wallet, but I also hope to have a printed batch of Wii Transfer serial numbers to hand out. I know a lot of Mac developers have a Nintendo Wii and it&#8217;s a shame I haven&#8217;t given out more copies. If you have a Wii and see me (I look &#8220;something like this&#8221;:http://www.manton.org/me/), please get my attention so that I can correct this oversight.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Three text editors</title>
+		<link>http://www.manton.org/2006/04/three_text_editors.html</link>
+		<pubDate>Fri, 21 Apr 2006 04:13:37 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[applications]]></category>
+		<category><![CDATA[bbedit]]></category>
+		<category><![CDATA[editors]]></category>
+		<category><![CDATA[textmate]]></category>
+		<category><![CDATA[xcode]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2006/04/three_text_editors.html</guid>
+		<description><![CDATA[I love reading about the setup for other Mac users: what kind of desks, computers, and software they use. The full list of applications usually overlaps quite a bit with my own Dock, but every once in a while there is some new app that I am not using, but should be. And there are [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I love reading about the setup for other Mac users: what kind of desks, computers, and software they use. The full list of applications usually overlaps quite a bit with my own Dock, but every once in a while there is some new app that I am not using, but should be. And there are always the two killer apps that provide the most insight into how a user works: email and text.</p>
+<p>Are they a long-time Mac user who can&#8217;t live without BBEdit? Do they use Mail.app but secretly wish that it was better?</p>
+<p>&#8220;Dan starts off his post&#8221;:http://hivelogic.com/articles/2006/04/17/setup_part_ii with TextMate, which has quickly taken over the Mac Rails community. Despite a rocky 1.0, I gave TextMate a second try with 1.5 and have enjoyed using it. There is some very powerful stuff in it, some of which never clicked for me until I watched &#8220;this screencast of snippets in action&#8221;:http://macromates.com/screencast/scopes_and_comments.mov.</p>
+<p>But I can&#8217;t use TextMate for everything. There are three text editors always running on my machine, and I don&#8217;t see that changing anytime soon:</p>
+<ul>
+<li>TextMate: My new default for general-purpose editing, and Ruby on Rails projects.</p>
+</li>
+<li>
+<p>Xcode: Needed for C++ and Objective-C because of the integration with the debugger.</p>
+</li>
+<li>
+<p>BBEdit: Great for batch grep processing and multiple-file diff.</p>
+</li>
+</ul>
+<p>On a whim a few nights ago I tried to use TextMate for editing even C++ and Objective-C. It&#8217;s trivial enough to configure Xcode to use TextMate as its default editor (in Xcode, look under Preferences &#8594; File Types), and I was happily surprised that you can even run builds from within TextMate out of the box. If you have a TextMate project in the same directory as your Xcode project, the build will just work. If not, you can manually point TextMate to your Xcode project by clicking the &#8220;i&#8221; icon in the drawer when no files are selected, then add the shell variable TM_XCODE_PROJECT that points to a full path to your project.</p>
+<p>Unfortunately I could only keep this setup for one night before I had to abandon it. Without breakpoint support or any integration with the debugger (impossible), it breaks the workflow cycle of testing and fixing bugs quickly.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.265 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 17:22:21 -->

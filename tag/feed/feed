@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>feed &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/feed/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:36:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Where I post everything</title>
+		<link>http://www.manton.org/2016/12/where-i-post-everything.html</link>
+		<pubDate>Tue, 13 Dec 2016 15:09:38 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[feed]]></category>
+		<category><![CDATA[microblog]]></category>
+		<category><![CDATA[photos]]></category>
+		<category><![CDATA[rss]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4555</guid>
+		<description><![CDATA[My content is all on this blog or linked from it, but if you&#8217;re following RSS feeds or Twitter it&#8217;s not as obvious where everything is posted. Here&#8217;s a summary to clear things up. Microblog posts: Posted here and in a special RSS feed. Also automatically cross-posted to Twitter and App.net, with some occasional truncation. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>My content is all on this blog or linked from it, but if you&#8217;re following RSS feeds or Twitter it&#8217;s not as obvious where everything is posted. Here&#8217;s a summary to clear things up.</p>
+<p><strong>Microblog posts:</strong> Posted here and in <a href="http://www.manton.org/snippets.xml">a special RSS feed</a>. Also automatically cross-posted to <a href="https://twitter.com/manton2">Twitter</a> and App.net, with some occasional truncation.</p>
+<p><strong>Longer posts:</strong> Posted here and in <a href="http://www.manton.org/rss.xml">the default RSS feed</a>. Also automatically cross-posted to Twitter and App.net with the title and link. Twitter cross-posting is handled by my upcoming <a href="http://micro.blog/">Micro.blog</a> platform.</p>
+<p><strong>Photos:</strong> Posted <a href="https://www.instagram.com/manton/">to Instagram</a> and then copied here <a href="http://www.manton.org/2016/03/blogging-your-photos.html">using this workflow</a>. They don&#8217;t show up in either of the RSS feeds above. They&#8217;re not cross-posted to Twitter.</p>
+<p><strong>Timetable:</strong> Posted to <a href="http://timetable.fm/">timetable.fm</a> which has its own feed. Discoverable in your favorite podcast client.</p>
+<p><strong>Core Intuition:</strong> Posted to <a href="http://www.coreint.org/">coreint.org</a>. I&#8217;ll usually post a link here on the blog for each new episode.</p>
+<p><strong>All posts:</strong> Switching to WordPress brought a new global RSS feed, but I redirect it to the longer posts for now. There&#8217;s a new <a href="http://www.manton.org/everything.xml">everything RSS feed</a> which contains all posts: microblog, full posts, and photos. Enjoy!</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Updated feeds</title>
+		<link>http://www.manton.org/2014/09/updated-feeds.html</link>
+		<pubDate>Thu, 25 Sep 2014 19:44:49 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Weblogs]]></category>
+		<category><![CDATA[feed]]></category>
+		<category><![CDATA[microblog]]></category>
+		<category><![CDATA[rss]]></category>
+		<category><![CDATA[snippets]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2288.html</guid>
+		<description><![CDATA[When I migrated to WordPress and started a microblog section on this site, the RSS feeds didn&#8217;t transition very well. While the old feed continued to work, WordPress&#8217;s new default /feed URL returned both full posts and snippet posts. I&#8217;ve fixed that today. Here are the official feeds on the site: /rss.xml: All the main [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>When I migrated to WordPress and <a href="http://www.manton.org/2014/09/owning-the-microblog.html">started a microblog section on this site</a>, the RSS feeds didn&#8217;t transition very well. While the old feed continued to work, WordPress&#8217;s new default /feed URL returned both full posts and snippet posts.</p>
+<p>I&#8217;ve fixed that today. Here are the official feeds on the site:</p>
+<ul>
+<li><a href="http://www.manton.org/rss.xml">/rss.xml</a>: All the main posts (like the one you&#8217;re reading right now), but none of the microblog-style snippet posts.</li>
+<li><a href="http://www.manton.org/snippets.xml">/snippets.xml</a>: Just the microblog posts. These don&#8217;t have a title and will (eventually) be more common than the main posts, so you&#8217;ll need to subscribe separately if you want to see them.</li>
+<li>/feed: Now redirects to /rss.xml.</li>
+</ul>
+<p>If you want to see everything I write here, subscribe to both the main feed and the snippets feed. If you want to see only the longer posts, just keep the main feed. Thanks for reading!</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.255 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 16:41:37 -->

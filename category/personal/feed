@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Personal &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/category/personal/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:36:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Redesigning Penn Station</title>
+		<link>http://www.manton.org/2016/10/redesigning-penn-station.html</link>
+		<pubDate>Tue, 18 Oct 2016 21:30:59 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[newspapers]]></category>
+		<category><![CDATA[nyc]]></category>
+		<category><![CDATA[pennstation]]></category>
+		<category><![CDATA[trains]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4380</guid>
+		<description><![CDATA[Earlier this year I wrote a post about indie podcasting and the mistake of centralized publishing, comparing it to the lesson from the demolition of Penn Station in New York City. That train station can never be returned to what it was, but the city hasn&#8217;t given up on updating it. Here&#8217;s the New York [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Earlier this year I wrote <a href="http://www.manton.org/2016/05/podcasting-lock-in-and-the-lesson-from-penn-station.html">a post about indie podcasting and the mistake of centralized publishing</a>, comparing it to the lesson from the demolition of Penn Station in New York City. That train station can never be returned to what it was, but the city hasn&#8217;t given up on updating it. <a href="http://www.nytimes.com/interactive/2016/09/30/opinion/penn-station-reborn.html">Here&#8217;s the New York Times</a> with an idea to turn it into a beautiful space again:</p>
+<blockquote><p>
+  Just as the new Amtrak train hall for Farley, designed by Skidmore, Owings and Merrill, reuses the catenary structure of the building’s original trusses to bring in natural light, this plan foresees a sunny public space, open to the street, framing views of Farley, its height dwarfing Grand Central Terminal’s main concourse. It reclads the arena’s facade with double-skin glass, doing away with doors into and out of the building, letting commuters, long lost in the existing warren, know where they are and see where they’re going.
+</p></blockquote>
+<p>It&#8217;s a nice article with photos and diagrams. I hope to see something like this new Penn Station on a future trip to New York City.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Paying for web content</title>
+		<link>http://www.manton.org/2016/09/paying-for-web-content.html</link>
+		<pubDate>Fri, 16 Sep 2016 20:29:23 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[animation]]></category>
+		<category><![CDATA[paywalls]]></category>
+		<category><![CDATA[subscriptions]]></category>
+		<category><![CDATA[web]]></category>
+		<category><![CDATA[writing]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4291</guid>
+		<description><![CDATA[I subscribe to a lot of web applications for my indie business, from hosting to invoicing and reporting services. But I also pay for web content when it&#8217;s compelling enough. Here are some web sites with writing and art that I think are worth supporting directly: New York Times. Still the best reporting on the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I subscribe to <a href="http://www.manton.org/2014/04/17_services_for.html">a lot of web applications</a> for my indie business, from hosting to invoicing and reporting services. But I also pay for web <em>content</em> when it&#8217;s compelling enough. Here are some web sites with writing and art that I think are worth supporting directly:</p>
+<p><a href="http://www.nytimes.com/"><strong>New York Times.</strong></a> Still the best reporting on the 2016 presidential campaign. While I usually use RSS for news and blogs, I check the New York Times manually each morning to see what is happening in the world. <em>$10/month.</em></p>
+<p><a href="http://insider.espn.com/"><strong>ESPN Insider.</strong></a> Extra articles to supplement what I read during NBA season. Seemed easy to justify as an expense for my podcast <a href="http://technicalfoul.fm/">Technical Foul</a> with Ben Thompson. Also comes with the ESPN print magazine. <em>$39/year.</em></p>
+<p><a href="https://club.macstories.net/"><strong>Club MacStories.</strong></a> I&#8217;ve enjoyed reading MacStories for years, and the club subscription adds a bunch of great content in a weekly newsletter. You also get occasional book downloads such as for Federico Viticci&#8217;s new <a href="https://www.macstories.net/stories/ios-10-the-macstories-review/">epic iOS 10 review</a>. <em>$5/month.</em></p>
+<p><a href="https://sixcolors.com/subscribe/"><strong>Six Colors.</strong></a> Jason Snell wasted no time after leaving Macworld. Seemingly overnight, Six Colors has become an important site for Apple fans. Jason and Dan Moren talk informally about current work, travel, writing, and tools on their secret podcast for subscribers. There&#8217;s also a monthly email magazine. <em>$6/month.</em></p>
+<p><a href="https://stratechery.com/membership/"><strong>Stratechery.</strong></a> Thoughtful analysis of current news and trends from Ben Thompson, delivered Monday through Thursday via email or RSS for subscribers. Great depth to stories about tech company business models and where the industry is going. Helps pay for his NBA League Pass subscription. <em>$10/month.</em></p>
+<p><a href="https://itsoncraft.com/"><strong>Craft.</strong></a> An archive of sketches, rough animation, and preproduction artwork from animated films. It&#8217;s like an expanded version of behind-the-scenes DVD extras and art books. Initially subscribed for the rough animation for the beautiful film Song of the Sea. <em>$6/month.</em></p>
+<p>Before the web dominated all publishing, it was normal to pay for the newspaper and maybe a few print magazines. Then we entered a period where everything had to be free. Now, paying for content is useful again. The sites above have figured something out about building an audience and creating good content.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Email archiving with Evernote</title>
+		<link>http://www.manton.org/2016/08/email-archiving-with-evernote.html</link>
+		<pubDate>Fri, 26 Aug 2016 19:10:54 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[applescript]]></category>
+		<category><![CDATA[archiving]]></category>
+		<category><![CDATA[email]]></category>
+		<category><![CDATA[evernote]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4198</guid>
+		<description><![CDATA[For a long time, I&#8217;ve struggled with having important email archived in one place. I&#8217;ve switched between several clients over the years, from Eudora and Mailsmith and even Cyberdog, in the very early Mac days, to more recently the fairly reliable Apple Mail. Yet I still occasionally lose old email when switching between machines and [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>For a long time, I&#8217;ve struggled with having important email archived in one place. I&#8217;ve switched between several clients over the years, from <a href="https://en.wikipedia.org/wiki/Eudora_(email_client)">Eudora</a> and <a href="https://www.mailsmith.org/">Mailsmith</a> and even <a href="https://en.wikipedia.org/wiki/Cyberdog">Cyberdog</a>, in the very early Mac days, to more recently the fairly reliable Apple Mail. Yet I still occasionally lose old email when switching between machines and not handling the migration properly.</p>
+<p>Last year I set out to fix this. While I didn&#8217;t do an exhaustive search of archiving options, the main solutions I considered were:</p>
+<ul>
+<li><strong>Switch to Gmail.</strong> There are plenty of native clients for Gmail, but I fundamentally don&#8217;t like the idea of an ad-supported email service. I&#8217;m very happy with <a href="https://www.fastmail.com/">Fastmail</a> and want to continue using it.</li>
+<li><strong>Local archiving with <a href="http://c-command.com/eaglefiler/">EagleFiler</a>.</strong> This gets the email archived in a central place outside whatever mail client I&#8217;m using, which is great. However, I&#8217;d like something that is focused on cloud search first.</li>
+<li><strong>Save to files on Dropbox.</strong> All of my notes are stored on Dropbox, so why not put an email archive there too? But Dropbox doesn&#8217;t seem well-suited to accessing and searching easily.</li>
+<li><strong>Save to Evernote.</strong> I&#8217;ve never actively used Evernote for notes. Using Evernote for email would keep the email separate from normal notes on Dropbox, and Evernote already has excellent support for forwarding email into their system. I&#8217;d be able to search the archive from my Mac, iPhone, or the web.</li>
+</ul>
+<p>I&#8217;ve settled into a pretty basic workflow of using Evernote to save any email that looks moderately valuable. This is usually a handful of messages each day, not every email I receive or send. By picking and choosing what gets archived, I can ignore everything else, letting it sit in Mail&#8217;s archive indefinitely or deleting it.</p>
+<p><a href="https://gist.github.com/manton/d51e12c93ff00435f929c84890d27717">Here&#8217;s an AppleScript</a> I currently trigger in Mail for any selected message I want to archive. It&#8217;s set to command-shift-S via <a href="http://www.red-sweater.com/fastscripts/">FastScripts</a>. If I&#8217;m away from my Mac, or I want to preserve HTML and inline attachments, I can save an email by forwarding it to a special Evernote email address. (I also pay for Evernote Premium.)</p>
+<p>Now that I&#8217;m about a year and thousands of archived messages into this setup, I&#8217;m declaring it a success. I plan to continue using Evernote in this way for years to come. Let&#8217;s just hope they&#8217;re on the right track <a href="http://www.theverge.com/2016/5/4/11584764/evernote-ceo-chris-oneill-interview">with their own business</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Spurs at the Olympics</title>
+		<link>http://www.manton.org/2016/08/spurs-at-the-olympics.html</link>
+		<pubDate>Wed, 17 Aug 2016 18:02:41 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[basketball]]></category>
+		<category><![CDATA[olympics]]></category>
+		<category><![CDATA[spurs]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4187</guid>
+		<description><![CDATA[I&#8217;m watching Spain vs. France basketball right now, and later today is Argentina vs. the United States. No question the United States are the favorites for gold, but there are some really good teams, most with great NBA players. From the double-overtime win by Argentina a few days ago, to Boris Diaw sipping an espresso [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;m watching Spain vs. France basketball right now, and later today is Argentina vs. the United States. No question the United States are the favorites for gold, but there are some really good teams, most with great NBA players.</p>
+<p>From the double-overtime win by Argentina <a href="http://www.manton.org/2016/08/4178.html">a few days ago</a>, to Boris Diaw <a href="https://www.instagram.com/p/BJJAJTGgdkK/">sipping an espresso</a> in his room, I&#8217;ve been more engaged in following basketball at the Olympics than usual. And I love that so many Spurs players are everywhere.</p>
+<p>Spain has Pau Gasol; Argentina has Manu Ginobili, who helped defeat the United States in 2004; Australia has Patty Mills; and France has Tony Parker. Gives me something to root for throughout the tournament.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Libraries for 30 days wrap-up</title>
+		<link>http://www.manton.org/2016/04/libraries-for-30-days-wrap-up.html</link>
+		<pubDate>Mon, 18 Apr 2016 16:41:34 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[austin]]></category>
+		<category><![CDATA[coffee]]></category>
+		<category><![CDATA[newlibraries]]></category>
+		<category><![CDATA[parks]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2016/04/libraries-for-30-days-wrap-up.html</guid>
+		<description><![CDATA[After trying to work from a new coffee shop I had never been to before, every day for 30 days, I loved the routine of getting out of the house so much that I set on another challenge: visiting 30 libraries. This proved to be more difficult, mostly because of the extra driving required, but [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>After <a href="http://www.manton.org/coffee-shops-austin">trying to work from a new coffee shop</a> I had never been to before, every day for 30 days, I loved the routine of getting out of the house so much that I set on another challenge: visiting 30 libraries. This proved to be more difficult, mostly because of the extra driving required, but I wrapped it up yesterday.</p>
+<p>I&#8217;ve put together <a href="http://www.manton.org/libraries-austin">a web page of all the libraries</a>, with photos and links to the microblog posts for each day. The posts are also tagged with <a href="http://www.manton.org/tag/newlibraries">#newlibraries</a>.</p>
+<p>After wrapping up libraries, I thought I&#8217;d make it a trilogy of 30-day endeavors, with a final 30 days of working from city parks. This was a suggestion from <a href="https://twitter.com/dcoder">Daniel Hedrick</a>, who had worked from parks before, tethering to his iPhone since there&#8217;s usually no wi-fi. I loved the idea right away because it fit so well with the goal of getting out of the house and discovering something new in my own city. I even spent a couple hours earlier in the month researching parks and planning out whether I could do it.</p>
+<p>But now that it has come to it&#8230; I am really burned out on commuting. Finding new coffee shops and libraries has been a great experience. There are several wonderful places that I know I will return to again, and I never would have found them otherwise. I just need a little break from the forced routine of driving somewhere new each day. Maybe I&#8217;ll pick up the parks idea next year.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Get one thing done today</title>
+		<link>http://www.manton.org/2016/03/get-one-thing-done-today.html</link>
+		<pubDate>Tue, 29 Mar 2016 16:27:35 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[ipadpro]]></category>
+		<category><![CDATA[outside]]></category>
+		<category><![CDATA[routine]]></category>
+		<category><![CDATA[travel]]></category>
+		<category><![CDATA[working]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2016/03/get-one-thing-done-today.html</guid>
+		<description><![CDATA[Natasha the Nomad has a post about prioritizing the “one thing” that has to be finished today, even if everything else slips: When I wake up (or the night before), I think &#8220;What is the one thing that I can do today to feel like I had a successful day, even If I nothing else [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.natashathenomad.com/blog/digital-nomad-productivity-trick-one-thing">Natasha the Nomad has a post</a> about prioritizing the “one thing” that has to be finished today, even if everything else slips:</p>
+<blockquote><p>
+  When I wake up (or the night before), I think &#8220;What is the one thing that I can do today to feel like I had a successful day, even If I nothing else gets done today&#8221;. No matter what, I end up getting that one thing done.
+</p></blockquote>
+<p>I find this kind of approach really useful. Saying you&#8217;re only going to finish one thing is admitting the reality that for many days, if you&#8217;re unfocused or juggling too many tasks, there&#8217;s a lot of &#8220;work&#8221; but nothing gets <em>done</em>. When I work out of the house in the morning with my iPad Pro, my goal is equally simple: publish a single blog post. If I can take care of email, edit other draft posts, work on planning notes for a project, etc. — that’s great too.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>30 days of libraries, week 1</title>
+		<link>http://www.manton.org/2016/03/30-days-of-libraries-week-1.html</link>
+		<pubDate>Sun, 27 Mar 2016 16:09:03 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[ipadpro]]></category>
+		<category><![CDATA[newlibraries]]></category>
+		<category><![CDATA[routine]]></category>
+		<category><![CDATA[working]]></category>
+		<category><![CDATA[writing]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2016/03/30-days-of-libraries-week-1.html</guid>
+		<description><![CDATA[After wrapping up 30 days of new coffee shops, last week I started visiting a library every day to work. Libraries and coffee shops don&#8217;t have that much in common, but they do share a couple basic traits that are necessary for working on a laptop or iPad: wi-fi and tables. In fact, I&#8217;ve found [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>After wrapping up <a href="http://www.manton.org/coffee-shops-austin">30 days of new coffee shops</a>, last week <a href="http://www.manton.org/2016/03/whats-next-after-30-days-of-coffee.html">I started visiting a library every day</a> to work. Libraries and coffee shops don&#8217;t have that much in common, but they do share a couple basic traits that are necessary for working on a laptop or iPad: wi-fi and tables. In fact, I&#8217;ve found that it&#8217;s even easier to find an open table or couch in a library than in a busy coffee shop.</p>
+<p>So far, so good. In the first week, I&#8217;ve visited <a href="http://www.manton.org/2016/03/whats-next-after-30-days-of-coffee.html">Cedar Park Public Library</a>, <a href="http://www.manton.org/2016/03/3741.html">Wells Branch Community Library</a>, <a href="http://www.manton.org/2016/03/3744.html">Little Walnut Creek Branch</a>, <a href="http://www.manton.org/2016/03/3759.html">North Village Branch</a>, <a href="http://www.manton.org/2016/03/3765.html">Old Quarry Branch</a>, <a href="http://www.manton.org/2016/03/3768.html">Howson Branch</a>, <a href="http://www.manton.org/2016/03/3776.html">Westbank Community Library</a>, and <a href="http://www.manton.org/2016/03/3783.html">Yarborough Branch</a>.</p>
+<p>I also heard from readers who wanted to see more than the text microblog posts I did for coffee shops, so I&#8217;ve been trying to take more photos. These photos are tagged with <a href="http://www.manton.org/tag/newlibraries">#newlibraries</a> too, so they&#8217;ll show up together with the library text posts. (Photos can be browsed over the web, but they don&#8217;t show up in the default RSS feed. The microblog posts also have <a href="http://www.manton.org/snippets.xml">their own feed</a>.)</p>
+<p>As I mention on <a href="http://timetable.manton.org/2016/02/episode-15-leap-year/">episode 15 of Timetable</a>, working out of the house in the morning helped provide some structure to the work day. I&#8217;d use the morning for writing blog posts and catching up on email, and the afternoon to focus on code. For libraries, I&#8217;m going one step further and <em>only bringing the iPad Pro with me</em>. This means that I&#8217;m using a small range of apps — Editorial, Mail, Safari, Slack — and reinforces the idea that I&#8217;m supposed to be writing.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>What&#8217;s next after 30 days of coffee</title>
+		<link>http://www.manton.org/2016/03/whats-next-after-30-days-of-coffee.html</link>
+		<pubDate>Sat, 19 Mar 2016 19:07:22 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[ipad]]></category>
+		<category><![CDATA[newlibraries]]></category>
+		<category><![CDATA[working]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2016/03/whats-next-after-30-days-of-coffee.html</guid>
+		<description><![CDATA[Yesterday I wrapped up my endeavor to visit a new coffee shop every day for a month, making sure it was a place that I had never been to before. Every day I published a short microblog post about my visit. As I was nearing the end of the 30 days, I felt a little [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Yesterday I wrapped up my <a href="http://www.manton.org/coffee-shops-austin">endeavor to visit a new coffee shop every day for a month</a>, making sure it was a place that I had never been to before. Every day I published a short microblog post about my visit. As I was nearing the end of the 30 days, I felt a little bummed out that it would be coming to an end. It was a lot of fun and gave my day a good structure.</p>
+<p>I knew right away that I wanted to fill the <em>next</em> 30 days with something else, but probably not with drink or food again. I had a few ideas, including one outside that will be be better when the weather gets warmer. For this next month, though, I&#8217;ve decided to work from libraries.</p>
+<p>So that’s where I am right now. Day 1 of 30, sitting in a comfy chair typing on my iPad at the Cedar Park Public Library. It&#8217;s a nice space and they even have an &#8220;internet cafe&#8221; outside the main books section. I&#8217;ll be trying to follow the same routine as before: morning out of the house for writing, afternoon usually back at my desk for coding. And as before, I&#8217;ll blog each day and <a href="http://www.manton.org/tag/newlibraries">tag all the blog posts</a>. Here we go!</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Electric Beetle</title>
+		<link>http://www.manton.org/2016/03/electric-beetle.html</link>
+		<pubDate>Tue, 01 Mar 2016 16:32:17 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[beetle]]></category>
+		<category><![CDATA[leaf]]></category>
+		<category><![CDATA[nissan]]></category>
+		<category><![CDATA[tesla]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3602</guid>
+		<description><![CDATA[As I’ve written about here, I have a Nissan Leaf and it’s the best car I’ve ever owned. When the lease is up in a couple years, I’ll reevaluate whether to buy a new one or switch to a different make of car, but there’s no question that I’m never going to buy another gas-powered [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>As I’ve <a href="http://www.manton.org/2014/11/my-new-electric-car.html">written about here</a>, I have a Nissan Leaf and it’s the best car I’ve ever owned. When the lease is up in a couple years, I’ll reevaluate whether to buy a new one or switch to a different make of car, but there’s no question that I’m never going to buy another gas-powered car for myself again.</p>
+<p>In addition to the obvious benefits to the environment, how quiet the car is, and being able to “fill it up” at home, the Leaf is also shockingly reliable. No oil changes, no random weird noises or parts failing that seem to regularly happen with every other car we’ve owned. Simpler is better.</p>
+<p>We’re crossing the point right now where electric cars are not only better in a novelty way for early adopters, but just actually better. Every year there will be more electric cars on the road, from more manufacturers, and every year they’ll chip away at the traditional problems of cost and range.</p>
+<p>And there’s even fun stuff like <a href="http://www.zelectricmotors.com/">Zelectric Motors</a>, which I discovered via a great video <a href="http://www.theverge.com/2016/2/16/11006458/zelectric-vw-beetle-electric-1959-volkswagen-microbus-video">from The Verge</a>. I always thought that if I ever had $60k to blow, I’d get a Tesla. I may need to consider these retrofitted classic VW Beetles instead. They look beautiful. (Although probably helps to live in the San Diego area just in case it does need the occasional trip to be serviced.)</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Is this even possible?</title>
+		<link>http://www.manton.org/2016/02/is-this-even-possible.html</link>
+		<pubDate>Sat, 27 Feb 2016 21:08:33 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Personal]]></category>
+		<category><![CDATA[austin]]></category>
+		<category><![CDATA[coffee]]></category>
+		<category><![CDATA[coreint]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3580</guid>
+		<description><![CDATA[When I tell people that I&#8217;ve started going to a new coffee shop every day for a month — and importantly, one which I&#8217;ve never been to before after living my whole life in Austin, with no duplicates or separate locations from a coffee chain — they usually ask: are you going to run out of [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>When I tell people that <a href="http://www.manton.org/coffee-shops-austin">I&#8217;ve started going to a new coffee shop every day</a> for a month — and importantly, one which I&#8217;ve never been to before after living my whole life in Austin, with no duplicates or separate locations from a coffee chain — they usually ask: are you going to run out of places to go? At the beginning I didn&#8217;t know. And that has made it a particularly fun challenge, because <em>doing something that you know is possible is boring</em>.</p>
+<p>I&#8217;ve never been interested in building an iOS app that someone else has already done. I&#8217;ve never been excited to write a blog post that is just a rephrasing of someone else&#8217;s idea. Starting a new project with a unique twist, even a minor one, is what makes our job as developers and writers fun.</p>
+<p>And it&#8217;s easy to take a simple idea and build it into a more advanced project. <a href="http://www.coreint.org/2016/02/episode-221-in-the-zone-of-programming/">On the latest Core Intuition</a>, Daniel continues to suggest ways to add layers to my coffee trips, from adding photos, to publishing future locations ahead of time so that anyone can stop by and join me for a coffee. (I&#8217;m going to be doing this.)</p>
+<p>Now at day 10, I can more easily answer the original question, though. I have 16 suggested coffee shops in the queue, so if I visit all of those, I&#8217;ll only need 4 more places to hit 30 new coffee shops in 30 days. A few of these might seem like borderline cheats — a donut shop, or a food truck to pick up a Thai iced coffee — but being exposed to new places I would never otherwise go is the whole point.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.298 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 16:47:06 -->

@@ -9,7 +9,7 @@
 <html lang="en-US">
 <!--<![endif]-->
 
-<!-- Mirrored from www.manton.org/author/manton/page/63 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 13 Dec 2016 22:24:52 GMT -->
+<!-- Mirrored from www.manton.org/author/manton/page/63 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 13 Dec 2016 23:33:21 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
 <meta charset="UTF-8" />
@@ -96,6 +96,26 @@ img.emoji {
 	
 			
 										
+	<article id="post-1871" class="post-1871 post type-post status-publish format-standard hentry category-technology tag-ajax tag-sproutcore tag-twitter">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="../../../2008/09/ajax_as_a.html" rel="bookmark">Ajax as a scaling tool</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>When &#8220;MobileMe&#8221;:http://www.me.com/ launched with a beautiful new design, the web application suite was essentially unusable because of terrible performance. Timeouts and slow page refreshes were the norm. At the time, I didn&#8217;t think too much of this. I just waited a couple of weeks until they had either improved their backend infrastructure or until traffic had died down enough to make the site work again.</p>
+<p>But one thing that did catch my eye is the insane number of Ajax hits from the SproutCore-based UI. Even &#8220;Cappuccino&#8221;:http://cappuccino.org/, which I praise as brilliant to everyone I talk to, seems to join Gmail&#8217;s progress bar with this same loading overhead cruft.</p>
+<p>Maybe I&#8217;m reading too much into it, but I think as work shifts from the server side to JavaScript there is the potential for waste and chattiness. It&#8217;s like the countless pixel spacers from the 1990s table-based designs all over again.</p>
+<p>Now there&#8217;s a counter-argument to this, that you can cut down on the weight of hits by just sending snippets of JSON or some other lightweight format without the baggage of too many HTML tags, but in practice I think the overhead of the large JavaScript libraries and resources to construct modern app-like UIs overshadow potential gains.</p>
+<p>Unavoidable? Maybe. Or maybe most applications will still benefit from &#8220;traditional&#8221; Ajax. &#8220;Twitter recently redesigned&#8221;:http://blog.twitter.com/2008/09/changes-afoot.html and made their web site faster in that way. Instead of a completely new client-driven interaction model, they just take pieces of the web site and load content without requiring a full page refresh. Easy wins. Web 3.0 not required.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="../../../category/technology.html" rel="category tag">Technology</a> and tagged <a href="../../../tag/ajax.html" rel="tag">ajax</a>, <a href="../../../tag/sproutcore.html" rel="tag">sproutcore</a>, <a href="../../../tag/twitter.html" rel="tag">twitter</a> on <a href="../../../2008/09/ajax_as_a.html" title="1:05 pm" rel="bookmark"><time class="entry-date" datetime="2008-09-30T13:05:50+00:00">2008/09/30</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../../manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
 	<article id="post-1870" class="post-1870 post type-post status-publish format-standard hentry category-podcasts tag-coreint tag-politics-2 tag-sxsw tag-ted">
 				<header class="entry-header">
 			
@@ -406,7 +426,7 @@ mysql_query ($sql);
 <p>In the upcoming version 2.6, I&#8217;ve added the ability to skip directly to any part of a playing movie by clicking on the timeline with the Wii remote. It was frustrating not to be able to do that in previous versions and made it difficult to watch or fast-forward through long movies.</p>
 <p>The way many Flash movie players handle skipping is by inserting metadata into the FLV file that contains a map between seconds in the timeline and file positions for the keyframes, and that&#8217;s the way Wii Transfer works as well. Unfortunately this requires rewriting the entire FLV file when post-processing movies. (&#8220;Ian Baird&#8221;:http://blog.skorpiostech.com/ suggested a future optimization would be to store the metadata separately and redo the player to send seconds instead of file offsets to the server.) I was initially using the open source flvtool2.rb to achieve this, but it was extremely slow, so I rewrote it in Objective-C. (Not a port. The Objective-C version was written from scratch and is significantly shorter than the Ruby version in terms of lines of code. It does a little bit less, but it&#8217;s optimized for exactly what Wii Transfer needs.)</p>
 <p>This chart shows the performance improvements when processing a couple large movie files. Measured in seconds, so shorter bars are better.</p>
-<p><img src="../../../images/2008/flv_chart.html" alt="FLV chart" border="0" width="506" height="143" /></p>
+<p><img src="../../../images/2008/flv_chart.png" alt="FLV chart" border="0" width="506" height="143" /></p>
 <p>The other good thing that came out of all this work is that I can now look at a FLV file in a hex editor and not be totally confused. &#8220;Hex Fiend&#8221;:http://ridiculousfish.com/hexfiend/ was one of the best ways to debug what my code was doing when it failed.</p>
 					</div><!-- .entry-content -->
 		
@@ -600,35 +620,6 @@ mysql_query ($sql);
 		
 		<footer class="entry-meta">
 			This entry was posted in <a href="../../../category/podcasts.html" rel="category tag">Podcasts</a> and tagged <a href="../../../tag/coreint.html" rel="tag">coreint</a>, <a href="../../../tag/jalkut.html" rel="tag">jalkut</a>, <a href="../../../tag/podcast.html" rel="tag">podcast</a> on <a href="../../../2008/05/core_intuition.html" title="4:04 pm" rel="bookmark"><time class="entry-date" datetime="2008-05-30T16:04:03+00:00">2008/05/30</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../../manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
-	</article><!-- #post -->
-							
-	<article id="post-1851" class="post-1851 post type-post status-publish format-standard hentry category-programming tag-codes tag-friend tag-twitter tag-wii">
-				<header class="entry-header">
-			
-						<h1 class="entry-title">
-				<a href="../../../2008/05/wii_friend_codes.html" rel="bookmark">Wii friend codes from Twitter</a>
-			</h1>
-								</header><!-- .entry-header -->
-
-				<div class="entry-content">
-			<p>As most Nintendo Wii owners know by now, Mario Kart for Wii shipped last week. I put together yet another friend code database to track and share codes, but this one is unique because it builds on Twitter. Just follow &#8220;@wii&#8221;:http://twitter.com/wii and send your friend code in a reply. No registration, no data entry. All your friends on Twitter who also use the system will automatically be linked, so you can quickly get a view of which friend codes to add. It&#8217;s also a great way to discover new Twitter users.</p>
-<p>I&#8217;m pretty happy with how the implementation has worked out. It&#8217;s build on essentially three background scripts:</p>
-<ul>
-<li>Parsing replies every minute looking for the friend code pattern (1234-1234-1234 for game codes, with dashes or spaces).</p>
-</li>
-<li>
-<p>Taking queued users and pulling everyone they are following into the database.</p>
-</li>
-<li>
-<p>Generating and caching the RSS feed for recently tweeted friend codes.</p>
-</li>
-</ul>
-<p>The system currently only pulls the first 300 followers, but it&#8217;s running smoothly enough that I will bump that up to 500 this week. Over 150 people are currently using it, and the database has about 10,000 records to keep track of friends. I feel like it&#8217;s architected well enough to grow significantly from here, so I may do some casual promotion of the service this week.</p>
-<p>If you own a Wii and use Twitter, &#8220;give it a try&#8221;:http://wiitransfer.com/codes/. If you have any questions or feature requests, please send me an email or reply on Twitter. Enjoy!</p>
-					</div><!-- .entry-content -->
-		
-		<footer class="entry-meta">
-			This entry was posted in <a href="../../../category/programming.html" rel="category tag">Programming</a> and tagged <a href="../../../tag/codes.html" rel="tag">codes</a>, <a href="../../../tag/friend.html" rel="tag">friend</a>, <a href="../../../tag/twitter.html" rel="tag">twitter</a>, <a href="../../../tag/wii.html" rel="tag">wii</a> on <a href="../../../2008/05/wii_friend_codes.html" title="10:32 pm" rel="bookmark"><time class="entry-date" datetime="2008-05-04T22:32:52+00:00">2008/05/04</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="../../manton.html" title="View all posts by manton" rel="author">manton</a></span></span>.								</footer><!-- .entry-meta -->
 	</article><!-- #post -->
 			
 					<nav id="nav-below" class="navigation" role="navigation">
@@ -870,7 +861,7 @@ mysql_query ($sql);
 	</footer><!-- #colophon -->
 </div><!-- #page -->
 
-<script type='text/javascript' src='../../../wp-content/themes/twentytwelve/js/navigationa462.html?ver=20140318'></script>
+<script type='text/javascript' src='../../../wp-content/themes/twentytwelve/js/navigationa462.js?ver=20140318'></script>
 <script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201650'></script>
 <script type='text/javascript' src='../../../wp-includes/js/wp-embed.min1c9b.js?ver=4.6.1'></script>
 <script type='text/javascript' src='http://stats.wp.com/e-201650.js' async defer></script>
@@ -882,9 +873,9 @@ mysql_query ($sql);
 
 </body>
 
-<!-- Mirrored from www.manton.org/author/manton/page/63 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 13 Dec 2016 22:24:52 GMT -->
+<!-- Mirrored from www.manton.org/author/manton/page/63 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 13 Dec 2016 23:33:21 GMT -->
 </html>
-<!-- Dynamic page generated in 0.454 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-12-13 16:24:49 -->
+<!-- Dynamic page generated in 0.482 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 17:33:20 -->
 
 <!-- super cache -->

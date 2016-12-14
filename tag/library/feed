@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>library &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/library/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:36:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>The Future Library</title>
+		<link>http://www.manton.org/2014/09/the-future-library.html</link>
+		<pubDate>Sat, 06 Sep 2014 14:37:24 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[books]]></category>
+		<category><![CDATA[forest]]></category>
+		<category><![CDATA[hosting]]></category>
+		<category><![CDATA[library]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=2237.html</guid>
+		<description><![CDATA[The Future Library project will collect writing to be locked away and published for the first time in 100 years: &#8220;Each year, the Future Library trust, made up of literary experts – and Paterson, while she&#8217;s alive – will name another &#8216;outstanding&#8217; writer who will be contributing to the artwork. The trust is also responsible [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.theguardian.com/books/2014/sep/05/margaret-atwood-new-work-unseen-century-future-library">The Future Library project</a> will collect writing to be locked away and published for the first time in 100 years:</p>
+<blockquote><p>
+  &#8220;Each year, the Future Library trust, made up of literary experts – and Paterson, while she&#8217;s alive – will name another &#8216;outstanding&#8217; writer who will be contributing to the artwork. The trust is also responsible for the maintenance of the forest, and for ensuring the books are printed in a century&#8217;s time. A printing press will be placed in the library to make sure those in charge in 2114 have the capability of printing books on paper.&#8221;
+</p></blockquote>
+<p>Love this idea. Although for a different goal, I think we need a similar set of trusts to maintain electronic publishing. Domain names and hosting are much more fragile than the paper Margaret Atwood will print her story on for this project.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Ingram</title>
+		<link>http://www.manton.org/2006/07/ingram.html</link>
+		<pubDate>Tue, 18 Jul 2006 15:23:22 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[books]]></category>
+		<category><![CDATA[boxes]]></category>
+		<category><![CDATA[farmers]]></category>
+		<category><![CDATA[ingram]]></category>
+		<category><![CDATA[library]]></category>
+		<category><![CDATA[market]]></category>
+		<category><![CDATA[vitalsource]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2006/07/ingram.html</guid>
+		<description><![CDATA[I don&#8217;t blog much about &#8220;VitalSource&#8221;:http://www.vitalsource.com/ in this space, but I should. When I joined the company, it was to return to designing and building Mac software, with the potential for working on something meaningful (education tools) as a refreshing bonus. Over 5 years later, we have built up a great team and a mature [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I don&#8217;t blog much about &#8220;VitalSource&#8221;:http://www.vitalsource.com/ in this space, but I should. When I joined the company, it was to return to designing and building Mac software, with the potential for working on something meaningful (education tools) as a refreshing bonus.</p>
+<p>Over 5 years later, we have built up a great team and a mature set of products. Yesterday VitalSource announced it is being &#8220;acquired by Ingram Digital Ventures&#8221;:http://www.vitalsource.com/index/news-app/story.35, which should be a good complement to the work we are doing. Ingram is the largest book wholesaler in the country, but I don&#8217;t think that fact really hit me until three days ago.</p>
+<p>We were downtown with some time to kill before a performance. We stopped at the Farmers Market for some fresh peaches, flowers, and breakfast tacos. When we detoured to see if the library was open, I noticed these boxes outside and snapped a mobile phone picture.</p>
+<p><center><img src="http://www.manton.org/images/2006/ingram_boxes.jpg" width="400" height="300" alt="Ingram boxes" style="border: solid 1px gray" /></center></p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.230 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 17:05:54 -->

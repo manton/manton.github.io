@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>iraq &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/iraq/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:36:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Midterm elections matter</title>
+		<link>http://www.manton.org/2006/11/midterm_elections_matter.html</link>
+		<pubDate>Tue, 07 Nov 2006 21:06:48 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Politics]]></category>
+		<category><![CDATA[bush]]></category>
+		<category><![CDATA[calling]]></category>
+		<category><![CDATA[democrats]]></category>
+		<category><![CDATA[iraq]]></category>
+		<category><![CDATA[midterms]]></category>
+		<category><![CDATA[moveon]]></category>
+		<category><![CDATA[phone]]></category>
+		<category><![CDATA[polls]]></category>
+		<category><![CDATA[voting]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2006/11/midterm_elections_matter.html</guid>
+		<description><![CDATA[I voted today. Here&#8217;s the scene for my precinct today. Not too crowded, but a steady flow of people. Yesterday Traci and I called voters as part of &#8220;MoveOn.org&#8217;s Call for Change&#8221;:http://www.moveon.org/. I&#8217;m always nervous about calling complete strangers. I did this for the first time for Howard Dean&#8217;s campaign and it&#8217;s easy to get [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I voted today. Here&#8217;s the scene for my precinct today. Not too crowded, but a steady flow of people.</p>
+<p><center><img src="http://www.manton.org/images/2006/voting.jpg" alt="Voting" width="400" height="195" border="0" style="border: 1px solid gray" /></center></p>
+<p>Yesterday Traci and I called voters as part of &#8220;MoveOn.org&#8217;s Call for Change&#8221;:http://www.moveon.org/. I&#8217;m always nervous about calling complete strangers. I did this for the first time for Howard Dean&#8217;s campaign and it&#8217;s easy to get disillusioned with answering machines and hang-ups. But almost everyone we talked to was planning to vote today, and I think there&#8217;s definitely a sense that <em>this election matters</em>. Sometimes a simple reminder is the difference between voting or skipping it, so if you only reach a handful of people it can make the difference in a close race if thousands of other people are doing the same.</p>
+<p>I&#8217;ll be up late tonight watching the returns. Polls close early in some places and may get crowded, so don&#8217;t wait any longer if you haven&#8217;t voted yet. For location info call 1-866-MY-VOTE-1.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Five years later</title>
+		<link>http://www.manton.org/2006/09/five_years_later.html</link>
+		<pubDate>Tue, 12 Sep 2006 03:49:30 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Politics]]></category>
+		<category><![CDATA[bush]]></category>
+		<category><![CDATA[election]]></category>
+		<category><![CDATA[hussein]]></category>
+		<category><![CDATA[iraq]]></category>
+		<category><![CDATA[september11]]></category>
+		<category><![CDATA[zarqawi]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/2006/09/five_years_later.html</guid>
+		<description><![CDATA[I couldn&#8217;t let the 5th anniversary of September 11th pass without saying something. On Friday the Senate intelligence committee released a report showing that there was no link between Saddam Hussein and 9/11. That isn&#8217;t news. What is news is the details: that Saddam actually distrusted Al Qaeda and tried to capture Zarqawi. The simple [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I couldn&#8217;t let the 5th anniversary of September 11th pass without saying something. On Friday <a href="http://www.nytimes.com/2006/09/08/washington/09intelcnd.html">the Senate intelligence committee released a report</a> showing that there was no link between Saddam Hussein and 9/11. That isn&#8217;t news. What is news is the details: that Saddam actually <em>distrusted</em> Al Qaeda and tried to <em>capture</em> Zarqawi. The simple truth is that terrorist organizations are a threat to any government, even ones we have disagreements with.</p>
+<p>If that doesn&#8217;t make you sick, here&#8217;s another one that I haven&#8217;t heard mentioned yet. Sometime next year the number of U.S. soldiers killed in Iraq will <em>surpass the civilian deaths on September 11th</em>. (September 11th = 2973, Iraq as of today = 2661)</p>
+<p>The level of incompetence in our President, Cheney, Rumsfeld, and their advisors reaches new heights. What can we do? Five years ago we were uneducated and scared, and even two years later we could easily be led by fear alone. Now, just stay angry. Change starts in November.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.235 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 17:09:03 -->

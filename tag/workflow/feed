@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>workflow &#8211; Manton Reece</title>
+	<atom:link href="http://www.manton.org/tag/workflow/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.manton.org</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Dec 2016 22:36:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Workflow update for web APIs</title>
+		<link>http://www.manton.org/2016/10/workflow-update-for-web-apis.html</link>
+		<pubDate>Wed, 19 Oct 2016 14:34:50 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[apis]]></category>
+		<category><![CDATA[automation]]></category>
+		<category><![CDATA[github]]></category>
+		<category><![CDATA[web]]></category>
+		<category><![CDATA[workflow]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=4384</guid>
+		<description><![CDATA[Federico Viticci has an overview and examples for the latest Workflow for iOS release, which adds more advanced features for calling into web APIs. It looks great: For those who are only partially familiar with the terminology, this means that Workflow can communicate with the majority of modern services that come with a web API. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://www.macstories.net/ios/workflow-update-brings-ability-to-interact-with-any-web-api/">Federico Viticci has an overview</a> and examples for the latest Workflow for iOS release, which adds more advanced features for calling into web APIs. It looks great:</p>
+<blockquote><p>
+  For those who are only partially familiar with the terminology, this means that Workflow can communicate with the majority of modern services that come with a web API. If you&#8217;ve never worked with web APIs before, it&#8217;ll take you a few hours of reading and experiments with dictionaries, token authentications, form requests, and file uploads to get the gist of how it works. But, the Workflow team has managed to make what tends to be a visually unintuitive programming task – assembling dictionaries and structuring <a href="http://www.json.org/">JSON</a> – as simple and attractive as possible, abstracting many of the complexities that web developers have to deal with in desktop IDEs and command-line tools.
+</p></blockquote>
+<p>Here&#8217;s another nice example of automatically creating GitHub Gists, <a href="https://www.jordanmerrick.com/posts/workflow-and-apis/">from Jordan Merrick</a>:</p>
+<blockquote><p>
+  <a href="https://workflow.is/workflows/f401a725d68c476d8d95a90abcc36b5d">This is a workflow</a> I’ve always wanted to create, and the new API support makes it possible. <a href="https://gist.github.com/discover">Gists</a> are great to share small pieces of text information, such as code snippets or scripts. This action extension workflow accepts files of any type (though they must be text-based) and creates a <a href="https://gist.github.com/jordanmerrick/9f619c0aaffffd5bb46fad71e73e1477">gist</a> using the <a href="https://developer.github.com/v3/gists/">GitHub API</a>.
+</p></blockquote>
+<p>Workflow can now take over many web tasks that previously required either writing scripts or depending on hosted solutions like IFTTT and Zapier. Like <a href="http://www.manton.org/2016/03/blogging-your-photos.html">my workflow for posting photos to my blog</a>, it&#8217;s a natural tool for web publishing and microblogging.</p>
+<p>I&#8217;d also love to see a Mac version of Workflow one day. I do some limited automation on my Mac, but AppleScript and Automator aren&#8217;t as easy to use or as well-maintained as Workflow.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Photo blogging follow-up</title>
+		<link>http://www.manton.org/2016/03/photo-blogging-follow-up.html</link>
+		<pubDate>Sun, 20 Mar 2016 15:17:45 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Photography]]></category>
+		<category><![CDATA[automation]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[macstories]]></category>
+		<category><![CDATA[photos]]></category>
+		<category><![CDATA[workflow]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3739</guid>
+		<description><![CDATA[As I&#8217;ve written about already, I now post photos to my own site in addition to Instagram. I use the Workflow app to make this easier, automatically uploading a photo and making a new blog post for it from iOS. Ryan Toohil has taken my rough workflow and improved it, adding support for prompting for [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>As I&#8217;ve <a href="http://www.manton.org/2016/03/blogging-your-photos.html">written about already</a>, I now post photos to my own site in addition to Instagram. I use the <a href="https://workflow.is/">Workflow app</a> to make this easier, automatically uploading a photo and making a new blog post for it from iOS.</p>
+<p>Ryan Toohil has taken my rough workflow <a href="https://blog.ryantoohil.com/2016/03/owning-your-own-social-media-content.php">and improved it</a>, adding support for prompting for the photo title, fixing the photo’s orientation, and a better dynamic folder name based on the date. You can <a href="https://workflow.is/workflows/c485d9227ed347c4b3aab2a94fb822d6">see his updated workflow here</a>.</p>
+<p>I still have a lot to learn about using Workflow. It’s the kind of app that you can only really understand the potential for after diving in with a real problem. Now I find myself looking for more ways I can use the app.</p>
+<p>I’ve also finally read Federico Viticci’s excellent <a href="http://www.imore.com/how-use-workflow-ios-when-you-dont-know-where-start">intro to Workflow over at iMore</a>, which includes this advice:</p>
+<blockquote><p>
+  “When I was new to Workflow, visualizing the vertical flow of actions before building the stack was my biggest hurdle in getting started. I&#8217;ve since developed a habit that comes in handy every day: if I already know what a workflow should do at the beginning and at the end, I place the first action and the last one immediately on the canvas. Then, I only have to figure out how to go from Point A to Point B, dropping actions between those two as I play around with different ideas.”
+</p></blockquote>
+<p>Of course, Federico has written many times about Workflow. He has an article about <a href="https://www.macstories.net/ios/publishing-articles-to-wordpress-with-workflow-on-ios/">using Workflow to post to WordPress</a>, and tips and example workflows in the MacStories Club email. His podcast <a href="https://www.relay.fm/canvas">Canvas</a> with Fraser Speirs also routinely discusses workflows.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Blogging your photos</title>
+		<link>http://www.manton.org/2016/03/blogging-your-photos.html</link>
+		<pubDate>Tue, 08 Mar 2016 18:16:45 +0000</pubDate>
+		<dc:creator><![CDATA[manton]]></dc:creator>
+				<category><![CDATA[Photography]]></category>
+		<category><![CDATA[automation]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[photos]]></category>
+		<category><![CDATA[transmit]]></category>
+		<category><![CDATA[workflow]]></category>
+
+		<guid isPermaLink="false">http://www.manton.org/?p=3679</guid>
+		<description><![CDATA[Colin Devroe started microblogging on his own site, with separate sections for statuses and photos: “I want to post content to my own personal site and not through closed social networks — because I want to keep control of everything I create forever. [&#8230;] This doesn’t mean that I won’t be posting to Twitter or Facebook [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://cdevroe.com/15094/fits-and-starts-and-homesteading">Colin Devroe started microblogging</a> on his own site, with separate sections for statuses and photos:</p>
+<blockquote><p>
+  “I want to post content to my own personal site and not through closed social networks — because I want to keep control of everything I create forever. [&#8230;] This doesn’t mean that I won’t be posting to Twitter or Facebook or Instagram, but that everything that I post there will originate here on my site.”
+</p></blockquote>
+<p>It’s the photos and their RSS feed that caught my attention. Others have done this too, but for some reason I rarely post photos here on my own site. I’ve stuck with using Instagram instead.</p>
+<p>I need to change that. I do like the Instagram app, though, so I’m going to keep using it. I’ll just copy the photos over to my site as well, and I’ll use <a href="https://workflow.is/">Workflow on iOS</a> to help automate it. The basic steps are:</p>
+<ul>
+<li>After posting the photo on Instagram, copy the caption to the iOS clipboard. This will be the title of the blog post.</li>
+<li>Select the Instagram-edited image in the Photos app and run the workflow.</li>
+<li>Workflow makes a filename based on the title, with some simple substitutions. Lowercase, spaces become underscores, and drop some characters.</li>
+<li>Transmit gets launched and I confirm the upload to my own server.</li>
+<li>Workflow creates a WordPress blog post with an img tag and the relevant metadata.</li>
+</ul>
+<p>It’s not bad. You can <a href="https://workflow.is/workflows/75265d33bcd64c4d8485b2644de7df17">see the workflow here</a>. I’ve uploaded a bunch of my most recent Instagram photos this way. I’m not sure whether I’ll go back and mirror all the old ones.</p>
+<p>These photos live under a new <a href="http://www.manton.org/category/photos">Photos category</a>. I’ve excluded this category from the main RSS feed that I use for cross-posting, so they won’t automatically go to Twitter. You can continue to <a href="https://www.instagram.com/manton/">follow me on Instagram</a> if you prefer that.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.239 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-13 16:56:59 -->
