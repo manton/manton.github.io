@@ -1,0 +1,217 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Manton Reece",
+	"home_page_url": "https://micro.manton.org/",
+	"feed_url": "https://micro.manton.org/feed.json",
+	"items": [
+		
+		{
+			"id": "http://micromanton.micro.blog/2018/01/01/testing-new-photos.html",
+	      	
+			"content_html": "<p>Testing new photos.</p>\n\n<p><img src=\"http://micro.manton.org/uploads/2018/2d37066650.jpg\" width=\"98\" height=\"130\" /></p>\n",
+			"date_published": "2018-01-01T13:57:00-05:00",
+			"url": "https://micro.manton.org/2018/01/01/testing-new-photos.html"
+		},
+		
+		{
+			"id": "http://micromanton.micro.blog/2017/12/30/checked-in-at.html",
+	      	
+			"content_html": "<p>Checked in at Pet Supplies Plus</p>\n",
+			"date_published": "2017-12-30T17:43:00-05:00",
+			"url": "https://micro.manton.org/2017/12/30/checked-in-at.html"
+		},
+		
+		{
+			"id": "http://micromanton.micro.blog/2017/12/27/234636.html",
+	      	
+			"content_html": "<p>Checked in at Culinary Dropout</p>\n",
+			"date_published": "2017-12-27T18:46:00-05:00",
+			"url": "https://micro.manton.org/2017/12/27/234636.html"
+		},
+		
+		{
+			"id": "http://micromanton.micro.blog/2017/12/27/204916.html",
+	      	
+			"content_html": "<p>Checked in at Alta’s. Coffee.</p>\n",
+			"date_published": "2017-12-27T15:49:00-05:00",
+			"url": "https://micro.manton.org/2017/12/27/204916.html"
+		},
+		
+		{
+			"id": "http://micromanton.micro.blog/2017/12/27/checked-in-at.html",
+	      	
+			"content_html": "<p>Checked in at The Lobby Lounge at Four Seasons Hotel Austin. Austinopoly gingerbread village.</p>\n",
+			"date_published": "2017-12-27T15:41:00-05:00",
+			"url": "https://micro.manton.org/2017/12/27/checked-in-at.html"
+		},
+		
+		{
+			"id": "http://micromanton.micro.blog/2017/12/26/test-title-here.html",
+	      	
+			"title": "Test title here",
+			
+			"content_html": "<p>This is a longer post. Testing testing testing. This is a longer post. Testing testing testing.This is a longer post. Testing testing testing.This is a longer post. Testing testing testing.This is a longer post. Testing testing testing.This is a longer post. Testing testing testing.This is a longer post. Testing testing testing.</p>\n",
+			"date_published": "2017-12-26T18:36:00-05:00",
+			"url": "https://micro.manton.org/2017/12/26/test-title-here.html"
+		},
+		
+		{
+			"id": "http://micromanton.micro.blog/2017/12/26/checked-in-at.html",
+	      	
+			"content_html": "<p>Checked in at The Domain</p>\n",
+			"date_published": "2017-12-26T16:48:00-05:00",
+			"url": "https://micro.manton.org/2017/12/26/checked-in-at.html"
+		},
+		
+		{
+			"id": "http://micromanton.micro.blog/2017/12/26/205451.html",
+	      	
+			"content_html": "<p>Checked in at Target</p>\n",
+			"date_published": "2017-12-26T15:54:00-05:00",
+			"url": "https://micro.manton.org/2017/12/26/205451.html"
+		},
+		
+		{
+			"id": "http://micromanton.micro.blog/2017/12/25/checked-in-at.html",
+	      	
+			"content_html": "<p>Checked in at Ichiban</p>\n",
+			"date_published": "2017-12-24T21:08:00-05:00",
+			"url": "https://micro.manton.org/2017/12/24/checked-in-at.html"
+		},
+		
+		{
+			"id": "http://micromanton.micro.blog/2017/12/19/test.html",
+	      	
+			"content_html": "<p>Test.</p>\n\n<p><img src=\"http://micro.manton.org/uploads/2017/d21afd05e8.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-12-19T11:26:00-05:00",
+			"url": "https://micro.manton.org/2017/12/19/test.html"
+		},
+		
+		{
+			"id": "http://micromanton.micro.blog/2017/12/17/checked-in-at.html",
+	      	
+			"title": "Test title here",
+			
+			"content_html": "<p>Checked in at Panera Bread</p>\n",
+			"date_published": "2017-12-17T14:46:00-05:00",
+			"url": "https://micro.manton.org/2017/12/17/checked-in-at.html"
+		},
+		
+		{
+			"id": "http://micromanton.micro.blog/2017/12/16/checked-in-at.html",
+	      	
+			"content_html": "<p>Checked in at Torchy’s Tacos</p>\n",
+			"date_published": "2017-12-16T14:27:00-05:00",
+			"url": "https://micro.manton.org/2017/12/16/checked-in-at.html"
+		},
+		
+		{
+			"id": "http://micromanton.micro.blog/2017/12/15/checked-in-at.html",
+	      	
+			"content_html": "<p>Checked in at Cajun Pizza Place</p>\n",
+			"date_published": "2017-12-15T18:23:00-05:00",
+			"url": "https://micro.manton.org/2017/12/15/checked-in-at.html"
+		},
+		
+		{
+			"id": "http://micromanton.micro.blog/2017/12/14/185817.html",
+	      	
+			"content_html": "<p>Checked in at Panera Bread</p>\n",
+			"date_published": "2017-12-14T13:58:00-05:00",
+			"url": "https://micro.manton.org/2017/12/14/185817.html"
+		},
+		
+		{
+			"id": "http://micromanton.micro.blog/2017/12/14/checked-in-at.html",
+	      	
+			"content_html": "<p>Checked in at Halcyon Coffee, Bar &amp; Lounge</p>\n",
+			"date_published": "2017-12-13T20:19:00-05:00",
+			"url": "https://micro.manton.org/2017/12/13/checked-in-at.html"
+		},
+		
+		{
+			"id": "http://micromanton.micro.blog/2017/12/13/testing-curl.html",
+	      	
+			"content_html": "<p>Testing curl</p>\n",
+			"date_published": "2017-12-13T12:32:00-05:00",
+			"url": "https://micro.manton.org/2017/12/13/testing-curl.html"
+		},
+		
+		{
+			"id": "http://micromanton.micro.blog/2017/12/09/aaron-pareckihttpsaaronpareckicom-talking.html",
+	      	
+			"content_html": "<p><a href=\"https://aaronparecki.com/\">Aaron Parecki</a> talking about the building blocks of the IndieWeb — your own domain name, types of posts, Microformats, Webmentions, and more — at IndieWebCamp.</p>\n",
+			"date_published": "2017-12-09T11:53:00-05:00",
+			"url": "https://micro.manton.org/2017/12/09/aaron-pareckihttpsaaronpareckicom-talking.html"
+		},
+		
+		{
+			"id": "http://micromanton.micro.blog/2017/12/05/testing-with-new.html",
+	      	
+			"content_html": "<p>Testing with new <em>mp-destination</em> changes.</p>\n",
+			"date_published": "2017-12-05T08:30:00-05:00",
+			"url": "https://micro.manton.org/2017/12/05/testing-with-new.html"
+		},
+		
+		{
+			"id": "http://micromanton.micro.blog/2017/12/01/testing.html",
+	      	
+			"title": "Posting from MarsEdit 🚀",
+			
+			"content_html": "<p style=\"font-size: 14px;\">You can post to Micro.blog from MarsEdit using Markdown or <strong>MarsEdit's rich text mode</strong>.</p>\n",
+			"date_published": "2017-12-01T15:05:00-05:00",
+			"url": "https://micro.manton.org/2017/12/01/testing.html"
+		},
+		
+		{
+			"id": "http://micromanton.micro.blog/2017/11/15/photo-test-with.html",
+	      	
+			"content_html": "<p>Photo test with <strong>Markdown</strong>.</p>\n\n<p><img src=\"https://micro.manton.org/uploads/2017/13d0d583a5.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-11-15T09:37:00-05:00",
+			"url": "https://micro.manton.org/2017/11/15/photo-test-with.html"
+		},
+		
+		{
+			"id": "http://micromanton.micro.blog/2017/11/15/quick-test-from.html",
+	      	
+			"content_html": "<p>Quick test from iPad.</p>\n",
+			"date_published": "2017-11-15T09:36:00-05:00",
+			"url": "https://micro.manton.org/2017/11/15/quick-test-from.html"
+		},
+		
+		{
+			"id": "http://micromanton.micro.blog/2017/11/09/testing-embedding-a.html",
+	      	
+			"title": "Test title hello gist",
+			
+			"content_html": "<p>Testing embedding a gist:</p>\n\n<script src=\"https://gist.github.com/manton/3ee2eedf3932f948b31447eee9a4f9a4.js\"></script>\n\n<p>Test editing. Again.</p>\n",
+			"date_published": "2017-11-09T12:51:00-05:00",
+			"url": "https://micro.manton.org/2017/11/09/testing-embedding-a.html"
+		},
+		
+		{
+			"id": "http://micromanton.micro.blog/2017/11/09/testing-quotejs-hello.html",
+	      	
+			"content_html": "<p>Testing quote:</p>\n\n<p><code>js\n\t{ \"hello\": \"hi\" }\n</code></p>\n",
+			"date_published": "2017-11-09T08:36:00-05:00",
+			"url": "https://micro.manton.org/2017/11/09/testing-quotejs-hello.html"
+		},
+		
+		{
+			"id": "http://micromanton.micro.blog/2017/11/08/photo-test.html",
+	      	
+			"content_html": "<p>Photo test.</p>\n\n<p><img src=\"http://micro.manton.org/uploads/2017/bfc474fdb9.jpg\" width=\"599\" height=\"600\" /></p>\n",
+			"date_published": "2017-11-08T16:47:00-05:00",
+			"url": "https://micro.manton.org/2017/11/08/photo-test.html"
+		},
+		
+		{
+			"id": "http://manton.micro.blog/2017/11/03/testing-photo-post.html",
+	      	
+			"content_html": "<p>Testing photo post.</p>\n\n<p><img src=\"http://micro.manton.org/uploads/2017/10d10eeb98.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2017-11-03T08:00:00-05:00",
+			"url": "https://micro.manton.org/2017/11/03/testing-photo-post.html"
+		}
+		
+	]
+}
