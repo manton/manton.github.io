@@ -1,0 +1,32 @@
+email: your-email@domain.com
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+sass:
+  sass_dir: assets/stylesheets
+  style: :compressed
+
+title: "Manton Reece"
+tagline: ""
+description: "Follow <a href=\"https://micro.blog/manton\">@manton on Micro.blog</a>."
+credits: "Follow <a href=\"https://micro.blog/manton\">@manton on Micro.blog</a>."
+baseurl: ""
+url: "https://micro.manton.org"
+markdown: "kramdown"
+username: "manton"
+permalink: "/:year/:month/:day/:title.html"
+relative_permalinks: false
+author: "Manton Reece"
+name: "Manton Reece"
+gravatar_hash: "d848ac9a3c64d1b73563895892cb2819"
+avatar: "https://micro.blog/manton/avatar.jpg"
+full_name: "Manton Reece"
+bio: ""
+twitter_username: ""
+github_username: "manton"
+instagram_username: "mantontest"
+paginate: 20
+paginate_path: "/page/:num/"
+timezone: "US/Indiana-Starke"
+site_id: "1"
