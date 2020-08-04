@@ -1,21 +1,2216 @@
----
-layout: default
-css_class: home
----
-<section class="posts h-feed">
-  {% for p in paginator.posts %}
-    <article class="post h-entry">
-	  {% if p.microblog == false %}
-		<h1><a href="{{ p.url }}">{{ p.title }}</a></h1>
-	  {% endif %}
-      <div class="e-content">{{ p.content }}</div>
-      <footer class="post__footer">
-        <small><time class="dt-published" datetime="{{ p.date | date_to_xmlschema }}"><a href="{{ p.url }}" title="Permalink to Microblog post" class="u-url">{{ p.date | date: "%a, %b %d, %Y at %I:%M%P" }}</time></a></small>
-      </footer>
-    </article>
-  {% endfor %}
-</section>
+<!DOCTYPE html>
+<html>
 
-{% if paginator.previous_page or paginator.next_page %}
-    {% include pagination.html %}
-{% endif %}
+  <head>
+	<meta name="generator" content="Hugo 0.53" />
+
+  <title>
+      
+      Manton Reece
+      
+  </title>
+
+</head>
+
+
+  <body>
+
+    
+
+	
+<div class="h-feed">
+
+	
+	
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/08/03/testing.html" class="u-url"><time class="dt-published" datetime="2020-08-03 10:30:00 -0500">Aug 3, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing.</p>
+
+<p><img src="uploads/2020/5ffe4c9fa7.jpg" width="1536.0" height="2048.0" alt="" style="height: auto;" class="sunlit_image" /></p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/08/01/testing-photo-from.html" class="u-url"><time class="dt-published" datetime="2020-08-01 16:49:27 -0500">Aug 1, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing photo from Indigenous.</p>
+
+<p><img src="uploads/2020/2af0ce2d7f.jpg" width="450" height="600" alt="" /></p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/08/01/testing-from-indigenous.html" class="u-url"><time class="dt-published" datetime="2020-08-01 16:46:25 -0500">Aug 1, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing from Indigenous again.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/07/31/testing-friday.html" class="u-url"><time class="dt-published" datetime="2020-07-31 19:03:06 -0500">Jul 31, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing. Friday.</p>
+
+<p><img src="uploads/2020/c13fb7fe63.jpg" width="3000.0" height="2002.0" alt="" style="height: auto;" class="sunlit_image" /></p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+			<h1><a href="https://manton-test.micro.blog/2020/07/30/photos.html">Photos</a></h1>
+		
+
+        <a href="https://manton-test.micro.blog/2020/07/30/photos.html" class="u-url"><time class="dt-published" datetime="2020-07-30 10:38:52 -0500">Jul 30, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Test 1.</p>
+
+<p><a href="https://manton-test.micro.blog/uploads/2020/8cbf858df0.jpg"><img src="uploads/2020/8cbf858df0.jpg" width="3024.0" height="4032.0" alt="" style="display: inline-block; max-height: 200px; width: auto; padding: 1px;" class="sunlit_image" /></a><a href="https://manton-test.micro.blog/uploads/2020/a817434b8b.jpg"><img src="uploads/2020/a817434b8b.jpg" width="3024.0" height="4032.0" alt="" style="display: inline-block; max-height: 200px; width: auto; padding: 1px;" class="sunlit_image" /></a><a href="https://manton-test.micro.blog/uploads/2020/000ffa386e.jpg"><img src="uploads/2020/000ffa386e.jpg" width="3024.0" height="4032.0" alt="" style="display: inline-block; max-height: 200px; width: auto; padding: 1px;" class="sunlit_image" /></a></p>
+
+<p>Test 2.</p>
+
+<p><img src="uploads/2020/efdca46f31.jpg" width="3024.0" height="4032.0" alt="" style="height: auto;" class="sunlit_image" /></p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/07/30/103715.html" class="u-url"><time class="dt-published" datetime="2020-07-30 10:37:15 -0500">Jul 30, 2020</time></a>
+
+        <div class="e-content">
+         	<p><img src="uploads/2020/1c7bcf1306.jpg" width="3024.0" height="4032.0" alt="" style="height: auto;" class="sunlit_image" /></p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/07/30/103611.html" class="u-url"><time class="dt-published" datetime="2020-07-30 10:36:11 -0500">Jul 30, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing.</p>
+
+<p><a href="https://manton-test.micro.blog/uploads/2020/312fe3cc1a.jpg"><img src="uploads/2020/312fe3cc1a.jpg" width="3024.0" height="4032.0" alt="" style="display: inline-block; max-height: 200px; width: auto; padding: 1px;" class="sunlit_image" /></a><a href="https://manton-test.micro.blog/uploads/2020/594de1fe2e.jpg"><img src="uploads/2020/594de1fe2e.jpg" width="3024.0" height="4032.0" alt="" style="display: inline-block; max-height: 200px; width: auto; padding: 1px;" class="sunlit_image" /></a><a href="https://manton-test.micro.blog/uploads/2020/ede96b13d5.jpg"><img src="uploads/2020/ede96b13d5.jpg" width="3024.0" height="4032.0" alt="" style="display: inline-block; max-height: 200px; width: auto; padding: 1px;" class="sunlit_image" /></a></p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/07/30/103505.html" class="u-url"><time class="dt-published" datetime="2020-07-30 10:35:05 -0500">Jul 30, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing.</p>
+
+<p><img src="uploads/2020/69b4cc415d.jpg" width="3024.0" height="4032.0" alt="" style="height: auto;" class="sunlit_image" /></p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/07/30/testing.html" class="u-url"><time class="dt-published" datetime="2020-07-30 10:34:18 -0500">Jul 30, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing.</p>
+
+<p><img src="uploads/2020/b136beb91d.jpg" width="3024.0" height="4032.0" alt="" style="height: auto;" class="sunlit_image" /></p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/07/28/testing-microblogposttexthello.html" class="u-url"><time class="dt-published" datetime="2020-07-28 14:36:16 -0500">Jul 28, 2020</time></a>
+
+        <div class="e-content">
+         	<p>testing</p>
+
+<pre><code>micro.blog/post?text=Hello
+</code></pre>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/07/28/testing-from-micropublish.html" class="u-url"><time class="dt-published" datetime="2020-07-28 09:42:02 -0500">Jul 28, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing from Micropublish.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/07/26/testing.html" class="u-url"><time class="dt-published" datetime="2020-07-26 09:34:30 -0500">Jul 26, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing.</p>
+
+<p><a href="https://manton-test.micro.blog/uploads/2020/f264c778b5.jpg"><img src="uploads/2020/f264c778b5.jpg" width="3024.0" height="4032.0" alt="" style="display: inline-block; max-height: 200px; width: auto; padding: 1px;" class="sunlit_image" /></a><a href="https://manton-test.micro.blog/uploads/2020/1615dada4d.jpg"><img src="uploads/2020/1615dada4d.jpg" width="3024.0" height="4032.0" alt="" style="display: inline-block; max-height: 200px; width: auto; padding: 1px;" class="sunlit_image" /></a></p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/07/22/testing.html" class="u-url"><time class="dt-published" datetime="2020-07-22 10:37:47 -0500">Jul 22, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing.</p>
+
+<p><img src="uploads/2020/04a60ee702.jpg" width="450" height="600" alt="" /></p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/07/22/095843.html" class="u-url"><time class="dt-published" datetime="2020-07-22 09:58:43 -0500">Jul 22, 2020</time></a>
+
+        <div class="e-content">
+         	<p><img src="uploads/2020/dd23936faf.jpg" width="3024.0" height="4032.0" alt="" style="height: auto;" class="sunlit_image" /></p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/07/21/testing.html" class="u-url"><time class="dt-published" datetime="2020-07-21 14:31:49 -0500">Jul 21, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing.</p>
+
+<p><img src="uploads/2020/1f976ceafe.jpg" width="1536.0" height="2048.0" alt="" style="height: auto;" class="sunlit_image" /></p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/07/20/adsfasdf.html" class="u-url"><time class="dt-published" datetime="2020-07-20 15:31:32 -0500">Jul 20, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Adsfasdf</p>
+
+<p><img src="uploads/2020/7bdbe9c4e2.jpg" width="3024.0" height="4032.0" alt="" style="height: auto;" class="sunlit_image" /></p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/07/20/test-hello-world.html" class="u-url"><time class="dt-published" datetime="2020-07-20 13:59:00 -0500">Jul 20, 2020</time></a>
+
+        <div class="e-content">
+         	<p>test <em><a href="https://manton.org/">hello again</a></em></p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/07/15/footnote-test-asdf.html" class="u-url"><time class="dt-published" datetime="2020-07-15 10:38:22 -0500">Jul 15, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Footnote test, <sup class="footnote-ref" id="fnref:asdf"><a href="#fn:asdf">1</a></sup>. Hmm.</p>
+<div class="footnotes">
+
+<hr />
+
+<ol>
+<li id="fn:asdf">This is the footnote text. Cool!
+ <a class="footnote-return" href="#fnref:asdf"><sup>[return]</sup></a></li>
+</ol>
+</div>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/07/14/love-it-when.html" class="u-url"><time class="dt-published" datetime="2020-07-14 12:02:09 -0500">Jul 14, 2020</time></a>
+
+        <div class="e-content">
+         	<p><blockquote class="quoteback" data-title="" data-author="maique madeira" data-avatar="https://micro.blog/maique/avatar.jpg" cite="https://micro.maiquemadeira.com/2020/07/14/love-it-when.html"><p>Love it when Discover and the Photos timelines get updated. Always find someone I wasn’t yet aware of and worth a follow.</p><footer>maique madeira<cite><a href="https://micro.maiquemadeira.com/2020/07/14/love-it-when.html">https://micro.maiquemadeira.com/2020/07/14/love-it-when.html</a></cite></footer></blockquote><script src="https://micro.blog/quoteback.js"></script></p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/07/13/hello.html" class="u-url"><time class="dt-published" datetime="2020-07-13 09:19:55 -0500">Jul 13, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Hello.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/07/10/test-b.html" class="u-url"><time class="dt-published" datetime="2020-07-10 21:01:56 -0500">Jul 10, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Test b1.</p>
+
+<p><img src="uploads/2020/cbb6258a8f.jpg" width="450" height="600" alt="" /></p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/07/10/testing.html" class="u-url"><time class="dt-published" datetime="2020-07-10 15:05:22 -0500">Jul 10, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/07/06/130819.html" class="u-url"><time class="dt-published" datetime="2020-07-06 13:08:00 -0500">Jul 6, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing 12345. It&rsquo;s nice to test!</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/07/06/090359.html" class="u-url"><time class="dt-published" datetime="2020-07-06 09:03:59 -0500">Jul 6, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing 2.</p>
+
+<p><img src="uploads/2020/05100f47c5.png" width="600" height="531" alt="" /></p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/07/06/testing.html" class="u-url"><time class="dt-published" datetime="2020-07-06 09:03:34 -0500">Jul 6, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/06/27/currently-reading-the.html" class="u-url"><time class="dt-published" datetime="2020-06-27 19:20:08 -0500">Jun 27, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Currently reading: <a href="https://micro.blog/books/9780689845369">The Tombs of Atuan</a> by Ursula K. Le Guin 📚</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/06/25/testing.html" class="u-url"><time class="dt-published" datetime="2020-06-25 14:26:00 -0500">Jun 25, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing</p>
+
+<p><img src="uploads/2020/cf679a48a1.jpg" width="600" height="400" alt="" /></p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/06/23/asdasdf.html" class="u-url"><time class="dt-published" datetime="2020-06-23 10:47:01 -0500">Jun 23, 2020</time></a>
+
+        <div class="e-content">
+         	<p>asdasdf</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/06/23/hmm.html" class="u-url"><time class="dt-published" datetime="2020-06-23 10:46:38 -0500">Jun 23, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Hmm.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/06/23/test-draft.html" class="u-url"><time class="dt-published" datetime="2020-06-23 10:43:36 -0500">Jun 23, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Test draft 2.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/06/23/test-draft-again.html" class="u-url"><time class="dt-published" datetime="2020-06-23 10:43:20 -0500">Jun 23, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Test draft again.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/06/23/testing.html" class="u-url"><time class="dt-published" datetime="2020-06-23 10:02:22 -0500">Jun 23, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/06/18/testing.html" class="u-url"><time class="dt-published" datetime="2020-06-18 09:25:36 -0500">Jun 18, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing.</p>
+
+<p><img src="uploads/2020/ea0d0f291e.jpg" width="480" height="480" alt="" /></p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+			<h1><a href="https://manton-test.micro.blog/2020/06/13/test-with-quotes.html">Test &#34;with quotes&#34;</a></h1>
+		
+
+        <a href="https://manton-test.micro.blog/2020/06/13/test-with-quotes.html" class="u-url"><time class="dt-published" datetime="2020-06-13 22:13:13 -0500">Jun 13, 2020</time></a>
+
+        <div class="e-content">
+         	<p>testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/06/13/test-muting.html" class="u-url"><time class="dt-published" datetime="2020-06-13 22:11:01 -0500">Jun 13, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Test muting.</p>
+
+<p><img src="uploads/2020/1890a5aba4.png" width="600" height="85" alt="" /></p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/06/13/test.html" class="u-url"><time class="dt-published" datetime="2020-06-13 20:57:14 -0500">Jun 13, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Test.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+			<h1><a href="https://manton-test.micro.blog/2020/06/12/test-draft-about.html">Test draft about Quotebacks</a></h1>
+		
+
+        <a href="https://manton-test.micro.blog/2020/06/12/test-draft-about.html" class="u-url"><time class="dt-published" datetime="2020-06-12 14:08:00 -0500">Jun 12, 2020</time></a>
+
+        <div class="e-content">
+         	<p>For a long time I&rsquo;ve wanted to add quoting tools to Micro.blog, so that it&rsquo;s even easier to embed text from other blog posts and add your own thoughts. As I blogged about back [in 2016 about fake news](), I don&rsquo;t think retweets are helpful. Markdown block quotes are easy enough, but do require a little more copy/paste work and some editing.</p>
+
+<p>So I was really interested in the recent launch of <a href="https://quotebacks.net/">Quotebacks</a>, from Tom Critchlow and Toby Shorin. We&rsquo;ve needed a kind of &ldquo;embed microblog post&rdquo; feature in Micro.blog, similar to embedding features that Twitter and Facebook have. Quotebacks are exactly that, but they work for anything on the web.</p>
+
+<p>I&rsquo;d like to run with Quotebacks and see where it leads us. For now, I&rsquo;ve added &ldquo;Embed&rdquo; links on the Micro.blog Favorites page on the web. This is an experiment. It will likely change, either rolling out in some form to all the platforms, or based on feedback maybe we&rsquo;ll go in a different direction.</p>
+
+<p>I&rsquo;ve also [forked the Quotebacks repository]() and tweaked the JavaScript with a couple changes:</p>
+
+<ul>
+<li>Instead of routing the favicons through Google&rsquo;s cache, Micro.blog&rsquo;s version just uses the profile photos on your account directly with a new <code>data-avatar</code> attribute.</li>
+<li>Because copied microblog posts always have a profile photo, it is displayed larger with rounded corners.</li>
+</ul>
+
+<p>How does this look? I&rsquo;m embedding a microblog post below using this feature:</p>
+
+<p><blockquote class="quoteback" data-title="" data-author="Mike Haynes" data-avatar="https://micro.blog/mikehaynes/avatar.jpg" cite="https://micro.mikehayn.es/2020/05/13/ia-writer-has.html"><p>iA Writer has added Micropub support in today’s <a href="https://ia.net/writer/blog/new-pdf-preview-better-web-publishing-improved-editing">5.5 update</a>:</p></p>
+
+<p><blockquote>
+<p>This means you can publish to Micro.blog and other IndieWeb tools.</p>
+</blockquote>
+<footer>Mike Haynes<cite><a href="https://micro.mikehayn.es/2020/05/13/ia-writer-has.html">https://micro.mikehayn.es/2020/05/13/ia-writer-has.html</a></cite></footer></blockquote><script src="https://micro.blog/quoteback.js"></script></p>
+
+<p>Another test:</p>
+
+<p><blockquote class="quoteback" data-title="" data-author="Andrew Canion" data-avatar="https://micro.blog/canion/avatar.jpg" cite="https://micro.blog/canion/9799003"><p><a href="https://micro.blog/chaitanya">@chaitanya</a> Thanks. <a href="https://micro.blog/manton">@manton</a> suggested I use <a href="https://www.chetjcollins.com/2019/07/22/customizing-your-hosted.html">this method</a> put forward by <a href="https://micro.blog/chet">@chet</a> (which seems slightly easier!). I will see how it goes with the next podcast RSS refresh.</p>
+<footer>Andrew Canion<cite><a href="https://micro.blog/canion/9799003">https://micro.blog/canion/9799003</a></cite></footer></blockquote><script src="https://micro.blog/quoteback.js"></script></p>
+
+<p>I&rsquo;ve kept this isolated to the Favorites page so we can try a few things without disrupting the rest of your Micro.blog workflow. There are other questions to answer, such as how this should integrate with sending Webmentions, but I think having something like this to play with is a good first step.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/06/12/another-test-finished.html" class="u-url"><time class="dt-published" datetime="2020-06-12 13:30:27 -0500">Jun 12, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Another test.</p>
+
+<p><blockquote class="quoteback" data-title="" data-author="Michael Wayne Arnold" data-avatar="https://micro.blog/marmanold/avatar.jpg" cite="https://microblog.marmanold.com/2020/05/13/finished-reading-pocket.html"><p>Finished reading: <a href="https://micro.blog/books/9780143126676">Pocket Atlas of Remote Islands</a> by Judith Schalansky 📚</p>
+<footer>Michael Wayne Arnold<cite><a href="https://microblog.marmanold.com/2020/05/13/finished-reading-pocket.html">https://microblog.marmanold.com/2020/05/13/finished-reading-pocket.html</a></cite></footer></blockquote><script src="https://micro.blog/quoteback.js"></script></p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/06/12/testing-someones-been.html" class="u-url"><time class="dt-published" datetime="2020-06-12 12:45:39 -0500">Jun 12, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing.</p>
+
+<p><blockquote class="quoteback" data-title="" data-author="Manton Reece" cite="http://www.manton.org/2017/02/4821.html"><p>Someone’s been trying to reset my Apple ID password all week. Started to get worried when I got an email that they called Apple Support, so I called too. Everything seems okay. I have 2-step verification on.</p><footer>Manton Reece<cite><a href="http://www.manton.org/2017/02/4821.html">http://www.manton.org/2017/02/4821.html</a></cite></footer></blockquote><script src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script></p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+			<h1><a href="https://manton-test.micro.blog/2020/06/12/testing.html">Title here</a></h1>
+		
+
+        <a href="https://manton-test.micro.blog/2020/06/12/testing.html" class="u-url"><time class="dt-published" datetime="2020-06-12 09:06:00 -0500">Jun 12, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing. 123.</p>
+
+<p><img src="uploads/2020/8d4e22ddb1.jpg" width="600" height="450" alt="" /></p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/06/11/testing.html" class="u-url"><time class="dt-published" datetime="2020-06-11 14:32:29 -0500">Jun 11, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing.</p>
+
+<p><img src="uploads/2020/8074810b80.jpg" width="600" height="450" alt="Bridge on the drive back to Austin." /></p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/06/04/medium-video.html" class="u-url"><time class="dt-published" datetime="2020-06-04 11:00:44 -0500">Jun 4, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Medium video.</p>
+
+<video controls="controls" playsinline="playsinline" src="https://manton-test.micro.blog/uploads/2020/faf6947e49.mov" width="640" height="640" poster="https://manton-test.micro.blog/uploads/2020/dd581a0395.png" preload="none"></video>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/06/04/105931.html" class="u-url"><time class="dt-published" datetime="2020-06-04 10:59:31 -0500">Jun 4, 2020</time></a>
+
+        <div class="e-content">
+         	<p>🏝</p>
+
+<p><img src="uploads/2020/171548e355.jpg" width="600" height="450" alt="" /></p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/06/04/deer.html" class="u-url"><time class="dt-published" datetime="2020-06-04 10:33:46 -0500">Jun 4, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Deer.</p>
+
+<p><img src="uploads/2020/8e0281e694.jpg" width="450" height="600" alt="" /></p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/06/04/testing-again.html" class="u-url"><time class="dt-published" datetime="2020-06-04 10:32:55 -0500">Jun 4, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing again.</p>
+
+<video controls="controls" playsinline="playsinline" src="https://manton-test.micro.blog/uploads/2020/7d5577df34.mov" width="640" height="640" poster="https://manton-test.micro.blog/uploads/2020/0254b50967.png" preload="none"></video>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/06/04/larger-test.html" class="u-url"><time class="dt-published" datetime="2020-06-04 10:14:26 -0500">Jun 4, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Larger test.</p>
+
+<video controls="controls" playsinline="playsinline" src="https://manton-test.micro.blog/uploads/2020/f019f30d2d.mov" width="1080" height="1080" poster="https://manton-test.micro.blog/uploads/2020/daee3ebd6e.png" preload="none"></video>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/06/04/small-test.html" class="u-url"><time class="dt-published" datetime="2020-06-04 10:13:10 -0500">Jun 4, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Small test.</p>
+
+<video controls="controls" playsinline="playsinline" src="https://manton-test.micro.blog/uploads/2020/32bb749357.mov" width="640" height="640" poster="https://manton-test.micro.blog/uploads/2020/71e3609d43.png" preload="none"></video>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/06/04/larger-video.html" class="u-url"><time class="dt-published" datetime="2020-06-04 09:02:39 -0500">Jun 4, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Larger video.</p>
+
+<video controls="controls" playsinline="playsinline" src="https://manton-test.micro.blog/uploads/2020/12c759448b.mov" preload="none"></video>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/06/04/video.html" class="u-url"><time class="dt-published" datetime="2020-06-04 09:00:52 -0500">Jun 4, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Video.</p>
+
+<video controls="controls" playsinline="playsinline" src="https://manton-test.micro.blog/uploads/2020/76a7f451ad.mov" preload="none"></video>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/06/03/testing-video.html" class="u-url"><time class="dt-published" datetime="2020-06-03 11:47:23 -0500">Jun 3, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing video.</p>
+
+<video controls="controls" playsinline="playsinline" src="https://manton-test.micro.blog/uploads/2020/1613ce91c9.mp4" preload="none"></video>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/06/03/testing-photo.html" class="u-url"><time class="dt-published" datetime="2020-06-03 11:45:38 -0500">Jun 3, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing photo.</p>
+
+<p><img src="uploads/2020/3bc934be7f.jpg" width="600" height="450" alt="" /></p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/06/03/testing.html" class="u-url"><time class="dt-published" datetime="2020-06-03 11:45:14 -0500">Jun 3, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/06/03/093741.html" class="u-url"><time class="dt-published" datetime="2020-06-03 09:37:41 -0500">Jun 3, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing.</p>
+
+<p><img src="uploads/2020/560a8496ca.jpg" width="600" height="450" alt="" /></p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/06/01/testing.html" class="u-url"><time class="dt-published" datetime="2020-06-01 14:25:08 -0500">Jun 1, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing. Switch.</p>
+
+<p><img src="uploads/2020/29e29c08ce.jpg" width="450" height="600" alt="" /></p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/05/27/testing-links.html" class="u-url"><time class="dt-published" datetime="2020-05-27 10:58:29 -0500">May 27, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing links</p>
+
+<p><a href="https://manton-test.micro.blog/uploads/2020/c9a94cc7c0.jpg"><img src="uploads/2020/c9a94cc7c0.jpg" width="826.0" height="620.0" alt="" style="display: inline-block; max-height: 200px; width: auto; padding: 1px;" class="sunlit_image" /></a><a href="https://manton-test.micro.blog/uploads/2020/df22380513.jpg"><img src="uploads/2020/df22380513.jpg" width="824.0" height="548.0" alt="" style="display: inline-block; max-height: 200px; width: auto; padding: 1px;" class="sunlit_image" /></a></p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/05/27/testing-smaller-versions.html" class="u-url"><time class="dt-published" datetime="2020-05-27 10:55:36 -0500">May 27, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing smaller versions</p>
+
+<p><img src="uploads/2020/4c0c42522e.jpg" width="824.0" height="550.0" alt="" style="display: inline-block; max-height: 200px; width: auto; padding: 1px;" class="sunlit_image" /><img src="uploads/2020/1734b67c3e.jpg" width="824.0" height="548.0" alt="" style="display: inline-block; max-height: 200px; width: auto; padding: 1px;" class="sunlit_image" /></p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+			<h1><a href="https://manton-test.micro.blog/2020/05/27/hello-world.html">Hello world</a></h1>
+		
+
+        <a href="https://manton-test.micro.blog/2020/05/27/hello-world.html" class="u-url"><time class="dt-published" datetime="2020-05-27 10:43:45 -0500">May 27, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing</p>
+
+<p><img src="uploads/2020/827941ab25.jpg" width="824.0" height="550.0" alt="" style="height: auto;" class="sunlit_image" /><img src="uploads/2020/484649c528.jpg" width="826.0" height="620.0" alt="" style="height: auto;" class="sunlit_image" /></p>
+
+<p>Testing testing.</p>
+
+<p><img src="uploads/2020/38a0e7938b.jpg" width="824.0" height="548.0" alt="" style="height: auto;" class="sunlit_image" /></p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/05/19/daniel-and-i.html" class="u-url"><time class="dt-published" datetime="2020-05-19 10:32:06 -0500">May 19, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Daniel and I talk about iA Writer adding Micro.blog publishing and more on <a href="https://coreint.org/">the latest Core Intuition</a>.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/05/15/testing-on-friday.html" class="u-url"><time class="dt-published" datetime="2020-05-15 14:13:01 -0500">May 15, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing on Friday. ☕</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+			<h1><a href="https://manton-test.micro.blog/2020/05/12/categories-from-hashtags.html">Categories from hashtags</a></h1>
+		
+
+        <a href="https://manton-test.micro.blog/2020/05/12/categories-from-hashtags.html" class="u-url"><time class="dt-published" datetime="2020-05-12 19:00:00 -0500">May 12, 2020</time></a>
+
+        <div class="e-content">
+         	<p><a href="https://help.micro.blog/2020/categories/">Categories in Micro.blog</a> are a great way to organize your posts. When you use categories, visitors to your blog can browse just those posts, and you can also provide RSS feeds for specific categories.</p>
+
+<p>Some apps such as <a href="https://ia.net/writer">iA Writer</a> use hashtags to organize posts. When you publish to Micro.blog, those tags will be included in the blog post content. You can use Micro.blog filters to automatically assign categories based on those tags.</p>
+
+<p>Here&rsquo;s what a post might look like in iA Writer, using the hashtag <code>#travel</code>:</p>
+
+<p><img src="uploads/2020/2342dbfae4.jpg" alt="iA Writer screenshot" border="0" width="231" height="500" style="max-width: 231px;" /></p>
+
+<p>In Micro.blog, click Posts → Categories → Edit Filters to create a new filter. For the text content, enter <code>#travel</code> and pick a category to assign:</p>
+
+<p><img src="uploads/2020/8c06f9179d.jpg" alt="Hashtags filter screenshot" border="0" width="499" height="156" style="max-width: 499px;" /></p>
+
+<p>Note that the hashtag will still appear in your blog post, although you can edit it out later if you want to.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/05/12/154504.html" class="u-url"><time class="dt-published" datetime="2020-05-12 15:45:04 -0500">May 12, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing 12345.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/05/12/testing-pm.html" class="u-url"><time class="dt-published" datetime="2020-05-12 14:59:24 -0500">May 12, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing. 3pm.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/05/12/hello.html" class="u-url"><time class="dt-published" datetime="2020-05-12 11:00:37 -0500">May 12, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Hello. 🌧️</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/05/12/testing.html" class="u-url"><time class="dt-published" datetime="2020-05-12 07:31:37 -0500">May 12, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing. 1. 2.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/05/09/testing-on-saturday.html" class="u-url"><time class="dt-published" datetime="2020-05-09 16:33:33 -0500">May 9, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing on Saturday.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+			<h1><a href="https://manton-test.micro.blog/2020/05/08/teams.html">Teams</a></h1>
+		
+
+        <a href="https://manton-test.micro.blog/2020/05/08/teams.html" class="u-url"><time class="dt-published" datetime="2020-05-08 19:00:00 -0500">May 8, 2020</time></a>
+
+        <div class="e-content">
+         	
+
+<p>Micro.blog supports multi-user blogs, so your whole team can write posts on a shared blog. It&rsquo;s great for small companies, families, and schools, with everything from shared photo blogs to podcasts.</p>
+
+<p>To upgrade a blog, click on “Plans” and choose “Upgrade to Teams”.</p>
+
+<p>When you upgrade a blog to the teams subscription, a new “People” tab will appear in Micro.blog. Here you can give existing Micro.blog accounts access to post to the blog, or you can invite new people. Team members can publish new posts, edit existing posts, upload files, manage categories, and more.</p>
+
+<p><img src="uploads/2020/1a3ba95be9.jpg" alt="Micro.blog team members" border="0" width="600" height="358" /></p>
+
+<p>When someone is added to a team blog, that blog shows up as an additional blog on the web or in the native iOS and macOS apps. A single Micro.blog account can have access to any number of blogs and podcasts.</p>
+
+<p>To change which blog you are posting to:</p>
+
+<ul>
+<li>In Micro.blog for the web, click New Post → Switch Site.</li>
+<li>In Micro.blog for iOS and macOS, click on the hostname at the bottom of the new post screen.</li>
+</ul>
+
+<p>The teams plan is a $20/month subscription with unlimited users. It also includes podcasting and video hosting. If you invite someone who doesn’t already have a Micro.blog account, Micro.blog will give them immediate access to the team blog without prompting them to create their own microblog or sign up for a paid subscription.</p>
+
+<h2 id="theme-parameters">Theme parameters</h2>
+
+<p>The Marfa design has a place in the footer of each post that shows the author of that post. Other custom themes may need modifications if you want to include author information.</p>
+
+<p>Micro.blog adds the following Hugo parameters when processing your blog:</p>
+
+<ul>
+<li><code>.Params.author.name</code></li>
+<li><code>.Params.author.username</code></li>
+<li><code>.Params.author.avatar</code></li>
+</ul>
+
+<p>If the blog is not a team blog, these parameters will be blank. You can check whether the author is available, and then fall back on the blog&rsquo;s default author:</p>
+
+<pre><code class="language-html">{% raw %}&amp;#123;&amp;#123; if .Params.author }}
+  &lt;p&gt;&amp;#123;&amp;#123; .Params.author.name }}&lt;/p&gt;
+&amp;#123;&amp;#123; else }}
+  &lt;p&gt;&amp;#123;&amp;#123; .Site.Author.name }}&lt;/p&gt;
+&amp;#123;&amp;#123; end }}{% endraw %}
+</code></pre>
+
+<p>For more about custom themes, see <a href="https://help.micro.blog/2019/about-themes/">this help page</a>.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/05/03/testing-with-ducktales.html" class="u-url"><time class="dt-published" datetime="2020-05-03 16:18:54 -0500">May 3, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing with DuckTales.</p>
+
+<p><img src="uploads/2020/817dc5e3bd.jpg" width="450" height="600" alt="" /></p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/05/03/152344.html" class="u-url"><time class="dt-published" datetime="2020-05-03 15:23:44 -0500">May 3, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/05/03/test-from-marsedit.html" class="u-url"><time class="dt-published" datetime="2020-05-03 15:03:23 -0500">May 3, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Test from MarsEdit.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/05/03/115851.html" class="u-url"><time class="dt-published" datetime="2020-05-03 11:58:51 -0500">May 3, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing.</p>
+
+<p><img src="uploads/2020/528143643f.jpg" width="600" height="600" alt="" /></p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/05/03/test-link-httpsmantonorg.html" class="u-url"><time class="dt-published" datetime="2020-05-03 08:33:16 -0500">May 3, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Test link. <a href="https://manton.org/">manton.org</a></p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/05/03/testing.html" class="u-url"><time class="dt-published" datetime="2020-05-03 08:29:55 -0500">May 3, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing. Test.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/04/28/testing.html" class="u-url"><time class="dt-published" datetime="2020-04-28 10:15:47 -0500">Apr 28, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing 123.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/04/28/testing-again.html" class="u-url"><time class="dt-published" datetime="2020-04-28 08:25:43 -0500">Apr 28, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing again.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/04/28/testing-on-tuesday.html" class="u-url"><time class="dt-published" datetime="2020-04-28 08:24:54 -0500">Apr 28, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing on Tuesday morning.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+			<h1><a href="https://manton-test.micro.blog/2020/04/27/redirects.html">Redirects</a></h1>
+		
+
+        <a href="https://manton-test.micro.blog/2020/04/27/redirects.html" class="u-url"><time class="dt-published" datetime="2020-04-27 19:00:00 -0500">Apr 27, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Micro.blog can redirect some common URLs for you, and has the option to create additional redirects using pages. Micro.blog will automatically handle the following redirects:</p>
+
+<ul>
+<li>To help migrate from another blog, Micro.blog will redirect any missing file ending in <code>.xml</code> to your default feed. It will also redirect WordPress-style feed URLs such as <code>/feed</code>.</li>
+<li>When importing from WordPress, Tumblr, or Ghost, Micro.blog will keep track of the original URLs used. Micro.blog will automatically redirect these URLs to the new URLs on Micro.blog. (Your custom domain name must be the same for this to work.)</li>
+</ul>
+
+<p>If you need to add more redirects, you can create a new page on your site: Posts → Pages → New Page. In the text contents, enter the full URL to redirect to:</p>
+
+<p><img src="uploads/2020/42e53f78ad.jpg" width="600" height="130" alt="Screenshot of editing URL"></p>
+
+<p>After creating the page, you can edit it to change the path for the URL from the default. Click on the page and look for the &ldquo;Edit&rdquo; button in the corner:</p>
+
+<p><img src="uploads/2020/a2d450f76b.jpg" width="245" height="125" alt="Screenshot of Edit button"></p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+			<h1><a href="https://manton-test.micro.blog/2020/04/24/profile-photos-with.html">Profile photos with multiple blogs</a></h1>
+		
+
+        <a href="https://manton-test.micro.blog/2020/04/24/profile-photos-with.html" class="u-url"><time class="dt-published" datetime="2020-04-24 19:00:00 -0500">Apr 24, 2020</time></a>
+
+        <div class="e-content">
+         	
+
+<p>It&rsquo;s possible on Micro.blog to have multiple blogs or podcasts for a single Micro.blog account. When managing multiple blogs, you may want to override the image so that it&rsquo;s different than your profile photo.</p>
+
+<h2 id="changing-the-header">Changing the header</h2>
+
+<p>To change the home page to use a new image instead of your profile photo, you&rsquo;ll need to create a custom theme to override the header on your site:</p>
+
+<ol>
+<li>Upload a new photo under Posts → Uploads. Copy the URL for the uploaded file.</li>
+<li>Click on Posts → Design and then Edit Custom Themes.</li>
+<li>Create a new theme. You can name it whatever you want.</li>
+<li>Click on the theme to edit it and look for the template <code>layouts/partials/profile.html</code>.</li>
+<li>In that template, replace &ldquo;&#123;&#123; .Site.Author.avatar }}&rdquo; with the URL for the image you uploaded in the Uploads tab.</li>
+<li>After saving it, make sure to go back to Posts → Design and select the custom theme to use for your site.</li>
+</ol>
+
+<h2 id="podcast-cover-art">Podcast cover art</h2>
+
+<p>To customize the podcast cover art, upload a new PNG in Micro.blog on the web under Posts → Uploads. The dimensions should be 1400x1400 because that&rsquo;s what Apple&rsquo;s podcast directory prefers. Then click on Posts → Design and click the small preview of your current profile photo to pick the cover art for your podcast.</p>
+
+<h2 id="ios-home-screen-icon">iOS home screen icon</h2>
+
+<p>Micro.blog-hosted blogs have a basic &ldquo;favicon&rdquo; based on your profile photo. This should appear in web browsers and feed readers. When adding a blog as an icon on the iOS home screen, though, a custom image needs to be provided to iOS.</p>
+
+<ol>
+<li>Upload a PNG of the right dimensions under Posts → Uploads. Copy the URL for the uploaded file.</li>
+<li>Create a new custom theme on Micro.blog (or use your current custom theme if you already have one). Custom themes are managed under Posts → Design → Edit Custom Themes.</li>
+<li>Search for the template <code>layouts/partials/head.html</code> and click on it to edit it.</li>
+<li>Add the HTML to reference your uploaded PNG file. It should be something like:</li>
+</ol>
+
+<pre><code>&lt;link rel=&quot;apple-touch-icon&quot; href=&quot;url-here&quot; /&gt;
+</code></pre>
+
+<p>After saving the template, make sure the custom theme is set for your blog.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/04/24/testing.html" class="u-url"><time class="dt-published" datetime="2020-04-24 14:05:36 -0500">Apr 24, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/04/22/test-from-mac.html" class="u-url"><time class="dt-published" datetime="2020-04-22 15:27:25 -0500">Apr 22, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Test 3, from Mac.</p>
+
+<video controls="controls" playsinline="playsinline" src="https://manton-test.micro.blog/uploads/2020/26812ac118.mov" width="640" height="640" poster="https://manton-test.micro.blog/uploads/2020/7c2f499226.png" preload="none"></video>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/04/22/145815.html" class="u-url"><time class="dt-published" datetime="2020-04-22 14:58:15 -0500">Apr 22, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Test 2.</p>
+
+<video controls="controls" playsinline="playsinline" src="https://manton-test.micro.blog/uploads/2020/4daac97bfa.mov" width="640" height="640" poster="https://manton-test.micro.blog/uploads/2020/e45a658c07.png" preload="none"></video>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/04/22/test.html" class="u-url"><time class="dt-published" datetime="2020-04-22 14:53:47 -0500">Apr 22, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Test.</p>
+
+<video controls="controls" playsinline="playsinline" src="https://manton-test.micro.blog/uploads/2020/40936a4d6a.mov" width="640" height="640" poster="https://manton-test.micro.blog/uploads/2020/b26d100d26.png" preload="none"></video>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/04/22/quick-test.html" class="u-url"><time class="dt-published" datetime="2020-04-22 09:38:57 -0500">Apr 22, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Quick test.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+			<h1><a href="https://manton-test.micro.blog/2020/04/20/testing-xmlrpc-history.html">Testing XML-RPC history</a></h1>
+		
+
+        <a href="https://manton-test.micro.blog/2020/04/20/testing-xmlrpc-history.html" class="u-url"><time class="dt-published" datetime="2020-04-20 12:20:03 -0500">Apr 20, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Micro.blog supports primarily 2 APIs for posting to hosted blogs:</p>
+
+<ul>
+<li><strong>Micropub</strong>, the IndieWeb API used in the official Micro.blog apps.</li>
+<li><strong>MetaWeblog</strong>, the XML-RPC API used in MarsEdit for macOS.</li>
+</ul>
+
+<p>XML-RPC used to be the standard for blog posting, widely supported in all blogging platforms. It is still used in WordPress today, and I&rsquo;ve supported it in Micro.blog from the beginning. I&rsquo;ve always wanted Micro.blog to be compatible with as many apps as possible, especially MarsEdit.</p>
+
+<p>To understand XML-RPC, we have to go <em>way back</em> in blogging history, to 2001 and the original Blogger API by Evan Williams. Micro.blog&rsquo;s support for XML-RPC still closely matches what the API looked like nearly 20 years ago.</p>
+
+<p>As is obvious from the name, requests and responses in XML-RPC are sent as XML. Common data types such as integers, strings, and structs are encoded with rules outlined in the XML-RPC specification. To create a new post in the original Blogger API with the words &ldquo;Hello world&rdquo;, the request to the method <code>blogger.newPost</code> might look like this:</p>
+
+<pre><code class="language-xml">&lt;?xml version=&quot;1.0&quot;?&gt;
+&lt;methodCall&gt;
+  &lt;methodName&gt;blogger.newPost&lt;/methodName&gt;
+  &lt;params&gt;
+    &lt;param&gt;
+      &lt;value&gt;&lt;int&gt;app ID&lt;/int&gt;&lt;/value&gt;
+    &lt;/param&gt;
+    &lt;param&gt;
+      &lt;value&gt;&lt;int&gt;blog ID&lt;/int&gt;&lt;/value&gt;
+    &lt;/param&gt;
+    &lt;param&gt;
+      &lt;value&gt;&lt;string&gt;manton&lt;/string&gt;&lt;/value&gt;
+    &lt;/param&gt;
+    &lt;param&gt;
+      &lt;value&gt;&lt;string&gt;mypassword&lt;/string&gt;&lt;/value&gt;
+    &lt;/param&gt;
+    &lt;param&gt;
+      &lt;value&gt;&lt;string&gt;Hello world.&lt;/string&gt;&lt;/value&gt;
+    &lt;/param&gt;
+    &lt;param&gt;
+      &lt;value&gt;&lt;boolean&gt;1&lt;/boolean&gt;&lt;/value&gt;
+    &lt;/param&gt;
+  &lt;/params&gt;
+&lt;/methodCall&gt;
+</code></pre>
+
+<p>Subsequent blogging platforms extended the Blogger API with their own features. Instead of <code>blogger.newPost</code>, Movable Type had <code>mt.newPost</code> with similar parameters, adding a title field. WordPress had <code>wordpress.newPost</code>.</p>
+
+<p>To try to unify future improvements under a vendor-neutral standard, Dave Winer proposed the <a href="http://1998.xmlrpc.com/metaWeblogApi.html">MetaWeblog API</a>. MetaWeblog switched to passing content as structs, which could more easily be extended with additional fields, and added an image upload API, <code>metaWeblog.newMediaObject</code>. Dave patterned the field names after RSS:</p>
+
+<blockquote>
+<p>The MetaWeblog API uses an XML-RPC struct to represent a weblog post. Rather than invent a new vocabulary for the metadata of a weblog post, we use the vocabulary for an <a href="https://cyber.harvard.edu/rss/rss.html#hrelementsOfLtitemgt">item</a> in RSS 2.0. So you can refer to a post&rsquo;s title, link and description; or its author, comments, enclosure, guid, etc using the already-familiar names given to those elements in RSS 2.0.</p>
+</blockquote>
+
+<p>Dave wasn&rsquo;t the only one who hoped to bring consistency between feed formats and a blogging API. A couple years later, AtomPub was created based on Atom feeds.</p>
+
+<p>Ben Trott of Six Apart, makers of Movable Type, <a href="https://web.archive.org/web/20030707045207/http://www.sixapart.com/log/2003/06/why_we_need_ech.shtml">blogged at the time</a> about the benefits to basing an API on the Atom feed format, which back then was called Echo:</p>
+
+<blockquote>
+<p>Benefits to developers: using the same data model and serialization for syndication, archiving, and editing simplifies the development of tools to work with (produce and consume) these formats, for obvious reasons: code written to produce an item in an Echo feed, for example, can also be used for producing data sent in an API request or packaged up for archiving.</p>
+</blockquote>
+
+<p>AtomPub was adopted in Blogger but is not supported in any other modern blogging platforms. Earlier this year, MarsEdit developer Daniel Jalkut announced that he would also be phasing out support for posting to Blogger.</p>
+
+<p>Between the early 2000s when there was so much activity around blogging standards, and the growth of the IndieWeb and W3C-recommended standard Micropub API in 2017, there was a notable lack of innovation in blogging. Everyone was pulled away to social networks. Platform-specific APIs became the norm. It is because if this lull that XML-RPC survived so long without a modern replacement.</p>
+
+<p>So that brings us to today. Micro.blog has always worked with MarsEdit, but because it&rsquo;s based on a standard that was frozen, MarsEdit could not support all of Micro.blog&rsquo;s features. And while Micropub is clearly the future, there is more we could do <em>now</em> without requiring MarsEdit to be adapted for Micropub.</p>
+
+<p>I&rsquo;ve been working with Daniel to identity what is missing from MetaWeblog and rolling that into a new Micro.blog-specific flavor of XML-RPC. This is essentially what Movable Type and WordPress had done years ago. I had avoided it until now because Micro.blog should default to supporting standards wherever possible before inventing something new.</p>
+
+<p>We talked through this on <a href="https://coreint.org/2020/04/episode-416-wait-ten-years/">Core Intuition 416</a>. Now that there&rsquo;s <a href="https://danielpunkass.micro.blog/2020/04/17/marsedit-will-include.html">an alpha of MarsEdit 4.4</a> available, I&rsquo;ve <a href="https://help.micro.blog/2020/xmlrpc-microblog/">documented the new API parameters here</a>. It is based on MetaWeblog, but cleaned up with more consistent field names and support for new features such as creating and editing pages on your blog, server drafts, and downloading all posts.</p>
+
+<p>Micro.blog now shows up in MarsEdit as one of the supported blog systems, along with Tumblr and WordPress:</p>
+
+<p><img src="https://www.manton.org/uploads/2020/e00117b7b8.png" alt="MarsEdit systems" border="0" width="313" height="356" style="max-width: 313px;" /></p>
+
+<p>I&rsquo;ve been using the new MarsEdit for the last few days, and it really is a big improvement for Micro.blog. Keep an eye out for the final release.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+			<h1><a href="https://manton-test.micro.blog/2020/04/20/testing.html">Testing</a></h1>
+		
+
+        <a href="https://manton-test.micro.blog/2020/04/20/testing.html" class="u-url"><time class="dt-published" datetime="2020-04-20 08:33:01 -0500">Apr 20, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Test test. Hi.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+			<h1><a href="https://manton-test.micro.blog/2020/04/18/test-post.html">Test post</a></h1>
+		
+
+        <a href="https://manton-test.micro.blog/2020/04/18/test-post.html" class="u-url"><time class="dt-published" datetime="2020-04-18 14:40:56 -0500">Apr 18, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Test in the future.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+			<h1><a href="https://manton-test.micro.blog/2020/04/17/microblog-xmlrpc-api.html">Micro.blog XML-RPC API</a></h1>
+		
+
+        <a href="https://manton-test.micro.blog/2020/04/17/microblog-xmlrpc-api.html" class="u-url"><time class="dt-published" datetime="2020-04-17 19:00:00 -0500">Apr 17, 2020</time></a>
+
+        <div class="e-content">
+         	
+
+<p>This page documents the parameters and responses for Micro.blog&rsquo;s XML-RPC API. It is very similar to the MetaWeblog API, but updated for Micro.blog to support features such as pages and downloading all posts.</p>
+
+<h2 id="discovery">Discovery</h2>
+
+<p>The XML-RPC endpoint for Micro.blog is: <code>https://micro.blog/xmlrpc</code></p>
+
+<p>To discover the XML-RPC settings, you can prompt the user to enter their blog URL: <code>my-username.micro.blog</code> or a custom domain name. Look in the HTML response for a <code>&lt;link&gt;</code> tag with &ldquo;EditURI&rdquo;:</p>
+
+<pre><code class="language-xml">&lt;link rel=&quot;EditURI&quot; type=&quot;application/rsd+xml&quot; href=&quot;https://my-username.micro.blog/rsd.xml&quot; /&gt;
+</code></pre>
+
+<p>Download this RSD file, which contains not just the endpoint URL but also a <code>blogID</code> attribute that you can pass with some XML-RPC requests. This tells Micro.blog which blog to post to when the user has multiple blogs.</p>
+
+<pre><code class="language-xml">&lt;rsd xmlns=&quot;http://archipelago.phrasewise.com/rsd&quot; version=&quot;1.0&quot;&gt;
+  &lt;service&gt;
+    &lt;engineName&gt;Micro.blog&lt;/engineName&gt;
+    &lt;engineLink&gt;https://micro.blog/&lt;/engineLink&gt;
+    &lt;homePageLink&gt;https://micro.blog/&lt;/homePageLink&gt;
+    &lt;apis&gt;
+      &lt;api name=&quot;Micro.blog&quot; blogID=&quot;10&quot; preferred=&quot;true&quot; apiLink=&quot;https://micro.blog/xmlrpc&quot;/&gt;
+      &lt;api name=&quot;MetaWeblog&quot; blogID=&quot;10&quot; preferred=&quot;false&quot; apiLink=&quot;https://micro.blog/xmlrpc&quot;/&gt;
+    &lt;/apis&gt;
+  &lt;/service&gt;
+&lt;/rsd&gt;
+</code></pre>
+
+<h2 id="example-xml">Example XML</h2>
+
+<p>Micro.blog&rsquo;s XML-RPC API uses method names such as <code>microblog.newPost</code> and <code>micoblog.getPost</code>. Here&rsquo;s an example of what a request might look like to download the 20 most recent posts on a blog. The blog ID should be from the RSD step. The last parameter is an offset to start at, so that you can page through the posts with multiple requests.</p>
+
+<pre><code class="language-xml">&lt;?xml version=&quot;1.0&quot;?&gt;
+&lt;methodCall&gt;
+  &lt;methodName&gt;microblog.getPosts&lt;/methodName&gt;
+  &lt;params&gt;
+    &lt;param&gt;
+      &lt;value&gt;&lt;int&gt;blog ID&lt;/int&gt;&lt;/value&gt;
+    &lt;/param&gt;
+    &lt;param&gt;
+      &lt;value&gt;&lt;string&gt;manton&lt;/string&gt;&lt;/value&gt;
+    &lt;/param&gt;
+    &lt;param&gt;
+      &lt;value&gt;&lt;string&gt;mypassword&lt;/string&gt;&lt;/value&gt;
+    &lt;/param&gt;
+    &lt;param&gt;
+      &lt;value&gt;&lt;int&gt;20&lt;/int&gt;&lt;/value&gt;
+    &lt;/param&gt;
+    &lt;param&gt;
+      &lt;value&gt;&lt;int&gt;0&lt;/int&gt;&lt;/value&gt;
+    &lt;/param&gt;
+  &lt;/params&gt;
+&lt;/methodCall&gt;
+</code></pre>
+
+<p>The rest of this help page outlines the method call names and their parameters.</p>
+
+<h2 id="microblog-newpost"><code>microblog.newPost</code></h2>
+
+<ul>
+<li>params:
+
+<ul>
+<li>0: blog ID</li>
+<li>1: username</li>
+<li>2: password</li>
+<li>3: content struct
+
+<ul>
+<li><code>title</code></li>
+<li><code>description</code></li>
+<li><code>date_created</code></li>
+<li><code>categories</code></li>
+<li><code>post_status</code> (&ldquo;draft&rdquo; or &ldquo;published&rdquo;)</li>
+</ul></li>
+</ul></li>
+</ul>
+
+<h2 id="microblog-editpost"><code>microblog.editPost</code></h2>
+
+<ul>
+<li>params:
+
+<ul>
+<li>0: post ID</li>
+<li>1: username</li>
+<li>2: password</li>
+<li>3: content struct
+
+<ul>
+<li><code>title</code></li>
+<li><code>description</code></li>
+<li><code>date_created</code></li>
+<li><code>categories</code></li>
+<li><code>post_status</code> (&ldquo;draft&rdquo; or &ldquo;published&rdquo;)</li>
+</ul></li>
+</ul></li>
+</ul>
+
+<h2 id="microblog-getpost"><code>microblog.getPost</code></h2>
+
+<ul>
+<li>params:
+
+<ul>
+<li>0: post ID</li>
+<li>1: username</li>
+<li>2: password</li>
+</ul></li>
+<li>response fields in struct:
+
+<ul>
+<li><code>id</code></li>
+<li><code>date_created</code></li>
+<li><code>date_modified</code></li>
+<li><code>permalink</code></li>
+<li><code>title</code></li>
+<li><code>description</code></li>
+<li><code>categories</code></li>
+<li><code>post_status</code></li>
+<li><code>author</code>
+
+<ul>
+<li><code>name</code></li>
+<li><code>username</code></li>
+</ul></li>
+</ul></li>
+</ul>
+
+<h2 id="microblog-deletepost"><code>microblog.deletePost</code></h2>
+
+<ul>
+<li>params:
+
+<ul>
+<li>0: post ID</li>
+<li>1: username</li>
+<li>2: password</li>
+</ul></li>
+</ul>
+
+<h2 id="microblog-getcategories"><code>microblog.getCategories</code></h2>
+
+<ul>
+<li>params:
+
+<ul>
+<li>0: blog ID</li>
+<li>1: username</li>
+<li>2: password</li>
+</ul></li>
+<li>response fields in struct:
+
+<ul>
+<li><code>id</code></li>
+<li><code>name</code></li>
+</ul></li>
+</ul>
+
+<h2 id="microblog-newmediaobject"><code>microblog.newMediaObject</code></h2>
+
+<ul>
+<li>identical to <code>metaWeblog.newMediaObject</code></li>
+</ul>
+
+<h2 id="microblog-getposts"><code>microblog.getPosts</code></h2>
+
+<ul>
+<li>similar to <code>metaWeblog.recentPosts</code> but with offset parameter for paging, more consistent field names</li>
+<li>params:
+
+<ul>
+<li>0: blog ID</li>
+<li>1: username</li>
+<li>2: password</li>
+<li>3: number of posts</li>
+<li>4: offset</li>
+</ul></li>
+<li>response fields in struct:
+
+<ul>
+<li><code>id</code></li>
+<li><code>date_created</code></li>
+<li><code>date_modified</code></li>
+<li><code>permalink</code></li>
+<li><code>title</code></li>
+<li><code>description</code></li>
+<li><code>categories</code></li>
+<li><code>post_status</code></li>
+<li><code>author</code>
+
+<ul>
+<li><code>name</code></li>
+<li><code>username</code></li>
+</ul></li>
+</ul></li>
+</ul>
+
+<h2 id="microblog-getpages"><code>microblog.getPages</code></h2>
+
+<ul>
+<li>similar to <code>getPosts</code> but for pages</li>
+<li>response struct also includes extra booleans:
+
+<ul>
+<li>is a page included in the site&rsquo;s navigation bar?</li>
+<li>is a page a &ldquo;template&rdquo; where the description is generated dynamically? (e.g. About, Archive, Photos, and Replies)</li>
+<li>is a page actually redirecting to another URL? (description will be just that URL)</li>
+</ul></li>
+<li>params:
+
+<ul>
+<li>0: blog ID</li>
+<li>1: username</li>
+<li>2: password</li>
+<li>3: number of pages</li>
+<li>4: offset</li>
+</ul></li>
+<li>response fields in struct:
+
+<ul>
+<li><code>id</code></li>
+<li><code>date_created</code></li>
+<li><code>date_modified</code></li>
+<li><code>permalink</code></li>
+<li><code>title</code></li>
+<li><code>description</code></li>
+<li><code>is_navigation</code></li>
+<li><code>is_template</code></li>
+<li><code>is_redirect</code></li>
+<li><code>author</code>
+
+<ul>
+<li><code>name</code></li>
+<li><code>username</code></li>
+</ul></li>
+</ul></li>
+</ul>
+
+<h2 id="microblog-newpage"><code>microblog.newPage</code></h2>
+
+<ul>
+<li>params:
+
+<ul>
+<li>0: blog ID</li>
+<li>1: username</li>
+<li>2: password</li>
+<li>3: content struct
+
+<ul>
+<li><code>title</code></li>
+<li><code>description</code></li>
+<li><code>date_created</code></li>
+<li><code>is_navigation</code></li>
+</ul></li>
+</ul></li>
+</ul>
+
+<h2 id="microblog-getpage"><code>microblog.getPage</code></h2>
+
+<ul>
+<li>params:
+
+<ul>
+<li>0: page ID</li>
+<li>1: username</li>
+<li>2: password</li>
+</ul></li>
+<li>response fields in struct:
+
+<ul>
+<li><code>id</code></li>
+<li><code>date_created</code></li>
+<li><code>date_modified</code></li>
+<li><code>permalink</code></li>
+<li><code>title</code></li>
+<li><code>description</code></li>
+<li><code>is_navigation</code></li>
+<li><code>is_template</code></li>
+<li><code>is_redirect</code></li>
+<li><code>author</code>
+
+<ul>
+<li><code>name</code></li>
+<li><code>username</code></li>
+</ul></li>
+</ul></li>
+</ul>
+
+<h2 id="microblog-editpage"><code>microblog.editPage</code></h2>
+
+<ul>
+<li>params:
+
+<ul>
+<li>0: page ID</li>
+<li>1: username</li>
+<li>2: password</li>
+<li>3: content struct
+
+<ul>
+<li><code>title</code></li>
+<li><code>description</code></li>
+<li><code>date_created</code></li>
+<li><code>is_navigation</code></li>
+</ul></li>
+</ul></li>
+</ul>
+
+<h2 id="microblog-deletepage"><code>microblog.deletePage</code></h2>
+
+<ul>
+<li>params:
+
+<ul>
+<li>0: page ID</li>
+<li>1: username</li>
+<li>2: password</li>
+</ul></li>
+</ul>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+			<h1><a href="https://manton-test.micro.blog/2020/04/17/overview-of-xmlrpc.html">Overview of XML-RPC API</a></h1>
+		
+
+        <a href="https://manton-test.micro.blog/2020/04/17/overview-of-xmlrpc.html" class="u-url"><time class="dt-published" datetime="2020-04-17 19:00:00 -0500">Apr 17, 2020</time></a>
+
+        <div class="e-content">
+         	<p><strong>The XML-RPC support</strong> (MetaWeblog API and Micro.blog XML-RPC API) allows you to post to a Micro.blog-hosted microblog and from the iOS app to WordPress, Movable Type, and other compatible blogging platforms:</p>
+
+<ul>
+<li>For posting from a third-party client like MarsEdit on your Mac to Micro.blog-hosted microblogs, generate an app token under Account → &ldquo;App tokens&rdquo;. When prompted for a username in your third-party client, enter your Micro.blog username and the app token for the password.</li>
+<li>For posting from the Micro.blog iOS app to WordPress and compatible weblogs, Micro.blog will look for your XML-RPC endpoint and prompt for your blog&rsquo;s username and password.</li>
+</ul>
+
+<p>On the server, Micro.blog responds to the following XML-RPC methods:</p>
+
+<ul>
+<li><code>metaWeblog.newPost</code></li>
+<li><code>metaWeblog.editPost</code></li>
+<li><code>metaWeblog.deletePost</code></li>
+<li><code>metaWeblog.getPost</code></li>
+<li><code>metaWeblog.getRecentPosts</code></li>
+<li><code>metaWeblog.newMediaObject</code></li>
+</ul>
+
+<p>And Micro.blog-specific updates to the MetaWeblog API, which are documented in full <a href="/2020/xmlrpc-microblog/">on this page</a>:</p>
+
+<ul>
+<li><code>microblog.newPost</code></li>
+<li><code>microblog.editPost</code></li>
+<li><code>microblog.getPost</code></li>
+<li><code>microblog.deletePost</code></li>
+<li><code>microblog.getCategories</code></li>
+<li><code>microblog.newMediaObject</code></li>
+<li><code>microblog.getPosts</code></li>
+<li><code>microblog.getPages</code></li>
+<li><code>microblog.newPage</code></li>
+<li><code>microblog.editPage</code></li>
+<li><code>microblog.deletePage</code></li>
+</ul>
+
+<p>From the iOS client, Micro.blog calls the following XML-RPC methods:</p>
+
+<ul>
+<li><code>blogger.getUserInfo</code></li>
+<li><code>blogger.newPost</code></li>
+<li><code>wp.newPost</code></li>
+<li><code>wp.getTerms</code></li>
+<li><code>metaWeblog.newMediaObject</code></li>
+</ul>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/03/30/223155.html" class="u-url"><time class="dt-published" datetime="2020-03-30 22:31:55 -0500">Mar 30, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing. 123.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/03/30/testing.html" class="u-url"><time class="dt-published" datetime="2020-03-30 06:52:44 -0500">Mar 30, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing.</p>
+
+<p><a href="https://manton-test.micro.blog/uploads/2020/60053acf51.jpg"><img src="uploads/2020/60053acf51.jpg" width="450" height="600" alt="" style="display: inline-block; max-height: 200px; width: auto; padding: 1px;" class="sunlit_image" /></a><a href="https://manton-test.micro.blog/uploads/2020/e61db54304.jpg"><img src="uploads/2020/e61db54304.jpg" width="450" height="600" alt="" style="display: inline-block; max-height: 200px; width: auto; padding: 1px;" class="sunlit_image" /></a></p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+			<h1><a href="https://manton-test.micro.blog/2020/03/26/testing-a-ne.html">title</a></h1>
+		
+
+        <a href="https://manton-test.micro.blog/2020/03/26/testing-a-ne.html" class="u-url"><time class="dt-published" datetime="2020-03-26 10:05:00 -0500">Mar 26, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Math test.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+			<h1><a href="https://manton-test.micro.blog/2020/03/26/hi.html">Hi</a></h1>
+		
+
+        <a href="https://manton-test.micro.blog/2020/03/26/hi.html" class="u-url"><time class="dt-published" datetime="2020-03-26 09:55:38 -0500">Mar 26, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Hello. Hi. Another test.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/03/22/testing.html" class="u-url"><time class="dt-published" datetime="2020-03-22 16:55:30 -0500">Mar 22, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing. Testing.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/03/21/seeing-this-made.html" class="u-url"><time class="dt-published" datetime="2020-03-21 18:28:57 -0500">Mar 21, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Seeing this made me smile while out walking in the neighborhood this week. These kids have the right idea.</p>
+
+<p>Test.</p>
+
+<p><img src="uploads/2020/d30575b49f.jpg" width="600" height="600" alt="" /></p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+			<h1><a href="https://manton-test.micro.blog/2020/03/20/testing.html">Testing</a></h1>
+		
+
+        <a href="https://manton-test.micro.blog/2020/03/20/testing.html" class="u-url"><time class="dt-published" datetime="2020-03-20 23:39:48 -0500">Mar 20, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Test.</p>
+
+<p><audio controls="controls" src="https://manton-test.micro.blog/uploads/2020/78fdf573cb.mp3" preload="metadata" /></p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/03/17/150846.html" class="u-url"><time class="dt-published" datetime="2020-03-17 15:08:46 -0500">Mar 17, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing 2.</p>
+
+<p><a href="https://nymag.com/intelligencer/2020/03/andrew-sullivan-reality-arrives-to-the-trump-era.html">nymag.com/intellige&hellip;</a></p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/03/17/150820.html" class="u-url"><time class="dt-published" datetime="2020-03-17 15:08:20 -0500">Mar 17, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing.</p>
+
+<p><a href="https://nymag.com/intelligencer/2020/03/andrew-sullivan-reality-arrives-to-the-trump-era.html?utm_campaign=nym&amp;utm_source=tw&amp;utm_medium=s1">https://nymag.com/intelligencer/2020/03/andrew-sullivan-reality-arrives-to-the-trump-era.html?utm_campaign=nym&amp;utm_source=tw&amp;utm_medium=s1</a></p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+			<h1><a href="https://manton-test.micro.blog/2020/03/15/test-episode.html">Test Episode</a></h1>
+		
+
+        <a href="https://manton-test.micro.blog/2020/03/15/test-episode.html" class="u-url"><time class="dt-published" datetime="2020-03-15 11:36:22 -0500">Mar 15, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing podcast. Testing podcast. Testing podcast. Testing podcast. Testing podcast. Testing podcast. Testing podcast. Testing podcast. Testing podcast. Testing podcast. Testing podcast. Testing podcast. Testing podcast. Testing podcast. Testing podcast. Testing podcast. Testing podcast. Testing podcast.</p>
+
+<p><audio controls="controls" src="https://manton-test.micro.blog/uploads/2020/a82bed4e47.mp3" preload="metadata" /></p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+			<h1><a href="https://manton-test.micro.blog/2020/03/14/test-tweet.html">Test tweet</a></h1>
+		
+
+        <a href="https://manton-test.micro.blog/2020/03/14/test-tweet.html" class="u-url"><time class="dt-published" datetime="2020-03-14 16:26:41 -0500">Mar 14, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing. Testing. Testing. Testing. Testing. Testing. Testing. Testing. Testing. Testing. Testing. Testing. Testing. Testing. Testing. Testing. Testing. Testing. Testing. Testing. Testing. Testing. Testing. Testing. Testing. Testing. Testing. Testing.</p>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Remember how there were (supposedly) so many pregnancies that happened during the New York Blackout?<br><br>I hope we get that but for really good new podcasts.<br><br>Go! Inseminate! <br><br>Amuse me, you magnificent bastards!</p>&mdash; Merlin Mann (@hotdogsladies) <a href="https://twitter.com/hotdogsladies/status/1238925151489495042?ref_src=twsrc%5Etfw">March 14, 2020</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<p>Testing.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/03/09/121244.html" class="u-url"><time class="dt-published" datetime="2020-03-09 12:12:44 -0500">Mar 9, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing.</p>
+
+<p><img src="uploads/2020/eb71539ae3.jpg" width="600" height="600" alt="" /></p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/03/09/testing.html" class="u-url"><time class="dt-published" datetime="2020-03-09 11:46:15 -0500">Mar 9, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing.</p>
+
+<p><img src="uploads/2020/d3e84496c1.jpg" width="450" height="600" alt="" /></p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/03/07/twenty.html" class="u-url"><time class="dt-published" datetime="2020-03-07 14:02:02 -0500">Mar 7, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Twenty.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/03/07/130135.html" class="u-url"><time class="dt-published" datetime="2020-03-07 14:01:35 -0500">Mar 7, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Test 7.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/03/07/130133.html" class="u-url"><time class="dt-published" datetime="2020-03-07 14:01:33 -0500">Mar 7, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Test 6.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/03/07/130130.html" class="u-url"><time class="dt-published" datetime="2020-03-07 14:01:30 -0500">Mar 7, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Test 5</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/03/07/130128.html" class="u-url"><time class="dt-published" datetime="2020-03-07 14:01:28 -0500">Mar 7, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Test 4</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/03/07/130125.html" class="u-url"><time class="dt-published" datetime="2020-03-07 14:01:00 -0500">Mar 7, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Test 3.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/03/07/130138.html" class="u-url"><time class="dt-published" datetime="2020-03-07 14:01:00 -0500">Mar 7, 2020</time></a>
+
+        <div class="e-content">
+         	<p>8.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/03/07/130141.html" class="u-url"><time class="dt-published" datetime="2020-03-07 14:01:00 -0500">Mar 7, 2020</time></a>
+
+        <div class="e-content">
+         	<p>9.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/03/07/130143.html" class="u-url"><time class="dt-published" datetime="2020-03-07 14:01:00 -0500">Mar 7, 2020</time></a>
+
+        <div class="e-content">
+         	<p>10</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/03/07/130144.html" class="u-url"><time class="dt-published" datetime="2020-03-07 14:01:00 -0500">Mar 7, 2020</time></a>
+
+        <div class="e-content">
+         	<p>11</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/03/07/130146.html" class="u-url"><time class="dt-published" datetime="2020-03-07 14:01:00 -0500">Mar 7, 2020</time></a>
+
+        <div class="e-content">
+         	<p>12.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/03/07/130147.html" class="u-url"><time class="dt-published" datetime="2020-03-07 14:01:00 -0500">Mar 7, 2020</time></a>
+
+        <div class="e-content">
+         	<p>13.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/03/07/130149.html" class="u-url"><time class="dt-published" datetime="2020-03-07 14:01:00 -0500">Mar 7, 2020</time></a>
+
+        <div class="e-content">
+         	<p>14.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/03/07/130150.html" class="u-url"><time class="dt-published" datetime="2020-03-07 14:01:00 -0500">Mar 7, 2020</time></a>
+
+        <div class="e-content">
+         	<p>15.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/03/07/130152.html" class="u-url"><time class="dt-published" datetime="2020-03-07 14:01:00 -0500">Mar 7, 2020</time></a>
+
+        <div class="e-content">
+         	<p>16.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/03/07/130153.html" class="u-url"><time class="dt-published" datetime="2020-03-07 14:01:00 -0500">Mar 7, 2020</time></a>
+
+        <div class="e-content">
+         	<p>17.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/03/07/130155.html" class="u-url"><time class="dt-published" datetime="2020-03-07 14:01:00 -0500">Mar 7, 2020</time></a>
+
+        <div class="e-content">
+         	<p>18.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/03/07/130157.html" class="u-url"><time class="dt-published" datetime="2020-03-07 14:01:00 -0500">Mar 7, 2020</time></a>
+
+        <div class="e-content">
+         	<p>19.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/03/07/test.html" class="u-url"><time class="dt-published" datetime="2020-03-07 13:55:16 -0500">Mar 7, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Test 2.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/03/07/testing.html" class="u-url"><time class="dt-published" datetime="2020-03-07 13:50:00 -0500">Mar 7, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+			<h1><a href="https://manton-test.micro.blog/2020/02/25/testing-script.html">Testing script</a></h1>
+		
+
+        <a href="https://manton-test.micro.blog/2020/02/25/testing-script.html" class="u-url"><time class="dt-published" datetime="2020-02-25 09:19:00 -0500">Feb 25, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing.</p>
+
+<p>Behind the scenes, this checkbox is adding a new Hugo parameter <code>.Params.include_conversation</code> that can be used in a custom theme. All the built-in Micro.blog designs have been updated to check for this parameter and then add the following line of JavaScript:</p>
+
+<pre>
+&lt;script type="text/javascript" src="https://micro.blog/conversation.js?url=&#123;&#123; .Permalink }}"&gt;&lt;/script&gt;
+</pre>
+
+<p>That&rsquo;s it.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2020/02/14/testing.html" class="u-url"><time class="dt-published" datetime="2020-02-14 12:36:00 -0500">Feb 14, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Testing. ☕</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+			<h1><a href="https://manton-test.micro.blog/2020/01/01/test.html">Test</a></h1>
+		
+
+        <a href="https://manton-test.micro.blog/2020/01/01/test.html" class="u-url"><time class="dt-published" datetime="2020-01-01 00:00:00 -0500">Jan 1, 2020</time></a>
+
+        <div class="e-content">
+         	<p>Test date.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2019/11/05/i-didnt-realize.html" class="u-url"><time class="dt-published" datetime="2019-11-05 09:58:16 -0500">Nov 5, 2019</time></a>
+
+        <div class="e-content">
+         	<p>I didn&rsquo;t realize until I just got a mention that push notifications work in Icro for Mac! I should probably know that considering that Micro.blog is the one sending notifications for third-party developers. Nice surprise to see it in action.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2019/11/04/microblog-for-ios.html" class="u-url"><time class="dt-published" datetime="2019-11-04 23:49:32 -0500">Nov 4, 2019</time></a>
+
+        <div class="e-content">
+         	<p>Micro.blog 1.7.2 for iOS is now available in the App Store. Just a few more bug fixes and minor improvements.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2019/11/04/indieweb-meetup-this.html" class="u-url"><time class="dt-published" datetime="2019-11-04 23:49:19 -0500">Nov 4, 2019</time></a>
+
+        <div class="e-content">
+         	<p>IndieWeb Meetup this week in Austin! Wednesday at Mozart&rsquo;s Coffee, 6:30pm. Stop by to chat about the open web and the upcoming IndieWebCamp. ☕</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2019/09/28/still-hearing-about.html" class="u-url"><time class="dt-published" datetime="2019-09-28 23:54:19 -0500">Sep 28, 2019</time></a>
+
+        <div class="e-content">
+         	<p>Still hearing about games in Apple Arcade that I hadn&rsquo;t seen with random browsing. Recommended from the Studio Neat newsletter: Card of Darkness. Nice change of pace and hand-drawn art. 🕹</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2019/09/17/fabled-books-in.html" class="u-url"><time class="dt-published" datetime="2019-09-17 12:10:00 -0500">Sep 17, 2019</time></a>
+
+        <div class="e-content">
+         	<p>Fabled Books in Waco.</p>
+
+<p><img src="uploads/2019/b6259a8e41.jpg" width="600" height="600" alt="" class="u-photo" /></p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2019/09/04/welcome-to-your.html" class="u-url"><time class="dt-published" datetime="2019-09-04 09:49:00 -0500">Sep 4, 2019</time></a>
+
+        <div class="e-content">
+         	<p>Welcome to your test blog! You can create new posts here to test theme and design changes.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2018/05/03/testing-multiple.html" class="u-url"><time class="dt-published" datetime="2018-05-03 09:16:13 -0500">May 3, 2018</time></a>
+
+        <div class="e-content">
+         	<p>Testing multiple</p>
+
+<p><img src="uploads/2020/8d18977b26.jpg" width="600" height="600" alt="" /></p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://manton-test.micro.blog/2019/11/29/testing-friday.html" class="u-url"><time class="dt-published" datetime="2000-11-29 10:05:00 -0500">Nov 29, 2000</time></a>
+
+        <div class="e-content">
+         	<p>Baby Yoda.</p>
+
+<p><img src="uploads/2019/1f0b393707.jpg" width="599" height="600" alt="" /></p>
+
+        </div>
+      </div>
+    
+
+</div>
+
+
+    
+    
+
+  </body>
+
+</html>
